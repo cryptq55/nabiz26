@@ -4,7 +4,12 @@ Görseller sitede yayınlandıktan sonra çalışır: nabiz26.com/social/feed.js
 paylaşılmamış haberler story olarak, fotoğraflı olanların en yenisi de gönderi olarak paylaşılır.
 Paylaşılanlar data/instagram.json dosyasında tutulur.
 
-Ortam değişkenleri: IG_USER_ID, IG_ACCESS_TOKEN (Meta), isteğe bağlı GRAPH_VERSION.
+Yöntem: "Instagram girişi ile Instagram API" (graph.instagram.com). Facebook sayfası, işletme
+portföyü veya sistem kullanıcısı gerekmez; token doğrudan @nabiz26haber'den alınır ve 60 gün geçerlidir.
+`python instagram.py --refresh` token'ı yeniler (ig-token.yml iş akışı haftada bir çalıştırır).
+
+Ortam değişkenleri: IG_ACCESS_TOKEN (zorunlu), IG_USER_ID (isteğe bağlı; yoksa token'dan bulunur),
+isteğe bağlı GRAPH_VERSION. Eski Facebook-girişli token kullanılacaksa IG_API=facebook.
 """
 
 import json
@@ -17,7 +22,8 @@ from pathlib import Path
 
 SITE = "https://nabiz26.com"
 STATE = Path(__file__).parent / "data" / "instagram.json"
-GRAPH = f"https://graph.facebook.com/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
+HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
+GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_STORIES = 4   # tur başına
 MAX_POSTS = 1     # tur başına; akışı boğmamak için
 
@@ -47,11 +53,26 @@ def publish(user, **media):
     return call("POST", f"{user}/media_publish", creation_id=container)["id"]
 
 
+def refresh():
+    """60 günlük token'ı yeniler ve yeni token'ı yalnızca stdout'a yazar (iş akışı onu gizli değişkene kaydeder).
+    Token en az 24 saatlik ve süresi dolmamış olmalı."""
+    q = urllib.parse.urlencode({"grant_type": "ig_refresh_token",
+                                "access_token": os.environ["IG_ACCESS_TOKEN"]})
+    try:
+        with urllib.request.urlopen(f"https://graph.instagram.com/refresh_access_token?{q}", timeout=30) as r:
+            data = json.load(r)
+    except urllib.error.HTTPError as e:
+        sys.exit(f"Token yenilenemedi: {e.read().decode()[:300]}")
+    print(f"Token yenilendi, {data['expires_in'] // 86400} gün geçerli.", file=sys.stderr)
+    print(data["access_token"])
+
+
 def main():
-    user, token = os.environ.get("IG_USER_ID"), os.environ.get("IG_ACCESS_TOKEN")
-    if not user or not token:
-        print("Instagram bilgileri (IG_USER_ID, IG_ACCESS_TOKEN) tanımlı değil; paylaşım atlandı.")
+    token = os.environ.get("IG_ACCESS_TOKEN")
+    if not token:
+        print("Instagram token'ı (IG_ACCESS_TOKEN) tanımlı değil; paylaşım atlandı.")
         return
+    user = os.environ.get("IG_USER_ID") or call("GET", "me", fields="user_id")["user_id"]
     state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"stories": [], "posts": []}
     with urllib.request.urlopen(f"{SITE}/social/feed.json?t={int(time.time())}", timeout=30) as r:
         feed = json.load(r)
@@ -82,4 +103,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    refresh() if "--refresh" in sys.argv else main()

@@ -11,7 +11,8 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   `pip install -r requirements.txt && SITE_URL=https://nabiz26.com LINK_EXT= python build.py`, ayar `wrangler.jsonc`.
   Alan adları nabiz26.com ve www.nabiz26.com bağlı.
 - **GitHub Actions** (`.github/workflows/haber.yml`): yeni haberde IndexNow (Bing/Yandex) bildirimi ve
-  Instagram paylaşımı (`instagram.py`; `IG_USER_ID` ve `IG_ACCESS_TOKEN` gizli değişkenleri yoksa atlar).
+  Instagram paylaşımı (`instagram.py`; `IG_ACCESS_TOKEN` gizli değişkeni yoksa atlar).
+  `ig-token.yml` haftada bir 60 günlük Instagram token'ını yeniler (`GH_SECRETS_TOKEN` gerekir).
 - **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
@@ -30,11 +31,14 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 
 ## Açık işler (sırayla)
 1. E-posta yönlendirme testi: başka bir adresten iletisim@nabiz26.com'a posta gönderilip Gmail'e düştüğü görülecek.
-2. Instagram otomatik paylaşım: Facebook sayfası "Nabız 26" → @nabiz26haber'e bağlama → Meta işletme
-   portföyü → geliştirici uygulaması "Nabız 26 Paylaşım" (Instagram ürünü) → sistem kullanıcısı "nabiz26-bot",
-   süresiz token (instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement,
-   business_management) → Graph API Explorer ile `me/accounts?fields=instagram_business_account{id,username}`
-   → GitHub Secrets: `IG_ACCESS_TOKEN`, `IG_USER_ID` → Actions'ta "Bildir ve paylaş" iş akışını elle çalıştır.
+2. Instagram otomatik paylaşım ("Instagram girişi ile Instagram API" yöntemi; sahibinin kişisel Facebook
+   hesabında reklam/portföy kısıtlaması olduğu için Facebook sayfası + portföy + sistem kullanıcısı yolu bırakıldı).
+   Yapıldı: geliştirici uygulaması "Nabız 26 Paylaşım" (uygulama ID 1055728357426949), izinler
+   instagram_business_basic + instagram_business_content_publish, @nabiz26haber Instagram Tester olarak davet edildi.
+   Kalan (Instagram hesabındaki kısıtlama kalkınca): instagram.com/accounts/manage_access/ → Tester davetini kabul
+   → uygulamada "API setup with Instagram login" → Add account → Generate token → GitHub Secrets `IG_ACCESS_TOKEN`
+   → yenileme için fine-grained PAT (yalnızca bu depo, Secrets read/write) → `GH_SECRETS_TOKEN`
+   → Actions'ta "Bildir ve paylaş" iş akışını elle çalıştır.
 3. Künye (`templates/kunye.html`): firma unvanı, sorumlu yazı işleri müdürü, yönetim yeri adresi eksik.
 4. Google Haberler Yayıncı Merkezi başvurusu (künye dolduktan ve birkaç gün haber biriktikten sonra).
 5. Valilik (bağlantı reddediyor) ve Anadolu Üniversitesi (haber bağlantısı bulunamıyor) kaynakları düzeltilecek.
