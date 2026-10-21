@@ -50,6 +50,8 @@ jobs:
               a = json.loads(f.read_text(encoding="utf-8"))
               print(f"### {a['title']}\n")
               print(f"**{a['category']} · {a['district']}** · Kaynak: [{a['source']['title']}]({a['source']['url']})\n")
+              if a.get("image"):
+                  print(f"![fotoğraf]({a['image']['url']})\n\n*Fotoğraf: {a['image']['credit']}*\n")
               print(f"> {a['spot']}\n")
               print(a["body"] + "\n\n---\n")
           PY

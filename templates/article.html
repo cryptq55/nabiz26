@@ -5,6 +5,7 @@
 <meta property="og:title" content="{{ a.title }}">
 <meta property="og:description" content="{{ a.spot }}">
 <meta property="og:type" content="article">
+{% if a.image %}<meta property="og:image" content="{{ a.image.url }}"><meta name="twitter:card" content="summary_large_image">{% endif %}
 <meta property="og:site_name" content="{{ site.name }}">
 {% if site.url %}<link rel="canonical" href="{{ site.url }}/haber/{{ a.slug }}.html">{% endif %}
 <script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a.title, "description": a.spot, "datePublished": a.published_at, "articleSection": a.category, "contentLocation": {"@type": "Place", "name": a.district ~ ", Eskişehir"}, "publisher": {"@type": "NewsMediaOrganization", "name": site.name}}|tojson }}</script>
@@ -23,7 +24,12 @@
       <button data-copy aria-label="Bağlantıyı kopyala">Kopyala</button>
     </div>
   </div>
-  {{ cover(a, "xl") }}
+  {% if a.image %}
+  <figure class="story-photo">
+    {{ cover(a, "xl") }}
+    <figcaption>Fotoğraf: {{ a.image.credit }}</figcaption>
+  </figure>
+  {% else %}{{ cover(a, "xl") }}{% endif %}
   <div class="prose">
     {% for p in a.paragraphs %}<p>{{ p }}</p>{% endfor %}
   </div>

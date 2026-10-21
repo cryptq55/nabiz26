@@ -10,6 +10,25 @@ feeds:
     url: https://news.google.com/rss/search?q=Tepeba%C5%9F%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
   - name: Google Haberler - Eskişehirspor
     url: https://news.google.com/rss/search?q=Eski%C5%9Fehirspor+when:1d&hl=tr&gl=TR&ceid=TR:tr
-  # Buraya resmi kurumların (valilik, belediyeler, üniversiteler) RSS adreslerini ekleyin:
-  # - name: Örnek Kurum Duyuruları
-  #   url: https://ornek.gov.tr/rss
+
+# RSS'i olmayan resmî kurum siteleri: ajan sayfadaki haber bağlantılarını bulup okur.
+# Bu kaynakların fotoğrafları (basın kullanımına açık) haberle birlikte, kaynak belirtilerek kullanılır.
+#   url:           haberlerin listelendiği sayfa (ana sayfa da olur)
+#   link_contains: haber bağlantılarının adresinde geçen ifade (varsayılan "haber")
+#   limit:         sayfadan en fazla kaç bağlantı alınsın (varsayılan 10)
+# Adresler deneme çalıştırmasında kontrol edilmeli; çalışmayan kaynak sadece uyarı verir.
+pages:
+  - name: Eskişehir Valiliği
+    url: https://www.eskisehir.gov.tr/
+  - name: Eskişehir Büyükşehir Belediyesi
+    url: https://www.eskisehir.bel.tr/
+  - name: Odunpazarı Belediyesi
+    url: https://www.odunpazari.bel.tr/
+  - name: Tepebaşı Belediyesi
+    url: https://www.tepebasi.bel.tr/
+  - name: Anadolu Üniversitesi
+    url: https://www.anadolu.edu.tr/
+  - name: Eskişehir Osmangazi Üniversitesi
+    url: https://www.ogu.edu.tr/
+  - name: Eskişehir Teknik Üniversitesi
+    url: https://www.eskisehir.edu.tr/

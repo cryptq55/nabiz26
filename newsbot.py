@@ -13,6 +13,8 @@ import os
 import re
 import sys
 import time
+from html.parser import HTMLParser
+from urllib.parse import urljoin, urlparse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -129,6 +131,13 @@ def collect_candidates(seen):
                 "link": entry.get("link", ""),
                 "summary": re.sub(r"<[^>]+>", " ", entry.get("summary", "")).strip(),
             })
+    for page in config.get("pages", []):
+        for link, title in scan_page(page):
+            key = hashlib.sha1(link.encode("utf-8")).hexdigest()[:16]
+            if key in seen:
+                continue
+            candidates.append({"key": key, "source_name": page["name"], "title": title,
+                               "link": link, "summary": "", "photos": page.get("photos", False)})
     # Aynı başlık farklı akışlardan gelebilir
     unique, titles = [], set()
     for c in candidates:
@@ -136,17 +145,77 @@ def collect_candidates(seen):
         if norm and norm not in titles:
             titles.add(norm)
             unique.append(c)
+    # Resmî kurum kaynakları önce işlensin (güvenilir bilgi + kullanılabilir fotoğraf)
+    unique.sort(key=lambda c: 0 if urlparse(c["link"]).netloc.lower().endswith(OFFICIAL_SUFFIXES) else 1)
     return unique
 
 
-def fetch_full_text(url):
+class _LinkParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.links, self._href, self._text = [], None, []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            self._href, self._text = dict(attrs).get("href"), []
+
+    def handle_data(self, data):
+        if self._href:
+            self._text.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self._href:
+            self.links.append((self._href, " ".join("".join(self._text).split())))
+            self._href = None
+
+
+def scan_page(page):
+    """RSS'i olmayan kurum sitelerinde haber listesi sayfasındaki haber bağlantılarını bulur."""
+    try:
+        html = trafilatura.fetch_url(page["url"])
+    except Exception as e:
+        html = None
+        log(f"[uyarı] {page['name']} okunamadı: {e}")
+    if not html:
+        log(f"[uyarı] {page['name']} sayfası açılamadı: {page['url']}")
+        return []
+    parser = _LinkParser()
+    parser.feed(html)
+    host = urlparse(page["url"]).netloc
+    needle = page.get("link_contains", "haber")
+    found, urls = [], set()
+    for href, text in parser.links:
+        url = urljoin(page["url"], href or "").split("#")[0]
+        u = urlparse(url)
+        # Aynı sitedeki, adresinde "haber" geçen ve başlık gibi görünen bağlantılar
+        if u.netloc != host or needle not in u.path.lower() or len(text) < 25 or url in urls:
+            continue
+        urls.add(url)
+        found.append((url, text))
+    if not found:
+        log(f"[uyarı] {page['name']} sayfasında haber bağlantısı bulunamadı")
+    return found[: page.get("limit", 10)]
+
+
+# Fotoğrafları basın kullanımına açık resmî kurum alan adları
+OFFICIAL_SUFFIXES = (".gov.tr", ".bel.tr", ".edu.tr", ".pol.tr", ".tsk.tr", ".k12.tr")
+
+
+def fetch_source(url, photos_allowed=False):
+    """Kaynak sayfanın metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
+    text, image = "", None
     try:
         downloaded = trafilatura.fetch_url(url)
         if downloaded:
-            return trafilatura.extract(downloaded, include_comments=False) or ""
+            text = trafilatura.extract(downloaded, include_comments=False) or ""
+            host = urlparse(url).netloc.lower()
+            if photos_allowed or host.endswith(OFFICIAL_SUFFIXES):
+                meta = trafilatura.extract_metadata(downloaded, default_url=url)
+                if meta and meta.image and meta.image.startswith("http"):
+                    image = meta.image
     except Exception as e:
-        print(f"[uyarı] metin alınamadı {url}: {e}", file=sys.stderr)
-    return ""
+        log(f"[uyarı] metin alınamadı {url}: {e}")
+    return text, image
 
 
 def recent_titles(limit=60):
@@ -185,7 +254,7 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text).strip("-")[:70]
 
 
-def save_article(article, candidate):
+def save_article(article, candidate, image=None):
     now = datetime.now(timezone.utc)
     slug = f"{now:%Y%m%d%H%M}-{slugify(article['title'])}"
     record = {
@@ -200,6 +269,8 @@ def save_article(article, candidate):
         "status": "published" if PUBLISH_MODE == "auto" else "draft",
         "source": {"name": candidate["source_name"], "title": candidate["title"], "url": candidate["link"]},
     }
+    if image:
+        record["image"] = {"url": image, "credit": candidate["source_name"]}
     (ARTICLES_DIR / f"{slug}.json").write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return record
 
@@ -229,7 +300,7 @@ def main():
         if calls >= args.max:
             break
         seen[c["key"]] = time.time()
-        source_text = fetch_full_text(c["link"]) if c["link"] else ""
+        source_text, image = fetch_source(c["link"], c.get("photos", False)) if c["link"] else ("", None)
         if len(source_text) < 200:
             source_text = c["summary"]
         if len(source_text) < 80:
@@ -260,9 +331,9 @@ def main():
         if not article["publish"]:
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
             continue
-        record = save_article(article, c)
+        record = save_article(article, c, image)
         written += 1
-        log(f"[yazıldı] {record['title']} ({record['category']}/{record['district']})")
+        log(f"[yazıldı] {record['title']} ({record['category']}/{record['district']}){' 📷' if image else ''}")
 
     save_seen(seen)
     log(f"Bu turda {written} haber yazıldı.")
