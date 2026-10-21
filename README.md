@@ -28,10 +28,19 @@ Depoda **Settings → Secrets and variables → Actions → New repository secre
 | `CLOUDFLARE_API_TOKEN` | Cloudflare API token |
 | `CLOUDFLARE_ACCOUNT_ID` | Cloudflare hesap kimliği |
 
-### 4. Başlat
-**Actions → Haber ajanı → Run workflow.** Sonrası saatte bir kendiliğinden çalışır.
+### 4. Önce deneyin (yayınsız)
+Deneme için sadece `ANTHROPIC_API_KEY` yeterli. Cloudflare gerekmez.
 
-### 5. Alan adı
+**Actions → Deneme (yayınsız) → Run workflow.** Kaç kaynak işleneceğini ve modeli seçebilirsiniz.
+
+- Çalışma bitince sayfasında, ajanın her kaynak için verdiği kararlar ve yazdığı haberlerin tam metni görünür.
+- Aynı sayfanın altından **site-onizleme** dosyasını indirip `index.html`'i açarak siteyi kendi bilgisayarınızda görebilirsiniz.
+- Hiçbir şey yayınlanmaz ve depoya kaydedilmez.
+
+### 5. Yayına alın
+Denemelerden memnun kalınca **Settings → Secrets and variables → Actions → Variables** altına `YAYIN_AKTIF` = `true` ekleyin. Ajan saatte bir çalışmaya ve siteyi güncellemeye başlar. Durdurmak için değeri `false` yapın.
+
+### 6. Alan adı
 Cloudflare'de **Pages → nabiz26 → Custom domains** bölümünden `nabiz26.com` adresini bağlayın. Alan adını Cloudflare'den alırsanız ayar otomatik yapılır.
 
 İsteğe bağlı ayarlar (**Settings → Secrets and variables → Actions → Variables**):

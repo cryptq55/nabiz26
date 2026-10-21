@@ -1,0 +1,66 @@
+name: Deneme (yayınsız)
+
+# Ajanı gerçek kaynaklarla çalıştırır ama hiçbir şey yayınlamaz ve depoya kaydetmez.
+# Sonuç: çalışma sayfasında haber raporu + indirilebilir site önizlemesi (site-onizleme.zip).
+on:
+  workflow_dispatch:
+    inputs:
+      adet:
+        description: "Modele en fazla kaç kaynak gönderilsin"
+        default: "5"
+      model:
+        description: "Model"
+        type: choice
+        default: claude-opus-5-5
+        options: [claude-opus-5-5, claude-sonnet-5-5, claude-haiku-5-5]
+
+permissions:
+  contents: read
+
+jobs:
+  deneme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Ajanı çalıştır
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_MODEL: ${{ inputs.model }}
+          NEWS_DATA_DIR: ${{ runner.temp }}/deneme
+        run: |
+          echo "## Ajan kayıtları" >> "$GITHUB_STEP_SUMMARY"
+          python newsbot.py --max "${{ inputs.adet }}"
+
+      - name: Yazılan haberleri rapora ekle
+        env:
+          DIR: ${{ runner.temp }}/deneme/articles
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, os, pathlib
+          files = sorted(pathlib.Path(os.environ["DIR"]).glob("*.json"))
+          print(f"\n## Yazılan haberler ({len(files)})\n")
+          for f in files:
+              a = json.loads(f.read_text(encoding="utf-8"))
+              print(f"### {a['title']}\n")
+              print(f"**{a['category']} · {a['district']}** · Kaynak: [{a['source']['title']}]({a['source']['url']})\n")
+              print(f"> {a['spot']}\n")
+              print(a["body"] + "\n\n---\n")
+          PY
+
+      - name: Site önizlemesini üret
+        env:
+          DATA_DIR: ${{ runner.temp }}/deneme/articles
+        run: python build.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-onizleme
+          path: public
+          retention-days: 7

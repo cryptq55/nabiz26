@@ -17,6 +17,9 @@ concurrency:
 
 jobs:
   run:
+    # Yayına alınana kadar otomatik çalışmaz. Yayına almak için:
+    # Settings → Secrets and variables → Actions → Variables → YAYIN_AKTIF = true
+    if: vars.YAYIN_AKTIF == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

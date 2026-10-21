@@ -22,8 +22,10 @@ import trafilatura
 import yaml
 
 ROOT = Path(__file__).parent
-ARTICLES_DIR = ROOT / "data" / "articles"
-SEEN_FILE = ROOT / "data" / "seen.json"
+# Deneme çalıştırmalarında NEWS_DATA_DIR ile ayrı bir klasör kullanılır, gerçek veriye dokunulmaz
+DATA_ROOT = Path(os.environ.get("NEWS_DATA_DIR", ROOT / "data"))
+ARTICLES_DIR = DATA_ROOT / "articles"
+SEEN_FILE = DATA_ROOT / "seen.json"
 
 MODEL = os.environ.get("NEWS_MODEL", "claude-opus-5-5")
 EFFORT = os.environ.get("NEWS_EFFORT", "low")
@@ -77,6 +79,15 @@ ARTICLE_SCHEMA = {
 }
 
 
+def log(msg):
+    """Konsola yazar; GitHub Actions'ta ayrıca çalışma özetine (rapor sayfası) ekler."""
+    print(msg)
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as f:
+            f.write(f"- {msg}\n")
+
+
 def load_seen():
     if SEEN_FILE.exists():
         return json.loads(SEEN_FILE.read_text(encoding="utf-8"))
@@ -102,10 +113,10 @@ def collect_candidates(seen):
         try:
             parsed = feedparser.parse(feed["url"], agent="Mozilla/5.0 (EskisehirHaberBot)")
         except Exception as e:
-            print(f"[uyarı] {feed['name']} okunamadı: {e}", file=sys.stderr)
+            log(f"[uyarı] {feed['name']} okunamadı: {e}")
             continue
         if parsed.bozo and not parsed.entries:
-            print(f"[uyarı] {feed['name']} boş/bozuk akış", file=sys.stderr)
+            log(f"[uyarı] {feed['name']} boş/bozuk akış")
             continue
         for entry in parsed.entries:
             key = item_key(entry)
@@ -159,10 +170,10 @@ def write_article(client, candidate, source_text, recent):
         fallbacks="default",
     )
     if response.stop_reason == "refusal":
-        print(f"[atlandı] model reddetti: {candidate['title']}", file=sys.stderr)
+        log(f"[atlandı] model reddetti: {candidate['title']}")
         return None
     if response.stop_reason == "max_tokens":
-        print(f"[atlandı] yanıt kesildi: {candidate['title']}", file=sys.stderr)
+        log(f"[atlandı] yanıt kesildi: {candidate['title']}")
         return None
     text = next(b.text for b in response.content if b.type == "text")
     return json.loads(text)
@@ -203,12 +214,15 @@ def main():
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
     candidates = collect_candidates(seen)
-    print(f"{len(candidates)} yeni aday bulundu.")
+    log(f"{len(candidates)} yeni aday bulundu.")
     if args.dry_run:
         for c in candidates:
             print(f"- [{c['source_name']}] {c['title']}")
         return
 
+    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        log("[hata] ANTHROPIC_API_KEY tanımlı değil. GitHub'da Settings → Secrets → Actions altına ekleyin.")
+        sys.exit(1)
     client = anthropic.Anthropic()
     written = calls = 0
     for c in candidates:
@@ -219,35 +233,39 @@ def main():
         if len(source_text) < 200:
             source_text = c["summary"]
         if len(source_text) < 80:
-            print(f"[atlandı] yetersiz metin: {c['title']}")
+            log(f"[atlandı] yetersiz metin: {c['title']}")
             continue
         calls += 1
         try:
             article = write_article(client, c, source_text, recent_titles())
         except anthropic.RateLimitError:
-            print("[durdu] hız sınırı, kalan adaylar sonraki tura kaldı.", file=sys.stderr)
+            log("[durdu] hız sınırı, kalan adaylar sonraki tura kaldı.")
             seen.pop(c["key"], None)
             break
+        except anthropic.AuthenticationError:
+            log("[hata] API anahtarı geçersiz. ANTHROPIC_API_KEY değerini kontrol edin.")
+            seen.pop(c["key"], None)
+            sys.exit(1)
         except anthropic.APIStatusError as e:
-            print(f"[hata] API {e.status_code}: {e.message}", file=sys.stderr)
+            log(f"[hata] API {e.status_code}: {e.message}")
             if e.status_code >= 500:
                 seen.pop(c["key"], None)  # sonra tekrar denensin
             continue
         except anthropic.APIConnectionError:
-            print("[hata] API bağlantısı kurulamadı.", file=sys.stderr)
+            log("[hata] API bağlantısı kurulamadı.")
             seen.pop(c["key"], None)
             break
         if not article:
             continue
         if not article["publish"]:
-            print(f"[geçildi] {c['title']} -> {article['skip_reason']}")
+            log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
             continue
         record = save_article(article, c)
         written += 1
-        print(f"[yazıldı] {record['title']} ({record['category']}/{record['district']})")
+        log(f"[yazıldı] {record['title']} ({record['category']}/{record['district']})")
 
     save_seen(seen)
-    print(f"Bu turda {written} haber yazıldı.")
+    log(f"Bu turda {written} haber yazıldı.")
 
 
 if __name__ == "__main__":
