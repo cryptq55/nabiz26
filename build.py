@@ -70,6 +70,9 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
+    images = DATA_DIR.parent / "images"
+    if images.exists():
+        shutil.copytree(images, OUT / "images")
 
     def render(template, path, **ctx):
         target = OUT / path
@@ -79,7 +82,10 @@ def main():
         target.write_text(env.get_template(template).render(**common, base=base, path=path, **ctx), encoding="utf-8")
 
     by_cat = {c: [a for a in articles if a["category"] == c] for c in CATEGORIES}
-    render("index.html", "index.html", articles=articles, by_cat=by_cat, title=None)
+    # Manşete son 6 haber içinden fotoğraflı olan çıksın
+    lead = next((a for a in articles[:6] if a.get("image")), articles[0] if articles else None)
+    side = [a for a in articles[:5] if a is not lead][:4]
+    render("index.html", "index.html", articles=articles, by_cat=by_cat, title=None, lead=lead, side=side)
     for cat, items in by_cat.items():
         render("list.html", f"kategori/{slugify(cat)}.html", articles=items, title=cat,
                kind="Kategori", color=CATEGORY_COLORS[cat])

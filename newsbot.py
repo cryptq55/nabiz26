@@ -22,6 +22,7 @@ import anthropic
 import feedparser
 import requests
 import trafilatura
+from PIL import Image
 import yaml
 from googlenewsdecoder import gnewsdecoder
 
@@ -30,6 +31,7 @@ ROOT = Path(__file__).parent
 DATA_ROOT = Path(os.environ.get("NEWS_DATA_DIR", ROOT / "data"))
 ARTICLES_DIR = DATA_ROOT / "articles"
 SEEN_FILE = DATA_ROOT / "seen.json"
+IMAGES_DIR = DATA_ROOT / "images"
 
 MODEL = os.environ.get("NEWS_MODEL", "claude-opus-5-5")
 EFFORT = os.environ.get("NEWS_EFFORT", "low")
@@ -238,7 +240,54 @@ def scan_page(page):
 OFFICIAL_SUFFIXES = (".gov.tr", ".bel.tr", ".edu.tr", ".pol.tr", ".tsk.tr", ".k12.tr")
 
 
-def fetch_source(url, photos_allowed=False):
+def image_candidates(og_url, html, page_url):
+    """og:image çoğu zaman bozuk/yanlış sunuculu olur; olası doğru adresleri sırayla üretir."""
+    urls = []
+    if og_url:
+        urls.append(og_url)
+        u = urlparse(og_url)
+        host = u.netloc if u.netloc.startswith("www.") else "www." + u.netloc
+        urls += [og_url.replace("http://", "https://", 1), f"https://{host}{u.path}"]
+        stem = Path(u.path).name
+    else:
+        stem = None
+    page_imgs = [urljoin(page_url, m) for m in re.findall(r'<img[^>]+src=["\']([^"\']+)', html, re.I)]
+    if stem:
+        for src in page_imgs:
+            if stem.lower() in src.lower():
+                urls += [src.replace("thumbnail_", ""), src]
+    urls += [src for src in page_imgs if "upload" in src.lower()][:3]
+    seen, out = set(), []
+    for x in urls:
+        if x.startswith("http") and x not in seen:
+            seen.add(x)
+            out.append(x)
+    return out
+
+
+def download_image(urls, key):
+    """İlk geçerli fotoğrafı indirir, küçültür ve data/images altına kaydeder."""
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+    for url in urls[:8]:
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=20)
+            if not r.ok or len(r.content) < 5000:
+                continue
+            from io import BytesIO
+            im = Image.open(BytesIO(r.content))
+            if im.width < 400:
+                continue
+            im = im.convert("RGB")
+            im.thumbnail((1280, 1280))
+            name = f"{key}.jpg"
+            im.save(IMAGES_DIR / name, "JPEG", quality=80, optimize=True, progressive=True)
+            return {"file": f"images/{name}", "source_url": url}
+        except Exception:
+            continue
+    return None
+
+
+def fetch_source(url, photos_allowed=False, key=None):
     """Kaynağın asıl adresini, metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
     url = resolve_link(url)
     text, image = "", None
@@ -249,8 +298,8 @@ def fetch_source(url, photos_allowed=False):
             host = urlparse(url).netloc.lower()
             if photos_allowed or host.endswith(OFFICIAL_SUFFIXES):
                 meta = trafilatura.extract_metadata(html, default_url=url)
-                if meta and meta.image and meta.image.startswith("http"):
-                    image = meta.image
+                og = meta.image if meta and meta.image and meta.image.startswith("http") else None
+                image = download_image(image_candidates(og, html, url), key or hashlib.sha1(url.encode()).hexdigest()[:16])
         except Exception as e:
             log(f"[uyarı] metin çıkarılamadı {url}: {e}")
     return url, text, image
@@ -308,7 +357,7 @@ def save_article(article, candidate, image=None):
         "source": {"name": candidate["source_name"], "title": candidate["title"], "url": candidate["link"]},
     }
     if image:
-        record["image"] = {"url": image, "credit": candidate["source_name"]}
+        record["image"] = {**image, "credit": candidate["source_name"]}
     (ARTICLES_DIR / f"{slug}.json").write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return record
 
@@ -324,7 +373,7 @@ def collect_queue(max_items, out_path):
         if len(queue) >= max_items:
             break
         if c["link"]:
-            c["link"], text, image = fetch_source(c["link"], c.get("photos", False))
+            c["link"], text, image = fetch_source(c["link"], c.get("photos", False), c["key"])
         else:
             text, image = "", None
         if len(text) < 200:
@@ -383,7 +432,7 @@ def write_digest(limit=30):
                   f"**{a['category']} · {a['district']}** · {a['published_at'][:16].replace('T', ' ')} UTC · "
                   f"Kaynak: [{a['source']['name']}]({a['source']['url']})", ""]
         if a.get("image"):
-            lines += [f"![]({a['image']['url']})", ""]
+            lines += [f"![](data/{a['image']['file']})", ""]
         lines += [f"> {a['spot']}", "", a["body"], "", "---", ""]
     (ROOT / "SON_HABERLER.md").write_text("\n".join(lines), encoding="utf-8")
 
@@ -424,7 +473,7 @@ def main():
             break
         seen[c["key"]] = time.time()
         if c["link"]:
-            c["link"], source_text, image = fetch_source(c["link"], c.get("photos", False))
+            c["link"], source_text, image = fetch_source(c["link"], c.get("photos", False), c["key"])
         else:
             source_text, image = "", None
         if len(source_text) < 200:

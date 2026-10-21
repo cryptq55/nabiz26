@@ -51,7 +51,7 @@ jobs:
               print(f"### {a['title']}\n")
               print(f"**{a['category']} · {a['district']}** · Kaynak: [{a['source']['title']}]({a['source']['url']})\n")
               if a.get("image"):
-                  print(f"![fotoğraf]({a['image']['url']})\n\n*Fotoğraf: {a['image']['credit']}*\n")
+                  print(f"*📷 Fotoğraf: {a['image']['credit']}*\n")
               print(f"> {a['spot']}\n")
               print(a["body"] + "\n\n---\n")
           PY
@@ -76,6 +76,7 @@ jobs:
           cp "$RUNNER_TEMP/ajan.log" "$OUT/ajan.log"
           cp "$GITHUB_STEP_SUMMARY" "$OUT/rapor.md" 2>/dev/null || true
           cp "$RUNNER_TEMP"/deneme/articles/*.json "$OUT/haberler/" 2>/dev/null || true
+          cp -r "$RUNNER_TEMP"/deneme/images "$OUT/" 2>/dev/null || true
           cd "$OUT"
           git init -q -b deneme
           git config user.name "nabiz26-bot"

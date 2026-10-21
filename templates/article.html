@@ -1,11 +1,11 @@
 {% extends "base.html" %}
-{% from "macros.html" import cover, chip, when %}
+{% from "macros.html" import cover, chip, when with context %}
 {% block description %}{{ a.spot }}{% endblock %}
 {% block head %}
 <meta property="og:title" content="{{ a.title }}">
 <meta property="og:description" content="{{ a.spot }}">
 <meta property="og:type" content="article">
-{% if a.image %}<meta property="og:image" content="{{ a.image.url }}"><meta name="twitter:card" content="summary_large_image">{% endif %}
+{% if a.image %}<meta property="og:image" content="{{ site.url }}/{{ a.image.file }}"><meta name="twitter:card" content="summary_large_image">{% endif %}
 <meta property="og:site_name" content="{{ site.name }}">
 {% if site.url %}<link rel="canonical" href="{{ site.url }}/haber/{{ a.slug }}.html">{% endif %}
 <script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a.title, "description": a.spot, "datePublished": a.published_at, "articleSection": a.category, "contentLocation": {"@type": "Place", "name": a.district ~ ", Eskişehir"}, "publisher": {"@type": "NewsMediaOrganization", "name": site.name}}|tojson }}</script>

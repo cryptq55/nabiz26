@@ -1,10 +1,9 @@
 {% extends "base.html" %}
-{% from "macros.html" import cover, chip, when, card %}
+{% from "macros.html" import cover, chip, when, card with context %}
 {% block content %}
 {% if not articles %}
 <section class="empty-state"><h1>Haber akışı başlıyor</h1><p>Editör ajanımız Eskişehir'i taramaya başladı. İlk haberler birkaç dakika içinde burada olacak.</p></section>
 {% else %}
-{% set lead = articles[0] %}
 <section class="hero">
   <article class="hero-lead">
     <a href="{{ base }}haber/{{ lead.slug }}.html" tabindex="-1">{{ cover(lead, "lg") }}</a>
@@ -15,7 +14,7 @@
     </div>
   </article>
   <div class="hero-side">
-    {% for a in articles[1:5] %}
+    {% for a in side %}
     <article class="mini">
       <a href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a, "sm") }}</a>
       <div>

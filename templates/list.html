@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "macros.html" import card %}
+{% from "macros.html" import card with context %}
 {% block description %}Eskişehir {{ title }} haberleri: en güncel gelişmeler {{ site.name }}'ta.{% endblock %}
 {% block content %}
 <header class="page-head" {% if color %}style="--c: {{ color }}"{% endif %}>
