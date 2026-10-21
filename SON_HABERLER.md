@@ -2,6 +2,58 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Anadolu Üniversitesi'nde öğretmen adaylarına Canva yapay zekâ atölyesi düzenlendi
+
+**Eğitim · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/oilbds5qwso79n0kw3spi2hv)
+
+![](data/images/ca51809edc7c3c07.jpg)
+
+> Anadolu Üniversitesi Eğitim Fakültesi, "Geleceğin Öğretmenleri İçin Canva Yapay Zekâ Atölyesi" düzenledi.
+
+Anadolu Üniversitesi Eğitim Fakültesi, "Geleceğin Öğretmenleri İçin Canva Yapay Zekâ Atölyesi" düzenledi. Atölye Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu'nda yapıldı. Eğitimi Canva Türkiye Öğretmen Elçisi Pınar Sayar verdi.
+
+Açılış konuşmasını yapan Temel Eğitim Bölüm Başkanı Prof. Dr. Ali Ersoy, dijital araçların eğitim süreçlerindeki yerini anlattı. Ersoy, yapay zekâ bazı görevleri üstlenebilse de okuma ve öğrenme alışkanlıklarının geliştirilmesinin önemli olduğunu vurguladı.
+
+Uygulamalı bölümde Canva'nın yapay zekâ destekli özellikleriyle farklı yaş ve sınıf düzeylerine uygun materyallerin hazırlanışı gösterildi. Birinci sınıf Türkçe dersi için etkinlik oluşturma ve kelebeklerin yaşam döngüsünü anlatan görseller hazırlama örnekleri yapıldı. Sayar, yapay zekâya verilen komutlarda hedef yaş veya sınıf düzeyi, öğrenme kazanımı ve görsel türü gibi ayrıntıların belirtilmesinin önemli olduğunu söyledi.
+
+Atölyede arka plan kaldırma, istenmeyen nesneleri silme ve içeriklerden soru veya test oluşturma gibi özellikler de tanıtıldı.
+
+---
+
+## Anadolu Üniversitesi'nde Ercüment Orkut solo caz konseri verdi
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/epyes5w6yz7airc9ld20q9t9)
+
+![](data/images/e6bf40142dc63320.jpg)
+
+> 6. Uluslararası Piyano Günleri kapsamında caz piyanisti Ercüment Orkut, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda sahne aldı.
+
+Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında caz piyanisti, besteci ve aranjör Ercüment Orkut solo caz konseri verdi. Konser, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı ve çok sayıda müzikseverin katılımıyla gerçekleşti.
+
+Piyano Günleri, Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı tarafından düzenleniyor. Etkinliğin koordinasyonunu Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren yürütüyor.
+
+Orkut konserde kendi bestelerinin yanı sıra caz repertuvarının bilinen eserlerini seslendirdi. "Diş Perisi" adlı bestesini ve babasına ve bisikletine ithafen bestelediği parçaları da dinleyicilerle paylaştı. Konserin sonunda Prof. Eren, Orkut'a çiçek takdim etti.
+
+---
+
+## 6. Uluslararası Piyano Günleri Raffaele D'Angelo resitaliyle sürdü
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/lwsb17gpbtcgru13dkyhf0mb)
+
+![](data/images/8fdbd479b4ff38fb.jpg)
+
+> Anadolu Üniversitesi'nin düzenlediği Piyano Günleri, ikinci gününde piyanist Raffaele D'Angelo'nun resitaliyle devam etti. Etkinlik 24 Ekim'e kadar sürecek.
+
+Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri ikinci gününde de müzikseverlerle buluştu. Uluslararası alanda performanslarıyla tanınan piyanist Raffaele D'Angelo resital verdi.
+
+Resital, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı. Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren ve çok sayıda öğrenci dinleyici arasındaydı.
+
+D'Angelo, Domenico Scarlatti, Franz Schubert, Frédéric Chopin, Robert Schumann ve Enrique Granados'un eserlerini seslendirdi. Resitalin sonunda Prof. Eren, D'Angelo'ya çiçek ve teşekkür belgesi takdim etti.
+
+Piyano Günleri, 24 Ekim'e kadar sürecek konserler ve etkinliklerle devam edecek.
+
+---
+
 ## Anadolu Üniversitesi'nde Ceza ve Ceza Muhakemesi Hukuku Ulusal Kongresi başladı
 
 **Eğitim · Tepebaşı** · 2026-10-21 22:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/e2b862dpjx7ibtt52r9w1azj)
