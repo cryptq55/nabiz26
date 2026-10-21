@@ -1,0 +1,21 @@
+{
+  "slug": "202610211847-esogulu-akademisyenlerden-omuz-mrda-yapay-zek-calismasi",
+  "title": "ESOGÜ'lü akademisyenlerden omuz MR'da yapay zekâ çalışması",
+  "spot": "Eskişehir Osmangazi Üniversitesi'nden araştırmacıların omuz MR görüntülerinde rotator manşet yırtığını sınıflandıran yapay zekâ çalışması Journal of Clinical Medicine dergisinde yayımlandı.",
+  "body": "Eskişehir Osmangazi Üniversitesi Mühendislik-Mimarlık Fakültesi'nden Arş. Gör. Sergen Aşık ve Prof. Dr. Ahmet Yazıcı, Bilecik Şeyh Edebali Üniversitesi'nden Prof. Dr. Murat Aşçı ve Eskişehir Yunus Emre Devlet Hastanesi'nden Uzm. Dr. İrfan Okumuşer ile birlikte yürüttükleri makale, Q1 kategorisindeki Journal of Clinical Medicine dergisinde yayımlandı.\n\nÇalışmada, çok sekanslı omuz MR görüntüleri yaş, cinsiyet, vücut kitle indeksi ve inceleme tarafı gibi klinik bilgilerle birleştirilerek rotator manşet yırtıklarının sınıflandırılması için yapay zekâ modeli geliştirildi. Retrospektif çalışmada, 100'ünde yırtık bulunan ve 99'unda bulunmayan toplam 199 hastanın görüntüleri değerlendirildi.\n\nEn başarılı model, yağ baskılı T2 sagittal, proton yoğunluklu koronal ve proton yoğunluklu aksiyel olmak üzere üç MR sekansını klinik verilerle birleştiren model oldu. Model 0,9961 ROC-AUC, yüzde 96 doğruluk ve yüzde 97,98 duyarlılık değerine ulaştı.\n\nÜç sekans kullanan modelin dört sekansın tamamını kullanan modelden daha yüksek performans göstermesi, daha fazla görüntü kullanmanın her zaman daha iyi sonuç vermeyebileceğini ortaya koydu. Araştırmacılar, görüntü sayısından çok hastalığa özgü bilgi sağlayan sekansların seçilmesinin önemli olduğunu belirtti. Yöntemin farklı hastane ve MR cihazlarından alınacak verilerle doğrulanması da klinik kullanım potansiyelinin değerlendirilmesine katkı sağlayacak.",
+  "category": "Sağlık",
+  "district": "Merkez",
+  "tags": [
+    "Osmangazi Üniversitesi",
+    "yapay zekâ",
+    "MR",
+    "rotator manşet"
+  ],
+  "published_at": "2026-10-21T18:47:53.448312+00:00",
+  "status": "published",
+  "source": {
+    "name": "Eskişehir Osmangazi Üniversitesi",
+    "title": "Omuz MR Görüntülerinde Yapay Zeka: Daha Fazla Sekans Her Zaman Daha Başarılı mı?",
+    "url": "https://www.ogu.edu.tr/Web/HaberDetay/2063?tur=AkademikMakale"
+  }
+}
