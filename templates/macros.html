@@ -33,10 +33,10 @@
 {%- endmacro %}
 
 {# Fotoğraf üstüne yazılı büyük kart #}
-{% macro overlay(a, size="", tag="h2") -%}
+{% macro overlay(a, size="", tag="h2", eager=None) -%}
 <article class="overlay {{ size }}" style="--c: {{ a.color }}">
   <a href="{{ base }}haber/{{ a.slug }}{{ ext }}">
-    {{ cover(a, "fill", size == "lead") }}
+    {{ cover(a, "fill", size == "lead" if eager is none else eager) }}
     <div class="overlay-text">
       <div class="kicker light"><span>{{ a.category }}</span>{{ a.district }}</div>
       <{{ tag }}>{{ a.title }}</{{ tag }}>

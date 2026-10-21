@@ -180,6 +180,8 @@ def main():
     if IMAGES_DIR.exists():
         shutil.copytree(IMAGES_DIR, OUT / "images")
     make_brand_images(OUT / "static")
+    # Instagram gönderi/story görselleri; haber sayfalarındaki "Story'de paylaş" düğmesi de bunları kullanır
+    build_social(articles, DATA_DIR.parent, OUT / "social", limit=30)
 
     org = {"@type": "NewsMediaOrganization", "@id": f"{SITE['url']}/#org", "name": SITE["name"],
            "url": f"{SITE['url']}/", "logo": {"@type": "ImageObject", "url": f"{SITE['url']}/static/logo.png",
@@ -218,9 +220,11 @@ def main():
                        "districts": dist_counts, "max_dist": max(dist_counts.values() or [0]) or 1}
 
     # Manşete son 6 haber içinden fotoğraflı olan çıksın
-    lead = next((a for a in articles[:6] if a.get("image")), articles[0] if articles else None)
-    side = [a for a in articles[:5] if a is not lead][:2]
-    rest = [a for a in articles if a is not lead and all(a is not x for x in side)][:12]
+    # Manşet: son fotoğraflı 5 haber sırayla kayar; yanında sonraki 2 haber
+    slides = [a for a in articles[:12] if a.get("image")][:5] or articles[:1]
+    lead = slides[0] if slides else None
+    side = [a for a in articles[:10] if all(a is not x for x in slides)][:2]
+    rest = [a for a in articles if all(a is not x for x in slides + side)][:12]
     home_ld = [org, {"@type": "WebSite", "@id": f"{SITE['url']}/#site", "name": SITE["name"], "url": f"{SITE['url']}/",
                      "inLanguage": "tr-TR", "publisher": {"@id": org["@id"]},
                      "potentialAction": {"@type": "SearchAction", "target": abs_url("ara.html") + "?q={search_term_string}",
@@ -228,7 +232,7 @@ def main():
     render("index.html", "index.html",
            {"title": f"{SITE['name']} | Eskişehir Son Dakika Haberleri", "description": SITE["description"],
             "image": lead["image"]["abs"] if lead and lead.get("image") else common["og_default"], "ld": home_ld},
-           articles=articles, by_cat=by_cat, title=None, lead=lead, side=side, rest=rest)
+           articles=articles, by_cat=by_cat, title=None, lead=lead, slides=slides, side=side, rest=rest)
 
     for cat, items in by_cat.items():
         p = f"kategori/{slugify(cat)}.html"
@@ -311,8 +315,7 @@ def main():
     # IndexNow ile bildirilecek adresler (yayın iş akışı kullanır)
     (ROOT / "indexnow-urls.txt").write_text("\n".join([f"{SITE['url']}/"] + [a["url"] for a in fresh]), encoding="utf-8")
 
-    # Instagram: gönderi/story görselleri, açıklama metinleri ve profil bağlantısı sayfası
-    build_social(articles, DATA_DIR.parent, OUT / "social", limit=30)
+    # Instagram: açıklama metinleri ve profil bağlantısı sayfası (görseller yukarıda üretildi)
     feed = []
     for a in articles[:30]:
         tags = ["#Eskişehir", "#nabız26", "#EskişehirHaber"]

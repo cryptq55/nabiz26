@@ -17,7 +17,19 @@
 
 <h1 class="sr-only">Eskişehir Son Dakika Haberleri – {{ site.name }}</h1>
 <section class="hero">
-  {{ overlay(lead, "lead", "h2") }}
+  {# Manşet: haberler sırayla kayar; üstteki çubuklar story gibi dolar, mobilde parmakla kaydırılır #}
+  <div class="slider" data-slider aria-roledescription="carousel" aria-label="Manşet haberler">
+    <div class="slides" data-track>
+      {% for a in slides %}<div class="slide" role="group" aria-roledescription="slide" aria-label="{{ loop.index }} / {{ slides|length }}">{{ overlay(a, "lead", "h2", loop.first) }}</div>{% endfor %}
+    </div>
+    {% if slides|length > 1 %}
+    <div class="slider-bars">{% for a in slides %}<button type="button" data-dot aria-label="{{ loop.index }}. manşet: {{ a.title }}"><i></i></button>{% endfor %}</div>
+    <div class="slider-arrows">
+      <button type="button" data-prev aria-label="Önceki manşet"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
+      <button type="button" data-next aria-label="Sonraki manşet"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
+    </div>
+    {% endif %}
+  </div>
   <div class="hero-side">
     {% for a in side %}{{ overlay(a, "side", "h3") }}{% endfor %}
   </div>
