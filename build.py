@@ -16,10 +16,10 @@ from email.utils import format_datetime
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw
 
 from newsbot import CATEGORIES, DISTRICTS, slugify
-from social import build_social
+from social import brand, build_social, font
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "public"
@@ -116,30 +116,16 @@ def load_articles():
     return sorted(articles, key=lambda a: a["published_at"], reverse=True)
 
 
-def _font(size, bold=True):
-    names = (["DejaVuSans-Bold.ttf", "LiberationSans-Bold.ttf"] if bold else ["DejaVuSans.ttf", "LiberationSans-Regular.ttf"])
-    for n in names:
-        try:
-            return ImageFont.truetype(n, size)
-        except OSError:
-            continue
-    return ImageFont.load_default(size)
-
-
 def make_brand_images(static_dir):
     """Paylaşım görseli (1200x630) ve yayıncı logosu (512x512) üretir."""
-    red, night, paper = (229, 16, 46), (12, 11, 16), (244, 241, 236)
+    red, night = (229, 16, 46), (12, 11, 16)
     W, H = 1200, 630
     im = Image.new("RGB", (W, H), night)
     d = ImageDraw.Draw(im)
     d.line([(0, 420), (430, 420), (480, 330), (540, 520), (610, 270), (670, 460), (700, 400), (W, 400)],
            fill=red, width=10, joint="curve")
-    big = _font(170)
-    d.text((80, 90), "nabız", font=big, fill=paper)
-    x = 100 + d.textlength("nabız", font=big)
-    d.rounded_rectangle((x, 130, x + 170, 250), radius=24, fill=red)
-    d.text((x + 22, 140), "26", font=_font(92), fill="white")
-    d.text((84, 530), "Eskişehir'in nabzı · 14 ilçe, 7/24 haber", font=_font(40, bold=False), fill=(156, 151, 164))
+    brand(d, 80, 110, 190)
+    d.text((84, 530), "Eskişehir'in nabzı · 14 ilçe, 7/24 haber", font=font("Inter.ttf", 40, 500), fill=(156, 151, 164))
     im.save(static_dir / "og.png", "PNG", optimize=True)
 
     logo = Image.new("RGB", (512, 512), red)
@@ -160,6 +146,8 @@ def main():
         "year": now_tr.year, "ext": EXT,
         "today": f"{now_tr.day} {TR_MONTHS[now_tr.month - 1]} {now_tr.year}, {TR_DAYS[now_tr.weekday()]}",
         "ticker": articles[:8], "og_default": f"{SITE['url']}/static/og.png",
+        # Stil ve betik değişince tarayıcı önbelleği eski dosyayı kullanmasın
+        "asset_v": hashlib.sha1(b"".join((ROOT / "static" / f).read_bytes() for f in ("style.css", "app.js"))).hexdigest()[:8],
     }
 
     if OUT.exists():

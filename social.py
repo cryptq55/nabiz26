@@ -66,14 +66,30 @@ def fit_headline(draw, text, width, max_lines, sizes):
     return f, wrap(draw, text, f, width, max_lines), sizes[-1]
 
 
+def _cover(im, w, h):
+    scale = max(w / im.width, h / im.height)
+    im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1), Image.LANCZOS)
+    left, top = (im.width - w) // 2, (im.height - h) // 3
+    return im.crop((left, top, left + w, top + h))
+
+
 def cover_image(path, w, h, color):
-    """Haber fotoğrafını kırparak doldurur; fotoğraf yoksa kategori renginde nabız desenli zemin çizer."""
+    """Haber fotoğrafını alana yerleştirir; fotoğraf yoksa kategori renginde nabız desenli zemin çizer.
+
+    Oranı alana yakın fotoğraflar kırpılarak doldurulur. Uzak olanlar (afiş, bilgi grafiği) kesilmesin
+    diye bütün olarak, kendi bulanık ve koyulaştırılmış kopyasının üstüne ortalanır.
+    """
     if path and Path(path).exists():
         im = Image.open(path).convert("RGB")
-        scale = max(w / im.width, h / im.height)
-        im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1), Image.LANCZOS)
-        left, top = (im.width - w) // 2, (im.height - h) // 3
-        return im.crop((left, top, left + w, top + h))
+        ratio = (im.width / im.height) / (w / h)
+        if 0.8 <= ratio <= 1.3:
+            return _cover(im, w, h)
+        bg = _cover(im, w, h).filter(ImageFilter.GaussianBlur(40))
+        bg = Image.blend(bg, Image.new("RGB", (w, h), NIGHT), 0.45)
+        scale = min(w / im.width, h / im.height)
+        fg = im.resize((int(im.width * scale), int(im.height * scale)), Image.LANCZOS)
+        bg.paste(fg, ((w - fg.width) // 2, (h - fg.height) // 2))
+        return bg
     c = hex_rgb(color)
     bg = Image.new("RGB", (w, h), c)
     d = ImageDraw.Draw(bg)
@@ -104,19 +120,29 @@ def shade(im, start, strength=245):
 
 
 def brand(draw, x, y, size, backing=False):
+    """Logo: "nabız" ve yanında kırmızı "26" rozeti. Rozet küçük harf boyunda ve yazının satır çizgisinde durur.
+
+    (x, y) logonun sol üst köşesidir (küçük harflerin "b" sapı dahil üst sınırı).
+    """
     f = font("Bricolage.ttf", size, 800)
-    if backing:
-        # Beyaz/açık fotoğraflarda logo kaybolmasın diye koyu zemin
-        w = draw.textlength("nabız", font=f) + size * 1.15
-        draw.rounded_rectangle((x - size * .28, y - size * .06, x + w, y + size * 1.02), radius=int(size * .26), fill=NIGHT)
-    draw.text((x, y), "nabız", font=f, fill=PAPER)
+    asc = -f.getbbox("b", anchor="ls")[1]   # "b" sapının yüksekliği
+    xh = -f.getbbox("n", anchor="ls")[1]    # küçük harf yüksekliği
+    base = y + asc
     tw = draw.textlength("nabız", font=f)
-    fs = font("Bricolage.ttf", int(size * .42), 800)
-    bw = draw.textlength("26", font=fs) + size * .3
-    bx, by = x + tw + size * .14, y + size * .12
-    draw.rounded_rectangle((bx, by, bx + bw, by + size * .55), radius=int(size * .14), fill=RED)
-    draw.text((bx + size * .15, by + size * .02), "26", font=fs, fill="white")
-    return bx + bw
+    fs = font("Bricolage.ttf", int(xh * .78), 800)
+    bh = xh
+    bw = draw.textlength("26", font=fs) + bh * .62
+    bx = x + tw + size * .1
+    if backing:
+        # Açık renkli fotoğraflarda logo kaybolmasın diye koyu zemin
+        pad = size * .26
+        draw.rounded_rectangle((x - pad, y - pad, bx + bw + pad, base + pad * 1.1), radius=int(size * .24), fill=NIGHT)
+    draw.text((x, base), "nabız", font=f, fill=PAPER, anchor="ls")
+    draw.rounded_rectangle((bx, base - bh, bx + bw, base), radius=int(bh * .26), fill=RED)
+    # Rakamları gözle ortala: yazı tipi kutusuna değil, rakamların kendi sınırlarına göre
+    l, t, r, _ = fs.getbbox("26", anchor="ls")
+    draw.text((bx + (bw - (r - l)) / 2 - l, base - (bh + t) / 2), "26", font=fs, fill="white", anchor="ls")
+    return bx + bw, base
 
 
 def pill(draw, x, y, text, color, size=34):
@@ -155,14 +181,17 @@ def framed(a, image_path, W, H, photo_h):
 def make_post(a, image_path, out, site="nabiz26.com"):
     W, H, PH = 1080, 1350, 700
     im, d = framed(a, image_path, W, H, PH)
-    brand(d, 60, 44, 70, backing=True)
-    x = pill(d, 64, PH + 50, a["category"].upper(), hex_rgb(a["color"]))
-    d.text((x + 20, PH + 60), a["district"] if a["district"] != "Merkez" else "Eskişehir",
-           font=font("Inter.ttf", 32, 600), fill=MUTED)
-    f, lines, size = fit_headline(d, a["title"], W - 128, 4, [84, 78, 72, 66, 60])
-    lh = int(size * 1.06)
+    M = 64
+    _, base = brand(d, M, PH + 52, 62)
+    cat = a["category"].upper()
+    pw = d.textlength(cat, font=font("Inter.ttf", 28, 800)) + 28 * 1.1
+    pill(d, W - M - pw, base - 46, cat, hex_rgb(a["color"]), 28)
+    place = a["district"] if a["district"] != "Merkez" else "Eskişehir"
+    d.text((W - M - pw - 18, base - 22), place, font=font("Inter.ttf", 28, 600), fill=MUTED, anchor="rm")
+    f, lines, size = fit_headline(d, a["title"], W - 2 * M, 3, [80, 74, 68, 62, 56])
+    lh = int(size * 1.08)
     for i, line in enumerate(lines):
-        d.text((64, PH + 140 + i * lh), line, font=f, fill="white")
+        d.text((M, base + 50 + i * lh), line, font=f, fill="white")
     beat_line(d, H - 118, W)
     d.text((64, H - 82), site, font=font("Inter.ttf", 34, 700), fill=PAPER)
     t = "Haberin tamamı sitede"
@@ -172,35 +201,43 @@ def make_post(a, image_path, out, site="nabiz26.com"):
 
 
 def make_story(a, image_path, out, site="nabiz26.com"):
-    W, H, PH = 1080, 1920, 900
+    # Instagram story'de üstteki ~180 px ilerleme çubuğu ve hesap adının altında kalır (yalnızca
+    # fotoğraf görünür); logo, başlık ve çağrı fotoğrafın altındaki koyu alana yerleşir.
+    W, H, PH, M = 1080, 1920, 860, 72
     im, d = framed(a, image_path, W, H, PH)
-    brand(d, 72, 110, 84, backing=True)
-    tf = font("Inter.ttf", 30, 800)
-    sw = d.textlength("SON DAKİKA", font=tf)
-    d.rounded_rectangle((W - 72 - sw - 26, 124, W - 46, 184), radius=30, fill=RED)
-    d.text((W - 72 - sw, 136), "SON DAKİKA", font=tf, fill="white")
-    x = pill(d, 72, PH + 64, a["category"].upper(), hex_rgb(a["color"]), 36)
-    d.text((x + 22, PH + 74), a["district"] if a["district"] != "Merkez" else "Eskişehir",
-           font=font("Inter.ttf", 34, 600), fill=MUTED)
-    f, lines, size = fit_headline(d, a["title"], W - 144, 5, [92, 86, 80, 74, 68])
-    lh = int(size * 1.06)
-    y = PH + 170
+    y = PH + 64
+    _, base = brand(d, M, y, 74)
+    x = W - M
+    cat = a["category"].upper()
+    cf = font("Inter.ttf", 30, 800)
+    pw = d.textlength(cat, font=cf) + 30 * 1.1
+    pill(d, x - pw, base - 50, cat, hex_rgb(a["color"]), 30)
+    place = a["district"] if a["district"] != "Merkez" else "Eskişehir"
+    pf = font("Inter.ttf", 30, 600)
+    d.text((x - pw - 20, base - 24), place, font=pf, fill=MUTED, anchor="rm")
+
+    cta_top = H - 330
+    f, lines, size = fit_headline(d, a["title"], W - 2 * M, 4, [96, 90, 84, 78, 72, 66])
+    lh = int(size * 1.08)
+    y = base + 70
     for i, line in enumerate(lines):
-        d.text((72, y + i * lh), line, font=f, fill="white")
+        d.text((M, y + i * lh), line, font=f, fill="white")
     spot_f = font("Inter.ttf", 38, 500)
-    y2 = y + lh * len(lines) + 34
-    for i, line in enumerate(wrap(d, a["spot"], spot_f, W - 144, max(1, min(3, (H - 400 - y2) // 54)))):
-        d.text((72, y2 + i * 54), line, font=spot_f, fill=(205, 200, 212))
-    # Çağrı: bağlantı çıkartması bu alanın üstüne eklenebilir
-    beat_line(d, H - 330, W, width=6)
-    cta_f = font("Bricolage.ttf", 52, 800)
+    y2 = y + lh * len(lines) + 30
+    room = (cta_top - 120 - y2) // 54
+    if room >= 1:
+        for i, line in enumerate(wrap(d, a["spot"], spot_f, W - 2 * M, min(3, room))):
+            d.text((M, y2 + i * 54), line, font=spot_f, fill=(205, 200, 212))
+
+    beat_line(d, cta_top - 60, W, width=6)
+    cta_f = font("Bricolage.ttf", 50, 800)
     cta = f"Haberin tamamı → {site}"
     cw = d.textlength(cta, font=cta_f)
-    d.rounded_rectangle(((W - cw) / 2 - 44, H - 262, (W + cw) / 2 + 44, H - 160), radius=51, fill="white")
-    d.text(((W - cw) / 2, H - 249), cta, font=cta_f, fill=NIGHT)
-    hint = "Profildeki bağlantıya dokun"
+    d.rounded_rectangle(((W - cw) / 2 - 44, cta_top, (W + cw) / 2 + 44, cta_top + 96), radius=48, fill="white")
+    d.text((W / 2, cta_top + 48), cta, font=cta_f, fill=NIGHT, anchor="mm")
+    hint = "Bağlantı profilde: @nabiz26haber"
     hf = font("Inter.ttf", 32, 500)
-    d.text(((W - d.textlength(hint, font=hf)) / 2, H - 126), hint, font=hf, fill=MUTED)
+    d.text((W / 2, cta_top + 140), hint, font=hf, fill=MUTED, anchor="mm")
     im.save(out, "JPEG", quality=88, optimize=True, progressive=True)
 
 

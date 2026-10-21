@@ -28,7 +28,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ base }}static/style.css">
+<link rel="stylesheet" href="{{ base }}static/style.css?v={{ asset_v }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ base }}rss.xml">
 {% if seo.ld %}<script type="application/ld+json">{{ {"@context": "https://schema.org", "@graph": seo.ld}|tojson }}</script>{% endif %}
 <script>try{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
@@ -48,7 +48,6 @@
   <div class="wrap mast-main">
     <a class="brand" href="{{ home }}" aria-label="{{ site.name }} ana sayfa">
       <span class="brand-word">nabız</span><span class="brand-num">26</span>
-      <svg class="brand-beat" aria-hidden="true"><use href="#beat"/></svg>
     </a>
     <p class="mast-tag">Eskişehir'in nabzı.<br><span>14 ilçe, günün her saati.</span></p>
     <div class="mast-actions">
@@ -91,6 +90,6 @@
     <div class="footer-bottom"><span>© {{ year }} {{ site.name }}</span><span>Eskişehir · 26</span></div>
   </div>
 </footer>
-<script src="{{ base }}static/app.js" defer></script>
+<script src="{{ base }}static/app.js?v={{ asset_v }}" defer></script>
 </body>
 </html>
