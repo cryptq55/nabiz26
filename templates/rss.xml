@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>{{ site.name }}</title><link>{{ site.url }}/</link><description>{{ site.tagline }}</description><language>tr</language>
+{% for a in articles %}<item><title>{{ a.title }}</title><link>{{ site.url }}/haber/{{ a.slug }}.html</link><guid>{{ site.url }}/haber/{{ a.slug }}.html</guid><pubDate>{{ a.rfc822 }}</pubDate><category>{{ a.category }}</category><description>{{ a.spot }}</description></item>
+{% endfor %}</channel></rss>

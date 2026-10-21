@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% from "macros.html" import card %}
+{% block description %}Eskişehir {{ title }} haberleri: en güncel gelişmeler {{ site.name }}'ta.{% endblock %}
+{% block content %}
+<header class="page-head" {% if color %}style="--c: {{ color }}"{% endif %}>
+  <span class="eyebrow">{{ kind }}</span>
+  <h1>{{ title }}</h1>
+  <p>{{ articles|length }} haber</p>
+</header>
+{% if articles %}
+<div class="grid grid-3">{% for a in articles[:90] %}{{ card(a, base) }}{% endfor %}</div>
+{% else %}
+<p class="empty">Bu bölümde henüz haber yok. Ajanımız takipte.</p>
+{% endif %}
+{% endblock %}

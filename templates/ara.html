@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="page-head"><span class="eyebrow">Arama</span><h1>Haber ara</h1></header>
+<input class="search-input" id="q" type="search" placeholder="Örn. Odunpazarı, tramvay, Eskişehirspor…" autofocus>
+<div id="results" class="search-results" data-base="{{ base }}"></div>
+{% endblock %}

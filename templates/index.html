@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% from "macros.html" import cover, chip, when, card %}
+{% block content %}
+{% if not articles %}
+<section class="empty-state"><h1>Haber akışı başlıyor</h1><p>Editör ajanımız Eskişehir'i taramaya başladı. İlk haberler birkaç dakika içinde burada olacak.</p></section>
+{% else %}
+{% set lead = articles[0] %}
+<section class="hero">
+  <article class="hero-lead">
+    <a href="{{ base }}haber/{{ lead.slug }}.html" tabindex="-1">{{ cover(lead, "lg") }}</a>
+    <div class="hero-text">
+      <div class="meta">{{ chip(lead, base) }}<span>{{ lead.district }}</span><span class="dot"></span>{{ when(lead) }}</div>
+      <h1><a href="{{ base }}haber/{{ lead.slug }}.html">{{ lead.title }}</a></h1>
+      <p>{{ lead.spot }}</p>
+    </div>
+  </article>
+  <div class="hero-side">
+    {% for a in articles[1:5] %}
+    <article class="mini">
+      <a href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a, "sm") }}</a>
+      <div>
+        <div class="meta">{{ chip(a, base) }}{{ when(a) }}</div>
+        <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<div class="layout">
+  <section>
+    <div class="section-head"><h2>Son Haberler</h2></div>
+    <div class="grid">
+      {% for a in articles[5:17] %}{{ card(a, base) }}{% endfor %}
+    </div>
+  </section>
+  <aside class="sidebar">
+    <div class="panel">
+      <h3 class="panel-title"><span class="pulse-dot"></span> Akış</h3>
+      <ol class="timeline">
+        {% for a in articles[:10] %}<li><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></li>{% endfor %}
+      </ol>
+    </div>
+    <div class="panel">
+      <h3 class="panel-title">İlçeler</h3>
+      <div class="district-chips">{% for d in districts %}<a href="{{ base }}ilce/{{ d|slug }}.html">{{ d }}</a>{% endfor %}</div>
+    </div>
+  </aside>
+</div>
+
+{% for c in categories %}{% set items = by_cat[c] %}{% if items|length >= 3 %}
+<section class="cat-block" style="--c: {{ colors[c] }}">
+  <div class="section-head"><h2>{{ c }}</h2><a href="{{ base }}kategori/{{ c|slug }}.html">Tümü →</a></div>
+  <div class="grid grid-4">{% for a in items[:4] %}{{ card(a, base) }}{% endfor %}</div>
+</section>
+{% endif %}{% endfor %}
+{% endif %}
+{% endblock %}

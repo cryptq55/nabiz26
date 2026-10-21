@@ -1,0 +1,84 @@
+// Nabız 26: küçük istemci özellikleri (göreli zaman, tema, hava durumu, arama)
+(function () {
+  // "12 dk önce" gibi göreli zaman
+  function rel(iso) {
+    var diff = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (diff < 0) return null;
+    if (diff < 60) return "az önce";
+    if (diff < 3600) return Math.floor(diff / 60) + " dk önce";
+    if (diff < 86400) return Math.floor(diff / 3600) + " saat önce";
+    if (diff < 172800) return "dün";
+    return null;
+  }
+  function updateTimes() {
+    document.querySelectorAll("time[data-rel]").forEach(function (el) {
+      var r = rel(el.getAttribute("datetime"));
+      if (r) { el.title = el.title || el.textContent; el.textContent = r; }
+    });
+  }
+  updateTimes();
+  setInterval(updateTimes, 60000);
+
+  // Açık/koyu tema
+  var btn = document.getElementById("theme-toggle");
+  if (btn) btn.addEventListener("click", function () {
+    var root = document.documentElement;
+    var dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    root.dataset.theme = dark ? "light" : "dark";
+    try { localStorage.setItem("tema", root.dataset.theme); } catch (e) {}
+  });
+
+  // Bağlantı kopyala
+  document.querySelectorAll("[data-copy]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      navigator.clipboard && navigator.clipboard.writeText(location.href).then(function () {
+        b.textContent = "Kopyalandı"; setTimeout(function () { b.textContent = "Kopyala"; }, 1600);
+      });
+    });
+  });
+
+  // Eskişehir hava durumu (Open-Meteo, anahtarsız ve ücretsiz)
+  var w = document.getElementById("weather");
+  if (w) {
+    var codes = { 0: "☀️ Açık", 1: "🌤️ Az bulutlu", 2: "⛅ Parçalı bulutlu", 3: "☁️ Bulutlu", 45: "🌫️ Sisli", 48: "🌫️ Sisli",
+      51: "🌦️ Çisenti", 53: "🌦️ Çisenti", 55: "🌦️ Çisenti", 61: "🌧️ Yağmurlu", 63: "🌧️ Yağmurlu", 65: "🌧️ Sağanak",
+      71: "🌨️ Karlı", 73: "🌨️ Karlı", 75: "❄️ Yoğun kar", 80: "🌦️ Sağanak", 81: "🌧️ Sağanak", 82: "⛈️ Kuvvetli sağanak",
+      95: "⛈️ Gök gürültülü", 96: "⛈️ Dolu", 99: "⛈️ Dolu" };
+    fetch("https://api.open-meteo.com/v1/forecast?latitude=39.7767&longitude=30.5206&current=temperature_2m,weather_code&timezone=Europe%2FIstanbul")
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var c = d.current;
+        w.textContent = "Eskişehir " + Math.round(c.temperature_2m) + "°C · " + (codes[c.weather_code] || "");
+        w.hidden = false;
+      })
+      .catch(function () {});
+  }
+
+  // Arama sayfası
+  var q = document.getElementById("q");
+  var out = document.getElementById("results");
+  if (q && out) {
+    var base = out.dataset.base || "";
+    var data = [];
+    var norm = function (s) { return s.toLocaleLowerCase("tr").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ı/g, "i"); };
+    fetch(base + "search.json").then(function (r) { return r.json(); }).then(function (d) { data = d; render(); });
+    function render() {
+      var term = norm(q.value.trim());
+      out.innerHTML = "";
+      if (term.length < 2) return;
+      var hits = data.filter(function (a) { return norm(a.t + " " + a.s + " " + a.c + " " + a.d).indexOf(term) !== -1; }).slice(0, 50);
+      if (!hits.length) { out.innerHTML = "<p class='empty'>Sonuç bulunamadı.</p>"; return; }
+      hits.forEach(function (a) {
+        var el = document.createElement("a");
+        el.href = base + a.u;
+        var meta = document.createElement("span"); meta.textContent = a.c + " · " + a.d;
+        var t = document.createElement("strong"); t.textContent = a.t;
+        el.append(meta, t);
+        out.append(el);
+      });
+    }
+    q.addEventListener("input", render);
+    var p = new URLSearchParams(location.search).get("q");
+    if (p) q.value = p;
+  }
+})();

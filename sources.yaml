@@ -1,0 +1,15 @@
+# Haber kaynakları. RSS adresi olan her siteyi buraya ekleyebilirsiniz.
+# Not: kurumların RSS adresleri değişebilir; çalışmayan bir kaynak sistemi durdurmaz, sadece atlanır.
+feeds:
+  # Google News araması: Eskişehir geçen güncel haberleri bulur (keşif amaçlı)
+  - name: Google Haberler - Eskişehir
+    url: https://news.google.com/rss/search?q=Eski%C5%9Fehir+when:1d&hl=tr&gl=TR&ceid=TR:tr
+  - name: Google Haberler - Odunpazarı
+    url: https://news.google.com/rss/search?q=Odunpazar%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
+  - name: Google Haberler - Tepebaşı
+    url: https://news.google.com/rss/search?q=Tepeba%C5%9F%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
+  - name: Google Haberler - Eskişehirspor
+    url: https://news.google.com/rss/search?q=Eski%C5%9Fehirspor+when:1d&hl=tr&gl=TR&ceid=TR:tr
+  # Buraya resmi kurumların (valilik, belediyeler, üniversiteler) RSS adreslerini ekleyin:
+  # - name: Örnek Kurum Duyuruları
+  #   url: https://ornek.gov.tr/rss

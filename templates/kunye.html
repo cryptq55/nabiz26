@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="story narrow">
+<header class="page-head"><span class="eyebrow">Kurumsal</span><h1>Künye</h1></header>
+<dl class="kunye">
+  <dt>Yayın adı</dt><dd>{{ site.name }}</dd>
+  <dt>İmtiyaz sahibi</dt><dd>[Şirket unvanı]</dd>
+  <dt>Sorumlu yazı işleri müdürü</dt><dd>[Ad Soyad]</dd>
+  <dt>Yönetim yeri</dt><dd>[Adres], Eskişehir</dd>
+  <dt>E-posta</dt><dd><a href="mailto:{{ site.email }}">{{ site.email }}</a></dd>
+  <dt>Yer sağlayıcı</dt><dd>[Barındırma firması]</dd>
+</dl>
+<h2 id="ilkeler">Yayın İlkeleri</h2>
+<div class="prose">
+<p>{{ site.name }}, Eskişehir ve ilçelerine odaklanan bağımsız bir yerel haber sitesidir. Haberlerimiz kamuya açık kaynaklar ve kurum açıklamaları taranarak yapay zekâ destekli bir editörlük sistemiyle hazırlanır ve her haberde yararlanılan kaynak belirtilir.</p>
+<p>Masumiyet karinesine, kişilik haklarına, özel hayatın gizliliğine ve çocukların korunmasına özen gösteririz. Doğrulanmamış bilgiyi kesinmiş gibi sunmayız.</p>
+<p>Hatalı bilgi tespit ettiğinizde <a href="mailto:{{ site.email }}">{{ site.email }}</a> adresine yazabilirsiniz. Düzeltme ve kaldırma talepleri en kısa sürede değerlendirilir.</p>
+</div>
+</article>
+{% endblock %}

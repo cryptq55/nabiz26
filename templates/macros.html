@@ -1,0 +1,26 @@
+{% macro cover(a, size="") -%}
+<div class="cover {{ size }}" style="--c: {{ a.color }}" aria-hidden="true">
+  <svg class="cover-pulse" viewBox="0 0 400 100" preserveAspectRatio="none"><path d="M0 60 H120 L140 30 L160 85 L180 15 L200 70 L215 50 H400" /></svg>
+  <span class="cover-cat">{{ a.category }}</span>
+  <span class="cover-dist">{{ a.district }}</span>
+</div>
+{%- endmacro %}
+
+{% macro chip(a, base) -%}
+<a class="chip" style="--c: {{ a.color }}" href="{{ base }}kategori/{{ a.category|slug }}.html">{{ a.category }}</a>
+{%- endmacro %}
+
+{% macro when(a) -%}
+<time datetime="{{ a.published_at }}" data-rel>{{ a.date_tr }}</time>
+{%- endmacro %}
+
+{% macro card(a, base, show_cover=True) -%}
+<article class="card">
+  {% if show_cover %}<a href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a) }}</a>{% endif %}
+  <div class="card-body">
+    <div class="meta">{{ chip(a, base) }}<span>{{ a.district }}</span><span class="dot"></span>{{ when(a) }}</div>
+    <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
+    <p>{{ a.spot }}</p>
+  </div>
+</article>
+{%- endmacro %}
