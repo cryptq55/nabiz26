@@ -15,19 +15,24 @@ feeds:
 # Bu kaynakların fotoğrafları (basın kullanımına açık) haberle birlikte, kaynak belirtilerek kullanılır.
 #   url:           haberlerin listelendiği sayfa (ana sayfa da olur)
 #   link_contains: haber bağlantılarının adresinde geçen ifade (varsayılan "haber")
+#   link_text:     adreste ipucu yoksa, haber bağlantısının metninin başına uyan düzenli ifade
+#                  (eşleşen kısım başlıktan atılır; verilirse link_contains'e bakılmaz)
 #   limit:         sayfadan en fazla kaç bağlantı alınsın (varsayılan 15)
 # Adresler deneme çalıştırmasında kontrol edilmeli; çalışmayan kaynak sadece uyarı verir.
 pages:
   - name: Eskişehir Valiliği
-    url: https://www.eskisehir.gov.tr/
+    url: https://www.eskisehir.gov.tr/haberler
+    link_text: '\d{2}\.\d{2}\.\d{4}\s'
   - name: Eskişehir Büyükşehir Belediyesi
     url: https://www.eskisehir.bel.tr/
+    link_contains: icerik-detay
   - name: Odunpazarı Belediyesi
     url: https://www.odunpazari.bel.tr/
   - name: Tepebaşı Belediyesi
     url: https://www.tepebasi.bel.tr/
   - name: Anadolu Üniversitesi
-    url: https://www.anadolu.edu.tr/
+    url: https://anahaber.anadolu.edu.tr/tr
+    link_contains: haber-detay
   - name: Eskişehir Osmangazi Üniversitesi
     url: https://www.ogu.edu.tr/
   - name: Eskişehir Teknik Üniversitesi

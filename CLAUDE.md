@@ -37,4 +37,7 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 3. Künye: imtiyaz sahibi Intertrade Danışmanlık İç ve Dış Ticaret Ltd. Şti., yer sağlayıcı Cloudflare. Sahibi sorumlu
    müdür ve adres satırlarını istemedi (22.10.2026); Google Haberler başvurusunda sorulursa tekrar konuşulacak.
 4. Google Haberler Yayıncı Merkezi başvurusu (künye dolduktan ve birkaç gün haber biriktikten sonra).
-5. Valilik (bağlantı reddediyor) ve Anadolu Üniversitesi (haber bağlantısı bulunamıyor) kaynakları düzeltilecek.
+5. Kaynaklar (22.10.2026 düzeltildi): Valilik (/haberler, link_text ile), Büyükşehir (icerik-detay), Anadolu Ünv.
+   (anahaber.anadolu.edu.tr) metin ve fotoğrafla geliyor. Valilik daha önce bulutta "bağlantı reddediyor" demişti;
+   Türkiye IP'sinden açılıyor, bulut oturumunda yine reddederse sebep yurt dışı IP engelidir. ESOGÜ'de haberin kendi
+   fotoğrafı bulunamıyor (sayfadaki /files/haber/ görseli her haberde aynı), o yüzden ESOGÜ haberleri fotoğrafsız kalıp atlanıyor.

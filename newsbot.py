@@ -8,6 +8,7 @@ Kullanım:
 
 import argparse
 import hashlib
+import html as htmllib
 import json
 import os
 import re
@@ -20,6 +21,7 @@ from pathlib import Path
 
 import anthropic
 import feedparser
+import lxml.html
 import requests
 import trafilatura
 from PIL import Image
@@ -226,12 +228,21 @@ def scan_page(page):
     parser.feed(html)
     host = urlparse(page["url"]).netloc
     needle = page.get("link_contains", "haber")
+    text_re = re.compile(page["link_text"]) if page.get("link_text") else None
     found, urls = [], set()
     for href, text in parser.links:
         url = urljoin(page["url"], href or "").split("#")[0]
         u = urlparse(url)
-        # Aynı sitedeki, adresinde "haber" geçen ve başlık gibi görünen bağlantılar
-        if u.netloc != host or needle not in u.path.lower() or len(text) < 25 or url in urls:
+        if text_re:
+            # Adresinde ipucu olmayan sitelerde haberi bağlantı metninden tanı (ör. başta tarih)
+            m = text_re.match(text)
+            if not m:
+                continue
+            text = text[m.end():].strip()
+        elif needle not in u.path.lower():
+            continue
+        # Aynı sitedeki ve başlık gibi görünen bağlantılar
+        if u.netloc != host or len(text) < 25 or url in urls:
             continue
         urls.add(url)
         found.append((url, text))
@@ -244,9 +255,15 @@ def scan_page(page):
 OFFICIAL_SUFFIXES = (".gov.tr", ".bel.tr", ".edu.tr", ".pol.tr", ".tsk.tr", ".k12.tr")
 
 
+# Haber fotoğraflarının tutulduğu klasör adları (adres küçük harfe çevrilerek aranır)
+IMAGE_DIR_HINTS = ("upload", "haberlergenel", "img_icerik/")
+
+
 def image_candidates(og_url, html, page_url):
     """og:image çoğu zaman bozuk/yanlış sunuculu olur; olası doğru adresleri sırayla üretir."""
     urls = []
+    if og_url and "logo" in og_url.lower():
+        og_url = None  # bazı siteler og:image olarak kurum logosunu verir
     if og_url:
         urls.append(og_url)
         u = urlparse(og_url)
@@ -255,12 +272,17 @@ def image_candidates(og_url, html, page_url):
         stem = Path(u.path).name
     else:
         stem = None
-    page_imgs = [urljoin(page_url, m) for m in re.findall(r'<img[^>]+src=["\']([^"\']+)', html, re.I)]
+    page_imgs = [urljoin(page_url, htmllib.unescape(m)) for m in re.findall(r'<img[^>]+src=["\']([^"\']+)', html, re.I)]
     if stem:
         for src in page_imgs:
             if stem.lower() in src.lower():
                 urls += [src.replace("thumbnail_", ""), src]
-    urls += [src for src in page_imgs if "upload" in src.lower()][:3]
+    # Galeri bağlantıları da dahil, kurumların haber fotoğrafı klasörlerindeki görseller
+    gallery = [urljoin(page_url, htmllib.unescape(m)) for m in re.findall(
+        r'(?:src|data-src|href)=["\']([^"\']+\.(?:jpe?g|png|webp)(?:\?[^"\']*)?)["\']', html, re.I)]
+    hinted = [src for src in page_imgs + gallery if any(h in src.lower() for h in IMAGE_DIR_HINTS)]
+    hinted.sort(key=lambda s: any(t in s.lower() for t in ("small-", "thumb")))  # küçük önizlemeler sona
+    urls += list(dict.fromkeys(hinted))[:3]
     seen, out = set(), []
     for x in urls:
         if x.startswith("http") and x not in seen:
@@ -291,6 +313,25 @@ def download_image(urls, key):
     return None
 
 
+# Otomatik çıkarmanın yanlış bölümü seçtiği sitelerde haber metninin bulunduğu kutu
+CONTENT_XPATH = {
+    "eskisehir.gov.tr": '//*[contains(@class,"detail-content-container")]',
+}
+
+
+def extract_text(html, url):
+    """Gizli pencereleri (çerez metni, galeri) atıp haber metnini çıkarır."""
+    doc = lxml.html.fromstring(html)
+    for el in doc.xpath('//script|//style|//*[contains(concat(" ", normalize-space(@class), " "), " modal ")]'):
+        el.drop_tree()
+    host = urlparse(url).netloc.lower().removeprefix("www.")
+    if host in CONTENT_XPATH:
+        boxes = doc.xpath(CONTENT_XPATH[host])
+        if boxes:
+            return "\n".join(" ".join(t.split()) for t in boxes[0].itertext() if t.strip())
+    return trafilatura.extract(lxml.html.tostring(doc, encoding="unicode"), url=url, include_comments=False) or ""
+
+
 def fetch_source(url, photos_allowed=False, key=None):
     """Kaynağın asıl adresini, metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
     url = resolve_link(url)
@@ -298,7 +339,7 @@ def fetch_source(url, photos_allowed=False, key=None):
     html = http_get(url)
     if html:
         try:
-            text = trafilatura.extract(html, url=url, include_comments=False) or ""
+            text = extract_text(html, url)
             host = urlparse(url).netloc.lower()
             if photos_allowed or host.endswith(OFFICIAL_SUFFIXES):
                 meta = trafilatura.extract_metadata(html, default_url=url)
