@@ -169,6 +169,7 @@ def main():
            "url": f"{SITE['url']}/", "logo": {"@type": "ImageObject", "url": f"{SITE['url']}/static/logo.png",
                                                "width": 512, "height": 512},
            "email": SITE["email"], "areaServed": {"@type": "City", "name": "Eskişehir"},
+           "sameAs": ["https://www.instagram.com/nabiz26haber/"],
            "publishingPrinciples": abs_url("kunye.html") + "#ilkeler"}
 
     def crumbs(*items):
