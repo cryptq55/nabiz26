@@ -1,14 +1,16 @@
 {% extends "base.html" %}
-{% from "macros.html" import card with context %}
+{% from "macros.html" import card, overlay with context %}
 {% block description %}Eskişehir {{ title }} haberleri: en güncel gelişmeler {{ site.name }}'ta.{% endblock %}
 {% block content %}
 <header class="page-head" {% if color %}style="--c: {{ color }}"{% endif %}>
   <span class="eyebrow">{{ kind }}</span>
   <h1>{{ title }}</h1>
+  <svg class="page-beat" viewBox="0 0 120 40" preserveAspectRatio="none" aria-hidden="true"><use href="#beat"/></svg>
   <p>{{ articles|length }} haber</p>
 </header>
 {% if articles %}
-<div class="grid grid-3">{% for a in articles[:90] %}{{ card(a, base) }}{% endfor %}</div>
+{{ overlay(articles[0], "wide", "h2") }}
+<div class="grid">{% for a in articles[1:90] %}{{ card(a) }}{% endfor %}</div>
 {% else %}
 <p class="empty">Bu bölümde henüz haber yok. Ajanımız takipte.</p>
 {% endif %}

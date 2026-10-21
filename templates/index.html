@@ -1,56 +1,78 @@
 {% extends "base.html" %}
-{% from "macros.html" import cover, chip, when, card with context %}
+{% from "macros.html" import cover, chip, when, card, overlay, row, section_head with context %}
+{% set tiles = [
+  ("Mihalgazi", 3, 1), ("Sarıcakaya", 4, 1), ("Mihalıççık", 6, 1),
+  ("İnönü", 1, 2), ("Tepebaşı", 3, 2), ("Alpu", 5, 2), ("Beylikova", 6, 2),
+  ("Seyitgazi", 2, 3), ("Odunpazarı", 3, 3), ("Mahmudiye", 5, 3), ("Sivrihisar", 6, 3),
+  ("Han", 2, 4), ("Çifteler", 4, 4), ("Günyüzü", 6, 4),
+] %}
 {% block content %}
-{% if not articles %}
-<section class="empty-state"><h1>Haber akışı başlıyor</h1><p>Editör ajanımız Eskişehir'i taramaya başladı. İlk haberler birkaç dakika içinde burada olacak.</p></section>
+{% if not lead %}
+<section class="empty-state">
+  <svg class="empty-beat" viewBox="0 0 120 40" aria-hidden="true"><use href="#beat"/></svg>
+  <h1>Nabız atmaya başlıyor</h1>
+  <p>Editör ajanımız Eskişehir'i taramaya başladı. İlk haberler kısa süre içinde burada olacak.</p>
+</section>
 {% else %}
+
 <section class="hero">
-  <article class="hero-lead">
-    <a href="{{ base }}haber/{{ lead.slug }}.html" tabindex="-1">{{ cover(lead, "lg") }}</a>
-    <div class="hero-text">
-      <div class="meta">{{ chip(lead, base) }}<span>{{ lead.district }}</span><span class="dot"></span>{{ when(lead) }}</div>
-      <h1><a href="{{ base }}haber/{{ lead.slug }}.html">{{ lead.title }}</a></h1>
-      <p>{{ lead.spot }}</p>
-    </div>
-  </article>
+  {{ overlay(lead, "lead", "h1") }}
   <div class="hero-side">
-    {% for a in side %}
-    <article class="mini">
-      <a href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a, "sm") }}</a>
-      <div>
-        <div class="meta">{{ chip(a, base) }}{{ when(a) }}</div>
-        <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
-      </div>
-    </article>
-    {% endfor %}
+    {% for a in side %}{{ overlay(a, "side", "h3") }}{% endfor %}
+  </div>
+</section>
+
+<section class="pulse" aria-label="Kentin nabzı">
+  <div class="pulse-count">
+    <span class="eyebrow light"><i class="dot-live"></i>Kentin nabzı</span>
+    <strong>{{ pulse.day }}</strong>
+    <span>haber son 24 saatte<br><em>{{ pulse.week }} haber bu hafta</em></span>
+  </div>
+  <div class="pulse-cats">
+    <span class="eyebrow light">Gündemin ağırlığı</span>
+    {% set top = (pulse.cats[0][1] if pulse.cats else 1) %}
+    {% for c, n in pulse.cats %}
+    <a class="bar" href="{{ base }}kategori/{{ c|slug }}.html" style="--c: {{ colors[c] }}; --w: {{ (n / top * 100)|round }}%">
+      <span>{{ c }}</span><b>{{ n }}</b>
+    </a>
+    {% else %}<p class="muted-light">Son 24 saatte haber yok.</p>{% endfor %}
+  </div>
+  <div class="pulse-map">
+    <span class="eyebrow light">İlçe haritası · son 7 gün</span>
+    <div class="tiles">
+      {% for name, x, y in tiles %}{% set n = pulse.districts.get(name, 0) %}
+      <a class="tile{% if n %} on{% endif %}" href="{{ base }}ilce/{{ name|slug }}.html" style="grid-column: {{ x }}; grid-row: {{ y }}; --h: {{ (n / pulse.max_dist)|round(2) }}" title="{{ name }}: {{ n }} haber">
+        <span>{{ name }}</span>{% if n %}<b>{{ n }}</b>{% endif %}
+      </a>
+      {% endfor %}
+    </div>
   </div>
 </section>
 
 <div class="layout">
   <section>
-    <div class="section-head"><h2>Son Haberler</h2></div>
-    <div class="grid">
-      {% for a in articles[5:17] %}{{ card(a, base) }}{% endfor %}
+    {{ section_head("Son Haberler") }}
+    <div class="rows">
+      {% for a in rest %}{{ row(a) }}{% endfor %}
     </div>
   </section>
   <aside class="sidebar">
-    <div class="panel">
-      <h3 class="panel-title"><span class="pulse-dot"></span> Akış</h3>
+    <div class="panel sticky">
+      <h3 class="panel-title"><i class="dot-live"></i>Akış</h3>
       <ol class="timeline">
-        {% for a in articles[:10] %}<li><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></li>{% endfor %}
+        {% for a in articles[:10] %}<li style="--c: {{ a.color }}"><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></li>{% endfor %}
       </ol>
-    </div>
-    <div class="panel">
-      <h3 class="panel-title">İlçeler</h3>
-      <div class="district-chips">{% for d in districts %}<a href="{{ base }}ilce/{{ d|slug }}.html">{{ d }}</a>{% endfor %}</div>
     </div>
   </aside>
 </div>
 
 {% for c in categories %}{% set items = by_cat[c] %}{% if items|length >= 3 %}
 <section class="cat-block" style="--c: {{ colors[c] }}">
-  <div class="section-head"><h2>{{ c }}</h2><a href="{{ base }}kategori/{{ c|slug }}.html">Tümü →</a></div>
-  <div class="grid grid-4">{% for a in items[:4] %}{{ card(a, base) }}{% endfor %}</div>
+  {{ section_head(c, base ~ "kategori/" ~ (c|slug) ~ ".html", colors[c]) }}
+  <div class="cat-grid">
+    {{ overlay(items[0], "cat", "h3") }}
+    <div class="cat-list">{% for a in items[1:4] %}{{ card(a) }}{% endfor %}</div>
+  </div>
 </section>
 {% endif %}{% endfor %}
 {% endif %}

@@ -82,10 +82,21 @@ def main():
         target.write_text(env.get_template(template).render(**common, base=base, path=path, **ctx), encoding="utf-8")
 
     by_cat = {c: [a for a in articles if a["category"] == c] for c in CATEGORIES}
+    # "Kentin nabzı" paneli: son 24 saat ve son 7 günün dağılımı
+    now_ts = datetime.now(timezone.utc).timestamp()
+    def within(a, hours):
+        return now_ts - datetime.fromisoformat(a["published_at"]).timestamp() <= hours * 3600
+    day = [a for a in articles if within(a, 24)]
+    week = [a for a in articles if within(a, 24 * 7)]
+    cat_counts = sorted(((c, sum(a["category"] == c for a in day)) for c in CATEGORIES), key=lambda x: -x[1])
+    dist_counts = {d: sum(a["district"] == d for a in week) for d in DISTRICTS}
+    common["pulse"] = {"day": len(day), "week": len(week), "cats": [c for c in cat_counts if c[1]][:5],
+                       "districts": dist_counts, "max_dist": max(dist_counts.values() or [0]) or 1}
     # Manşete son 6 haber içinden fotoğraflı olan çıksın
     lead = next((a for a in articles[:6] if a.get("image")), articles[0] if articles else None)
-    side = [a for a in articles[:5] if a is not lead][:4]
-    render("index.html", "index.html", articles=articles, by_cat=by_cat, title=None, lead=lead, side=side)
+    side = [a for a in articles[:5] if a is not lead][:2]
+    rest = [a for a in articles if a is not lead and all(a is not x for x in side)][:12]
+    render("index.html", "index.html", articles=articles, by_cat=by_cat, title=None, lead=lead, side=side, rest=rest)
     for cat, items in by_cat.items():
         render("list.html", f"kategori/{slugify(cat)}.html", articles=items, title=cat,
                kind="Kategori", color=CATEGORY_COLORS[cat])

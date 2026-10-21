@@ -1,20 +1,18 @@
+{# Kapak: gerçek fotoğraf varsa o, yoksa kategori renginde nabız desenli tipografik kapak #}
 {% macro cover(a, size="") -%}
 {% if a.image %}
 <div class="cover photo {{ size }}" style="--c: {{ a.color }}">
-  <img src="{{ base }}{{ a.image.file }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentNode.classList.remove('photo');this.remove()">
-  <span class="cover-cat">{{ a.category }}</span>
-  <span class="cover-dist">{{ a.district }}</span>
+  <img src="{{ base }}{{ a.image.file }}" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove('photo');this.remove()">
 </div>
 {% else %}
 <div class="cover {{ size }}" style="--c: {{ a.color }}" aria-hidden="true">
-  <svg class="cover-pulse" viewBox="0 0 400 100" preserveAspectRatio="none"><path d="M0 60 H120 L140 30 L160 85 L180 15 L200 70 L215 50 H400" /></svg>
-  <span class="cover-cat">{{ a.category }}</span>
-  <span class="cover-dist">{{ a.district }}</span>
+  <svg class="cover-beat" viewBox="0 0 120 40" preserveAspectRatio="none"><use href="#beat"/></svg>
+  <span class="cover-word">{{ a.district if a.district != "Merkez" else "Eskişehir" }}</span>
 </div>
 {% endif %}
 {%- endmacro %}
 
-{% macro chip(a, base) -%}
+{% macro chip(a) -%}
 <a class="chip" style="--c: {{ a.color }}" href="{{ base }}kategori/{{ a.category|slug }}.html">{{ a.category }}</a>
 {%- endmacro %}
 
@@ -22,13 +20,50 @@
 <time datetime="{{ a.published_at }}" data-rel>{{ a.date_tr }}</time>
 {%- endmacro %}
 
-{% macro card(a, base, show_cover=True) -%}
-<article class="card">
-  {% if show_cover %}<a href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a) }}</a>{% endif %}
+{# Dikey kart: üstte kapak #}
+{% macro card(a) -%}
+<article class="card" style="--c: {{ a.color }}">
+  <a class="card-media" href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a) }}</a>
   <div class="card-body">
-    <div class="meta">{{ chip(a, base) }}<span>{{ a.district }}</span><span class="dot"></span>{{ when(a) }}</div>
+    <div class="kicker"><span>{{ a.category }}</span>{{ a.district }}</div>
+    <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
+    <div class="meta">{{ when(a) }}</div>
+  </div>
+</article>
+{%- endmacro %}
+
+{# Fotoğraf üstüne yazılı büyük kart #}
+{% macro overlay(a, size="", tag="h2") -%}
+<article class="overlay {{ size }}" style="--c: {{ a.color }}">
+  <a href="{{ base }}haber/{{ a.slug }}.html">
+    {{ cover(a, "fill") }}
+    <div class="overlay-text">
+      <div class="kicker light"><span>{{ a.category }}</span>{{ a.district }}</div>
+      <{{ tag }}>{{ a.title }}</{{ tag }}>
+      {% if size == "lead" %}<p>{{ a.spot }}</p>{% endif %}
+      <div class="meta light">{{ when(a) }}</div>
+    </div>
+  </a>
+</article>
+{%- endmacro %}
+
+{# Yatay liste satırı: solda saat, sağda küçük kapak #}
+{% macro row(a) -%}
+<article class="row" style="--c: {{ a.color }}">
+  <div class="row-time"><b>{{ a.time_tr }}</b><span>{{ a.date_tr.split(',')[0] }}</span></div>
+  <div class="row-body">
+    <div class="kicker"><span>{{ a.category }}</span>{{ a.district }}</div>
     <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
     <p>{{ a.spot }}</p>
   </div>
+  <a class="row-media" href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a, "sm") }}</a>
 </article>
+{%- endmacro %}
+
+{% macro section_head(title, href=None, color=None) -%}
+<div class="sec-head" {% if color %}style="--c: {{ color }}"{% endif %}>
+  <h2>{{ title }}</h2>
+  <svg class="sec-beat" viewBox="0 0 120 40" preserveAspectRatio="none" aria-hidden="true"><use href="#beat"/></svg>
+  {% if href %}<a href="{{ href }}">Tümü <span aria-hidden="true">→</span></a>{% endif %}
+</div>
 {%- endmacro %}

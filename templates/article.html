@@ -13,11 +13,13 @@
 {% block content %}
 <div class="article-layout">
 <article class="story">
+  <div class="story-head" style="--c: {{ a.color }}">
   <nav class="crumbs"><a href="{{ base }}index.html">Ana Sayfa</a> / <a href="{{ base }}kategori/{{ a.category|slug }}.html">{{ a.category }}</a> / <a href="{{ base }}ilce/{{ a.district|slug }}.html">{{ a.district }}</a></nav>
   <h1>{{ a.title }}</h1>
   <p class="spot">{{ a.spot }}</p>
+  </div>
   <div class="story-meta">
-    <div class="meta">{{ chip(a, base) }}<span>{{ a.date_tr }}</span><span class="dot"></span><span>{{ a.read_min }} dk okuma</span></div>
+    <div class="meta">{{ chip(a) }}<span>{{ a.date_tr }}</span><span class="dot"></span><span>{{ a.read_min }} dk okuma</span></div>
     <div class="share">
       <a href="https://wa.me/?text={{ (a.title ~ ' ' ~ site.url ~ '/haber/' ~ a.slug ~ '.html')|urlencode }}" target="_blank" rel="noopener" aria-label="WhatsApp'ta paylaş">WhatsApp</a>
       <a href="https://x.com/intent/post?text={{ a.title|urlencode }}&url={{ (site.url ~ '/haber/' ~ a.slug ~ '.html')|urlencode }}" target="_blank" rel="noopener" aria-label="X'te paylaş">X</a>
@@ -48,7 +50,7 @@
 <aside class="sidebar">
   <div class="panel sticky">
     <h3 class="panel-title"><span class="pulse-dot"></span> Son dakika</h3>
-    <ol class="timeline">{% for r in latest %}<li><time>{{ r.time_tr }}</time><a href="{{ base }}haber/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}</ol>
+    <ol class="timeline">{% for r in latest %}<li style="--c: {{ r.color }}"><time>{{ r.time_tr }}</time><a href="{{ base }}haber/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}</ol>
   </div>
 </aside>
 </div>
