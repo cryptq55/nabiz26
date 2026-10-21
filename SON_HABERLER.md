@@ -62,6 +62,8 @@ En başarılı model, yağ baskılı T2 sagittal, proton yoğunluklu koronal ve 
 
 **Kültür-Sanat · Merkez** · 2026-10-21 18:47 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberturk.com/gundem/foto/eskisehir-de-mukaddes-emanetler-sergisi-3921470)
 
+![](data/images/7cab980cb8546a0b.jpg)
+
 > MÜSİAD Eskişehir Şubesi'nin düzenlediği sergi, İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda açıldı. Sergi 25 Ekim'de sona erecek.
 
 Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Eskişehir Şubesi tarafından düzenlenen "Mukaddes Emanetler Sergisi", Eskişehir İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda ziyarete açıldı. Sergide Asr-ı Saadet dönemine ait kutsal emanetler yer alıyor.
