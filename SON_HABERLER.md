@@ -44,6 +44,8 @@ Topluluğun eğitmeni Oktay Şahin ise Odunpazarı'nın Eskişehir'in ilk yerle�
 
 **Sağlık · Merkez** · 2026-10-21 18:47 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2063?tur=AkademikMakale)
 
+![](data/images/cf96fb567fc14bdd.jpg)
+
 > Eskişehir Osmangazi Üniversitesi'nden araştırmacıların omuz MR görüntülerinde rotator manşet yırtığını sınıflandıran yapay zekâ çalışması Journal of Clinical Medicine dergisinde yayımlandı.
 
 Eskişehir Osmangazi Üniversitesi Mühendislik-Mimarlık Fakültesi'nden Arş. Gör. Sergen Aşık ve Prof. Dr. Ahmet Yazıcı, Bilecik Şeyh Edebali Üniversitesi'nden Prof. Dr. Murat Aşçı ve Eskişehir Yunus Emre Devlet Hastanesi'nden Uzm. Dr. İrfan Okumuşer ile birlikte yürüttükleri makale, Q1 kategorisindeki Journal of Clinical Medicine dergisinde yayımlandı.
