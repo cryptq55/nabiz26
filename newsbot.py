@@ -246,6 +246,13 @@ def scan_page(page):
         # Aynı sitedeki ve başlık gibi görünen bağlantılar
         if u.netloc != host or len(text) < 25 or url in urls:
             continue
+        low = text.lower()
+        # Liste/menü bağlantıları ve geçmiş yıllara ait duyurular haber değildir
+        if low.startswith(("haberler", "tüm haberler", "duyurular", "tüm duyurular")) or "tüm haberleri" in low:
+            continue
+        years = [int(y) for y in re.findall(r"\b(20\d{2})\b", text)]
+        if years and max(years) < datetime.now().year:
+            continue
         urls.add(url)
         found.append((url, text))
     if not found:
