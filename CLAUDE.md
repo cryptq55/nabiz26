@@ -34,6 +34,7 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 2. Instagram'a logo ve web sitesi bağlantısı (`https://nabiz26.com/instagram`, yalnızca mobil uygulamadan),
    Facebook sayfasına logo. Otomatik paylaşım çalışıyor (21.10.2026): Instagram girişli API, uygulama
    "Nabız 26 Paylaşım" (ID 1055728357426949), secrets `IG_ACCESS_TOKEN` + `GH_SECRETS_TOKEN`, `ig-token.yml` test edildi.
-3. Künye (`templates/kunye.html`): firma unvanı, sorumlu yazı işleri müdürü, yönetim yeri adresi eksik.
+3. Künye: imtiyaz sahibi Intertrade Danışmanlık İç ve Dış Ticaret Ltd. Şti., yer sağlayıcı Cloudflare. Sahibi sorumlu
+   müdür ve adres satırlarını istemedi (22.10.2026); Google Haberler başvurusunda sorulursa tekrar konuşulacak.
 4. Google Haberler Yayıncı Merkezi başvurusu (künye dolduktan ve birkaç gün haber biriktikten sonra).
 5. Valilik (bağlantı reddediyor) ve Anadolu Üniversitesi (haber bağlantısı bulunamıyor) kaynakları düzeltilecek.
