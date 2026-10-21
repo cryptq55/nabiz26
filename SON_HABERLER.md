@@ -2,6 +2,148 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nın "Gel Beraber Olsun" yemeği yeni adresinde başladı
+
+**Belediye · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/‘gelberaberolsun’yeniyerindeyogunilgigordu)
+
+![](data/images/33bcb30504e875f3.jpg)
+
+> Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik akşam yemeği desteği, 19 Ekim'den itibaren Ali Rıza Efendi Deneyimli Kafe'de veriliyor.
+
+Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik "Gel Beraber Olsun" akşam yemeği desteği 19 Ekim Pazartesi gününden itibaren yeni adresinde verilmeye başlandı. Etkinlik hafta içi her gün 18.00-19.00 saatleri arasında Ali Rıza Efendi Deneyimli Kafe'de düzenleniyor ve ilk gününde öğrencilerden yoğun ilgi gördü.
+
+Belediye, 2022'de başlattığı etkinlikte bugüne kadar 69 bin 113 öğrenciyi aynı sofrada buluşturdu. Öğrenciler, desteğin eğitim ve yaşam giderlerinin arttığı dönemde kendileri için önemli olduğunu belirtti.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, üniversite öğrencilerinin geçim mücadelesi vermek zorunda kaldığını söyledi. Ataç, projeyi gençlerle dayanışmak için hayata geçirdiklerini belirterek tüm öğrencileri yeni adrese davet etti.
+
+Yeni adres Yenibağlar Mahallesi, Kartal Tepesi Sokak No: 14, Şehit Jandarma Er Osman Özgerçik Parkı içinde bulunuyor. Bilgi almak isteyen öğrenciler 0222 211 40 00 / 4200-4205 numaralı telefonu arayabiliyor.
+
+---
+
+## Tepebaşı İklim İzcileri Programı'na 66 izci adayı başvurdu
+
+**Eğitim · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nda66izciadayıyenidonemehazırlanıyor)
+
+![](data/images/0c6c9877135077a8.jpg)
+
+> Tepebaşı İklim İzcileri Programı 2026-2027 dönemi için tanıtım toplantısı yapıldı. Toplantıya 66 izci adayı ve aileleri katıldı.
+
+Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü öncülüğünde yürütülen Tepebaşı İklim İzcileri Programı, 2026-2027 dönemi için yeni izcilerini karşılamaya hazırlanıyor. Programa başvuran 66 izci adayı ve aileleri, Tepebaşı Belediyesi Meclis Salonu'ndaki tanıtım toplantısında bir araya geldi.
+
+Program, Türkiye İzcilik Federasyonu bünyesinde ve Eskişehir İklim Spor Kulübü iş birliğiyle sürdürülüyor. Toplantıda izcilik kültürü, doğa sevgisi ve çevre bilincinin çocukların gelişimindeki yeri ele alındı, programın işleyişi ve yeni dönem çalışmaları anlatıldı.
+
+Geçmiş dönemlerdeki eğitim, kamp ve doğa etkinliklerinden fotoğraf ve videolar paylaşıldı. Velilerin soruları da yanıtlandı.
+
+Programın çocukların doğayı tanımasını, çevre bilinci kazanmasını ve takım çalışması ile sorumluluk duygusunu geliştirmesini amaçladığı belirtildi. Şu anda yaklaşık 70 izcinin yer aldığı programın yeni dönem başvurularıyla büyümesi bekleniyor.
+
+---
+
+## Tepebaşı İklim Haftası'nda 62 genç İklim Manifestosu hazırladı
+
+**Gündem · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/geleceginiklimsozutepebası’ndanyukseliyor)
+
+![](data/images/f60ca3b9c9cac2ed.jpg)
+
+> 16-23 Ekim'de düzenlenen Tepebaşı İklim Haftası, COP31 Bike Ride bisikletçilerinin karşılanması ve Gençlik İklim Çalıştayı ile başladı.
+
+Tepebaşı Belediyesi'nin 16-23 Ekim tarihleri arasında düzenlediği Tepebaşı İklim Haftası, COP31 Bike Ride bisikletçilerinin karşılanması, bir belgesel gösterimi ve Gençlik İklim Çalıştayı ile başladı.
+
+19 Ekim'de Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda yapılan çalıştaya 62 üniversite ve lise öğrencisi katıldı. Gençler; iklim adaleti, enerji ve düşük karbonlu yaşam, gençlik katılımı, iklim yönetişimi ve iklim farkındalığı ile iklim değişikliğine uyum başlıklarında öneriler geliştirdi. Çalıştay Dr. Nuran Talu ve EKO Okullar İl Koordinatörü Nadir Erdem'in moderatörlüğünde yapıldı. Gençlerin görüşleri Gençlik İklim Manifestosu'nda toplandı ve manifestonun COP31 sürecinde paylaşılması hedefleniyor.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, gençlerin iklim kararlarına katılımını önemsediklerini söyledi. Ataç, önerileri kent yönetiminin karar süreçlerine taşımaya çalışacaklarını belirtti.
+
+Brezilya'daki Belém kentinden yola çıkıp COP31'in düzenleneceği Antalya'ya ulaşmayı hedefleyen COP31 Bike Ride ekibi, Türkiye'de İstanbul, Eskişehir, Ankara, Konya ve Antalya güzergâhını izliyor. Bisikletçiler 16 Ekim'de Özdilek Sanat Merkezi'nde karşılandı ve Başkan Ataç ile görüştü. Yolculuklarını anlatan "COP30BikeRide – Together" belgeseli 18 Ekim'de Tepebaşı Belediyesi Hizmet Binası Meclis Salonu'nda gösterildi.
+
+---
+
+## Odunpazarı'nda Kış Dönemi Basketbol Spor Okulu için kayıtlar sürüyor
+
+**Spor · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-kis-donemi-basketbol-spor-okulu-basliyor-cocuklar-basketbo)
+
+![](data/images/1758553e521e9f4b.jpg)
+
+> Odunpazarı Belediyesi'nin 2015, 2016 ve 2017 doğumlu çocuklara yönelik basketbol spor okulu için kayıtlar 23 Ekim'e kadar Mehmet Terzi Spor Salonu'nda alınıyor.
+
+Odunpazarı Belediyesi, çocukları sporla buluşturmak amacıyla Kış Dönemi Basketbol Spor Okulu açıyor. Okul 2015, 2016 ve 2017 doğumlu çocuklara yönelik.
+
+Kayıtlar 19-23 Ekim tarihleri arasında Mehmet Terzi Spor Salonu'nda şahsen yapılıyor. Kayıt sırasında kimlik ibrazı zorunlu.
+
+Basketbol eğitimleri cumartesi ve pazar günleri 13.00-14.00 saatleri arasında verilecek. Spor okulu kapsamında malzeme ücreti olarak 1.250 TL alınacak. Ücretler nakit tahsil edilecek, ayrıntılı bilgi kayıt sırasında ailelerle paylaşılacak.
+
+---
+
+## Odunpazarı'nda deneme merkezinde elde edilen 1,6 ton un Halk Market'e bağışlandı
+
+**Belediye · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nin-uretimi-ihtiyac-sahibi-ailelerin-sofrasina-ulasiyor-uretimden-day)
+
+![](data/images/909192e278d2a81e.jpg)
+
+> Odunpazarı Belediyesi Veteriner İşleri Müdürlüğü, Kalkanlı'daki merkezde elde edilen 1 ton 600 kilogram unu ihtiyaç sahibi ailelere ulaştırılmak üzere Halk Market'e verdi.
+
+Odunpazarı Belediyesi Veteriner İşleri Müdürlüğü, Kalkanlı Çiftçi Eğitim ve Yeni Çeşit Deneme Merkezi'nde elde edilen 1 ton 600 kilogram unu belediyenin sosyal yardım modeli Halk Market'e bağışladı.
+
+Merkezde denemeleri yapılan 17 çeşit buğday ve arpa karışık biçimde hasat edildi. Elde edilen un 25'er kilogramlık 63 çuvala konuldu ve Halk Market ile Tarım İşleri Müdürlüğü yetkililerine teslim edildi.
+
+Unların Halk Market aracılığıyla ihtiyaç sahibi ailelere ulaştırılması planlanıyor. Odunpazarı Belediyesi, sosyal belediyecilik anlayışı doğrultusunda ihtiyaç sahibi yurttaşlara destek vermeyi sürdürdüğünü belirtiyor.
+
+---
+
+## Odunpazarı Belediyesi kadın personele meme kanseri semineri düzenledi
+
+**Sağlık · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nde-meme-kanseri-farkindalik-seminerleri-duzenlendi)
+
+![](data/images/953dd20373a71014.jpg)
+
+> Odunpazarı Belediyesi ve Özel Anadolu Hastanesi iş birliğiyle düzenlenen seminerde kadın personele meme kanserinin belirtileri ve erken teşhisin önemi anlatıldı.
+
+Odunpazarı Belediyesi ile Özel Anadolu Hastanesi iş birliğinde, belediyede görev yapan kadın personele yönelik "Meme Kanseri Farkındalık Seminerleri" düzenlendi. Seminer Odunpazarı Belediyesi Meclis Salonu'nda yapıldı ve konuşmacı olarak Genel Cerrahi Uzmanı Op. Dr. Mustafa Yıldız katıldı.
+
+Seminerde memede ele gelen kitle, meme boyutunda veya şeklinde değişiklik, ciltte farklılıklar ve meme başındaki değişimler gibi belirtilere dikkat çekildi. Bu tür değişikliklerin fark edilmesi durumunda bir sağlık kuruluşuna başvurmanın önemi vurgulandı.
+
+Tanı ve tedavi süreci hakkında da bilgi verilen seminerde, hastalığın erken evrede tespit edilmesinin tedavi açısından önemi anlatıldı. Katılımcılar sorularını Op. Dr. Yıldız'a yöneltti.
+
+Seminerler, Odunpazarı Belediyesi İnsan Kaynakları ve Eğitim Müdürlüğü koordinasyonunda gerçekleştirildi.
+
+---
+
+## Odunpazarı Belediye Başkanı Kurt, engelli dernekleriyle bir araya geldi
+
+**Belediye · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kazim-kurt-engelli-dernekleriyle-bir-araya-geldi-baskan-kurt-sosyal-dev)
+
+![](data/images/e93ad9b2aa139850.jpg)
+
+> Odunpazarı Belediye Başkanı Kazım Kurt, Meclis Salonu'nda engelli derneklerinin temsilcileriyle görüştü. Başkan Kurt, sosyal devletin herkesi kucaklaması gerektiğini söyledi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, engelli derneklerinin temsilcileriyle Odunpazarı Belediyesi Meclis Salonu'nda bir araya geldi. Toplantıda engelli bireylerin talep ve beklentileri ele alındı.
+
+Toplantıya Görme Engelliler Dayanışma Derneği (GÖRSEM), Eskişehir Görme Engelliler Spor Kulübü, Eskişehir Görmeyenleri ve Göz Sağlığını Koruma Derneği (ESGÖRDER), Eskişehir İki Eylül Görme Engelliler Gençlik ve Spor Kulübü, Yunusemre Görme Engelliler Spor Kulübü ve İşitme Engelliler Birliktelik Derneği temsilcileri katıldı. İşitme engelli katılımcılar için toplantıda işaret dili tercümanı görev yaptı.
+
+Dernek temsilcileri, engelli bireylerin yaşamını kolaylaştırmaya yönelik talep ve önerilerini dile getirdi. Başkan Kurt iletilen istekleri not aldı, belediyenin çalışmaları hakkında bilgi verdi.
+
+Kurt, konuşmasında sosyal devletin toplumun bütün kesimlerini kucaklaması gerektiğini söyledi. "Çok ciddi bir tasarruf genelgesi baskısı altındayız. Dolayısıyla bazı şeyler eksik kalabilir, kalıyor" diyen Kurt, bunların düzelmesini umduğunu belirtti.
+
+Belediyenin Engelliler ve Yaşlı Hizmetleri Müdürlüğü kurduğunu hatırlatan Kurt, Yenikent Mahallesi'ndeki Seramik Park içinde yer alan Engelsiz Kültür Sanat Merkezi'nde engelli çocuklara eğitim verildiğini, Ahmet Ara Engelsiz Gündüz Bakımevi ve Kreşi'nin bulunduğunu ve personele işaret dili öğreten kurslar açıldığını anlattı. Belediyenin internet sitesinde de işitme engelliler için çeviri yapan bir sistem bulunuyor.
+
+---
+
+## Eskişehir Bal Kabağı Çalıştayı 26 Ekim'de yapılacak
+
+**Tarım · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/balkabagınıngelecegiakademisyenlerleeskisehir’dekonusulacak)
+
+![](data/images/e0fec22204eb1578.jpg)
+
+> Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü'nün düzenlediği çalıştay, Türkiye'de ilk kez ulusal ölçekte yapılacak. Etkinlik ESOGÜ Ziraat Fakültesi'nde gerçekleşecek.
+
+Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü, ESOGÜ Ziraat Fakültesi iş birliğiyle Eskişehir Bal Kabağı Çalıştayı düzenliyor. Çalıştay 26 Ekim Pazartesi günü saat 13.00-17.00 arasında ESOGÜ Ziraat Fakültesi Ali Numan Kıraç Yerleşkesi Prof. Dr. Ali Koç Konferans Salonu'nda yapılacak.
+
+Türkiye'de ilk kez ulusal ölçekte gerçekleştirilecek çalıştayda, farklı üniversitelerden akademisyenler ve tarımsal araştırma kurumları bir araya gelecek. Kabak ıslahı, genetik kaynaklar, yetiştiricilik ve coğrafi işaretli bal kabaklarının kırsal kalkınmaya katkısı ele alınacak.
+
+Programda Prof. Dr. Kazım Abak, Prof. Dr. Ahmet Balkaya, Prof. Dr. Şebnem Ellialtıoğlu ve Prof. Dr. Halit Yetişir'in sunumları yer alıyor. Sunumlar kabak ıslahının gelişimi, kestane kabağı ve bal kabağının genetik kaynakları, çerezlik ve su kabağı yetiştiriciliği gibi konuları kapsıyor.
+
+Çalıştayın moderatörlüğünü ESOGÜ Ziraat Fakültesi'nden Doç. Dr. Sıtkı Ermiş üstlenecek. Ermiş, bal kabağının gıda, tarım ve sanayi açısından önem taşıyan stratejik bir tarımsal ürün olduğunu belirtti. Çalıştayın, Eskişehir'in coğrafi işaretli ürünlerinden Kızılinler Bal Kabağı'nın tanıtılması ve üretim potansiyelinin geliştirilmesi amacıyla düzenlendiği ifade edildi.
+
+---
+
 ## Tepebaşı Kadın Sığınma Evi 2007'den bu yana 819 kişiye hizmet verdi
 
 **Belediye · Tepebaşı** · 2026-10-21 18:47 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatackadınlarınesitveozguryasamıicinsorumlulugumuzusurdurecegiz)
