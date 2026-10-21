@@ -24,7 +24,7 @@ SITE = "https://nabiz26.com"
 STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
-MAX_STORIES = 4   # tur başına
+MAX_STORIES = 6   # tur başına
 MAX_POSTS = 1     # tur başına; akışı boğmamak için
 
 

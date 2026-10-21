@@ -37,3 +37,21 @@ pages:
     url: https://www.ogu.edu.tr/
   - name: Eskişehir Teknik Üniversitesi
     url: https://www.eskisehir.edu.tr/
+  # İlçe belediyeleri
+  - name: Alpu Belediyesi
+    url: https://www.alpu.bel.tr/
+  - name: Beylikova Belediyesi
+    url: https://www.beylikova.bel.tr/
+  - name: Günyüzü Belediyesi
+    url: https://www.gunyuzu.bel.tr/
+  - name: Mihalıççık Belediyesi
+    url: https://www.mihaliccik.bel.tr/
+  - name: Seyitgazi Belediyesi
+    url: https://www.seyitgazi.bel.tr/
+  # İl müdürlükleri
+  - name: Eskişehir İl Tarım ve Orman Müdürlüğü
+    url: https://eskisehir.tarimorman.gov.tr/
+  - name: Eskişehir Gençlik ve Spor İl Müdürlüğü
+    url: https://eskisehir.gsb.gov.tr/
+  - name: Eskişehir İl Kültür ve Turizm Müdürlüğü
+    url: https://eskisehir.ktb.gov.tr/
