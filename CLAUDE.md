@@ -1,0 +1,40 @@
+# Nabız 26: proje notları (Claude için)
+
+Eskişehir yerel haber sitesi **nabiz26.com**. Haberleri yapay zekâ yazar, site statik üretilir.
+Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
+
+## Nasıl çalışıyor
+- **Haber masası:** "Nabız 26 haber masası" adlı Claude bulut oturumu, zamanlanmış görevle 2 saatte bir
+  uyanır ve `OTURUM.md` talimatını uygular: `newsbot.py --collect` → haberleri yazar → `--save` → `main`'e push.
+  Editör kuralları: `python newsbot.py --rules`. Kaynaklar: `sources.yaml`.
+- **Yayın:** Cloudflare Workers (GitHub bağlantısı), her push'ta derler. Derleme komutu:
+  `pip install -r requirements.txt && SITE_URL=https://nabiz26.com LINK_EXT= python build.py`, ayar `wrangler.jsonc`.
+  Alan adları nabiz26.com ve www.nabiz26.com bağlı.
+- **GitHub Actions** (`.github/workflows/haber.yml`): yeni haberde IndexNow (Bing/Yandex) bildirimi ve
+  Instagram paylaşımı (`instagram.py`; `IG_USER_ID` ve `IG_ACCESS_TOKEN` gizli değişkenleri yoksa atlar).
+- **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
+  `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
+- **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
+  `sitemap.xml`, `news-sitemap.xml`, `robots.txt`, RSS. Search Console'a iki site haritası gönderildi.
+
+## Kurallar
+- Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
+- Yayınlanmış haber sonradan elle değiştirilmez (düzeltme gerekirse sahibine sor).
+- Haberlerde kaynakta olmayan bilgi yok. Asayişte masumiyet karinesi, tam isim yok.
+- Gizli bilgiler (token, şifre) sohbete yazılmaz; GitHub Secrets'a eklenir.
+
+## Hesaplar
+- E-posta: iletisim@, haber@, reklam@nabiz26.com → Cloudflare Email Routing ile sahibinin Gmail'ine.
+- Instagram: @nabiz26haber (işletme hesabı).
+- Google Search Console: doğrulandı. Bing ve Yandex Webmaster: eklendi (Yandex DNS doğrulaması var).
+
+## Açık işler (sırayla)
+1. E-posta yönlendirme testi: başka bir adresten iletisim@nabiz26.com'a posta gönderilip Gmail'e düştüğü görülecek.
+2. Instagram otomatik paylaşım: Facebook sayfası "Nabız 26" → @nabiz26haber'e bağlama → Meta işletme
+   portföyü → geliştirici uygulaması "Nabız 26 Paylaşım" (Instagram ürünü) → sistem kullanıcısı "nabiz26-bot",
+   süresiz token (instagram_basic, instagram_content_publish, pages_show_list, pages_read_engagement,
+   business_management) → Graph API Explorer ile `me/accounts?fields=instagram_business_account{id,username}`
+   → GitHub Secrets: `IG_ACCESS_TOKEN`, `IG_USER_ID` → Actions'ta "Bildir ve paylaş" iş akışını elle çalıştır.
+3. Künye (`templates/kunye.html`): firma unvanı, sorumlu yazı işleri müdürü, yönetim yeri adresi eksik.
+4. Google Haberler Yayıncı Merkezi başvurusu (künye dolduktan ve birkaç gün haber biriktikten sonra).
+5. Valilik (bağlantı reddediyor) ve Anadolu Üniversitesi (haber bağlantısı bulunamıyor) kaynakları düzeltilecek.
