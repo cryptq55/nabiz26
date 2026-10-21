@@ -19,7 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from PIL import Image, ImageDraw
 
 from newsbot import CATEGORIES, DISTRICTS, slugify
-from social import brand, build_social, font
+from social import brand, build_social, cover_image, font
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "public"
@@ -60,6 +60,10 @@ CATEGORY_DESC = {
 TR_MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
              "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 TR_DAYS = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
+TR_TZ = timezone(timedelta(hours=3))
+# Google'ın büyük önizleme için istediği oranlar (en az 1200 px genişlik)
+GOOGLE_RATIOS = {"16x9": (1200, 675), "4x3": (1200, 900), "1x1": (1200, 1200)}
+GOOGLE_IMAGE_LIMIT = 200  # her derlemede yalnızca son haberler için üretilir
 
 
 def district_desc(d):
@@ -72,6 +76,22 @@ def to_tr_time(iso):
     # Türkiye saati (UTC+3, yaz saati uygulaması yok)
     dt = datetime.fromisoformat(iso).astimezone(timezone.utc)
     return datetime.fromtimestamp(dt.timestamp() + 3 * 3600, timezone.utc)
+
+
+def iso_tr(iso):
+    """Arama motorları için sade tarih: Türkiye saati, saniye hassasiyeti (2026-10-21T21:35:08+03:00)."""
+    return datetime.fromisoformat(iso).astimezone(TR_TZ).replace(microsecond=0).isoformat()
+
+
+def google_images(a, out_dir):
+    """Google Haberler/Discover için haber fotoğrafının 1200 px genişlikte 16:9, 4:3 ve 1:1 sürümleri."""
+    src = DATA_DIR.parent / a["image"]["file"]
+    out = []
+    for name, (w, h) in GOOGLE_RATIOS.items():
+        path = out_dir / f"{a['slug']}-{name}.jpg"
+        cover_image(src, w, h, a["color"]).save(path, "JPEG", quality=82, optimize=True, progressive=True)
+        out.append({"url": f"{SITE['url']}/images/g/{path.name}", "w": w, "h": h})
+    return out
 
 
 def abs_url(path):
@@ -91,6 +111,9 @@ def load_articles():
             continue
         if REQUIRE_IMAGE and not a.get("image"):
             continue  # fotoğrafsız haber sitede gösterilmez
+        a["published_at"] = iso_tr(a["published_at"])
+        if a.get("updated_at"):
+            a["updated_at"] = iso_tr(a["updated_at"])
         d = to_tr_time(a["published_at"])
         a["paragraphs"] = [p.strip() for p in a["body"].split("\n\n") if p.strip()]
         a["date_tr"] = f"{d.day} {TR_MONTHS[d.month - 1]} {d.year}, {d:%H:%M}"
@@ -210,7 +233,9 @@ def main():
     for cat, items in by_cat.items():
         p = f"kategori/{slugify(cat)}.html"
         render("list.html", p, {"title": f"Eskişehir {cat} Haberleri | {SITE['name']}", "description": CATEGORY_DESC[cat],
-                                "ld": [crumbs(("Ana Sayfa", f"{SITE['url']}/"), (cat, abs_url(p)))]},
+                                "ld": [crumbs(("Ana Sayfa", f"{SITE['url']}/"), (cat, abs_url(p)))],
+                                # Henüz haberi olmayan kategori sayfaları boş sayfa olarak dizinlenmesin
+                                "noindex": not items},
                articles=items, title=cat, kind="Kategori", color=CATEGORY_COLORS[cat], intro=CATEGORY_DESC[cat])
     for dist in DISTRICTS:
         items = [a for a in articles if a["district"] == dist]
@@ -222,8 +247,17 @@ def main():
                                 "noindex": not items},
                articles=items, title=dist, kind="İlçe", color=None, intro=district_desc(dist))
 
-    for a in articles:
+    gdir = OUT / "images" / "g"
+    gdir.mkdir(parents=True, exist_ok=True)
+    for i, a in enumerate(articles):
         related = [r for r in by_cat[a["category"]] if r["slug"] != a["slug"]][:4]
+        gimgs = google_images(a, gdir) if a.get("image") and i < GOOGLE_IMAGE_LIMIT else []
+        if gimgs:
+            images, og = [g["url"] for g in gimgs], gimgs[0]
+        elif a.get("image"):
+            images, og = [a["image"]["abs"]], {"url": a["image"]["abs"], "w": a["image"]["w"], "h": a["image"]["h"]}
+        else:
+            images, og = [common["og_default"]], {"url": common["og_default"], "w": 1200, "h": 630}
         latest = [r for r in articles if r["slug"] != a["slug"]][:6]
         cat_url = abs_url(f"kategori/{slugify(a['category'])}.html")
         ld = [{"@type": "NewsArticle", "headline": a["title"][:110], "description": a["spot"],
@@ -233,13 +267,14 @@ def main():
                "author": {"@type": "Organization", "name": f"{SITE['name']} Haber Merkezi", "url": f"{SITE['url']}/"},
                "publisher": {"@id": org["@id"]},
                "contentLocation": {"@type": "Place", "name": f"{a['district']}, Eskişehir" if a["district"] != "Merkez" else "Eskişehir"},
-               "image": [a["image"]["abs"]] if a.get("image") else [common["og_default"]],
+               "image": images,
                "isBasedOn": a["source"]["url"]},
               crumbs(("Ana Sayfa", f"{SITE['url']}/"), (a["category"], cat_url), (a["title"], a["url"])), org]
         render("article.html", f"haber/{a['slug']}.html",
                {"title": f"{a['title']} | {SITE['name']}", "description": a["spot"], "type": "article",
-                "image": a["image"]["abs"] if a.get("image") else common["og_default"], "ld": ld,
-                "published": a["published_at"], "section": a["category"], "tags": a.get("tags", [])},
+                "image": og["url"], "image_w": og["w"], "image_h": og["h"], "image_alt": a["title"], "ld": ld,
+                "published": a["published_at"], "modified": a.get("updated_at", a["published_at"]),
+                "section": a["category"], "tags": a.get("tags", [])},
                a=a, related=related, latest=latest, title=a["title"])
 
     render("kunye.html", "kunye.html", {"title": f"Künye ve Yayın İlkeleri | {SITE['name']}",

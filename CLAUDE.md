@@ -17,6 +17,8 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
   `sitemap.xml`, `news-sitemap.xml`, `robots.txt`, RSS. Search Console'a iki site haritası gönderildi.
+  Her haber için 1200 px 16:9/4:3/1:1 görseller (`public/images/g/`, Google Discover/Haberler), tarihler +03:00,
+  boş kategori/ilçe sayfaları noindex, Google Fonts sayfa çizimini bekletmeden yüklenir.
 
 ## Kurallar
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
