@@ -275,12 +275,94 @@ def save_article(article, candidate, image=None):
     return record
 
 
+def collect_queue(max_items, out_path):
+    """Oturum modu 1. adım: modeli çağırmadan, yazılacak kaynakları metinleriyle birlikte dosyaya çıkarır."""
+    ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
+    seen = load_seen()
+    candidates = collect_candidates(seen)
+    log(f"{len(candidates)} yeni aday bulundu.")
+    queue = []
+    for c in candidates:
+        if len(queue) >= max_items:
+            break
+        text, image = fetch_source(c["link"], c.get("photos", False)) if c["link"] else ("", None)
+        if len(text) < 200:
+            text = c["summary"]
+        if len(text) < 80:
+            seen[c["key"]] = time.time()
+            log(f"[atlandı] yetersiz metin: {c['title']}")
+            continue
+        queue.append({"key": c["key"], "source_name": c["source_name"], "title": c["title"],
+                      "link": c["link"], "image": image, "text": text[:12000]})
+    save_seen(seen)
+    Path(out_path).write_text(json.dumps({"recent_titles": recent_titles(), "queue": queue},
+                                         ensure_ascii=False, indent=2), encoding="utf-8")
+    log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
+
+
+def save_decisions(queue_path, decisions_path):
+    """Oturum modu 2. adım: Claude'un verdiği kararları (ARTICLE_SCHEMA biçiminde) doğrulayıp kaydeder."""
+    queue = {c["key"]: c for c in json.loads(Path(queue_path).read_text(encoding="utf-8"))["queue"]}
+    decisions = json.loads(Path(decisions_path).read_text(encoding="utf-8"))
+    seen = load_seen()
+    written = 0
+    for key, article in decisions.items():
+        c = queue.get(key)
+        if not c:
+            log(f"[uyarı] kuyrukta olmayan anahtar atlandı: {key}")
+            continue
+        seen[key] = time.time()
+        missing = [f for f in ARTICLE_SCHEMA["required"] if f not in article]
+        if missing:
+            log(f"[hata] eksik alan {missing}: {c['title']}")
+            continue
+        if not article["publish"]:
+            log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
+            continue
+        if article["category"] not in CATEGORIES or article["district"] not in DISTRICTS:
+            log(f"[hata] geçersiz kategori/ilçe ({article['category']}/{article['district']}): {c['title']}")
+            continue
+        record = save_article(article, c, c.get("image"))
+        written += 1
+        log(f"[yazıldı] {record['title']} ({record['category']}/{record['district']}){' 📷' if c.get('image') else ''}")
+    for key in queue:
+        seen.setdefault(key, time.time())
+    save_seen(seen)
+    write_digest()
+    log(f"Bu turda {written} haber yazıldı.")
+
+
+def write_digest(limit=30):
+    """GitHub'da okunabilsin diye son haberleri SON_HABERLER.md dosyasına yazar."""
+    files = sorted(ARTICLES_DIR.glob("*.json"), reverse=True)[:limit]
+    lines = ["# Son haberler", "", "Ajanın yazdığı son haberler (otomatik güncellenir).", ""]
+    for f in files:
+        a = json.loads(f.read_text(encoding="utf-8"))
+        lines += [f"## {a['title']}", "",
+                  f"**{a['category']} · {a['district']}** · {a['published_at'][:16].replace('T', ' ')} UTC · "
+                  f"Kaynak: [{a['source']['name']}]({a['source']['url']})", ""]
+        if a.get("image"):
+            lines += [f"![]({a['image']['url']})", ""]
+        lines += [f"> {a['spot']}", "", a["body"], "", "---", ""]
+    (ROOT / "SON_HABERLER.md").write_text("\n".join(lines), encoding="utf-8")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--max", type=int, default=int(os.environ.get("MAX_PER_RUN", "4")),
                         help="bu turda en fazla kaç kaynağın modele gönderileceği (maliyet sınırı)")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--collect", metavar="KUYRUK.json", help="oturum modu: kaynakları topla, modeli çağırma")
+    parser.add_argument("--save", nargs=2, metavar=("KUYRUK.json", "KARARLAR.json"), help="oturum modu: kararları kaydet")
+    parser.add_argument("--rules", action="store_true", help="editör kurallarını ve karar şemasını yazdır")
     args = parser.parse_args()
+    if args.rules:
+        print(SYSTEM_PROMPT + "\n\nKarar şeması (JSON Schema):\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False, indent=2))
+        return
+    if args.collect:
+        return collect_queue(args.max, args.collect)
+    if args.save:
+        return save_decisions(*args.save)
 
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
