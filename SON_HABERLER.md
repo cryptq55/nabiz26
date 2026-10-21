@@ -2,6 +2,94 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda iki okulda öğrencilere atıksız yaşam eğitimi verildi
+
+**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaogrencilericinatıksızyasamegitimi)
+
+![](data/images/5e6e0c39ca458161.jpg)
+
+> Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, Ticaret Borsası İlkokulu ve Arif Nihat Asya Ortaokulu'nda çevre okuryazarlığı eğitimi verdi.
+
+Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, Ticaret Borsası İlkokulu ve Arif Nihat Asya Ortaokulu'nda öğrencilerle bir araya geldi. Eğitimlerde çevre okuryazarlığı, geri dönüşüm ve atıksız yaşam konuları ele alındı.
+
+Belediye, çevre bilincinin küçük yaşlarda kazanılmasına katkı sunmak için okullarda eğitim ve bilgilendirme çalışmalarını sürdürüyor. Çalışmalarla öğrencilerin çevreye duyarlı alışkanlıklar edinmesi ve atıkların azaltılması konusunda farkındalık kazanması hedefleniyor.
+
+Benzer eğitimler için başvuru yapmak ve bilgi almak isteyenler Tepebaşı Belediyesi'nin 0222 211 40 00 numaralı telefonundan 3324 veya 3085 dahili numaralarına ulaşabiliyor.
+
+---
+
+## Tepebaşı Arama Kurtarma Ekibi AFAD barınma akreditasyonu aldı
+
+**Gündem · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/takafadbarınmaakreditasyonunahakkazandı)
+
+![](data/images/fe511329c9314387.jpg)
+
+> Tepebaşı Belediyesi Arama Kurtarma (TAK) Ekibi, AFAD'ın barınma akreditasyonu sınavını başarıyla tamamladı.
+
+Tepebaşı Belediyesi Afet İşleri ve Risk Yönetimi Müdürlüğü bünyesindeki Tepebaşı Arama Kurtarma (TAK) Ekibi, AFAD'ın barınma akreditasyonu sınavını başarıyla tamamlayarak akreditasyon almaya hak kazandı.
+
+AFAD standartları doğrultusunda yürütülen eğitim ve sınav sürecini geçen ekip, afet sonrası barınma hizmetlerini koordinasyon içinde yürütebilecek yetkinliğini belgelemiş oldu.
+
+Tepebaşı Belediyesi yetkilileri, akreditasyonun düzenli eğitimlerin ve disiplinli çalışmanın sonucu olduğunu belirtti. Yetkililer, afetlere dirençli kent hedefi doğrultusunda eğitim ve hazırlık çalışmalarının süreceğini bildirdi.
+
+---
+
+## Anadolu Üniversitesi'nde 3. Bağımlılık Farkındalık Haftası başladı
+
+**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/k19tehab3rdqntlgkx3bhhxo)
+
+![](data/images/9417351cbcc868fc.jpg)
+
+> Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün düzenlediği hafta, festival yürüyüşü, atölyeler ve simülasyonlarla başladı.
+
+Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün organize ettiği "3. Bağımlılık Farkındalık Haftası" etkinlikleri kampüste başladı. Program, Eczacılık Kapısı'ndan Anadolu Park'a uzanan "Festival Yürüyüşü" ile açıldı. Yürüyüşün ardından katılımcılara çorba, nohutlu pilav, köfte ekmek ve aşure ikram edildi.
+
+Açık alanda ahşap boyama, punch, mandala, miyuki takı tasarımı ve ebru gibi atölyeler kuruldu. Yeşilay Gençlik Komisyonu bez çanta boyama ve vision board atölyeleri düzenledi. Emniyet kemeri ve takla atma simülatörlerinin yanı sıra sanal gerçeklik gözlükleriyle "alkollü araç kullanım farkındalığı simülasyonu" yapıldı.
+
+Yunus Emre Spor Salonu'nda satranç, masa tenisi, dart ve floor curling müsabakaları, Anadolu Park'ta matrak, mini golf ve bilek güreşi etkinlikleri düzenlendi. "Bowl Challenge: Sağlıklı Seçimini Tasarla!" yarışmasında öğrenciler sağlıklı ve dengeli tabaklar hazırladı.
+
+İletişim Bilimleri Fakültesi Şener Şen Salonu'ndaki "Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler" seminerinde Doç. Dr. Tuğba Görgülü, bağımlılığın yalnızca irade zayıflığı olarak değerlendirilmemesi gerektiğini söyledi. Görgülü, biyolojik, psikolojik ve sosyal faktörlerin etkili olduğunu, kontrolün kaybedildiğinin erken fark edilmesinin önemli olduğunu belirtti. Etkinlikler ertesi gün de sürecek.
+
+---
+
+## Anadolu Üniversitesi Yapay Zekâ Akademisi'nde yeni dönem başvuruları başladı
+
+**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/zsgpp6gpntf660o0lmhuc3sr)
+
+![](data/images/03a92c131ee6cdc9.jpg)
+
+> Anadolu Üniversitesi Yapay Zekâ Akademisi'nin yapay zekâ ajanlarına odaklanan yeni dönem programı için başvurular 25 Ekim'e kadar alınacak.
+
+Anadolu Üniversitesi Yapay Zekâ Akademisi, 2026-2027 Güz döneminde "Yapay Zekâ Ajanlarıyla Geleceği İnşa Et" programını açıyor. Program, araştırma yapan, analiz gerçekleştiren ve verilen görevleri tamamlayan yapay zekâ ajanlarına odaklanıyor.
+
+Eğitimler iki grupta yürütülecek. Öğretim elemanlarına yönelik A Grubu'nda katılımcılar yapay zekâ ajanlarını literatür taraması, veri analizi, akademik yazım, proje hazırlama ve ders tasarımı gibi alanlarda kullanmayı öğrenecek. Ön lisans, lisans ve lisansüstü öğrencilere yönelik B Grubu'nda ise katılımcılar ekipler halinde ajan tabanlı ürünler tasarlayıp geliştirecek.
+
+Beş hafta sürecek çevrim içi eğitimler 16 Kasım 2026'da başlayacak. Dersler A Grubu için pazartesi ve çarşamba, B Grubu için salı ve perşembe günleri 17.00-20.00 saatleri arasında yapılacak. Ön elemeyi geçen katılımcılar 21-24 Aralık'ta iki günlük yüz yüze atölyeye katılacak. Seçilecek 10 proje 21 Ocak 2027'deki Demo Day'de sunulacak.
+
+Başvurular 25 Ekim Pazar gününe kadar yzakademi.anadolu.edu.tr adresinden yapılabilecek. Sonuçlar 13 Kasım 2026'da e-posta ile duyurulacak. Akademinin ilk dönemine katılanlar da başvurabilecek.
+
+---
+
+## 4. Kızılinler Bal Kabağı Panayırı 25 Ekim'de yapılacak
+
+**Tarım · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/balkabagındaturkiye’ninilkcalıstayıtepebası’nda)
+
+![](data/images/386e157f693a30aa.jpg)
+
+> Tepebaşı Belediyesi, coğrafi işaretli Kızılinler bal kabağını tanıtmak için 25 Ekim'de panayır, 26 Ekim'de çalıştay düzenleyecek.
+
+Tepebaşı Belediyesi, coğrafi işaretli Kızılinler bal kabağını tanıtmak ve üretimin geleceğini ele almak amacıyla iki günlük bir program düzenleyecek. Program, 25 Ekim Pazar günü yapılacak 4. Kızılinler Bal Kabağı Panayırı ile başlayacak.
+
+Panayır 25 Ekim'de saat 12.00-16.00 arasında Kızılinler Davet Salonu'nda yapılacak. Programda halk oyunları gösterisi ve Eko-Şov konseri yer alacak. "Çizgilerle Bal Kabağı" sergisi ile EFSAD fotoğraf sergisi de ziyaretçilerle buluşacak. Ziyaretçiler yöresel ürün ve coğrafi işaretli Kızılinler bal kabağı satış stantlarını gezebilecek, söyleşilere katılabilecek.
+
+Panayır alanına ulaşım için Tepebaşı Belediyesi Hizmet Binası önünden saat 11.45'te ücretsiz araç kalkacak. Ücretsiz ulaşımdan yararlanmak isteyenlerin kayıt formunu doldurması gerekiyor.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Kızılinler bal kabağının Eskişehir'in üretim kültürünün ve yerel değerlerinin önemli bir parçası olduğunu belirtti. Ataç, panayırda hemşehrileri Kızılinler bal kabağı ve üreticilerle buluşturacaklarını söyledi.
+
+Ertesi gün, 26 Ekim Pazartesi saat 13.00-17.00 arasında ESOGÜ Ziraat Fakültesi Ali Numan Kıraç Yerleşkesi'nde Türkiye'de ilk kez ulusal ölçekte Eskişehir Bal Kabağı Çalıştayı yapılacak. Çalıştaya Tarım ve Orman Bakanlığı'na bağlı bazı araştırma enstitüleri de katılacak.
+
+---
+
 ## Tepebaşı'nın "Gel Beraber Olsun" yemeği yeni adresinde başladı
 
 **Belediye · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/‘gelberaberolsun’yeniyerindeyogunilgigordu)
