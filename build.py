@@ -19,6 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from PIL import Image, ImageDraw, ImageFont
 
 from newsbot import CATEGORIES, DISTRICTS, slugify
+from social import build_social
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "public"
@@ -280,6 +281,24 @@ def main():
         encoding="utf-8")
     # IndexNow ile bildirilecek adresler (yayın iş akışı kullanır)
     (ROOT / "indexnow-urls.txt").write_text("\n".join([f"{SITE['url']}/"] + [a["url"] for a in fresh]), encoding="utf-8")
+
+    # Instagram: gönderi/story görselleri, açıklama metinleri ve profil bağlantısı sayfası
+    build_social(articles, DATA_DIR.parent, OUT / "social", limit=30)
+    feed = []
+    for a in articles[:30]:
+        tags = ["#Eskişehir", "#nabız26", "#EskişehirHaber"]
+        if a["district"] not in ("Merkez",):
+            tags.append("#" + a["district"].replace(" ", ""))
+        tags.append("#" + a["category"].replace("-", "").replace(" ", ""))
+        caption = (f"{a['title']}\n\n{a['spot']}\n\n"
+                   f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
+        feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),
+                     "post": f"{SITE['url']}/{a['social']['post']}", "story": f"{SITE['url']}/{a['social']['story']}",
+                     "caption": caption, "published_at": a["published_at"]})
+    (OUT / "social" / "feed.json").write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding="utf-8")
+    render("instagram.html", "instagram.html",
+           {"title": f"{SITE['name']} · Instagram", "description": "Instagram'da paylaştığımız haberlerin tamamı.",
+            "noindex": True}, articles=articles[:24], title="Instagram")
 
     # İstemci tarafı arama için hafif dizin
     index = [{"t": a["title"], "s": a["spot"], "c": a["category"], "d": a["district"],

@@ -19,3 +19,4 @@ API yerine oturumdaki Claude yazar. Adımları sırayla uygula, kısa tut ve bit
 7. Son mesajında yazılan ve geçilen haberleri tek satırlık özetle listele.
 
 Kod, iş akışı veya ayar dosyalarını değiştirme; sadece `data/` ve `SON_HABERLER.md` değişir.
+`data/instagram.json` dosyasını elle değiştirme; onu paylaşım iş akışı yönetir.

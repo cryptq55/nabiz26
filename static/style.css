@@ -366,3 +366,13 @@ a:hover .cover.photo img { transform: scale(1.04); }
 .overlay::after { background: linear-gradient(180deg, rgba(8, 7, 11, .05) 0%, rgba(8, 7, 11, .35) 35%, rgba(8, 7, 11, .82) 62%, rgba(8, 7, 11, .96) 100%); }
 .overlay-text h1, .overlay-text h2, .overlay-text h3 { text-shadow: 0 2px 18px rgba(0, 0, 0, .55); }
 .overlay-text p, .overlay-text .meta { text-shadow: 0 1px 8px rgba(0, 0, 0, .6); }
+
+/* Instagram profil bağlantısı sayfası */
+.ig { max-width: 640px; margin: 0 auto; }
+.ig-head h1 { font: 800 clamp(40px, 9vw, 64px)/.95 var(--display); letter-spacing: -.05em; margin: 8px 0; }
+.ig-head p { color: var(--muted); margin: 0 0 22px; }
+.ig-list { display: flex; flex-direction: column; gap: 10px; }
+.ig-item { display: grid; grid-template-columns: 96px 1fr; gap: 14px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 10px; box-shadow: var(--shadow); }
+.ig-item b { display: block; font: 700 17px/1.25 var(--display); letter-spacing: -.015em; margin-top: 6px; }
+.ig-item:active { transform: scale(.99); }
+.ig-all { display: block; text-align: center; margin: 22px 0 0; padding: 16px; border-radius: 14px; background: var(--red); color: #fff; font: 800 18px var(--display); }

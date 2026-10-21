@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% from "macros.html" import cover with context %}
+{% block content %}
+<section class="ig">
+  <header class="ig-head">
+    <span class="eyebrow">Instagram'dan geldiniz</span>
+    <h1>Son haberler</h1>
+    <p>Story'de ve gönderilerde gördüğünüz haberlerin tamamı burada. Dokunun, okuyun.</p>
+  </header>
+  <div class="ig-list">
+    {% for a in articles %}
+    <a class="ig-item" href="{{ base }}haber/{{ a.slug }}{{ ext }}?utm_source=instagram&amp;utm_medium=social&amp;utm_campaign=bio" style="--c: {{ a.color }}">
+      {{ cover(a, "sm") }}
+      <span class="ig-text"><span class="kicker"><span>{{ a.category }}</span>{{ a.time_tr }}</span><b>{{ a.title }}</b></span>
+    </a>
+    {% endfor %}
+  </div>
+  <a class="ig-all" href="{{ home }}">Tüm haberler → nabiz26.com</a>
+</section>
+{% endblock %}
