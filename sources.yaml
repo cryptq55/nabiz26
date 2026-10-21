@@ -15,7 +15,7 @@ feeds:
 # Bu kaynakların fotoğrafları (basın kullanımına açık) haberle birlikte, kaynak belirtilerek kullanılır.
 #   url:           haberlerin listelendiği sayfa (ana sayfa da olur)
 #   link_contains: haber bağlantılarının adresinde geçen ifade (varsayılan "haber")
-#   limit:         sayfadan en fazla kaç bağlantı alınsın (varsayılan 10)
+#   limit:         sayfadan en fazla kaç bağlantı alınsın (varsayılan 15)
 # Adresler deneme çalıştırmasında kontrol edilmeli; çalışmayan kaynak sadece uyarı verir.
 pages:
   - name: Eskişehir Valiliği

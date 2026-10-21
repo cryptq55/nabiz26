@@ -26,6 +26,7 @@ OUT = ROOT / "public"
 DATA_DIR = Path(os.environ.get("DATA_DIR", ROOT / "data" / "articles"))
 IMAGES_DIR = DATA_DIR.parent / "images"
 EXT = os.environ.get("LINK_EXT", ".html")
+REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1") != "0"
 SITE = {
     "name": os.environ.get("SITE_NAME", "Nabız 26"),
     "url": os.environ.get("SITE_URL", "").rstrip("/"),
@@ -88,6 +89,8 @@ def load_articles():
         a = json.loads(f.read_text(encoding="utf-8"))
         if a.get("status") != "published":
             continue
+        if REQUIRE_IMAGE and not a.get("image"):
+            continue  # fotoğrafsız haber sitede gösterilmez
         d = to_tr_time(a["published_at"])
         a["paragraphs"] = [p.strip() for p in a["body"].split("\n\n") if p.strip()]
         a["date_tr"] = f"{d.day} {TR_MONTHS[d.month - 1]} {d.year}, {d:%H:%M}"
@@ -107,6 +110,8 @@ def load_articles():
                 a.pop("image")
         elif img:
             a.pop("image")  # eski biçim (uzak adres) kullanılmaz
+        if REQUIRE_IMAGE and not a.get("image"):
+            continue
         articles.append(a)
     return sorted(articles, key=lambda a: a["published_at"], reverse=True)
 

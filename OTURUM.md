@@ -4,7 +4,7 @@ Bu dosya, saatte bir açılan Claude bulut oturumunun izlediği talimattır. Otu
 API yerine oturumdaki Claude yazar. Adımları sırayla uygula, kısa tut ve bitince dur.
 
 1. `pip install -q -r requirements.txt`
-2. Kuyruğu oluştur: `python newsbot.py --collect /tmp/kuyruk.json --max 6`
+2. Kuyruğu oluştur: `python newsbot.py --collect /tmp/kuyruk.json --max 8`
    Kuyruk boşsa 6. adıma geç.
 3. Kuralları oku: `python newsbot.py --rules`. Bu kurallar senin editörlük talimatındır, hepsine uy.
 4. `/tmp/kuyruk.json` içindeki her kaynak için kurallara göre karar ver. `recent_titles` son yayınlanan
@@ -18,7 +18,8 @@ API yerine oturumdaki Claude yazar. Adımları sırayla uygula, kısa tut ve bit
    Değişiklik yoksa commit atma. Push reddedilirse `git pull --rebase origin main` yapıp bir kez daha dene.
 7. Son mesajında yazılan ve geçilen haberleri tek satırlık özetle listele.
 
-Fotoğraf kuralı: Haberlere asla elle fotoğraf ekleme veya değiştirme. Fotoğrafları yalnızca `--collect`
+Fotoğraf kuralı: Fotoğrafsız haber yayınlanmaz. `--collect` yalnızca resmî kurum fotoğrafı bulunan
+kaynakları kuyruğa alır; kuyruktaki her kaynağın fotoğrafı vardır. Haberlere asla elle fotoğraf ekleme veya değiştirme. Fotoğrafları yalnızca `--collect`
 adımı, yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr) alır. Gazete ve haber ajansı
 fotoğrafları (Habertürk, AA, İHA, DHA vb.) telifli olduğu için kesinlikle kullanılmaz.
 Yayınlanmış haberleri sonradan düzenleme; yalnızca yeni haber ekle.

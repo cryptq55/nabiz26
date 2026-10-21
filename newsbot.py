@@ -37,6 +37,8 @@ MODEL = os.environ.get("NEWS_MODEL", "claude-opus-5-5")
 EFFORT = os.environ.get("NEWS_EFFORT", "low")
 # "auto": uygun haberler doğrudan yayınlanır. "review": taslak olarak kaydedilir, elle onaylanır.
 PUBLISH_MODE = os.environ.get("PUBLISH_MODE", "auto")
+# Fotoğrafsız haber yayınlanmaz (sahibinin kararı). Kapatmak için REQUIRE_IMAGE=0
+REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1") != "0"
 
 CATEGORIES = ["Gündem", "Asayiş", "Belediye", "Ekonomi", "Eğitim", "Sağlık",
               "Spor", "Kültür-Sanat", "Tarım", "Ulaşım", "Hava Durumu"]
@@ -235,7 +237,7 @@ def scan_page(page):
         found.append((url, text))
     if not found:
         log(f"[uyarı] {page['name']} sayfasında haber bağlantısı bulunamadı")
-    return found[: page.get("limit", 10)]
+    return found[: page.get("limit", 15)]
 
 
 # Fotoğrafları basın kullanımına açık resmî kurum alan adları
@@ -370,10 +372,11 @@ def collect_queue(max_items, out_path):
     seen = load_seen()
     candidates = collect_candidates(seen)
     log(f"{len(candidates)} yeni aday bulundu.")
-    queue = []
+    queue, tried = [], 0
     for c in candidates:
-        if len(queue) >= max_items:
+        if len(queue) >= max_items or tried >= max_items * 8:
             break
+        tried += 1
         if c["link"]:
             c["link"], text, image = fetch_source(c["link"], c.get("photos", False), c["key"])
         else:
@@ -383,6 +386,10 @@ def collect_queue(max_items, out_path):
         if len(text) < 150:
             seen[c["key"]] = time.time()
             log(f"[atlandı] yetersiz metin: {c['title']}")
+            continue
+        if REQUIRE_IMAGE and not image:
+            seen[c["key"]] = time.time()
+            log(f"[atlandı] kullanılabilir fotoğraf yok: {c['title']}")
             continue
         queue.append({"key": c["key"], "source_name": c["source_name"], "title": c["title"],
                       "link": c["link"], "image": image, "text": text[:12000]})
@@ -410,6 +417,9 @@ def save_decisions(queue_path, decisions_path):
             continue
         if not article["publish"]:
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
+            continue
+        if REQUIRE_IMAGE and not c.get("image"):
+            log(f"[atlandı] fotoğrafsız haber kaydedilmez: {c['title']}")
             continue
         if article["category"] not in CATEGORIES or article["district"] not in DISTRICTS:
             log(f"[hata] geçersiz kategori/ilçe ({article['category']}/{article['district']}): {c['title']}")
