@@ -18,5 +18,10 @@ API yerine oturumdaki Claude yazar. Adımları sırayla uygula, kısa tut ve bit
    Değişiklik yoksa commit atma. Push reddedilirse `git pull --rebase origin main` yapıp bir kez daha dene.
 7. Son mesajında yazılan ve geçilen haberleri tek satırlık özetle listele.
 
+Fotoğraf kuralı: Haberlere asla elle fotoğraf ekleme veya değiştirme. Fotoğrafları yalnızca `--collect`
+adımı, yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr) alır. Gazete ve haber ajansı
+fotoğrafları (Habertürk, AA, İHA, DHA vb.) telifli olduğu için kesinlikle kullanılmaz.
+Yayınlanmış haberleri sonradan düzenleme; yalnızca yeni haber ekle.
+
 Kod, iş akışı veya ayar dosyalarını değiştirme; sadece `data/` ve `SON_HABERLER.md` değişir.
 `data/instagram.json` dosyasını elle değiştirme; onu paylaşım iş akışı yönetir.
