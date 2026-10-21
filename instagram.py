@@ -74,8 +74,14 @@ def main():
         return
     user = os.environ.get("IG_USER_ID") or call("GET", "me", fields="user_id")["user_id"]
     state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"stories": [], "posts": []}
-    with urllib.request.urlopen(f"{SITE}/social/feed.json?t={int(time.time())}", timeout=30) as r:
-        feed = json.load(r)
+    local = Path(__file__).parent / "public" / "social" / "feed.json"  # iş akışında build.py üretir
+    if local.exists():
+        feed = json.loads(local.read_text(encoding="utf-8"))
+    else:
+        req = urllib.request.Request(f"{SITE}/social/feed.json?t={int(time.time())}",
+                                     headers={"User-Agent": "Mozilla/5.0 (compatible; nabiz26-bot)"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            feed = json.load(r)
     if not state["stories"] and not state["posts"]:
         # İlk çalıştırmada eski haberlerin hepsini birden paylaşma: en yeni 2 haberle başla
         state["stories"] = [f["slug"] for f in feed[2:]]
