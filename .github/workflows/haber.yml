@@ -1,93 +1,42 @@
-name: Siteyi yayınla
+name: Arama motorlarına bildir
 
-# Haberleri "Nabız 26 haber masası" oturumu yazıp main dalına gönderir.
-# Bu iş akışı her gönderimde siteyi üretir, Cloudflare Pages'e yükler ve
-# yeni haberleri IndexNow ile Bing/Yandex'e bildirir.
-# Gerekli gizli değişkenler: CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID
+# Site, Cloudflare'in GitHub bağlantısıyla her gönderimde otomatik yayınlanır.
+# Bu iş akışı yayının bitmesini bekleyip yeni haberleri IndexNow ile Bing ve Yandex'e bildirir.
 on:
   push:
     branches: [main]
-    paths-ignore: ["README.md", "OTURUM.md", "SON_HABERLER.md"]
+    paths: ["data/articles/**"]
   workflow_dispatch:
 
 permissions:
-  contents: write   # yalnızca yayın durumunu 'yayin-durumu' dalına yazmak için
+  contents: read
 
 concurrency:
-  group: yayin
-  cancel-in-progress: true   # üst üste gönderimde yalnızca en güncel hali yayınla
-
-env:
-  PROJECT: nabiz26
-  DOMAIN: nabiz26.com
-  SITE_URL: https://nabiz26.com
+  group: indexnow
+  cancel-in-progress: true
 
 jobs:
-  yayin:
+  bildir:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Cloudflare bilgileri tanımlı mı?
-        env:
-          T: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          A: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: |
-          if [ -z "$T" ] || [ -z "$A" ]; then
-            echo "::error::CLOUDFLARE_API_TOKEN ve CLOUDFLARE_ACCOUNT_ID gizli değişkenlerini ekleyin."
-            exit 1
-          fi
-
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-
-      - name: Siteyi üret (temiz adreslerle)
+      - name: Bildirilecek adresleri hazırla
         env:
-          SITE_NAME: ${{ vars.SITE_NAME || 'Nabız 26' }}
-          SITE_EMAIL: ${{ vars.SITE_EMAIL || 'iletisim@nabiz26.com' }}
+          SITE_URL: https://nabiz26.com
           LINK_EXT: ""
         run: python build.py
-
-      - name: Cloudflare Pages projesini hazırla (ilk seferde oluşturur)
-        env:
-          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: |
-          mkdir -p durum
-          api() { curl -sS -H "Authorization: Bearer $CF_TOKEN" -H "Content-Type: application/json" "$@"; }
-          BASE="https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT/pages/projects"
-          if ! api "$BASE/$PROJECT" | grep -q '"success":true'; then
-            api -X POST "$BASE" -d "{\"name\":\"$PROJECT\",\"production_branch\":\"main\"}" > durum/proje.json
-          fi
-
-      - name: Cloudflare Pages'e yükle
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public --project-name=nabiz26 --branch=main --commit-dirty=true
-
-      - name: Alan adını bağla (nabiz26.com ve www)
-        env:
-          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-        run: |
-          api() { curl -sS -H "Authorization: Bearer $CF_TOKEN" -H "Content-Type: application/json" "$@"; }
-          BASE="https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT/pages/projects/$PROJECT/domains"
-          for d in "$DOMAIN" "www.$DOMAIN"; do
-            api "$BASE/$d" | grep -q '"success":true' || api -X POST "$BASE" -d "{\"name\":\"$d\"}" > /dev/null
-          done
-          api "$BASE" | python3 -c "import json,sys; r=json.load(sys.stdin); print(json.dumps([{k: x.get(k) for k in ('name','status','verification_data','validation_data')} for x in r.get('result') or []] or r.get('errors'), ensure_ascii=False, indent=1))" > durum/alan-adi.json
-          cat durum/alan-adi.json
-
-      - name: Yeni haberleri IndexNow ile bildir (Bing, Yandex)
-        continue-on-error: true
+      - name: Cloudflare yayınını bekle
+        run: sleep 180
+      - name: IndexNow (Bing, Yandex)
         run: |
           KEY=$(ls public/*.txt | xargs -n1 basename | grep -E '^[0-9a-f]{40}\.txt$' | head -1 | sed 's/\.txt$//')
-          python3 - "$KEY" <<'PY' > durum/indexnow.txt
+          python3 - "$KEY" <<'PY'
           import json, sys, urllib.request
           key = sys.argv[1]
           urls = [u for u in open("indexnow-urls.txt").read().split() if u][:1000]
@@ -99,15 +48,3 @@ jobs:
               except Exception as e:
                   print(ep, "hata:", e)
           PY
-          cat durum/indexnow.txt
-
-      - name: Yayın durumunu 'yayin-durumu' dalına yaz
-        if: always()
-        run: |
-          mkdir -p durum && cd durum
-          echo "${{ github.run_id }} $(date -u +%FT%TZ) ${{ job.status }}" > son-yayin.txt
-          git init -q -b yayin-durumu
-          git config user.name "nabiz26-bot"
-          git config user.email "nabiz26-bot@users.noreply.github.com"
-          git add -A && git commit -q -m "Yayın durumu ${{ github.run_id }}"
-          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" yayin-durumu

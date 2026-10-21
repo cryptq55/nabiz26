@@ -1,0 +1,12 @@
+{
+  // Cloudflare Workers statik site ayarı: build.py çıktısı (public/) yayınlanır.
+  // Derleme komutu (Cloudflare panelinde):
+  //   pip install -r requirements.txt && SITE_URL=https://nabiz26.com LINK_EXT= python build.py
+  "name": "nabiz26",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page",
+    "html_handling": "drop-trailing-slash"
+  }
+}
