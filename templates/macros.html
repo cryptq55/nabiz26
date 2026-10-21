@@ -1,8 +1,8 @@
 {# Kapak: gerçek fotoğraf varsa o, yoksa kategori renginde nabız desenli tipografik kapak #}
-{% macro cover(a, size="") -%}
+{% macro cover(a, size="", eager=False) -%}
 {% if a.image %}
 <div class="cover photo {{ size }}" style="--c: {{ a.color }}">
-  <img src="{{ base }}{{ a.image.file }}" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove('photo');this.remove()">
+  <img src="{{ base }}{{ a.image.file }}" alt="{{ a.title }}"{% if a.image.w %} width="{{ a.image.w }}" height="{{ a.image.h }}"{% endif %} {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async" onerror="this.parentNode.classList.remove('photo');this.remove()">
 </div>
 {% else %}
 <div class="cover {{ size }}" style="--c: {{ a.color }}" aria-hidden="true">
@@ -13,7 +13,7 @@
 {%- endmacro %}
 
 {% macro chip(a) -%}
-<a class="chip" style="--c: {{ a.color }}" href="{{ base }}kategori/{{ a.category|slug }}.html">{{ a.category }}</a>
+<a class="chip" style="--c: {{ a.color }}" href="{{ base }}kategori/{{ a.category|slug }}{{ ext }}">{{ a.category }}</a>
 {%- endmacro %}
 
 {% macro when(a) -%}
@@ -23,10 +23,10 @@
 {# Dikey kart: üstte kapak #}
 {% macro card(a) -%}
 <article class="card" style="--c: {{ a.color }}">
-  <a class="card-media" href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a) }}</a>
+  <a class="card-media" href="{{ base }}haber/{{ a.slug }}{{ ext }}" tabindex="-1">{{ cover(a) }}</a>
   <div class="card-body">
     <div class="kicker"><span>{{ a.category }}</span>{{ a.district }}</div>
-    <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
+    <h3><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ a.title }}</a></h3>
     <div class="meta">{{ when(a) }}</div>
   </div>
 </article>
@@ -35,8 +35,8 @@
 {# Fotoğraf üstüne yazılı büyük kart #}
 {% macro overlay(a, size="", tag="h2") -%}
 <article class="overlay {{ size }}" style="--c: {{ a.color }}">
-  <a href="{{ base }}haber/{{ a.slug }}.html">
-    {{ cover(a, "fill") }}
+  <a href="{{ base }}haber/{{ a.slug }}{{ ext }}">
+    {{ cover(a, "fill", size == "lead") }}
     <div class="overlay-text">
       <div class="kicker light"><span>{{ a.category }}</span>{{ a.district }}</div>
       <{{ tag }}>{{ a.title }}</{{ tag }}>
@@ -53,10 +53,10 @@
   <div class="row-time"><b>{{ a.time_tr }}</b><span>{{ a.date_tr.split(',')[0] }}</span></div>
   <div class="row-body">
     <div class="kicker"><span>{{ a.category }}</span>{{ a.district }}</div>
-    <h3><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></h3>
+    <h3><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ a.title }}</a></h3>
     <p>{{ a.spot }}</p>
   </div>
-  <a class="row-media" href="{{ base }}haber/{{ a.slug }}.html" tabindex="-1">{{ cover(a, "sm") }}</a>
+  <a class="row-media" href="{{ base }}haber/{{ a.slug }}{{ ext }}" tabindex="-1">{{ cover(a, "sm") }}</a>
 </article>
 {%- endmacro %}
 

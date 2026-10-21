@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>{{ site.url }}/</loc></url>
-{% for a in articles %}<url><loc>{{ site.url }}/haber/{{ a.slug }}.html</loc><lastmod>{{ a.published_at[:10] }}</lastmod></url>
-{% endfor %}</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url><loc>{{ site.url }}/</loc><lastmod>{{ home_mod }}</lastmod><changefreq>hourly</changefreq></url>
+{% for loc, mod in listing %}<url><loc>{{ loc }}</loc><lastmod>{{ mod }}</lastmod><changefreq>hourly</changefreq></url>
+{% endfor %}{% for a in articles %}<url><loc>{{ a.url }}</loc><lastmod>{{ a.get("updated_at", a.published_at) }}</lastmod>{% if a.image %}<image:image><image:loc>{{ a.image.abs }}</image:loc></image:image>{% endif %}</url>
+{% endfor %}<url><loc>{{ kunye }}</loc></url>
+</urlset>

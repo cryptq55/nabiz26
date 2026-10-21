@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% from "macros.html" import card, overlay with context %}
-{% block description %}Eskişehir {{ title }} haberleri: en güncel gelişmeler {{ site.name }}'ta.{% endblock %}
 {% block content %}
 <header class="page-head" {% if color %}style="--c: {{ color }}"{% endif %}>
   <span class="eyebrow">{{ kind }}</span>
-  <h1>{{ title }}</h1>
+  <h1>{{ title }}<span class="sr-only"> Haberleri</span></h1>
   <svg class="page-beat" viewBox="0 0 120 40" preserveAspectRatio="none" aria-hidden="true"><use href="#beat"/></svg>
+  <p class="intro">{{ intro }}</p>
   <p>{{ articles|length }} haber</p>
 </header>
 {% if articles %}

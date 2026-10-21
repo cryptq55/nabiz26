@@ -1,34 +1,24 @@
 {% extends "base.html" %}
 {% from "macros.html" import cover, chip, when with context %}
-{% block description %}{{ a.spot }}{% endblock %}
-{% block head %}
-<meta property="og:title" content="{{ a.title }}">
-<meta property="og:description" content="{{ a.spot }}">
-<meta property="og:type" content="article">
-{% if a.image %}<meta property="og:image" content="{{ site.url }}/{{ a.image.file }}"><meta name="twitter:card" content="summary_large_image">{% endif %}
-<meta property="og:site_name" content="{{ site.name }}">
-{% if site.url %}<link rel="canonical" href="{{ site.url }}/haber/{{ a.slug }}.html">{% endif %}
-<script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a.title, "description": a.spot, "datePublished": a.published_at, "articleSection": a.category, "contentLocation": {"@type": "Place", "name": a.district ~ ", Eskişehir"}, "publisher": {"@type": "NewsMediaOrganization", "name": site.name}}|tojson }}</script>
-{% endblock %}
 {% block content %}
 <div class="article-layout">
 <article class="story">
   <div class="story-head" style="--c: {{ a.color }}">
-  <nav class="crumbs"><a href="{{ base }}index.html">Ana Sayfa</a> / <a href="{{ base }}kategori/{{ a.category|slug }}.html">{{ a.category }}</a> / <a href="{{ base }}ilce/{{ a.district|slug }}.html">{{ a.district }}</a></nav>
+  <nav class="crumbs"><a href="{{ home }}">Ana Sayfa</a> / <a href="{{ base }}kategori/{{ a.category|slug }}{{ ext }}">{{ a.category }}</a> / <a href="{{ base }}ilce/{{ a.district|slug }}{{ ext }}">{{ a.district }}</a></nav>
   <h1>{{ a.title }}</h1>
   <p class="spot">{{ a.spot }}</p>
   </div>
   <div class="story-meta">
-    <div class="meta">{{ chip(a) }}<span>{{ a.date_tr }}</span><span class="dot"></span><span>{{ a.read_min }} dk okuma</span></div>
+    <div class="meta">{{ chip(a) }}<time datetime="{{ a.published_at }}">{{ a.date_tr }}</time><span class="dot"></span><span>{{ site.name }} Haber Merkezi</span><span class="dot"></span><span>{{ a.read_min }} dk okuma</span></div>
     <div class="share">
-      <a href="https://wa.me/?text={{ (a.title ~ ' ' ~ site.url ~ '/haber/' ~ a.slug ~ '.html')|urlencode }}" target="_blank" rel="noopener" aria-label="WhatsApp'ta paylaş">WhatsApp</a>
-      <a href="https://x.com/intent/post?text={{ a.title|urlencode }}&url={{ (site.url ~ '/haber/' ~ a.slug ~ '.html')|urlencode }}" target="_blank" rel="noopener" aria-label="X'te paylaş">X</a>
+      <a href="https://wa.me/?text={{ (a.title ~ ' ' ~ canonical)|urlencode }}" target="_blank" rel="noopener" aria-label="WhatsApp'ta paylaş">WhatsApp</a>
+      <a href="https://x.com/intent/post?text={{ a.title|urlencode }}&url={{ (canonical)|urlencode }}" target="_blank" rel="noopener" aria-label="X'te paylaş">X</a>
       <button data-copy aria-label="Bağlantıyı kopyala">Kopyala</button>
     </div>
   </div>
   {% if a.image %}
   <figure class="story-photo">
-    {{ cover(a, "xl") }}
+    {{ cover(a, "xl", True) }}
     <figcaption>Fotoğraf: {{ a.image.credit }}</figcaption>
   </figure>
   {% else %}{{ cover(a, "xl") }}{% endif %}
@@ -43,14 +33,14 @@
   {% if related %}
   <section class="related">
     <h2>İlgili haberler</h2>
-    <div class="related-grid">{% for r in related %}<a class="related-item" href="{{ base }}haber/{{ r.slug }}.html">{{ cover(r, "sm") }}<span>{{ r.title }}</span></a>{% endfor %}</div>
+    <div class="related-grid">{% for r in related %}<a class="related-item" href="{{ base }}haber/{{ r.slug }}{{ ext }}">{{ cover(r, "sm") }}<span>{{ r.title }}</span></a>{% endfor %}</div>
   </section>
   {% endif %}
 </article>
 <aside class="sidebar">
   <div class="panel sticky">
     <h3 class="panel-title"><span class="pulse-dot"></span> Son dakika</h3>
-    <ol class="timeline">{% for r in latest %}<li style="--c: {{ r.color }}"><time>{{ r.time_tr }}</time><a href="{{ base }}haber/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}</ol>
+    <ol class="timeline">{% for r in latest %}<li style="--c: {{ r.color }}"><time>{{ r.time_tr }}</time><a href="{{ base }}haber/{{ r.slug }}{{ ext }}">{{ r.title }}</a></li>{% endfor %}</ol>
   </div>
 </aside>
 </div>

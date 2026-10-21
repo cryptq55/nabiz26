@@ -338,7 +338,7 @@ def write_article(client, candidate, source_text, recent):
 
 
 def slugify(text):
-    table = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
+    table = str.maketrans("çğıöşüâîûÇĞİÖŞÜÂÎÛ", "cgiosuaiuCGIOSUAIU")
     text = text.translate(table).lower().replace("'", "").replace("’", "")
     return re.sub(r"[^a-z0-9]+", "-", text).strip("-")[:70]
 

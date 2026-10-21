@@ -15,8 +15,9 @@
 </section>
 {% else %}
 
+<h1 class="sr-only">Eskişehir Son Dakika Haberleri – {{ site.name }}</h1>
 <section class="hero">
-  {{ overlay(lead, "lead", "h1") }}
+  {{ overlay(lead, "lead", "h2") }}
   <div class="hero-side">
     {% for a in side %}{{ overlay(a, "side", "h3") }}{% endfor %}
   </div>
@@ -32,7 +33,7 @@
     <span class="eyebrow light">Gündemin ağırlığı</span>
     {% set top = (pulse.cats[0][1] if pulse.cats else 1) %}
     {% for c, n in pulse.cats %}
-    <a class="bar" href="{{ base }}kategori/{{ c|slug }}.html" style="--c: {{ colors[c] }}; --w: {{ (n / top * 100)|round }}%">
+    <a class="bar" href="{{ base }}kategori/{{ c|slug }}{{ ext }}" style="--c: {{ colors[c] }}; --w: {{ (n / top * 100)|round }}%">
       <span>{{ c }}</span><b>{{ n }}</b>
     </a>
     {% else %}<p class="muted-light">Son 24 saatte haber yok.</p>{% endfor %}
@@ -41,7 +42,7 @@
     <span class="eyebrow light">İlçe haritası · son 7 gün</span>
     <div class="tiles">
       {% for name, x, y in tiles %}{% set n = pulse.districts.get(name, 0) %}
-      <a class="tile{% if n %} on{% endif %}" href="{{ base }}ilce/{{ name|slug }}.html" style="grid-column: {{ x }}; grid-row: {{ y }}; --h: {{ (n / pulse.max_dist)|round(2) }}" title="{{ name }}: {{ n }} haber">
+      <a class="tile{% if n %} on{% endif %}" href="{{ base }}ilce/{{ name|slug }}{{ ext }}" style="grid-column: {{ x }}; grid-row: {{ y }}; --h: {{ (n / pulse.max_dist)|round(2) }}" title="{{ name }}: {{ n }} haber">
         <span>{{ name }}</span>{% if n %}<b>{{ n }}</b>{% endif %}
       </a>
       {% endfor %}
@@ -60,7 +61,7 @@
     <div class="panel sticky">
       <h3 class="panel-title"><i class="dot-live"></i>Akış</h3>
       <ol class="timeline">
-        {% for a in articles[:10] %}<li style="--c: {{ a.color }}"><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}.html">{{ a.title }}</a></li>{% endfor %}
+        {% for a in articles[:10] %}<li style="--c: {{ a.color }}"><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ a.title }}</a></li>{% endfor %}
       </ol>
     </div>
   </aside>
@@ -68,7 +69,7 @@
 
 {% for c in categories %}{% set items = by_cat[c] %}{% if items|length >= 3 %}
 <section class="cat-block" style="--c: {{ colors[c] }}">
-  {{ section_head(c, base ~ "kategori/" ~ (c|slug) ~ ".html", colors[c]) }}
+  {{ section_head(c, base ~ "kategori/" ~ (c|slug) ~ ext, colors[c]) }}
   <div class="cat-grid">
     {{ overlay(items[0], "cat", "h3") }}
     <div class="cat-list">{% for a in items[1:4] %}{{ card(a) }}{% endfor %}</div>
