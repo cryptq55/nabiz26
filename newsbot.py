@@ -318,6 +318,10 @@ def main():
             seen.pop(c["key"], None)
             sys.exit(1)
         except anthropic.APIStatusError as e:
+            if "credit balance" in str(e.message):
+                log("[hata] Anthropic hesabında kredi yok. console.anthropic.com → Plans & Billing bölümünden kredi yükleyin.")
+                seen.pop(c["key"], None)
+                sys.exit(1)
             log(f"[hata] API {e.status_code}: {e.message}")
             if e.status_code >= 500:
                 seen.pop(c["key"], None)  # sonra tekrar denensin
