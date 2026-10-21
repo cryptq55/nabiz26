@@ -2,6 +2,42 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Anadolu Üniversitesi'nde Ceza ve Ceza Muhakemesi Hukuku Ulusal Kongresi başladı
+
+**Eğitim · Tepebaşı** · 2026-10-21 22:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/e2b862dpjx7ibtt52r9w1azj)
+
+![](data/images/f2142291b9058a02.jpg)
+
+> Anadolu Üniversitesi Hukuk Fakültesi'nin düzenlediği kongre, 21-23 Ekim tarihlerinde sürecek.
+
+Anadolu Üniversitesi Hukuk Fakültesi'nin düzenlediği "Ulusal Kongre Serisi III: Ceza ve Ceza Muhakemesi Hukuku Ulusal Kongresi" Sinema Anadolu'da başladı. Kongre, fakültede uzun yıllar görev yapan merhum Prof. Dr. Özcan Uçkan anısına düzenleniyor ve 21-23 Ekim 2026 tarihlerinde sürecek.
+
+Açılışa Eskişehir Cumhuriyet Başsavcısı Ferhat Deniz, Adli Yargı Adalet Komisyonu Başkanı Arif Hamdi Sazak, Hukuk Fakültesi Dekanı Prof. Dr. Mesut Aygün, Dekan Yardımcısı Dr. Öğr. Üyesi Ayla Kaya Çalışkan ile akademisyenler, hukuk uygulayıcıları ve öğrenciler katıldı.
+
+Dekan Aygün, kongre serisini akademisyenler ve uygulayıcıları bir araya getiren kalıcı bir akademik platform haline getirmek istediklerini söyledi. Aygün, dijitalleşme ve yapay zekâdaki gelişmelerin mevcut hukuki kavramların ve sorumluluk anlayışının yeniden düşünülmesini gerekli kıldığını belirtti. Kongre Düzenleme Kurulu üyesi Prof. Dr. Hakan Karakehya ise ceza hukukunun birçok konusunda bildiri sunulacağını ifade etti.
+
+Kongrenin ilk oturumunda "Türk Ceza Hukuku Reformu'nun 21 Yılının Genel Değerlendirmesi" konusu ele alındı. Oturumda Prof. Dr. Adem Sözüer, Prof. Dr. Cumhur Şahin, Prof. Dr. İlhan Üzülmez, Prof. Dr. İzzet Özgenç, Prof. Dr. Mahmut Koca, Prof. Dr. Veli Özer Özbek ve Hâkim Gürsel Yalvaç yer aldı.
+
+---
+
+## Anadolu Üniversitesi e-Sertifika Programları için başvurular 30 Ekim'e kadar
+
+**Eğitim · Tepebaşı** · 2026-10-21 22:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/wg57lo42gu693mc3w9wrng6n)
+
+![](data/images/fe6895a20fe75d3e.jpg)
+
+> Anadolu Üniversitesi'nin 2026 Güz Dönemi'nde sunduğu 108 e-Sertifika Programı için başvurular başladı.
+
+Anadolu Üniversitesi Sürekli Eğitim Merkezi (ANADOLUSEM) tarafından yürütülen e-Sertifika Programları'nın 2026 Güz Dönemi başvuruları başladı. 108 programa başvurular 30 Ekim 2026'ya kadar yapılabilecek.
+
+Programlar herkesin başvurusuna açık. Sağlıktan iletişime, işletmeden turizme, siyasetten çocuk gelişimine, yabancı dillerden bilişim teknolojilerine kadar geniş bir yelpazede sunuluyor. Programlarda bir ila üç arasında ders bulunuyor ve ders kitapları katılımcılara dijital ortamda veriliyor.
+
+Katılımcılar eğitimlerini Anadolum eKampüs Sistemi üzerinden sunulan dijital ders materyalleriyle sürdürüyor. Derslere 9 Kasım 2026'da başlanacak.
+
+Programlara ilişkin ayrıntılı bilgi esertifika.anadolu.edu.tr adresinde yer alıyor. Başvurular sinavbasvuru.anadolu.edu.tr adresinden yapılabiliyor.
+
+---
+
 ## Tepebaşı'nda iki okulda öğrencilere atıksız yaşam eğitimi verildi
 
 **Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaogrencilericinatıksızyasamegitimi)
