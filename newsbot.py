@@ -20,8 +20,10 @@ from pathlib import Path
 
 import anthropic
 import feedparser
+import requests
 import trafilatura
 import yaml
+from googlenewsdecoder import gnewsdecoder
 
 ROOT = Path(__file__).parent
 # Deneme çalıştırmalarında NEWS_DATA_DIR ile ayrı bir klasör kullanılır, gerçek veriye dokunulmaz
@@ -145,9 +147,19 @@ def collect_candidates(seen):
         if norm and norm not in titles:
             titles.add(norm)
             unique.append(c)
-    # Resmî kurum kaynakları önce işlensin (güvenilir bilgi + kullanılabilir fotoğraf)
-    unique.sort(key=lambda c: 0 if urlparse(c["link"]).netloc.lower().endswith(OFFICIAL_SUFFIXES) else 1)
-    return unique
+    # Kaynakları sırayla karıştır ki her turda farklı kaynaklardan haber gelsin;
+    # her turda resmî kurum kaynakları önce (güvenilir bilgi + kullanılabilir fotoğraf)
+    groups = {}
+    for c in unique:
+        groups.setdefault(c["source_name"], []).append(c)
+    order = sorted(groups.values(),
+                   key=lambda g: 0 if urlparse(g[0]["link"]).netloc.lower().endswith(OFFICIAL_SUFFIXES) else 1)
+    mixed = []
+    while any(order):
+        for g in order:
+            if g:
+                mixed.append(g.pop(0))
+    return mixed
 
 
 class _LinkParser(HTMLParser):
@@ -169,13 +181,38 @@ class _LinkParser(HTMLParser):
             self._href = None
 
 
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; Nabiz26Bot/1.0; +https://nabiz26.com)",
+           "Accept-Language": "tr-TR,tr;q=0.9"}
+
+
+def http_get(url, timeout=25):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=timeout)
+        if r.ok:
+            r.encoding = r.apparent_encoding if not r.encoding or r.encoding.lower() == "iso-8859-1" else r.encoding
+            return r.text
+        log(f"[uyarı] HTTP {r.status_code}: {url}")
+    except requests.RequestException as e:
+        log(f"[uyarı] bağlantı hatası ({type(e).__name__}): {url}")
+    return None
+
+
+def resolve_link(url):
+    """Google Haberler bağlantılarını haberin asıl adresine çevirir."""
+    if urlparse(url).netloc != "news.google.com":
+        return url
+    try:
+        r = gnewsdecoder(url, interval=0.5)
+        if r.get("success"):
+            return r["decoded_url"]
+    except Exception as e:
+        log(f"[uyarı] Google Haberler bağlantısı çözülemedi: {e}")
+    return url
+
+
 def scan_page(page):
     """RSS'i olmayan kurum sitelerinde haber listesi sayfasındaki haber bağlantılarını bulur."""
-    try:
-        html = trafilatura.fetch_url(page["url"])
-    except Exception as e:
-        html = None
-        log(f"[uyarı] {page['name']} okunamadı: {e}")
+    html = http_get(page["url"])
     if not html:
         log(f"[uyarı] {page['name']} sayfası açılamadı: {page['url']}")
         return []
@@ -202,20 +239,21 @@ OFFICIAL_SUFFIXES = (".gov.tr", ".bel.tr", ".edu.tr", ".pol.tr", ".tsk.tr", ".k1
 
 
 def fetch_source(url, photos_allowed=False):
-    """Kaynak sayfanın metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
+    """Kaynağın asıl adresini, metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
+    url = resolve_link(url)
     text, image = "", None
-    try:
-        downloaded = trafilatura.fetch_url(url)
-        if downloaded:
-            text = trafilatura.extract(downloaded, include_comments=False) or ""
+    html = http_get(url)
+    if html:
+        try:
+            text = trafilatura.extract(html, url=url, include_comments=False) or ""
             host = urlparse(url).netloc.lower()
             if photos_allowed or host.endswith(OFFICIAL_SUFFIXES):
-                meta = trafilatura.extract_metadata(downloaded, default_url=url)
+                meta = trafilatura.extract_metadata(html, default_url=url)
                 if meta and meta.image and meta.image.startswith("http"):
                     image = meta.image
-    except Exception as e:
-        log(f"[uyarı] metin alınamadı {url}: {e}")
-    return text, image
+        except Exception as e:
+            log(f"[uyarı] metin çıkarılamadı {url}: {e}")
+    return url, text, image
 
 
 def recent_titles(limit=60):
@@ -285,10 +323,13 @@ def collect_queue(max_items, out_path):
     for c in candidates:
         if len(queue) >= max_items:
             break
-        text, image = fetch_source(c["link"], c.get("photos", False)) if c["link"] else ("", None)
+        if c["link"]:
+            c["link"], text, image = fetch_source(c["link"], c.get("photos", False))
+        else:
+            text, image = "", None
         if len(text) < 200:
             text = c["summary"]
-        if len(text) < 80:
+        if len(text) < 150:
             seen[c["key"]] = time.time()
             log(f"[atlandı] yetersiz metin: {c['title']}")
             continue
@@ -382,10 +423,13 @@ def main():
         if calls >= args.max:
             break
         seen[c["key"]] = time.time()
-        source_text, image = fetch_source(c["link"], c.get("photos", False)) if c["link"] else ("", None)
+        if c["link"]:
+            c["link"], source_text, image = fetch_source(c["link"], c.get("photos", False))
+        else:
+            source_text, image = "", None
         if len(source_text) < 200:
             source_text = c["summary"]
-        if len(source_text) < 80:
+        if len(source_text) < 150:
             log(f"[atlandı] yetersiz metin: {c['title']}")
             continue
         calls += 1
