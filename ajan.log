@@ -1,0 +1,10 @@
+[uyarı] Eskişehir Valiliği sayfasında haber bağlantısı bulunamadı
+[uyarı] Eskişehir Büyükşehir Belediyesi sayfası açılamadı: https://www.eskisehir.bel.tr/
+[uyarı] Anadolu Üniversitesi sayfasında haber bağlantısı bulunamadı
+252 yeni aday bulundu.
+[hata] API 400: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgFr9QpHzqbuMytRF9DLN'}
+[hata] API 400: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgFr9Tp8S4CDTbetvpx5W'}
+[hata] API 400: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgFr9WXLT4KQSJpPDw7to'}
+[hata] API 400: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgFr9ZQyTgKdzRQhD9R6X'}
+[hata] API 400: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgFr9cWkr7o3rkPR4CEzX'}
+Bu turda 0 haber yazıldı.
