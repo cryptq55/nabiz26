@@ -361,3 +361,8 @@ a:hover .cover.photo img { transform: scale(1.04); }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .page-head .intro { max-width: 64ch; color: var(--ink-2); font-weight: 500; margin: 6px 0 8px; }
 .overlay.lead h2 { font-size: clamp(32px, 4.2vw, 58px); max-width: 18ch; }
+
+/* Yazılı afiş fotoğraflarında da başlık okunsun */
+.overlay::after { background: linear-gradient(180deg, rgba(8, 7, 11, .05) 0%, rgba(8, 7, 11, .35) 35%, rgba(8, 7, 11, .82) 62%, rgba(8, 7, 11, .96) 100%); }
+.overlay-text h1, .overlay-text h2, .overlay-text h3 { text-shadow: 0 2px 18px rgba(0, 0, 0, .55); }
+.overlay-text p, .overlay-text .meta { text-shadow: 0 1px 8px rgba(0, 0, 0, .6); }
