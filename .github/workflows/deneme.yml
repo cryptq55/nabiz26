@@ -15,7 +15,7 @@ on:
         options: [claude-opus-5-5, claude-sonnet-5-5, claude-haiku-5-5]
 
 permissions:
-  contents: read
+  contents: write   # sadece sonuçları ayrı 'deneme' dalına yazmak için
 
 jobs:
   deneme:
@@ -36,7 +36,7 @@ jobs:
           NEWS_DATA_DIR: ${{ runner.temp }}/deneme
         run: |
           echo "## Ajan kayıtları" >> "$GITHUB_STEP_SUMMARY"
-          python newsbot.py --max "${{ inputs.adet }}"
+          python newsbot.py --max "${{ inputs.adet }}" 2>&1 | tee "$RUNNER_TEMP/ajan.log"
 
       - name: Yazılan haberleri rapora ekle
         env:
@@ -66,3 +66,20 @@ jobs:
           name: site-onizleme
           path: public
           retention-days: 7
+
+      - name: Sonuçları 'deneme' dalına kaydet (ana dala ve yayına dokunmaz)
+        env:
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          OUT="$RUNNER_TEMP/sonuc"
+          mkdir -p "$OUT/haberler"
+          cp "$RUNNER_TEMP/ajan.log" "$OUT/ajan.log"
+          cp "$GITHUB_STEP_SUMMARY" "$OUT/rapor.md" 2>/dev/null || true
+          cp "$RUNNER_TEMP"/deneme/articles/*.json "$OUT/haberler/" 2>/dev/null || true
+          cd "$OUT"
+          git init -q -b deneme
+          git config user.name "nabiz26-bot"
+          git config user.email "nabiz26-bot@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deneme sonucu (çalışma $RUN_ID)"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" deneme
