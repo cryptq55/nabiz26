@@ -1,27 +1,27 @@
-name: Haber ajanı
+name: Siteyi yayınla
 
+# Haberleri "Nabız 26 haber masası" oturumu yazıp main dalına gönderir.
+# Bu iş akışı her gönderimde siteyi üretir ve Cloudflare Pages'e yükler.
+# Yayın kapalıyken çalışmaz. Açmak için:
+# Settings → Secrets and variables → Actions → Variables → YAYIN_AKTIF = true
 on:
-  schedule:
-    - cron: "7 * * * *"   # saatte bir, 7/24 (gizli depoda ücretsiz dakika sınırına uygun)
   push:
-    branches: [main]      # tasarım/kod değişince siteyi yeniden yayınla
-    paths-ignore: ["data/**", "README.md"]
-  workflow_dispatch:      # elle çalıştırma butonu
+    branches: [main]
+    paths-ignore: ["README.md", "OTURUM.md", "SON_HABERLER.md"]
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: haber
-  cancel-in-progress: false
+  group: yayin
+  cancel-in-progress: true   # üst üste gönderimde yalnızca en güncel hali yayınla
 
 jobs:
-  run:
-    # Yayına alınana kadar otomatik çalışmaz. Yayına almak için:
-    # Settings → Secrets and variables → Actions → Variables → YAYIN_AKTIF = true
+  yayin:
     if: vars.YAYIN_AKTIF == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,39 +30,14 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
 
-      - name: Haberleri topla ve yaz
-        if: github.event_name != 'push'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          NEWS_MODEL: ${{ vars.NEWS_MODEL || 'claude-opus-5-5' }}
-          PUBLISH_MODE: ${{ vars.PUBLISH_MODE || 'auto' }}
-          MAX_PER_RUN: ${{ vars.MAX_PER_RUN || '6' }}
-        run: python newsbot.py
-
-      - name: Yeni haberleri kaydet
-        id: save
-        run: |
-          git config user.name "nabiz26-bot"
-          git config user.email "nabiz26-bot@users.noreply.github.com"
-          git add data
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "Yeni haberler $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Siteyi üret
-        if: steps.save.outputs.changed == 'true' || github.event_name != 'schedule'
         env:
           SITE_NAME: ${{ vars.SITE_NAME || 'Nabız 26' }}
           SITE_URL: ${{ vars.SITE_URL || 'https://nabiz26.com' }}
           SITE_EMAIL: ${{ vars.SITE_EMAIL || 'iletisim@nabiz26.com' }}
         run: python build.py
 
-      - name: Cloudflare Pages'e yayınla
-        if: steps.save.outputs.changed == 'true' || github.event_name != 'schedule'
+      - name: Cloudflare Pages'e yükle
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
