@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Savunma Sanayii Başkan Yardımcısı Gökhan Uçar Eskişehir Teknik Üniversitesi'ni ziyaret etti
+
+**Eğitim · Tepebaşı** · 2026-10-22 15:33 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/savunma-sanayii-baskan-yardimcisi-gokhan-ucardan-eskisehir-teknik-universitesine-ziyaret)
+
+![](data/images/3dece8e6ef3a2edb.jpg)
+
+> Savunma Sanayii Başkan Yardımcısı Gökhan Uçar, 22 Ekim'de Eskişehir Teknik Üniversitesi'ni ziyaret etti. Ziyarette Rektör Prof. Dr. Adnan Özcan ev sahipliği yaptı.
+
+Savunma Sanayii Başkan Yardımcısı Gökhan Uçar, 22 Ekim 2026 Perşembe günü Eskişehir Teknik Üniversitesi'ni (ESTÜ) ziyaret etti. Ziyarette Rektör Prof. Dr. Adnan Özcan ev sahipliği yaptı.
+
+Görüşmeye TEITECH Genel Müdürü Ahmet Fındık, TEITECH Kurumsal Yönetim Genel Müdür Yardımcısı Ercan Arıcan, Havacılık ve Uzay Bilimleri Fakültesi Dekanı Prof. Dr. Cem Çetek ve Yapı İşleri ve Teknik Daire Başkanı İbrahim Halil Umur katıldı. Ziyaret, hatıra fotoğrafı çekilmesinin ardından sona erdi.
+
+---
+
 ## Togg'dan ekim ayında sıfır faizli kredi kampanyası
 
 **Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.memurlar.net/album/28350/togg-dan-dev-kampanya.html)
@@ -491,21 +505,5 @@ Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, Ticaret Borsası 
 Belediye, çevre bilincinin küçük yaşlarda kazanılmasına katkı sunmak için okullarda eğitim ve bilgilendirme çalışmalarını sürdürüyor. Çalışmalarla öğrencilerin çevreye duyarlı alışkanlıklar edinmesi ve atıkların azaltılması konusunda farkındalık kazanması hedefleniyor.
 
 Benzer eğitimler için başvuru yapmak ve bilgi almak isteyenler Tepebaşı Belediyesi'nin 0222 211 40 00 numaralı telefonundan 3324 veya 3085 dahili numaralarına ulaşabiliyor.
-
----
-
-## Tepebaşı Arama Kurtarma Ekibi AFAD barınma akreditasyonu aldı
-
-**Gündem · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/takafadbarınmaakreditasyonunahakkazandı)
-
-![](data/images/fe511329c9314387.jpg)
-
-> Tepebaşı Belediyesi Arama Kurtarma (TAK) Ekibi, AFAD'ın barınma akreditasyonu sınavını başarıyla tamamladı.
-
-Tepebaşı Belediyesi Afet İşleri ve Risk Yönetimi Müdürlüğü bünyesindeki Tepebaşı Arama Kurtarma (TAK) Ekibi, AFAD'ın barınma akreditasyonu sınavını başarıyla tamamlayarak akreditasyon almaya hak kazandı.
-
-AFAD standartları doğrultusunda yürütülen eğitim ve sınav sürecini geçen ekip, afet sonrası barınma hizmetlerini koordinasyon içinde yürütebilecek yetkinliğini belgelemiş oldu.
-
-Tepebaşı Belediyesi yetkilileri, akreditasyonun düzenli eğitimlerin ve disiplinli çalışmanın sonucu olduğunu belirtti. Yetkililer, afetlere dirençli kent hedefi doğrultusunda eğitim ve hazırlık çalışmalarının süreceğini bildirdi.
 
 ---
