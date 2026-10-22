@@ -497,6 +497,24 @@ def collect_queue(max_items, out_path):
     log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
 
 
+def write_article_github(candidate, source_text, recent):
+    """Yedek yazar: GitHub Models (Actions içinde GITHUB_TOKEN ile ücretsiz). Anthropic kredisi yokken devreye girer."""
+    user_msg = (
+        "Son yayınlanan başlıklar:\n- " + "\n- ".join(recent or ["(henüz yok)"]) +
+        f"\n\n<kaynak ad=\"{candidate['source_name']}\">\nBaşlık: {candidate['title']}\n\n{source_text[:12000]}\n</kaynak>"
+    )
+    body = {"model": os.environ.get("GITHUB_MODEL", "openai/gpt-4.1"), "temperature": 0.3,
+            "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": user_msg}],
+            "response_format": {"type": "json_schema",
+                                "json_schema": {"name": "haber", "strict": True, "schema": ARTICLE_SCHEMA}}}
+    r = requests.post("https://models.github.ai/inference/chat/completions", json=body, timeout=180,
+                      headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Content-Type": "application/json"})
+    if r.status_code == 429:
+        raise RuntimeError("GitHub Models hız sınırı")
+    r.raise_for_status()
+    return json.loads(r.json()["choices"][0]["message"]["content"])
+
+
 def auto_run(max_items):
     """Yedek haber masası (GitHub Actions): oturum modunun aynısını Claude API ile yapar.
     Toplar, her kaynak için editör kararını API'den alır, kararları aynı doğrulamayla kaydeder."""
@@ -508,16 +526,29 @@ def auto_run(max_items):
     if not q["queue"]:
         log("Kuyruk boş, yazılacak haber yok.")
         return
-    client = anthropic.Anthropic()
+    use_github = not os.environ.get("ANTHROPIC_API_KEY")
+    client = None if use_github else anthropic.Anthropic()
     decisions = {}
     for c in q["queue"]:
-        try:
-            art = write_article(client, c, f"(Bugünün tarihi: {q['today']})\n\n{c['text']}", q["recent_titles"])
-        except anthropic.APIStatusError as e:
-            log(f"[hata] API {e.status_code}: {str(e.message)[:200]}")
-            if e.status_code in (400, 401, 402, 403, 429):
-                break  # kredi/anahtar/hız sorunu: kalanları denemenin anlamı yok
-            continue
+        text = f"(Bugünün tarihi: {q['today']})\n\n{c['text']}"
+        art = None
+        if not use_github:
+            try:
+                art = write_article(client, c, text, q["recent_titles"])
+            except anthropic.APIStatusError as e:
+                log(f"[uyarı] Anthropic API {e.status_code}: {str(e.message)[:150]} -> GitHub Models'e geçiliyor")
+                use_github = True
+        if use_github:
+            if not os.environ.get("GITHUB_TOKEN"):
+                log("[hata] yazacak model yok (Anthropic kredisi yok, GITHUB_TOKEN tanımlı değil)")
+                break
+            try:
+                art = write_article_github(c, text, q["recent_titles"])
+            except Exception as e:
+                log(f"[hata] GitHub Models: {str(e)[:200]}")
+                if "hız sınırı" in str(e):
+                    break
+                continue
         if art:
             decisions[c["key"]] = art
     dpath.write_text(json.dumps(decisions, ensure_ascii=False), encoding="utf-8")

@@ -17,6 +17,7 @@ on:
 permissions:
   contents: write
   issues: write
+  models: read      # yedek masa: Anthropic kredisi yoksa GitHub Models ile yazar
 
 concurrency:
   group: saglik
@@ -55,15 +56,20 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: claude-sonnet-5-5
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           pip install -q -r requirements.txt
+          before=$(ls data/articles | wc -l)
           python newsbot.py --auto --max 6 2>&1 | tee -a "$GITHUB_STEP_SUMMARY"
-          git config user.name "nabiz26-bot"
-          git config user.email "nabiz26-bot@users.noreply.github.com"
-          git add data SON_HABERLER.md
-          if ! git diff --cached --quiet; then
+          after=$(ls data/articles | wc -l)
+          # Yalnızca yeni haber yazıldıysa kaydet (aksi halde indirilen fotoğraflar boşuna depoya girmesin)
+          if [ "$after" -gt "$before" ]; then
+            git config user.name "nabiz26-bot"
+            git config user.email "nabiz26-bot@users.noreply.github.com"
+            git add data/articles data/images data/seen.json SON_HABERLER.md
             git commit -q -m "Yeni haberler (yedek masa)"
-            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+            # Haber masası aynı anda seen.json'u değiştirmiş olabilir: çakışmada onlarınki alınır
+            for i in 1 2 3; do git pull --rebase -X ours -q origin main && git push -q origin HEAD:main && break; sleep 5; done
           fi
 
       - name: Uyarı kaydı
