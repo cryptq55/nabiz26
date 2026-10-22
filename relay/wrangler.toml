@@ -1,0 +1,5 @@
+# Yurt dışı IP'leri engelleyen kurum sitelerine (ör. Büyükşehir) haber masasının ulaşabilmesi için küçük aktarıcı.
+# Yalnızca aşağıdaki sitelere GET isteği iletir; yanıtlar 10 dakika önbellekte tutulur.
+name = "nabiz26-relay"
+main = "index.js"
+compatibility_date = "2026-10-01"

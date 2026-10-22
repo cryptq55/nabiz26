@@ -25,5 +25,11 @@ jobs:
           for p in cfg["pages"]:
               print(f"| {p['name']} | {len(newsbot.scan_page(p))} |")
           PY
+      - name: Aktarıcı üzerinden erişim (Büyükşehir, Beylikova)
+        run: |
+          for u in https://www.eskisehir.bel.tr/ https://www.beylikova.bel.tr/; do
+            curl -s -o /dev/null -w "aktarıcı $u -> %{http_code} %{size_download} bayt %{time_total}s\n" --max-time 60 \
+              "https://nabiz26-relay.cryptq.workers.dev/?url=$u" | tee -a "$GITHUB_STEP_SUMMARY"
+          done
       - name: Toplama (modelsiz)
         run: python newsbot.py --collect "$RUNNER_TEMP/kuyruk.json" --max 12 2>&1 | tee -a "$GITHUB_STEP_SUMMARY"
