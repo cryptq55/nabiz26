@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de festival ve konser iptalleri art arda geldi
+
+**Kültür-Sanat · Merkez** · 2026-10-22 14:32 UTC · Kaynak: [Eskişehir.net ve yerel basın](https://www.eskisehir.net/eskisehirde-bir-festival-daha-iptal-edildi)
+
+![](data/images/festival-iptalleri-20261022.jpg)
+
+> Kentte son iki ayda beş etkinlik iptal edildi. Çoğunda hava koşulları ve organizasyon sorunları gerekçe gösterilirken Yalın konseri için ayrıntılı bir açıklama yapılmadı.
+
+Eskişehir'de eylülün başından bu yana festival ve konser iptalleri peş peşe yaşandı. Son iki ayda beş etkinlik ya tamamen iptal edildi ya da programından çıkarıldı. Bilet alan vatandaşlar ve etkinlik alanlarında tezgâh açan esnaf, iptallerden en çok etkilenen kesim oldu.
+
+En son iptal, 23-25 Ekim'de Kentpark'ta yapılması planlanan Şehir Festivalleri'nden geldi. Organizasyonu üstlenen Because Creative, beklenen yoğun yağış ve olumsuz hava koşullarının katılımcılar ve ekip için risk oluşturacağını belirterek festivali iptal ettiğini duyurdu. Bilet sahiplerinin iade için bileti aldıkları platformlara başvurması istendi.
+
+Eylülde ise Tepebaşı'ndaki Food Vibe Fest büyük bir krize sahne oldu. Ceza ve İrem Derici, organizasyon firmasının sorumluluklarını yerine getirmediğini açıklayarak konserlerini iptal etti. Farklı illerden gelip üç günlük tezgâh açan esnaf mağdur olduklarını dile getirdi, etkinlik sorumlusu polis tarafından karakola götürüldü.
+
+26 Eylül'de yapılacak 3. İnönü Havacılık Festivali de güçlü rüzgâr ve olumsuz hava nedeniyle iptal edildi. Türk Hava Kurumu Eskişehir Şube Başkanı Gökhan Çalışkan, hazırlıkların tamamlandığını ancak hava şartlarının etkinliğe uygun olmadığını açıkladı. Uluslararası Eskişehir Porsuk Festivali kapsamında 6 Eylül'de sahnelenecek "Yıldız" adlı tiyatro oyunu ise sağlık sorunu gerekçesiyle programdan çıkarıldı.
+
+7 Ekim'de Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda yapılması planlanan Yalın konseri de iptal edilenler arasında yer aldı. Bilet sahiplerine mesajla duyurulan kararın gerekçesine ilişkin kamuoyuna ayrıntılı bir açıklama yapılmadı. Prodüksiyon şirketi, konserin bahar aylarında Eskişehir'de yapılacağını bildirdi.
+
+---
+
 ## Altın fiyatları 22 Ekim 2026: Gram altın 6.515,09 TL
 
 **Ekonomi · Merkez** · 2026-10-22 14:23 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -495,23 +515,5 @@ Program, Türkiye İzcilik Federasyonu bünyesinde ve Eskişehir İklim Spor Kul
 Geçmiş dönemlerdeki eğitim, kamp ve doğa etkinliklerinden fotoğraf ve videolar paylaşıldı. Velilerin soruları da yanıtlandı.
 
 Programın çocukların doğayı tanımasını, çevre bilinci kazanmasını ve takım çalışması ile sorumluluk duygusunu geliştirmesini amaçladığı belirtildi. Şu anda yaklaşık 70 izcinin yer aldığı programın yeni dönem başvurularıyla büyümesi bekleniyor.
-
----
-
-## Tepebaşı İklim Haftası'nda 62 genç İklim Manifestosu hazırladı
-
-**Gündem · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/geleceginiklimsozutepebası’ndanyukseliyor)
-
-![](data/images/f60ca3b9c9cac2ed.jpg)
-
-> 16-23 Ekim'de düzenlenen Tepebaşı İklim Haftası, COP31 Bike Ride bisikletçilerinin karşılanması ve Gençlik İklim Çalıştayı ile başladı.
-
-Tepebaşı Belediyesi'nin 16-23 Ekim tarihleri arasında düzenlediği Tepebaşı İklim Haftası, COP31 Bike Ride bisikletçilerinin karşılanması, bir belgesel gösterimi ve Gençlik İklim Çalıştayı ile başladı.
-
-19 Ekim'de Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda yapılan çalıştaya 62 üniversite ve lise öğrencisi katıldı. Gençler; iklim adaleti, enerji ve düşük karbonlu yaşam, gençlik katılımı, iklim yönetişimi ve iklim farkındalığı ile iklim değişikliğine uyum başlıklarında öneriler geliştirdi. Çalıştay Dr. Nuran Talu ve EKO Okullar İl Koordinatörü Nadir Erdem'in moderatörlüğünde yapıldı. Gençlerin görüşleri Gençlik İklim Manifestosu'nda toplandı ve manifestonun COP31 sürecinde paylaşılması hedefleniyor.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, gençlerin iklim kararlarına katılımını önemsediklerini söyledi. Ataç, önerileri kent yönetiminin karar süreçlerine taşımaya çalışacaklarını belirtti.
-
-Brezilya'daki Belém kentinden yola çıkıp COP31'in düzenleneceği Antalya'ya ulaşmayı hedefleyen COP31 Bike Ride ekibi, Türkiye'de İstanbul, Eskişehir, Ankara, Konya ve Antalya güzergâhını izliyor. Bisikletçiler 16 Ekim'de Özdilek Sanat Merkezi'nde karşılandı ve Başkan Ataç ile görüştü. Yolculuklarını anlatan "COP30BikeRide – Together" belgeseli 18 Ekim'de Tepebaşı Belediyesi Hizmet Binası Meclis Salonu'nda gösterildi.
 
 ---
