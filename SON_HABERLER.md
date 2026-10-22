@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Piyano Günleri'nde "Boratav Project / Sesin Bedeni" doğaçlama resitali yapıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 08:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/tn23myoaq5ty7l61hl56ts58)
+
+![](data/images/85ad89d7ad99faa2.jpg)
+
+> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında Emre Dündar ve Mehmet Ali Uzunselvi iki piyano doğaçlama resitali verdi.
+
+Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında "Boratav Project / Sesin Bedeni" iki piyano doğaçlama resitali yapıldı. Resitalde besteci ve piyanistler Emre Dündar ile Mehmet Ali Uzunselvi sahne aldı. Etkinlik Öğrenci Merkezi Yunus Emre Salonu'nda gerçekleşti.
+
+Resitale Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, Mimar Sinan Güzel Sanatlar Üniversitesi Devlet Konservatuvarı'nda uzun yıllar görev yapan Prof. Dr. Hülya Tarcan, öğretim elemanları, öğrenciler ve sanatseverler katıldı.
+
+Boratav Project, 2007'de Dündar ve Uzunselvi tarafından kuruldu. Sanatçıların serbest doğaçlama performanslarını ve bu performanslardan elde ettikleri ses malzemeleriyle ürettikleri elektroakustik yapıtları kapsıyor. Adını halk edebiyatı araştırmacısı Pertev Naili Boratav'dan alıyor.
+
+"Sesin Bedeni" performansı, önceden planlanmış ses yapılarıyla sahnede ortaya çıkan doğaçlama ses olaylarının bir araya gelmesine dayandı. Piyanonun sesine elektronik klavyelerde saklanan özgün ses malzemeleri de eşlik etti.
+
+Dündar, iki çok sesli enstrümanla doğaçlama yapmanın belirsizlikler ve riskler taşıdığını söyledi. Uzunselvi ise iki piyanonun etkileşimini bir bedenin oluşumuna benzeterek, iki farklı uzvun tek bir bedeni meydana getirmesi gibi iki piyanonun da zamanla ortak hareket ettiğini anlattı.
+
+---
+
 ## Vali Yılmaz, Muhtar Erol Erdal Gürdoğan'ın ailesine taziye ziyaretinde bulundu
 
 **Gündem · Odunpazarı** · 2026-10-22 01:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-merhum-muhtar-erol-erdal-gurdoganin-ailesine-taziye-ziyaretinde-bulundu)
@@ -509,23 +529,5 @@ Anadolu Üniversitesi İletişim Bilimleri Fakültesi'nden Prof. Dr. Nezih Orhon
 BEBKA'dan Nigah Ertekin bölgesel yeşil dönüşüm desteklerini, EcoMuse'den Seyran Hatipoğlu işletmeler için iklim finansmanını anlattı. TÜBİTAK Ufuk Avrupa Programı'ndan Arzu İpek Yılmaz Üçüncü ise Avrupa Birliği programının işletmelere sunduğu iklim odaklı destekleri aktardı.
 
 Panelde düşük karbonlu üretime geçişin işletmeler için önemi ve ulusal ile uluslararası destek programlarından yararlanma yolları değerlendirildi. Katılımcılar uzmanlara sorularını yöneltti. Tepebaşı Belediye Başkanı Ahmet Ataç'ı panelde Meclis Üyesi Nazan Erşahin temsil etti.
-
----
-
-## Odunpazarı'nda meme kanseri farkındalığı için yoga etkinliği
-
-**Sağlık · Odunpazarı** · 2026-10-21 18:35 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-pembe-ekim-de-yoga-ile-farkindalik-etkinligi)
-
-![](data/images/202610211835-odunpazarinda-meme-kanseri-.jpg)
-
-> Odunpazarı Belediyesi, Pembe Ekim kapsamında kadınları 24 Ekim Cumartesi günü Gökmeydan'da düzenlenecek yoga etkinliğine davet etti.
-
-Odunpazarı Belediyesi, meme kanseri farkındalık ayı olan Pembe Ekim kapsamında "Pembe Ekim'de Yoga ile Farkındalık" etkinliği düzenleyecek. Etkinlikle meme kanserinde erken tanının önemine dikkat çekilmesi ve kadınlarda sağlık farkındalığının artırılması amaçlanıyor.
-
-Etkinlik, 24 Ekim Cumartesi günü saat 13.00'te Odunpazarı Belediyesi Gökmeydan Ek Hizmet Binası Spor Salonu'nda yapılacak. Yoga eğitmeni Meyra Dodurga eşliğinde gerçekleştirilecek buluşmada katılımcılar nefeslerine odaklanacak ve kendilerine zaman ayıracak.
-
-Belediyenin açıklamasında, meme kanserinde erken tanının tedavi sürecinde önemli rol oynadığı hatırlatıldı. Düzenli sağlık kontrollerinin aksatılmaması ve şüpheli bir değişiklik fark edildiğinde sağlık kuruluşlarına başvurulması gerektiği vurgulandı.
-
-Etkinlikle ilgili ayrıntılı bilgi almak isteyenler, Odunpazarı Belediyesi Kadın ve Aile Hizmetleri Müdürlüğüne 0222 213 30 30 numaralı telefondan ulaşabilecek.
 
 ---
