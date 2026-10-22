@@ -43,10 +43,10 @@ PUBLISH_MODE = os.environ.get("PUBLISH_MODE", "auto")
 REQUIRE_IMAGE = os.environ.get("REQUIRE_IMAGE", "1") != "0"
 
 CATEGORIES = ["Gündem", "Asayiş", "Belediye", "Ekonomi", "Eğitim", "Sağlık",
-              "Spor", "Kültür-Sanat", "Tarım", "Ulaşım", "Hava Durumu"]
+              "Spor", "Kültür-Sanat", "Tarım", "Ulaşım", "Hava Durumu", "Siyaset", "Türkiye"]
 DISTRICTS = ["Merkez", "Odunpazarı", "Tepebaşı", "Alpu", "Beylikova", "Çifteler", "Günyüzü",
              "Han", "İnönü", "Mahmudiye", "Mihalgazi", "Mihalıççık", "Sarıcakaya",
-             "Seyitgazi", "Sivrihisar"]
+             "Seyitgazi", "Sivrihisar", "Türkiye"]  # "Türkiye": ulusal haberler (ilçe değil)
 
 SYSTEM_PROMPT = f"""Sen Eskişehir'in yerel haber portalının editörü ve muhabirisin. Sana bir kaynaktan gelen haber
 metni ve sitede son yayınlanan başlıklar verilecek. Görevin:
@@ -78,9 +78,18 @@ Gazetecilik kuralları:
 - Kategori şunlardan biri: {", ".join(CATEGORIES)}.
 - İlçe şunlardan biri: {", ".join(DISTRICTS)}. Belirsizse "Merkez".
 - Kaynak metin yetersiz veya çelişkiliyse publish=false ver.
-- Konu kaynakları: Kuyrukta "topic" alanı "togg" olan kaynaklar Togg (yerli otomobil) haberleridir; Eskişehir
-  şartı aranmaz. Togg ile doğrudan ilgiliyse yayınla (kategori "Ekonomi", ilçe "Merkez"); Togg'dan sadece
-  geçerken bahsediyorsa publish=false ver.
+- Aynı kuyrukta aynı olayı anlatan birden fazla kaynak varsa yalnızca birini yayınla; resmî fotoğraflı
+  (resmî kurum kaynaklı) olanı tercih et, diğerlerinden yalnızca ek bilgi al.
+- Konu kaynakları: Kuyrukta "topic" alanı dolu olan kaynaklarda Eskişehir şartı aranmaz.
+  - "togg": Togg (yerli otomobil) haberleri. Togg ile doğrudan ilgiliyse yayınla (kategori "Ekonomi", ilçe
+    "Türkiye"); Togg'dan sadece geçerken bahsediyorsa publish=false ver.
+  - "siyaset": Cumhurbaşkanı ve ana muhalefet (CHP) haberleri. Kategori "Siyaset", ilçe "Türkiye".
+  - "bakanlik": Bakanlık ve devlet kurumu haberleri. Kategori "Türkiye" (konusu açıkça ekonomi, eğitim,
+    sağlık gibi bir alansa o kategori de olur), ilçe "Türkiye".
+  Eskişehir'le ilgili bir ayrıntı varsa (ziyaret, yatırım, karar) bunu başlığa ve ilk paragrafa taşı.
+- Siyaset haberlerinde tam tarafsız ol: Sözleri ve iddiaları her zaman söyleyene atfet ("dedi", "açıkladı",
+  "iddia etti"); kendi yorumunu, övgü ya da yergi sıfatlarını ekleme. İktidar ve muhalefet haberlerini aynı
+  dil ve aynı özenle yaz. Hakaret içeren ifadeleri, tırnak içinde olsa da başlığa taşıma.
 - Güncellik: Kaynakta haberin tarihi görünüyorsa ve bugünden 3 günden eskiyse publish=false ver
   (skip_reason: "eski haber"). Tarihi belirsiz duyurularda içerik açıkça geçmiş bir olayı anlatıyorsa yine yayınlama.
 - Önem puanı (importance, 1-5): sosyal medyada nasıl paylaşılacağını belirler (4-5 Reels + gönderi + story,
@@ -173,7 +182,8 @@ def collect_candidates(seen):
             if key in seen:
                 continue
             candidates.append({"key": key, "source_name": page["name"], "title": title,
-                               "link": link, "summary": "", "photos": page.get("photos", False)})
+                               "link": link, "summary": "", "photos": page.get("photos", False),
+                               "topic": page.get("topic"), "brand_cover": page.get("brand_cover", False)})
     # Aynı başlık farklı akışlardan gelebilir
     unique, titles = [], set()
     for c in candidates:
@@ -187,7 +197,8 @@ def collect_candidates(seen):
     for c in unique:
         groups.setdefault(c["source_name"], []).append(c)
     order = sorted(groups.values(),
-                   key=lambda g: 0 if urlparse(g[0]["link"]).netloc.lower().endswith(OFFICIAL_SUFFIXES) else 1)
+                   key=lambda g: (bool(g[0].get("topic")),  # önce yerel, sonra konu (ulusal, Togg) kaynakları
+                                  0 if urlparse(g[0]["link"]).netloc.lower().endswith(OFFICIAL_SUFFIXES) else 1))
     mixed = []
     while any(order):
         for g in order:
@@ -502,8 +513,9 @@ def save_decisions(queue_path, decisions_path):
             # Gazete fotoğrafı kullanılamaz; kendi tasarımımız olan konu kapağını üret
             from social import topic_card
             IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-            label = (c.get("topic") or "Nabız").title()
-            topic_card(IMAGES_DIR / f"{key}.jpg", article["title"], label, "#059669", note="Görsel: Nabız 26")
+            label, color = {"togg": ("Togg", "#059669"), "siyaset": ("Siyaset", "#b91c1c"),
+                            "bakanlik": ("Türkiye", "#1d4ed8")}.get(c.get("topic"), ("Nabız", "#e11d48"))
+            topic_card(IMAGES_DIR / f"{key}.jpg", article["title"], label, color, note="Görsel: Nabız 26")
             c["image"] = {"file": f"images/{key}.jpg", "source_url": "", "credit": "Nabız 26"}
         if REQUIRE_IMAGE and not c.get("image"):
             log(f"[atlandı] fotoğrafsız haber kaydedilmez: {c['title']}")

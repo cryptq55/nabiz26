@@ -42,6 +42,7 @@ CATEGORY_COLORS = {
     "Gündem": "#e11d48", "Asayiş": "#475569", "Belediye": "#0891b2", "Ekonomi": "#059669",
     "Eğitim": "#7c3aed", "Sağlık": "#0d9488", "Spor": "#ea580c", "Kültür-Sanat": "#c026d3",
     "Tarım": "#65a30d", "Ulaşım": "#2563eb", "Hava Durumu": "#0284c7",
+    "Siyaset": "#b91c1c", "Türkiye": "#1d4ed8",
 }
 # Kategori ve ilçe sayfalarının arama sonuçlarındaki açıklamaları
 CATEGORY_DESC = {
@@ -56,6 +57,8 @@ CATEGORY_DESC = {
     "Tarım": "Eskişehir tarım haberleri: hasat, sulama, çiftçi destekleri ve ilçelerden tarımsal gelişmeler.",
     "Ulaşım": "Eskişehir ulaşım haberleri: tramvay, otobüs seferleri, yol çalışmaları ve trafik düzenlemeleri.",
     "Hava Durumu": "Eskişehir hava durumu haberleri: meteoroloji uyarıları, sıcaklık, yağış ve kar tahminleri.",
+    "Siyaset": "Siyaset haberleri: Cumhurbaşkanı, iktidar ve ana muhalefetten açıklamalar, Meclis ve gündem.",
+    "Türkiye": "Türkiye haberleri: bakanlıklardan kararlar, açıklamalar ve vatandaşı ilgilendiren gelişmeler.",
 }
 TR_MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
              "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
@@ -67,6 +70,8 @@ GOOGLE_IMAGE_LIMIT = 200  # her derlemede yalnızca son haberler için üretilir
 
 
 def district_desc(d):
+    if d == "Türkiye":
+        return "Türkiye haberleri: Cumhurbaşkanlığı, bakanlıklar ve siyasetten Eskişehirlileri ilgilendiren gelişmeler."
     if d == "Merkez":
         return "Eskişehir merkez haberleri: kent genelini ilgilendiren son dakika gelişmeler ve duyurular."
     return f"{d} haberleri: Eskişehir {d} ilçesinden son dakika gelişmeler, belediye duyuruları ve yerel haberler."
@@ -271,7 +276,7 @@ def main():
                "mainEntityOfPage": a["url"], "url": a["url"], "isAccessibleForFree": True,
                "author": {"@type": "Organization", "name": f"{SITE['name']} Haber Merkezi", "url": f"{SITE['url']}/"},
                "publisher": {"@id": org["@id"]},
-               "contentLocation": {"@type": "Place", "name": f"{a['district']}, Eskişehir" if a["district"] != "Merkez" else "Eskişehir"},
+               "contentLocation": {"@type": "Place", "name": f"{a['district']}, Eskişehir" if a["district"] not in ("Merkez", "Türkiye") else ("Türkiye" if a["district"] == "Türkiye" else "Eskişehir")},
                "image": images,
                "isBasedOn": a["source"]["url"]},
               crumbs(("Ana Sayfa", f"{SITE['url']}/"), (a["category"], cat_url), (a["title"], a["url"])), org]

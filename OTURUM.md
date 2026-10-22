@@ -4,7 +4,7 @@ Bu dosya, saatte bir açılan Claude bulut oturumunun izlediği talimattır. Otu
 API yerine oturumdaki Claude yazar. Adımları sırayla uygula, kısa tut ve bitince dur.
 
 1. `pip install -q -r requirements.txt`
-2. Kuyruğu oluştur: `python newsbot.py --collect /tmp/kuyruk.json --max 12`
+2. Kuyruğu oluştur: `python newsbot.py --collect /tmp/kuyruk.json --max 16`
    Kuyruk boşsa 6. adıma geç.
 3. Kuralları oku: `python newsbot.py --rules`. Bu kurallar senin editörlük talimatındır, hepsine uy.
 4. `/tmp/kuyruk.json` içindeki her kaynak için kurallara göre karar ver. `today` bugünün tarihi, `recent_titles` son yayınlanan

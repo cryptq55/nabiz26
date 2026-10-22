@@ -15,6 +15,19 @@ feeds:
     url: https://news.google.com/rss/search?q=Togg+when:1d&hl=tr&gl=TR&ceid=TR:tr
     topic: togg
     brand_cover: true
+  # Ulusal: Cumhurbaşkanı, ana muhalefet ve bakanlıklar (Eskişehir şartı yok; gazete fotoğrafı yerine marka kapağı)
+  - name: Google Haberler - Cumhurbaşkanı
+    url: https://news.google.com/rss/search?q=Cumhurba%C5%9Fkan%C4%B1+Erdo%C4%9Fan+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: siyaset
+    brand_cover: true
+  - name: Google Haberler - CHP
+    url: https://news.google.com/rss/search?q=CHP+Genel+Ba%C5%9Fkan%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: siyaset
+    brand_cover: true
+  - name: Google Haberler - Bakanlıklar
+    url: https://news.google.com/rss/search?q=Bakanl%C4%B1%C4%9F%C4%B1+a%C3%A7%C4%B1klad%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: bakanlik
+    brand_cover: true
 
 # RSS'i olmayan resmî kurum siteleri: ajan sayfadaki haber bağlantılarını bulup okur.
 # Bu kaynakların fotoğrafları (basın kullanımına açık) haberle birlikte, kaynak belirtilerek kullanılır.
@@ -60,3 +73,21 @@ pages:
     url: https://eskisehir.gsb.gov.tr/
   - name: Eskişehir İl Kültür ve Turizm Müdürlüğü
     url: https://eskisehir.ktb.gov.tr/
+  # Ulusal resmî kaynaklar (fotoğraflar resmî)
+  - name: İletişim Başkanlığı
+    url: https://www.iletisim.gov.tr/turkce/haberler
+    topic: siyaset
+    limit: 5
+  - name: Aile ve Sosyal Hizmetler Bakanlığı
+    url: https://www.aile.gov.tr/haberler/
+    topic: bakanlik
+    limit: 4
+  - name: Milli Eğitim Bakanlığı
+    url: https://www.meb.gov.tr/
+    topic: bakanlik
+    limit: 4
+  - name: Enerji ve Tabii Kaynaklar Bakanlığı
+    url: https://enerji.gov.tr/
+    link_contains: haber-detay
+    topic: bakanlik
+    limit: 4

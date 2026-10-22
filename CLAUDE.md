@@ -22,7 +22,10 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **Sabah altın haberi:** `gold.py`, Harem Altın canlı fiyatlarından (socket.io) haber + fiyat tablosu görseli yazar;
   `.github/workflows/altin.yml` her gün 06:00 UTC (09:00 TSİ) çalıştırır, sonra "Bildir ve paylaş"ı başlatır.
-- **Togg:** `sources.yaml`'da `topic: togg` + `brand_cover: true` olan Google Haberler kaynağı; Eskişehir şartı yok.
+- **Konu kaynakları (Eskişehir şartı yok):** `sources.yaml`'da `topic` alanıyla: `togg`, `siyaset` (Cumhurbaşkanı, CHP),
+  `bakanlik`. Google Haberler kaynakları `brand_cover: true` ile kendi kapağımızı alır; İletişim Başkanlığı, Aile,
+  MEB ve Enerji bakanlıkları resmî fotoğraflı. Kategoriler "Siyaset" ve "Türkiye", ilçe yerine "Türkiye".
+  Her turda önce yerel kaynaklar, sonra konu kaynakları kuyruğa girer.
 - **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
   `sitemap.xml`, `news-sitemap.xml`, `robots.txt`, RSS. Search Console'a iki site haritası gönderildi.
   Her haber için 1200 px 16:9/4:3/1:1 görseller (`public/images/g/`, Google Discover/Haberler), tarihler +03:00,
