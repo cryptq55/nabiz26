@@ -2,6 +2,150 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye ve Kanada ilişkileri stratejik ortaklık düzeyine yükseltildi
+
+**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-kanada-basbakani-carney-ile-ortak-basin-toplantisinda-konustu)
+
+![](data/images/01d17ce444c6976e.jpg)
+
+> Cumhurbaşkanı Erdoğan ile Kanada Başbakanı Carney Ankara'da görüştü. Görüşmenin ardından üç belge imzalandı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kanada Başbakanı Mark Carney ile baş başa ve heyetler arası görüşme yaptı. Erdoğan, Carney'i resmî törenle karşıladı. Görüşmenin ardından iki ülke arasında üç belge imzalandı.
+
+İmzalanan belgeler; Savunma Sanayii Başkanı Haluk Görgün ile Kanada Dışişleri Bakanı Anita Anand arasındaki "Savunma Sektörü Ortaklıkları Mutabakat Zaptı", Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu ile Anand'ın imzaladığı "Hava Ulaştırma Antlaşması" ve Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Kanada Enerji Bakanı Tim Hodgson arasındaki "Enerji Alanında İşbirliğine Dair Ortak Bildiri" oldu.
+
+Ortak basın toplantısında konuşan Erdoğan, ilişkilerin stratejik ortaklık düzeyine yükseltilmesine karar verdiklerini ve enerji, ticaret, ulaştırma ile savunma sanayi gibi alanlarda yeni projeler hedeflediklerini söyledi. Erdoğan'a göre Serbest Ticaret Anlaşması müzakerelerine yıl sonundan önce başlanması kararlaştırıldı. Yaklaşık 3 milyar dolar olan ticaret hacminin önce 5 milyar, sonra 10 milyar dolara çıkarılması hedefleniyor. Güncellenen Hava Ulaştırma Anlaşması ile doğrudan uçuşların yaklaşık iki katına çıkacağını belirten Erdoğan, enerji alanında madencilikten LNG'ye, kritik minerallerden nükleer enerjiye uzanan bir iş birliği alanı bulunduğunu ifade etti.
+
+İletişim Başkanlığı'nın yayımladığı ortak açıklamaya göre liderler dört sütundan oluşan üç yıllık bir eylem planı başlattı. Açıklamada ayrıca Kanada'nın, Türkiye'nin 9-20 Kasım 2026'da Antalya'da düzenleyeceği COP31'e ev sahipliği yapmasını memnuniyetle karşıladığı belirtildi. Erdoğan, Gazze, Ukrayna ve Körfez dahil bölgesel gelişmeleri de ele aldıklarını söyledi.
+
+---
+
+## Ticaret Bakanlığı: Taksit düzenlemesi sıfır ve yenilenmiş cep telefonlarını kapsıyor
+
+**Ekonomi · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenisafak.com/ekonomi/cep-telefonu-taksit-ve-tutar-siniri-kac-ticaret-bakanligi-yeni-kapsami-acikladi-4866556)
+
+![](data/images/205de9c13ee2b5e5.jpg)
+
+> Ticaret Bakanlığı, cep telefonu taksit düzenlemesiyle yalnızca sıfır ve yenilenmiş telefonların taksit sürelerinin ve tutar sınırlarının güncellendiğini, diğer ürünlerde mevcut koşulların korunduğunu açıkladı.
+
+Ticaret Bakanlığı, cep telefonu taksit düzenlemesinin sıfır ve yenilenmiş telefonlara yönelik vade ve limit koşullarını kapsadığını duyurdu. Bakanlığın açıklamasına göre, 15 Ekim 2026 tarihli ve 33401 sayılı Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle verilen yetki kapsamında telefonların taksit süreleri ve tutar sınırları güncellendi.
+
+Güncelleme, Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararlarıyla uyumlu olacak şekilde yapıldı. Bakanlık, telefonlar dışındaki ürün gruplarında mevcut taksit sürelerinin, taksit uygulamasındaki tutarların ve geçerli sınırlamaların aynen korunduğunu bildirdi.
+
+---
+
+## MEB, "Söz Varlığı Bilgi Ağı" projesini tanıttı
+
+**Eğitim · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotmeb-soz-varligi-bilgi-agiquot-tanitim-programi-bakan-tekin039in-katilimiyla-gerceklesti/haber/42261/tr)
+
+![](data/images/8ead7cb980a23172.jpg)
+
+> Millî Eğitim Bakanlığı, ders kitapları ve öğretim programlarında kullanılan kelimelerin envanterini oluşturan "MEB Söz Varlığı Bilgi Ağı"nı Bakan Tekin'in katılımıyla tanıttı.
+
+Millî Eğitim Bakanlığı (MEB), Talim ve Terbiye Kurulu Başkanlığı Maarif Salonu'nda "MEB Söz Varlığı Bilgi Ağı Tanıtım Programı" düzenledi. Programa Bakan Yusuf Tekin, Bakan Yardımcısı Ömer Faruk Yelkenci ve ÖSYM Başkanı Bayram Ali Ersoy katıldı.
+
+Tekin, ders kitapları ve öğretim programlarında hangi kelimelerin kullanıldığına ilişkin bir envanter oluşturduklarını, bu envanterin öğretmenler için kullanışlı olacağını söyledi. Projenin ÖSYM, Yunus Emre Enstitüsü ve Türk Dil Kurumu için de önemli bir veri kaynağı olacağını belirten Tekin, çalışmada kelimelerden türetilen yeni kelimelerin ve gündelik ihtiyaçlara göre üretilmesi gereken kelimelerin de ele alındığını aktardı.
+
+Bakan Tekin, Türkçe ve Türk dili ve edebiyatı derslerinde geçme notunu yükselttiklerini, bu derslerin ölçme-değerlendirme yöntemini dört beceri üzerine yeniden kurguladıklarını söyledi. Projenin Türk devletleri coğrafyasında ortak kavramsal dilin oluşturulması için bir başlangıç noktası olabileceğini de ifade etti.
+
+---
+
+## Kılıçdaroğlu: Siyasi ahlak yasası çıkarılmalı
+
+**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - CHP](https://www.indyturk.com/node/784194)
+
+![](data/images/f36b10f8c6b16de0.jpg)
+
+> CHP Genel Başkanı Kemal Kılıçdaroğlu, televizyonların Ankara temsilcileriyle yaptığı toplantıda siyasi ahlak veya etik kanunu çağrısı yaptı.
+
+CHP Genel Başkanı Kemal Kılıçdaroğlu, televizyonların Ankara temsilcileriyle bir araya geldi. Kılıçdaroğlu, siyaset kurumunun kirlendiğini söylediği bir ortamda Türkiye'yi temizlemenin yine siyaset kurumuna düştüğünü belirtti.
+
+Kılıçdaroğlu, Cumhurbaşkanı Erdoğan'ın Meclis açılış konuşmasında anayasa değişikliğinden söz ettiğini hatırlatarak, kendisinin önce bir siyasi ahlak yasasının çıkması gerektiğini söylediğini aktardı. Adı ne olursa olsun, temel ilkeleri ve kuralları olan bir siyasi ahlak ya da etik kanununa ihtiyaç olduğunu belirten Kılıçdaroğlu, devlet memurları için kurallar bulunduğunu, 600 milletvekili için de aynı ilkelerin olması gerektiğini ifade etti. Bunun yalnızca CHP'nin talebi olarak görülmemesini isteyen Kılıçdaroğlu, her partiden milletvekillerinin, grup başkanlarının ve grup başkanvekillerinin bir araya gelmesi çağrısında bulundu.
+
+Habertürk'ün aktardığına göre Kılıçdaroğlu, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın istifasına ilişkin soruya, Yavaş'ın bağımsız olarak görevini sürdürdüğünü, istifasına üzüldüğünü ve belediye başkanlarının hizmet ettiklerini ayrım gözetmeden yönetmeleri gerektiğini söyleyerek yanıt verdi.
+
+---
+
+## Cumhurbaşkanı Erdoğan, TDT Genel Sekreteri Ömüraliyev'i kabul etti
+
+**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tdt-genel-sekreteri-omuraliyevi-kabul-etti-960897.html)
+
+![](data/images/647e190594b67cac.jpg)
+
+> Cumhurbaşkanı Erdoğan, Türk Devletleri Teşkilatı Genel Sekreteri Ömüraliyev ile Külliye'de bir araya geldi. Teşkilatın 13. zirvesi 29-30 Ekim'de Ankara'da yapılacak.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı (TDT) Genel Sekreteri Ömüraliyev'i Cumhurbaşkanlığı Külliyesi'nde kabul etti.
+
+TRT Haber'in aktardığına göre TDT, kuruluşundan bu yana devlet başkanları düzeyinde 12 zirve düzenledi ve 13'üncü zirvesini 29-30 Ekim'de Ankara'da yapacak. Zirvenin teması "Türk Yüzyılı: Dilde, Fikirde, İşte Birlik" olarak belirlendi. Cumhuriyet'in kuruluşunun 103. yıl dönümüne denk gelen buluşmayla birlikte Türkiye, teşkilatın dönem başkanlığını üstlenecek.
+
+---
+
+## Bakan Tekin, Macaristan Millî Günü resepsiyonuna katıldı
+
+**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-macaristan-milli-gunu-resepsiyonuna-katildi/haber/42265/tr)
+
+![](data/images/ee0c5e536c3a1a1b.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin, Macaristan'ın Ankara Büyükelçiliğindeki Millî Gün resepsiyonunda konuştu.
+
+Macaristan'ın Ankara Büyükelçiliğinde Maslahatgüzar Gabor Baar'ın ev sahipliğinde Macaristan Millî Günü resepsiyonu düzenlendi. Resepsiyona Millî Eğitim Bakanı Yusuf Tekin, diplomatik misyon mensupları ve davetliler katıldı.
+
+Konuşmasında Macaristan'ın 23 Ekim Millî Günü'nü kutlayan Tekin, 1956'daki mücadelenin 70. yıl dönümünde hayatını kaybedenleri andı. İki ülkenin 2023'ten bu yana geliştirilmiş stratejik ortaklık düzeyinde ilişkiler yürüttüğünü hatırlatan Tekin, 2025'te yaklaşık 5,16 milyar dolara ulaşan ikili ticaret hacmini 10 milyar dolara çıkarmayı hedeflediklerini söyledi.
+
+Eğitim alanındaki iş birliğine de değinen Tekin, Macaristan'ın Türk öğrencilere sunduğu Stipendium Hungaricum burs programı kapsamında her yıl yaklaşık 200 öğrenciye karşılıklı burs verildiğini belirtti. Programın 2026-2028 dönemine ilişkin mutabakat zaptının 8 Aralık 2025'te imzalandığını ifade etti.
+
+---
+
+## Bakan Göktaş, Semerkant'taki çocuk refahı zirvesinde konuştu
+
+**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-goktas-ozbekistanda-cocuklarin-refahina-yatirim-yapmak-konulu-zirvede-konustu/)
+
+![](data/images/c048f5391aadeb25.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Özbekistan'ın Semerkant kentindeki zirvede çocuk odaklı sosyal koruma sistemlerinin önemine değindi.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Özbekistan'ın Semerkant kentinde düzenlenen "Çocukların Refahına Yatırım Yapmak: Gelecek Nesillerin Sürdürülebilir ve Adil Kalkınmasına Giden Yol Dünya Zirvesi"nde konuştu.
+
+Göktaş, her çocuğun haklarını koruyan, ihtiyaçlarını gözeten ve potansiyelini geliştiren güçlü bir sosyal koruma sistemi kurulmasının öncelik olması gerektiğini söyledi. Sosyal yardım, eğitim, sağlık ve sosyal hizmetlerin bütüncül bir anlayışla ele alınması gerektiğini belirtti.
+
+Türkiye'deki uygulamaları anlatan Göktaş, Şartlı Eğitim Yardımı Programı ile çocukların okula düzenli devamının, Şartlı Sağlık Yardımları ile de düzenli sağlık kontrollerinin desteklendiğini ifade etti. Eylül ayı itibarıyla Sosyal ve Ekonomik Destek hizmeti kapsamında yaklaşık 200 bin çocuğa destek sağlandığını açıkladı. Koruyucu aile modeliyle çocukların aile ortamında büyümelerinin amaçlandığını da kaydetti.
+
+Zirvede kabul edilmesi beklenen Semerkant Deklarasyonu'nun çocuk odaklı sosyal koruma alanındaki ortak öncelikleri somut taahhütlere dönüştürmesini temenni eden Göktaş, Türkiye'nin bilgi birikimini ve uygulama tecrübesini paylaşmaya hazır olduğunu söyledi.
+
+---
+
+## Bakan Bayraktar Ankara Üniversitesi'nde enerji hedeflerini anlattı
+
+**Ekonomi · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31950)
+
+![](data/images/7df59c6a27460ec9.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Ankara Üniversitesi'nin akademik yıl açılışında 2040'a kadar enerjinin yaklaşık yüzde 70'inin yenilenebilirden sağlanacağını söyledi.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Ankara Üniversitesi 2026-2027 Akademik Yılı Açılış Töreni'nde öğrencilere Türkiye'nin enerji ve tabii kaynaklar alanındaki hedeflerini anlattı.
+
+Bayraktar, 2040'a gelindiğinde Türkiye'nin enerjisinin yaklaşık yüzde 70'ini yenilenebilir kaynaklardan sağlayacağını söyledi. Enerji verimliliğinin en ucuz enerji kaynağı olduğunu belirten Bakan, Osman Gazi Yüzer Üretim Platformu'nun geçen cumartesi görev yerine uğurlandığını, doğal gaz üretiminin 2027'den itibaren iki katına çıkacağını ve 2028'de dört katına çıkarılacağını açıkladı. Bugün 4 milyon evde yerli doğal gaz kullanıldığını ifade etti.
+
+Gabar'da günde yaklaşık 85 bin varil petrol üretildiğini, yeni keşiflerle bu rakamın 2027'de 100 binin üzerine çıkmasını beklediklerini anlatan Bayraktar, Akkuyu Nükleer Santrali'nin birinci reaktöründe son testlerin yapıldığını, önümüzdeki birkaç ay içinde ilk elektriğin üretilmesini planladıklarını söyledi. Türkiye'nin yılda en az 100 ton altın üretmesi gerektiğini de vurguladı.
+
+---
+
+## Aile ve Gençlik Fonu'ndan ekimde 15 bin 468 gence ödeme yapıldı
+
+**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-genclik-fonu-kapsaminda-yeni-yuva-kuran-15-bin-468-genc-icin-ekim-ayinda-1-milyar-756-milyon-600-bin-lira-odeme-yapildi/)
+
+![](data/images/a5dabe77c9f30afc.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Göktaş, ekim ayında 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını duyurdu.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Aile ve Gençlik Fonu kapsamında ekim ayında 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını açıkladı.
+
+Göktaş'ın yazılı açıklamasına göre fona yapılan başvurular 315 bin 696'ya ulaştı. Evlilik yolundaki 238 bin 448 gence şimdiye kadar toplam 22 milyar 804 milyon 100 bin liralık sıfır faizli kredi desteği sağlandı. Başvurular ailegenclikfonu.aile.gov.tr adresinden veya e-Devlet üzerinden yapılabiliyor.
+
+Göktaş, çiftlerin ikisinin de 18-25 yaş arasında olması halinde 250 bin lira, 26-29 yaş arasında olması halinde 200 bin lira destek verildiğini, kredinin 48 ay vadeli ve 2 yıl geri ödemesiz olduğunu belirtti. Gelir şartının asgari ücretin 2,3 katından 2,5 katına çıkarıldığını da hatırlattı. Ayrıca ilk çocukta 12 aylık geri ödemenin hibe edildiğini, ikinci çocukta ise kalan borcun tamamının hibe edildiğini söyledi.
+
+---
+
 ## Savunma Sanayii Başkan Yardımcısı Gökhan Uçar Eskişehir Teknik Üniversitesi'ni ziyaret etti
 
 **Eğitim · Tepebaşı** · 2026-10-22 15:33 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/savunma-sanayii-baskan-yardimcisi-gokhan-ucardan-eskisehir-teknik-universitesine-ziyaret)
@@ -347,163 +491,5 @@ Açılışa Rektör Danışmanı ve İletişim Bilimleri Fakültesi Dekanı Prof
 Prof. Kılınç, Anadolu Üniversitesi'nin sanata ve kültüre önem verdiğini belirterek Türkiye'nin tek Piyano Günleri'ni gerçekleştirdiklerini söyledi. Prof. Akdeniz ise etkinliğin genç sanatçıları ulusal ve uluslararası sanat ortamlarıyla buluşturduğunu ifade etti.
 
 Gülsin Onay, bugüne kadar 83 ülkede konser verdiğini, Piyano Günleri'ne dördüncü kez katıldığını ve Eskişehir'in kendisi için özel bir yeri olduğunu söyledi. Genç sanatçılara en önemli tavsiyesinin severek ve disiplinle çalışmak olduğunu belirtti.
-
----
-
-## Piyano Günleri'nde Prof. Hülya Tarcan masterclass verdi
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/mahk3wtytmsfmkwwsbg0ozzt)
-
-![](data/images/bb8827254807c54a.jpg)
-
-> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri, Prof. Hülya Tarcan'ın öğrencilerle yaptığı masterclass çalışmasıyla sürdü.
-
-Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri, ikinci gününde masterclass çalışmasıyla devam etti. Mimar Sinan Güzel Sanatlar Üniversitesi Devlet Konservatuvarı'nda uzun yıllar görev yapan Prof. Hülya Tarcan, Anadolu Üniversitesi öğrencileriyle bir araya geldi.
-
-Çalışma, Halk Bilimi Uygulama ve Araştırma Merkezi Faris Akarsu Konser Salonu'nda yapıldı. Merkez Müdürü Prof. Oytun Eren, Doç. Özge Güncan ve çok sayıda öğrenci katıldı.
-
-Farklı sınıf ve seviyelerden piyano öğrencileri klasik müzik repertuvarından eserler seslendirdi. Prof. Tarcan, performansları teknik icra ve müzikal yorum açısından değerlendirdi ve öğrencilere önerilerde bulundu.
-
-Piyano Günleri, 24 Ekim'e kadar konser ve etkinliklerle sürecek.
-
----
-
-## Anadolu Üniversitesi'nde psikanaliz ve eğitim ilişkisi konferansı yapıldı
-
-**Eğitim · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fmlmpd2nzwmd8kyjpy18epdu)
-
-![](data/images/ca6a6e037da095f8.jpg)
-
-> Anadolu Üniversitesi Eğitim Fakültesi'nde Akdeniz Üniversitesi'nden Doç. Dr. Yunus Pınar'ın katılımıyla psikanaliz ve eğitim konulu konferans düzenlendi.
-
-Anadolu Üniversitesi Eğitim Fakültesi'nde "Türkiye'de Psikanaliz ve Psikanaliz Eğitimi ile İlişkisi" başlıklı konferans düzenlendi. Prof. Dr. Şefik Yaşar Konferans Salonu'ndaki etkinliğe çok sayıda öğrenci ve akademisyen katıldı. Konuşmacı, Akdeniz Üniversitesi Eğitim Fakültesi'nden Doç. Dr. Yunus Pınar'dı.
-
-Pınar, psikanalitik kişilik kuramlarının erken çocukluk eğitimi üzerindeki etkilerini anlattı. Çocukların çizimlerinin iç dünyalarını yansıttığını belirten Pınar, çizimlerin yalnızca biçimsel ve teknik ölçütlerle değerlendirilmemesi, yetişkin estetik ölçütlerinin çocukların ifade alanını sınırlamaması gerektiğini söyledi. Eğitimin amacının tek tip kalıplar dayatmak olmaması gerektiğini ifade etti.
-
-Konferansta Selçuklu ve Osmanlı dönemlerindeki darüşşifalardan modern kliniklere uzanan psikiyatri tarihi de ele alındı. Cumhuriyet döneminde Dr. Mazhar Osman öncülüğünde kurulan Bakırköy Ruh ve Sinir Hastalıkları Hastanesi'nin ergoterapi temelli yapısına değinildi. Pınar, araştırmacıların olayları dogmatik değil sorgulayıcı bir bakış açısıyla ele almaları gerektiğini de vurguladı.
-
-Konferans, soru-cevap bölümünün ardından Pınar'a teşekkür belgesi takdim edilmesiyle sona erdi.
-
----
-
-## Anadolu Üniversitesi Cam Bölümü Amsterdam'da ortak atölye ve sergi yaptı
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/khf4wnk189igunwttq03lv1r)
-
-![](data/images/638b595a906bd67e.jpg)
-
-> Anadolu Üniversitesi Güzel Sanatlar Fakültesi Cam Bölümü, Gerrit Rietveld Academie ile 5-9 Ekim'de Amsterdam'da ortak atölye çalışması yürüttü.
-
-Anadolu Üniversitesi Güzel Sanatlar Fakültesi Cam Bölümü, Hollanda'daki Gerrit Rietveld Academie ile yürüttüğü uluslararası iş birliğini Amsterdam'da sürdürdü. 5-9 Ekim 2026 tarihlerindeki programa Cam Bölümü'nden 10 öğrenci, Bölüm Başkanı Doç. Dr. Mehmet Aydın ve Prof. Dr. Selvin Yeşilay katıldı.
-
-Program kapsamında iki kurumun öğrencileri ve akademisyenleri ortak üretimler, uygulamalı atölyeler, akademik sunumlar ve teknik inceleme gezileri gerçekleştirdi. Çalışma grupları Gerrit Rietveld Academie'nin cam atölyelerinde sıcak cam üfleme ve açık alevde şekillendirme teknikleriyle üretim yaptı. İki öğrenci de Tiffany ve füzyon teknikleri üzerine bireysel çalışmalar yaptı.
-
-Prof. Dr. Yeşilay, "The Science of Glass: From Structure to Properties" başlıklı ders verdi. Derste camın yapısı, optik ve fiziksel özellikleri ile sıcaklığa bağlı davranışları ele alındı. Katılımcılar ayrıca Hollanda'nın Leerdam kentindeki Nationaal Glasmuseum ile De Glasblazerij cam üfleme atölyesini ve cam sanatçısı Bernard Heesen'in atölyesini ziyaret etti.
-
-Bir hafta süren program, ortak ve bireysel eserlerin yer aldığı bir sergiyle Gerrit Rietveld Academie'de tamamlandı.
-
----
-
-## Anadolu Üniversitesi'nde öğretmen adaylarına Canva yapay zekâ atölyesi düzenlendi
-
-**Eğitim · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/oilbds5qwso79n0kw3spi2hv)
-
-![](data/images/ca51809edc7c3c07.jpg)
-
-> Anadolu Üniversitesi Eğitim Fakültesi, "Geleceğin Öğretmenleri İçin Canva Yapay Zekâ Atölyesi" düzenledi.
-
-Anadolu Üniversitesi Eğitim Fakültesi, "Geleceğin Öğretmenleri İçin Canva Yapay Zekâ Atölyesi" düzenledi. Atölye Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu'nda yapıldı. Eğitimi Canva Türkiye Öğretmen Elçisi Pınar Sayar verdi.
-
-Açılış konuşmasını yapan Temel Eğitim Bölüm Başkanı Prof. Dr. Ali Ersoy, dijital araçların eğitim süreçlerindeki yerini anlattı. Ersoy, yapay zekâ bazı görevleri üstlenebilse de okuma ve öğrenme alışkanlıklarının geliştirilmesinin önemli olduğunu vurguladı.
-
-Uygulamalı bölümde Canva'nın yapay zekâ destekli özellikleriyle farklı yaş ve sınıf düzeylerine uygun materyallerin hazırlanışı gösterildi. Birinci sınıf Türkçe dersi için etkinlik oluşturma ve kelebeklerin yaşam döngüsünü anlatan görseller hazırlama örnekleri yapıldı. Sayar, yapay zekâya verilen komutlarda hedef yaş veya sınıf düzeyi, öğrenme kazanımı ve görsel türü gibi ayrıntıların belirtilmesinin önemli olduğunu söyledi.
-
-Atölyede arka plan kaldırma, istenmeyen nesneleri silme ve içeriklerden soru veya test oluşturma gibi özellikler de tanıtıldı.
-
----
-
-## Anadolu Üniversitesi'nde Ercüment Orkut solo caz konseri verdi
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/epyes5w6yz7airc9ld20q9t9)
-
-![](data/images/e6bf40142dc63320.jpg)
-
-> 6. Uluslararası Piyano Günleri kapsamında caz piyanisti Ercüment Orkut, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda sahne aldı.
-
-Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında caz piyanisti, besteci ve aranjör Ercüment Orkut solo caz konseri verdi. Konser, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı ve çok sayıda müzikseverin katılımıyla gerçekleşti.
-
-Piyano Günleri, Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı tarafından düzenleniyor. Etkinliğin koordinasyonunu Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren yürütüyor.
-
-Orkut konserde kendi bestelerinin yanı sıra caz repertuvarının bilinen eserlerini seslendirdi. "Diş Perisi" adlı bestesini ve babasına ve bisikletine ithafen bestelediği parçaları da dinleyicilerle paylaştı. Konserin sonunda Prof. Eren, Orkut'a çiçek takdim etti.
-
----
-
-## 6. Uluslararası Piyano Günleri Raffaele D'Angelo resitaliyle sürdü
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/lwsb17gpbtcgru13dkyhf0mb)
-
-![](data/images/8fdbd479b4ff38fb.jpg)
-
-> Anadolu Üniversitesi'nin düzenlediği Piyano Günleri, ikinci gününde piyanist Raffaele D'Angelo'nun resitaliyle devam etti. Etkinlik 24 Ekim'e kadar sürecek.
-
-Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri ikinci gününde de müzikseverlerle buluştu. Uluslararası alanda performanslarıyla tanınan piyanist Raffaele D'Angelo resital verdi.
-
-Resital, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı. Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren ve çok sayıda öğrenci dinleyici arasındaydı.
-
-D'Angelo, Domenico Scarlatti, Franz Schubert, Frédéric Chopin, Robert Schumann ve Enrique Granados'un eserlerini seslendirdi. Resitalin sonunda Prof. Eren, D'Angelo'ya çiçek ve teşekkür belgesi takdim etti.
-
-Piyano Günleri, 24 Ekim'e kadar sürecek konserler ve etkinliklerle devam edecek.
-
----
-
-## Anadolu Üniversitesi'nde Ceza ve Ceza Muhakemesi Hukuku Ulusal Kongresi başladı
-
-**Eğitim · Tepebaşı** · 2026-10-21 22:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/e2b862dpjx7ibtt52r9w1azj)
-
-![](data/images/f2142291b9058a02.jpg)
-
-> Anadolu Üniversitesi Hukuk Fakültesi'nin düzenlediği kongre, 21-23 Ekim tarihlerinde sürecek.
-
-Anadolu Üniversitesi Hukuk Fakültesi'nin düzenlediği "Ulusal Kongre Serisi III: Ceza ve Ceza Muhakemesi Hukuku Ulusal Kongresi" Sinema Anadolu'da başladı. Kongre, fakültede uzun yıllar görev yapan merhum Prof. Dr. Özcan Uçkan anısına düzenleniyor ve 21-23 Ekim 2026 tarihlerinde sürecek.
-
-Açılışa Eskişehir Cumhuriyet Başsavcısı Ferhat Deniz, Adli Yargı Adalet Komisyonu Başkanı Arif Hamdi Sazak, Hukuk Fakültesi Dekanı Prof. Dr. Mesut Aygün, Dekan Yardımcısı Dr. Öğr. Üyesi Ayla Kaya Çalışkan ile akademisyenler, hukuk uygulayıcıları ve öğrenciler katıldı.
-
-Dekan Aygün, kongre serisini akademisyenler ve uygulayıcıları bir araya getiren kalıcı bir akademik platform haline getirmek istediklerini söyledi. Aygün, dijitalleşme ve yapay zekâdaki gelişmelerin mevcut hukuki kavramların ve sorumluluk anlayışının yeniden düşünülmesini gerekli kıldığını belirtti. Kongre Düzenleme Kurulu üyesi Prof. Dr. Hakan Karakehya ise ceza hukukunun birçok konusunda bildiri sunulacağını ifade etti.
-
-Kongrenin ilk oturumunda "Türk Ceza Hukuku Reformu'nun 21 Yılının Genel Değerlendirmesi" konusu ele alındı. Oturumda Prof. Dr. Adem Sözüer, Prof. Dr. Cumhur Şahin, Prof. Dr. İlhan Üzülmez, Prof. Dr. İzzet Özgenç, Prof. Dr. Mahmut Koca, Prof. Dr. Veli Özer Özbek ve Hâkim Gürsel Yalvaç yer aldı.
-
----
-
-## Anadolu Üniversitesi e-Sertifika Programları için başvurular 30 Ekim'e kadar
-
-**Eğitim · Tepebaşı** · 2026-10-21 22:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/wg57lo42gu693mc3w9wrng6n)
-
-![](data/images/fe6895a20fe75d3e.jpg)
-
-> Anadolu Üniversitesi'nin 2026 Güz Dönemi'nde sunduğu 108 e-Sertifika Programı için başvurular başladı.
-
-Anadolu Üniversitesi Sürekli Eğitim Merkezi (ANADOLUSEM) tarafından yürütülen e-Sertifika Programları'nın 2026 Güz Dönemi başvuruları başladı. 108 programa başvurular 30 Ekim 2026'ya kadar yapılabilecek.
-
-Programlar herkesin başvurusuna açık. Sağlıktan iletişime, işletmeden turizme, siyasetten çocuk gelişimine, yabancı dillerden bilişim teknolojilerine kadar geniş bir yelpazede sunuluyor. Programlarda bir ila üç arasında ders bulunuyor ve ders kitapları katılımcılara dijital ortamda veriliyor.
-
-Katılımcılar eğitimlerini Anadolum eKampüs Sistemi üzerinden sunulan dijital ders materyalleriyle sürdürüyor. Derslere 9 Kasım 2026'da başlanacak.
-
-Programlara ilişkin ayrıntılı bilgi esertifika.anadolu.edu.tr adresinde yer alıyor. Başvurular sinavbasvuru.anadolu.edu.tr adresinden yapılabiliyor.
-
----
-
-## Tepebaşı'nda iki okulda öğrencilere atıksız yaşam eğitimi verildi
-
-**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaogrencilericinatıksızyasamegitimi)
-
-![](data/images/5e6e0c39ca458161.jpg)
-
-> Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, Ticaret Borsası İlkokulu ve Arif Nihat Asya Ortaokulu'nda çevre okuryazarlığı eğitimi verdi.
-
-Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, Ticaret Borsası İlkokulu ve Arif Nihat Asya Ortaokulu'nda öğrencilerle bir araya geldi. Eğitimlerde çevre okuryazarlığı, geri dönüşüm ve atıksız yaşam konuları ele alındı.
-
-Belediye, çevre bilincinin küçük yaşlarda kazanılmasına katkı sunmak için okullarda eğitim ve bilgilendirme çalışmalarını sürdürüyor. Çalışmalarla öğrencilerin çevreye duyarlı alışkanlıklar edinmesi ve atıkların azaltılması konusunda farkındalık kazanması hedefleniyor.
-
-Benzer eğitimler için başvuru yapmak ve bilgi almak isteyenler Tepebaşı Belediyesi'nin 0222 211 40 00 numaralı telefonundan 3324 veya 3085 dahili numaralarına ulaşabiliyor.
 
 ---
