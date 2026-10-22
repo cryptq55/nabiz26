@@ -2,6 +2,88 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'dan ekim ayında sıfır faizli kredi kampanyası
+
+**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.memurlar.net/album/28350/togg-dan-dev-kampanya.html)
+
+![](data/images/057149864b7d6ddb.jpg)
+
+> Togg, T10X ve T10F modelleri için ekim ayına özel sıfır faizli ve uzun vadeli kredi paketleri sundu.
+
+Togg, ekim ayında T10X ve T10F modelleri için finansman kampanyası başlattı. Aktarılan bilgilere göre kampanya sınırlı sayıdaki araç için geçerli ve sipariş ile kredi başvuruları Togg'un resmi web sitesi ile dijital mobil kanalları üzerinden yürütülüyor.
+
+T10F V2 için 1 milyon TL kredi 6 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 166 bin 667 TL oluyor. Aynı modelde 800 bin TL için 8 ay, 600 bin TL için 12 ay vadeli yüzde 0 faizli seçenekler var. T10X V2'de 800 bin TL kredi 6 ay vadeyle yüzde 0 faizli verilirken aylık taksit 133 bin 333 TL oluyor.
+
+T10X 4More ve T10F 4More modellerinde 1,5 milyon TL kredi 10 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 150 bin TL. Aynı tutar 36 ay vadede yüzde 2,99 faizle 78 bin 93 TL aylık ödemeyle kullanılabiliyor. T10X V2 ve T10F V2 için 1 milyon 700 bin TL'lik 48 ay vadeli kredi ise yüzde 2,95 faizle aylık 78 bin 8 TL taksit içeriyor.
+
+---
+
+## Togg T10X ve T10F için yeni OTA yazılım güncellemesi yayında
+
+**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.haber7.com/otomobil/haber/3666930-togglara-isinize-yarayacak-ozellik-geliyor-alacaklari-memnun-edecek)
+
+![](data/images/328663d6dc4a7552.jpg)
+
+> Togg, T10X ve T10F modellerine multimedya ekranı, şarj ve ses ayarlarında iyileştirmeler getiren yeni kablosuz yazılım güncellemesini sundu.
+
+Togg, T10X ve T10F modelleri için yeni kablosuz yazılım (OTA) güncellemesini kullanıcıların erişimine açtı. Güncelleme; şarj deneyimi, multimedya sistemi, ses ayarları ve enerji yönetimi alanlarında iyileştirmeler içeriyor.
+
+Bilgi-eğlence ekranının tepki hızı artırıldı, menüler arası geçişler daha akıcı hale getirildi. 360 derece çevre görüş kamerası daha kısa sürede devreye giriyor. Standart ses sistemine manuel ekolayzer ayarı eklendi ve Bluetooth bağlantısının kararlılığına yönelik düzenlemeler yapıldı.
+
+T10X kullanıcıları uyumlu şarj istasyonlarında otomatik şarj özelliğinden yararlanabilecek. AC şarj sırasında araç kablo bağlıyken kapı kilitlerinin açılması şarjı kesmeyecek.
+
+---
+
+## Togg, COP31'in mobilite sektör ortağı oldu
+
+**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-cop31-turkiyenin-mobilite-sektor-ortagi-oldu-3921749)
+
+![](data/images/1b9fff4a74dce736.jpg)
+
+> Togg, Türkiye'nin ev sahipliğinde yapılacak COP31'de "Mobilite Sektör Ortağı" olarak yer alacak ve Start-up Zone'un ana sahne sponsorluğunu üstlenecek.
+
+Togg, Türkiye'nin ev sahipliğinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31'in "Mobilite Sektör Ortağı" oldu. Kamu, özel sektör, uluslararası kuruluşlar, akademi ve sivil toplum temsilcilerini bir araya getirecek zirvede Togg, elektrikli mobiliteye geçişin iklim hedeflerine katkısını enerji ve dijital hizmetleriyle birlikte anlatacak. Şirket ayrıca Start-up Zone'un ana sahne sponsoru olacak.
+
+Togg Yönetim Kurulu Başkanı Fuat Tosyalı, COP31'in Türkiye'nin üretim yetkinliklerini, teknoloji geliştirme kapasitesini ve yeşil dönüşüm hedeflerini uluslararası ölçekte ortaya koyması açısından önemli bir fırsat olduğunu söyledi.
+
+Togg CEO'su M. Gürcan Karakaş, yollardaki 130 bine yaklaşan akıllı cihazla 600 bin tona varan CO₂ emisyonunun önüne geçildiğini belirtti. Karakaş, Gemlik Teknoloji Kampüsü'nde kendi bataryalarını ürettiklerini, ultra hızlı şarj ağı Trugo ile 81 ilde yenilenebilir enerji kaynaklarından sağlanan enerji sunduklarını ifade etti.
+
+---
+
+## Piyano Günleri'nde Barış Büyükyıldırım "Akışın Hafızası" resitali verdi
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 14:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/pxplibx0jufhoq0n37bnmr4j)
+
+![](data/images/e45fad4d873bbaa0.jpg)
+
+> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında piyanist Barış Büyükyıldırım Händel, Riley ve Liszt'in eserlerinden oluşan resital sundu.
+
+Anadolu Üniversitesi Devlet Konservatuvarı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında piyanist Barış Büyükyıldırım "Akışın Hafızası" başlıklı resitalini verdi. Resital Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı ve Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren ile çok sayıda sanatsever tarafından izlendi.
+
+Programda Georg Friedrich Händel'in Sol Majör Chaconne ve 21 Varyasyon'u, Terry Riley'nin Keyboard Study No. 1'i ve Franz Liszt'in Bach'ın bir kantatı ile Si Minör Missa'daki "Crucifixus" motifi üzerine yazdığı varyasyonlar yer aldı.
+
+Büyükyıldırım, 19. yüzyılın ortalarına kadar bestecilerin aynı zamanda doğaçlamacı olduğunu, sonradan yorumculuk, bestecilik ve doğaçlamanın birbirinden ayrılmaya başladığını anlattı. Kendi bestelerinden "Triquetra" ve "Wasserreise"yi de seslendirdi. Resitalin sonunda Prof. Eren, sanatçıya teşekkür belgesi ve çiçek verdi.
+
+---
+
+## Anadolu Üniversitesi'nde Bağımlılık Farkındalık Haftası ikinci gününde sürdü
+
+**Eğitim · Tepebaşı** · 2026-10-22 14:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/acoeslhv9rdll385k587o6y1)
+
+![](data/images/37bca43900f5a848.jpg)
+
+> 3. Bağımlılık Farkındalık Haftası'nın ikinci gününde Anadolu Park'ta atölyeler, spor salonunda turnuvalar, Turizm Fakültesi'nde atölye ve "Narko Gençlik" semineri yapıldı.
+
+Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün düzenlediği "3. Bağımlılık Farkındalık Haftası" etkinlikleri ikinci gününde de sürdü. Birim Müdürü Doç. Dr. Ayşe Çevik, her yıl ekim ayının üçüncü haftasında bu etkinlikleri düzenlediklerini, öğrencilere olabildiğince fazla etkinlik sunmaya çalıştıklarını söyledi.
+
+Çevik'e göre Anadolu Park'ta atölye çalışmaları ve etkinlikler devam ediyor, öğrencilere çeşitli ikramlar sunuluyor. Yunus Emre Spor Salonu'nda 3x3 basketbol turnuvası yapılırken, önceki gün düzenlenen floor curling, dart, satranç ve masa tenisi turnuvalarında kazanan öğrencilere madalyaları verildi. Çevik, birkaç günlük de olsa bağımlılığa dikkat çekmek, bağımsızlıkla ilgili alternatifler sunmak istediklerini belirtti.
+
+Turizm Fakültesi uygulama mutfağında Doç. Dr. Merve Özgür Göde ve Araş. Gör. Halide Gernaz'ın yürüttüğü "Latte'nin Moleküler Yolculuğu" atölyesi düzenlendi. Atölye sonunda eğitmenlere Doç. Dr. Çevik tarafından katılım sertifikası verildi.
+
+İletişim Bilimleri Fakültesi Şener Şen Kültür Salonu'nda ise Polis Memuru Mehmet Ali Avcı "Narko Gençlik" semineri verdi. Avcı, madde bağımlılığının çoğu zaman merak duygusu ve arkadaş çevresiyle başladığını, tedavinin zor ve uzun bir süreç olduğunu anlattı.
+
+---
+
 ## Eskişehir'de festival ve konser iptalleri art arda geldi
 
 **Kültür-Sanat · Merkez** · 2026-10-22 14:32 UTC · Kaynak: [Eskişehir.net ve yerel basın](https://www.eskisehir.net/eskisehirde-bir-festival-daha-iptal-edildi)
@@ -423,97 +505,5 @@ Tepebaşı Belediyesi Afet İşleri ve Risk Yönetimi Müdürlüğü bünyesinde
 AFAD standartları doğrultusunda yürütülen eğitim ve sınav sürecini geçen ekip, afet sonrası barınma hizmetlerini koordinasyon içinde yürütebilecek yetkinliğini belgelemiş oldu.
 
 Tepebaşı Belediyesi yetkilileri, akreditasyonun düzenli eğitimlerin ve disiplinli çalışmanın sonucu olduğunu belirtti. Yetkililer, afetlere dirençli kent hedefi doğrultusunda eğitim ve hazırlık çalışmalarının süreceğini bildirdi.
-
----
-
-## Anadolu Üniversitesi'nde 3. Bağımlılık Farkındalık Haftası başladı
-
-**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/k19tehab3rdqntlgkx3bhhxo)
-
-![](data/images/9417351cbcc868fc.jpg)
-
-> Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün düzenlediği hafta, festival yürüyüşü, atölyeler ve simülasyonlarla başladı.
-
-Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün organize ettiği "3. Bağımlılık Farkındalık Haftası" etkinlikleri kampüste başladı. Program, Eczacılık Kapısı'ndan Anadolu Park'a uzanan "Festival Yürüyüşü" ile açıldı. Yürüyüşün ardından katılımcılara çorba, nohutlu pilav, köfte ekmek ve aşure ikram edildi.
-
-Açık alanda ahşap boyama, punch, mandala, miyuki takı tasarımı ve ebru gibi atölyeler kuruldu. Yeşilay Gençlik Komisyonu bez çanta boyama ve vision board atölyeleri düzenledi. Emniyet kemeri ve takla atma simülatörlerinin yanı sıra sanal gerçeklik gözlükleriyle "alkollü araç kullanım farkındalığı simülasyonu" yapıldı.
-
-Yunus Emre Spor Salonu'nda satranç, masa tenisi, dart ve floor curling müsabakaları, Anadolu Park'ta matrak, mini golf ve bilek güreşi etkinlikleri düzenlendi. "Bowl Challenge: Sağlıklı Seçimini Tasarla!" yarışmasında öğrenciler sağlıklı ve dengeli tabaklar hazırladı.
-
-İletişim Bilimleri Fakültesi Şener Şen Salonu'ndaki "Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler" seminerinde Doç. Dr. Tuğba Görgülü, bağımlılığın yalnızca irade zayıflığı olarak değerlendirilmemesi gerektiğini söyledi. Görgülü, biyolojik, psikolojik ve sosyal faktörlerin etkili olduğunu, kontrolün kaybedildiğinin erken fark edilmesinin önemli olduğunu belirtti. Etkinlikler ertesi gün de sürecek.
-
----
-
-## Anadolu Üniversitesi Yapay Zekâ Akademisi'nde yeni dönem başvuruları başladı
-
-**Eğitim · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/zsgpp6gpntf660o0lmhuc3sr)
-
-![](data/images/03a92c131ee6cdc9.jpg)
-
-> Anadolu Üniversitesi Yapay Zekâ Akademisi'nin yapay zekâ ajanlarına odaklanan yeni dönem programı için başvurular 25 Ekim'e kadar alınacak.
-
-Anadolu Üniversitesi Yapay Zekâ Akademisi, 2026-2027 Güz döneminde "Yapay Zekâ Ajanlarıyla Geleceği İnşa Et" programını açıyor. Program, araştırma yapan, analiz gerçekleştiren ve verilen görevleri tamamlayan yapay zekâ ajanlarına odaklanıyor.
-
-Eğitimler iki grupta yürütülecek. Öğretim elemanlarına yönelik A Grubu'nda katılımcılar yapay zekâ ajanlarını literatür taraması, veri analizi, akademik yazım, proje hazırlama ve ders tasarımı gibi alanlarda kullanmayı öğrenecek. Ön lisans, lisans ve lisansüstü öğrencilere yönelik B Grubu'nda ise katılımcılar ekipler halinde ajan tabanlı ürünler tasarlayıp geliştirecek.
-
-Beş hafta sürecek çevrim içi eğitimler 16 Kasım 2026'da başlayacak. Dersler A Grubu için pazartesi ve çarşamba, B Grubu için salı ve perşembe günleri 17.00-20.00 saatleri arasında yapılacak. Ön elemeyi geçen katılımcılar 21-24 Aralık'ta iki günlük yüz yüze atölyeye katılacak. Seçilecek 10 proje 21 Ocak 2027'deki Demo Day'de sunulacak.
-
-Başvurular 25 Ekim Pazar gününe kadar yzakademi.anadolu.edu.tr adresinden yapılabilecek. Sonuçlar 13 Kasım 2026'da e-posta ile duyurulacak. Akademinin ilk dönemine katılanlar da başvurabilecek.
-
----
-
-## 4. Kızılinler Bal Kabağı Panayırı 25 Ekim'de yapılacak
-
-**Tarım · Tepebaşı** · 2026-10-21 21:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/balkabagındaturkiye’ninilkcalıstayıtepebası’nda)
-
-![](data/images/386e157f693a30aa.jpg)
-
-> Tepebaşı Belediyesi, coğrafi işaretli Kızılinler bal kabağını tanıtmak için 25 Ekim'de panayır, 26 Ekim'de çalıştay düzenleyecek.
-
-Tepebaşı Belediyesi, coğrafi işaretli Kızılinler bal kabağını tanıtmak ve üretimin geleceğini ele almak amacıyla iki günlük bir program düzenleyecek. Program, 25 Ekim Pazar günü yapılacak 4. Kızılinler Bal Kabağı Panayırı ile başlayacak.
-
-Panayır 25 Ekim'de saat 12.00-16.00 arasında Kızılinler Davet Salonu'nda yapılacak. Programda halk oyunları gösterisi ve Eko-Şov konseri yer alacak. "Çizgilerle Bal Kabağı" sergisi ile EFSAD fotoğraf sergisi de ziyaretçilerle buluşacak. Ziyaretçiler yöresel ürün ve coğrafi işaretli Kızılinler bal kabağı satış stantlarını gezebilecek, söyleşilere katılabilecek.
-
-Panayır alanına ulaşım için Tepebaşı Belediyesi Hizmet Binası önünden saat 11.45'te ücretsiz araç kalkacak. Ücretsiz ulaşımdan yararlanmak isteyenlerin kayıt formunu doldurması gerekiyor.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Kızılinler bal kabağının Eskişehir'in üretim kültürünün ve yerel değerlerinin önemli bir parçası olduğunu belirtti. Ataç, panayırda hemşehrileri Kızılinler bal kabağı ve üreticilerle buluşturacaklarını söyledi.
-
-Ertesi gün, 26 Ekim Pazartesi saat 13.00-17.00 arasında ESOGÜ Ziraat Fakültesi Ali Numan Kıraç Yerleşkesi'nde Türkiye'de ilk kez ulusal ölçekte Eskişehir Bal Kabağı Çalıştayı yapılacak. Çalıştaya Tarım ve Orman Bakanlığı'na bağlı bazı araştırma enstitüleri de katılacak.
-
----
-
-## Tepebaşı'nın "Gel Beraber Olsun" yemeği yeni adresinde başladı
-
-**Belediye · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/‘gelberaberolsun’yeniyerindeyogunilgigordu)
-
-![](data/images/33bcb30504e875f3.jpg)
-
-> Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik akşam yemeği desteği, 19 Ekim'den itibaren Ali Rıza Efendi Deneyimli Kafe'de veriliyor.
-
-Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik "Gel Beraber Olsun" akşam yemeği desteği 19 Ekim Pazartesi gününden itibaren yeni adresinde verilmeye başlandı. Etkinlik hafta içi her gün 18.00-19.00 saatleri arasında Ali Rıza Efendi Deneyimli Kafe'de düzenleniyor ve ilk gününde öğrencilerden yoğun ilgi gördü.
-
-Belediye, 2022'de başlattığı etkinlikte bugüne kadar 69 bin 113 öğrenciyi aynı sofrada buluşturdu. Öğrenciler, desteğin eğitim ve yaşam giderlerinin arttığı dönemde kendileri için önemli olduğunu belirtti.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, üniversite öğrencilerinin geçim mücadelesi vermek zorunda kaldığını söyledi. Ataç, projeyi gençlerle dayanışmak için hayata geçirdiklerini belirterek tüm öğrencileri yeni adrese davet etti.
-
-Yeni adres Yenibağlar Mahallesi, Kartal Tepesi Sokak No: 14, Şehit Jandarma Er Osman Özgerçik Parkı içinde bulunuyor. Bilgi almak isteyen öğrenciler 0222 211 40 00 / 4200-4205 numaralı telefonu arayabiliyor.
-
----
-
-## Tepebaşı İklim İzcileri Programı'na 66 izci adayı başvurdu
-
-**Eğitim · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nda66izciadayıyenidonemehazırlanıyor)
-
-![](data/images/0c6c9877135077a8.jpg)
-
-> Tepebaşı İklim İzcileri Programı 2026-2027 dönemi için tanıtım toplantısı yapıldı. Toplantıya 66 izci adayı ve aileleri katıldı.
-
-Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü öncülüğünde yürütülen Tepebaşı İklim İzcileri Programı, 2026-2027 dönemi için yeni izcilerini karşılamaya hazırlanıyor. Programa başvuran 66 izci adayı ve aileleri, Tepebaşı Belediyesi Meclis Salonu'ndaki tanıtım toplantısında bir araya geldi.
-
-Program, Türkiye İzcilik Federasyonu bünyesinde ve Eskişehir İklim Spor Kulübü iş birliğiyle sürdürülüyor. Toplantıda izcilik kültürü, doğa sevgisi ve çevre bilincinin çocukların gelişimindeki yeri ele alındı, programın işleyişi ve yeni dönem çalışmaları anlatıldı.
-
-Geçmiş dönemlerdeki eğitim, kamp ve doğa etkinliklerinden fotoğraf ve videolar paylaşıldı. Velilerin soruları da yanıtlandı.
-
-Programın çocukların doğayı tanımasını, çevre bilinci kazanmasını ve takım çalışması ile sorumluluk duygusunu geliştirmesini amaçladığı belirtildi. Şu anda yaklaşık 70 izcinin yer aldığı programın yeni dönem başvurularıyla büyümesi bekleniyor.
 
 ---
