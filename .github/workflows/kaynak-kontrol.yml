@@ -1,0 +1,29 @@
+name: Kaynak kontrolü
+
+# Haber kaynaklarına yurt dışındaki bir sunucudan erişilebiliyor mu? Toplama adımını modeli çağırmadan çalıştırır,
+# kaynak başına bulunan bağlantı sayısını ve kuyruğa girebilen (fotoğraflı) haberleri raporlar. Hiçbir şey yayınlamaz.
+on:
+  workflow_dispatch:
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Kaynaklara erişim
+        run: |
+          python - <<'PY' | tee -a "$GITHUB_STEP_SUMMARY"
+          import yaml, newsbot, urllib.request
+          cfg = yaml.safe_load(open("sources.yaml", encoding="utf-8"))
+          print("| Kaynak | Bağlantı |\n|---|---|")
+          for p in cfg["pages"]:
+              print(f"| {p['name']} | {len(newsbot.scan_page(p))} |")
+          PY
+      - name: Toplama (modelsiz)
+        run: python newsbot.py --collect "$RUNNER_TEMP/kuyruk.json" --max 12 2>&1 | tee -a "$GITHUB_STEP_SUMMARY"
