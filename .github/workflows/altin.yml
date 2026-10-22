@@ -1,0 +1,42 @@
+name: Sabah altın haberi
+
+# Her sabah 09:00'da (TSİ = 06:00 UTC) Harem Altın fiyatlarından altın haberi yazar ve yayınlar.
+# GitHub zamanlanmış işleri birkaç dakika gecikmeli başlatabilir.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write   # haber eklenince "Bildir ve paylaş" iş akışını (Instagram, IndexNow) başlatmak için
+
+concurrency:
+  group: altin
+  cancel-in-progress: false
+
+jobs:
+  altin:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Altın haberini yaz
+        run: python gold.py
+      - name: Kaydet ve yayınla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "nabiz26-bot"
+          git config user.email "nabiz26-bot@users.noreply.github.com"
+          git add data SON_HABERLER.md
+          if git diff --cached --quiet; then echo "Yeni haber yok."; exit 0; fi
+          git commit -m "Sabah altın haberi $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          # Bot gönderimleri iş akışlarını kendiliğinden tetiklemez; paylaşımı elle başlat
+          gh workflow run haber.yml --ref main

@@ -248,3 +248,55 @@ def build_social(articles, data_root, out_dir, limit=40):
         make_post(a, img, out_dir / f"{a['slug']}-post.jpg")
         make_story(a, img, out_dir / f"{a['slug']}-story.jpg")
         a["social"] = {"post": f"social/{a['slug']}-post.jpg", "story": f"social/{a['slug']}-story.jpg"}
+
+
+def topic_card(out, title, label, color="#e11d48", rows=None, note=None):
+    """Fotoğrafı olmayan konu haberleri (Togg, altın) için kendi tasarımımız olan 1200x800 kapak görseli.
+
+    rows verilirse (ör. altın fiyatları) başlık yerine tablo çizilir: [(ad, alış, satış, değişim%), ...]
+    """
+    W, H = 1200, 800
+    c = hex_rgb(color)
+    im = Image.new("RGB", (W, H), NIGHT)
+    d = ImageDraw.Draw(im)
+    # Kategori renginde hafif ışıma ve nabız deseni
+    glow = Image.new("RGB", (W, H), c)
+    mask = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(mask).ellipse((W * .45, -H * .6, W * 1.5, H * .7), fill=120)
+    im.paste(glow, (0, 0), mask.filter(ImageFilter.GaussianBlur(160)))
+    d = ImageDraw.Draw(im)
+    big = font("Bricolage.ttf", 300, 800)
+    lw = d.textlength(label, font=big)
+    layer = Image.new("RGBA", (W, H))
+    ImageDraw.Draw(layer).text((W - lw - 30, -40), label, font=big, fill=(255, 255, 255, 26))
+    im.paste(layer, (0, 0), layer)
+    brand(d, 56, 44, 64, backing=False)
+    pill(d, 60, 150, label.upper(), c, 30)
+    if rows:
+        hf = font("Inter.ttf", 26, 700)
+        nf = font("Inter.ttf", 34, 600)
+        vf = font("Bricolage.ttf", 40, 800)
+        cols = [60, 520, 760, 1000]
+        for x, t in zip(cols, ["", "ALIŞ", "SATIŞ", "DEĞİŞİM"]):
+            d.text((x, 236), t, font=hf, fill=MUTED)
+        y = 282
+        for name, buy, sell, chg in rows:
+            d.line([(60, y - 12), (W - 60, y - 12)], fill=(42, 39, 49), width=2)
+            d.text((cols[0], y), name, font=nf, fill=PAPER)
+            d.text((cols[1], y - 4), buy, font=vf, fill="white")
+            d.text((cols[2], y - 4), sell, font=vf, fill="white")
+            up = chg.startswith("+")
+            d.text((cols[3], y), chg, font=nf, fill=(34, 197, 94) if up else (RED if chg.startswith("-") else MUTED))
+            y += 62
+    else:
+        f, lines, size = fit_headline(d, title, W - 120, 4, [76, 70, 64, 58, 52])
+        lh = int(size * 1.08)
+        y = 250 + (4 - len(lines)) * lh // 2
+        for i, line in enumerate(lines):
+            d.text((60, y + i * lh), line, font=f, fill="white")
+    beat_line(d, H - 92, W)
+    d.text((60, H - 62), "nabiz26.com", font=font("Inter.ttf", 30, 700), fill=PAPER)
+    if note:
+        nf2 = font("Inter.ttf", 24, 500)
+        d.text((W - 60 - d.textlength(note, font=nf2), H - 58), note, font=nf2, fill=MUTED)
+    im.save(out, "JPEG", quality=88, optimize=True, progressive=True)

@@ -15,6 +15,9 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   `ig-token.yml` haftada bir 60 günlük Instagram token'ını yeniler (`GH_SECRETS_TOKEN` gerekir).
 - **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
+- **Sabah altın haberi:** `gold.py`, Harem Altın canlı fiyatlarından (socket.io) haber + fiyat tablosu görseli yazar;
+  `.github/workflows/altin.yml` her gün 06:00 UTC (09:00 TSİ) çalıştırır, sonra "Bildir ve paylaş"ı başlatır.
+- **Togg:** `sources.yaml`'da `topic: togg` + `brand_cover: true` olan Google Haberler kaynağı; Eskişehir şartı yok.
 - **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
   `sitemap.xml`, `news-sitemap.xml`, `robots.txt`, RSS. Search Console'a iki site haritası gönderildi.
   Her haber için 1200 px 16:9/4:3/1:1 görseller (`public/images/g/`, Google Discover/Haberler), tarihler +03:00,
@@ -22,6 +25,7 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 
 ## Kurallar
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
+  İstisna: konu kaynakları (Togg) ve altın haberi için kendi tasarımımız olan kapak (`social.topic_card`) üretilir.
 - Yayınlanmış haber sonradan elle değiştirilmez (düzeltme gerekirse sahibine sor).
 - Haberlerde kaynakta olmayan bilgi yok. Asayişte masumiyet karinesi, tam isim yok.
 - Gizli bilgiler (token, şifre) sohbete yazılmaz; GitHub Secrets'a eklenir.

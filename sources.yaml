@@ -10,6 +10,11 @@ feeds:
     url: https://news.google.com/rss/search?q=Tepeba%C5%9F%C4%B1+when:1d&hl=tr&gl=TR&ceid=TR:tr
   - name: Google Haberler - Eskişehirspor
     url: https://news.google.com/rss/search?q=Eski%C5%9Fehirspor+when:1d&hl=tr&gl=TR&ceid=TR:tr
+  # Konu kaynağı: Togg haberleri (Eskişehir şartı yok; gazete fotoğrafı yerine marka kapağı üretilir)
+  - name: Google Haberler - Togg
+    url: https://news.google.com/rss/search?q=Togg+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: togg
+    brand_cover: true
 
 # RSS'i olmayan resmî kurum siteleri: ajan sayfadaki haber bağlantılarını bulup okur.
 # Bu kaynakların fotoğrafları (basın kullanımına açık) haberle birlikte, kaynak belirtilerek kullanılır.

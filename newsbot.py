@@ -78,6 +78,9 @@ Gazetecilik kuralları:
 - Kategori şunlardan biri: {", ".join(CATEGORIES)}.
 - İlçe şunlardan biri: {", ".join(DISTRICTS)}. Belirsizse "Merkez".
 - Kaynak metin yetersiz veya çelişkiliyse publish=false ver.
+- Konu kaynakları: Kuyrukta "topic" alanı "togg" olan kaynaklar Togg (yerli otomobil) haberleridir; Eskişehir
+  şartı aranmaz. Togg ile doğrudan ilgiliyse yayınla (kategori "Ekonomi", ilçe "Merkez"); Togg'dan sadece
+  geçerken bahsediyorsa publish=false ver.
 - Güncellik: Kaynakta haberin tarihi görünüyorsa ve bugünden 3 günden eskiyse publish=false ver
   (skip_reason: "eski haber"). Tarihi belirsiz duyurularda içerik açıkça geçmiş bir olayı anlatıyorsa yine yayınlama.
 - Metinde "kaynakta", "kaynağa göre", "kaynak metin" gibi ifadeler kullanma; bilgiyi açıklamayı yapan
@@ -150,6 +153,8 @@ def collect_candidates(seen):
                 "title": entry.get("title", "").strip(),
                 "link": entry.get("link", ""),
                 "summary": re.sub(r"<[^>]+>", " ", entry.get("summary", "")).strip(),
+                # Konu kaynakları (ör. Togg): Eskişehir şartı yok, fotoğraf yoksa marka kapağı üretilir
+                "topic": feed.get("topic"), "brand_cover": feed.get("brand_cover", False),
             })
     for page in config.get("pages", []):
         for link, title in scan_page(page):
@@ -419,7 +424,7 @@ def save_article(article, candidate, image=None):
         "source": {"name": candidate["source_name"], "title": candidate["title"], "url": candidate["link"]},
     }
     if image:
-        record["image"] = {**image, "credit": candidate["source_name"]}
+        record["image"] = {**image, "credit": image.get("credit") or candidate["source_name"]}
     (ARTICLES_DIR / f"{slug}.json").write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return record
 
@@ -445,12 +450,13 @@ def collect_queue(max_items, out_path):
             seen[c["key"]] = time.time()
             log(f"[atlandı] yetersiz metin: {c['title']}")
             continue
-        if REQUIRE_IMAGE and not image:
+        if REQUIRE_IMAGE and not image and not c.get("brand_cover"):
             seen[c["key"]] = time.time()
             log(f"[atlandı] kullanılabilir fotoğraf yok: {c['title']}")
             continue
         queue.append({"key": c["key"], "source_name": c["source_name"], "title": c["title"],
-                      "link": c["link"], "image": image, "text": text[:12000]})
+                      "link": c["link"], "image": image, "text": text[:12000],
+                      "topic": c.get("topic"), "brand_cover": c.get("brand_cover", False)})
     save_seen(seen)
     today = datetime.now(timezone.utc).astimezone().strftime("%d.%m.%Y")
     Path(out_path).write_text(json.dumps({"today": today, "recent_titles": recent_titles(), "queue": queue},
@@ -477,6 +483,13 @@ def save_decisions(queue_path, decisions_path):
         if not article["publish"]:
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
             continue
+        if not c.get("image") and c.get("brand_cover"):
+            # Gazete fotoğrafı kullanılamaz; kendi tasarımımız olan konu kapağını üret
+            from social import topic_card
+            IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+            label = (c.get("topic") or "Nabız").title()
+            topic_card(IMAGES_DIR / f"{key}.jpg", article["title"], label, "#059669", note="Görsel: Nabız 26")
+            c["image"] = {"file": f"images/{key}.jpg", "source_url": "", "credit": "Nabız 26"}
         if REQUIRE_IMAGE and not c.get("image"):
             log(f"[atlandı] fotoğrafsız haber kaydedilmez: {c['title']}")
             continue
