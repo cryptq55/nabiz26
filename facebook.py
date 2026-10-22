@@ -18,7 +18,7 @@ ROOT = Path(__file__).parent
 STATE = ROOT / "data" / "facebook.json"
 GRAPH = f"https://graph.facebook.com/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_POSTS, MAX_REELS = 2, 2  # tur başına
-POST_MIN, REEL_MIN = 3, 3
+POST_MIN = 3
 
 
 def call(path, url=None, headers=None, **params):
@@ -64,7 +64,7 @@ def main():
     ig = json.loads((ROOT / "data" / "instagram.json").read_text(encoding="utf-8")) if (ROOT / "data" / "instagram.json").exists() else {}
     public = os.environ.get("R2_PUBLIC_URL", "").rstrip("/")
     # Reels: Instagram için üretilmiş video R2'de hazır
-    for f in [f for f in feed if imp(f) >= REEL_MIN and f["slug"] in ig.get("reels", [])
+    for f in [f for f in feed if f.get("reel") and f["slug"] in ig.get("reels", [])
               and f["slug"] not in state["reels"]][:MAX_REELS]:
         if public:
             try:

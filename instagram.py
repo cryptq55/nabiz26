@@ -1,8 +1,9 @@
 """Yeni haberleri Instagram'a paylaşır (Instagram Graph API, içerik yayınlama).
 
 Görseller sitede yayınlandıktan sonra çalışır: nabiz26.com/social/feed.json okunur ve haberler editörün verdiği
-önem puanına göre dağıtılır: her yeni haber story; önemi 3 ve üzeri fotoğraflı haberler sesli Reels (reels.py ile
-üretilir, Cloudflare R2'ye yüklenir, akışta da görünür). R2 ayarı yoksa bu haberler fotoğraf gönderisi olur.
+önem puanına göre dağıtılır: her yeni haber story; önemi 3 ve üzeri fotoğraflı haberler gönderi; editörün "önemli ve
+izlenecek" diye işaretlediği haberler (reel) sesli Reels olur (reels.py, video Cloudflare R2'de; akışta da görünür,
+o haber ayrıca fotoğraf gönderisi olmaz). R2 ayarı yoksa Reels atlanır.
 Paylaşılanlar data/instagram.json dosyasında tutulur.
 
 Yöntem: "Instagram girişi ile Instagram API" (graph.instagram.com). Facebook sayfası, işletme
@@ -28,8 +29,8 @@ HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "grap
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_STORIES = 4   # tur başına
 MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
-MAX_REELS = 2     # tur başına; akış video ağırlıklı: önemli haberler fotoğraf yerine Reels olur
-POST_MIN, REEL_MIN = 3, 3  # gönderi ve Reels için en düşük önem puanı
+MAX_REELS = 2     # tur başına; yalnızca editörün "reel" işaretlediği (önemli ve izlenecek) haberler
+POST_MIN = 3      # fotoğraf gönderisi için en düşük önem puanı
 
 
 def call(method, path, **params):
@@ -150,7 +151,7 @@ def main():
     failed = set()
     if os.environ.get("R2_BUCKET") and left > 0:
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
-                 sorted([f for f in feed[:12] if f["has_photo"] and imp(f) >= REEL_MIN and f["slug"] not in state["reels"]],
+                 sorted([f for f in feed[:12] if f["has_photo"] and f.get("reel") and f["slug"] not in state["reels"]],
                         key=imp, reverse=True)[:min(MAX_REELS, max(0, left))])
         for f in picks:
             try:
