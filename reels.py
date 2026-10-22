@@ -143,11 +143,15 @@ def synthesize(text, out_mp3):
 ABBR = {"Prof.", "Dr.", "Doç.", "Öğr.", "Gör.", "Av.", "Op.", "Uzm.", "vb.", "vs.", "Cad.", "Sok.", "Mah.", "No.", "Bşk."}
 
 
-def phrases(text, alignment=None, total=None):
-    """Altyazı parçaları: 4-6 kelimelik öbekler ve her birinin başlangıç/bitiş saniyesi."""
+def phrases(text, alignment=None, breaks=()):
+    """Altyazı parçaları: 4-6 kelimelik öbekler ve her birinin başlangıç/bitiş saniyesi.
+    breaks: metindeki sahne başlangıçları; bir öbek iki sahneye taşmaz."""
     words = list(re.finditer(r"\S+", text))
     chunks, cur = [], []
     for m in words:
+        if cur and m.start() in breaks:
+            chunks.append(cur)
+            cur = []
         cur.append(m)
         ends = m.group()[-1] in ".,;:!?" and m.group() not in ABBR
         if len(cur) >= 6 or (len(cur) >= 3 and ends):
@@ -177,6 +181,11 @@ def rounded_mask(w, h, r):
     return m
 
 
+def own_cover(a):
+    """Gazete fotoğrafı yerine ürettiğimiz başlıklı kapak mı (Google Haberler, Togg, altın)?"""
+    return (a.get("image") or {}).get("credit") == "Nabız 26"
+
+
 def layers(a, image_path):
     """Kare kare değişmeyen katmanlar önceden hazırlanır; her karede yalnızca kırpma ve yapıştırma yapılır."""
     cw, ch = CARD[2] - CARD[0], CARD[3] - CARD[1]
@@ -185,7 +194,14 @@ def layers(a, image_path):
         src = Image.open(image_path).convert("RGB")
         bg = _cover(src, W, H).filter(ImageFilter.GaussianBlur(50))
         bg = Image.blend(bg, Image.new("RGB", (W, H), NIGHT), 0.62)
-        big = _cover(src, int(cw * 1.16), int(ch * 1.16))  # kaydırma payı
+        if own_cover(a):
+            # Kendi kapağımız (başlıklı tasarım): kırpılmasın, bütün görünsün; kaydırma yok
+            big = bg.crop((CARD[0], CARD[1], CARD[2], CARD[3]))
+            fit = src.copy()
+            fit.thumbnail((cw, ch), Image.LANCZOS)
+            big.paste(fit, ((cw - fit.width) // 2, (ch - fit.height) // 2))
+        else:
+            big = _cover(src, int(cw * 1.16), int(ch * 1.16))  # kaydırma payı
     else:
         bg = Image.new("RGB", (W, H), NIGHT)
         big = Image.new("RGB", (int(cw * 1.16), int(ch * 1.16)), color)
@@ -202,12 +218,16 @@ def layers(a, image_path):
         if len(lines) <= 3 or size == 58:
             break
     lh = int(size * 1.08)
+    if own_cover(a):
+        lines = []  # başlık zaten kapağın üstünde yazıyor
     for i, line in enumerate(lines):
         d.text((M, 86 + i * lh), line, font=f, fill="white")
     head_h = 86 + lh * len(lines) + 10
     # Logo (fotoğraf kartının sol üst köşesinde, koyu zemin üstünde)
     logo = Image.new("RGBA", (420, 130), (0, 0, 0, 0))
     brand(ImageDraw.Draw(logo), 26, 22, 56, backing=True)
+    if own_cover(a):
+        logo = Image.new("RGBA", (1, 1), (0, 0, 0, 0))  # kapağın kendi logosu var
     return {"bg": bg, "big": big, "mask": rounded_mask(cw, ch, 34), "head": head, "head_h": head_h, "logo": logo}
 
 

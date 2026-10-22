@@ -1,0 +1,47 @@
+name: Video bülten
+
+# Her gün iki seslendirmeli Reels: 08:00 "Günaydın Eskişehir" (hava, namaz vakitleri, 3 haber) ve
+# 20:00 "Eskişehir'de bugün" (günün en önemli 5 haberi). Video R2'ye yüklenir, Instagram'da (ve tanımlıysa
+# Facebook sayfasında) Reels olarak paylaşılır.
+on:
+  schedule:
+    - cron: "0 5 * * *"    # 08:00 TSİ
+    - cron: "0 17 * * *"   # 20:00 TSİ
+  workflow_dispatch:
+    inputs:
+      tur:
+        description: "sabah ya da aksam"
+        default: aksam
+
+concurrency:
+  group: indexnow   # Bildir ve paylaş ile aynı anda Instagram'a yüklenmesin
+  cancel-in-progress: false
+
+jobs:
+  bulten:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt boto3 imageio-ffmpeg edge-tts
+      - name: Bülteni üret ve paylaş
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
+          EDGE_TTS_VOICE: ${{ vars.EDGE_TTS_VOICE }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: |
+          TUR="${{ inputs.tur }}"
+          if [ -z "$TUR" ]; then [ "$(date -u +%H)" -lt 12 ] && TUR=sabah || TUR=aksam; fi
+          python bulten.py "$TUR" "$RUNNER_TEMP/bulten.mp4" --yayinla
