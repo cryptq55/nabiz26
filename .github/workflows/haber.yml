@@ -73,7 +73,7 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           REEL_SLUG: ${{ github.event.inputs.reel }}
         run: |
-          if [ -n "$R2_BUCKET" ]; then pip install -q boto3; command -v ffmpeg >/dev/null || sudo apt-get install -y -q ffmpeg; fi
+          if [ -n "$R2_BUCKET" ]; then pip install -q boto3 imageio-ffmpeg; fi
           python3 instagram.py
           python3 facebook.py || echo "facebook paylaşımı hata verdi"
           git config user.name "nabiz26-bot"

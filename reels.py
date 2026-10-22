@@ -9,6 +9,7 @@ Kullanım (deneme):  python reels.py <haber-slug-parçası> [çıktı.mp4]
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -25,6 +26,15 @@ CARD = (40, 250, 1040, 1000)  # fotoğraf kartı (Instagram'ın üst çubuğunun
 END = 2.6                    # kapanış kartı süresi (sn)
 CHARS_PER_SEC = 17           # sessiz videoda altyazı hızı
 VOICE_ID = os.environ.get("ELEVENLABS_VOICE_ID", "")
+
+
+def ffmpeg_bin():
+    """Sistemde ffmpeg yoksa (GitHub sunucusu) pip ile gelen hazır ffmpeg kullanılır: apt kurulumu çok yavaş."""
+    found = shutil.which("ffmpeg")
+    if found:
+        return found
+    import imageio_ffmpeg
+    return imageio_ffmpeg.get_ffmpeg_exe()
 VOICE_MODEL = os.environ.get("ELEVENLABS_MODEL", "eleven_multilingual_v2")
 
 
@@ -163,7 +173,7 @@ def render(a, image_path, out, audio=None, alignment=None):
     cw, ch = CARD[2] - CARD[0], CARD[3] - CARD[1]
     bw, bh = L["big"].size
 
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
+    cmd = [ffmpeg_bin(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
            "-r", str(FPS), "-i", "-"]
     cmd += ["-i", str(audio)] if audio else ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]
     cmd += ["-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
