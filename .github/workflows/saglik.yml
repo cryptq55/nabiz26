@@ -1,0 +1,87 @@
+name: Sağlık kontrolü
+
+# Site kendi kendine ayakta kalsın: saatte bir bakar.
+# - Gündüz (08-24 TSİ) son haber 3 saatten eskiyse yedek haber masasını (Claude API, newsbot --auto) çalıştırır.
+# - Site açılmıyorsa ya da 8 saattir haber yoksa GitHub'da "Sağlık uyarısı" kaydı açar (sahibine e-posta gider);
+#   sorun düzelince kaydı kapatır.
+on:
+  schedule:
+    - cron: "47 * * * *"
+  workflow_dispatch:
+    inputs:
+      zorla:
+        description: "Yedek masayı süreye bakmadan çalıştır"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: saglik
+  cancel-in-progress: false
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Durum
+        id: durum
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, glob, datetime as dt
+          arts = [json.load(open(f, encoding="utf-8")) for f in glob.glob("data/articles/*.json")]
+          last = max(dt.datetime.fromisoformat(a["published_at"]) for a in arts if a.get("status") == "published")
+          now = dt.datetime.now(dt.timezone.utc)
+          hours = (now - last).total_seconds() / 3600
+          tr_hour = (now + dt.timedelta(hours=3)).hour
+          print(f"saat={hours:.1f}")
+          print(f"gunduz={'1' if 8 <= tr_hour else '0'}")
+          PY
+          code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 https://nabiz26.com/ || echo 000)
+          echo "site=$code" >> "$GITHUB_OUTPUT"
+          echo "Son haberden bu yana $(grep saat= "$GITHUB_OUTPUT" | cut -d= -f2) saat, site $code" >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/setup-python@v5
+        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Yedek haber masası
+        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_MODEL: claude-sonnet-5-5
+        run: |
+          pip install -q -r requirements.txt
+          python newsbot.py --auto --max 6 2>&1 | tee -a "$GITHUB_STEP_SUMMARY"
+          git config user.name "nabiz26-bot"
+          git config user.email "nabiz26-bot@users.noreply.github.com"
+          git add data SON_HABERLER.md
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Yeni haberler (yedek masa)"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          fi
+
+      - name: Uyarı kaydı
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SAAT: ${{ steps.durum.outputs.saat }}
+          SITE: ${{ steps.durum.outputs.site }}
+        run: |
+          open=$(gh issue list --label saglik --state open --json number --jq '.[0].number')
+          problem=""
+          [ "$SITE" != "200" ] && problem="nabiz26.com açılmıyor (HTTP $SITE)."
+          python3 -c "import os,sys; sys.exit(0 if float(os.environ['SAAT']) >= 8 else 1)" && problem="$problem Son haber $SAAT saat önce yayınlandı; haber masası ve yedek masa haber yazamıyor."
+          if [ -n "$problem" ]; then
+            if [ -z "$open" ]; then
+              gh label create saglik --color d73a4a --description "Otomatik sağlık uyarısı" 2>/dev/null || true
+              gh issue create --label saglik --title "Sağlık uyarısı: Nabız 26" \
+                --body "$problem Ayrıntı: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            fi
+          elif [ -n "$open" ]; then
+            gh issue close "$open" --comment "Sorun giderildi: site açık, son haber $SAAT saat önce."
+          fi

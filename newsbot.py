@@ -497,6 +497,33 @@ def collect_queue(max_items, out_path):
     log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
 
 
+def auto_run(max_items):
+    """Yedek haber masası (GitHub Actions): oturum modunun aynısını Claude API ile yapar.
+    Toplar, her kaynak için editör kararını API'den alır, kararları aynı doğrulamayla kaydeder."""
+    import tempfile
+    tmp = Path(tempfile.mkdtemp())
+    qpath, dpath = tmp / "kuyruk.json", tmp / "kararlar.json"
+    collect_queue(max_items, qpath)
+    q = json.loads(qpath.read_text(encoding="utf-8"))
+    if not q["queue"]:
+        log("Kuyruk boş, yazılacak haber yok.")
+        return
+    client = anthropic.Anthropic()
+    decisions = {}
+    for c in q["queue"]:
+        try:
+            art = write_article(client, c, f"(Bugünün tarihi: {q['today']})\n\n{c['text']}", q["recent_titles"])
+        except anthropic.APIStatusError as e:
+            log(f"[hata] API {e.status_code}: {str(e.message)[:200]}")
+            if e.status_code in (400, 401, 402, 403, 429):
+                break  # kredi/anahtar/hız sorunu: kalanları denemenin anlamı yok
+            continue
+        if art:
+            decisions[c["key"]] = art
+    dpath.write_text(json.dumps(decisions, ensure_ascii=False), encoding="utf-8")
+    save_decisions(qpath, dpath)
+
+
 def save_decisions(queue_path, decisions_path):
     """Oturum modu 2. adım: Claude'un verdiği kararları (ARTICLE_SCHEMA biçiminde) doğrulayıp kaydeder."""
     queue = {c["key"]: c for c in json.loads(Path(queue_path).read_text(encoding="utf-8"))["queue"]}
@@ -565,6 +592,7 @@ def main():
     parser.add_argument("--collect", metavar="KUYRUK.json", help="oturum modu: kaynakları topla, modeli çağırma")
     parser.add_argument("--save", nargs=2, metavar=("KUYRUK.json", "KARARLAR.json"), help="oturum modu: kararları kaydet")
     parser.add_argument("--rules", action="store_true", help="editör kurallarını ve karar şemasını yazdır")
+    parser.add_argument("--auto", action="store_true", help="yedek masa: topla + API ile yaz + kaydet")
     args = parser.parse_args()
     if args.rules:
         print(SYSTEM_PROMPT + "\n\nKarar şeması (JSON Schema):\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False, indent=2))
@@ -573,6 +601,8 @@ def main():
         return collect_queue(args.max, args.collect)
     if args.save:
         return save_decisions(*args.save)
+    if args.auto:
+        return auto_run(args.max)
 
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     seen = load_seen()
