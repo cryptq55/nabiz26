@@ -2,6 +2,96 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz, Ticaret Borsası Başkanı Ahmet Oğuz ve yönetimini kabul etti
+
+**Ekonomi · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-ticaret-borsasi-baskani-ahmet-oguz-ve-yonetimini-kabul-etti)
+
+![](data/images/12e271bf41df6bd1.jpg)
+
+> Eskişehir Ticaret Borsası Yönetim Kurulu Başkanlığı'na seçilen Ahmet Oğuz ve yönetim kurulu üyeleri Vali Dr. Erdinç Yılmaz'ı ziyaret etti.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, son seçimlerde Eskişehir Ticaret Borsası Yönetim Kurulu Başkanlığı'na seçilen Ahmet Oğuz ve yönetim kurulu üyelerini makamında kabul etti.
+
+Vali Yılmaz, Oğuz ve yönetim kurulu üyelerini tebrik ederek yeni görevlerinde başarılar diledi. Yeni dönem yönetimi de kabulden duydukları memnuniyeti dile getirdi, borsa çalışmaları ve hedefleri hakkında bilgi verdi.
+
+---
+
+## Piyano Günleri'nde İris Şentürker masterclass verdi
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 13:45 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/u44umfsfnhghc0ynnbwuogi0)
+
+![](data/images/cd9c20c4f461863a.jpg)
+
+> 6. Uluslararası Piyano Günleri kapsamında Dr. Öğr. Üyesi İris Şentürker, Anadolu Üniversitesi öğrencileriyle masterclass çalışması yaptı.
+
+Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında Mimar Sinan Güzel Sanatlar Üniversitesi İstanbul Devlet Konservatuvarı Müzik Bölümü'nden Dr. Öğr. Üyesi İris Şentürker, Anadolu Üniversitesi öğrencileriyle masterclass çalışması yaptı. Çalışma, Halk Bilimi Uygulama ve Araştırma Merkezi Faris Akarsu Konser Salonu'nda yapıldı; akademisyenler ve çok sayıda öğrenci katıldı.
+
+Ortaokul, lise ve lisans düzeylerinden piyano öğrencileri Chopin, Beethoven, Mozart, Brahms, Bach, Debussy, Mendelssohn, Liszt ve Rachmaninoff gibi bestecilerin eserlerini seslendirdi. Şentürker, eserlerin teknik icrası, tuşe hakimiyeti ve müzikal yorumu üzerine değerlendirmelerde bulunarak öğrencilere önerilerde bulundu.
+
+Piyano Günleri 24 Ekim'e kadar konserler ve etkinliklerle sürecek.
+
+---
+
+## Piyano Günleri'nde "21. Yüzyıl Müziği" söyleşisi yapıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 13:45 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/r7qb3ezhp72rc10snww3ndwx)
+
+![](data/images/212f3fe5f4c46f40.jpg)
+
+> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında günümüz müziğindeki değişimler konuşuldu.
+
+Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında Devlet Konservatuvarı Koral Çalgan Salonu'nda "21. Yüzyıl Müziği" başlıklı söyleşi yapıldı. Söyleşinin moderatörlüğünü Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren yaptı. Konuşmacılar Anadolu Üniversitesi Devlet Konservatuvarı öğretim üyesi Doç. Dr. Onur Dülger ile Mimar Sinan Güzel Sanatlar Üniversitesi İstanbul Devlet Konservatuvarı öğretim üyesi Prof. Dr. Mesut Erdem Çöloğlu oldu.
+
+Etkinlik, farklı müzikal yaklaşımları yansıtan iki eserin dinletisiyle başladı. Konuşmacılar günümüz müziğindeki değişimleri, ses tasarımını ve müzikal üretimde kullanılan malzemelerin çeşitliliğini ele aldı.
+
+Dülger, tanıdık seslerin dinleyiciyle iletişimi kolaylaştırdığını, alışılmışın dışındaki seslerin ise yeni anlatım olanakları sunduğunu söyledi. Müzikal sesleri armonik, inarmonik ve gürültü olarak üç grupta değerlendirdi. Eren ise 21. yüzyılda ritim, melodi ve armoni anlayışının yanı sıra müzisyen kimliğinin de değiştiğini belirtti.
+
+---
+
+## Pazaryeri Belediye Başkanı Zekiye Tekin, Vali Yılmaz'ı ziyaret etti
+
+**Gündem · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/bilecik-pazaryeri-belediye-baskani-zekiye-tekin-valimiz-dr-erdinc-yilmazi-makaminda-ziyaret-etti)
+
+![](data/images/515d3f3547aa42e6.jpg)
+
+> Bilecik Pazaryeri Belediye Başkanı Zekiye Tekin, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
+
+Bilecik Pazaryeri Belediye Başkanı Zekiye Tekin, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
+
+Ziyaretten memnuniyet duyduğunu belirten Vali Yılmaz, Belediye Başkanı Tekin'e nazik ziyareti dolayısıyla teşekkür etti.
+
+---
+
+## Odunpazarı'nda sokak müzisyenleri için seçmeler yapıldı
+
+**Kültür-Sanat · Odunpazarı** · 2026-10-22 13:45 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-sokak-muzigi-icin-secmeler-yapildi)
+
+![](data/images/07cf6b6bde6f5e2c.jpg)
+
+> Odunpazarı Belediyesi'nin sokak müzisyenleri projesi için yapılan seçmelere toplam 14 kişi katıldı. Seçilenler bir yıl boyunca belirlenen noktalarda performans sergileyecek.
+
+Odunpazarı Belediyesi'nin sokak müzisyenleri projesi kapsamında seçmeler yapıldı. Hasan Polatkan Kültür Merkezi'nde düzenlenen seçmelere bireysel ve grup halinde toplam 14 kişi başvurdu. Katılımcılar arasında farklı etnik kimliklerden gelen müzisyenler de yer aldı.
+
+Seçmeler sonucunda performans sergilemeye hak kazanan müzisyenlere belediye tarafından belirlenen noktalarda performans alanları tahsis edilecek. Müzisyenler bir yıl boyunca bu noktalarda sahne alacak. Adalar, Hamamyolu ve Odunpazarı Tarihi Bölge'de farklı müzik türleri dinlenebilecek.
+
+Belediye, projeyle sanatı kentin günlük yaşamının bir parçası haline getirmeyi, sokak müzisyenlerini desteklemeyi ve müzik kültürünü güçlendirmeyi hedefliyor. Düzenli aralıklarla yapılacak performanslarla müzisyenler için fırsat eşitliğinin desteklenmesi amaçlanıyor.
+
+---
+
+## Mülkiye Başmüfettişi Aydın Ölmez ve heyeti Vali Yılmaz'ı ziyaret etti
+
+**Gündem · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/mulkiye-basmufettisi-aydin-olmez-ve-beraberindeki-heyet-valimiz-dr-erdinc-yilmazi-makaminda-ziyaret-etti)
+
+![](data/images/7c8f058af43255cd.jpg)
+
+> Mülkiye Başmüfettişi Aydın Ölmez ve beraberindeki heyet, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
+
+Mülkiye Başmüfettişi Aydın Ölmez ve beraberindeki heyet, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
+
+Vali Yılmaz, ziyaretten duyduğu memnuniyeti dile getirdi ve Ölmez ile beraberindeki heyetle bir süre sohbet etti.
+
+---
+
 ## Anadolu Üniversitesi Açıköğretim'de seçmeli ders dönemi başladı
 
 **Eğitim · Tepebaşı** · 2026-10-22 11:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ejdtr8opvgzilaleo2z7gv0d)
@@ -419,115 +509,5 @@ Odunpazarı Belediyesi, çocukları sporla buluşturmak amacıyla Kış Dönemi 
 Kayıtlar 19-23 Ekim tarihleri arasında Mehmet Terzi Spor Salonu'nda şahsen yapılıyor. Kayıt sırasında kimlik ibrazı zorunlu.
 
 Basketbol eğitimleri cumartesi ve pazar günleri 13.00-14.00 saatleri arasında verilecek. Spor okulu kapsamında malzeme ücreti olarak 1.250 TL alınacak. Ücretler nakit tahsil edilecek, ayrıntılı bilgi kayıt sırasında ailelerle paylaşılacak.
-
----
-
-## Odunpazarı'nda deneme merkezinde elde edilen 1,6 ton un Halk Market'e bağışlandı
-
-**Belediye · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nin-uretimi-ihtiyac-sahibi-ailelerin-sofrasina-ulasiyor-uretimden-day)
-
-![](data/images/909192e278d2a81e.jpg)
-
-> Odunpazarı Belediyesi Veteriner İşleri Müdürlüğü, Kalkanlı'daki merkezde elde edilen 1 ton 600 kilogram unu ihtiyaç sahibi ailelere ulaştırılmak üzere Halk Market'e verdi.
-
-Odunpazarı Belediyesi Veteriner İşleri Müdürlüğü, Kalkanlı Çiftçi Eğitim ve Yeni Çeşit Deneme Merkezi'nde elde edilen 1 ton 600 kilogram unu belediyenin sosyal yardım modeli Halk Market'e bağışladı.
-
-Merkezde denemeleri yapılan 17 çeşit buğday ve arpa karışık biçimde hasat edildi. Elde edilen un 25'er kilogramlık 63 çuvala konuldu ve Halk Market ile Tarım İşleri Müdürlüğü yetkililerine teslim edildi.
-
-Unların Halk Market aracılığıyla ihtiyaç sahibi ailelere ulaştırılması planlanıyor. Odunpazarı Belediyesi, sosyal belediyecilik anlayışı doğrultusunda ihtiyaç sahibi yurttaşlara destek vermeyi sürdürdüğünü belirtiyor.
-
----
-
-## Odunpazarı Belediyesi kadın personele meme kanseri semineri düzenledi
-
-**Sağlık · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nde-meme-kanseri-farkindalik-seminerleri-duzenlendi)
-
-![](data/images/953dd20373a71014.jpg)
-
-> Odunpazarı Belediyesi ve Özel Anadolu Hastanesi iş birliğiyle düzenlenen seminerde kadın personele meme kanserinin belirtileri ve erken teşhisin önemi anlatıldı.
-
-Odunpazarı Belediyesi ile Özel Anadolu Hastanesi iş birliğinde, belediyede görev yapan kadın personele yönelik "Meme Kanseri Farkındalık Seminerleri" düzenlendi. Seminer Odunpazarı Belediyesi Meclis Salonu'nda yapıldı ve konuşmacı olarak Genel Cerrahi Uzmanı Op. Dr. Mustafa Yıldız katıldı.
-
-Seminerde memede ele gelen kitle, meme boyutunda veya şeklinde değişiklik, ciltte farklılıklar ve meme başındaki değişimler gibi belirtilere dikkat çekildi. Bu tür değişikliklerin fark edilmesi durumunda bir sağlık kuruluşuna başvurmanın önemi vurgulandı.
-
-Tanı ve tedavi süreci hakkında da bilgi verilen seminerde, hastalığın erken evrede tespit edilmesinin tedavi açısından önemi anlatıldı. Katılımcılar sorularını Op. Dr. Yıldız'a yöneltti.
-
-Seminerler, Odunpazarı Belediyesi İnsan Kaynakları ve Eğitim Müdürlüğü koordinasyonunda gerçekleştirildi.
-
----
-
-## Odunpazarı Belediye Başkanı Kurt, engelli dernekleriyle bir araya geldi
-
-**Belediye · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kazim-kurt-engelli-dernekleriyle-bir-araya-geldi-baskan-kurt-sosyal-dev)
-
-![](data/images/e93ad9b2aa139850.jpg)
-
-> Odunpazarı Belediye Başkanı Kazım Kurt, Meclis Salonu'nda engelli derneklerinin temsilcileriyle görüştü. Başkan Kurt, sosyal devletin herkesi kucaklaması gerektiğini söyledi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, engelli derneklerinin temsilcileriyle Odunpazarı Belediyesi Meclis Salonu'nda bir araya geldi. Toplantıda engelli bireylerin talep ve beklentileri ele alındı.
-
-Toplantıya Görme Engelliler Dayanışma Derneği (GÖRSEM), Eskişehir Görme Engelliler Spor Kulübü, Eskişehir Görmeyenleri ve Göz Sağlığını Koruma Derneği (ESGÖRDER), Eskişehir İki Eylül Görme Engelliler Gençlik ve Spor Kulübü, Yunusemre Görme Engelliler Spor Kulübü ve İşitme Engelliler Birliktelik Derneği temsilcileri katıldı. İşitme engelli katılımcılar için toplantıda işaret dili tercümanı görev yaptı.
-
-Dernek temsilcileri, engelli bireylerin yaşamını kolaylaştırmaya yönelik talep ve önerilerini dile getirdi. Başkan Kurt iletilen istekleri not aldı, belediyenin çalışmaları hakkında bilgi verdi.
-
-Kurt, konuşmasında sosyal devletin toplumun bütün kesimlerini kucaklaması gerektiğini söyledi. "Çok ciddi bir tasarruf genelgesi baskısı altındayız. Dolayısıyla bazı şeyler eksik kalabilir, kalıyor" diyen Kurt, bunların düzelmesini umduğunu belirtti.
-
-Belediyenin Engelliler ve Yaşlı Hizmetleri Müdürlüğü kurduğunu hatırlatan Kurt, Yenikent Mahallesi'ndeki Seramik Park içinde yer alan Engelsiz Kültür Sanat Merkezi'nde engelli çocuklara eğitim verildiğini, Ahmet Ara Engelsiz Gündüz Bakımevi ve Kreşi'nin bulunduğunu ve personele işaret dili öğreten kurslar açıldığını anlattı. Belediyenin internet sitesinde de işitme engelliler için çeviri yapan bir sistem bulunuyor.
-
----
-
-## Eskişehir Bal Kabağı Çalıştayı 26 Ekim'de yapılacak
-
-**Tarım · Tepebaşı** · 2026-10-21 20:49 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/balkabagınıngelecegiakademisyenlerleeskisehir’dekonusulacak)
-
-![](data/images/e0fec22204eb1578.jpg)
-
-> Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü'nün düzenlediği çalıştay, Türkiye'de ilk kez ulusal ölçekte yapılacak. Etkinlik ESOGÜ Ziraat Fakültesi'nde gerçekleşecek.
-
-Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü, ESOGÜ Ziraat Fakültesi iş birliğiyle Eskişehir Bal Kabağı Çalıştayı düzenliyor. Çalıştay 26 Ekim Pazartesi günü saat 13.00-17.00 arasında ESOGÜ Ziraat Fakültesi Ali Numan Kıraç Yerleşkesi Prof. Dr. Ali Koç Konferans Salonu'nda yapılacak.
-
-Türkiye'de ilk kez ulusal ölçekte gerçekleştirilecek çalıştayda, farklı üniversitelerden akademisyenler ve tarımsal araştırma kurumları bir araya gelecek. Kabak ıslahı, genetik kaynaklar, yetiştiricilik ve coğrafi işaretli bal kabaklarının kırsal kalkınmaya katkısı ele alınacak.
-
-Programda Prof. Dr. Kazım Abak, Prof. Dr. Ahmet Balkaya, Prof. Dr. Şebnem Ellialtıoğlu ve Prof. Dr. Halit Yetişir'in sunumları yer alıyor. Sunumlar kabak ıslahının gelişimi, kestane kabağı ve bal kabağının genetik kaynakları, çerezlik ve su kabağı yetiştiriciliği gibi konuları kapsıyor.
-
-Çalıştayın moderatörlüğünü ESOGÜ Ziraat Fakültesi'nden Doç. Dr. Sıtkı Ermiş üstlenecek. Ermiş, bal kabağının gıda, tarım ve sanayi açısından önem taşıyan stratejik bir tarımsal ürün olduğunu belirtti. Çalıştayın, Eskişehir'in coğrafi işaretli ürünlerinden Kızılinler Bal Kabağı'nın tanıtılması ve üretim potansiyelinin geliştirilmesi amacıyla düzenlendiği ifade edildi.
-
----
-
-## Tepebaşı Kadın Sığınma Evi 2007'den bu yana 819 kişiye hizmet verdi
-
-**Belediye · Tepebaşı** · 2026-10-21 18:47 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatackadınlarınesitveozguryasamıicinsorumlulugumuzusurdurecegiz)
-
-![](data/images/570672448fadfe33.jpg)
-
-> Tepebaşı Belediyesi Kadın Sığınma Evi'nde bugüne kadar 563 kadın ve 256 çocuk destek aldı. Bu kadınlardan 182'si bağımsız yaşamını kurdu.
-
-Tepebaşı Belediyesi Kadın Sığınma Evi, 2007'den bu yana şiddet gören kadınlara ve çocuklarına güvenli bir yaşam alanı sunuyor. Merkezde bugüne kadar 563 kadın ve 256 çocuk olmak üzere toplam 819 kişiye hizmet verildi.
-
-Sığınma evinden destek alan kadınlardan 182'si bağımsız yaşamını kurdu. Merkez; hukuki, sağlık, eğitim, eşya, psikososyal ve sosyal destek hizmeti sunuyor. Kadın Sığınma Evi'nin kapasitesi 10 kadın ve 5 çocuk.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, kadına yönelik şiddetin kadınların yaşam hakkını, güvenliğini ve eşitliğini doğrudan etkileyen ciddi bir toplumsal sorun olduğunu belirtti. Ataç, bu sorunla mücadelenin yalnızca kadınların değil, toplumun ve kamu kurumlarının ortak sorumluluğu olduğunu söyledi.
-
-Ataç, görevlerinin ihtiyaç duyan kadınların güvenli bir yere ulaşmasını sağlamak ve yaşamlarını yeniden kurma sürecinde onları yalnız bırakmamak olduğunu ifade etti. Her kadının güven içinde, eşit ve özgür yaşayabildiği bir kent için çalışmaya devam edeceklerini kaydetti.
-
-Kaynakta yer alan bilgiye göre Türkiye'de yerel yönetimlere bağlı kadın sığınma evlerinin bulunduğu 33 belediyenin 8'i büyükşehir, 25'i ilçe belediyesi statüsünde.
-
----
-
-## Odunpazarı'nda Eskişehir'in tarihi dansla sahneye taşınacak
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-21 18:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/eskisehir-in-hikayesi-dansla-sahneye-tasiniyor)
-
-![](data/images/89638d6b4c1d0b7f.jpg)
-
-> Odunpazarı Belediyesi Halk Dansları Topluluğu, Eskişehir'in antik dönemden Cumhuriyet'e uzanan hikâyesini anlatan "Eskişehir'in Hikâyesi" adlı gösteri için hazırlık yapıyor.
-
-Odunpazarı Belediyesi Halk Dansları Topluluğu, Eskişehir'in tarihini ve kültürel zenginliğini dans, müzik ve kostümlerle anlatan "Eskişehir'in Hikâyesi" adlı bir gösteriye hazırlanıyor. Proje, Afyon Kocatepe Üniversitesi Öğretim Görevlisi Muharrem Feratan tarafından hazırlandı.
-
-Gösteri; Frigya uygarlığından Roma dönemine, Nasrettin Hoca'dan Yunus Emre'ye, Osman Gazi'nin rüyasından İnönü ve Sakarya savaşlarına uzanan bir tarih yolculuğunu sahneye taşıyacak. Kırım, Balkan ve Kafkas kültürlerinin dansları ve müzikleri de gösterinin içinde yer alacak. Hazırlıklar yaklaşık bir aydır sürüyor.
-
-Feratan, Eskişehir'in zengin kültürünü sahneye yansıtmanın uzun süredir hayali olduğunu söyledi. 2012'de Türk Dünyası Kültür Başkenti kapsamında benzer bir gösteri hazırladıklarını, üniversite bünyesinde de benzer çalışmalar yaptıklarını belirten Feratan, projeyi bu kez güncellenmiş bir yapıda ve farklı müzikal düzenlemelerle izleyiciye sunmayı hedeflediklerini aktardı.
-
-Topluluğun eğitmeni Oktay Şahin ise Odunpazarı'nın Eskişehir'in ilk yerleşim yeri olması nedeniyle projenin burada hayata geçirilmek istendiğini söyledi. Şahin, topluluğun 2014'ten bu yana farklı yaş gruplarına eğitim verdiğini, gösteri ve festivallere katıldığını belirtti. Yeni gösterinin Odunpazarı'na değer katacağını ifade etti.
 
 ---
