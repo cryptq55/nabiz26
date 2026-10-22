@@ -15,7 +15,7 @@ import re
 import sys
 import time
 from html.parser import HTMLParser
-from urllib.parse import urljoin, urlparse
+from urllib.parse import quote, urljoin, urlparse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -230,9 +230,18 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; Nabiz26Bot/1.0; +https://nabi
            "Accept-Language": "tr-TR,tr;q=0.9"}
 
 
+# Yurt dışı sunuculardan erişilemeyen kurum siteleri aktarıcı (relay/ klasöründeki Cloudflare Worker) üzerinden okunur
+RELAY = os.environ.get("NEWS_RELAY", "https://nabiz26-relay.cryptq.workers.dev/?url=")
+RELAY_HOSTS = {"www.beylikova.bel.tr", "beylikova.bel.tr"}  # Büyükşehir yalnızca Türkiye IP'lerine açık, aktarıcı da aşamıyor
+
+
+def routed(url):
+    return RELAY + quote(url, safe="") if RELAY and urlparse(url).netloc.lower() in RELAY_HOSTS else url
+
+
 def http_get(url, timeout=25):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=timeout)
+        r = requests.get(routed(url), headers=HEADERS, timeout=timeout)
         if r.ok:
             r.encoding = r.apparent_encoding if not r.encoding or r.encoding.lower() == "iso-8859-1" else r.encoding
             return r.text
@@ -340,7 +349,7 @@ def download_image(urls, key):
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     for url in urls[:8]:
         try:
-            r = requests.get(url, headers=HEADERS, timeout=20)
+            r = requests.get(routed(url), headers=HEADERS, timeout=20)
             if not r.ok or len(r.content) < 5000:
                 continue
             from io import BytesIO
@@ -514,7 +523,7 @@ def save_decisions(queue_path, decisions_path):
             from social import topic_card
             IMAGES_DIR.mkdir(parents=True, exist_ok=True)
             label, color = {"togg": ("Togg", "#059669"), "siyaset": ("Siyaset", "#b91c1c"),
-                            "bakanlik": ("Türkiye", "#1d4ed8")}.get(c.get("topic"), ("Nabız", "#e11d48"))
+                            "bakanlik": ("Türkiye", "#1d4ed8"), "yerel": ("Eskişehir", "#e11d48")}.get(c.get("topic"), ("Nabız", "#e11d48"))
             topic_card(IMAGES_DIR / f"{key}.jpg", article["title"], label, color, note="Görsel: Nabız 26")
             c["image"] = {"file": f"images/{key}.jpg", "source_url": "", "credit": "Nabız 26"}
         if REQUIRE_IMAGE and not c.get("image"):
