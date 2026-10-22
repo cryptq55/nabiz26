@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de SEM'e atıcılık, badminton, güreş ve kano için sporcu alımı başladı
+
+**Spor · Merkez** · 2026-10-22 09:32 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/304908/2026-2027-sem-basvurulari.aspx)
+
+![](data/images/319f5116778cb297.jpg)
+
+> Sporcu Eğitim Merkezleri'ne dört branşta sporcu alım başvuruları 22 Ekim - 1 Kasım tarihlerinde e-Devlet üzerinden yapılacak.
+
+Eskişehir Gençlik ve Spor İl Müdürlüğü, 2026-2027 eğitim öğretim yılı kapsamında Sporcu Eğitim Merkezleri'ne (SEM) atıcılık, badminton, güreş ve kano branşlarında sporcu alım başvurularının başladığını duyurdu.
+
+Başvurular 22 Ekim - 1 Kasım 2026 tarihleri arasında e-Devlet Kapısı üzerinden yapılacak. Sporcu alım kriterleri ve başvuru rehberi, il müdürlüğünün duyurusunda ek olarak yer alıyor.
+
+İl müdürlüğü, adayların başvuru öncesinde ilgili kriterleri ve açıklamaları dikkatle incelemesini istedi. Ayrıntılı bilgi için Spor Hizmetleri Genel Müdürlüğü'ne yönlendirme yapıldı.
+
+---
+
 ## Piyano Günleri'nde "Boratav Project / Sesin Bedeni" doğaçlama resitali yapıldı
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-22 08:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/tn23myoaq5ty7l61hl56ts58)
@@ -511,23 +527,5 @@ Açılış törenine Eskişehir Valisi Erdinç Yılmaz, Cumhuriyet Başsavcısı
 Vali Yılmaz, serginin Hazreti Muhammed'i anmak ve manevi değerleri yaşatmak açısından önemli olduğunu belirterek organizasyonda emeği geçenlere teşekkür etti ve vatandaşları sergiyi ziyarete davet etti. Özdemir de sergiye ev sahipliği yapmaktan memnuniyet duyduklarını, bu tür etkinliklerin milli ve manevi değerlerin gelecek nesillere aktarılmasına katkı sağladığını söyledi.
 
 Koleksiyoner Erol Güzel'in küratörlüğünde düzenlenen sergide kutsal emanetlerin yanı sıra Kabe örtüleri, Sakal-ı Şerifler ve Kabe, Medine ile Kudüs maketleri bulunuyor. Sergi 25 Ekim'de sona erecek.
-
----
-
-## Tepebaşı İklim Haftası'nda sanayicilere yeşil dönüşüm destekleri anlatıldı
-
-**Ekonomi · Tepebaşı** · 2026-10-21 18:35 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/sanayiiciniklimfinansmanıveyesildonusumtepebasıiklimhaftası’ndaelealındı)
-
-![](data/images/202610211835-tepebasi-iklim-haftasinda-s.jpg)
-
-> Eskişehir OSB'de düzenlenen panelde sanayiciler, iklim finansmanı, yeşil dönüşüm destekleri ve Ufuk Avrupa programı hakkında bilgilendirildi.
-
-Tepebaşı Belediyesi ile Eskişehir Organize Sanayi Bölgesi (EOSB) iş birliğinde düzenlenen Tepebaşı İklim Haftası, "İklim Finansmanı ve Yeşil Dönüşüm Paneli" ile devam etti. EOSB İdari Bina Konferans Salonu'ndaki panele sanayiciler, iş dünyası, kamu kurumları ve meslek odalarının temsilcileri katıldı.
-
-Anadolu Üniversitesi İletişim Bilimleri Fakültesi'nden Prof. Dr. Nezih Orhon'un yönettiği panelde, işletmelerin yeşil dönüşüm sürecinde yararlanabileceği destek ve finansman olanakları ele alındı.
-
-BEBKA'dan Nigah Ertekin bölgesel yeşil dönüşüm desteklerini, EcoMuse'den Seyran Hatipoğlu işletmeler için iklim finansmanını anlattı. TÜBİTAK Ufuk Avrupa Programı'ndan Arzu İpek Yılmaz Üçüncü ise Avrupa Birliği programının işletmelere sunduğu iklim odaklı destekleri aktardı.
-
-Panelde düşük karbonlu üretime geçişin işletmeler için önemi ve ulusal ile uluslararası destek programlarından yararlanma yolları değerlendirildi. Katılımcılar uzmanlara sorularını yöneltti. Tepebaşı Belediye Başkanı Ahmet Ataç'ı panelde Meclis Üyesi Nazan Erşahin temsil etti.
 
 ---
