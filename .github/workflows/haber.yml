@@ -65,9 +65,10 @@ jobs:
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
           R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
-          # Seslendirme: OpenAI (ya da ElevenLabs); tanımlı değilse Reels sessiz üretilir
+          # Seslendirme: varsayılan ücretsiz Microsoft sesi (edge-tts); OpenAI/ElevenLabs anahtarı varsa onlar
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_TTS_VOICE: ${{ vars.OPENAI_TTS_VOICE }}
+          EDGE_TTS_VOICE: ${{ vars.EDGE_TTS_VOICE }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
           # Facebook sayfası (tanımlı değilse atlanır)
@@ -75,7 +76,7 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           REEL_SLUG: ${{ github.event.inputs.reel }}
         run: |
-          if [ -n "$R2_BUCKET" ]; then pip install -q boto3 imageio-ffmpeg; fi
+          if [ -n "$R2_BUCKET" ]; then pip install -q boto3 imageio-ffmpeg edge-tts; fi
           python3 instagram.py
           python3 facebook.py || echo "facebook paylaşımı hata verdi"
           git config user.name "nabiz26-bot"

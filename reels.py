@@ -78,11 +78,55 @@ def synthesize_openai(text, out_mp3):
     return out
 
 
+def synthesize_edge(text, out_mp3):
+    """Ücretsiz Microsoft sesleri (edge-tts, anahtar gerekmez). Kelime zamanları gelir; altyazı sese oturur.
+    Resmî bir API değildir: Microsoft erişimi kapatırsa video sessiz üretilir."""
+    import asyncio
+    import edge_tts
+
+    async def run():
+        com = edge_tts.Communicate(text, os.environ.get("EDGE_TTS_VOICE") or "tr-TR-AhmetNeural",
+                                   rate=os.environ.get("EDGE_TTS_RATE") or "+8%", boundary="WordBoundary")
+        audio, words = bytearray(), []
+        async for chunk in com.stream():
+            if chunk["type"] == "audio":
+                audio += chunk["data"]
+            elif chunk["type"] == "WordBoundary":
+                words.append((chunk["text"], chunk["offset"] / 1e7, (chunk["offset"] + chunk["duration"]) / 1e7))
+        return bytes(audio), words
+
+    audio, words = asyncio.run(run())
+    if not audio:
+        raise RuntimeError("edge-tts ses döndürmedi")
+    Path(out_mp3).write_bytes(audio)
+    # Kelime zamanlarını harflere yay: altyazı öbekleri harf konumundan zamana bakar
+    out, pos, last = [], 0, 0.0
+    for word, t0, t1 in words:
+        i = text.find(word, pos)
+        if i < 0:
+            continue
+        while pos < i:
+            out.append((text[pos], last, t0))
+            pos += 1
+        step = (t1 - t0) / max(1, len(word))
+        for k, ch in enumerate(word):
+            out.append((ch, t0 + k * step, t0 + (k + 1) * step))
+        pos, last = i + len(word), t1
+    while pos < len(text):
+        out.append((text[pos], last, last + 0.05))
+        pos += 1
+    return out
+
+
 def synthesize(text, out_mp3):
-    """Seslendirir; mp3'ü yazar ve karakter zamanlarını döndürür. Anahtar yoksa None."""
+    """Seslendirir; mp3'ü yazar ve karakter zamanlarını döndürür. Ses kapalıysa (TTS=off) None."""
+    if os.environ.get("TTS") == "off":
+        return None
     key = os.environ.get("ELEVENLABS_API_KEY")
     if not key or not VOICE_ID:
-        return synthesize_openai(text, out_mp3) if os.environ.get("OPENAI_API_KEY") else None
+        if os.environ.get("OPENAI_API_KEY"):
+            return synthesize_openai(text, out_mp3)
+        return synthesize_edge(text, out_mp3)
     body = json.dumps({"text": text, "model_id": VOICE_MODEL, "language_code": "tr",
                        "voice_settings": {"stability": 0.5, "similarity_boost": 0.8, "style": 0.2}}).encode()
     req = urllib.request.Request(
@@ -96,13 +140,17 @@ def synthesize(text, out_mp3):
     return list(zip(al["characters"], al["character_start_times_seconds"], al["character_end_times_seconds"]))
 
 
+ABBR = {"Prof.", "Dr.", "Doç.", "Öğr.", "Gör.", "Av.", "Op.", "Uzm.", "vb.", "vs.", "Cad.", "Sok.", "Mah.", "No.", "Bşk."}
+
+
 def phrases(text, alignment=None, total=None):
     """Altyazı parçaları: 4-6 kelimelik öbekler ve her birinin başlangıç/bitiş saniyesi."""
     words = list(re.finditer(r"\S+", text))
     chunks, cur = [], []
     for m in words:
         cur.append(m)
-        if len(cur) >= 6 or (len(cur) >= 3 and m.group()[-1] in ".,;:!?"):
+        ends = m.group()[-1] in ".,;:!?" and m.group() not in ABBR
+        if len(cur) >= 6 or (len(cur) >= 3 and ends):
             chunks.append(cur)
             cur = []
     if cur:
