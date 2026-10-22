@@ -45,8 +45,20 @@ def call(method, path, **params):
         raise RuntimeError(e.read().decode()[:500]) from None
 
 
+LIMITED = False  # Instagram "çok fazla işlem" dedi: bu turda başka paylaşım denenmez
+
+
 def publish(user, tries=20, **media):
-    container = call("POST", f"{user}/media", **media)["id"]
+    global LIMITED
+    if LIMITED:
+        raise RuntimeError("bu turda Instagram işlem sınırına ulaşıldı, sonraki tura kaldı")
+    time.sleep(8)  # art arda paylaşımlar Instagram'ın saatlik sınırına takılmasın
+    try:
+        container = call("POST", f"{user}/media", **media)["id"]
+    except RuntimeError as e:
+        if "2207042" in str(e) or '"code":9' in str(e):
+            LIMITED = True
+        raise
     for _ in range(tries):  # Instagram görseli/videoyu işleyene kadar bekle
         status = call("GET", container, fields="status_code").get("status_code")
         if status == "FINISHED":
@@ -54,7 +66,12 @@ def publish(user, tries=20, **media):
         if status == "ERROR":
             raise RuntimeError("Instagram görseli işleyemedi")
         time.sleep(3)
-    return call("POST", f"{user}/media_publish", creation_id=container)["id"]
+    try:
+        return call("POST", f"{user}/media_publish", creation_id=container)["id"]
+    except RuntimeError as e:
+        if "2207042" in str(e) or '"code":9' in str(e):
+            LIMITED = True
+        raise
 
 
 def quota_left(user):
