@@ -1,5 +1,13 @@
 # Yurt dışı IP'leri engelleyen kurum sitelerine (ör. Büyükşehir) haber masasının ulaşabilmesi için küçük aktarıcı.
-# Yalnızca aşağıdaki sitelere GET isteği iletir; yanıtlar 10 dakika önbellekte tutulur.
+# Yalnızca index.js'deki listedeki sitelere GET isteği iletir; yanıtlar 10 dakika önbellekte tutulur.
 name = "nabiz26-relay"
 main = "index.js"
 compatibility_date = "2026-10-01"
+
+[[durable_objects.bindings]]
+name = "FETCHER"
+class_name = "Fetcher"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Fetcher"]
