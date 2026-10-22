@@ -59,8 +59,9 @@ metni ve sitede son yayınlanan başlıklar verilecek. Görevin:
    - son yayınlanan başlıklardan biriyle aynı olay,
    - 3 günden eski (aşağıdaki güncellik kuralı),
    - metin yetersiz veya çelişkili,
-   - olay içermeyen salt kutlama/tebrik/anma mesajı ("Hayırlı Cumalar", bayram tebriği gibi) ya da
-     menü, liste veya ihale/iş ilanı metni.
+   - menü, liste veya ihale/iş ilanı metni.
+   Kurumların kutlama, tebrik ve anma paylaşımları da (bayram, özel gün, "Hayırlı Cumalar" gibi) yayınlanır:
+   kısa tut, "Belediye ... mesajı paylaştı" biçiminde kurum adına haberleştir, kategori "Gündem".
 2. Yayınlanacaksa haberi Türkçe, tamamen özgün cümlelerle yeniden yaz. Kaynağın cümlelerini kopyalama;
    olguları (kim, ne, nerede, ne zaman, neden, nasıl) koru, kendi anlatımınla yaz.
 
