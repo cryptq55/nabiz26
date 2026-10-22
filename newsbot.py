@@ -497,22 +497,27 @@ def collect_queue(max_items, out_path):
     log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
 
 
-def write_article_github(candidate, source_text, recent):
-    """Yedek yazar: GitHub Models (Actions içinde GITHUB_TOKEN ile ücretsiz). Anthropic kredisi yokken devreye girer."""
+def write_article_gemini(candidate, source_text, recent):
+    """Yedek yazar: Google Gemini (ücretsiz kota, GEMINI_API_KEY). Anthropic kredisi yokken devreye girer."""
     user_msg = (
         "Son yayınlanan başlıklar:\n- " + "\n- ".join(recent or ["(henüz yok)"]) +
         f"\n\n<kaynak ad=\"{candidate['source_name']}\">\nBaşlık: {candidate['title']}\n\n{source_text[:12000]}\n</kaynak>"
+        "\n\nYanıtı yalnızca şu JSON şemasına uyan tek bir nesne olarak ver:\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False)
     )
-    body = {"model": os.environ.get("GITHUB_MODEL", "openai/gpt-4.1"), "temperature": 0.3,
-            "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": user_msg}],
-            "response_format": {"type": "json_schema",
-                                "json_schema": {"name": "haber", "strict": True, "schema": ARTICLE_SCHEMA}}}
-    r = requests.post("https://models.github.ai/inference/chat/completions", json=body, timeout=180,
-                      headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}", "Content-Type": "application/json"})
+    model = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash"
+    body = {"systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+            "contents": [{"role": "user", "parts": [{"text": user_msg}]}],
+            "generationConfig": {"temperature": 0.3, "responseMimeType": "application/json"}}
+    r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                      params={"key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
     if r.status_code == 429:
-        raise RuntimeError("GitHub Models hız sınırı")
+        raise RuntimeError("Gemini hız sınırı")
     r.raise_for_status()
-    return json.loads(r.json()["choices"][0]["message"]["content"])
+    art = json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+    missing = [k for k in ARTICLE_SCHEMA["required"] if k not in art]
+    if missing:
+        raise RuntimeError(f"Gemini eksik alan döndürdü: {missing}")
+    return art
 
 
 def auto_run(max_items):
@@ -526,26 +531,26 @@ def auto_run(max_items):
     if not q["queue"]:
         log("Kuyruk boş, yazılacak haber yok.")
         return
-    use_github = not os.environ.get("ANTHROPIC_API_KEY")
-    client = None if use_github else anthropic.Anthropic()
+    use_backup = not os.environ.get("ANTHROPIC_API_KEY")
+    client = None if use_backup else anthropic.Anthropic()
     decisions = {}
     for c in q["queue"]:
         text = f"(Bugünün tarihi: {q['today']})\n\n{c['text']}"
         art = None
-        if not use_github:
+        if not use_backup:
             try:
                 art = write_article(client, c, text, q["recent_titles"])
             except anthropic.APIStatusError as e:
-                log(f"[uyarı] Anthropic API {e.status_code}: {str(e.message)[:150]} -> GitHub Models'e geçiliyor")
-                use_github = True
-        if use_github:
-            if not os.environ.get("GITHUB_TOKEN"):
-                log("[hata] yazacak model yok (Anthropic kredisi yok, GITHUB_TOKEN tanımlı değil)")
+                log(f"[uyarı] Anthropic API {e.status_code}: {str(e.message)[:150]} -> Gemini'ye geçiliyor")
+                use_backup = True
+        if use_backup:
+            if not os.environ.get("GEMINI_API_KEY"):
+                log("[hata] yazacak model yok: Anthropic kredisi yok, GEMINI_API_KEY tanımlı değil")
                 break
             try:
-                art = write_article_github(c, text, q["recent_titles"])
+                art = write_article_gemini(c, text, q["recent_titles"])
             except Exception as e:
-                log(f"[hata] GitHub Models: {str(e)[:200]}")
+                log(f"[hata] Gemini: {str(e)[:200]}")
                 if "hız sınırı" in str(e):
                     break
                 continue

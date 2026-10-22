@@ -17,7 +17,6 @@ on:
 permissions:
   contents: write
   issues: write
-  models: read      # yedek masa: Anthropic kredisi yoksa GitHub Models ile yazar
 
 concurrency:
   group: saglik
@@ -56,7 +55,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: claude-sonnet-5-5
-          GITHUB_TOKEN: ${{ github.token }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # Anthropic kredisi yoksa ücretsiz Gemini ile yazar
         run: |
           pip install -q -r requirements.txt
           before=$(ls data/articles | wc -l)
