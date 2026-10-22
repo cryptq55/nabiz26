@@ -21,8 +21,8 @@
 {%- endmacro %}
 
 {# Dikey kart: üstte kapak #}
-{% macro card(a) -%}
-<article class="card" style="--c: {{ a.color }}">
+{% macro card(a, variant="") -%}
+<article class="card {{ variant }}" style="--c: {{ a.color }}">
   <a class="card-media" href="{{ base }}haber/{{ a.slug }}{{ ext }}" tabindex="-1">{{ cover(a) }}</a>
   <div class="card-body">
     <div class="kicker"><span>{{ a.category }}</span>{{ a.district }}</div>

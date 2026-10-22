@@ -14,9 +14,6 @@
       <a href="https://wa.me/?text={{ (a.title ~ ' ' ~ canonical)|urlencode }}" target="_blank" rel="noopener" aria-label="WhatsApp'ta paylaş">WhatsApp</a>
       <a href="https://x.com/intent/post?text={{ a.title|urlencode }}&url={{ (canonical)|urlencode }}" target="_blank" rel="noopener" aria-label="X'te paylaş">X</a>
       <button data-copy aria-label="Bağlantıyı kopyala">Kopyala</button>
-      {% if a.social %}{# Yalnızca dosya paylaşabilen telefonlarda görünür (app.js) #}
-      <button class="story-share" data-story="{{ base }}{{ a.social.story }}" data-slug="{{ a.slug }}" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6"/></svg>Story'de paylaş</button>
-      {% endif %}
     </div>
   </div>
   {% if a.image %}

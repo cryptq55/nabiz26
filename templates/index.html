@@ -17,23 +17,46 @@
 
 <h1 class="sr-only">Eskişehir Son Dakika Haberleri – {{ site.name }}</h1>
 <section class="hero">
-  {# Manşet: haberler sırayla kayar; üstteki çubuklar story gibi dolar, mobilde parmakla kaydırılır #}
+  {# Manşet: haberler sırayla kayar; alttaki numaralardan seçilir, mobilde parmakla kaydırılır #}
   <div class="slider" data-slider aria-roledescription="carousel" aria-label="Manşet haberler">
     <div class="slides" data-track>
       {% for a in slides %}<div class="slide" role="group" aria-roledescription="slide" aria-label="{{ loop.index }} / {{ slides|length }}">{{ overlay(a, "lead", "h2", loop.first) }}</div>{% endfor %}
     </div>
     {% if slides|length > 1 %}
-    <div class="slider-bars">{% for a in slides %}<button type="button" data-dot aria-label="{{ loop.index }}. manşet: {{ a.title }}"><i></i></button>{% endfor %}</div>
-    <div class="slider-arrows">
-      <button type="button" data-prev aria-label="Önceki manşet"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
-      <button type="button" data-next aria-label="Sonraki manşet"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
+    <div class="slider-nums">
+      {% for a in slides %}<button type="button" data-dot aria-label="{{ loop.index }}. manşet: {{ a.title }}">{{ loop.index }}<i></i></button>{% endfor %}
+      <button type="button" class="slider-arrow" data-prev aria-label="Önceki manşet"><svg viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></svg></button>
+      <button type="button" class="slider-arrow" data-next aria-label="Sonraki manşet"><svg viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></button>
     </div>
     {% endif %}
   </div>
   <div class="hero-side">
-    {% for a in side %}{{ overlay(a, "side", "h3") }}{% endfor %}
+    {% for a in side %}{{ card(a, "tight") }}{% endfor %}
   </div>
 </section>
+
+{% if strip %}
+<section class="strip" aria-label="Öne çıkanlar">
+  {% for a in strip %}{{ card(a, "tight") }}{% endfor %}
+</section>
+{% endif %}
+
+<div class="layout">
+  <section>
+    {{ section_head("Son Haberler") }}
+    <div class="rows">
+      {% for a in rest %}{{ row(a) }}{% endfor %}
+    </div>
+  </section>
+  <aside class="sidebar">
+    <div class="panel sticky">
+      <h3 class="panel-title"><i class="dot-live"></i>Akış</h3>
+      <ol class="timeline">
+        {% for a in articles[:10] %}<li style="--c: {{ a.color }}"><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ a.title }}</a></li>{% endfor %}
+      </ol>
+    </div>
+  </aside>
+</div>
 
 <section class="pulse" aria-label="Kentin nabzı">
   <div class="pulse-count">
@@ -62,31 +85,17 @@
   </div>
 </section>
 
-<div class="layout">
-  <section>
-    {{ section_head("Son Haberler") }}
-    <div class="rows">
-      {% for a in rest %}{{ row(a) }}{% endfor %}
-    </div>
-  </section>
-  <aside class="sidebar">
-    <div class="panel sticky">
-      <h3 class="panel-title"><i class="dot-live"></i>Akış</h3>
-      <ol class="timeline">
-        {% for a in articles[:10] %}<li style="--c: {{ a.color }}"><time>{{ a.time_tr }}</time><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ a.title }}</a></li>{% endfor %}
-      </ol>
-    </div>
-  </aside>
-</div>
-
-{% for c in categories %}{% set items = by_cat[c] %}{% if items|length >= 3 %}
+{# Kategori blokları: iki sütun, her blokta bir öne çıkan haber ve kısa liste #}
+<div class="cat-blocks">
+{% for c in categories %}{% set items = by_cat[c] %}{% if items|length >= 2 %}
 <section class="cat-block" style="--c: {{ colors[c] }}">
   {{ section_head(c, base ~ "kategori/" ~ (c|slug) ~ ext, colors[c]) }}
-  <div class="cat-grid">
-    {{ overlay(items[0], "cat", "h3") }}
-    <div class="cat-list">{% for a in items[1:4] %}{{ card(a) }}{% endfor %}</div>
-  </div>
+  {{ card(items[0]) }}
+  <ul class="cat-list">{% for a in items[1:5] %}
+    <li><a href="{{ base }}haber/{{ a.slug }}{{ ext }}">{{ cover(a, "xs") }}<span>{{ a.title }}</span></a></li>{% endfor %}
+  </ul>
 </section>
 {% endif %}{% endfor %}
+</div>
 {% endif %}
 {% endblock %}

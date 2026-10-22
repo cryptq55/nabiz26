@@ -140,22 +140,4 @@
     addEventListener("resize", function () { track.scrollLeft = cur * track.clientWidth; });
     mark(0);
   }
-
-  // "Story'de paylaş": haberin hazır story görselini telefonun paylaşım menüsüne gönderir (Instagram > Hikaye)
-  var story = document.querySelector("[data-story]");
-  if (story && navigator.canShare && matchMedia("(pointer: coarse)").matches) {
-    var probe = new File([""], "story.jpg", { type: "image/jpeg" });
-    if (navigator.canShare({ files: [probe] })) {
-      story.hidden = false;
-      // Görsel önceden indirilir: paylaşım menüsü dokunuşun hemen ardından açılmalı (iOS beklemeye izin vermez)
-      var file = null;
-      fetch(story.dataset.story).then(function (r) { return r.blob(); }).then(function (b) {
-        file = new File([b], "nabiz26-" + story.dataset.slug.slice(0, 40) + ".jpg", { type: "image/jpeg" });
-      }).catch(function () {});
-      story.addEventListener("click", function () {
-        if (!file) { location.href = story.dataset.story; return; }  // henüz inmediyse görseli aç
-        navigator.share({ files: [file] }).catch(function () {});
-      });
-    }
-  }
 })();

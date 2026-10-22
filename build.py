@@ -224,7 +224,8 @@ def main():
     slides = [a for a in articles[:12] if a.get("image")][:5] or articles[:1]
     lead = slides[0] if slides else None
     side = [a for a in articles[:10] if all(a is not x for x in slides)][:2]
-    rest = [a for a in articles if all(a is not x for x in slides + side)][:12]
+    strip = [a for a in articles if all(a is not x for x in slides + side)][:4]  # manşet altı 4'lü sıra
+    rest = [a for a in articles if all(a is not x for x in slides + side + strip)][:12]
     home_ld = [org, {"@type": "WebSite", "@id": f"{SITE['url']}/#site", "name": SITE["name"], "url": f"{SITE['url']}/",
                      "inLanguage": "tr-TR", "publisher": {"@id": org["@id"]},
                      "potentialAction": {"@type": "SearchAction", "target": abs_url("ara.html") + "?q={search_term_string}",
@@ -232,7 +233,7 @@ def main():
     render("index.html", "index.html",
            {"title": f"{SITE['name']} | Eskişehir Son Dakika Haberleri", "description": SITE["description"],
             "image": lead["image"]["abs"] if lead and lead.get("image") else common["og_default"], "ld": home_ld},
-           articles=articles, by_cat=by_cat, title=None, lead=lead, slides=slides, side=side, rest=rest)
+           articles=articles, by_cat=by_cat, title=None, lead=lead, slides=slides, side=side, strip=strip, rest=rest)
 
     for cat, items in by_cat.items():
         p = f"kategori/{slugify(cat)}.html"
