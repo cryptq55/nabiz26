@@ -2,6 +2,42 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Anadolu Üniversitesi Açıköğretim'de seçmeli ders dönemi başladı
+
+**Eğitim · Tepebaşı** · 2026-10-22 11:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ejdtr8opvgzilaleo2z7gv0d)
+
+![](data/images/401f867fdcd25b68.jpg)
+
+> Açıköğretim Fakültesi'nde 2026-2027 güz döneminden itibaren seçmeli ders uygulaması başladı. Üniversite, bunun Türkiye'de açıköğretim kurumları arasında bir ilk olduğunu belirtiyor.
+
+Anadolu Üniversitesi Açıköğretim Fakültesi'nde 2026-2027 akademik yılı güz döneminden itibaren seçmeli ders uygulaması hayata geçirildi. Üniversite, bu uygulamayla Türkiye'de açıköğretim hizmeti veren kurumlar arasında bir ilke imza attığını belirtiyor.
+
+Yenilenen ders programlarında zorunlu derslerin yanı sıra alan içi ve alan dışı seçmeli dersler de yer alıyor. Müfredat güncellemesiyle 65 programa 209 alan içi seçmeli ders ve 2 bin 663 alan dışı seçmeli ders eklendi. Alan içi seçmeli dersler dönem içinde, alan dışı seçmeli dersler ise yaz okulunda öğrencilerin tercihine sunuluyor.
+
+Mevcut öğrencilerin yeni program yapısına geçişi için 86 programda toplam 4 bin 289 intibak işlemi yapıldı.
+
+Öğrenciler ders seçimi, ders değiştirme, derslerin yerine saydırılması, yaz okulu ve mezuniyet koşulları gibi konulardaki bilgilere www.anadolu.edu.tr/acikogretim/secmeli-dersler adresinden ulaşabiliyor.
+
+---
+
+## Açıköğretim mezunu çifte Anadolu Üniversitesi'nde başarı belgesi verildi
+
+**Eğitim · Tepebaşı** · 2026-10-22 11:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ujoxhk0wf8t5odfq1hg90vz9)
+
+![](data/images/7df414cbb8be4d0b.jpg)
+
+> Açıköğretim Fakültesi mezunları Nihal Güler ve Sebahattin Konceli'ye Dekan Yardımcısı Doç. Dr. Seçil Kaya Gülen başarı belgelerini takdim etti.
+
+Anadolu Üniversitesi Açıköğretim Fakültesi mezunları Nihal Güler ve eşi Sebahattin Konceli, uzun yıllara yayılan eğitim yolculuklarını tamamladı. Fakülteyi ziyaret eden çifte Dekanlık Toplantı Salonu'nda Dekan Yardımcısı Doç. Dr. Seçil Kaya Gülen tarafından başarı belgeleri verildi.
+
+Eğitimine 1986'da başlayan emekli asker Konceli, yurt içi ve yurt dışındaki görevleri nedeniyle eğitimini uzun süre sürdürmekte zorlandığını, mezuniyetini emekli olduktan sonra tamamlayabildiğini söyledi. Açıköğretimin öz disiplin ve bireysel çalışma gerektirdiğini belirten Konceli, bu diplomaya sahip olanların başarısına daha fazla saygı duyulması gerektiğini ifade etti.
+
+Güler ise 1998'de başladığı eğitim hayatında 2004'te Açıköğretim Fakültesi Bankacılık ve Sigortacılık Bölümü'nü, 2015'te İktisat Fakültesi Kamu Yönetimi Bölümü'nü tamamladı. Örgün eğitime devam edemediği için açıköğretimi seçtiğini, çocuklarıyla ilgilenirken eğitimini sürdürdüğünü anlattı.
+
+Konceli gençlere okulda öğrendikleriyle yetinmemelerini, yabancı dil öğrenmelerini ve yeni beceriler kazanmalarını tavsiye etti.
+
+---
+
 ## Eskişehir'de SEM'e atıcılık, badminton, güreş ve kano için sporcu alımı başladı
 
 **Spor · Merkez** · 2026-10-22 09:32 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/304908/2026-2027-sem-basvurulari.aspx)
@@ -493,39 +529,5 @@ Gösteri; Frigya uygarlığından Roma dönemine, Nasrettin Hoca'dan Yunus Emre'
 Feratan, Eskişehir'in zengin kültürünü sahneye yansıtmanın uzun süredir hayali olduğunu söyledi. 2012'de Türk Dünyası Kültür Başkenti kapsamında benzer bir gösteri hazırladıklarını, üniversite bünyesinde de benzer çalışmalar yaptıklarını belirten Feratan, projeyi bu kez güncellenmiş bir yapıda ve farklı müzikal düzenlemelerle izleyiciye sunmayı hedeflediklerini aktardı.
 
 Topluluğun eğitmeni Oktay Şahin ise Odunpazarı'nın Eskişehir'in ilk yerleşim yeri olması nedeniyle projenin burada hayata geçirilmek istendiğini söyledi. Şahin, topluluğun 2014'ten bu yana farklı yaş gruplarına eğitim verdiğini, gösteri ve festivallere katıldığını belirtti. Yeni gösterinin Odunpazarı'na değer katacağını ifade etti.
-
----
-
-## ESOGÜ'lü akademisyenlerden omuz MR'da yapay zekâ çalışması
-
-**Sağlık · Merkez** · 2026-10-21 18:47 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2063?tur=AkademikMakale)
-
-![](data/images/cf96fb567fc14bdd.jpg)
-
-> Eskişehir Osmangazi Üniversitesi'nden araştırmacıların omuz MR görüntülerinde rotator manşet yırtığını sınıflandıran yapay zekâ çalışması Journal of Clinical Medicine dergisinde yayımlandı.
-
-Eskişehir Osmangazi Üniversitesi Mühendislik-Mimarlık Fakültesi'nden Arş. Gör. Sergen Aşık ve Prof. Dr. Ahmet Yazıcı, Bilecik Şeyh Edebali Üniversitesi'nden Prof. Dr. Murat Aşçı ve Eskişehir Yunus Emre Devlet Hastanesi'nden Uzm. Dr. İrfan Okumuşer ile birlikte yürüttükleri makale, Q1 kategorisindeki Journal of Clinical Medicine dergisinde yayımlandı.
-
-Çalışmada, çok sekanslı omuz MR görüntüleri yaş, cinsiyet, vücut kitle indeksi ve inceleme tarafı gibi klinik bilgilerle birleştirilerek rotator manşet yırtıklarının sınıflandırılması için yapay zekâ modeli geliştirildi. Retrospektif çalışmada, 100'ünde yırtık bulunan ve 99'unda bulunmayan toplam 199 hastanın görüntüleri değerlendirildi.
-
-En başarılı model, yağ baskılı T2 sagittal, proton yoğunluklu koronal ve proton yoğunluklu aksiyel olmak üzere üç MR sekansını klinik verilerle birleştiren model oldu. Model 0,9961 ROC-AUC, yüzde 96 doğruluk ve yüzde 97,98 duyarlılık değerine ulaştı.
-
-Üç sekans kullanan modelin dört sekansın tamamını kullanan modelden daha yüksek performans göstermesi, daha fazla görüntü kullanmanın her zaman daha iyi sonuç vermeyebileceğini ortaya koydu. Araştırmacılar, görüntü sayısından çok hastalığa özgü bilgi sağlayan sekansların seçilmesinin önemli olduğunu belirtti. Yöntemin farklı hastane ve MR cihazlarından alınacak verilerle doğrulanması da klinik kullanım potansiyelinin değerlendirilmesine katkı sağlayacak.
-
----
-
-## Eskişehir'de "Mukaddes Emanetler" sergisi ziyarete açıldı
-
-**Kültür-Sanat · Merkez** · 2026-10-21 18:47 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberturk.com/gundem/foto/eskisehir-de-mukaddes-emanetler-sergisi-3921470)
-
-> MÜSİAD Eskişehir Şubesi'nin düzenlediği sergi, İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda açıldı. Sergi 25 Ekim'de sona erecek.
-
-Müstakil Sanayici ve İşadamları Derneği (MÜSİAD) Eskişehir Şubesi tarafından düzenlenen "Mukaddes Emanetler Sergisi", Eskişehir İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda ziyarete açıldı. Sergide Asr-ı Saadet dönemine ait kutsal emanetler yer alıyor.
-
-Açılış törenine Eskişehir Valisi Erdinç Yılmaz, Cumhuriyet Başsavcısı Ferhat Deniz, Adli Yargı Komisyonu Başkanı Arif Hamdi Sazak, Eskişehir Osmangazi Üniversitesi Rektörü Prof. Dr. Emine Gümüşsoy, İl Müftüsü Muharrem Gül, MÜSİAD Eskişehir Şube Başkanı Oğuz Özdemir, siyasi parti temsilcileri, kurum müdürleri ve vatandaşlar katıldı.
-
-Vali Yılmaz, serginin Hazreti Muhammed'i anmak ve manevi değerleri yaşatmak açısından önemli olduğunu belirterek organizasyonda emeği geçenlere teşekkür etti ve vatandaşları sergiyi ziyarete davet etti. Özdemir de sergiye ev sahipliği yapmaktan memnuniyet duyduklarını, bu tür etkinliklerin milli ve manevi değerlerin gelecek nesillere aktarılmasına katkı sağladığını söyledi.
-
-Koleksiyoner Erol Güzel'in küratörlüğünde düzenlenen sergide kutsal emanetlerin yanı sıra Kabe örtüleri, Sakal-ı Şerifler ve Kabe, Medine ile Kudüs maketleri bulunuyor. Sergi 25 Ekim'de sona erecek.
 
 ---
