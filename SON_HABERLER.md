@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 22 Ekim 2026: Gram altın 6.515,09 TL
+
+**Ekonomi · Merkez** · 2026-10-22 14:23 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261022.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.437,10 TL'den alınıyor, 6.515,09 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 17.23 itibarıyla verilerine göre gram altının satış fiyatı 6.515,09 TL, alış fiyatı 6.437,10 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,72 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.619 TL, yarım altın 21.231 TL, tam altın 42.326 TL, ata altın 43.086 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.085,32 TL, has altının gram fiyatı 6.495,02 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.049,00 dolardan işlem görürken, dolar/TL 49,69 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 17.23 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Vali Yılmaz, Ticaret Borsası Başkanı Ahmet Oğuz ve yönetimini kabul etti
 
 **Ekonomi · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-ticaret-borsasi-baskani-ahmet-oguz-ve-yonetimini-kabul-etti)
@@ -493,21 +513,5 @@ Tepebaşı Belediyesi'nin 16-23 Ekim tarihleri arasında düzenlediği Tepebaş�
 Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, gençlerin iklim kararlarına katılımını önemsediklerini söyledi. Ataç, önerileri kent yönetiminin karar süreçlerine taşımaya çalışacaklarını belirtti.
 
 Brezilya'daki Belém kentinden yola çıkıp COP31'in düzenleneceği Antalya'ya ulaşmayı hedefleyen COP31 Bike Ride ekibi, Türkiye'de İstanbul, Eskişehir, Ankara, Konya ve Antalya güzergâhını izliyor. Bisikletçiler 16 Ekim'de Özdilek Sanat Merkezi'nde karşılandı ve Başkan Ataç ile görüştü. Yolculuklarını anlatan "COP30BikeRide – Together" belgeseli 18 Ekim'de Tepebaşı Belediyesi Hizmet Binası Meclis Salonu'nda gösterildi.
-
----
-
-## Odunpazarı'nda Kış Dönemi Basketbol Spor Okulu için kayıtlar sürüyor
-
-**Spor · Odunpazarı** · 2026-10-21 20:49 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-kis-donemi-basketbol-spor-okulu-basliyor-cocuklar-basketbo)
-
-![](data/images/1758553e521e9f4b.jpg)
-
-> Odunpazarı Belediyesi'nin 2015, 2016 ve 2017 doğumlu çocuklara yönelik basketbol spor okulu için kayıtlar 23 Ekim'e kadar Mehmet Terzi Spor Salonu'nda alınıyor.
-
-Odunpazarı Belediyesi, çocukları sporla buluşturmak amacıyla Kış Dönemi Basketbol Spor Okulu açıyor. Okul 2015, 2016 ve 2017 doğumlu çocuklara yönelik.
-
-Kayıtlar 19-23 Ekim tarihleri arasında Mehmet Terzi Spor Salonu'nda şahsen yapılıyor. Kayıt sırasında kimlik ibrazı zorunlu.
-
-Basketbol eğitimleri cumartesi ve pazar günleri 13.00-14.00 saatleri arasında verilecek. Spor okulu kapsamında malzeme ücreti olarak 1.250 TL alınacak. Ücretler nakit tahsil edilecek, ayrıntılı bilgi kayıt sırasında ailelerle paylaşılacak.
 
 ---
