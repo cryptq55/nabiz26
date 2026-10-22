@@ -1,7 +1,8 @@
 """Yeni haberleri Instagram'a paylaşır (Instagram Graph API, içerik yayınlama).
 
-Görseller sitede yayınlandıktan sonra çalışır: nabiz26.com/social/feed.json okunur, henüz
-paylaşılmamış haberler story olarak, fotoğraflı olanların en yenisi de gönderi olarak paylaşılır.
+Görseller sitede yayınlandıktan sonra çalışır: nabiz26.com/social/feed.json okunur ve haberler editörün verdiği
+önem puanına göre dağıtılır: her yeni haber story; önemi 3 ve üzeri fotoğraflı haberler gönderi; önemi 4-5 olanların
+en yenisi Reels (reels.py ile üretilir, Cloudflare R2'ye yüklenir; R2 ayarları yoksa Reels atlanır).
 Paylaşılanlar data/instagram.json dosyasında tutulur.
 
 Yöntem: "Instagram girişi ile Instagram API" (graph.instagram.com). Facebook sayfası, işletme
@@ -15,6 +16,7 @@ isteğe bağlı GRAPH_VERSION. Eski Facebook-girişli token kullanılacaksa IG_A
 import json
 import os
 import sys
+import tempfile
 import time
 import urllib.parse
 import urllib.request
@@ -25,7 +27,9 @@ STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_STORIES = 6   # tur başına
-MAX_POSTS = 1     # tur başına; akışı boğmamak için
+MAX_POSTS = 2     # tur başına; akışı boğmamak için
+MAX_REELS = 1     # tur başına
+POST_MIN, REEL_MIN = 3, 4  # gönderi ve Reels için en düşük önem puanı
 
 
 def call(method, path, **params):
@@ -41,9 +45,9 @@ def call(method, path, **params):
         raise RuntimeError(e.read().decode()[:500]) from None
 
 
-def publish(user, **media):
+def publish(user, tries=20, **media):
     container = call("POST", f"{user}/media", **media)["id"]
-    for _ in range(20):  # Instagram görseli işleyene kadar bekle
+    for _ in range(tries):  # Instagram görseli/videoyu işleyene kadar bekle
         status = call("GET", container, fields="status_code").get("status_code")
         if status == "FINISHED":
             break
@@ -51,6 +55,28 @@ def publish(user, **media):
             raise RuntimeError("Instagram görseli işleyemedi")
         time.sleep(3)
     return call("POST", f"{user}/media_publish", creation_id=container)["id"]
+
+
+def upload_r2(path, key):
+    """Videoyu Cloudflare R2'ye yükler ve herkese açık adresini döndürür (Instagram videoyu adresten çeker)."""
+    import boto3
+    s3 = boto3.client("s3", endpoint_url=f"https://{os.environ['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com",
+                      aws_access_key_id=os.environ["R2_ACCESS_KEY_ID"],
+                      aws_secret_access_key=os.environ["R2_SECRET_ACCESS_KEY"], region_name="auto")
+    s3.upload_file(str(path), os.environ["R2_BUCKET"], key, ExtraArgs={"ContentType": "video/mp4"})
+    return f"{os.environ['R2_PUBLIC_URL'].rstrip('/')}/{key}"
+
+
+def make_reel_video(slug):
+    """Haberin Reels videosunu üretir ve R2'ye yükler; video adresini döndürür."""
+    import build
+    import reels
+    a = next(x for x in build.load_articles() if x["slug"] == slug)
+    img = build.DATA_DIR.parent / a["image"]["file"] if a.get("image") else None
+    out = Path(tempfile.gettempdir()) / f"{slug[:60]}.mp4"
+    voiced = reels.make_reel(a, img, out)
+    print("reels videosu:", slug, "sesli" if voiced else "sessiz")
+    return upload_r2(out, f"reels/{slug[:80]}.mp4")
 
 
 def refresh():
@@ -82,10 +108,24 @@ def main():
                                      headers={"User-Agent": "Mozilla/5.0 (compatible; nabiz26-bot)"})
         with urllib.request.urlopen(req, timeout=30) as r:
             feed = json.load(r)
+    state.setdefault("reels", [])
     if not state["stories"] and not state["posts"]:
         # İlk çalıştırmada eski haberlerin hepsini birden paylaşma: en yeni 2 haberle başla
         state["stories"] = [f["slug"] for f in feed[2:]]
         state["posts"] = [f["slug"] for f in feed[2:]]
+    if not state["reels"]:
+        state["reels"] = [f["slug"] for f in feed[3:]]  # Reels geriye dönük üretilmesin
+    imp = lambda f: int(f.get("importance") or 3)
+    # Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
+    if os.environ.get("R2_BUCKET"):
+        for f in [f for f in feed if imp(f) >= REEL_MIN and f["slug"] not in state["reels"]][:MAX_REELS]:
+            try:
+                url = make_reel_video(f["slug"])
+                mid = publish(user, tries=60, media_type="REELS", video_url=url, caption=f["caption"], share_to_feed="true")
+                print("reels:", f["slug"], mid)
+            except Exception as e:
+                print("reels hatası:", f["slug"], str(e)[:300], file=sys.stderr)
+            state["reels"].append(f["slug"])  # hata verse de tekrar denenmesin
     new = [f for f in reversed(feed) if f["slug"] not in state["stories"]]  # eskiden yeniye
     for f in new[-MAX_STORIES:]:
         try:
@@ -94,7 +134,9 @@ def main():
             state["stories"].append(f["slug"])
         except RuntimeError as e:
             print("story hatası:", f["slug"], e, file=sys.stderr)
-    for f in [f for f in feed if f["has_photo"] and f["slug"] not in state["posts"]][:MAX_POSTS]:
+    # Gönderi: önemi yeterli fotoğraflı haberler, en önemliler önce
+    cands = [f for f in feed[:12] if f["has_photo"] and imp(f) >= POST_MIN and f["slug"] not in state["posts"]]
+    for f in sorted(cands, key=imp, reverse=True)[:MAX_POSTS]:
         try:
             mid = publish(user, image_url=f["post"], caption=f["caption"])
             print("gönderi:", f["slug"], mid)
@@ -104,7 +146,8 @@ def main():
     # Atlananlar bir daha denenmesin
     for f in new[:-MAX_STORIES]:
         state["stories"].append(f["slug"])
-    state["stories"], state["posts"] = state["stories"][-500:], state["posts"][-500:]
+    for k in ("stories", "posts", "reels"):
+        state[k] = state[k][-500:]
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
