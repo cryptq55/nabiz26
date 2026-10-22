@@ -73,7 +73,7 @@ def _cover(im, w, h):
     return im.crop((left, top, left + w, top + h))
 
 
-def cover_image(path, w, h, color):
+def cover_image(path, w, h, color, whole=False):
     """Haber fotoğrafını alana yerleştirir; fotoğraf yoksa kategori renginde nabız desenli zemin çizer.
 
     Oranı alana yakın fotoğraflar kırpılarak doldurulur. Uzak olanlar (afiş, bilgi grafiği) kesilmesin
@@ -82,7 +82,7 @@ def cover_image(path, w, h, color):
     if path and Path(path).exists():
         im = Image.open(path).convert("RGB")
         ratio = (im.width / im.height) / (w / h)
-        if 0.8 <= ratio <= 1.3:
+        if 0.8 <= ratio <= 1.3 and not whole:
             return _cover(im, w, h)
         bg = _cover(im, w, h).filter(ImageFilter.GaussianBlur(40))
         bg = Image.blend(bg, Image.new("RGB", (w, h), NIGHT), 0.45)
@@ -170,7 +170,11 @@ def top_shade(im, height, strength=170):
 def framed(a, image_path, W, H, photo_h):
     """Üstte fotoğraf, altta koyu zemin: fotoğrafta yazı olsa da başlık okunur kalır."""
     im = Image.new("RGB", (W, H), NIGHT)
-    photo = top_shade(cover_image(image_path, W, photo_h, a["color"]), 240)
+    # Kendi ürettiğimiz kapaklar (Togg, altın, konu haberleri) üstünde yazı taşır: kırpılmadan bütün sığdırılır
+    card = (a.get("image") or {}).get("credit", "").startswith("Nabız 26")
+    photo = cover_image(image_path, W, photo_h, a["color"], whole=card)
+    if not card:
+        photo = top_shade(photo, 240)
     im.paste(photo, (0, 0))
     d = ImageDraw.Draw(im)
     # Fotoğrafla zemin arasında kategori renginde ince şerit
