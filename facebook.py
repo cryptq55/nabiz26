@@ -17,8 +17,8 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 STATE = ROOT / "data" / "facebook.json"
 GRAPH = f"https://graph.facebook.com/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
-MAX_POSTS, MAX_REELS = 2, 1  # tur başına
-POST_MIN, REEL_MIN = 3, 4
+MAX_POSTS, MAX_REELS = 2, 2  # tur başına
+POST_MIN, REEL_MIN = 3, 3
 
 
 def call(path, url=None, headers=None, **params):

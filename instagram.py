@@ -1,8 +1,8 @@
 """Yeni haberleri Instagram'a paylaşır (Instagram Graph API, içerik yayınlama).
 
 Görseller sitede yayınlandıktan sonra çalışır: nabiz26.com/social/feed.json okunur ve haberler editörün verdiği
-önem puanına göre dağıtılır: her yeni haber story; önemi 3 ve üzeri fotoğraflı haberler gönderi; önemi 4-5 olanların
-en yenisi Reels (reels.py ile üretilir, Cloudflare R2'ye yüklenir; R2 ayarları yoksa Reels atlanır).
+önem puanına göre dağıtılır: her yeni haber story; önemi 3 ve üzeri fotoğraflı haberler sesli Reels (reels.py ile
+üretilir, Cloudflare R2'ye yüklenir, akışta da görünür). R2 ayarı yoksa bu haberler fotoğraf gönderisi olur.
 Paylaşılanlar data/instagram.json dosyasında tutulur.
 
 Yöntem: "Instagram girişi ile Instagram API" (graph.instagram.com). Facebook sayfası, işletme
@@ -27,9 +27,9 @@ STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_STORIES = 4   # tur başına
-MAX_POSTS = 2     # tur başına; akışı boğmamak için
-MAX_REELS = 1     # tur başına
-POST_MIN, REEL_MIN = 3, 4  # gönderi ve Reels için en düşük önem puanı
+MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
+MAX_REELS = 2     # tur başına; akış video ağırlıklı: önemli haberler fotoğraf yerine Reels olur
+POST_MIN, REEL_MIN = 3, 3  # gönderi ve Reels için en düşük önem puanı
 
 
 def call(method, path, **params):
@@ -147,9 +147,11 @@ def main():
     print("kalan paylaşım hakkı:", left)
     # 1) Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
     forced = os.environ.get("REEL_SLUG", "").strip()  # elle seçilen haber (iş akışı girdisi)
+    failed = set()
     if os.environ.get("R2_BUCKET") and left > 0:
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
-                 [f for f in feed if imp(f) >= REEL_MIN and f["slug"] not in state["reels"]][:MAX_REELS])
+                 sorted([f for f in feed[:12] if f["has_photo"] and imp(f) >= REEL_MIN and f["slug"] not in state["reels"]],
+                        key=imp, reverse=True)[:min(MAX_REELS, max(0, left))])
         for f in picks:
             try:
                 url = make_reel_video(f["slug"])
@@ -158,9 +160,13 @@ def main():
                 left -= 1
             except Exception as e:
                 print("reels hatası:", f["slug"], str(e)[:300], file=sys.stderr)
+                failed.add(f["slug"])  # Reels olmadıysa fotoğraf gönderisi olarak paylaşılabilsin
             state["reels"].append(f["slug"])  # hata verse de tekrar denenmesin
     # 2) Gönderi: önemi yeterli fotoğraflı haberler, en önemliler önce
-    cands = [f for f in feed[:12] if f["has_photo"] and imp(f) >= POST_MIN and f["slug"] not in state["posts"]]
+    # Reels'i yapılan haber ayrıca fotoğraf gönderisi olmaz (Reels akışta da görünür)
+    reeled = set(state["reels"]) - failed if os.environ.get("R2_BUCKET") else set()
+    cands = [f for f in feed[:12] if f["has_photo"] and imp(f) >= POST_MIN
+             and f["slug"] not in state["posts"] and f["slug"] not in reeled]
     for f in sorted(cands, key=imp, reverse=True)[:min(MAX_POSTS, max(0, left))]:
         try:
             mid = publish(user, image_url=f["post"], caption=f["caption"])
