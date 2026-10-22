@@ -2,6 +2,60 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Piyano Günleri'nde Prof. Hülya Tarcan masterclass verdi
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/mahk3wtytmsfmkwwsbg0ozzt)
+
+![](data/images/bb8827254807c54a.jpg)
+
+> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri, Prof. Hülya Tarcan'ın öğrencilerle yaptığı masterclass çalışmasıyla sürdü.
+
+Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri, ikinci gününde masterclass çalışmasıyla devam etti. Mimar Sinan Güzel Sanatlar Üniversitesi Devlet Konservatuvarı'nda uzun yıllar görev yapan Prof. Hülya Tarcan, Anadolu Üniversitesi öğrencileriyle bir araya geldi.
+
+Çalışma, Halk Bilimi Uygulama ve Araştırma Merkezi Faris Akarsu Konser Salonu'nda yapıldı. Merkez Müdürü Prof. Oytun Eren, Doç. Özge Güncan ve çok sayıda öğrenci katıldı.
+
+Farklı sınıf ve seviyelerden piyano öğrencileri klasik müzik repertuvarından eserler seslendirdi. Prof. Tarcan, performansları teknik icra ve müzikal yorum açısından değerlendirdi ve öğrencilere önerilerde bulundu.
+
+Piyano Günleri, 24 Ekim'e kadar konser ve etkinliklerle sürecek.
+
+---
+
+## Anadolu Üniversitesi'nde psikanaliz ve eğitim ilişkisi konferansı yapıldı
+
+**Eğitim · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fmlmpd2nzwmd8kyjpy18epdu)
+
+![](data/images/ca6a6e037da095f8.jpg)
+
+> Anadolu Üniversitesi Eğitim Fakültesi'nde Akdeniz Üniversitesi'nden Doç. Dr. Yunus Pınar'ın katılımıyla psikanaliz ve eğitim konulu konferans düzenlendi.
+
+Anadolu Üniversitesi Eğitim Fakültesi'nde "Türkiye'de Psikanaliz ve Psikanaliz Eğitimi ile İlişkisi" başlıklı konferans düzenlendi. Prof. Dr. Şefik Yaşar Konferans Salonu'ndaki etkinliğe çok sayıda öğrenci ve akademisyen katıldı. Konuşmacı, Akdeniz Üniversitesi Eğitim Fakültesi'nden Doç. Dr. Yunus Pınar'dı.
+
+Pınar, psikanalitik kişilik kuramlarının erken çocukluk eğitimi üzerindeki etkilerini anlattı. Çocukların çizimlerinin iç dünyalarını yansıttığını belirten Pınar, çizimlerin yalnızca biçimsel ve teknik ölçütlerle değerlendirilmemesi, yetişkin estetik ölçütlerinin çocukların ifade alanını sınırlamaması gerektiğini söyledi. Eğitimin amacının tek tip kalıplar dayatmak olmaması gerektiğini ifade etti.
+
+Konferansta Selçuklu ve Osmanlı dönemlerindeki darüşşifalardan modern kliniklere uzanan psikiyatri tarihi de ele alındı. Cumhuriyet döneminde Dr. Mazhar Osman öncülüğünde kurulan Bakırköy Ruh ve Sinir Hastalıkları Hastanesi'nin ergoterapi temelli yapısına değinildi. Pınar, araştırmacıların olayları dogmatik değil sorgulayıcı bir bakış açısıyla ele almaları gerektiğini de vurguladı.
+
+Konferans, soru-cevap bölümünün ardından Pınar'a teşekkür belgesi takdim edilmesiyle sona erdi.
+
+---
+
+## Anadolu Üniversitesi Cam Bölümü Amsterdam'da ortak atölye ve sergi yaptı
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/khf4wnk189igunwttq03lv1r)
+
+![](data/images/638b595a906bd67e.jpg)
+
+> Anadolu Üniversitesi Güzel Sanatlar Fakültesi Cam Bölümü, Gerrit Rietveld Academie ile 5-9 Ekim'de Amsterdam'da ortak atölye çalışması yürüttü.
+
+Anadolu Üniversitesi Güzel Sanatlar Fakültesi Cam Bölümü, Hollanda'daki Gerrit Rietveld Academie ile yürüttüğü uluslararası iş birliğini Amsterdam'da sürdürdü. 5-9 Ekim 2026 tarihlerindeki programa Cam Bölümü'nden 10 öğrenci, Bölüm Başkanı Doç. Dr. Mehmet Aydın ve Prof. Dr. Selvin Yeşilay katıldı.
+
+Program kapsamında iki kurumun öğrencileri ve akademisyenleri ortak üretimler, uygulamalı atölyeler, akademik sunumlar ve teknik inceleme gezileri gerçekleştirdi. Çalışma grupları Gerrit Rietveld Academie'nin cam atölyelerinde sıcak cam üfleme ve açık alevde şekillendirme teknikleriyle üretim yaptı. İki öğrenci de Tiffany ve füzyon teknikleri üzerine bireysel çalışmalar yaptı.
+
+Prof. Dr. Yeşilay, "The Science of Glass: From Structure to Properties" başlıklı ders verdi. Derste camın yapısı, optik ve fiziksel özellikleri ile sıcaklığa bağlı davranışları ele alındı. Katılımcılar ayrıca Hollanda'nın Leerdam kentindeki Nationaal Glasmuseum ile De Glasblazerij cam üfleme atölyesini ve cam sanatçısı Bernard Heesen'in atölyesini ziyaret etti.
+
+Bir hafta süren program, ortak ve bireysel eserlerin yer aldığı bir sergiyle Gerrit Rietveld Academie'de tamamlandı.
+
+---
+
 ## Anadolu Üniversitesi'nde öğretmen adaylarına Canva yapay zekâ atölyesi düzenlendi
 
 **Eğitim · Tepebaşı** · 2026-10-21 23:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/oilbds5qwso79n0kw3spi2hv)
