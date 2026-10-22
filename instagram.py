@@ -27,7 +27,9 @@ SITE = "https://nabiz26.com"
 STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
-MAX_STORIES = 4   # tur başına
+MAX_STORIES = 2   # tur başına
+DAILY_CAP = 22    # 24 saatte en fazla paylaşım (yeni hesapta Instagram'ın fiili sınırı API'nin söylediğinden düşük);
+                  # günlük iki video bülten için birkaç hak ayrıca boş kalır
 MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
 MAX_REELS = 2     # tur başına; yalnızca editörün "reel" işaretlediği (önemli ve izlenecek) haberler
 POST_MIN = 3      # fotoğraf gönderisi için en düşük önem puanı
@@ -144,25 +146,31 @@ def main():
     if not state["reels"]:
         state["reels"] = [f["slug"] for f in feed[3:]]  # Reels geriye dönük üretilmesin
     imp = lambda f: int(f.get("importance") or 3)
-    left = quota_left(user) - 1  # bir hak yedekte kalsın
+    now = time.time()
+    state["log"] = [t for t in state.get("log", []) if now - t < 86400]
+    left = min(quota_left(user) - 1, DAILY_CAP - len(state["log"]))  # bir hak yedekte kalsın
     print("kalan paylaşım hakkı:", left)
     # 1) Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
     forced = os.environ.get("REEL_SLUG", "").strip()  # elle seçilen haber (iş akışı girdisi)
     failed = set()
     if os.environ.get("R2_BUCKET") and left > 0:
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
-                 sorted([f for f in feed[:12] if f["has_photo"] and f.get("reel") and f["slug"] not in state["reels"]],
+                 sorted([f for f in feed[:12] if f["has_photo"] and f.get("reel") and f["slug"] not in state["reels"]
+                         and (f.get("local", True) or imp(f) >= 5)],  # Reels yerel ağırlıklı
                         key=imp, reverse=True)[:min(MAX_REELS, max(0, left))])
         for f in picks:
             try:
                 url = make_reel_video(f["slug"])
                 mid = publish(user, tries=60, media_type="REELS", video_url=url, caption=f["caption"], share_to_feed="true")
                 print("reels:", f["slug"], mid)
+                state["log"].append(time.time())
                 left -= 1
             except Exception as e:
                 print("reels hatası:", f["slug"], str(e)[:300], file=sys.stderr)
+                if LIMITED:
+                    continue  # Instagram sınırı: Reels sonraki turda yeniden denensin
                 failed.add(f["slug"])  # Reels olmadıysa fotoğraf gönderisi olarak paylaşılabilsin
-            state["reels"].append(f["slug"])  # hata verse de tekrar denenmesin
+            state["reels"].append(f["slug"])  # başka bir hata verse de tekrar denenmesin
     # 2) Gönderi: önemi yeterli fotoğraflı haberler, en önemliler önce
     # Reels'i yapılan haber ayrıca fotoğraf gönderisi olmaz (Reels akışta da görünür)
     reeled = set(state["reels"]) - failed if os.environ.get("R2_BUCKET") else set()
@@ -172,6 +180,7 @@ def main():
         try:
             mid = publish(user, image_url=f["post"], caption=f["caption"])
             print("gönderi:", f["slug"], mid)
+            state["log"].append(time.time())
             state["posts"].append(f["slug"])
             left -= 1
         except RuntimeError as e:
@@ -183,6 +192,7 @@ def main():
         try:
             mid = publish(user, image_url=f["story"], media_type="STORIES")
             print("story:", f["slug"], mid)
+            state["log"].append(time.time())
             state["stories"].append(f["slug"])
         except RuntimeError as e:
             print("story hatası:", f["slug"], e, file=sys.stderr)

@@ -389,6 +389,7 @@ def main():
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),
                      "importance": int(a.get("importance") or 3),
                      "reel": bool(a.get("reel", int(a.get("importance") or 3) >= 4)),
+                     "local": a.get("district") != "Türkiye",
                      "post": f"{SITE['url']}/{a['social']['post']}", "story": f"{SITE['url']}/{a['social']['story']}",
                      "caption": caption, "published_at": a["published_at"]})
     (OUT / "social" / "feed.json").write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding="utf-8")
