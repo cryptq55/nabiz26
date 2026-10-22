@@ -65,7 +65,9 @@ jobs:
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
           R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
-          # Seslendirme (tanımlı değilse Reels sessiz üretilir)
+          # Seslendirme: OpenAI (ya da ElevenLabs); tanımlı değilse Reels sessiz üretilir
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_TTS_VOICE: ${{ vars.OPENAI_TTS_VOICE }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
           # Facebook sayfası (tanımlı değilse atlanır)

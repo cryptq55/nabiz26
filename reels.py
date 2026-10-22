@@ -1,7 +1,8 @@
 """Instagram Reels (1080x1920 MP4) üretir: haber fotoğrafı yavaşça kayar, başlık ve altyazılar akar, sonda kapanış kartı.
 
-Seslendirme isteğe bağlıdır: ELEVENLABS_API_KEY tanımlıysa haber metni ElevenLabs ile okunur ve altyazılar
-sesin kelime zamanlarına oturtulur; tanımlı değilse video sessiz üretilir, altyazılar okuma hızına göre akar.
+Seslendirme isteğe bağlıdır: OPENAI_API_KEY tanımlıysa haber metni OpenAI ile okunur (gpt-4o-mini-tts), altyazılar
+sesin süresine göre noktalama duraklarıyla dağıtılır. ELEVENLABS_API_KEY + ELEVENLABS_VOICE_ID tanımlıysa ElevenLabs
+kullanılır ve altyazılar harf harf sese oturur. İkisi de yoksa video sessiz üretilir.
 
 Kullanım (deneme):  python reels.py <haber-slug-parçası> [çıktı.mp4]
 """
@@ -48,11 +49,40 @@ def script(a, voiced=True):
     return text
 
 
+def audio_seconds(path):
+    out = subprocess.run([ffmpeg_bin(), "-i", str(path)], capture_output=True, text=True).stderr
+    h, m, sec = re.search(r"Duration: (\d+):(\d+):([\d.]+)", out).groups()
+    return int(h) * 3600 + int(m) * 60 + float(sec)
+
+
+def synthesize_openai(text, out_mp3):
+    """OpenAI ile seslendirir. Kelime zamanı vermediği için harf zamanları sesin süresine, noktalamada
+    duraklayarak orantılı dağıtılır (altyazı için yeterli)."""
+    body = json.dumps({"model": os.environ.get("OPENAI_TTS_MODEL") or "gpt-4o-mini-tts",
+                       "voice": os.environ.get("OPENAI_TTS_VOICE") or "onyx", "input": text, "response_format": "mp3",
+                       "instructions": "Türkçe yerel haber spikeri gibi oku: net, akıcı, tarafsız ve biraz hızlı. "
+                                       "Kurum ve yer adlarını doğru telaffuz et."}).encode()
+    req = urllib.request.Request("https://api.openai.com/v1/audio/speech", data=body,
+                                 headers={"Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
+                                          "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        Path(out_mp3).write_bytes(r.read())
+    total = audio_seconds(out_mp3)
+    weights = [1 + (6 if ch in ".!?" else 3 if ch in ",;:" else 0) for ch in text]
+    lead, tail = 0.15, 0.25
+    scale = (total - lead - tail) / sum(weights)
+    out, t = [], lead
+    for ch, w in zip(text, weights):
+        out.append((ch, t, t + w * scale))
+        t += w * scale
+    return out
+
+
 def synthesize(text, out_mp3):
-    """ElevenLabs ile seslendirir; mp3'ü yazar ve karakter zamanlarını döndürür. Anahtar yoksa None."""
+    """Seslendirir; mp3'ü yazar ve karakter zamanlarını döndürür. Anahtar yoksa None."""
     key = os.environ.get("ELEVENLABS_API_KEY")
     if not key or not VOICE_ID:
-        return None
+        return synthesize_openai(text, out_mp3) if os.environ.get("OPENAI_API_KEY") else None
     body = json.dumps({"text": text, "model_id": VOICE_MODEL, "language_code": "tr",
                        "voice_settings": {"stability": 0.5, "similarity_boost": 0.8, "style": 0.2}}).encode()
     req = urllib.request.Request(
