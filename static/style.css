@@ -417,3 +417,54 @@ a:hover .cover.photo img { transform: scale(1.04); }
 .ig-item b { display: block; font: 700 17px/1.25 var(--display); letter-spacing: -.015em; margin-top: 6px; }
 .ig-item:active { transform: scale(.99); }
 .ig-all { display: block; text-align: center; margin: 22px 0 0; padding: 16px; border-radius: 14px; background: var(--red); color: #fff; font: 800 18px var(--display); }
+
+/* ---------- Kent servisleri (hava durumu, namaz vakitleri) ---------- */
+.svc { max-width: 980px; }
+.svc .page-head h1.svc-title { font-size: clamp(38px, 6vw, 72px); }
+.svc-h2 { font: 800 24px/1.1 var(--display); letter-spacing: -.02em; margin: 34px 0 14px; }
+.svc-now { display: flex; align-items: center; gap: 34px; flex-wrap: wrap; padding: 26px 30px; border-radius: var(--radius); background: var(--card); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.svc-big { display: flex; align-items: center; gap: 14px; }
+.svc-icon { font-size: 64px; line-height: 1; }
+.svc-big b { font: 800 clamp(64px, 9vw, 96px)/1 var(--display); letter-spacing: -.05em; }
+.svc-desc { margin: 0 0 10px; font: 700 22px var(--display); }
+.svc-facts { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 20px; color: var(--muted); font: 500 14.5px var(--sans); }
+.svc-facts b { color: var(--ink); }
+.svc-hours { display: grid; grid-template-columns: repeat(8, minmax(84px, 1fr)); gap: 10px; overflow-x: auto; padding-bottom: 4px; }
+.svc-hours div { display: grid; justify-items: center; gap: 4px; padding: 12px 8px; border-radius: 14px; background: var(--card); border: 1px solid var(--line); font: 600 13px var(--sans); color: var(--muted); }
+.svc-hours i { font-style: normal; font-size: 26px; }
+.svc-hours b { color: var(--ink); font: 800 18px var(--display); }
+.svc-hours small { color: #0284c7; font-weight: 700; }
+.svc-table { width: 100%; border-collapse: collapse; font: 500 15px var(--sans); background: var(--card); border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); }
+.svc-table th { text-align: left; font: 700 11.5px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); padding: 12px 14px; border-bottom: 1px solid var(--line); }
+.svc-table td { padding: 11px 14px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.svc-table tr:last-child td { border-bottom: 0; }
+.svc-table tr.on td { background: color-mix(in srgb, var(--red) 9%, transparent); font-weight: 700; }
+.svc-dim { color: var(--muted); font-size: 14px; }
+.svc-table .svc-dim { font-size: 13px; }
+.svc-note { margin: 16px 0 0; color: var(--muted); font-size: 14px; line-height: 1.6; }
+.svc-places { display: flex; flex-wrap: wrap; gap: 8px; }
+.svc-places a { padding: 8px 14px; border-radius: 999px; background: var(--card); border: 1px solid var(--line); font: 600 14px var(--sans); }
+.svc-places a:hover, .svc-places a.on { border-color: var(--red); color: var(--red); }
+.svc-places b { color: var(--muted); font-weight: 700; margin-left: 4px; }
+.svc-prayers { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
+.svc-prayers div { display: grid; gap: 6px; padding: 18px 14px; border-radius: 16px; background: var(--card); border: 1px solid var(--line); text-align: center; }
+.svc-prayers span { font: 700 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.svc-prayers b { font: 800 30px/1 var(--display); letter-spacing: -.03em; }
+.svc-prayers .on { background: #059669; border-color: #059669; color: #fff; }
+.svc-prayers .on span { color: rgba(255, 255, 255, .85); }
+.svc-next { margin: 14px 0 4px; font: 700 18px var(--display); color: #059669; }
+@media (max-width: 760px) {
+  .svc-prayers { grid-template-columns: repeat(3, 1fr); }
+  .svc-table { display: block; overflow-x: auto; }
+  .svc-now { padding: 20px; gap: 18px; }
+}
+/* Ana sayfa: Bugün Eskişehir kutusu */
+.today-box { margin-bottom: 18px; }
+.today-w { display: flex; align-items: center; gap: 12px; padding-bottom: 14px; border-bottom: 1px solid var(--line); }
+.today-w span { font-size: 40px; line-height: 1; }
+.today-w b { font: 800 44px/1 var(--display); letter-spacing: -.04em; }
+.today-w em { font: 600 13.5px/1.35 var(--sans); color: var(--muted); font-style: normal; }
+.today-p { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 8px; padding-top: 14px; }
+.today-p span { display: grid; font: 800 17px var(--display); }
+.today-p small { font: 700 10.5px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.today-box a:hover b, .today-p:hover span { color: var(--red); }

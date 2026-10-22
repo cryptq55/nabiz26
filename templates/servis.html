@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{# Kent servisleri: hava durumu ve namaz vakitleri (Eskişehir ve ilçeler). Veri: data/servis.json (servis.py) #}
+{% block content %}
+<article class="svc">
+<header class="page-head" style="--c: {{ '#0284c7' if kind == 'hava' else '#059669' }}">
+  <span class="eyebrow">{{ 'Hava Durumu' if kind == 'hava' else 'Namaz Vakitleri' }} · {{ today_tr }}</span>
+  <h1 class="svc-title">{{ heading }}</h1>
+  <p>Son güncelleme {{ updated_tr }}{% if kind == 'namaz' %} · Diyanet hesap yöntemi{% endif %}</p>
+</header>
+
+{% if kind == 'hava' %}{% set w = place.weather %}
+<section class="svc-now">
+  <div class="svc-big"><span class="svc-icon">{{ wx(w.code)[1] }}</span><b>{{ w.temp }}°</b></div>
+  <div>
+    <p class="svc-desc">{{ wx(w.code)[0] }}</p>
+    <ul class="svc-facts">
+      <li>Hissedilen <b>{{ w.feels }}°</b></li><li>Rüzgâr <b>{{ w.wind }} km/s</b></li><li>Nem <b>%{{ w.humidity }}</b></li>
+      <li>Bugün <b>{{ w.days[0].min }}° / {{ w.days[0].max }}°</b></li>
+    </ul>
+  </div>
+</section>
+<h2 class="svc-h2">Saatlik tahmin</h2>
+<div class="svc-hours">{% for h in w.hours %}<div><span>{{ h.time }}</span><i>{{ wx(h.code)[1] }}</i><b>{{ h.temp }}°</b>{% if h.rain %}<small>%{{ h.rain }}</small>{% endif %}</div>{% endfor %}</div>
+<h2 class="svc-h2">7 günlük hava durumu</h2>
+<table class="svc-table">
+  <thead><tr><th>Gün</th><th></th><th>En düşük</th><th>En yüksek</th><th>Yağış</th><th>Rüzgâr</th></tr></thead>
+  <tbody>{% for d in w.days %}<tr{% if loop.first %} class="on"{% endif %}><td>{{ dayname(d.date) }}</td><td title="{{ wx(d.code)[0] }}">{{ wx(d.code)[1] }} <span class="svc-dim">{{ wx(d.code)[0] }}</span></td><td>{{ d.min }}°</td><td><b>{{ d.max }}°</b></td><td>%{{ d.rain }}{% if d.mm %} · {{ d.mm }} mm{% endif %}</td><td>{{ d.wind }} km/s</td></tr>{% endfor %}</tbody>
+</table>
+<p class="svc-note">{{ name }} için tahminler Open-Meteo verisiyle her 3 saatte bir güncellenir. Meteorolojik uyarılar için Meteoroloji Genel Müdürlüğü duyurularını takip edin.</p>
+
+{% else %}{% set t = today_prayer %}
+<section class="svc-prayers" data-prayers='{{ t.times.items()|list|tojson }}'>
+  {% for k, v in t.times.items() %}<div data-p="{{ k }}"><span>{{ k }}</span><b>{{ v }}</b></div>{% endfor %}
+</section>
+<p class="svc-next" id="svc-next" hidden></p>
+<p class="svc-dim">{{ t.hijri }}</p>
+<h2 class="svc-h2">{{ name }} aylık namaz vakitleri</h2>
+<table class="svc-table">
+  <thead><tr><th>Tarih</th>{% for k in t.times %}<th>{{ k }}</th>{% endfor %}</tr></thead>
+  <tbody>{% for d in month %}<tr{% if d.date == t.date %} class="on"{% endif %}><td>{{ dayname(d.date) }}</td>{% for v in d.times.values() %}<td>{{ v }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+</table>
+<p class="svc-note">Vakitler {{ name }} merkezinin koordinatlarına göre Diyanet İşleri Başkanlığı hesap yöntemiyle hesaplanır; Diyanet'in yayımladığı takvimle bir iki dakikalık fark olabilir.</p>
+{% endif %}
+
+<h2 class="svc-h2">{{ 'İlçelerde hava durumu' if kind == 'hava' else 'İlçe ilçe namaz vakitleri' }}</h2>
+<nav class="svc-places">
+  {% for p in places %}<a href="{{ base }}{{ root }}{% if p != 'Eskişehir' %}/{{ p|slug }}{% endif %}{{ ext }}"{% if p == name %} class="on"{% endif %}>{{ p }}{% if kind == 'hava' and all_places[p].weather %} <b>{{ all_places[p].weather.temp }}°</b>{% endif %}</a>{% endfor %}
+</nav>
+<p class="svc-dim"><a href="{{ base }}{{ other_root }}{% if name != 'Eskişehir' %}/{{ name|slug }}{% endif %}{{ ext }}">{{ name }} {{ 'namaz vakitleri' if kind == 'hava' else 'hava durumu' }} →</a></p>
+</article>
+{% if kind == 'namaz' %}
+<script>
+(function () {
+  // Sonraki vakit Türkiye saatine (UTC+3) göre bulunur; ziyaretçinin saat dilimi ne olursa olsun
+  var box = document.querySelector("[data-prayers]"); if (!box) return;
+  var pairs = JSON.parse(box.dataset.prayers), el = document.getElementById("svc-next"), t = {};
+  var keys = pairs.map(function (p) { t[p[0]] = p[1]; return p[0]; });  // sıra korunur (imsaktan yatsıya)
+  function trMin() { var d = new Date(); return ((d.getUTCHours() + 3) % 24) * 60 + d.getUTCMinutes() + d.getUTCSeconds() / 60; }
+  function mins(v) { var p = v.split(":"); return +p[0] * 60 + +p[1]; }
+  function tick() {
+    var now = trMin(), k = keys.find(function (x) { return mins(t[x]) > now; }) || keys[0];
+    var left = mins(t[k]) - now; if (left < 0) left += 1440;  // yarının imsakı
+    box.querySelectorAll(".on").forEach(function (e) { e.classList.remove("on"); });
+    box.querySelector('[data-p="' + k + '"]').classList.add("on");
+    var h = Math.floor(left / 60), m = Math.round(left % 60);
+    el.hidden = false; el.textContent = k + " vaktine " + (h ? h + " sa " : "") + m + " dk kaldı";
+  }
+  tick(); setInterval(tick, 30000);
+})();
+</script>
+{% endif %}
+{% endblock %}

@@ -19,6 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from PIL import Image, ImageDraw
 
 from newsbot import CATEGORIES, DISTRICTS, slugify
+from servis import WEATHER
 from social import brand, build_social, cover_image, font
 
 ROOT = Path(__file__).parent
@@ -178,6 +179,13 @@ def main():
         "asset_v": hashlib.sha1(b"".join((ROOT / "static" / f).read_bytes() for f in ("style.css", "app.js"))).hexdigest()[:8],
     }
 
+    # Ana sayfadaki "Bugün Eskişehir" kutusu için anlık hava ve günün namaz vakitleri
+    svc_file = DATA_DIR.parent / "servis.json"
+    if svc_file.exists():
+        esk = json.loads(svc_file.read_text(encoding="utf-8"))["places"].get("Eskişehir", {})
+        common["svc_now"] = {"w": esk.get("weather"), "wx": WEATHER.get((esk.get("weather") or {}).get("code"), ("", "")),
+                             "p": next((d for d in esk.get("prayer") or [] if d["date"] == f"{now_tr:%d-%m-%Y}"), None)}
+
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
@@ -287,6 +295,54 @@ def main():
                 "section": a["category"], "tags": a.get("tags", [])},
                a=a, related=related, latest=latest, title=a["title"])
 
+    # Kent servisleri: hava durumu ve namaz vakitleri (Eskişehir + ilçeler), veri servis.yml ile 3 saatte bir yenilenir
+    servis_pages = []
+    svc_path = DATA_DIR.parent / "servis.json"
+    if svc_path.exists():
+        svc = json.loads(svc_path.read_text(encoding="utf-8"))
+        upd = to_tr_time(svc["updated"])
+        today_dmy = f"{now_tr:%d-%m-%Y}"
+
+        def dayname(d):
+            y, m, dd = (d.split("-") if len(d.split("-")[0]) == 4 else d.split("-")[::-1])
+            dt = datetime(int(y), int(m), int(dd))
+            return f"{dt.day} {TR_MONTHS[dt.month - 1]} {TR_DAYS[dt.weekday()]}"
+
+        helpers = {"wx": lambda c: WEATHER.get(c, ("", "")), "dayname": dayname, "places": list(svc["places"]),
+                   "all_places": svc["places"], "updated_tr": f"{upd.day} {TR_MONTHS[upd.month - 1]} {upd:%H:%M}",
+                   "today_tr": common["today"]}
+        for name, place in svc["places"].items():
+            slug = "" if name == "Eskişehir" else "/" + slugify(name)
+            w = place.get("weather")
+            if w:
+                p = f"hava-durumu{slug}.html"
+                d0 = w["days"][0]
+                render("servis.html", p, {
+                    "title": f"{name} Hava Durumu: Saatlik ve 7 Günlük Tahmin | {SITE['name']}",
+                    "description": (f"{name} hava durumu: şu an {w['temp']}°C, {WEATHER.get(w['code'], ('',))[0].lower()}. "
+                                    f"Bugün en düşük {d0['min']}°, en yüksek {d0['max']}°. Saatlik ve 7 günlük tahmin."),
+                    "ld": [crumbs(("Ana Sayfa", f"{SITE['url']}/"), ("Hava Durumu", abs_url("hava-durumu.html")),
+                                  *([(name, abs_url(p))] if slug else []))]},
+                    kind="hava", place=place, name=name, heading=f"{name} hava durumu", root="hava-durumu",
+                    other_root="namaz-vakitleri", title=f"{name} Hava Durumu", **helpers)
+                servis_pages.append(abs_url(p))
+            days = place.get("prayer") or []
+            today = next((d for d in days if d["date"] == today_dmy), None)
+            if today:
+                p = f"namaz-vakitleri{slug}.html"
+                i = days.index(today)
+                tt = today["times"]
+                render("servis.html", p, {
+                    "title": f"{name} Namaz Vakitleri ({now_tr.day} {TR_MONTHS[now_tr.month - 1]}): İmsak {tt['İmsak']}, Akşam {tt['Akşam']} | {SITE['name']}",
+                    "description": (f"{name} namaz vakitleri bugün: İmsak {tt['İmsak']}, Güneş {tt['Güneş']}, Öğle {tt['Öğle']}, "
+                                    f"İkindi {tt['İkindi']}, Akşam {tt['Akşam']}, Yatsı {tt['Yatsı']}. Aylık imsakiye."),
+                    "ld": [crumbs(("Ana Sayfa", f"{SITE['url']}/"), ("Namaz Vakitleri", abs_url("namaz-vakitleri.html")),
+                                  *([(name, abs_url(p))] if slug else []))]},
+                    kind="namaz", place=place, name=name, heading=f"{name} namaz vakitleri", root="namaz-vakitleri",
+                    other_root="hava-durumu", today_prayer=today, month=days[i:i + 30],
+                    title=f"{name} Namaz Vakitleri", **helpers)
+                servis_pages.append(abs_url(p))
+
     render("kunye.html", "kunye.html", {"title": f"Künye ve Yayın İlkeleri | {SITE['name']}",
                                         "description": f"{SITE['name']} künye bilgileri, yayın ilkeleri ve iletişim."},
            title="Künye ve Yayın İlkeleri")
@@ -302,7 +358,7 @@ def main():
                [(abs_url(f"ilce/{slugify(d)}.html"), next(a["published_at"] for a in articles if a["district"] == d))
                 for d in DISTRICTS if dist_counts.get(d) or any(a["district"] == d for a in articles)])
     (OUT / "sitemap.xml").write_text(env.get_template("sitemap.xml").render(
-        site=SITE, articles=articles, listing=listing, home_mod=articles[0]["published_at"] if articles else now.isoformat(),
+        site=SITE, articles=articles, listing=listing + [(u, now.astimezone(TR_TZ).replace(microsecond=0).isoformat()) for u in servis_pages], home_mod=articles[0]["published_at"] if articles else now.isoformat(),
         kunye=abs_url("kunye.html")), encoding="utf-8")
     # Google Haberler site haritası: yalnızca son 48 saatin haberleri
     fresh = [a for a in articles if within(a, 48)][:1000]

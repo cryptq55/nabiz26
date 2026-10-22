@@ -49,6 +49,13 @@
     </div>
   </section>
   <aside class="sidebar">
+    {% if svc_now and svc_now.w %}
+    <div class="panel today-box">
+      <h3 class="panel-title">Bugün Eskişehir</h3>
+      <a class="today-w" href="{{ base }}hava-durumu{{ ext }}"><span>{{ svc_now.wx[1] }}</span><b>{{ svc_now.w.temp }}°</b><em>{{ svc_now.wx[0] }}<br>{{ svc_now.w.days[0].min }}° / {{ svc_now.w.days[0].max }}°</em></a>
+      {% if svc_now.p %}<a class="today-p" href="{{ base }}namaz-vakitleri{{ ext }}">{% for k, v in svc_now.p.times.items() %}<span><small>{{ k }}</small>{{ v }}</span>{% endfor %}</a>{% endif %}
+    </div>
+    {% endif %}
     <div class="panel sticky">
       <h3 class="panel-title"><i class="dot-live"></i>Akış</h3>
       <ol class="timeline">
