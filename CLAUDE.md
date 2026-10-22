@@ -31,6 +31,19 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   Her haber için 1200 px 16:9/4:3/1:1 görseller (`public/images/g/`, Google Discover/Haberler), tarihler +03:00,
   boş kategori/ilçe sayfaları noindex, Google Fonts sayfa çizimini bekletmeden yüklenir.
 
+## Kendi kendine çalışma (sahibine muhtaç olmadan)
+- **Sağlık kontrolü** (`saglik.yml`, saatte bir): gündüz son haber 3 saatten eskiyse yedek masa (`newsbot.py --auto`)
+  çalışır: önce Anthropic API, kredi yoksa ücretsiz Gemini (`GEMINI_API_KEY`). Site açılmazsa ya da 8 saat haber
+  yoksa `saglik` etiketli GitHub kaydı açılır (sahibine e-posta), düzelince kapanır.
+- **Aktarıcı** (`relay/`, Cloudflare Worker `nabiz26-relay`): yurt dışı/bot engelli kurum siteleri (Beylikova) Avrupa'ya
+  sabitli Durable Object üzerinden okunur (`newsbot.RELAY_HOSTS`). Büyükşehir yalnızca Türkiye IP'sine açık; aktarıcı
+  da aşamıyor, onun haberleri Google Haberler kayıtlarından kendi kapağımızla (`topic: yerel`, `brand_cover`) gelir.
+  Dikkat: `relay/` içinde `wrangler deploy --config ./wrangler.toml` kullanın; aksi halde kök ayarla site yayınlanır.
+- **Kaynak kontrolü** (`kaynak-kontrol.yml`, elle): kaynakların yurt dışı sunucudan erişimini raporlar.
+- **Kent rehberi** (`servis.py` + `servis.yml`, 3 saatte bir): /hava-durumu ve /namaz-vakitleri (+14 ilçe) sayfaları.
+- Büyüme fikirleri sırada: nöbetçi eczane (Eczacı Odası sitesi bot engelli), planlı elektrik (OEDAŞ formla sorgu),
+  su kesintisi (ESKİ), Eskişehirspor fikstür.
+
 ## Kurallar
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
   İstisna: konu kaynakları (Togg) ve altın haberi için kendi tasarımımız olan kapak (`social.topic_card`) üretilir.
