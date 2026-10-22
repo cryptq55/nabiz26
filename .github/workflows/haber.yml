@@ -8,6 +8,11 @@ on:
     branches: [main]
     paths: ["data/articles/**"]
   workflow_dispatch:
+    inputs:
+      reel:
+        description: "Reels'i yapılacak haberin adresinden bir parça (boş bırakılırsa önem puanına göre seçilir)"
+        required: false
+        default: ""
 
 permissions:
   contents: write   # Instagram paylaşım kaydını (data/instagram.json) güncellemek için
@@ -66,6 +71,7 @@ jobs:
           # Facebook sayfası (tanımlı değilse atlanır)
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          REEL_SLUG: ${{ github.event.inputs.reel }}
         run: |
           if [ -n "$R2_BUCKET" ]; then pip install -q boto3; command -v ffmpeg >/dev/null || sudo apt-get install -y -q ffmpeg; fi
           python3 instagram.py

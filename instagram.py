@@ -117,8 +117,11 @@ def main():
         state["reels"] = [f["slug"] for f in feed[3:]]  # Reels geriye dönük üretilmesin
     imp = lambda f: int(f.get("importance") or 3)
     # Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
+    forced = os.environ.get("REEL_SLUG", "").strip()  # elle seçilen haber (iş akışı girdisi)
     if os.environ.get("R2_BUCKET"):
-        for f in [f for f in feed if imp(f) >= REEL_MIN and f["slug"] not in state["reels"]][:MAX_REELS]:
+        picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
+                 [f for f in feed if imp(f) >= REEL_MIN and f["slug"] not in state["reels"]][:MAX_REELS])
+        for f in picks:
             try:
                 url = make_reel_video(f["slug"])
                 mid = publish(user, tries=60, media_type="REELS", video_url=url, caption=f["caption"], share_to_feed="true")
