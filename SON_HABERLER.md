@@ -2,6 +2,86 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Mukaddes Emanetler Sergisi'ne Eskişehir'de yoğun ilgi: Metrelerce kuyruk oluştu
+
+**Kültür-Sanat · Merkez** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.saraymedya.com/haber/eskisehir-de-mukaddes-emanetler-sergisi-yogun-ilgi-gordu_316578/)
+
+![](data/images/962fe0045f0c5415.jpg)
+
+> İl Kültür ve Turizm Müdürlüğü Sergi Salonu'ndaki sergiyi görmek isteyen vatandaşlar uzun kuyruklar oluşturdu.
+
+Eskişehir İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda açılan Mukaddes Emanetler Sergisi'ne vatandaşlar yoğun ilgi gösterdi. Sergiyi görmek isteyenler metrelerce kuyruk oluşturdu.
+
+Saray Medya'nın haberine göre Asr-ı Saadet'ten Osmanlı dönemine uzanan 150'den fazla kutsal emanetin sergilendiği etkinlik, koleksiyoner Erol Güzel ile MÜSİAD Eskişehir Şubesi'nin iş birliğiyle düzenleniyor. Sergi, Eskişehir'de bu kadar geniş kapsamda ilk kez sunuluyor.
+
+Ziyaretçiler, Sakal-ı Şerif ve Kabe örtülerini görmek için saatlerce beklediklerini söyledi. Bazı ziyaretçiler 2-3 saattir sırada beklediklerini, sabahtan geldiklerini ifade etti. Genç ziyaretçiler de sergiden memnun kaldıklarını belirtti.
+
+---
+
+## MSB haftalık toplantıda hudut güvenliği ve Libya mutabakatını açıkladı
+
+**Türkiye · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/milli-savunma-bakanligi-hudut-guvenligi-ve-uluslararasi-askeri-is-birliklerini-acikladi-52090)
+
+![](data/images/cd03f7f471fb35f6.jpg)
+
+> Milli Savunma Bakanlığı Sözcüsü Tuğamiral Zeki Aktürk haftalık basın toplantısında sınır güvenliği verilerini ve uluslararası iş birliklerini anlattı.
+
+Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, haftalık basın bilgilendirme toplantısında terörle mücadele, sınır güvenliği ve uluslararası askerî iş birliklerine ilişkin açıklamalarda bulundu.
+
+Aktürk, hafta içinde 4 PKK mensubunun teslim olduğunu bildirdi. Sınırı yasa dışı yollarla geçmeye çalışan 364 kişinin yakalandığını, 2 bin 47 kişinin ise sınırın ötesine geçemeden engellendiğini söyledi. Yılbaşından bu yana yakalanan kişi sayısının 14 bin 207, engellenenlerin sayısının 56 bin 898 olduğunu açıkladı.
+
+Aktürk, Türkiye ile Libya arasında yürürlüğe giren Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası'nın Libya Temsilciler Meclisi tarafından 20 Ekim'de onaylandığını belirtti. Ayrıca Türkiye, Katar, Endonezya ve Pakistan arasındaki askerî iş birliği kapsamında "Bedir Mutabakat Zaptı"nın 21 Ekim'de Doha'da imzalandığını aktardı.
+
+---
+
+## "İyilik Var" gönüllülük platformuna bir ayda 20 bin kişi katıldı
+
+**Türkiye · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/iyilik-varda-bir-ayda-gonullu-sayisi-20-bine-ulasti/)
+
+![](data/images/230ea763cb6eaeb8.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanlığı'nın dijital gönüllülük platformu "İyilik Var", bir ayda 20 bin gönüllüye ulaştı.
+
+Aile ve Sosyal Hizmetler Bakanlığı'nın gönüllülük faaliyetlerine katılımı artırmak amacıyla hayata geçirdiği dijital platform "İyilik Var" ile bir ayda 20 bin vatandaş gönüllülük hareketine dahil oldu.
+
+Platform üzerinden bireysel ve kurumsal gönüllüler; sosyo-kültürel, çevre, eğitim, sanat, spor, psikososyal, bilişsel-gelişimsel, eğlence ve bilim gibi alanlardaki etkinliklere katılabiliyor. Etkinlikler, bakanlığın bağlı kuruluşları ve il müdürlükleri tarafından belirlenen ihtiyaç alanlarına göre planlanıyor. Platformdaki haritada iyilik alanlarının yoğunluğu illere göre farklı renklerle gösteriliyor.
+
+Bakanlığın açıklamasına göre 81 ilde toplam 1088 iyilik alanı oluşturuldu. Platforma ilişkin bilgilere www.iyilikvar.gov.tr adresinden ulaşılabiliyor.
+
+---
+
+## Eskişehir Büyükşehir Belediyesi büfe, çay bahçesi ve otopark için 4 Kasım'da ihale yapacak
+
+**Belediye · Merkez** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediyesi-yeni-bufe-ve-cay-bahceleri-icin-ihaleye-cikiyor-a585d780)
+
+![](data/images/525a4704e90905fd.jpg)
+
+> Büyükşehir Belediyesi, kentin farklı noktalarındaki büfe ve çay bahçesi alanları ile 140 araç kapasiteli katlı otoparkı açık artırmayla kiraya verecek.
+
+Eskişehir Büyükşehir Belediyesi, kentin farklı noktalarında hizmet verecek büfe, çay bahçesi ve çiçekçi alanları ile 140 araç kapasiteli katlı otoparkın kiraya verilmesi için 4 Kasım Çarşamba günü ihaleye çıkacak. İhale, Satın Alma Dairesi Başkanlığı tarafından 2886 sayılı Devlet İhale Kanunu'nun 45. maddesi uyarınca açık artırma usulüyle yapılacak.
+
+İhale kapsamında belediyeye ait 4 büfe ile işletmeciler tarafından yaptırılacak 12 büfe kiralanacak. Büfe yapılması planlanan noktalar arasında 71 Evler Mahallesi (Şehir Hastanesi yanı), Muttalip Orta Mahallesi, Uluönder Mahallesi, Akarbaşı Mahallesi, Sümer Park ve Büyük Park girişi yer alıyor. Babalar Parkı, Söğütönü Parkı, Pati Park yanı ve Batıkent'te tenis kortları yanındaki alanlar büfe ve çay bahçesi olarak kiraya verilecek. Ulus Anıtı Meydanı'nda ise 3 çiçekçi büfesi için ihale yapılacak.
+
+Odunpazarı ilçesi Şarkiye Mahallesi'ndeki 140 araç kapasiteli katlı otopark da kiralanacak. İhaleye katılmak isteyenlerin ikametgâh belgesi, imza sirküleri, nüfus cüzdanı fotokopisi, geçici teminat makbuzu veya banka teminat mektubu, şartname alındı makbuzu ve Gelir Müdürlüğü'nden alınacak "borcu yoktur" yazısını hazırlaması gerekiyor.
+
+---
+
+## CHP Kadın Kolları Genel Başkanı Gülsever, Kadirli'de 87 yaşındaki H. T.'yi ziyaret etti
+
+**Siyaset · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - CHP](https://www.medyagazete.com/haber/chp-kadin-kollari-genel-baskani-gulseverden-huru-teyzeye-ziyaret-1467158)
+
+![](data/images/afb0ab41755a696f.jpg)
+
+> CHP Kadın Kolları Genel Başkanı Ayten Gülsever, Osmaniye'nin Kadirli ilçesinde geçimini pazarda sağlamaya çalışan yaşlı bir kadını ziyaret ederek barınma ve gelir sorununa dikkat çekti.
+
+CHP Kadın Kolları Genel Başkanı Ayten Gülsever, Osmaniye'nin Kadirli ilçesinde 87 yaşında olmasına rağmen geçimini sağlamaya çalışan H. T.'yi ziyaret etti. Ziyarette CHP Osmaniye İl Başkanı Rıza Tekerek ve yönetim kurulu üyeleri de yer aldı.
+
+Gülsever'in açıklamasına göre H. T., herhangi bir geliri olmadan kömürlükte yaşıyor ve kızının dağdan topladığı nanelerin kurutulup satılmasıyla geçimini sağlamaya çalışıyor. Gülsever, 87 yaşındaki bir vatandaşın bu koşullarda yaşam mücadelesi vermesinin sosyal devlet anlayışı açısından ciddi bir sorun olduğunu söyledi.
+
+Gülsever, CHP Genel Başkanı Kemal Kılıçdaroğlu'nun talimatıyla harekete geçtiklerini, Osmaniye İl Başkanlığı ile salı gününden itibaren iletişim kurduklarını anlattı. Konunun gündeme gelmesinin ardından Osmaniye milletvekillerinin ve Kadirli Belediyesi'nin de harekete geçtiğini belirten Gülsever, atılan adımları sevindirici bulduğunu ifade etti.
+
+---
+
 ## Odunpazarı'nda foseptik çukuruna düşen at AFAD ekiplerince kurtarıldı
 
 **Gündem · Odunpazarı** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.nefes.com.tr/evden-kacip-foseptik-cukuruna-dusen-ati-afad-kurtardi-159947)
@@ -405,85 +485,5 @@ Kriz bununla da sınırlı kalmadı. 23-25 Ekim'de Kentpark'ta yapılacak Şehir
 26 Eylül'deki 3. İnönü Havacılık Festivali de hazırlıkları tamamlanmışken güçlü rüzgâr nedeniyle iptal edildi ve yeni bir tarih açıklanmadı. 7 Ekim'deki Yalın konseri ise bilet sahiplerine gönderilen bir mesajla iptal edildi; kararın gerekçesi kamuoyuyla paylaşılmadı, prodüksiyon şirketi yalnızca konserin bahara kaldığını bildirdi. Porsuk Festivali kapsamındaki "Yıldız" adlı tiyatro oyunu da sağlık sorunu gerekçesiyle sahnelenemedi.
 
 Art arda gelen iptaller, kentte etkinlik düzenleyen firmaların nasıl denetlendiği, açık hava etkinliklerinde hava koşullarına karşı neden bir yedek plan bulunmadığı, bilet iadelerinin tamamlanıp tamamlanmadığı ve Food Vibe Fest'te zarar eden esnafın kayıplarının kim tarafından karşılanacağı sorularını gündeme getirdi. Nabız 26, bu soruların yanıtlarının peşini bırakmayacak.
-
----
-
-## Altın fiyatları 22 Ekim 2026: Gram altın 6.515,09 TL
-
-**Ekonomi · Merkez** · 2026-10-22 14:23 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261022.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.437,10 TL'den alınıyor, 6.515,09 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 17.23 itibarıyla verilerine göre gram altının satış fiyatı 6.515,09 TL, alış fiyatı 6.437,10 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,72 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.619 TL, yarım altın 21.231 TL, tam altın 42.326 TL, ata altın 43.086 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.085,32 TL, has altının gram fiyatı 6.495,02 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.049,00 dolardan işlem görürken, dolar/TL 49,69 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 17.23 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Vali Yılmaz, Ticaret Borsası Başkanı Ahmet Oğuz ve yönetimini kabul etti
-
-**Ekonomi · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-ticaret-borsasi-baskani-ahmet-oguz-ve-yonetimini-kabul-etti)
-
-![](data/images/12e271bf41df6bd1.jpg)
-
-> Eskişehir Ticaret Borsası Yönetim Kurulu Başkanlığı'na seçilen Ahmet Oğuz ve yönetim kurulu üyeleri Vali Dr. Erdinç Yılmaz'ı ziyaret etti.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, son seçimlerde Eskişehir Ticaret Borsası Yönetim Kurulu Başkanlığı'na seçilen Ahmet Oğuz ve yönetim kurulu üyelerini makamında kabul etti.
-
-Vali Yılmaz, Oğuz ve yönetim kurulu üyelerini tebrik ederek yeni görevlerinde başarılar diledi. Yeni dönem yönetimi de kabulden duydukları memnuniyeti dile getirdi, borsa çalışmaları ve hedefleri hakkında bilgi verdi.
-
----
-
-## Piyano Günleri'nde İris Şentürker masterclass verdi
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 13:45 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/u44umfsfnhghc0ynnbwuogi0)
-
-![](data/images/cd9c20c4f461863a.jpg)
-
-> 6. Uluslararası Piyano Günleri kapsamında Dr. Öğr. Üyesi İris Şentürker, Anadolu Üniversitesi öğrencileriyle masterclass çalışması yaptı.
-
-Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında Mimar Sinan Güzel Sanatlar Üniversitesi İstanbul Devlet Konservatuvarı Müzik Bölümü'nden Dr. Öğr. Üyesi İris Şentürker, Anadolu Üniversitesi öğrencileriyle masterclass çalışması yaptı. Çalışma, Halk Bilimi Uygulama ve Araştırma Merkezi Faris Akarsu Konser Salonu'nda yapıldı; akademisyenler ve çok sayıda öğrenci katıldı.
-
-Ortaokul, lise ve lisans düzeylerinden piyano öğrencileri Chopin, Beethoven, Mozart, Brahms, Bach, Debussy, Mendelssohn, Liszt ve Rachmaninoff gibi bestecilerin eserlerini seslendirdi. Şentürker, eserlerin teknik icrası, tuşe hakimiyeti ve müzikal yorumu üzerine değerlendirmelerde bulunarak öğrencilere önerilerde bulundu.
-
-Piyano Günleri 24 Ekim'e kadar konserler ve etkinliklerle sürecek.
-
----
-
-## Piyano Günleri'nde "21. Yüzyıl Müziği" söyleşisi yapıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 13:45 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/r7qb3ezhp72rc10snww3ndwx)
-
-![](data/images/212f3fe5f4c46f40.jpg)
-
-> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında günümüz müziğindeki değişimler konuşuldu.
-
-Anadolu Üniversitesi 6. Uluslararası Piyano Günleri kapsamında Devlet Konservatuvarı Koral Çalgan Salonu'nda "21. Yüzyıl Müziği" başlıklı söyleşi yapıldı. Söyleşinin moderatörlüğünü Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren yaptı. Konuşmacılar Anadolu Üniversitesi Devlet Konservatuvarı öğretim üyesi Doç. Dr. Onur Dülger ile Mimar Sinan Güzel Sanatlar Üniversitesi İstanbul Devlet Konservatuvarı öğretim üyesi Prof. Dr. Mesut Erdem Çöloğlu oldu.
-
-Etkinlik, farklı müzikal yaklaşımları yansıtan iki eserin dinletisiyle başladı. Konuşmacılar günümüz müziğindeki değişimleri, ses tasarımını ve müzikal üretimde kullanılan malzemelerin çeşitliliğini ele aldı.
-
-Dülger, tanıdık seslerin dinleyiciyle iletişimi kolaylaştırdığını, alışılmışın dışındaki seslerin ise yeni anlatım olanakları sunduğunu söyledi. Müzikal sesleri armonik, inarmonik ve gürültü olarak üç grupta değerlendirdi. Eren ise 21. yüzyılda ritim, melodi ve armoni anlayışının yanı sıra müzisyen kimliğinin de değiştiğini belirtti.
-
----
-
-## Pazaryeri Belediye Başkanı Zekiye Tekin, Vali Yılmaz'ı ziyaret etti
-
-**Gündem · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/bilecik-pazaryeri-belediye-baskani-zekiye-tekin-valimiz-dr-erdinc-yilmazi-makaminda-ziyaret-etti)
-
-![](data/images/515d3f3547aa42e6.jpg)
-
-> Bilecik Pazaryeri Belediye Başkanı Zekiye Tekin, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
-
-Bilecik Pazaryeri Belediye Başkanı Zekiye Tekin, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
-
-Ziyaretten memnuniyet duyduğunu belirten Vali Yılmaz, Belediye Başkanı Tekin'e nazik ziyareti dolayısıyla teşekkür etti.
 
 ---
