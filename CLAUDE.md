@@ -13,10 +13,11 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 - **GitHub Actions** (`.github/workflows/haber.yml`): yeni haberde IndexNow (Bing/Yandex) bildirimi ve
   Instagram paylaşımı (`instagram.py`; `IG_ACCESS_TOKEN` gizli değişkeni yoksa atlar).
   `ig-token.yml` haftada bir 60 günlük Instagram token'ını yeniler (`GH_SECRETS_TOKEN` gerekir).
-- **Sosyal medya dağıtımı (önem puanına göre):** editör her habere 1-5 `importance` verir. Instagram: her haber story,
-  önem 3+ gönderi, önem 4-5 Reels (`reels.py`, video R2'ye yüklenir). Facebook sayfası (`facebook.py`): önem 3+
-  bağlantılı gönderi + Reels. Gerekli secrets: R2_* (Reels), ELEVENLABS_API_KEY/VOICE_ID (seslendirme),
-  FB_PAGE_ID/FB_PAGE_TOKEN (Facebook); tanımlı değilse o kısım atlanır.
+- **Sosyal medya dağıtımı:** editör her habere 1-5 `importance` ve `reel` (önemli ve izlenecek mi) verir. Instagram:
+  her haber story, önem 3+ gönderi, `reel: true` olanlar sesli Reels (`reels.py`; video R2 `nabiz26-media` →
+  media.nabiz26.com; ses ücretsiz edge-tts, `EDGE_TTS_VOICE`=tr-TR-EmelNeural repo değişkeni). Kota sırası Reels >
+  gönderi > story. Elle Reels: "Bildir ve paylaş" iş akışı `reel` girdisi. Facebook (`facebook.py`): önem 3+ bağlantılı
+  gönderi + Reels; FB_PAGE_ID/FB_PAGE_TOKEN henüz yok (atlanıyor).
 - **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **Sabah altın haberi:** `gold.py`, Harem Altın canlı fiyatlarından (socket.io) haber + fiyat tablosu görseli yazar;
