@@ -84,23 +84,25 @@ Turizm Fakültesi uygulama mutfağında Doç. Dr. Merve Özgür Göde ve Araş. 
 
 ---
 
-## Eskişehir'de festival ve konser iptalleri art arda geldi
+## Festival kenti Eskişehir'de iptal zinciri: Faturayı esnaf ve seyirci ödedi
 
 **Kültür-Sanat · Merkez** · 2026-10-22 14:32 UTC · Kaynak: [Eskişehir.net ve yerel basın](https://www.eskisehir.net/eskisehirde-bir-festival-daha-iptal-edildi)
 
 ![](data/images/festival-iptalleri-20261022.jpg)
 
-> Kentte son iki ayda beş etkinlik iptal edildi. Çoğunda hava koşulları ve organizasyon sorunları gerekçe gösterilirken Yalın konseri için ayrıntılı bir açıklama yapılmadı.
+> Festivalleriyle öne çıkan Eskişehir'de son iki ayda beş etkinlik iptal edildi. Organizasyon krizinde tezgâh açan esnaf zarar ettiğini söylerken, bilet alanlar iade için platform platform dolaşmak zorunda kaldı.
 
-Eskişehir'de eylülün başından bu yana festival ve konser iptalleri peş peşe yaşandı. Son iki ayda beş etkinlik ya tamamen iptal edildi ya da programından çıkarıldı. Bilet alan vatandaşlar ve etkinlik alanlarında tezgâh açan esnaf, iptallerden en çok etkilenen kesim oldu.
+Konserleri, açık hava etkinlikleri ve uluslararası festivalleriyle kendini "festival kenti" olarak tanıtan Eskişehir, eylül ve ekim aylarında art arda gelen iptallerle anıldı. Son iki ayda beş etkinlik ya tamamen iptal edildi ya da programdan çıkarıldı. İptallerin bedelini ise bilet alan seyirciler, yol masrafına girip tezgâh kuran esnaf ve hazırlık yapan kurumlar ödedi.
 
-En son iptal, 23-25 Ekim'de Kentpark'ta yapılması planlanan Şehir Festivalleri'nden geldi. Organizasyonu üstlenen Because Creative, beklenen yoğun yağış ve olumsuz hava koşullarının katılımcılar ve ekip için risk oluşturacağını belirterek festivali iptal ettiğini duyurdu. Bilet sahiplerinin iade için bileti aldıkları platformlara başvurması istendi.
+Tablonun en ağır halkası Tepebaşı'nda 18-20 Eylül'de düzenlenen Food Vibe Fest oldu. Ceza, Piiz ve İrem Derici, organizasyon firmasının sorumluluklarını yerine getirmediğini açıklayarak konserlerini iptal etti. İrem Derici paylaşımında, "Kabahatli ben olmasam da bizi de mağdur edenler adına ben sizlerden özür dilerim" diyerek seyircilerden özür diledi.
 
-Eylülde ise Tepebaşı'ndaki Food Vibe Fest büyük bir krize sahne oldu. Ceza ve İrem Derici, organizasyon firmasının sorumluluklarını yerine getirmediğini açıklayarak konserlerini iptal etti. Farklı illerden gelip üç günlük tezgâh açan esnaf mağdur olduklarını dile getirdi, etkinlik sorumlusu polis tarafından karakola götürüldü.
+Festival için Türkiye'nin farklı illerinden Eskişehir'e gelen esnaf ise stant ücretleri, elektrik ve jeneratör sorunları, beklenenin çok altında kalan ziyaretçi sayısı ve bozulan ürünler nedeniyle ciddi zarara uğradıklarını anlattı. Adana'dan geldiğini söyleyen esnaf Hüseyin Yüksel, "7 bin bilet satıldığı söylenmişti ancak 2 günde bin kişi bile gelmedi" dedi. Esnafın şikâyetçi olduğu organizasyon sorumlusu E.Ü. polis tarafından karakola götürüldü ve hakkında işlem başlatıldı.
 
-26 Eylül'de yapılacak 3. İnönü Havacılık Festivali de güçlü rüzgâr ve olumsuz hava nedeniyle iptal edildi. Türk Hava Kurumu Eskişehir Şube Başkanı Gökhan Çalışkan, hazırlıkların tamamlandığını ancak hava şartlarının etkinliğe uygun olmadığını açıkladı. Uluslararası Eskişehir Porsuk Festivali kapsamında 6 Eylül'de sahnelenecek "Yıldız" adlı tiyatro oyunu ise sağlık sorunu gerekçesiyle programdan çıkarıldı.
+Kriz bununla da sınırlı kalmadı. 23-25 Ekim'de Kentpark'ta yapılacak Şehir Festivalleri, düzenleyici Because Creative'in yoğun yağış riski açıklamasıyla iptal edildi. Bilet sahiplerine, iade için bileti aldıkları platformlarla kendilerinin iletişime geçmesi söylendi; festivalin ileri bir tarihte yapılıp yapılmayacağına dair bir bilgi verilmedi.
 
-7 Ekim'de Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda yapılması planlanan Yalın konseri de iptal edilenler arasında yer aldı. Bilet sahiplerine mesajla duyurulan kararın gerekçesine ilişkin kamuoyuna ayrıntılı bir açıklama yapılmadı. Prodüksiyon şirketi, konserin bahar aylarında Eskişehir'de yapılacağını bildirdi.
+26 Eylül'deki 3. İnönü Havacılık Festivali de hazırlıkları tamamlanmışken güçlü rüzgâr nedeniyle iptal edildi ve yeni bir tarih açıklanmadı. 7 Ekim'deki Yalın konseri ise bilet sahiplerine gönderilen bir mesajla iptal edildi; kararın gerekçesi kamuoyuyla paylaşılmadı, prodüksiyon şirketi yalnızca konserin bahara kaldığını bildirdi. Porsuk Festivali kapsamındaki "Yıldız" adlı tiyatro oyunu da sağlık sorunu gerekçesiyle sahnelenemedi.
+
+Art arda gelen iptaller, kentte etkinlik düzenleyen firmaların nasıl denetlendiği, açık hava etkinliklerinde hava koşullarına karşı neden bir yedek plan bulunmadığı, bilet iadelerinin tamamlanıp tamamlanmadığı ve Food Vibe Fest'te zarar eden esnafın kayıplarının kim tarafından karşılanacağı sorularını gündeme getirdi. Nabız 26, bu soruların yanıtlarının peşini bırakmayacak.
 
 ---
 
