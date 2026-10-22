@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz, Muhtar Erol Erdal Gürdoğan'ın ailesine taziye ziyaretinde bulundu
+
+**Gündem · Odunpazarı** · 2026-10-22 01:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-merhum-muhtar-erol-erdal-gurdoganin-ailesine-taziye-ziyaretinde-bulundu)
+
+![](data/images/5e9dcca48ee56f61.jpg)
+
+> Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan 19 Ekim'de hayatını kaybetti.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, 19 Ekim 2026'da hayatını kaybeden Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan'ın ailesine taziye ziyaretinde bulundu.
+
+Vali Yılmaz, Gürdoğan'a Allah'tan rahmet diledi. Ailesine ve yakınlarına başsağlığı ve sabır dileklerini ileterek acılarını paylaştı.
+
+---
+
+## Eskişehir'de Kadına Yönelik Şiddetle Mücadele Koordinasyon Toplantısı yapıldı
+
+**Gündem · Merkez** · 2026-10-22 01:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-baskanliginda---kadina-yonelik-siddetle-mucadele-toplantisi-gerceklestirildi)
+
+![](data/images/da51b2baf8593810.jpg)
+
+> Vali Dr. Erdinç Yılmaz başkanlığındaki toplantıda ŞÖNİM, kadına yönelik şiddete ilişkin 2025 ve 2026'nın ilk dokuz aya ait istatistikleri paylaştı.
+
+Kadına Yönelik Şiddetle Mücadele 2026 Yılı 3. Dönem Koordinasyon, İzleme ve Değerlendirme Toplantısı, Eskişehir Valisi Dr. Erdinç Yılmaz'ın başkanlığında yapıldı.
+
+Toplantıda Eskişehir Şiddet Önleme ve İzleme Merkezi (ŞÖNİM) Müdürlüğü, 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında kadına yönelik şiddetle mücadele alanındaki 2025 ve 2026 yıllarının ilk dokuz ayına ilişkin istatistiki verileri paylaştı.
+
+Eskişehir Cumhuriyet Başsavcılığı da Kadına Yönelik Şiddetle Mücadele İl Eylem Planı doğrultusunda yürütülen çalışmalar, kurumlar arası iş birliği ve şiddetle mücadele kapsamındaki faaliyetler hakkında sunum yaptı. Toplantı, görüş ve önerilerin değerlendirilmesinin ardından sona erdi.
+
+---
+
+## 6. Uluslararası Piyano Günleri Gülsin Onay konseriyle başladı
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-22 01:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/xc1j315vrsgn4ufm5bp3dvu2)
+
+![](data/images/d2cf460394475ded.jpg)
+
+> Anadolu Üniversitesi'ndeki Piyano Günleri, Devlet Sanatçısı Gülsin Onay'ın "Chopin Gecesi" konseriyle açıldı. Etkinlikte 18 sanatçıyla 12 etkinlik yapılacak.
+
+Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri, Devlet Sanatçısı Gülsin Onay'ın "Chopin Gecesi" açılış konseriyle başladı. Konser, Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı.
+
+Açılışa Rektör Danışmanı ve İletişim Bilimleri Fakültesi Dekanı Prof. Dr. Barış Kılınç, Devlet Konservatuvarı Müdürü Prof. Hüseyin Bülent Akdeniz, Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, öğretim elemanları, öğrenciler ve davetliler katıldı. Etkinlik kapsamında 18 sanatçının katılımıyla masterclass, resital ve söyleşilerin de bulunduğu toplam 12 etkinlik düzenlenecek.
+
+Prof. Kılınç, Anadolu Üniversitesi'nin sanata ve kültüre önem verdiğini belirterek Türkiye'nin tek Piyano Günleri'ni gerçekleştirdiklerini söyledi. Prof. Akdeniz ise etkinliğin genç sanatçıları ulusal ve uluslararası sanat ortamlarıyla buluşturduğunu ifade etti.
+
+Gülsin Onay, bugüne kadar 83 ülkede konser verdiğini, Piyano Günleri'ne dördüncü kez katıldığını ve Eskişehir'in kendisi için özel bir yeri olduğunu söyledi. Genç sanatçılara en önemli tavsiyesinin severek ve disiplinle çalışmak olduğunu belirtti.
+
+---
+
 ## Piyano Günleri'nde Prof. Hülya Tarcan masterclass verdi
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-22 00:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/mahk3wtytmsfmkwwsbg0ozzt)
@@ -479,35 +527,5 @@ Etkinlik, 24 Ekim Cumartesi günü saat 13.00'te Odunpazarı Belediyesi Gökmeyd
 Belediyenin açıklamasında, meme kanserinde erken tanının tedavi sürecinde önemli rol oynadığı hatırlatıldı. Düzenli sağlık kontrollerinin aksatılmaması ve şüpheli bir değişiklik fark edildiğinde sağlık kuruluşlarına başvurulması gerektiği vurgulandı.
 
 Etkinlikle ilgili ayrıntılı bilgi almak isteyenler, Odunpazarı Belediyesi Kadın ve Aile Hizmetleri Müdürlüğüne 0222 213 30 30 numaralı telefondan ulaşabilecek.
-
----
-
-## ESTÜ'de öğrencilere IPARD proje eğitimi verilecek
-
-**Eğitim · Merkez** · 2026-10-21 18:35 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/estu-is-birliginde-universite-ogrencilerine-yonelik-ipard-proje-bilgilendirme-egitimi-duzenlenecek)
-
-> Eskişehir Teknik Üniversitesi'nde 19 Kasım'da düzenlenecek eğitimde öğrenciler IPARD destekleri ve proje hazırlama konusunda bilgilendirilecek. Ön başvurular 2-12 Kasım arasında alınacak.
-
-Eskişehir Teknik Üniversitesi (ESTÜ), Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü ve Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK) iş birliğinde üniversite öğrencilerine yönelik "IPARD Proje Bilgilendirme Eğitimi" düzenlenecek.
-
-Eğitim, Aile ve Sosyal Hizmetler Bakanlığı ile TKDK arasında kadın girişimciliğini teşvik etmek ve kadın kooperatiflerini güçlendirmek amacıyla imzalanan iş birliği protokolü kapsamında yapılacak. Programda öğrencilerin IPARD destekleri, kırsal kalkınma fırsatları ve proje hazırlama süreçleri hakkında bilgilendirilmesi amaçlanıyor.
-
-Eğitim, 19 Kasım 2026 Perşembe günü 13.30-16.30 saatleri arasında ESTÜ Konferans Salonu'nda yapılacak. Başta kız öğrenciler olmak üzere girişimcilik ve kırsal kalkınmaya ilgi duyan üniversite öğrencileri katılabilecek. Katılımcılara sertifika verilecek.
-
-Eğitime katılmak isteyen öğrencilerin 2-12 Kasım 2026 tarihleri arasında pervin.ozyilmaz@aile.gov.tr adresi üzerinden ön başvuru yapması gerekiyor. Bilgi için 0222 217 46 05 (dahili 183) numaralı telefon aranabilir.
-
----
-
-## Eskişehirspor, yenilgisiz Bursa Yıldırım'ı konuk edecek
-
-**Spor · Merkez** · 2026-10-21 18:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporun-teklikeli-rakibi)
-
-> Ligin 8. haftasında Eskişehirspor'un rakibi, 7 maçta hiç kaybetmeyen ve yalnızca 3 gol yiyen Bursa Yıldırım.
-
-Eskişehirspor, ligin 8. haftasında Bursa Yıldırım'ı ağırlayacak.
-
-Konuk ekip Bursa Yıldırım, ilk 7 maçta 4 galibiyet ve 3 beraberlik alarak 15 puan topladı. Ligde henüz yenilgisi bulunmayan takım 8 gol atarken kalesinde yalnızca 3 gol gördü. Bursa ekibi geçen hafta kendi sahasında Uşakspor ile 1-1 berabere kaldı.
-
-Savunmada etkili olan ve kontra atak futbolu oynayan rakip karşısında Eskişehirspor Teknik Direktörü Hakan Şapcı'nın maç planı ve oyun içindeki hamleleri belirleyici olacak.
 
 ---
