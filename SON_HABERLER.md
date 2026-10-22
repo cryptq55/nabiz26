@@ -2,6 +2,150 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nda foseptik çukuruna düşen at AFAD ekiplerince kurtarıldı
+
+**Gündem · Odunpazarı** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.nefes.com.tr/evden-kacip-foseptik-cukuruna-dusen-ati-afad-kurtardi-159947)
+
+![](data/images/091a06d04d260c02.jpg)
+
+> Evinin bahçesinden kaçan at, boş arsadaki foseptik çukuruna düştü. AFAD ekipleri atı kurtardı.
+
+Odunpazarı'na bağlı 71 Evler Mahallesi Mehmet Akif Ersoy Sokak'ta bir evin bahçesindeki at, bulunduğu yerden kaçtı. Başıboş dolaşan at, boş bir arsadaki foseptik çukuruna düştü.
+
+Atın çukurda mahsur kaldığını fark eden çevredekilerin ihbarı üzerine olay yerine AFAD ve polis ekipleri gönderildi. Hareketsiz kalan at, AFAD ekiplerinin çalışmasıyla çukurdan çıkarıldı.
+
+Bacağında yara oluşan at, belediye personeli tarafından barınağa götürüldü.
+
+---
+
+## MEB, yurt dışındaki öğrenciler için yenilenen Türkçe ders kitaplarını yayımladı
+
+**Eğitim · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/yurt-disindaki-ogrenciler-icin-yenilenen-quotturkce-ve-turk-kulturuquot-ders-kitaplari-yayimlandi/haber/42255/tr)
+
+![](data/images/dca01a3b75f70c0e.jpg)
+
+> Yurt dışında yaşayan Türk çocukları için hazırlanan 7 seviyelik "Türkçe ve Türk Kültürü" ders kitabı seti "Ülkem Yanımda" platformunda yayımlandı.
+
+Millî Eğitim Bakanlığı, 2026 Türkçe ve Türk Kültürü Dersi Öğretim Programı doğrultusunda Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünce hazırlanan 7 seviyelik ders kitabı setini "Ülkem Yanımda" platformunda yayımladı. Kitaplar, yurt dışında yaşayan Türk öğrencilerin Türkçe dil becerilerini geliştirmeyi amaçlıyor.
+
+Bakanlığın açıklamasına göre Almanya, Fransa, Belçika, Birleşik Krallık, İsviçre, İtalya ve Karadağ'da yürütülen yüz yüze eğitime bu yıl Japonya da eklendi. Böylece 8 ülkede 800'e yakın öğretmenle 50 bine yakın öğrenciye ana dili eğitimi veriliyor.
+
+Seviye temelli kitaplar dinleme, konuşma, okuma ve yazma becerilerini destekliyor. İçeriklerde bayramlardan geleneklere, tarihî şahsiyetlerden spor ve sanata, geleneksel oyunlardan bilim ve teknolojiye uzanan konular yer alıyor.
+
+---
+
+## Kadınlar için yapay zekâ ve dijital güçlenme eğitimleri 7 pilot ilde başlıyor
+
+**Türkiye · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/kadinlar-icin-yapay-zeka-ve-dijital-guclenme-egitimleri-7-pilot-ilde-basliyor/)
+
+![](data/images/b3f9df9fd97fcf48.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve KADEM iş birliğindeki eğitimler 27 Ekim'de Van'da başlayacak. Başvurular çevrim içi alınıyor.
+
+Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve Kadın ve Demokrasi Vakfı (KADEM) iş birliğiyle hayata geçirilen "Kadınlar İçin Yapay Zeka ve Dijital Güçlenme Eğitimleri" 27 Ekim'de Van'da başlayacak. Program, kadınların yapay zekâ ve güvenli internet alanlarındaki yetkinliklerini artırmayı amaçlıyor. Protokol, 17 Eylül'de İstanbul'da imzalanmıştı.
+
+Eğitimler 7 pilot ilde yapılacak: 27 Ekim'de Van, 3 Kasım'da İzmir, 12 Kasım'da Ankara, 1 Aralık'ta Bursa ve Gaziantep, 8 Aralık'ta Adana ve Samsun. Programın 2027'de diğer illere yaygınlaştırılması planlanıyor.
+
+Eğitimlerde dijital ebeveynlik, akıllı ev yönetimi, dijital güvenlik, ev ekonomisi ve güvenli alışveriş konuları işlenecek. Çocuklarıyla gelmek isteyen katılımcılar için eğitim süresince Bakanlık personeli çocuk bakım hizmeti sunacak. Katılmak isteyen kadınlar bakanlığın internet sitesindeki kayıt formundan başvurabilecek.
+
+---
+
+## İçişleri Bakanı Çiftçi: COP31 Zirvesi'nde 26 bin personel görev yapacak
+
+**Türkiye · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.akdenizgercek.com.tr/antalya/icisleri-bakani-ciftci-acikladi-cop31-zirvesinde-26-bin-personel-gorev-yapacak/387838)
+
+![](data/images/455e78679876078b.jpg)
+
+> İçişleri Bakanı Mustafa Çiftçi, Antalya'daki COP31 hazırlıklarını inceledi. Günlük ziyaretçi sayısının 100 bine ulaşması bekleniyor.
+
+İçişleri Bakanı Mustafa Çiftçi ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 hazırlıkları kapsamında Antalya'da zirve alanındaki çalışmaları yerinde inceledi.
+
+Çiftçi, zirvede 26 bin personelin görev yapacağını, güvenlik tedbirlerinin kara, hava ve denizden yürütüleceğini söyledi. Günlük ziyaretçi sayısının 100 bin kişiye ulaşmasının beklendiğini belirten Çiftçi, NATO Zirvesi'ndeki hassasiyetle hazırlık yaptıklarını ifade etti. Konferans alanı ve konaklama noktalarındaki yangın önlemleri, tahliye planları ve acil durum senaryolarının gözden geçirildiğini de aktardı.
+
+Bakan Kurum ise şu ana kadar 85 ülke liderinin zirveye katılacağını bildirdiğini söyledi. Çiftçi, zirve süresince gösteri başvurularını değerlendirme yetkisinin Antalya Valiliği'ne devredildiğini açıkladı.
+
+---
+
+## Eskişehir'de üç ilçede tefecilik operasyonu: 4 şüpheli gözaltına alındı
+
+**Asayiş · Merkez** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberler.com/amp/eskisehir-de-3-ilcede-duzenlenen-tefecilik-20357342-haberi/)
+
+![](data/images/a8ff5a80adbae4ad.jpg)
+
+> Jandarma ekipleri Odunpazarı, Tepebaşı ve Alpu'da tefecilik şüphesiyle düzenlediği operasyonda 4 kişiyi gözaltına aldı.
+
+Eskişehir İl Jandarma Komutanlığı ekipleri, tefecilik yaparak haksız kazanç elde ettikleri belirlenen 4 şüpheliyi yakalamak için Odunpazarı, Tepebaşı ve Alpu ilçelerinde operasyon düzenledi. Şüphelilerin ev ve iş yerlerinde arama yapıldı, 4 şüpheli gözaltına alındı.
+
+Aramalarda 2 bin 137 tabanca fişeği, dolu senet, 3 çek, 83 boş senet, 7 alacak-verecek defteri, muhtelif mali belgeler, Roma dönemine ait olduğu değerlendirilen bir sikke ve 4 cep telefonu ele geçirildi.
+
+Gözaltına alınan şüpheliler hakkında tefecilik suçu kapsamında işlem başlatıldı.
+
+---
+
+## Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü
+
+**Siyaset · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-bulgaristan-basbakani-radev-ile-gorusmesine-iliskin-aciklama)
+
+![](data/images/2d04c8b7fa3f0a1b.jpg)
+
+> Erdoğan, Radev'i 11-12 Kasım'da Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne davet etti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi yaptı. İletişim Başkanlığı'nın açıklamasına göre liderler, Türkiye-Bulgaristan ikili ilişkilerini ve bölgesel ile küresel konuları ele aldı.
+
+Erdoğan, ticaret başta olmak üzere iş birliğini artıracak somut adımlar atmaya devam edeceklerini belirtti. Karadeniz'de seyrüsefer emniyetini sağlamak için Rusya ve Ukrayna ile temaslar yürüttüklerini söyleyen Erdoğan, Bulgaristan'ın Münhasır Ekonomik Bölgesi'nde gerçekleşen SİHA saldırısından üzüntü duyduğunu ifade ederek geçmiş olsun dileklerini iletti.
+
+Erdoğan, Radev'i 11-12 Kasım'da Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne de davet etti.
+
+---
+
+## Beylikova'da Adahisar-Yalınlı-Süleymaniye yolu 21 gün trafiğe kapatılacak
+
+**Ulaşım · Beylikova** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirde-o-yol-21-gun-boyunca-trafige-kapatilacak)
+
+![](data/images/a909fba288bce3b3.jpg)
+
+> Eskişehir Büyükşehir Belediyesi, asfalt kaplama çalışması nedeniyle yolu 24 Ekim'den 13 Kasım'a kadar araç trafiğine kapatacak.
+
+Eskişehir Büyükşehir Belediyesi, Beylikova ilçesindeki Adahisar-Yalınlı-Süleymaniye yolunun asfalt kaplama çalışmaları nedeniyle 21 gün boyunca araç trafiğine kapatılacağını duyurdu. Yol, 24 Ekim 2026 Cumartesi günü saat 09.00'dan itibaren ulaşıma kapalı olacak. Çalışmaların 13 Kasım 2026 Cuma günü saat 18.00'de tamamlanması planlanıyor.
+
+Çalışmayı Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı yürütecek. Yunusemre yolu olarak da bilinen güzergâhı kullanan sürücülerin alternatif yolları tercih etmesi ve çalışma alanındaki trafik işaretleri ile görevlilerin yönlendirmelerine uyması istendi.
+
+Belediyenin açıklamasına göre yolun kapalı olduğu tarihler arasında acil durumlarda trafik güvenlik ekipleri aracılığıyla ulaşım sağlanacak.
+
+---
+
+## Bakan Tekin: Sosyal medya şirketlerine karşı hukuki süreç hazırlığındayız
+
+**Eğitim · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenicaggazetesi.com/yusuf-tekin-acikladi-milli-egitim-bakanligi-metaya-dava-acacak-1084204h.htm)
+
+![](data/images/366d6bf2993f6e6a.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin, çocukların yaşlarına uygun olmayan içeriklerle karşılaşması nedeniyle sosyal medya şirketlerine yönelik hukuki hazırlık yaptıklarını söyledi.
+
+Millî Eğitim Bakanı Yusuf Tekin, okullarda yaşanan güvenlik olaylarında sanal medyanın etkisinin araştırılması gerektiğini söyledi. Yeniçağ Gazetesi'nin Elips Haber'e dayandırdığı habere göre Tekin, bakanlığın okul içinde cep telefonu kullanımına sınırlama getirdiğini, ancak çocukların okul dışında sosyal medyaya erişiminin sürdüğünü belirtti.
+
+Tekin, sosyal medya şirketlerine yönelik hukuki hazırlık içinde olduklarını söyledi. Çocukların yaşlarına uygun olmayan içeriklerle karşılaşmasının akademik ve kişisel gelişimlerini olumsuz etkilediği gerekçesiyle, Amerika'da ve Avrupa Birliği'nde açılanlara benzer bir süreci bakanlık olarak başlatacaklarını ifade etti. Yeniçağ, haberin başlığında bu sürecin Meta'ya yönelik olacağını yazdı.
+
+Şirketlerin içeriklerini çocukların erişemeyeceği şekle sokmasını ya da çocukların zarar görmeyeceği şekilde onaylamasını beklediklerini kaydeden Tekin, içerik üretenlerin ve sosyal medya şirketlerinin sorumluluk alması gerektiğini söyledi.
+
+---
+
+## Bakan Bayraktar: Osman Gazi platformuyla doğal gaz üretimi iki katına çıkacak
+
+**Ekonomi · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31949)
+
+![](data/images/f69d939363d0c8e7.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Kanal 7'de Osman Gazi Yüzer Üretim Platformu'nu ve diğer enerji projelerini anlattı.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kanal 7 canlı yayınında Osman Gazi Yüzer Üretim Platformu'nun Türk petrol ve doğal gaz üretiminde bir ilk olduğunu söyledi. Bayraktar, gazın artık denizin üzerinde işleneceğini, ardından deniz tabanından borularla 170 kilometre mesafedeki Filyos'a basılacağını anlattı.
+
+Bayraktar'a göre platform üretimi iki katına çıkararak 20 milyon metreküpe ulaştıracak. Tesisin 2027'den itibaren günlük 10 milyon dolar, yıllık 3,5-3,6 milyar dolarlık doğal gaz üreteceğini belirten Bakan, bugün 4 milyon hanede kullanılan yerli doğal gazın 8 milyon haneye çıkacağını söyledi. İkinci bir yüzer üretim platformunun Aralık 2027'de yola çıkıp 2028'in ilk çeyreğinde Türkiye'de olmasını planladıklarını, bu platformla 25 milyon metreküp ilave üretim yapacaklarını ifade etti.
+
+Bayraktar ayrıca Gabar'da günlük 84 bin varil üretime ulaşıldığını, Adıyaman'da üretimin günde 15 bin varile çıkarılmasını hedeflediklerini, Türkiye Petrolleri'nin Kerkük sahalarına ortak olduğunu ve Akkuyu'da birinci reaktörde yüzlerce test yapıldığını söyledi. Doğalgaz depolarının dolu olarak kışa girildiğini de belirtti.
+
+---
+
 ## Türkiye ve Kanada ilişkileri stratejik ortaklık düzeyine yükseltildi
 
 **Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-kanada-basbakani-carney-ile-ortak-basin-toplantisinda-konustu)
@@ -341,155 +485,5 @@ Dülger, tanıdık seslerin dinleyiciyle iletişimi kolaylaştırdığını, al�
 Bilecik Pazaryeri Belediye Başkanı Zekiye Tekin, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
 
 Ziyaretten memnuniyet duyduğunu belirten Vali Yılmaz, Belediye Başkanı Tekin'e nazik ziyareti dolayısıyla teşekkür etti.
-
----
-
-## Odunpazarı'nda sokak müzisyenleri için seçmeler yapıldı
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-22 13:45 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-sokak-muzigi-icin-secmeler-yapildi)
-
-![](data/images/07cf6b6bde6f5e2c.jpg)
-
-> Odunpazarı Belediyesi'nin sokak müzisyenleri projesi için yapılan seçmelere toplam 14 kişi katıldı. Seçilenler bir yıl boyunca belirlenen noktalarda performans sergileyecek.
-
-Odunpazarı Belediyesi'nin sokak müzisyenleri projesi kapsamında seçmeler yapıldı. Hasan Polatkan Kültür Merkezi'nde düzenlenen seçmelere bireysel ve grup halinde toplam 14 kişi başvurdu. Katılımcılar arasında farklı etnik kimliklerden gelen müzisyenler de yer aldı.
-
-Seçmeler sonucunda performans sergilemeye hak kazanan müzisyenlere belediye tarafından belirlenen noktalarda performans alanları tahsis edilecek. Müzisyenler bir yıl boyunca bu noktalarda sahne alacak. Adalar, Hamamyolu ve Odunpazarı Tarihi Bölge'de farklı müzik türleri dinlenebilecek.
-
-Belediye, projeyle sanatı kentin günlük yaşamının bir parçası haline getirmeyi, sokak müzisyenlerini desteklemeyi ve müzik kültürünü güçlendirmeyi hedefliyor. Düzenli aralıklarla yapılacak performanslarla müzisyenler için fırsat eşitliğinin desteklenmesi amaçlanıyor.
-
----
-
-## Mülkiye Başmüfettişi Aydın Ölmez ve heyeti Vali Yılmaz'ı ziyaret etti
-
-**Gündem · Merkez** · 2026-10-22 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/mulkiye-basmufettisi-aydin-olmez-ve-beraberindeki-heyet-valimiz-dr-erdinc-yilmazi-makaminda-ziyaret-etti)
-
-![](data/images/7c8f058af43255cd.jpg)
-
-> Mülkiye Başmüfettişi Aydın Ölmez ve beraberindeki heyet, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
-
-Mülkiye Başmüfettişi Aydın Ölmez ve beraberindeki heyet, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
-
-Vali Yılmaz, ziyaretten duyduğu memnuniyeti dile getirdi ve Ölmez ile beraberindeki heyetle bir süre sohbet etti.
-
----
-
-## Anadolu Üniversitesi Açıköğretim'de seçmeli ders dönemi başladı
-
-**Eğitim · Tepebaşı** · 2026-10-22 11:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ejdtr8opvgzilaleo2z7gv0d)
-
-![](data/images/401f867fdcd25b68.jpg)
-
-> Açıköğretim Fakültesi'nde 2026-2027 güz döneminden itibaren seçmeli ders uygulaması başladı. Üniversite, bunun Türkiye'de açıköğretim kurumları arasında bir ilk olduğunu belirtiyor.
-
-Anadolu Üniversitesi Açıköğretim Fakültesi'nde 2026-2027 akademik yılı güz döneminden itibaren seçmeli ders uygulaması hayata geçirildi. Üniversite, bu uygulamayla Türkiye'de açıköğretim hizmeti veren kurumlar arasında bir ilke imza attığını belirtiyor.
-
-Yenilenen ders programlarında zorunlu derslerin yanı sıra alan içi ve alan dışı seçmeli dersler de yer alıyor. Müfredat güncellemesiyle 65 programa 209 alan içi seçmeli ders ve 2 bin 663 alan dışı seçmeli ders eklendi. Alan içi seçmeli dersler dönem içinde, alan dışı seçmeli dersler ise yaz okulunda öğrencilerin tercihine sunuluyor.
-
-Mevcut öğrencilerin yeni program yapısına geçişi için 86 programda toplam 4 bin 289 intibak işlemi yapıldı.
-
-Öğrenciler ders seçimi, ders değiştirme, derslerin yerine saydırılması, yaz okulu ve mezuniyet koşulları gibi konulardaki bilgilere www.anadolu.edu.tr/acikogretim/secmeli-dersler adresinden ulaşabiliyor.
-
----
-
-## Açıköğretim mezunu çifte Anadolu Üniversitesi'nde başarı belgesi verildi
-
-**Eğitim · Tepebaşı** · 2026-10-22 11:32 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ujoxhk0wf8t5odfq1hg90vz9)
-
-![](data/images/7df414cbb8be4d0b.jpg)
-
-> Açıköğretim Fakültesi mezunları Nihal Güler ve Sebahattin Konceli'ye Dekan Yardımcısı Doç. Dr. Seçil Kaya Gülen başarı belgelerini takdim etti.
-
-Anadolu Üniversitesi Açıköğretim Fakültesi mezunları Nihal Güler ve eşi Sebahattin Konceli, uzun yıllara yayılan eğitim yolculuklarını tamamladı. Fakülteyi ziyaret eden çifte Dekanlık Toplantı Salonu'nda Dekan Yardımcısı Doç. Dr. Seçil Kaya Gülen tarafından başarı belgeleri verildi.
-
-Eğitimine 1986'da başlayan emekli asker Konceli, yurt içi ve yurt dışındaki görevleri nedeniyle eğitimini uzun süre sürdürmekte zorlandığını, mezuniyetini emekli olduktan sonra tamamlayabildiğini söyledi. Açıköğretimin öz disiplin ve bireysel çalışma gerektirdiğini belirten Konceli, bu diplomaya sahip olanların başarısına daha fazla saygı duyulması gerektiğini ifade etti.
-
-Güler ise 1998'de başladığı eğitim hayatında 2004'te Açıköğretim Fakültesi Bankacılık ve Sigortacılık Bölümü'nü, 2015'te İktisat Fakültesi Kamu Yönetimi Bölümü'nü tamamladı. Örgün eğitime devam edemediği için açıköğretimi seçtiğini, çocuklarıyla ilgilenirken eğitimini sürdürdüğünü anlattı.
-
-Konceli gençlere okulda öğrendikleriyle yetinmemelerini, yabancı dil öğrenmelerini ve yeni beceriler kazanmalarını tavsiye etti.
-
----
-
-## Eskişehir'de SEM'e atıcılık, badminton, güreş ve kano için sporcu alımı başladı
-
-**Spor · Merkez** · 2026-10-22 09:32 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/304908/2026-2027-sem-basvurulari.aspx)
-
-![](data/images/319f5116778cb297.jpg)
-
-> Sporcu Eğitim Merkezleri'ne dört branşta sporcu alım başvuruları 22 Ekim - 1 Kasım tarihlerinde e-Devlet üzerinden yapılacak.
-
-Eskişehir Gençlik ve Spor İl Müdürlüğü, 2026-2027 eğitim öğretim yılı kapsamında Sporcu Eğitim Merkezleri'ne (SEM) atıcılık, badminton, güreş ve kano branşlarında sporcu alım başvurularının başladığını duyurdu.
-
-Başvurular 22 Ekim - 1 Kasım 2026 tarihleri arasında e-Devlet Kapısı üzerinden yapılacak. Sporcu alım kriterleri ve başvuru rehberi, il müdürlüğünün duyurusunda ek olarak yer alıyor.
-
-İl müdürlüğü, adayların başvuru öncesinde ilgili kriterleri ve açıklamaları dikkatle incelemesini istedi. Ayrıntılı bilgi için Spor Hizmetleri Genel Müdürlüğü'ne yönlendirme yapıldı.
-
----
-
-## Piyano Günleri'nde "Boratav Project / Sesin Bedeni" doğaçlama resitali yapıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 08:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/tn23myoaq5ty7l61hl56ts58)
-
-![](data/images/85ad89d7ad99faa2.jpg)
-
-> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında Emre Dündar ve Mehmet Ali Uzunselvi iki piyano doğaçlama resitali verdi.
-
-Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında "Boratav Project / Sesin Bedeni" iki piyano doğaçlama resitali yapıldı. Resitalde besteci ve piyanistler Emre Dündar ile Mehmet Ali Uzunselvi sahne aldı. Etkinlik Öğrenci Merkezi Yunus Emre Salonu'nda gerçekleşti.
-
-Resitale Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, Mimar Sinan Güzel Sanatlar Üniversitesi Devlet Konservatuvarı'nda uzun yıllar görev yapan Prof. Dr. Hülya Tarcan, öğretim elemanları, öğrenciler ve sanatseverler katıldı.
-
-Boratav Project, 2007'de Dündar ve Uzunselvi tarafından kuruldu. Sanatçıların serbest doğaçlama performanslarını ve bu performanslardan elde ettikleri ses malzemeleriyle ürettikleri elektroakustik yapıtları kapsıyor. Adını halk edebiyatı araştırmacısı Pertev Naili Boratav'dan alıyor.
-
-"Sesin Bedeni" performansı, önceden planlanmış ses yapılarıyla sahnede ortaya çıkan doğaçlama ses olaylarının bir araya gelmesine dayandı. Piyanonun sesine elektronik klavyelerde saklanan özgün ses malzemeleri de eşlik etti.
-
-Dündar, iki çok sesli enstrümanla doğaçlama yapmanın belirsizlikler ve riskler taşıdığını söyledi. Uzunselvi ise iki piyanonun etkileşimini bir bedenin oluşumuna benzeterek, iki farklı uzvun tek bir bedeni meydana getirmesi gibi iki piyanonun da zamanla ortak hareket ettiğini anlattı.
-
----
-
-## Vali Yılmaz, Muhtar Erol Erdal Gürdoğan'ın ailesine taziye ziyaretinde bulundu
-
-**Gündem · Odunpazarı** · 2026-10-22 01:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-merhum-muhtar-erol-erdal-gurdoganin-ailesine-taziye-ziyaretinde-bulundu)
-
-![](data/images/5e9dcca48ee56f61.jpg)
-
-> Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan 19 Ekim'de hayatını kaybetti.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, 19 Ekim 2026'da hayatını kaybeden Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan'ın ailesine taziye ziyaretinde bulundu.
-
-Vali Yılmaz, Gürdoğan'a Allah'tan rahmet diledi. Ailesine ve yakınlarına başsağlığı ve sabır dileklerini ileterek acılarını paylaştı.
-
----
-
-## Eskişehir'de Kadına Yönelik Şiddetle Mücadele Koordinasyon Toplantısı yapıldı
-
-**Gündem · Merkez** · 2026-10-22 01:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-baskanliginda---kadina-yonelik-siddetle-mucadele-toplantisi-gerceklestirildi)
-
-![](data/images/da51b2baf8593810.jpg)
-
-> Vali Dr. Erdinç Yılmaz başkanlığındaki toplantıda ŞÖNİM, kadına yönelik şiddete ilişkin 2025 ve 2026'nın ilk dokuz aya ait istatistikleri paylaştı.
-
-Kadına Yönelik Şiddetle Mücadele 2026 Yılı 3. Dönem Koordinasyon, İzleme ve Değerlendirme Toplantısı, Eskişehir Valisi Dr. Erdinç Yılmaz'ın başkanlığında yapıldı.
-
-Toplantıda Eskişehir Şiddet Önleme ve İzleme Merkezi (ŞÖNİM) Müdürlüğü, 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında kadına yönelik şiddetle mücadele alanındaki 2025 ve 2026 yıllarının ilk dokuz ayına ilişkin istatistiki verileri paylaştı.
-
-Eskişehir Cumhuriyet Başsavcılığı da Kadına Yönelik Şiddetle Mücadele İl Eylem Planı doğrultusunda yürütülen çalışmalar, kurumlar arası iş birliği ve şiddetle mücadele kapsamındaki faaliyetler hakkında sunum yaptı. Toplantı, görüş ve önerilerin değerlendirilmesinin ardından sona erdi.
-
----
-
-## 6. Uluslararası Piyano Günleri Gülsin Onay konseriyle başladı
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 01:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/xc1j315vrsgn4ufm5bp3dvu2)
-
-![](data/images/d2cf460394475ded.jpg)
-
-> Anadolu Üniversitesi'ndeki Piyano Günleri, Devlet Sanatçısı Gülsin Onay'ın "Chopin Gecesi" konseriyle açıldı. Etkinlikte 18 sanatçıyla 12 etkinlik yapılacak.
-
-Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri, Devlet Sanatçısı Gülsin Onay'ın "Chopin Gecesi" açılış konseriyle başladı. Konser, Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı.
-
-Açılışa Rektör Danışmanı ve İletişim Bilimleri Fakültesi Dekanı Prof. Dr. Barış Kılınç, Devlet Konservatuvarı Müdürü Prof. Hüseyin Bülent Akdeniz, Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, öğretim elemanları, öğrenciler ve davetliler katıldı. Etkinlik kapsamında 18 sanatçının katılımıyla masterclass, resital ve söyleşilerin de bulunduğu toplam 12 etkinlik düzenlenecek.
-
-Prof. Kılınç, Anadolu Üniversitesi'nin sanata ve kültüre önem verdiğini belirterek Türkiye'nin tek Piyano Günleri'ni gerçekleştirdiklerini söyledi. Prof. Akdeniz ise etkinliğin genç sanatçıları ulusal ve uluslararası sanat ortamlarıyla buluşturduğunu ifade etti.
-
-Gülsin Onay, bugüne kadar 83 ülkede konser verdiğini, Piyano Günleri'ne dördüncü kez katıldığını ve Eskişehir'in kendisi için özel bir yeri olduğunu söyledi. Genç sanatçılara en önemli tavsiyesinin severek ve disiplinle çalışmak olduğunu belirtti.
 
 ---
