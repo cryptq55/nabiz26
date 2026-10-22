@@ -26,7 +26,7 @@ SITE = "https://nabiz26.com"
 STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
-MAX_STORIES = 6   # tur başına
+MAX_STORIES = 4   # tur başına
 MAX_POSTS = 2     # tur başına; akışı boğmamak için
 MAX_REELS = 1     # tur başına
 POST_MIN, REEL_MIN = 3, 4  # gönderi ve Reels için en düşük önem puanı
@@ -55,6 +55,16 @@ def publish(user, tries=20, **media):
             raise RuntimeError("Instagram görseli işleyemedi")
         time.sleep(3)
     return call("POST", f"{user}/media_publish", creation_id=container)["id"]
+
+
+def quota_left(user):
+    """Instagram'ın 24 saatlik paylaşım kotasından kalan hak (Reels, gönderi ve story hepsi sayılır)."""
+    try:
+        d = call("GET", f"{user}/content_publishing_limit", fields="quota_usage,config")["data"][0]
+        return int(d["config"]["quota_total"]) - int(d["quota_usage"])
+    except Exception as e:  # kota okunamazsa temkinli davran
+        print("[uyarı] kota okunamadı:", str(e)[:200], file=sys.stderr)
+        return 6
 
 
 def upload_r2(path, key):
@@ -116,9 +126,11 @@ def main():
     if not state["reels"]:
         state["reels"] = [f["slug"] for f in feed[3:]]  # Reels geriye dönük üretilmesin
     imp = lambda f: int(f.get("importance") or 3)
-    # Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
+    left = quota_left(user) - 1  # bir hak yedekte kalsın
+    print("kalan paylaşım hakkı:", left)
+    # 1) Reels: önemi yüksek, henüz Reels'i yapılmamış en yeni haber (R2 ayarlıysa)
     forced = os.environ.get("REEL_SLUG", "").strip()  # elle seçilen haber (iş akışı girdisi)
-    if os.environ.get("R2_BUCKET"):
+    if os.environ.get("R2_BUCKET") and left > 0:
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
                  [f for f in feed if imp(f) >= REEL_MIN and f["slug"] not in state["reels"]][:MAX_REELS])
         for f in picks:
@@ -126,29 +138,34 @@ def main():
                 url = make_reel_video(f["slug"])
                 mid = publish(user, tries=60, media_type="REELS", video_url=url, caption=f["caption"], share_to_feed="true")
                 print("reels:", f["slug"], mid)
+                left -= 1
             except Exception as e:
                 print("reels hatası:", f["slug"], str(e)[:300], file=sys.stderr)
             state["reels"].append(f["slug"])  # hata verse de tekrar denenmesin
+    # 2) Gönderi: önemi yeterli fotoğraflı haberler, en önemliler önce
+    cands = [f for f in feed[:12] if f["has_photo"] and imp(f) >= POST_MIN and f["slug"] not in state["posts"]]
+    for f in sorted(cands, key=imp, reverse=True)[:min(MAX_POSTS, max(0, left))]:
+        try:
+            mid = publish(user, image_url=f["post"], caption=f["caption"])
+            print("gönderi:", f["slug"], mid)
+            state["posts"].append(f["slug"])
+            left -= 1
+        except RuntimeError as e:
+            print("gönderi hatası:", f["slug"], e, file=sys.stderr)
+    # 3) Story: kalan hakla, en yeniler (fazlası atlanır)
     new = [f for f in reversed(feed) if f["slug"] not in state["stories"]]  # eskiden yeniye
-    for f in new[-MAX_STORIES:]:
+    take = new[-min(MAX_STORIES, max(0, left)):] if left > 0 else []
+    for f in take:
         try:
             mid = publish(user, image_url=f["story"], media_type="STORIES")
             print("story:", f["slug"], mid)
             state["stories"].append(f["slug"])
         except RuntimeError as e:
             print("story hatası:", f["slug"], e, file=sys.stderr)
-    # Gönderi: önemi yeterli fotoğraflı haberler, en önemliler önce
-    cands = [f for f in feed[:12] if f["has_photo"] and imp(f) >= POST_MIN and f["slug"] not in state["posts"]]
-    for f in sorted(cands, key=imp, reverse=True)[:MAX_POSTS]:
-        try:
-            mid = publish(user, image_url=f["post"], caption=f["caption"])
-            print("gönderi:", f["slug"], mid)
-            state["posts"].append(f["slug"])
-        except RuntimeError as e:
-            print("gönderi hatası:", f["slug"], e, file=sys.stderr)
     # Atlananlar bir daha denenmesin
-    for f in new[:-MAX_STORIES]:
-        state["stories"].append(f["slug"])
+    for f in new:
+        if f not in take:
+            state["stories"].append(f["slug"])
     for k in ("stories", "posts", "reels"):
         state[k] = state[k][-500:]
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
