@@ -19,14 +19,14 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   gönderi > story. Elle Reels: "Bildir ve paylaş" iş akışı `reel` girdisi. Facebook (`facebook.py`): önem 3+ bağlantılı
   gönderi + Reels; FB_PAGE_ID/FB_PAGE_TOKEN henüz yok (atlanıyor). Resmî kaynağın haber sayfasında kendi mp4 videosu
   varsa (`newsbot.find_video`, şu an Valilik) haber kaydına `video` eklenir ve o haber önce, videolu Reels olur
-  (`reels.render_video`). YouTube gömmeleri kullanılmaz. Story yalnızca gerçek fotoğraflı haberlerden (kendi kapak hariç).
+  (`reels.render_video`). YouTube gömmeleri kullanılmaz. Story yalnızca gerçek fotoğraflı haberlerden.
   Günde en fazla 22 paylaşım (`instagram.DAILY_CAP`). Günlük bülten: `bulten.py` + `bulten.yml` (08:00 ve 20:00).
 - **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **Sabah altın haberi:** `gold.py`, Harem Altın canlı fiyatlarından (socket.io) haber + fiyat tablosu görseli yazar;
   `.github/workflows/altin.yml` her gün 06:00 UTC (09:00 TSİ) çalıştırır, sonra "Bildir ve paylaş"ı başlatır.
 - **Konu kaynakları (Eskişehir şartı yok):** `sources.yaml`'da `topic` alanıyla: `togg`, `siyaset` (Cumhurbaşkanı, CHP),
-  `bakanlik`. Google Haberler kaynakları `brand_cover: true` ile kendi kapağımızı alır; İletişim Başkanlığı, Aile,
+  `bakanlik`. Google Haberler kaynaklarına `image_query` ile Commons arşiv fotoğrafı konur; İletişim Başkanlığı, Aile,
   MEB ve Enerji bakanlıkları resmî fotoğraflı. Kategoriler "Siyaset" ve "Türkiye", ilçe yerine "Türkiye".
   Her turda önce yerel kaynaklar, sonra konu kaynakları kuyruğa girer.
 - **SEO:** canonical, Open Graph, JSON-LD (NewsArticle, BreadcrumbList, WebSite, NewsMediaOrganization),
@@ -43,7 +43,7 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   yoksa `saglik` etiketli GitHub kaydı açılır (sahibine e-posta), düzelince kapanır.
 - **Aktarıcı** (`relay/`, Cloudflare Worker `nabiz26-relay`): yurt dışı/bot engelli kurum siteleri (Beylikova) Avrupa'ya
   sabitli Durable Object üzerinden okunur (`newsbot.RELAY_HOSTS`). Büyükşehir yalnızca Türkiye IP'sine açık; aktarıcı
-  da aşamıyor, onun haberleri Google Haberler kayıtlarından kendi kapağımızla (`topic: yerel`, `brand_cover`) gelir.
+  da aşamıyor, onun haberleri Google Haberler kayıtlarından (`topic: yerel`) Commons arşiv fotoğrafıyla gelir.
   Dikkat: `relay/` içinde `wrangler deploy --config ./wrangler.toml` kullanın; aksi halde kök ayarla site yayınlanır.
 - **Kaynak kontrolü** (`kaynak-kontrol.yml`, elle): kaynakların yurt dışı sunucudan erişimini raporlar.
 - **Kent rehberi** (`servis.py` + `servis.yml`, 3 saatte bir): /hava-durumu ve /namaz-vakitleri (+14 ilçe) sayfaları.
