@@ -2,6 +2,172 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye 2027'de 14 ülkede 16 uluslararası turizm fuarına katılacak
+
+**Türkiye · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.turizmaktuel.com/haber/bakanlik-2027-de-katilacagi-uluslararasi-turizm-fuarlarini-acikladi)
+
+![](data/images/0d4e9e6186c377c4.jpg)
+
+> Kültür ve Turizm Bakanlığı ile TGA'nın takvimine göre ilk fuar Ocak'ta Madrid'de.
+
+Kültür ve Turizm Bakanlığı ile Türkiye Turizm Tanıtım ve Geliştirme Ajansı (TGA) koordinasyonunda hazırlanan takvime göre Türkiye, 2027 yılında 14 ülkede düzenlenecek 16 uluslararası turizm ihtisas fuarında yer alacak.
+
+Program İspanya, Almanya, Rusya, Hindistan, Çin, Birleşik Arap Emirlikleri, Japonya, ABD ve İngiltere gibi pazarları kapsıyor. Yılın ilk büyük organizasyonu 20-24 Ocak'ta Madrid'de yapılacak FITUR 2027 olacak. Program, aralık ayında Fransa'nın Cannes kentinde düzenlenmesi planlanan lüks turizm fuarı ILTM Cannes ile tamamlanacak. Türkiye standına oteller, seyahat acenteleri, tur operatörleri ve hava yolu şirketleri de katılabilecek.
+
+---
+
+## TÜİK: Yükseköğretim beyin göçünde Eskişehir 2025'te dördüncü sırada
+
+**Gündem · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-dikkat-ceken-beyin-gocu-tablosu-ilk-5-sehir-arasinda)
+
+![](data/images/4e5735dd53adbc3d.jpg)
+
+> Beyin göçü oranı Türkiye genelinde yüzde 2,2'ye çıktı; ilk üç sırada İstanbul, İzmir ve Ankara var.
+
+Türkiye İstatistik Kurumu (TÜİK), 2025 yılı Yükseköğretim Beyin Göçü İstatistikleri'ni açıkladı. Yükseköğretim mezunlarının beyin göçü oranı bir önceki yıla göre artarak yüzde 2,2 oldu. Oran kadınlarda yüzde 1,8, erkeklerde yüzde 2,7 olarak gerçekleşti.
+
+Beyin göçünün en yüksek olduğu il yüzde 4,0 ile İstanbul oldu. İstanbul'u sırasıyla İzmir, Ankara, Eskişehir ve Yalova izledi. Erkeklerde Eskişehir yüzde 2,9 ile dördüncü, kadınlarda yüzde 1,7 ile yine dördüncü sırada yer aldı. En düşük oran yüzde 0,2 ile Siirt'te görüldü.
+
+Devlet üniversitesi mezunlarında oran 2025'te yüzde 1,9, vakıf üniversitesi mezunlarında yüzde 4,4 oldu. En yüksek beyin göçü oranı yüzde 7,0 ile bilişim ve iletişim teknolojileri alanında görüldü.
+
+---
+
+## TOGG, COP31'in "Mobilite Sektör Ortağı" oldu
+
+**Ekonomi · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Togg](https://www.ekonomidunya.com/togg-cop31in-mobilite-sektor-ortagi-oldu/114052)
+
+![](data/images/e4737a1b91e454a8.jpg)
+
+> TOGG, zirvede elektrikli mobilitenin iklim hedeflerine katkısını anlatacak.
+
+TOGG, Türkiye'nin ev sahipliğinde yapılacak Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) "Mobilite Sektör Ortağı" oldu. Bilgi, TOGG'un yaptığı açıklamaya dayanıyor.
+
+Kamu, özel sektör, uluslararası kuruluşlar, akademi ve sivil toplum temsilcilerini bir araya getirecek zirvede TOGG, elektrikli mobiliteye geçişin iklim hedeflerine katkısını, bu dönüşümü destekleyen enerji ve dijital hizmetlerle birlikte ortaya koyacak. Üretimden günlük kullanıma uzanan uygulamalarını paylaşacak, uluslararası paydaşlarla yeni iş birlikleri geliştirmeyi amaçlayacak.
+
+TOGG Yönetim Kurulu Başkanı Fuat Tosyalı, Türkiye'nin COP31'e ev sahipliği yaparak iklim değişikliğiyle mücadelede küresel sorumluluk üstlenme iradesini gösterdiğini belirtti.
+
+---
+
+## Tepebaşı'nda Kızılinler bal kabağıyla rulo pasta ve irmikli baklava atölyesi yapıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.sakaryagazetesi.com.tr/bal-kabagindan-sasirtan-lezzetler)
+
+![](data/images/c836e1e4f9730caf.jpg)
+
+> Etkinlik, 25 Ekim'deki 4. Kızılinler Bal Kabağı Panayırı öncesinde düzenlendi.
+
+Tepebaşı Belediyesi'nin düzenleyeceği 4. Kızılinler Bal Kabağı Panayırı ve Eskişehir Bal Kabağı Çalıştayı öncesinde Mutfak Atölyesi'nde özel bir etkinlik yapıldı. Eskişehir Aşçılar Derneği iş birliğiyle düzenlenen atölyede üretici kadınlar, kendi yetiştirdikleri Kızılinler bal kabaklarını şeflerle birlikte farklı tariflerde değerlendirdi; bal kabağından rulo pasta ve irmikli baklava hazırlandı.
+
+Pastacı Şef Fatma Kurga Kök, bal kabağı püresini rulo pastada kullandıklarını ve çocukların da severek tüketebileceği, katkı maddesi içermeyen bir tarif geliştirdiklerini söyledi. Eskişehir Aşçılar Derneği Başkanı Kemal Kaya, coğrafi işaretli Kızılinler bal kabağının farklı ürünlere dönüştürülmesinin önemine dikkat çekti.
+
+Tepebaşı Belediyesi yetkilileri vatandaşları 25 Ekim Pazar günü yapılacak panayıra ve 26 Ekim'deki Eskişehir Bal Kabağı Çalıştayı'na davet etti. Çalıştayın Türkiye'de ilk kez ulusal ölçekte düzenleneceği belirtildi.
+
+---
+
+## SAS2027 Sıfır Atık ve Sürdürülebilirlik Yarışması için başvurular 15 Ocak'a kadar
+
+**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/uluslararasi-sifir-atik-ve-surdurulebilirlik-yarismasi-duzenlenecek/icerik/8687/tr)
+
+![](data/images/d05784c227cd9ba4.jpg)
+
+> Yarışma "Atıktan Sanata", "Görsel Tasarım" ve "Yaşayan Okul Bahçeleri" kategorilerinde yapılacak.
+
+Öğrencilerin sıfır atık, geri dönüşüm ve sürdürülebilirlik konularında farkındalık kazanması hedefiyle "SAS2027 Uluslararası Sıfır Atık ve Sürdürülebilirlik Yarışması" düzenlenecek. Başvurular 15 Ocak 2027 tarihine kadar yapılabilecek.
+
+Yarışma üç kategoride yapılacak. "Atıktan Sanata" kategorisine yurt içindeki okullarda öğrenim gören tüm kademelerdeki öğrenciler katılabilecek. "Görsel Tasarım" kategorisi yurt içi ve yurt dışındaki ortaokul ve lise öğrencilerine, "Yaşayan Okul Bahçeleri" kategorisi ise yurt içi ve yurt dışındaki okullara açık olacak.
+
+Türkçe ve İngilizce yürütülecek yarışma, yurt dışındaki eğitim temsilcilikleri, Türkiye Maarif Vakfı ve kardeş okullar aracılığıyla uluslararası katılıma da açılacak.
+
+---
+
+## Odunpazarı Gündoğdu'nda kavşakta kaza: Muhtar tümsek ve trafik aynası istedi
+
+**Gündem · Odunpazarı** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehirhaber.com/eskisehirde-korkutan-kaza-sonrasi-muhtardan-onemli-cagri)
+
+![](data/images/f8646690dc6b9119.jpg)
+
+> İki aracın çarpıştığı kaza maddi hasarla atlatıldı.
+
+Eskişehir'in Odunpazarı ilçesinde Gündoğdu Mahallesi'nde Muratcan Sokak ile Kanalyanı Sokak'ın kesiştiği noktada iki araç henüz belirlenemeyen bir nedenle çarpıştı. Kazada SUV tipi aracın ön kısmı parçalandı, diğer otomobilin sol tarafı ağır hasar gördü. Olay maddi hasarla atlatıldı.
+
+Mahalle Muhtarı Adem Karaman, kavşakta benzer kazaların sık yaşandığını belirterek trafik güvenliğinin artırılmasını istedi. Karaman, bölgeye hız kesici tümsek yapılmasını ve sürücülerin görüşünü kolaylaştıracak bir trafik aynası yerleştirilmesini talep etti.
+
+---
+
+## Neapco'nun Eskişehir OSB'deki 35 milyon Euro'luk tesisi açıldı: 120 kişi çalışıyor
+
+**Ekonomi · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/neapco-eskisehir-tesisi-acildi-120-kisiye-istihdam-saglaniyor)
+
+![](data/images/f98a2d9978c036b0.jpg)
+
+> Açılışın öncesinde şirkete Ford Q1 Kalite Ödülü töreni yapıldı.
+
+Küresel otomotiv parça üreticisi Neapco'nun Türkiye yapılanması Neapco Turkey Otomotiv A.Ş., Eskişehir Organize Sanayi Bölgesi'ndeki yeni tesisinde önce Ford Q1 Kalite Ödülü törenini yaptı, ardından fabrikanın resmî açılışını gerçekleştirdi.
+
+Toplam 35 milyon Euro yatırımla hayata geçirilen tesiste yıllık montaj kapasitesi 1,5 milyon adede çıkarıldı, istihdam 120 kişiye ulaştı. Genel Müdür Hüseyin Erdem, ödülün kaliteye bağlılığın göstergesi olduğunu söyledi. Neapco Holdings Küresel Başkanı ve CEO'su Kenneth Hopkins, Ford Q1 statüsünün kazanılmasının kolay olmadığını belirtti. Ford Otosan Satın Alma Direktörü Tunç Yerli de iki kurum arasındaki iş birliğine değindi.
+
+---
+
+## MEB'den 81 il valiliğine 24 Kasım Öğretmenler Günü genelgesi
+
+**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/24-kasim-ogretmenler-gunu-genelgesi-yayimlandi/icerik/8688/tr)
+
+![](data/images/7150c211ba05319f.jpg)
+
+> Kutlamalar merkezî programlarla sınırlı kalmayıp 81 ilde kültür, sanat ve akademik etkinliklerle zenginleştirilecek.
+
+Millî Eğitim Bakanı Yusuf Tekin'in imzasıyla 81 il valiliğine gönderilen genelgede, 24 Kasım Öğretmenler Günü'nün öğretmenlere şükranların ifade edilmesi ve mesleğin kıymetinin hatırlanması için önemli bir vesile olduğu vurgulandı. Kutlama programlarına en üst seviyede katılım sağlanması istendi.
+
+Bu yıl kutlama etkinliklerinin merkezî programlarla sınırlı kalmayıp 81 ilde kültür, sanat, akademik çalışmalar, sosyal etkinlikler ve uluslararası iş birlikleriyle çok yönlü biçimde gerçekleştirilmesi amaçlanıyor. İl ve ilçe millî eğitim müdürlükleri, okul ve kurum müdürlükleri ile dış temsilciliklerde kutlama kurulları oluşturulacak; programlar bu kurullarca hazırlanıp uygulanacak.
+
+Programlara mülki erkân, şehit öğretmenlerin yakınları, emekli öğretmenler, mezun öğrenciler ve vatandaşlar davet edilecek. Şehit öğretmenler başta olmak üzere hayatını kaybetmiş öğretmenler kabirleri başında anılacak, şehit öğretmen aileleri ve emekli öğretmenler ziyaret edilecek.
+
+---
+
+## Eskişehirspor, Bursa Yıldırım SK maçı hazırlıklarını sürdürüyor
+
+**Spor · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyamidas.com/spor/eskisehirspor-bursa-yildirim-sk-macina-hazirlaniyor)
+
+![](data/images/070e1d53a06d2726.jpg)
+
+> Kırmızı-siyahlı ekip hafta sonu oynayacağı maçın hazırlıklarını kulüp tesislerinde yaptığı antrenmanla sürdürdü.
+
+TFF 3. Lig'de mücadele eden Eskişehirspor, hafta sonu oynayacağı Bursa Yıldırım SK karşılaşmasının hazırlıklarını sürdürüyor. Kulüp tesislerinde teknik heyet yönetiminde yapılan çalışmada futbolcular pas ve taktik varyasyonları üzerinde durdu.
+
+Kırmızı-siyahlı ekip antrenmanın ardından maç saatini beklemeye geçecek.
+
+---
+
+## CHP, 5 Aralık'ta Ankara'da yapılacak "Engelli Buluşması" için toplantı yaptı
+
+**Siyaset · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chp-den-engelliler-bulusmasi-efc8bda2)
+
+![](data/images/09097ef0717cbe9d.jpg)
+
+> Toplantıya CHP Genel Başkan Yardımcısı Necdet Saraç başkanlık etti.
+
+CHP, 5 Aralık'ta Ankara'da yapılması planlanan "CHP Engelli Buluşması" için CHP Genel Merkezi'nde koordinasyon toplantısı yaptı. Toplantıya CHP Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç başkanlık etti.
+
+Toplantıya CHP Engelliler Kurulu Başkanı Cemal Kaman, CHP Ankara İl Başkan Yardımcısı Burak Bilici, Türkiye Sakatlar Derneği Genel Başkanı Şükrü Poyraz, sivil toplum kuruluşları ve engelli derneklerinin temsilcileri katıldı.
+
+Saraç, engelli bireylerin toplumsal yaşamın dışında bırakılmadığı, eğitimden istihdama, ulaşımdan dijital hizmetlere her alanda eşit katılımın sağlandığı bir düzenin kurulması gerektiğini söyledi. Saraç, buluşmanın Kemal Kılıçdaroğlu'nun da katılımıyla gerçekleşeceğini belirtti.
+
+---
+
+## Bakan Tekin İstanbul'da Güngören Güneşlitepe İlkokulu'nu ziyaret etti
+
+**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-istanbul039da-gungoren-guneslitepe-ilkokulunu-ziyaret-etti/haber/42271/tr)
+
+![](data/images/c19425d15fe3d13b.jpg)
+
+> Tekin, "Maarifin Kalbinde Oyun" temalı etkinlik alanlarında öğrencilerle bir araya geldi.
+
+Millî Eğitim Bakanı Yusuf Tekin, İstanbul'da Güngören Güneşlitepe İlkokulu'nu ziyaret etti. Tekin, "Maarifin Kalbinde Oyun" temasıyla kurulan etkinlik alanlarında öğrencilerle bir araya geldi; halat çekme, yüz boyama ve topaç çevirme gibi geleneksel oyunlarda çocuklara eşlik etti. Okulun öğretmenler odasında eğitimcilerle de görüştü.
+
+Basına açıklama yapan Tekin, oyunu çocukların okulda eğlenerek öğrenmesi ve geleneksel kültürün, ortak değerlerin aktarılması için önemli bir araç olarak gördüklerini söyledi. Geleneksel çocuk oyunlarının gelecek kuşaklara aktarılması için 2023 yazındaki genelgeyle bir başlangıç yaptıklarını belirtti.
+
+---
+
 ## TİHEK, görme engelli başvuru üzerine Büyükşehir ve Tepebaşı'na 50'şer bin lira ceza verdi
 
 **Belediye · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.memurlar.net/haber/1181773/gorme-engelliye-ayrimcilik-tihek-ten-iki-belediyeye-ceza.html)
@@ -301,183 +467,5 @@ Kasım, Aralık 2026 ve Ocak 2027 dönemlerinde silahaltına alınacak yüküml�
 Muvazzaf subay adayı temini başvuruları ile Deniz Kuvvetleri Komutanlığı deniz sınıfı muvazzaf subay adayı temini başvuruları 2 Kasım 2026 tarihine kadar sürecek.
 
 Açıklamada ayrıca Kara Kuvvetleri Komutanlığı'na, Bilgi Güvenliği Derneği'nin Ankara'daki konferansında "Siber Güvenlik Üstün Hizmet Ödülü" verildiği bildirildi.
-
----
-
-## Kılıçdaroğlu: Yeni Parti'ye aktarıldığı öne sürülen 5,1 milyon lira için ihtar çekildi
-
-**Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://www.takvim.com.tr/guncel/2026/10/23/kemal-kilicdaroglu-chpde-yeni-partiye-aktarilan-paranin-iadesini-istedi)
-
-![](data/images/579be1b05207c617-c.jpg)
-
-> Kılıçdaroğlu, paranın iade edilmemesi halinde suç duyurusunda bulunulacağını belirtti.
-
-CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP grup hesabından Yeni Parti'ye geçen milletvekillerine aktarıldığı öne sürülen 5 milyon 100 bin liranın iadesi için resmi ihtar çekildiğini açıkladı. Haberde, Kılıçdaroğlu'nun sözleri gazeteci Melik Yiğitel'in aktardığı bilgilere dayandırıldı.
-
-İddiaya göre Yeni Parti'nin kuruluşundan bir gün önce, 23 Temmuz'da Özgür Özel tarafından imzalanan belge doğrultusunda grup hesabındaki para, Yeni Parti'ye geçecek milletvekillerinin hesaplarına ayrı ayrı 57 bin lira olarak yatırıldı.
-
-Kılıçdaroğlu, işlemi ahlaki bulmadığını söyleyerek paranın iadesini istediklerini belirtti. İade edilmemesi halinde Sayıştay denetiminde sorun çıkabileceğini ve hazineden gelecek ödemenin kesilebileceğini ifade etti. Haberde, ihtarın sonuç vermemesi durumunda Özel ve ekibi hakkında suç duyurusunda bulunulacağının öğrenildiği de aktarıldı. Konuya ilişkin Özel ve ekibinin açıklaması kaynak metinde yer almıyor.
-
----
-
-## Eskişehirspor'da Dereli, Kulet ve Damar'ın hafta sonu forma şansı düşük
-
-**Spor · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.2eylul.com.tr/forma-giyemeyecekler-3)
-
-![](data/images/9842892684c2d920-c.jpg)
-
-> Şapcı, sakatlığı süren iki oyuncunun oynama ihtimalinin yüksek olmadığını söyledi.
-
-Eskişehirspor'da sakatlığı süren Ahmet Dereli ve İsmail Kulet'in sağlık durumu maç saatine kadar beklenecek. Şapcı, bu iki oyuncuyu pek oynatmayı düşünmediğini, günlük durumlarına göre 21 kişilik kadroda yer alabileceklerini söyledi.
-
-Şapcı, gerekirse oyuncuların iğneyle oynayacak noktaya getirilebileceğini ancak oynama ihtimallerinin çok umut verici olmadığını belirtti.
-
-Sakat listesine Mustafa Eren Damar da eklendi. Damar'ın sırtında ağrı bulunduğu ve tedavisine başlandığı aktarıldı. Şapcı, büyük ihtimalle Damar'ın da hafta sonu kadroda yer alamayacağını söyledi.
-
----
-
-## Eskişehir'de hava parçalı ve az bulutlu, sıcaklık 22 dereceye çıkacak
-
-**Hava Durumu · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-hava-degisiyor-mu-meteoroloji-acikladi)
-
-![](data/images/7a17c0c295d390e0-c.jpg)
-
-> Meteoroloji'ye göre kentte yağış beklenmiyor, önemli bir hava değişikliği öngörülmüyor.
-
-Meteoroloji 3. Bölge Müdürlüğü'nün tahminlerine göre Eskişehir ve çevresinde parçalı ve az bulutlu hava etkili olacak. Sıcaklıklarda önemli bir değişiklik beklenmiyor.
-
-Odunpazarı ilçesinde en yüksek sıcaklığın 22, Tepebaşı ilçesinde 21 derece olması tahmin ediliyor. Yağış beklenmiyor.
-
-Rüzgârın başlangıçta güneyli yönlerden, ilerleyen saatlerde kuzey ve batı yönlerden hafif, zaman zaman orta kuvvette esmesi bekleniyor. Eskişehir için güncel bir meteorolojik uyarı bulunmuyor.
-
----
-
-## CHP'li Sarıbal: 2027 bütçesinde tarımsal destek için ayrılan 235 milyar lira yetersiz
-
-**Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://baskentpostasi.com/chp-genel-baskan-yardimcisi-orhan-saribal-235-milyar-lira-ciftcinin-mazotunun-bile-bedeli-degil)
-
-![](data/images/d8f92abc83964b15-c.jpg)
-
-> Sarıbal, TBMM'de düzenlediği basın toplantısında tarımsal desteklerin yasadaki yüzde 1 ölçütünün çok altında kaldığını savundu.
-
-CHP Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, TBMM'de düzenlediği basın toplantısında 2027 bütçe teklifini değerlendirdi. Sarıbal, tarımsal destekleme programlarına ayrılan 235 milyar liranın çiftçinin temel giderlerini karşılamadığını söyledi.
-
-Sarıbal'a göre tarıma ayrıldığı açıklanan 1 trilyon 305 milyar liralık toplam kaynağın tamamı çiftçiye ödenecek destek değil. Sarıbal, bu tutarın tarımsal kredi destekleri için 325 milyar lira, tarım sektörü yatırımları için 268 milyar lira ve kamu iktisadi teşebbüsleri ile ihracat destekleri için 135 milyar lira gibi kalemleri de kapsadığını aktardı.
-
-5488 sayılı Tarım Kanunu'nun 21. maddesini hatırlatan Sarıbal, destekleme kaynağının gayrisafi millî hasılanın yüzde 1'inden az olamayacağını belirtti. 2027 için öngörülen yaklaşık 111 trilyon liralık hasıla üzerinden bunun yaklaşık 1 trilyon 110 milyar lira olması gerektiğini savundu.
-
-Sarıbal ayrıca üreticilerin banka borçlarının faizlerinin silinmesini ve anaparanın uzun vadeye yayılmasını istedi. Basın özgürlüğüne ilişkin değerlendirmelerde de bulunan Sarıbal, gazeteciler Murat Ağırel ve İsmail Arı'nın tutuklanmasına tepki gösterdi.
-
----
-
-## Odunpazarı Belediyesi desteğiyle anneler Alaaddin Park Cafe'de buluştu
-
-**Belediye · Odunpazarı** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/kazim-kurtun-destegiyle-anneler-alaaddin-park-cafede-bulustu)
-
-![](data/images/b1929f19acc44087-c.jpg)
-
-> Eskişehir Anneleri Buluşuyor Platformu'nun sonbahar etkinliğine yaklaşık 100 anne ve çocuk katıldı.
-
-Odunpazarı Belediyesi'nin desteğiyle düzenlenen Eskişehir Anneleri Buluşuyor etkinliğinde, 0-6 yaş arasındaki çocuklar ve anneleri Alaaddin Park Cafe'de bir araya geldi. Esgazete'nin haberine göre etkinliğe yaklaşık 100 anne ve çocuk katıldı.
-
-Çocuklar sonbahar temalı boyama etkinliğine katıldı, sonbahar yapraklarından taçlar hazırladı; müzik ve geleneksel sokak oyunlarıyla vakit geçirdi. Odunpazarı Belediyesi Kadın ve Aile Hizmetleri Müdürlüğü ile Eskişehir Anneleri Buluşuyor Platformu'nun iş birliğinde düzenlenen etkinlikle annelerin tanışması ve deneyimlerini paylaşması amaçlandı.
-
-Belediye Başkanı Kazım Kurt, daha önce Kanlıkavak Parkı'ndaki buluşmada Alaaddin Park Cafe'nin anneler tarafından kullanılabileceğini söylemişti. Müdürlük de annelerle görüş alışverişinde bulunarak mekânda yapılabilecek düzenlemeleri değerlendirdi.
-
----
-
-## Kurtuluş Kapalı Pazar Yeri'nin açılış tarihi için henüz resmî açıklama yok
-
-**Belediye · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-kurtulus-kapali-pazar-yeri-ne-zaman-acilacak-iste-dusunulen-tarihler)
-
-![](data/images/52cf4cd18d5a0a80-c.jpg)
-
-> Gazeteci Akif Yer, projede fiziki gerçekleşmenin yüzde 99'u geçtiğinin ifade edildiğini, resmî bitiş tarihinin Haziran 2027 olduğunu söyledi.
-
-Eskişehir'de uzun süredir beklenen Kurtuluş Kapalı Pazar Yeri projesinde çalışmaların son aşamaya geldiği belirtiliyor. Kanal 26'daki "Muhabirin Gözünden" programında Esra Merve Özer'in sorularını yanıtlayan gazeteci Akif Yer, projenin son durumunu anlattı.
-
-Akif Yer, fiziki gerçekleşme oranının yüzde 99'u geçtiğinin ifade edildiğini, iç düzenleme ve yerleşim çalışmalarının sürdüğünü söyledi. Projenin resmî bitiş tarihinin Haziran 2027 olduğunu belirten Yer, açılışın daha erken yapılabileceğine dair duyumlar aldığını ve 23 Nisan ile 19 Mayıs tarihlerinin gündeme gelebileceğini aktardı; bu tarihler için resmî bir açıklama bulunmadığını vurguladı.
-
-Yer'in aktardığına göre pazarcı esnafı halen İmar Sokak çevresindeki geçici alanda satış yapıyor. Yeni binada balıkçılar, şarküteriler ve diğer esnaf için kapalı satış alanları oluşturulacak, zemin altında iki katlı otopark ve Pazarcılar Odası için bir ofis yer alacak.
-
----
-
-## Eskişehir'de 23 Ekim'de 7 ilçede planlı elektrik kesintisi: Mahalle mahalle liste
-
-**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehirhaber26.com/eskisehirde-23-ekimde-elektrik-kesintisi-iste-mahalle-mahalle-liste)
-
-![](data/images/ad220084b7b7e129-c.jpg)
-
-> OEDAŞ'ın açıkladığı programa göre Odunpazarı, Tepebaşı, Sarıcakaya, Sivrihisar, Beylikova ve Çifteler'de bazı mahallelerde saatlerce elektrik verilemeyecek.
-
-Osmangazi Elektrik Dağıtım AŞ (OEDAŞ), 23 Ekim 2026 Cuma günü Eskişehir'in 6 ilçesinde bakım, yatırım ve ağaç budama çalışmaları nedeniyle planlı elektrik kesintisi yapılacağını duyurdu. Kesintiler sabah 09.00'da başlayacak, bazı bölgelerde 18.00'e kadar sürecek.
-
-Odunpazarı'nda Orhangazi Mahallesi'nde 09.00-16.00, Karaçay ve Kireç mahallelerinde 10.00-16.00 arasında enerji verilemeyecek. Sarıcakaya'da Beyyayla, Güney ve Kapıkaya mahallelerinde 09.00-17.00 arasında kesinti olacak. Tepebaşı'nda Ertuğrulgazi Mahallesi'nin bazı sokaklarında (Huzur, Arzugül, Damar, İncesu, Ödül ve Porsuk Nehri sokakları) 13.00-16.00 arasında elektrik olmayacak.
-
-Sivrihisar'da Demirciköy, İlören, Koltan, Mülkköy, Nasrettin Hoca, Oğlakçı ve Ortaklar mahallelerinde 10.00-15.30 arasında, Beylikova'da Ata (İstasyon), İkipınar ve Parsıbey mahallelerinde 10.00-16.00 arasında, Çifteler'de Doğanay Mahallesi'nde 11.45-18.00 arasında kesinti yapılacak.
-
-Çalışmaların erken tamamlanması veya saha koşullarına göre saatler değişebilir. Güncel bilgiler OEDAŞ'ın duyurularından ve ALO 186 elektrik arıza hattından öğrenilebiliyor.
-
----
-
-## Eskişehir Şeker Fabrikası'nın taşınması tartışması yeniden gündemde
-
-**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-seker-fabrikasi-tasinacak-mi-koku-sikintisi-yine-gundemde)
-
-![](data/images/dd148d754123f912-c.jpg)
-
-> Kanal 26'da konuşan gazeteci Akif Yer, fabrikanın kokusu, kapasitesi ve çiftçi nakliye giderleri üzerine yürüyen tartışmayı değerlendirdi.
-
-Kanal 26'daki "Muhabirin Gözünden" programında Esra Merve Özer'in sorularını yanıtlayan gazeteci Akif Yer, Eskişehir Şeker Fabrikası'nın taşınmasına ilişkin tartışmaları değerlendirdi. Yer, yaklaşık 93 yıl önce kurulan fabrikanın başlangıçta şehir dışında kaldığını, kentin büyümesiyle yerleşim alanlarının arasında kaldığını anlattı.
-
-Yer'e göre tartışma, AK Parti Eskişehir İl Başkanı Gürhan Albayrak'ın Eskişehir Genç Rençberler Derneği'ni ziyaretiyle gündeme geldi. Albayrak'ın gerekli görülürse taşınmanın mümkün olabileceğini söylediği iddia ediliyor. İYİ Parti Odunpazarı İlçe Başkanı Gürol Yer ise fabrikanın yerinde kalmasını savunuyor ve arazinin rant amacıyla kullanılmaması gerektiğini söylüyor. Genç Rençberler Derneği Başkanı Burak Kuşan ise Mahmudiye'yi pancar üreticileri için ulaşılabilir bir nokta olarak öneriyor.
-
-Akif Yer, taşınmanın nakliye giderlerini azaltabileceğini, ancak fabrikanın üretim ve işleme kapasitesinin artırılmasının şart olduğunu söyledi. Koku sorununun özellikle Tepebaşı'nda hissedildiğini belirten Yer, taşınma kararı alınırsa mevcut arazinin kamu mülkiyetinde kalmasını ve satışa çıkarılmamasını savundu.
-
----
-
-## Erdoğan AK Parti grup toplantısında siyaset dilini ve sel çalışmalarını anlattı
-
-**Siyaset · Türkiye** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.tbmm.gov.tr/Haber/Detay?Id=fe054b99-be80-4d03-a5a7-01a15e25ca54)
-
-![](data/images/5bfdca20b1ba1dbe.jpg)
-
-> Cumhurbaşkanı Erdoğan, TBMM'deki AK Parti Grup Toplantısı'nda muhalefete yönelik eleştirilerde bulundu ve afet çalışmalarına ilişkin bilgi verdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda yaptığı konuşmada geçen hafta İstanbul'dan Ankara'ya gelirken geçirdiği trafik kazasında hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için başsağlığı diledi. Erdoğan, Üsküdar Belediye Başkan Vekili seçilen Muhammed Emin Sarıoğlu'nu da tebrik etti.
-
-Erdoğan, siyasette artan kutuplaşmanın tehlikelerine dikkat çektiğini ve tüm siyasi partileri müştereklerini çoğaltmaya davet ettiğini söyledi. Son üç haftada muhalefetin bazı isimlerinden beklediği tavrı görmediğini belirten Erdoğan, muhalefetin bir kısmının sorumsuz bir tavır sergilediğini ileri sürdü. Fon tartışmalarına da değinen Erdoğan, belgesiz itham ve iftira olarak nitelendirdiği iddialara karşı hukuk ve demokrasi zemininde mücadele edeceklerini söyledi.
-
-Erdoğan ayrıca geçen hafta İstanbul ve çevre illerde yaşanan aşırı yağış, sel ve su baskınlarına ilişkin açıklama yaptı. Devlet olarak vakit kaybetmeden harekete geçtiklerini belirten Erdoğan, 14 Ekim'de afet gruplarının İstanbul'daki il ve ilçe AFAD yönetim merkezlerinde 7 gün 24 saat çalışmaya başladığını, arama kurtarma, müdahale ve destek çalışmalarında 47 bin 217 personelin, 5 bin 280 araç ve 14 botla görev aldığını açıkladı.
-
----
-
-## Çukurova Belediyesi soruşturmasında 34 kişi tutuklandı
-
-**Asayiş · Türkiye** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - CHP](https://www.sonmuhur.com/uc-ay-once-chp-genel-sekreter-yardimcisi-olarak-atanmisti-cukurova-belediyesine-yonelik-sorusturmada-tutuklandi)
-
-![](data/images/2d962c9a1f6e40de-c.jpg)
-
-> Adana Cumhuriyet Başsavcılığı'nın soruşturmasında 19 Ekim'de 51 kişi hakkında gözaltı kararı verilmişti.
-
-Adana Cumhuriyet Başsavcılığı, Çukurova Belediyesi'ne yönelik "suç işlemek amacıyla örgüt kurma, yönetme ve örgüte üye olma", "rüşvet", "nitelikli dolandırıcılık" ve "ihaleye fesat karıştırma" suçlamalarıyla soruşturma yürütüyor. Son Mühür'ün aktardığına göre soruşturmada 19 Ekim'de 51 kişi hakkında gözaltı kararı çıkarılmıştı.
-
-Gözaltına alınanlar arasında Çukurova Belediyesi'nin 2014-2024 arasındaki eski başkanı S. Ç. ile mevcut başkan E. K. de bulunuyordu. Şüphelilerin sorgusunun tamamlanmasının ardından, aralarında üç belediye başkan yardımcısının da olduğu 34 kişi hakkında tutuklama kararı verildi. Haberde, tutuklananlardan eski başkanın bu yıl haziranda CHP Genel Sekreter Yardımcısı olarak atandığı ve mevcut başkanın CHP'den aday gösterildikten sonra Yeni Parti'ye geçtiği belirtildi. Soruşturma sürüyor.
-
----
-
-## AK Parti Eskişehir İl Başkanı Albayrak: Eskişehir Kalkınma Platformu dernekleşecek
-
-**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/ak-parti-eskisehir-il-baskani-gurhan-albayrak-eskisehiri-dunyaya-acmak-istiyoruz)
-
-![](data/images/888ea94b328cd618-c.jpg)
-
-> Albayrak, Brüksel temaslarının ardından THY'yi Eskişehir'e getirmek ve kenti uluslararası alanda tanıtmak istediklerini söyledi.
-
-AK Parti Eskişehir İl Başkanı Gürhan Albayrak, Brüksel temaslarının ardından Sakarya Gazetesi'ne açıklamalarda bulundu. Albayrak, Eskişehir Kalkınma Platformu'nun dernekleşeceğini, platformun internet sitesi ve sosyal medya hesaplarının oluşturulacağını ve faaliyetlerin büyük ölçüde sponsorluklarla yürütülmesinin planlandığını söyledi.
-
-Albayrak'a göre platform DEİK Avrupa İş Dünyası Zirvesi'ne katıldı. Koç Holding CEO'su, Türk Hava Yolları yetkilileri, TÜRSAB Başkanı ve Türkiye'nin Brüksel büyükelçisiyle görüşüldü. THY yetkilileriyle Eskişehir Teknik Üniversitesi ile birlikte pilotaj eğitimleri ve motor bakımı konularının konuşulduğunu anlatan Albayrak, THY'nin Eskişehir'e gelmesini istediklerini belirtti.
-
-Albayrak, kasım sonu veya aralık başında vali, belediye başkanları ve oda başkanlarıyla yeniden Brüksel'e gitmeyi, nisan veya mayısta Brüksel'de Eskişehir Tanıtım Günleri düzenlemeyi ve haziran ya da temmuzda Eskişehir'de Gurbetçiler Festivali yapmayı planladıklarını söyledi. Çevre yolu ve Yenişehir-Gemlik bağlantısının öncelikli konular olduğunu belirten Albayrak, Ulaştırma Bakanlığı'ndan aldığı bilgiye göre bağlantı yolunun ihalesinin 2027'nin ilk çeyreğinde yapılmasının öngörüldüğünü aktardı.
 
 ---
