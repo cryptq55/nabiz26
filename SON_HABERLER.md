@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 23 Ekim 2026: Gram altın 6.468,55 TL
+
+**Ekonomi · Merkez** · 2026-10-23 10:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261023.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.397,13 TL'den alınıyor, 6.468,55 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 13.43 itibarıyla verilerine göre gram altının satış fiyatı 6.468,55 TL, alış fiyatı 6.397,13 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,43 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.543 TL, yarım altın 21.080 TL, tam altın 42.024 TL, ata altın 42.778 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.042,25 TL, has altının gram fiyatı 6.449,20 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.023,00 dolardan işlem görürken, dolar/TL 49,70 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 13.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Türkiye 2027'de 14 ülkede 16 uluslararası turizm fuarına katılacak
 
 **Türkiye · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.turizmaktuel.com/haber/bakanlik-2027-de-katilacagi-uluslararasi-turizm-fuarlarini-acikladi)
@@ -449,23 +469,5 @@ Eskişehir'in Odunpazarı ilçesinde Huzur Mahallesi'nde iki araçtaki kişiler 
 Olay, Dener Sokak ile Camlı Sokak'ın kesişiminde yaşandı. Silah seslerini duyan vatandaşların ihbarı üzerine bölgeye polis ekipleri sevk edildi.
 
 Polisin incelemesinde, iki araçtaki kişilerin karşılıklı ateş ettiği ve ardından olay yerinden ayrıldığı belirlendi. Polis, şüpheli ya da şüphelileri yakalamak için çalışma başlattı.
-
----
-
-## MSB: Askerlik yerleri 27 Ekim'de açıklanacak
-
-**Türkiye · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.ilerigazetesi.com.tr/msb-askerlik-yerlerini-acikliyor)
-
-![](data/images/d4a1768419efa6b3-c.jpg)
-
-> Kasım, Aralık 2026 ve Ocak 2027 dönemi yükümlülerinin sınıflandırma sonuçları 27 Ekim Salı günü erişime açılacak.
-
-Milli Savunma Bakanlığı (MSB), yedek subay ve yedek astsubay adayları ile erlerin askerlik yerlerinin 27 Ekim 2026 Salı günü açıklanacağını duyurdu. Açıklama, MSB Sözcüsü Tuğamiral Zeki Aktürk'ten geldi.
-
-Kasım, Aralık 2026 ve Ocak 2027 dönemlerinde silahaltına alınacak yükümlüler, sonuçlara e-Devlet Kapısı, askerlik şubeleri ve MSB Mobil uygulaması üzerinden ulaşabilecek.
-
-Muvazzaf subay adayı temini başvuruları ile Deniz Kuvvetleri Komutanlığı deniz sınıfı muvazzaf subay adayı temini başvuruları 2 Kasım 2026 tarihine kadar sürecek.
-
-Açıklamada ayrıca Kara Kuvvetleri Komutanlığı'na, Bilgi Güvenliği Derneği'nin Ankara'daki konferansında "Siber Güvenlik Üstün Hizmet Ödülü" verildiği bildirildi.
 
 ---
