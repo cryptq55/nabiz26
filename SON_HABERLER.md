@@ -2,6 +2,82 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg T10F 4More'un Kehribar Serisi tanıtıldı: Yedi farklı renk seçeneği var
+
+**Ekonomi · Türkiye** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-t10f-4more-kehribar-serisi-tanitildi-iste-ozellikleri-3922036)
+
+![](data/images/eda0d527bbaa9968.jpg)
+
+> Çift motorlu T10F 4More 0'dan 100'e 4,3 saniyede ulaşıyor, WLTP'ye göre 500 kilometre menzil sunuyor.
+
+Togg, çift motorlu ve dört tekerlekten çekişli T10F 4More'u "Kehribar Serisi" ile kullanıcılarla buluşturuyor. Seri, Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere yedi farklı gövde rengiyle sunuluyor. Kehribar, Togg'un Obsidiyen Serisi'nden sonraki yeni özel serisi.
+
+Jantlardan ön panjura, logodan yan aynalara ve cam çerçevelerine kadar kehribar detayları kullanılıyor. İç mekânda Artisyn kumaş ve kabartma desenli koltuklar ile özel dekoratif yüzeyler yer alıyor.
+
+T10F 4More, 320 kW (435 PS) güç ve 700 Nm tork üretiyor ve 0'dan 100 km/sa hıza 4,3 saniyede ulaşıyor. 89,6 kWh batarya kapasitesiyle WLTP'ye göre 500 kilometre menzil sunan model, 26,5 dakikalık hızlı şarj süresine sahip.
+
+---
+
+## Şapcı: "Hedefimiz zirveyi almak"; Eskişehirspor Bursa Yıldırımspor'u ağırlayacak
+
+**Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/hakan-sapcihedefimiz-zirveyi-almak)
+
+![](data/images/2ad57978ac694f9e.jpg)
+
+> Şapcı, kazanmaları halinde ligde ikinci sıraya yükseleceklerini söyledi.
+
+Eskişehirspor'dan Hakan Şapcı, Bursa Yıldırımspor maçı öncesinde grupta dengeli bir yapı bulunduğunu ve rakiplerin puan kaybettiğini söyledi. Şapcı, "Rakiplerimizin takıldığı haftada önemli bir avantaj elde ettik" dedi ve bu hafta kazanmaları halinde lig ikincisi olacaklarını, rakip sonuçlarına göre liderliğe oturma ihtimallerinin de bulunduğunu belirtti.
+
+Şapcı, rakibin ne yaptığını bilen, oyun kurgusu olan bir takım olduğunu, ancak kazanmak zorunda oldukları bir maça çıktıklarını ifade etti. Maçta taraftarın da tribündeki yerini alabileceğini hatırlatan Şapcı, Bursa Yıldırım'a bu sezonki ilk mağlubiyetini yaşatmak ve 2 puan önüne geçmek istediklerini söyledi. Bursa Yıldırımspor'u 43 yaşındaki teknik direktör Gürkan Ferhatoğlu çalıştırıyor; Şapcı'nın ekibi geçen sezon Bornova 1877'yi çalıştıran Ferhatoğlu'nun takımını 1-0 yenmişti.
+
+---
+
+## Piyano Günleri'nde Sebastiano Brusco'dan "Liebestraum" resitali
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://yerel-haberler.haberturk.com/eskisehir-haberleri/6-uluslararasi-piyano-gunlerinde-sebastiano-bruscodan-liebestraum-resitali-119501449)
+
+![](data/images/6caf16e8ee31b0d1.jpg)
+
+> 6. Uluslararası Piyano Günleri Anadolu Üniversitesi'nde 24 Ekim'e kadar sürecek.
+
+Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında piyanist Sebastiano Brusco, "Liebestraum" başlıklı resitalini verdi. Resital, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı.
+
+Brusco, Schubert, Chopin, Rachmaninoff ve Liszt'in eserlerini seslendirdi. Programda Schubert'in Impromptu Op. 90 No. 3'ü, Chopin'in noktürn, etüt, baladlar ve polonezi, Rachmaninoff'un Prelude Op. 32 No. 12'si ve Liszt'in Liebestraum No. 3'ü yer aldı. Resitalin sonunda Anadolu Üniversitesi Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, Brusco'ya teşekkür belgesi ve çiçek verdi.
+
+Anadolu Üniversitesi ev sahipliğindeki Piyano Günleri, 24 Ekim'e kadar düzenlenecek konserler ve etkinliklerle sürecek.
+
+---
+
+## Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir GSK sezonun ilk maçına çıkıyor
+
+**Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-perdeyi-aciyor)
+
+![](data/images/9ab171f6f12eda83.jpg)
+
+> Takım Kocaeli'ni Porsuk Spor Salonu'nda saat 16.00'da ağırlayacak.
+
+Erkekler Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir Gençlik ve Spor Kulübü, yeni sezonun ilk maçına çıkıyor. İlk haftayı fikstür gereği dinlenerek geçiren takım, sezonu kendi sahasında açacak. Antrenör Erol Sezer yönetimindeki ekip, Kocaeli karşısında kazanarak lige iyi bir başlangıç yapmayı hedefliyor.
+
+Büyükşehir, A Grubu'nda Beykoz Belediyesi, Kocaeli Gençlik ve Spor İl Müdürlüğü SK, Karagümrük Hentbol ve Zonguldak Gençlik ve Spor İl Müdürlüğü takımlarıyla mücadele edecek. Grubu ilk iki sırada tamamlayan takımlar 1. Lig'e yükselme maçlarına katılma hakkı elde edecek. Karşılaşma Porsuk Spor Salonu'nda saat 16.00'da oynanacak.
+
+---
+
+## Eskişehir Barosu Başkanı Günaydın: Avukat güvenliği ve basın özgürlüğü korunmalı
+
+**Gündem · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehir-barosundan-sert-tepki-gercekler-tutuklanamaz)
+
+![](data/images/1ba3fd94489da14a.jpg)
+
+> Günaydın, avukatlara yönelik saldırılara ve gazetecilerin tutukluluğuna tepki gösterdi.
+
+Eskişehir Barosu Başkanı Barış Günaydın, yaptığı açıklamada son günlerde farklı illerde avukatlara yönelik yaşanan saldırılara dikkat çekti. Aksaray, Afyonkarahisar, Van ve İstanbul'da görevlerini yerine getirirken saldırıya uğrayan avukatları hatırlatan Günaydın, "Avukatın can güvenliği, savunma hakkının güvencesidir" dedi ve etkili yasal düzenlemeler ile somut koruma tedbirleri alınmasını istedi.
+
+Gazeteciler Murat Ağırel ve İsmail Arı'nın tutukluluk durumlarına değinen Günaydın, basın özgürlüğünün anayasal güvence altında olduğunu söyledi. Günaydın, "Tutuklama bir cezalandırma ya da yıldırma aracına dönüşmemelidir" diyerek tutukluluk hallerine son verilmesi çağrısında bulundu.
+
+İzmir'in Menemen ilçesinde öldürülen Avukat Özge Penbegül'ü de anan Günaydın, kadın cinayetlerinin önlenmesi için 6284 sayılı Kanun'un etkin uygulanması gerektiğini belirtti.
+
+---
+
 ## Uluönder'deki teknik arıza 4 tramvay hattını etkiledi, seferler normale döndü
 
 **Ulaşım · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-4-tramvay-hattinda-seferler-normale-dondu)
@@ -373,81 +449,5 @@ TOGG, Türkiye'nin ev sahipliğinde yapılacak Birleşmiş Milletler İklim Değ
 Kamu, özel sektör, uluslararası kuruluşlar, akademi ve sivil toplum temsilcilerini bir araya getirecek zirvede TOGG, elektrikli mobiliteye geçişin iklim hedeflerine katkısını, bu dönüşümü destekleyen enerji ve dijital hizmetlerle birlikte ortaya koyacak. Üretimden günlük kullanıma uzanan uygulamalarını paylaşacak, uluslararası paydaşlarla yeni iş birlikleri geliştirmeyi amaçlayacak.
 
 TOGG Yönetim Kurulu Başkanı Fuat Tosyalı, Türkiye'nin COP31'e ev sahipliği yaparak iklim değişikliğiyle mücadelede küresel sorumluluk üstlenme iradesini gösterdiğini belirtti.
-
----
-
-## Tepebaşı'nda Kızılinler bal kabağıyla rulo pasta ve irmikli baklava atölyesi yapıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.sakaryagazetesi.com.tr/bal-kabagindan-sasirtan-lezzetler)
-
-![](data/images/c836e1e4f9730caf.jpg)
-
-> Etkinlik, 25 Ekim'deki 4. Kızılinler Bal Kabağı Panayırı öncesinde düzenlendi.
-
-Tepebaşı Belediyesi'nin düzenleyeceği 4. Kızılinler Bal Kabağı Panayırı ve Eskişehir Bal Kabağı Çalıştayı öncesinde Mutfak Atölyesi'nde özel bir etkinlik yapıldı. Eskişehir Aşçılar Derneği iş birliğiyle düzenlenen atölyede üretici kadınlar, kendi yetiştirdikleri Kızılinler bal kabaklarını şeflerle birlikte farklı tariflerde değerlendirdi; bal kabağından rulo pasta ve irmikli baklava hazırlandı.
-
-Pastacı Şef Fatma Kurga Kök, bal kabağı püresini rulo pastada kullandıklarını ve çocukların da severek tüketebileceği, katkı maddesi içermeyen bir tarif geliştirdiklerini söyledi. Eskişehir Aşçılar Derneği Başkanı Kemal Kaya, coğrafi işaretli Kızılinler bal kabağının farklı ürünlere dönüştürülmesinin önemine dikkat çekti.
-
-Tepebaşı Belediyesi yetkilileri vatandaşları 25 Ekim Pazar günü yapılacak panayıra ve 26 Ekim'deki Eskişehir Bal Kabağı Çalıştayı'na davet etti. Çalıştayın Türkiye'de ilk kez ulusal ölçekte düzenleneceği belirtildi.
-
----
-
-## SAS2027 Sıfır Atık ve Sürdürülebilirlik Yarışması için başvurular 15 Ocak'a kadar
-
-**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/uluslararasi-sifir-atik-ve-surdurulebilirlik-yarismasi-duzenlenecek/icerik/8687/tr)
-
-![](data/images/d05784c227cd9ba4.jpg)
-
-> Yarışma "Atıktan Sanata", "Görsel Tasarım" ve "Yaşayan Okul Bahçeleri" kategorilerinde yapılacak.
-
-Öğrencilerin sıfır atık, geri dönüşüm ve sürdürülebilirlik konularında farkındalık kazanması hedefiyle "SAS2027 Uluslararası Sıfır Atık ve Sürdürülebilirlik Yarışması" düzenlenecek. Başvurular 15 Ocak 2027 tarihine kadar yapılabilecek.
-
-Yarışma üç kategoride yapılacak. "Atıktan Sanata" kategorisine yurt içindeki okullarda öğrenim gören tüm kademelerdeki öğrenciler katılabilecek. "Görsel Tasarım" kategorisi yurt içi ve yurt dışındaki ortaokul ve lise öğrencilerine, "Yaşayan Okul Bahçeleri" kategorisi ise yurt içi ve yurt dışındaki okullara açık olacak.
-
-Türkçe ve İngilizce yürütülecek yarışma, yurt dışındaki eğitim temsilcilikleri, Türkiye Maarif Vakfı ve kardeş okullar aracılığıyla uluslararası katılıma da açılacak.
-
----
-
-## Odunpazarı Gündoğdu'nda kavşakta kaza: Muhtar tümsek ve trafik aynası istedi
-
-**Gündem · Odunpazarı** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehirhaber.com/eskisehirde-korkutan-kaza-sonrasi-muhtardan-onemli-cagri)
-
-![](data/images/f8646690dc6b9119.jpg)
-
-> İki aracın çarpıştığı kaza maddi hasarla atlatıldı.
-
-Eskişehir'in Odunpazarı ilçesinde Gündoğdu Mahallesi'nde Muratcan Sokak ile Kanalyanı Sokak'ın kesiştiği noktada iki araç henüz belirlenemeyen bir nedenle çarpıştı. Kazada SUV tipi aracın ön kısmı parçalandı, diğer otomobilin sol tarafı ağır hasar gördü. Olay maddi hasarla atlatıldı.
-
-Mahalle Muhtarı Adem Karaman, kavşakta benzer kazaların sık yaşandığını belirterek trafik güvenliğinin artırılmasını istedi. Karaman, bölgeye hız kesici tümsek yapılmasını ve sürücülerin görüşünü kolaylaştıracak bir trafik aynası yerleştirilmesini talep etti.
-
----
-
-## Neapco'nun Eskişehir OSB'deki 35 milyon Euro'luk tesisi açıldı: 120 kişi çalışıyor
-
-**Ekonomi · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/neapco-eskisehir-tesisi-acildi-120-kisiye-istihdam-saglaniyor)
-
-![](data/images/f98a2d9978c036b0.jpg)
-
-> Açılışın öncesinde şirkete Ford Q1 Kalite Ödülü töreni yapıldı.
-
-Küresel otomotiv parça üreticisi Neapco'nun Türkiye yapılanması Neapco Turkey Otomotiv A.Ş., Eskişehir Organize Sanayi Bölgesi'ndeki yeni tesisinde önce Ford Q1 Kalite Ödülü törenini yaptı, ardından fabrikanın resmî açılışını gerçekleştirdi.
-
-Toplam 35 milyon Euro yatırımla hayata geçirilen tesiste yıllık montaj kapasitesi 1,5 milyon adede çıkarıldı, istihdam 120 kişiye ulaştı. Genel Müdür Hüseyin Erdem, ödülün kaliteye bağlılığın göstergesi olduğunu söyledi. Neapco Holdings Küresel Başkanı ve CEO'su Kenneth Hopkins, Ford Q1 statüsünün kazanılmasının kolay olmadığını belirtti. Ford Otosan Satın Alma Direktörü Tunç Yerli de iki kurum arasındaki iş birliğine değindi.
-
----
-
-## MEB'den 81 il valiliğine 24 Kasım Öğretmenler Günü genelgesi
-
-**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/24-kasim-ogretmenler-gunu-genelgesi-yayimlandi/icerik/8688/tr)
-
-![](data/images/7150c211ba05319f.jpg)
-
-> Kutlamalar merkezî programlarla sınırlı kalmayıp 81 ilde kültür, sanat ve akademik etkinliklerle zenginleştirilecek.
-
-Millî Eğitim Bakanı Yusuf Tekin'in imzasıyla 81 il valiliğine gönderilen genelgede, 24 Kasım Öğretmenler Günü'nün öğretmenlere şükranların ifade edilmesi ve mesleğin kıymetinin hatırlanması için önemli bir vesile olduğu vurgulandı. Kutlama programlarına en üst seviyede katılım sağlanması istendi.
-
-Bu yıl kutlama etkinliklerinin merkezî programlarla sınırlı kalmayıp 81 ilde kültür, sanat, akademik çalışmalar, sosyal etkinlikler ve uluslararası iş birlikleriyle çok yönlü biçimde gerçekleştirilmesi amaçlanıyor. İl ve ilçe millî eğitim müdürlükleri, okul ve kurum müdürlükleri ile dış temsilciliklerde kutlama kurulları oluşturulacak; programlar bu kurullarca hazırlanıp uygulanacak.
-
-Programlara mülki erkân, şehit öğretmenlerin yakınları, emekli öğretmenler, mezun öğrenciler ve vatandaşlar davet edilecek. Şehit öğretmenler başta olmak üzere hayatını kaybetmiş öğretmenler kabirleri başında anılacak, şehit öğretmen aileleri ve emekli öğretmenler ziyaret edilecek.
 
 ---
