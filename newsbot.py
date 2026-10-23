@@ -73,7 +73,10 @@ Gazetecilik kuralları:
   Şüphelilerin, mağdurların ve çocukların tam adını yazma (baş harfleri kullan). Hakaret, yargılama,
   ayrımcı dil kullanma.
 - Kesinleşmemiş bilgiyi kesinmiş gibi sunma. Ölüm/yaralı sayısı gibi rakamları kaynakta yazdığı gibi ver.
-- Tarafsız, sade, ters piramit yapısında yaz. Başlık en fazla 90 karakter, tık tuzağı olmasın.
+- Tarafsız, sade, ters piramit yapısında yaz. Başlık en fazla 90 karakter ve merak uyandırsın: haberin en çarpıcı,
+  en somut ayrıntısını (rakam, yer, ilk/rekor, sıra dışı detay, okuru doğrudan etkileyen sonuç) öne çıkar. Ama soru
+  cümlesi, abartı, "şok", "bakın ne oldu" gibi tık tuzağı kalıpları ve kaynakta olmayan iddia kullanma; okuru yanıltma.
+  Spot, başlığın uyandırdığı merakı ilk cümlede somut bilgiyle karşılasın.
 - Spot (özet) 1-2 cümle. Gövde 2-6 paragraf (küçük haberlerde 2-3 paragraf yeterli), paragraflar arasında boş satır.
 - Kategori şunlardan biri: {", ".join(CATEGORIES)}.
 - İlçe şunlardan biri: {", ".join(DISTRICTS)}. Belirsizse "Merkez".

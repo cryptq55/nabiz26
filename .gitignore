@@ -3,3 +3,4 @@ public/
 .env
 indexnow-urls.txt
 relay/.wrangler/
+.wrangler/

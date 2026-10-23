@@ -18,6 +18,19 @@ feeds:
     url: https://news.google.com/rss/search?q=Eski%C5%9Fehirspor+when:1d&hl=tr&gl=TR&ceid=TR:tr
     topic: yerel
     brand_cover: true
+  # Çeşitlilik: asayiş, etkinlik ve merak uyandıran yerel konular (gazete fotoğrafı yerine kendi kapağımız)
+  - name: Google Haberler - Eskişehir asayiş
+    url: https://news.google.com/rss/search?q=Eski%C5%9Fehir+(kaza+OR+yang%C4%B1n+OR+polis+OR+jandarma+OR+operasyon)+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: yerel
+    brand_cover: true
+  - name: Google Haberler - Eskişehir etkinlik
+    url: https://news.google.com/rss/search?q=Eski%C5%9Fehir+(konser+OR+festival+OR+sergi+OR+tiyatro+OR+etkinlik)+when:1d&hl=tr&gl=TR&ceid=TR:tr
+    topic: yerel
+    brand_cover: true
+  - name: Google Haberler - Eskişehir gündem
+    url: https://news.google.com/rss/search?q=Eski%C5%9Fehir+(ilk+kez+OR+rekor+OR+ilgin%C3%A7+OR+yeni+a%C3%A7%C4%B1lan+OR+tarihi)+when:2d&hl=tr&gl=TR&ceid=TR:tr
+    topic: yerel
+    brand_cover: true
   # Konu kaynağı: Togg haberleri (Eskişehir şartı yok; gazete fotoğrafı yerine marka kapağı üretilir)
   - name: Google Haberler - Togg
     url: https://news.google.com/rss/search?q=Togg+when:1d&hl=tr&gl=TR&ceid=TR:tr
@@ -75,6 +88,15 @@ pages:
   - name: Seyitgazi Belediyesi
     url: https://www.seyitgazi.bel.tr/
   # İl müdürlükleri
+  - name: Eskişehir İl Milli Eğitim Müdürlüğü
+    url: https://eskisehir.meb.gov.tr/
+    link_contains: /icerik/
+  - name: Eskişehir İl Emniyet Müdürlüğü
+    url: https://www.eskisehir.pol.tr/haberler
+    link_text: '\d{2}\.\d{2}\.\d{4}\s'
+  - name: Eskişehir AFAD
+    url: https://eskisehir.afad.gov.tr/haberler
+    link_text: '\d{2}\.\d{2}\.\d{4}\s'
   - name: Eskişehir İl Tarım ve Orman Müdürlüğü
     url: https://eskisehir.tarimorman.gov.tr/
   - name: Eskişehir Gençlik ve Spor İl Müdürlüğü
