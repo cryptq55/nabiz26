@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurşunlu Külliyesi'nde tahliye kasım başında uygulanacak: Vakıflar Bölge Müdürü açıkladı
+
+**Belediye · Odunpazarı** · 2026-10-23 22:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/eskisehir-kursunlu-kulliyesi-nde-tahliye-karari--tarih-verildi-296896.html)
+
+![](data/images/d9dae315501f8c1e.jpg)
+
+> Odunpazarı Belediyesi'nin yürütmeyi durdurma başvurusu kabul edilmedi; külliyenin geleceği netleşmedi.
+
+Kütahya Vakıflar Bölge Müdürü Muhammet Enes Çınar, Odunpazarı Belediyesi ile Kurşunlu Külliyesi'nin kira bedeli ve artış oranı nedeniyle yaşanan anlaşmazlığın yargıya taşındığını, mahkeme sürecinin ardından tahliye kararı verildiğini söyledi. Çınar, belediyenin tahliye kararına karşı yaptığı yürütmeyi durdurma başvurusunun kabul edilmediğini belirtti.
+
+Çınar, tahliyenin kasım ayının başında Odunpazarı Kaymakamlığı ve emniyet güçlerince yürütüleceğini ifade etti. Külliyenin nasıl değerlendirileceğine ilişkin bir rapor hazırlayıp Vakıflar Genel Müdürlüğü'ne sunduklarını, henüz kesinleşmiş bir karar bulunmadığını ve külliyedeki müzeler ile alt kiracıların durumunun netleşmediğini söyledi.
+
+Haberde, Başkan Kazım Kurt'un daha önce belediyeye tahliye tebligatı gönderildiğini ve işlemin 3 Kasım'a kadar gerçekleştirilmesinin istendiğini açıkladığı aktarıldı. Yaklaşık 10 yıl önce benzer bir süreçte Kurt'un oturma eylemi yaptığı ve iki kurum arasında uzlaşma sağlandığı da hatırlatıldı.
+
+---
+
+## AÖF'te İkinci Üniversite kayıtları 26 Ekim saat 17.00'ye kadar uzatıldı
+
+**Eğitim · Tepebaşı** · 2026-10-23 22:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirhaberajansi.com/aofte-ikinci-universite-kayitlari-uzatildi)
+
+![](data/images/c689eebba3e107b6.jpg)
+
+> AÖF'ün aktif öğrenci sayısı 1 milyonu aştı; öğrenci affı bahar dönemi başvuruları 9 Aralık'a kadar sürecek.
+
+Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), aktif öğrenci sayısında 1 milyon barajını geçti. Üniversite öğrencileri ve mezunlarına sınava girmeden ön lisans veya lisans programlarına kayıt olma imkânı sunan İkinci Üniversite programına yoğun ilgi gösterilmesi üzerine kayıt süresi 26 Ekim Pazartesi günü saat 17.00'ye kadar uzatıldı. Kayıtlar aoskayit.anadolu.edu.tr adresinden yapılıyor. Yapay Zekâ Destekli Kodlama ve Veri Görselleştirme programları adayların en çok tercih ettiği yeni programlar oldu.
+
+Öğrenci affı kapsamında güz dönemi kesin kayıt işlemleri sona erdi; yaklaşık 300 bin kişi başvuruda bulundu. Kesin kaydı onaylanan öğrenciler ders ekleme ve silme işlemlerini 26 Ekim saat 22.00'ye kadar yapabilecek. Öğrenci affı 2026-2027 bahar dönemi başvuruları ise 9 Aralık 2026 Çarşamba günü saat 17.00'ye kadar kabul edilecek.
+
+---
+
 ## Altes Tribün Lideri Uluçay'dan Altay deplasmanı öncesi taraftara "siyah giyin" çağrısı
 
 **Spor · Merkez** · 2026-10-23 21:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaber.com/altes-tribun-lideri-mucahit-ulucaydan-eskisehirspor-taraftarina-cagri)
@@ -385,29 +415,5 @@ Avrupa Birliği'nin eş finansman desteğiyle UNICEF tarafından yürütülen AC
 Uluslararası ve ulusal çerçevelere ve Eskişehirspor altyapısında yürütülen saha çalışmasına dayanan rehber, 18 yaş altı sporcularla çalışan kulüplerin ölçekleri ve branşları ne olursa olsun kendi çocuk koruma sistemlerini kurmalarına yardımcı olmak için hazırlandı. Toplantıda rehberin içeriği tanıtılacak, panelde sporda çocuk koruma yaklaşımı ve uygulama yöntemleri ele alınacak.
 
 Eskişehir'de çocuk sporcularla çalışan tüm kulüpler ve kurumlar toplantıya katılabilecek. Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
-
----
-
-## Eskişehir'de kaçak alkol ve uyuşturucu operasyonu: 1 şüpheli gözaltına alındı
-
-**Asayiş · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-kacakcilik-ve-uyusturucu-operasyon-43352458)
-
-> İki adreste yapılan aramalarda hap, sentetik uyuşturucu ve kaçak içki ele geçirildi.
-
-Eskişehir'de kaçak ve sahte alkol ticareti yaparak halk sağlığını tehlikeye düşürdükleri belirlenen şüphelilere yönelik operasyon yapıldı. Çalışma Eskişehir Cumhuriyet Başsavcılığı koordinesinde İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şubesi ekiplerince yürütüldü.
-
-İki adreste yapılan aramalarda 12 bin 460 yeşil reçeteye tabi hap, 3 bin 380 gram sentetik uyuşturucu ve 61 şişe kaçak ve sahte alkollü içki ele geçirildi. Bir şüpheli gözaltına alındı. Diğer şüphelinin ise uyuşturucu veya uyarıcı madde imal ve ticareti suçundan cezaevinde bulunduğu belirlendi. Soruşturmanın sürdüğü bildirildi.
-
----
-
-## Eskişehir Model Fabrika'da 9. Öğren Dönüş Programı'nın ikinci aşaması yapıldı
-
-**Ekonomi · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sanayi-odasina-bagli-eskisehir-model-fabrikadan-firmalara-onemli-destek)
-
-> Katılımcılara performans takibi, yalın üretim ve Just in Time konularında uygulamalı eğitim verildi.
-
-Eskişehir Sanayi Odası'na bağlı Eskişehir Model Fabrika'da düzenlenen 9. Öğren Dönüş Programı'nın ikinci aşaması gerçekleştirildi. Katılımcılara üretimde verimliliğin artırılması, performansın takip edilmesi ve süreçlerin iyileştirilmesine yönelik uygulamalı eğitimler verildi.
-
-Eğitimlerde Performans Panosu, standart operasyon prosedürleri (SOP), tam zamanında üretim (Just in Time) yaklaşımı ve Yamazumi çalışmaları ele alındı; SOCT uygulamaları doğrudan üretim hattında gözlemlendi. Programın sonraki aşamalarında firmaların öğrendikleri yöntemleri kendi pilot üretim alanlarında uygulamaları amaçlanıyor.
 
 ---
