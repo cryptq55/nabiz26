@@ -2,6 +2,76 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Uluönder'deki teknik arıza 4 tramvay hattını etkiledi, seferler normale döndü
+
+**Ulaşım · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-4-tramvay-hattinda-seferler-normale-dondu)
+
+![](data/images/b735fbc42a7abe21.jpg)
+
+> Arıza nedeniyle Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri çalıştırıldı.
+
+Eskişehir'de SSK yönünde, Uluönder tramvay durağı bölgesinde teknik arıza yaşandı. Arıza nedeniyle Otogar-SSK, SSK-OGÜ, Batıkent-SSK ve Çamlıca-SSK hatlarında seferler geçici olarak durduruldu.
+
+Yolcuların mağdur olmaması için Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri devreye alındı. ESTRAM'ın yaptığı yeni açıklamada teknik sorunun giderildiği ve tramvay seferlerinin yeniden normale döndüğü bildirildi.
+
+---
+
+## Tepebaşı Belediyesi'nde Özel Kalem Müdürlüğü'ne Banu Gümüşpala getirildi
+
+**Belediye · Tepebaşı** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-yeni-ozel-kalem-muduru-resmen-belli-oldu)
+
+![](data/images/9eb00de363f48e44.jpg)
+
+> Görevi yürüten Suat Yalnızoğlu'nun yerine atama yapıldı.
+
+Tepebaşı Belediyesi Özel Kalem Müdürlüğü görevini yürüten Suat Yalnızoğlu'nun yerine Banu Gümüşpala getirildi. Görev değişikliği Başkan Ahmet Ataç'ın onayının ardından resmiyet kazandı. Özel Kalem Müdürlüğü görevini bundan sonra Gümüşpala yürütecek.
+
+---
+
+## Eskişehirspor ve UNICEF projesi: "Spor Kulüpleri için Çocuk Koruma Rehberi" tanıtılacak
+
+**Spor · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-rehberlik-yapacak)
+
+![](data/images/76abda107ccc9000.jpg)
+
+> Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
+
+Avrupa Birliği'nin eş finansman desteğiyle UNICEF tarafından yürütülen ACAR Projesi kapsamında Toy Gençlik Derneği ve Eskişehirspor Kulübü iş birliğinde hazırlanan "Spor Kulüpleri için Çocuk Koruma Rehberi" için tanıtım toplantısı yapılacak.
+
+Uluslararası ve ulusal çerçevelere ve Eskişehirspor altyapısında yürütülen saha çalışmasına dayanan rehber, 18 yaş altı sporcularla çalışan kulüplerin ölçekleri ve branşları ne olursa olsun kendi çocuk koruma sistemlerini kurmalarına yardımcı olmak için hazırlandı. Toplantıda rehberin içeriği tanıtılacak, panelde sporda çocuk koruma yaklaşımı ve uygulama yöntemleri ele alınacak.
+
+Eskişehir'de çocuk sporcularla çalışan tüm kulüpler ve kurumlar toplantıya katılabilecek. Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
+
+---
+
+## Eskişehir'de kaçak alkol ve uyuşturucu operasyonu: 1 şüpheli gözaltına alındı
+
+**Asayiş · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-kacakcilik-ve-uyusturucu-operasyon-43352458)
+
+![](data/images/b17e191d6afb94eb.jpg)
+
+> İki adreste yapılan aramalarda hap, sentetik uyuşturucu ve kaçak içki ele geçirildi.
+
+Eskişehir'de kaçak ve sahte alkol ticareti yaparak halk sağlığını tehlikeye düşürdükleri belirlenen şüphelilere yönelik operasyon yapıldı. Çalışma Eskişehir Cumhuriyet Başsavcılığı koordinesinde İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şubesi ekiplerince yürütüldü.
+
+İki adreste yapılan aramalarda 12 bin 460 yeşil reçeteye tabi hap, 3 bin 380 gram sentetik uyuşturucu ve 61 şişe kaçak ve sahte alkollü içki ele geçirildi. Bir şüpheli gözaltına alındı. Diğer şüphelinin ise uyuşturucu veya uyarıcı madde imal ve ticareti suçundan cezaevinde bulunduğu belirlendi. Soruşturmanın sürdüğü bildirildi.
+
+---
+
+## Eskişehir Model Fabrika'da 9. Öğren Dönüş Programı'nın ikinci aşaması yapıldı
+
+**Ekonomi · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sanayi-odasina-bagli-eskisehir-model-fabrikadan-firmalara-onemli-destek)
+
+![](data/images/44f07bec357861bc.jpg)
+
+> Katılımcılara performans takibi, yalın üretim ve Just in Time konularında uygulamalı eğitim verildi.
+
+Eskişehir Sanayi Odası'na bağlı Eskişehir Model Fabrika'da düzenlenen 9. Öğren Dönüş Programı'nın ikinci aşaması gerçekleştirildi. Katılımcılara üretimde verimliliğin artırılması, performansın takip edilmesi ve süreçlerin iyileştirilmesine yönelik uygulamalı eğitimler verildi.
+
+Eğitimlerde Performans Panosu, standart operasyon prosedürleri (SOP), tam zamanında üretim (Just in Time) yaklaşımı ve Yamazumi çalışmaları ele alındı; SOCT uygulamaları doğrudan üretim hattında gözlemlendi. Programın sonraki aşamalarında firmaların öğrendikleri yöntemleri kendi pilot üretim alanlarında uygulamaları amaçlanıyor.
+
+---
+
 ## Tepebaşı'nda 440 lise öğrencisine iklim krizi ve COP31 anlatıldı
 
 **Eğitim · Tepebaşı** · 2026-10-23 12:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/440ogrenciiklimkrizivecop31’ikonustu)
@@ -379,83 +449,5 @@ Millî Eğitim Bakanı Yusuf Tekin'in imzasıyla 81 il valiliğine gönderilen g
 Bu yıl kutlama etkinliklerinin merkezî programlarla sınırlı kalmayıp 81 ilde kültür, sanat, akademik çalışmalar, sosyal etkinlikler ve uluslararası iş birlikleriyle çok yönlü biçimde gerçekleştirilmesi amaçlanıyor. İl ve ilçe millî eğitim müdürlükleri, okul ve kurum müdürlükleri ile dış temsilciliklerde kutlama kurulları oluşturulacak; programlar bu kurullarca hazırlanıp uygulanacak.
 
 Programlara mülki erkân, şehit öğretmenlerin yakınları, emekli öğretmenler, mezun öğrenciler ve vatandaşlar davet edilecek. Şehit öğretmenler başta olmak üzere hayatını kaybetmiş öğretmenler kabirleri başında anılacak, şehit öğretmen aileleri ve emekli öğretmenler ziyaret edilecek.
-
----
-
-## Eskişehirspor, Bursa Yıldırım SK maçı hazırlıklarını sürdürüyor
-
-**Spor · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyamidas.com/spor/eskisehirspor-bursa-yildirim-sk-macina-hazirlaniyor)
-
-![](data/images/070e1d53a06d2726.jpg)
-
-> Kırmızı-siyahlı ekip hafta sonu oynayacağı maçın hazırlıklarını kulüp tesislerinde yaptığı antrenmanla sürdürdü.
-
-TFF 3. Lig'de mücadele eden Eskişehirspor, hafta sonu oynayacağı Bursa Yıldırım SK karşılaşmasının hazırlıklarını sürdürüyor. Kulüp tesislerinde teknik heyet yönetiminde yapılan çalışmada futbolcular pas ve taktik varyasyonları üzerinde durdu.
-
-Kırmızı-siyahlı ekip antrenmanın ardından maç saatini beklemeye geçecek.
-
----
-
-## CHP, 5 Aralık'ta Ankara'da yapılacak "Engelli Buluşması" için toplantı yaptı
-
-**Siyaset · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chp-den-engelliler-bulusmasi-efc8bda2)
-
-![](data/images/09097ef0717cbe9d.jpg)
-
-> Toplantıya CHP Genel Başkan Yardımcısı Necdet Saraç başkanlık etti.
-
-CHP, 5 Aralık'ta Ankara'da yapılması planlanan "CHP Engelli Buluşması" için CHP Genel Merkezi'nde koordinasyon toplantısı yaptı. Toplantıya CHP Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç başkanlık etti.
-
-Toplantıya CHP Engelliler Kurulu Başkanı Cemal Kaman, CHP Ankara İl Başkan Yardımcısı Burak Bilici, Türkiye Sakatlar Derneği Genel Başkanı Şükrü Poyraz, sivil toplum kuruluşları ve engelli derneklerinin temsilcileri katıldı.
-
-Saraç, engelli bireylerin toplumsal yaşamın dışında bırakılmadığı, eğitimden istihdama, ulaşımdan dijital hizmetlere her alanda eşit katılımın sağlandığı bir düzenin kurulması gerektiğini söyledi. Saraç, buluşmanın Kemal Kılıçdaroğlu'nun da katılımıyla gerçekleşeceğini belirtti.
-
----
-
-## Bakan Tekin İstanbul'da Güngören Güneşlitepe İlkokulu'nu ziyaret etti
-
-**Eğitim · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-istanbul039da-gungoren-guneslitepe-ilkokulunu-ziyaret-etti/haber/42271/tr)
-
-![](data/images/c19425d15fe3d13b.jpg)
-
-> Tekin, "Maarifin Kalbinde Oyun" temalı etkinlik alanlarında öğrencilerle bir araya geldi.
-
-Millî Eğitim Bakanı Yusuf Tekin, İstanbul'da Güngören Güneşlitepe İlkokulu'nu ziyaret etti. Tekin, "Maarifin Kalbinde Oyun" temasıyla kurulan etkinlik alanlarında öğrencilerle bir araya geldi; halat çekme, yüz boyama ve topaç çevirme gibi geleneksel oyunlarda çocuklara eşlik etti. Okulun öğretmenler odasında eğitimcilerle de görüştü.
-
-Basına açıklama yapan Tekin, oyunu çocukların okulda eğlenerek öğrenmesi ve geleneksel kültürün, ortak değerlerin aktarılması için önemli bir araç olarak gördüklerini söyledi. Geleneksel çocuk oyunlarının gelecek kuşaklara aktarılması için 2023 yazındaki genelgeyle bir başlangıç yaptıklarını belirtti.
-
----
-
-## TİHEK, görme engelli başvuru üzerine Büyükşehir ve Tepebaşı'na 50'şer bin lira ceza verdi
-
-**Belediye · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.memurlar.net/haber/1181773/gorme-engelliye-ayrimcilik-tihek-ten-iki-belediyeye-ceza.html)
-
-![](data/images/d9f657fc6f38aed1.jpg)
-
-> Kurum, erişilebilirlik koşullarının sağlanmamasını engellilik temelinde ayrımcılık saydı.
-
-Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), görme engelli bir kişinin işe gidiş ve dönüşlerinde kullandığı güzergâhta erişilebilirlik koşullarının sağlanmaması nedeniyle Eskişehir Büyükşehir Belediyesi ile Tepebaşı Belediyesi'ne 50'şer bin lira idari para cezası verdi.
-
-Yüzde 52 oranında görme engeli bulunan başvuran, güzergâhta hız kesici kasis ve yaya geçidi bulunmadığını, kaldırımların erişilebilirlik standartlarına uygun olmadığını öne sürdü. UKOME'ye yaptığı kasis talebinin reddedildiğini savundu. Büyükşehir, bölgenin komisyonca incelendiğini, kasise gerek olmadığı görüşüne varıldığını ve kaldırımlardan sorumlu Tepebaşı Belediyesi'ne konunun bildirildiğini savundu.
-
-Erişilebilirlik İzleme ve Denetleme Komisyonu'nun teknik incelemesinde kaldırımlarda 150 santimetre genişliğinde kesintisiz geçişin sağlanamadığı, elektrik direkleri ve trafik tabelalarının yaya geçişini engellediği, bazı noktalarda rampa, yaya geçidi ve hissedilebilir yüzey işaretlerinin bulunmadığı tespit edildi.
-
-TİHEK, Büyükşehir'in aldığı alternatif tedbirlerin etkili bir çözüm oluşturmadığını, Tepebaşı'nın ise erişilebilir çevre koşullarını makul sürede sağlayamadığını belirterek engellilik temelinde ayrımcılık yasağının ihlal edildiğine hükmetti.
-
----
-
-## Mahalle AFAD Gönüllü Ekipleri için ESTÜ'de belge takdim töreni yapıldı
-
-**Gündem · Tepebaşı** · 2026-10-23 09:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/13-ekim-uluslararasi-afet-risklerinin-azaltilmasi-gunu-kapsaminda-belge-takdim-toreni-estu039de-gerceklestirildi/icerik/8691/tr)
-
-![](data/images/2a7f6f680bdcf940.jpg)
-
-> 13 Ekim Afet Risklerinin Azaltılması Günü kapsamındaki törende 103 gönüllü ve ekipler ödüllendirildi.
-
-13 Ekim Uluslararası Afet Risklerinin Azaltılması Günü kapsamında Eskişehir Valiliği öncülüğünde ve İl AFAD Müdürlüğü koordinasyonunda Mahalle AFAD Gönüllü Ekipleri ve Akredite Arama Kurtarma Ekipleri Belge Takdim Töreni düzenlendi. Tören, Eskişehir Teknik Üniversitesi (ESTÜ) Yabancı Diller Yüksekokulu Konferans Salonu'nda yapıldı.
-
-Törene Vali Yardımcısı Yakup Güney, ESTÜ Rektör Yardımcısı Prof. Dr. Onur Kaya, İl AFAD Müdürü Aslan Mehmet Coşkun ve İl Millî Eğitim Müdür Yardımcısı Ali Türkal katıldı. Deliklitaş, Emek, Kurtuluş, Şirintepe ve Uluönder mahallelerinde toplam 103 gönüllü projeye katıldı.
-
-Projeye katkı sunan beş mahalle muhtarına plaket verildi. MEB AKUB, İHH Eskişehir ve Arçelik bünyesindeki akredite arama kurtarma ekiplerinin temsilcilerine başarı belgesi takdim edildi. Eskişehir MEB AKUB adına İl Millî Eğitim Müdürlüğü'ne plaket verildi.
 
 ---
