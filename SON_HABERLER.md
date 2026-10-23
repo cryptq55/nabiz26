@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altes Tribün Lideri Uluçay'dan Altay deplasmanı öncesi taraftara "siyah giyin" çağrısı
+
+**Spor · Merkez** · 2026-10-23 21:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaber.com/altes-tribun-lideri-mucahit-ulucaydan-eskisehirspor-taraftarina-cagri)
+
+![](data/images/ce7a8bee8cb99f5f.jpg)
+
+> Uluçay, deplasman yolunda ve tribünde tek görüntü oluşturulmasını istedi.
+
+Eskişehirspor'un taraftar grubu Altes'in tribün lideri Mücahit Uluçay, hafta sonu oynanacak Altay deplasmanı öncesinde taraftarlara birlik ve beraberlik mesajı verdi. Uluçay, taraftarlardan deplasman yolunda ve tribünde siyah kıyafet giyerek tek bir görüntü oluşturmalarını istedi.
+
+Uluçay, "Siyahın içinde tek yürek, tek ses, tek sevda olalım" dedi. Tribün kültürünün kardeşlik, sadakat ve vefa olduğunu vurgulayan Uluçay, taraftarların gittikleri her yerde kulübü en iyi şekilde temsil etmesi gerektiğini söyledi.
+
+---
+
 ## SOLOTÜRK 29 Ekim'de Sazova Parkı'nda gösteri uçuşu yapacak
 
 **Gündem · Tepebaşı** · 2026-10-23 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.trthaber.com/haber/turkiye/soloturk-29-ekimde-eskisehirde-gosteri-ucusu-yapacak-961033.html)
@@ -395,21 +409,5 @@ Eskişehir'de kaçak ve sahte alkol ticareti yaparak halk sağlığını tehlike
 Eskişehir Sanayi Odası'na bağlı Eskişehir Model Fabrika'da düzenlenen 9. Öğren Dönüş Programı'nın ikinci aşaması gerçekleştirildi. Katılımcılara üretimde verimliliğin artırılması, performansın takip edilmesi ve süreçlerin iyileştirilmesine yönelik uygulamalı eğitimler verildi.
 
 Eğitimlerde Performans Panosu, standart operasyon prosedürleri (SOP), tam zamanında üretim (Just in Time) yaklaşımı ve Yamazumi çalışmaları ele alındı; SOCT uygulamaları doğrudan üretim hattında gözlemlendi. Programın sonraki aşamalarında firmaların öğrendikleri yöntemleri kendi pilot üretim alanlarında uygulamaları amaçlanıyor.
-
----
-
-## Tepebaşı'nda 440 lise öğrencisine iklim krizi ve COP31 anlatıldı
-
-**Eğitim · Tepebaşı** · 2026-10-23 12:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/440ogrenciiklimkrizivecop31’ikonustu)
-
-![](data/images/5b4c6c33810c7222.jpg)
-
-> Özel Atayurt ve Özel Çağdaş Okulları'nın 9. ve 10. sınıf öğrencilerine sunum yapıldı.
-
-Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü, Özel Atayurt Okulları ve Özel Çağdaş Okulları'nın lise öğrencilerine "Gezegenin Geleceği ve İklim Uzlaşmaları: COP31" başlıklı sunum yaptı. Sunuma 9. ve 10. sınıflardan toplam 440 öğrenci katıldı.
-
-Sunumda iklim krizinin nedenleri ve günlük yaşama etkileri, sera gazları, Dünya Limit Aşım Günü, su kaynaklarının korunması, su ayak izi ve kentsel ısı adası etkisi ele alındı. Rio Zirvesi'nden Kyoto Protokolü ve Paris Anlaşması'na uzanan süreç, 1,5 derece hedefi ve Taraflar Konferansı'nın işleyişi anlatıldı.
-
-Sunumun ardından düzenlenen interaktif oyunda başarılı olan üç öğrenciye not defteri ve kalem hediye edildi.
 
 ---
