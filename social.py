@@ -194,6 +194,11 @@ def make_post(a, image_path, out, site="nabiz26.com"):
     d.text((W - M - pw - 18, base - 22), place, font=font("Inter.ttf", 28, 600), fill=MUTED, anchor="rm")
     f, lines, size = fit_headline(d, a["title"], W - 2 * M, 3, [80, 74, 68, 62, 56])
     lh = int(size * 1.08)
+    if (a.get("image") or {}).get("credit") == "Nabız 26":
+        lines = []  # başlık zaten kapağın üstünde yazıyor; iki kez görünmesin
+        sf = font("Inter.ttf", 40, 500)
+        for i, line in enumerate(wrap(d, a["spot"], sf, W - 2 * M, 4)):
+            d.text((M, base + 50 + i * 56), line, font=sf, fill=(205, 200, 212))
     for i, line in enumerate(lines):
         d.text((M, base + 50 + i * lh), line, font=f, fill="white")
     beat_line(d, H - 118, W)

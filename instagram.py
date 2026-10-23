@@ -186,7 +186,8 @@ def main():
         except RuntimeError as e:
             print("gönderi hatası:", f["slug"], e, file=sys.stderr)
     # 3) Story: kalan hakla, en yeniler (fazlası atlanır)
-    new = [f for f in reversed(feed) if f["slug"] not in state["stories"]]  # eskiden yeniye
+    # Story yalnızca haberin kendi gerçek fotoğrafıyla (kendi başlıklı kapağımız story'de başlığı iki kez gösterir)
+    new = [f for f in reversed(feed) if f["slug"] not in state["stories"] and not f.get("own_cover")]
     take = new[-min(MAX_STORIES, max(0, left)):] if left > 0 else []
     for f in take:
         try:
