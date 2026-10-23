@@ -52,10 +52,11 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 
 ## Kurallar
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
-  İstisna: resmî fotoğrafı olmayan haberlere (Google Haberler kaynakları) Wikimedia Commons'tan habere uygun serbest
-  lisanslı fotoğraf konur (`commons.py`, `newsbot.commons_image`); altında fotoğrafçı, lisans ve Commons bağlantısı,
-  kartlarda 'Temsilî' etiketi. Sahibi yapay zekâ görseli istemedi (relay `/gorsel` kullanılmıyor). Bulunamazsa kendi
-  kapağımız (`social.topic_card`); `servis.yml` `--fill-images` ile sonradan tamamlar. Altın haberi tablo kapağıyla kalır.
+  Resmî fotoğraf yoksa editörün `image_query`'sine (kişi/ürün/yer tam adı) birebir uyan Wikimedia Commons
+  fotoğrafı (`media.py`: dosya adında adın bütün kelimeleri, ≥1000 px, CC BY/BY-SA/CC0/kamu malı, logo/harita/afiş yok);
+  sitede ve kartlarda "Arşiv fotoğrafı" etiketi, fotoğrafçı ve lisans. Bulunamazsa haber yayınlanmaz. Sahibi yapay zekâ
+  görseli ve yazılı kapak istemedi (23.10.2026). Birebir fotoğrafı olmayan eski haberler gizlendi (`image: null`,
+  eski görsel `image_hidden` alanında). Altın haberi tablo kapağıyla kalır.
 - Yayınlanmış haber sonradan elle değiştirilmez (düzeltme gerekirse sahibine sor).
 - Haberlerde kaynakta olmayan bilgi yok. Asayişte masumiyet karinesi, tam isim yok.
 - Gizli bilgiler (token, şifre) sohbete yazılmaz; GitHub Secrets'a eklenir.

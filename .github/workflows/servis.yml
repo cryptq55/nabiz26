@@ -25,14 +25,12 @@ jobs:
           python-version: "3.12"
       - run: pip install -q -r requirements.txt
       - run: python servis.py
-      # Kota dolduğu için yazılı kapakla çıkan haberlere temsilî görsel (Cloudflare Workers AI kotası her gün sıfırlanır)
-      - run: python newsbot.py --fill-images 15
       - name: Kaydet
         run: |
           git config user.name "nabiz26-bot"
           git config user.email "nabiz26-bot@users.noreply.github.com"
           git add data/servis.json data/articles data/images
           if ! git diff --cached --quiet; then
-            git commit -q -m "Kent servisleri ve temsilî görseller güncellendi"
+            git commit -q -m "Kent servisleri güncellendi"
             for i in 1 2 3; do git pull --rebase -X ours -q origin main && git push -q origin HEAD:main && break; sleep 5; done
           fi

@@ -19,7 +19,7 @@
   {% if a.image %}
   <figure class="story-photo">
     {{ cover(a, "xl", True) }}
-    <figcaption>{% if a.image.representative %}Temsilî fotoğraf (olayın kendisine ait değildir): <a href="{{ a.image.source_url }}" rel="nofollow noopener" target="_blank">{{ a.image.credit }}</a>{% elif a.image.ai %}Temsilî görsel: yapay zekâ ile üretilmiştir, olayın kendisine ait değildir.{% else %}Fotoğraf: {{ a.image.credit }}{% endif %}</figcaption>
+    <figcaption>{% if a.image.archive %}Arşiv fotoğrafı: <a href="{{ a.image.source_url }}" rel="nofollow noopener" target="_blank">{{ a.image.credit }}</a>{% elif a.image.representative %}Temsilî fotoğraf (olayın kendisine ait değildir): <a href="{{ a.image.source_url }}" rel="nofollow noopener" target="_blank">{{ a.image.credit }}</a>{% elif a.image.ai %}Temsilî görsel: yapay zekâ ile üretilmiştir, olayın kendisine ait değildir.{% else %}Fotoğraf: {{ a.image.credit }}{% endif %}</figcaption>
   </figure>
   {% else %}{{ cover(a, "xl") }}{% endif %}
   <div class="prose">

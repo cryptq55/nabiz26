@@ -177,8 +177,11 @@ def framed(a, image_path, W, H, photo_h):
         photo = top_shade(photo, 240)
     im.paste(photo, (0, 0))
     d = ImageDraw.Draw(im)
-    if (a.get("image") or {}).get("ai") or (a.get("image") or {}).get("representative"):
-        ai_tag(d, W - 24, photo_h - 22, text="Temsilî fotoğraf" if (a.get("image") or {}).get("representative") else None)
+    im = a.get("image") or {}
+    if im.get("archive"):
+        ai_tag(d, W - 24, photo_h - 22, text="Arşiv fotoğrafı")
+    elif im.get("ai") or im.get("representative"):
+        ai_tag(d, W - 24, photo_h - 22, text="Temsilî fotoğraf" if im.get("representative") else None)
     # Fotoğrafla zemin arasında kategori renginde ince şerit
     d.rectangle((0, photo_h, W, photo_h + 10), fill=hex_rgb(a["color"]))
     return im, d
