@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tugay esnaf odalarıyla buluştu: İzmir'de su tarifesinde indirim yapılacak
+
+**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.milliyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-cumhurbaskani-erdogan-son-25-yila-damgasini-vurdu-7685571)
+
+![](data/images/f9a0dd55b3882800.jpg)
+
+> Cemil Tugay, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret etti. Su fiyatlarında indirim için Meclis'e teklif götüreceğini söyledi.
+
+İzmir Büyükşehir Belediye Başkanı Cemil Tugay, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ederek esnaf odası başkanlarıyla bir araya geldi. Milliyet'in aktardığına göre Tugay, esnafın iş birliği süreçlerinde öncelik verilmesi gereken kesimlerin başında geldiğini söyledi.
+
+Tugay, su fiyatlarında indirim için çalışma yaptıklarını belirterek, su faturalarında belirgin fark yaratacak bir tarife indirimini önümüzdeki Meclis'ten geçireceğini açıkladı. İzmir'in Türkiye'de toplu taşımanın en ucuz olduğu kent olduğunu söyleyen Tugay, önümüzdeki yıl toplu taşımaya zam yapmadan indirimleri çeşitlendirebileceklerini ifade etti.
+
+Tugay ayrıca bakanlarla görüştüğünü, kentin uzun yıllardır çözüm bekleyen sorunlarına hızlı ve kalıcı çözümler üretilmesi için çalıştıklarını anlattı. Cumhurbaşkanı Erdoğan hakkında da olumlu değerlendirmelerde bulunan Tugay, herkesin siyasi tercihinde özgür olduğunu söyledi.
+
+---
+
+## Eskişehirspor taraftarına kombine kampanyası: 100 kişiye bilet hediye edilecek
+
+**Spor · Merkez** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.milliirade.com/nebi-hatipoglundan-taraftara-mujde-eskisehirspor-sevgini-anlat-kombineyi-kap)
+
+![](data/images/95724d58cdff0546.jpg)
+
+> AK Parti Eskişehir Milletvekili Nebi Hatipoğlu, #BirKoltukDaOna etiketiyle başlattığı kampanyada en etkili videoları çeken 100 taraftara kombine bilet verecek.
+
+AK Parti Eskişehir Milletvekili Nebi Hatipoğlu, sosyal medya hesabından Eskişehirspor taraftarlarına yönelik bir kampanya başlattı. Milli İrade Gazetesi'nin aktardığına göre #BirKoltukDaOna etiketiyle yürütülen kampanyada Eskişehirspor sevgisini en iyi anlatan 100 taraftara kombine bilet hediye edilecek.
+
+Katılmak isteyen taraftarların Eskişehirspor formasını giyip takıma olan sevgilerini anlatan kısa bir video çekmesi, videoyu X, Instagram veya Facebook hesabında #BirKoltukDaOna etiketiyle paylaşması ve Hatipoğlu'nun hesabını etiketlemesi gerekiyor. Katılımda hesapların taraftarın gerçek kimliğiyle örtüşmesi şartı aranıyor.
+
+Kampanyaya katılım için son tarih 23 Ekim Cuma. Kombine biletlerin 24 Ekim Cumartesi günü teslim edilmesi planlanıyor.
+
+---
+
+## Cumhurbaşkanı Erdoğan, Türk Kızılay Genel Başkanı Fatma Meriç Yılmaz'ı kabul etti
+
+**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.adanapost.com/gundem/cumhurbaskani-erdogan-turk-kizilay-genel-baskani-prof-dr-fatma-meric-yilmazi-224698h)
+
+![](data/images/63a63026747bf5d1.jpg)
+
+> Kızılay Haftası öncesindeki kabulde Kızılay'ın insani yardım ve afete hazırlık çalışmaları Erdoğan'a anlatıldı.
+
+Türk Kızılay'ın Onursal Başkanı Cumhurbaşkanı Recep Tayyip Erdoğan, Kızılay Genel Başkanı Prof. Dr. Fatma Meriç Yılmaz'ı Cumhurbaşkanlığı Külliyesi'nde kabul etti.
+
+Türk Kızılay'ın sosyal medya hesabından yaptığı açıklamaya göre Kızılay Haftası öncesinde gerçekleşen kabulde, kurumun yurt içinde ve yurt dışında yürüttüğü insani yardım faaliyetleri, afetlere hazırlık çalışmaları, sosyal destek hizmetleri ve geleceğe yönelik hedefleri Erdoğan'a anlatıldı. Kızılay, Erdoğan'ın Kızılay Haftası vesilesiyle çalışanlara ve gönüllülere selam ve iyi dileklerini ilettiğini bildirdi.
+
+---
+
+## CHP'li Tarhan: Avrupa'nın "Made in Europe" yaklaşımına Türkiye izlemekle yetinemez
+
+**Ekonomi · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - CHP](https://gazetekalem.com.tr/chpli-tarhandan-made-in-europe-uyarisi-turkiye-izlemekle-yetinemez/)
+
+![](data/images/00a1cd03695d51c7.jpg)
+
+> CHP Genel Başkan Yardımcısı Tahsin Tarhan, otomotiv ihracatının yaklaşık yüzde 72,5'inin AB'ye yapıldığını hatırlatarak hükümete yerli üretim çağrısı yaptı.
+
+CHP Genel Başkan Yardımcısı Tahsin Tarhan, Almanya ve Fransa'nın otomotiv sektörünü Çin rekabetine karşı korumak için başlattığı "Made in Europe" yaklaşımına ilişkin yazılı açıklama yaptı. Tarhan, Türkiye'nin buna karşı stratejik bir politika geliştirmemesinin kabul edilemez olduğunu söyledi.
+
+Tarhan, Türkiye'nin otomotiv ihracatının yaklaşık yüzde 72,5'inin AB ülkelerine yapıldığını hatırlatarak, Avrupa'nın kamu alımlarında ve desteklerde Avrupa'da üretilen araç ve parçalara avantaj tanıyan yeni bir sanayi politikası oluşturduğunu belirtti. Türkiye'nin Avrupa dışındaki bir üretici konumuna itilebileceği uyarısında bulundu.
+
+Hükümete çağrıda bulunan Tarhan, Türkiye'nin Brüksel nezdinde kendi üreticisinin Avrupa teşviklerinden ve kamu alımlarından dışlanmaması için müzakere yürütmesi gerektiğini ifade etti. Kamu kurumlarının araç alımlarında yerli üretim ve yüksek yerli katma değer önceliği getirilmesini önerdi. Tarhan, elektrikli araç, batarya, yazılım ve elektronik alanlarında yatırım yapılması gerektiğini de söyledi.
+
+---
+
+## CHP MYK, iki İBB meclis üyesi ile Tarsus Belediye Başkanı'nı disipline sevk etti
+
+**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - CHP](https://www.sondakika.com/amp/haber-chp-kurmaylari-iki-ibb-meclis-uyesinin-disipline-20354124/)
+
+![](data/images/dff90483b09488ea.jpg)
+
+> CHP Sözcüsü Müslim Sarı, İBB Meclis Üyesi Ülkü İnanlı, Grup Sözcüsü Melendiz Dalyan İzgi ve Ali Boltaç'ın kesin ihraç talebiyle disipline sevk edildiğini açıkladı.
+
+CHP Merkez Yönetim Kurulu (MYK), Genel Başkan Kemal Kılıçdaroğlu başkanlığında yaklaşık iki saat süren toplantı yaptı. Toplantının ardından CHP Sözcüsü Müslim Sarı, İBB Meclis Üyesi Ülkü İnanlı, İBB Grup Sözcüsü Melendiz Dalyan İzgi ve Tarsus Belediye Başkanı Ali Boltaç'ın kesin ihraç talebiyle disipline sevk edildiğini açıkladı.
+
+ANKA'nın haberine göre CHP'li kurmaylar, Türkiye Belediyeler Birliği'ndeki ortak tutumun İstanbul Büyükşehir Belediyesi'nde de sürmesinden yana olduklarını, ancak partinin kurumsal kimliğini zedelemeyeceklerini söyledi. Kurmaylar, İBB'deki meclis üyesi dağılımına dikkat çekerek olası bir başkan seçiminde tek bir oyun bile önemli olabileceğini belirtti.
+
+Toplantının ardından Millî Eğitim Bakanı Yusuf Tekin, CHP Genel Merkezi'ni ziyaret ederek Kılıçdaroğlu ile yaklaşık 10 dakika görüştü. Tekin'in Kılıçdaroğlu'nu kızının nikâhına davet ettiği aktarıldı.
+
+---
+
 ## Sağlık Bakanlığı'nın 38 bin personel alımı için başvuru tarihi henüz açıklanmadı
 
 **Sağlık · Türkiye** · 2026-10-23 03:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.afyonanahaber.com.tr/saglik/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-basvuru-tarihi-aciklandi-mi/402546)
@@ -393,85 +471,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile t
 Erdoğan, ticaret başta olmak üzere iş birliğini artıracak somut adımlar atmaya devam edeceklerini belirtti. Karadeniz'de seyrüsefer emniyetini sağlamak için Rusya ve Ukrayna ile temaslar yürüttüklerini söyleyen Erdoğan, Bulgaristan'ın Münhasır Ekonomik Bölgesi'nde gerçekleşen SİHA saldırısından üzüntü duyduğunu ifade ederek geçmiş olsun dileklerini iletti.
 
 Erdoğan, Radev'i 11-12 Kasım'da Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne de davet etti.
-
----
-
-## Beylikova'da Adahisar-Yalınlı-Süleymaniye yolu 21 gün trafiğe kapatılacak
-
-**Ulaşım · Beylikova** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirde-o-yol-21-gun-boyunca-trafige-kapatilacak)
-
-![](data/images/a909fba288bce3b3.jpg)
-
-> Eskişehir Büyükşehir Belediyesi, asfalt kaplama çalışması nedeniyle yolu 24 Ekim'den 13 Kasım'a kadar araç trafiğine kapatacak.
-
-Eskişehir Büyükşehir Belediyesi, Beylikova ilçesindeki Adahisar-Yalınlı-Süleymaniye yolunun asfalt kaplama çalışmaları nedeniyle 21 gün boyunca araç trafiğine kapatılacağını duyurdu. Yol, 24 Ekim 2026 Cumartesi günü saat 09.00'dan itibaren ulaşıma kapalı olacak. Çalışmaların 13 Kasım 2026 Cuma günü saat 18.00'de tamamlanması planlanıyor.
-
-Çalışmayı Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı yürütecek. Yunusemre yolu olarak da bilinen güzergâhı kullanan sürücülerin alternatif yolları tercih etmesi ve çalışma alanındaki trafik işaretleri ile görevlilerin yönlendirmelerine uyması istendi.
-
-Belediyenin açıklamasına göre yolun kapalı olduğu tarihler arasında acil durumlarda trafik güvenlik ekipleri aracılığıyla ulaşım sağlanacak.
-
----
-
-## Bakan Tekin: Sosyal medya şirketlerine karşı hukuki süreç hazırlığındayız
-
-**Eğitim · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenicaggazetesi.com/yusuf-tekin-acikladi-milli-egitim-bakanligi-metaya-dava-acacak-1084204h.htm)
-
-![](data/images/366d6bf2993f6e6a.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin, çocukların yaşlarına uygun olmayan içeriklerle karşılaşması nedeniyle sosyal medya şirketlerine yönelik hukuki hazırlık yaptıklarını söyledi.
-
-Millî Eğitim Bakanı Yusuf Tekin, okullarda yaşanan güvenlik olaylarında sanal medyanın etkisinin araştırılması gerektiğini söyledi. Yeniçağ Gazetesi'nin Elips Haber'e dayandırdığı habere göre Tekin, bakanlığın okul içinde cep telefonu kullanımına sınırlama getirdiğini, ancak çocukların okul dışında sosyal medyaya erişiminin sürdüğünü belirtti.
-
-Tekin, sosyal medya şirketlerine yönelik hukuki hazırlık içinde olduklarını söyledi. Çocukların yaşlarına uygun olmayan içeriklerle karşılaşmasının akademik ve kişisel gelişimlerini olumsuz etkilediği gerekçesiyle, Amerika'da ve Avrupa Birliği'nde açılanlara benzer bir süreci bakanlık olarak başlatacaklarını ifade etti. Yeniçağ, haberin başlığında bu sürecin Meta'ya yönelik olacağını yazdı.
-
-Şirketlerin içeriklerini çocukların erişemeyeceği şekle sokmasını ya da çocukların zarar görmeyeceği şekilde onaylamasını beklediklerini kaydeden Tekin, içerik üretenlerin ve sosyal medya şirketlerinin sorumluluk alması gerektiğini söyledi.
-
----
-
-## Bakan Bayraktar: Osman Gazi platformuyla doğal gaz üretimi iki katına çıkacak
-
-**Ekonomi · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31949)
-
-![](data/images/f69d939363d0c8e7.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanı Bayraktar, Kanal 7'de Osman Gazi Yüzer Üretim Platformu'nu ve diğer enerji projelerini anlattı.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kanal 7 canlı yayınında Osman Gazi Yüzer Üretim Platformu'nun Türk petrol ve doğal gaz üretiminde bir ilk olduğunu söyledi. Bayraktar, gazın artık denizin üzerinde işleneceğini, ardından deniz tabanından borularla 170 kilometre mesafedeki Filyos'a basılacağını anlattı.
-
-Bayraktar'a göre platform üretimi iki katına çıkararak 20 milyon metreküpe ulaştıracak. Tesisin 2027'den itibaren günlük 10 milyon dolar, yıllık 3,5-3,6 milyar dolarlık doğal gaz üreteceğini belirten Bakan, bugün 4 milyon hanede kullanılan yerli doğal gazın 8 milyon haneye çıkacağını söyledi. İkinci bir yüzer üretim platformunun Aralık 2027'de yola çıkıp 2028'in ilk çeyreğinde Türkiye'de olmasını planladıklarını, bu platformla 25 milyon metreküp ilave üretim yapacaklarını ifade etti.
-
-Bayraktar ayrıca Gabar'da günlük 84 bin varil üretime ulaşıldığını, Adıyaman'da üretimin günde 15 bin varile çıkarılmasını hedeflediklerini, Türkiye Petrolleri'nin Kerkük sahalarına ortak olduğunu ve Akkuyu'da birinci reaktörde yüzlerce test yapıldığını söyledi. Doğalgaz depolarının dolu olarak kışa girildiğini de belirtti.
-
----
-
-## Türkiye ve Kanada ilişkileri stratejik ortaklık düzeyine yükseltildi
-
-**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-kanada-basbakani-carney-ile-ortak-basin-toplantisinda-konustu)
-
-![](data/images/01d17ce444c6976e.jpg)
-
-> Cumhurbaşkanı Erdoğan ile Kanada Başbakanı Carney Ankara'da görüştü. Görüşmenin ardından üç belge imzalandı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kanada Başbakanı Mark Carney ile baş başa ve heyetler arası görüşme yaptı. Erdoğan, Carney'i resmî törenle karşıladı. Görüşmenin ardından iki ülke arasında üç belge imzalandı.
-
-İmzalanan belgeler; Savunma Sanayii Başkanı Haluk Görgün ile Kanada Dışişleri Bakanı Anita Anand arasındaki "Savunma Sektörü Ortaklıkları Mutabakat Zaptı", Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu ile Anand'ın imzaladığı "Hava Ulaştırma Antlaşması" ve Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Kanada Enerji Bakanı Tim Hodgson arasındaki "Enerji Alanında İşbirliğine Dair Ortak Bildiri" oldu.
-
-Ortak basın toplantısında konuşan Erdoğan, ilişkilerin stratejik ortaklık düzeyine yükseltilmesine karar verdiklerini ve enerji, ticaret, ulaştırma ile savunma sanayi gibi alanlarda yeni projeler hedeflediklerini söyledi. Erdoğan'a göre Serbest Ticaret Anlaşması müzakerelerine yıl sonundan önce başlanması kararlaştırıldı. Yaklaşık 3 milyar dolar olan ticaret hacminin önce 5 milyar, sonra 10 milyar dolara çıkarılması hedefleniyor. Güncellenen Hava Ulaştırma Anlaşması ile doğrudan uçuşların yaklaşık iki katına çıkacağını belirten Erdoğan, enerji alanında madencilikten LNG'ye, kritik minerallerden nükleer enerjiye uzanan bir iş birliği alanı bulunduğunu ifade etti.
-
-İletişim Başkanlığı'nın yayımladığı ortak açıklamaya göre liderler dört sütundan oluşan üç yıllık bir eylem planı başlattı. Açıklamada ayrıca Kanada'nın, Türkiye'nin 9-20 Kasım 2026'da Antalya'da düzenleyeceği COP31'e ev sahipliği yapmasını memnuniyetle karşıladığı belirtildi. Erdoğan, Gazze, Ukrayna ve Körfez dahil bölgesel gelişmeleri de ele aldıklarını söyledi.
-
----
-
-## Ticaret Bakanlığı: Taksit düzenlemesi sıfır ve yenilenmiş cep telefonlarını kapsıyor
-
-**Ekonomi · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenisafak.com/ekonomi/cep-telefonu-taksit-ve-tutar-siniri-kac-ticaret-bakanligi-yeni-kapsami-acikladi-4866556)
-
-![](data/images/205de9c13ee2b5e5.jpg)
-
-> Ticaret Bakanlığı, cep telefonu taksit düzenlemesiyle yalnızca sıfır ve yenilenmiş telefonların taksit sürelerinin ve tutar sınırlarının güncellendiğini, diğer ürünlerde mevcut koşulların korunduğunu açıkladı.
-
-Ticaret Bakanlığı, cep telefonu taksit düzenlemesinin sıfır ve yenilenmiş telefonlara yönelik vade ve limit koşullarını kapsadığını duyurdu. Bakanlığın açıklamasına göre, 15 Ekim 2026 tarihli ve 33401 sayılı Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle verilen yetki kapsamında telefonların taksit süreleri ve tutar sınırları güncellendi.
-
-Güncelleme, Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararlarıyla uyumlu olacak şekilde yapıldı. Bakanlık, telefonlar dışındaki ürün gruplarında mevcut taksit sürelerinin, taksit uygulamasındaki tutarların ve geçerli sınırlamaların aynen korunduğunu bildirdi.
 
 ---
