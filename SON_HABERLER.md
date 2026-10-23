@@ -2,6 +2,146 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tarım Kredi Kooperatifi eski müdürü Tahsin B.'nin zimmet davasında bilirkişi kararı
+
+**Asayiş · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.cumhuriyet.com.tr/turkiye/tarim-kredi-kooperatifi-nde-83-ton-komur-acigi-eski-mudure-zimmet-davasi-2549477)
+
+![](data/images/183d0d29c55472ee.jpg)
+
+> Mahkeme, 83 ton kömür açığı iddiasıyla ilgili dosyayı Sayıştay emekli uzmanlarından oluşan heyete gönderdi.
+
+Eskişehir'de Tarım Kredi Kooperatifi eski müdürü Tahsin B., zimmet ve resmi belgede sahtecilik suçlamalarıyla yargılanıyor. Davanın duruşması görüldü.
+
+İddialara göre Tahsin B., bir kooperatif ortağından tahsil edilen paranın 5 bin lirasını zimmetine geçirdi, envanter sayımında ortaya çıkan 83 ton 577 kilogram kömür açığından sorumlu ve bir ziraat mühendisinin yerine sahte imza attı.
+
+Savunma yapan Tahsin B. suçlamaları kabul etmedi. Parayı elden teslim edemediğini, sonradan banka havalesiyle iade ettiğini öne sürdü; kömür açığı ve sahte imza iddialarını reddetti. Tanık olarak dinlenen İsa Y., kooperatif kayıtlarında yalnızca 5 bin lira nakit ödeme göründüğünü söyledi. Sanık avukatı beraat talep etti.
+
+Mahkeme, kooperatif zararının basit bir incelemeyle belirlenip belirlenemeyeceği için dosyanın 3 kişilik bilirkişi heyetine, belgelerdeki imzaların incelenmesi için evrakın Ankara Jandarma Kriminal Daire Başkanlığı'na gönderilmesine karar verdi ve duruşmayı erteledi. Sanık hakkında karar verilmedi.
+
+---
+
+## Ortaokul Matematik Zirvesi TED Eskişehir Koleji'nde yapıldı
+
+**Eğitim · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/ortaokul-matematik-zirvesi-eskisehir039de-gerceklestirildi/icerik/8693/tr)
+
+![](data/images/9633f5e6aaec33b7.jpg)
+
+> İl Millî Eğitim Müdürlüğü koordinesindeki zirvede öğretmenler Maarif Modeli matematik programını konuştu.
+
+Türkiye Yüzyılı Maarif Modeli doğrultusunda öğretmenlerin program okuryazarlığını güçlendirmek amacıyla düzenlenen Ortaokul Matematik Zirvesi, İl Millî Eğitim Müdürlüğü koordinesinde TED Eskişehir Koleji'nin ev sahipliğinde yapıldı.
+
+Açılış konuşmasını yapan İl Millî Eğitim Müdürü Sinan Aydın, modelin öğrenci merkezli yapısına dikkat çekerek modelin başarısının öğretmenlerin bilgi ve donanımıyla doğrudan ilişkili olduğunu söyledi.
+
+İlde görev yapan matematik öğretmenlerinin katıldığı zirvede, Matematik Dersi Öğretim Programı'nın temel yaklaşımı ve sınıf içi uygulama örnekleri ele alındı. Anadolu Üniversitesi'nden Prof. Dr. Dilek Tanışlı ve Prof. Dr. Nilüfer Köse sunum yaptı.
+
+---
+
+## Odunpazarı'nda çibörekçide yangın: 2 kişi dumandan etkilendi
+
+**Gündem · Odunpazarı** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.sakaryagazetesi.com.tr/eskisehirin-islek-noktasinda-korkutan-yangin)
+
+![](data/images/5d0783e281569c5b.jpg)
+
+> Arifiye Mahallesi'ndeki yangına itfaiye müdahale etti; ilk değerlendirmede yağdan çıktığı belirtildi.
+
+Eskişehir'in Odunpazarı ilçesine bağlı Arifiye Mahallesi Kıbrıs Şehitleri Caddesi üzerindeki bir çibörekçide henüz kesin olarak belirlenemeyen bir nedenle yangın çıktı. İhbar üzerine olay yerine sevk edilen itfaiye ekipleri yangına müdahale etti.
+
+Yangında işletme personeli 2 kişi dumandan etkilendi ve ambulansta müdahale edildi. İlk değerlendirmelere göre yangının işletmede kullanılan yağdan kaynaklandığı belirtildi. Kesin çıkış nedeninin yapılacak incelemelerle belirlenmesi bekleniyor. Polis ekipleri olayla ilgili inceleme başlattı.
+
+---
+
+## MEB'in Ekim ayı Aile Eğitim Bülteni yayımlandı: Okul öncesi eğitim temalı
+
+**Eğitim · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/quotaile-egitim-bulteniquot-ekim-sayisi-yayimlandi/icerik/8695/tr)
+
+![](data/images/f0bc1570f48288b3.jpg)
+
+> Temel Eğitim Genel Müdürlüğü, okul öncesi çocukların aileleri için aylık bülteni yayımladı.
+
+Temel Eğitim Genel Müdürlüğü, ailelerin eğitim sürecindeki rolünü güçlendirmek amacıyla her ay hazırladığı "Aile Eğitim Bülteni"nin Ekim sayısını yayımladı. Bülten, okul öncesi eğitime devam eden çocukların anne babalarına rehberlik sunuyor.
+
+Ekim sayısı "Maarif Yolculuğunda Okul Öncesi Eğitim" temasıyla hazırlandı. Bültende okul öncesi eğitimin çocukların gelişimindeki yeri, Türkiye Yüzyılı Maarif Modeli'nin okul öncesi eğitim yaklaşımı ve çocukların okulda yaşayacağı öğrenme deneyimleri ele alındı.
+
+Bültende her çocuğun ilgi alanları, öğrenme hızı ve ihtiyaçlarının farklı olduğu vurgulandı. Ailelerin paylaşacağı gözlemlerin öğretmenin çocuğu daha yakından tanımasına katkı sunacağı belirtildi. Bültende ayrıca Aile Eğitimi ve Katılımı Çalışmaları, Evde Oyun Rehberi ve Ailemle Okul Yolu Programı'na yer verildi.
+
+---
+
+## Eskişehirspor'a Altay maçındaki saha olayları nedeniyle 35 bin lira para cezası
+
+**Spor · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspora-para-cezasi-1)
+
+![](data/images/62c235d48f528141.jpg)
+
+> PFDK, taraftarların neden olduğu olaylar gerekçesiyle kulübe ceza verdi.
+
+Eskişehirspor, Altay ile oynadığı mücadelede yaşanan saha olayları gerekçesiyle Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk edilmişti.
+
+PFDK, raporlar doğrultusunda Eskişehirspor'a taraftarlarının neden olduğu saha olayları nedeniyle FDT'nin 52/2. ve 46/1. maddeleri uyarınca 35 bin lira para cezası verdi.
+
+---
+
+## Eskişehir'de 2026-2027 eğitim öğretim yılının öncelikleri toplantıda ele alındı
+
+**Eğitim · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-egitimde-yeni-donem-masaya-yatirildi)
+
+![](data/images/e5ee857edd4acde5.jpg)
+
+> Millî Eğitim Müdürlükleri Yönetmeliği doğrultusunda yapılan toplantıda eğitim politikaları değerlendirildi.
+
+Eskişehir'de düzenlenen toplantıda, Millî Eğitim Müdürlükleri Yönetmeliği doğrultusunda 2026-2027 eğitim öğretim yılına ilişkin öncelikler ve eğitim politikaları değerlendirildi.
+
+Toplantıda Türkiye Yüzyılı Maarif Modeli uygulamaları, mesleki ve teknik eğitim politikaları, okul-aile iş birliği, okul dışı öğrenme ortamları, eğitim yatırımları, rehberlik hizmetleri, okul güvenliği ve eğitim ortamlarının iyileştirilmesi gündem maddeleri olarak ele alındı. İl genelinde yürütülen çalışmaların daha etkin sürdürülmesine yönelik görüş alışverişinde bulunuldu.
+
+---
+
+## Erdoğan: Barışa giden yolu açmanın gayreti içerisindeyiz
+
+**Siyaset · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmanin-gayreti-icerisindeyiz/4098110)
+
+![](data/images/e7dda29a1453e107.jpg)
+
+> Erdoğan, 9. İstanbul Arabuluculuk Konferansı'na video mesaj gönderdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde "Barış için Ortaklıklar ve Yeni Perspektifler: Değişen Dünyada Arabuluculuk" temasıyla İstanbul'da düzenlenen 9. İstanbul Arabuluculuk Konferansı'na video mesaj gönderdi.
+
+Erdoğan, "Rusya ile Ukrayna arasındaki esir takaslarından Afrika kıtasındaki arabuluculuk çabalarımıza geniş bir coğrafyada elde ettiğimiz kazanımlarla bugün de barışa giden yolu açmanın gayreti içerisindeyiz." dedi.
+
+Erdoğan, küresel çatışmaların arttığı bir dönemde Türkiye'nin diplomasiden vazgeçmemeyi ilke edindiğini söyledi. Birleşmiş Milletler'in yapısını eleştiren Erdoğan, "190'dan fazla ülkenin iradesinin 5 ülkenin keyfine bağlı olduğu bir yapı ne adildir ne de güveni tam manasıyla tesis edebilir" ifadesini kullandı. Barış için tarafları bir araya getirmeye ve arabuluculuk yapmaya devam edeceklerini belirtti.
+
+---
+
+## Bakan Tekin: MEB, çocuklara zarar verdiği gerekçesiyle Meta'ya dava açmaya hazırlanıyor
+
+**Eğitim · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.kamudanhaber.net/yusuf-tekin-acikladi-meb-cocuklara-zarar-verdigi-gerekcesiyle-metaya-dava-aciyor)
+
+![](data/images/25ffe5d42c89a9fb.jpg)
+
+> Tekin, Hukuk Hizmetleri Genel Müdürlüğü'nün süreç hazırlığı yaptığını söyledi.
+
+Millî Eğitim Bakanı Yusuf Tekin, 12. Ankara Erzurum Tanıtım Günleri'nde yaptığı açıklamada Bakanlığın, çocuklara zarar verdiği gerekçesiyle Meta hakkında dava açmaya hazırlandığını söyledi. Tekin, Hukuk Hizmetleri Genel Müdürlüğü'nün süreç hazırlığını yürüttüğünü belirtti.
+
+Tekin, bakanlığın saha araştırmalarında çocukların şiddet algısında sosyal medyanın etkisinin görüldüğünü aktardı. Şiddete maruz kaldığını söyleyen öğrencilerin yaklaşık yüzde 80'inin, sosyal medyada beğenilmemeyi ve gruptan dışlanmayı şiddet tanımı içinde ifade ettiği bildirildi.
+
+Tekin, Cumhurbaşkanı tarafından başta sanal kumar olmak üzere sosyal medyanın çocuklar üzerindeki etkilerinin giderilmesi için tedbir alınması yönünde talimat verildiğini de söyledi.
+
+---
+
+## 4. Uluslararası ESEP Eğitim Bilimleri Kongresi Anadolu Üniversitesi'nde yapıldı
+
+**Eğitim · Tepebaşı** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/4-uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-gerceklestirildi/icerik/8692/tr)
+
+![](data/images/704ba063a96873bf.jpg)
+
+> Kongrede eğitim politikaları, oyun temelli öğrenme ve sanal gerçeklik destekli uygulamalar ele alındı.
+
+4. Uluslararası ESEP Eğitim Bilimleri ve Etkili Uygulamalar Kongresi, Anadolu Üniversitesi'nin ev sahipliğinde Eskişehir'de gerçekleştirildi.
+
+Açılış programına Vali Yardımcısı Akın Ağca, MEB Teftiş Kurulu Başkanı Fethi Fahri Kaya, MEB Personel Genel Müdürü Bülent Çiftçi, Anadolu Üniversitesi Rektör Yardımcısı Prof. Dr. Köksal Büyük, UNESCO Türkiye Millî Komisyonu Başkanı Prof. Dr. M. Öcal Oğuz ve İl Millî Eğitim Müdürü Sinan Aydın katıldı.
+
+Prof. Dr. Adnan Boyacı moderatörlüğündeki panelde eğitim politikaları değerlendirildi. Oturumlarda sanat, medeniyet, sürdürülebilir kalkınma, zekâ, oyun temelli öğrenme ve sanal gerçeklik destekli eğitim uygulamaları ele alındı. Kongrede resim sergisi açılışı, LEGADDER Eğitim Pusulası Ödül Töreni ve akademik bildiri oturumları da yer aldı.
+
+---
+
 ## Tepebaşı'nda darp edilen kişi tedaviyi reddedip kaçtı, arsada baygın bulundu
 
 **Asayiş · Tepebaşı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kanlar-icinde-kacti-arsada-bulundu)
@@ -333,147 +473,5 @@ Toplantının ardından Millî Eğitim Bakanı Yusuf Tekin, CHP Genel Merkezi'ni
 Cumhurbaşkanı Recep Tayyip Erdoğan, 17 Ekim 2026'da yaptığı açıklamada, yıl bitmeden 38 bin hekim dışı personel alımı için ilana çıkılacağını bildirmişti. Afyon Ana Haber'in aktardığına göre 22 Ekim itibarıyla başvuruların başlayacağı tarih henüz açıklanmadı.
 
 Hangi meslek gruplarına kaç kişilik kontenjan ayrılacağı, başvuru şartları, eğitim düzeyleri ve KPSS koşulu gibi ayrıntılar da resmî ilanla belli olacak. Başvuruların hangi sistem üzerinden alınacağına ilişkin kesin bir açıklama da yapılmadı. Adayların Sağlık Bakanlığı ve ÖSYM tarafından yapılacak resmî duyuruları takip etmesi gerekiyor.
-
----
-
-## Eskişehir merkezli tefecilik operasyonu: 5 şüpheli yakalandı, 2'si tutuklandı
-
-**Asayiş · Merkez** · 2026-10-23 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.malatyaguncel.com/eskisehir-merkezli-3-ilde-60-milyon-liralik-tefeci-3118283h.htm)
-
-![](data/images/7db24b8298b15a5f.jpg)
-
-> Eskişehir, İstanbul ve Bursa'da eş zamanlı yapılan operasyonda yüksek faizle borç verdiği belirlenen 5 şüpheli yakalandı.
-
-Eskişehir Cumhuriyet Başsavcılığı koordinesinde İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü ekiplerince yürütülen çalışmada, yüksek faizle borç vererek vatandaşları mağdur ettikleri belirlenen şüphelilere yönelik operasyon düzenlendi. İLKHA'nın aktardığına göre operasyon Eskişehir merkezli olarak İstanbul ve Bursa'da eş zamanlı yapıldı ve 5 şüpheli yakalandı.
-
-Şüphelilerin vadeli araç satışı adı altında, senet karşılığında, havale/EFT yoluyla veya elden yüksek faizle para verdikleri, borçlarını ödeyemeyen vatandaşları baskı ve tehditle mağdur ettikleri belirlendi. Şüphelilerin bu yöntemle esnaf ve vatandaşlardan icra yoluyla yaklaşık 60 milyon lira alacaklı oldukları tespit edildi.
-
-Emniyetteki işlemlerinin ardından 22 Ekim'de adli makamlara sevk edilen şüphelilerden 2'si tutuklandı, 2'si adli kontrol şartıyla serbest bırakıldı.
-
----
-
-## Senetli alışverişte yeni taksit sınırları: Televizyonda 4, mobilyada 9 aya kadar
-
-**Ekonomi · Türkiye** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursadabugun.com/haber/taksitle-alisveris-yapacaklar-dikkat-bakanlik-urun-urun-yeni-vade-sinirlarini-acikladi-1958361.html)
-
-![](data/images/7aa8292bef2201f4.jpg)
-
-> Bursada Bugün'ün aktardığına göre Ticaret Bakanlığı'nın yetkilendirildiği düzenlemeyle senetli satışlarda ürün gruplarına göre azami vade sınırları belirlendi.
-
-15 Ekim 2026 tarihli Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle Ticaret Bakanlığı, perakende işletmelerin tüketicilere yönelik taksitli satışlarında vade sürelerini belirleme ve gerektiğinde ek kısıtlama getirme yetkisini aldı. Bursada Bugün'ün haberine göre düzenleme konut satışları dışındaki mal ve hizmetleri kapsıyor.
-
-Haberde aktarılan azami taksit süreleri şöyle: fiyatı 5 bin TL'nin altındaki televizyonlarda 9 ay, 5 bin TL'nin üzerindekilerde 4 ay; tablet ve bilgisayarda 6 ay; beyaz eşya ve elektrikli küçük ev aletlerinde 9 ay; mobilyada 9 ay; seyahat ve konaklama harcamalarında ise 18 ay. Bu süreler, senet gibi yöntemlerle yapılan taksitli satışlardaki üst sınırları gösteriyor.
-
-Ticaret Bakanlığı daha önce yaptığı açıklamada cep telefonlarında sıfır ve yenilenmiş cihazlar için taksit süreleri ile tutar sınırlarının güncellendiğini duyurmuş, rakamsal ayrıntı vermemişti.
-
----
-
-## Odunpazarı'nda 3 yaşındaki E. M. A.'nın ölümüne ilişkin sürücü hakkında iddianame
-
-**Asayiş · Odunpazarı** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://haberton.com/eskisehirde-3-yasindaki-elif-mavinin-olumune-neden-olmustu-surucu-icin-15-yila-kadar-hapis-istemi/)
-
-![](data/images/184c0450bc0d421f.jpg)
-
-> Savcılık, 3 Eylül'deki trafik kazasında 3 yaşındaki bir çocuğun ölümüne neden olan tutuklu sürücü için 2 yıldan 15 yıla kadar hapis istedi.
-
-Eskişehir Cumhuriyet Başsavcılığı, 3 Eylül'de Odunpazarı ilçesi Vişnelik Mahallesi'nde meydana gelen trafik kazasına ilişkin iddianame hazırladı. Kazada otomobilin çarptığı 3 yaşındaki E. M. A. hayatını kaybetmiş, annesi hafif yaralanmıştı. Haberton'un aktardığına göre tutuklu sürücü F. A. B. (40) hakkında "taksirle ölüme ve yaralanmaya neden olma" suçundan 2 yıldan 15 yıla kadar hapis cezası isteniyor. Dava Eskişehir 1. Ağır Ceza Mahkemesi'nde açıldı.
-
-İddianameye göre trafik kazası tespit tutanağında sürücünün kusurlu olduğu belirtilmiş, bir bilirkişi raporunun ise bunun aksini ortaya koyduğu ifade edilmişti. Bunun üzerine Adli Tıp Kurumu Ankara Trafik İhtisas Dairesi'nden rapor alındı. Gelen raporda sürücünün dikkatsizliği, tedbirsizliği ve kurallara aykırı hareketi nedeniyle asli kusurlu olduğu, ölen çocuk ile annesinin kusurunun bulunmadığı kaydedildi.
-
-Sürücü, kazanın ardından önce "konutu terk etmeme" şeklinde adli kontrol kararıyla serbest bırakılmıştı. Savcılığın itirazı üzerine yeniden gözaltına alınan sürücü, 8 Eylül'de Sulh Ceza Hakimliği tarafından tutuklandı.
-
----
-
-## MEB ortak sınav takvimini açıkladı; Bakan Tekin 10 Kasım eleştirilerine yanıt verdi
-
-**Eğitim · Türkiye** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.aksutvhaber.net/milli-egitim-bakanligi-2026-2027-ortak-sinav-takvimini-acikladi-iste-gun-gun-ders-listesi)
-
-![](data/images/8f0628ab78a0c2d8.jpg)
-
-> Ortak yazılı sınavlar 3 Kasım'da başlayacak. Bakan Tekin, 10 Kasım'daki sınavın 09.30'dan sonra yapılacağını söyledi.
-
-Millî Eğitim Bakanlığı (MEB), Ortak Yazılı Sınav Sistemi'nin 2026-2027 eğitim-öğretim yılı birinci dönem takvimini açıkladı. Ortaokul 5, 6 ve 7. sınıflar ile liselerin 9, 10 ve 11. sınıflarında 40'ar dakikalık ortak sınavlar 3 Kasım'da başlayacak.
-
-Ortaokul takvimine göre 3 Kasım'da Fen Bilimleri, 5 Kasım'da Matematik, 6 Kasım'da Sosyal Bilgiler, 10 Kasım'da (09.30'dan sonra) Türkçe, 11 Kasım'da yalnızca 6. sınıflar için Matematik, 12 Kasım'da İngilizce ve 13 Kasım'da Din Kültürü ve Ahlak Bilgisi sınavı yapılacak. Liselerde Biyoloji sınavı 3 Kasım'da uygulanacak.
-
-Takvimdeki 10 Kasım tarihi eleştirilince açıklama yapan Bakan Yusuf Tekin, sınavların 81 il valiliğine gönderilen genelge uyarınca 4. ders saatinde, yani 09.30'dan sonra yapılacağını söyledi. Tekin, 10 Kasım törenlerinin 08.45'te başladığını, sınavı bu nedenle törenden sonraya koyduklarını anlattı. Okul yönetimleri gerekirse bu sınavı farklı bir ders saatine kaydırabilecek. Tekin ayrıca soruların yapay zekâya hazırlatıldığı yönündeki iddiaları yalanladı ve soruları binden fazla uzman öğretmenin hazırladığını söyledi. Öğretmenlerin sorulara erişim süresi 1 günden 4 güne çıkarıldı, EBA'daki modül 26 Ekim Pazartesi günü açılacak.
-
----
-
-## Şehit ve gazi çocuklarına 609 milyon liralık eğitim yardımı 23 Ekim'de ödenecek
-
-**Türkiye · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenisafak.com/ekonomi/bakan-isikhan-odeme-gununu-acikladi-ogrencilere-609-milyon-liralik-egitim-destegi-4866531)
-
-![](data/images/7a6844210ffcb17d.jpg)
-
-> Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, 2026-2027 eğitim döneminde 18 bin 441 öğrenciye yapılacak ödemenin cuma günü hesaplara yatacağını açıkladı.
-
-Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit ve harp-vazife malulü gazi çocuklarına yönelik eğitim-öğretim yardımlarının 23 Ekim Cuma günü ödeneceğini açıkladı.
-
-Işıkhan'ın sosyal medya hesabından yaptığı duyuruya göre 2026-2027 eğitim-öğretim döneminde 18 bin 441 öğrenciye toplam 609 milyon lira destek sağlanacak. Ödemeler, şehit çocuklarının yanı sıra harp ve vazife malulleri ile çocuklarını kapsıyor. Işıkhan, öğrencilere başarı dileklerini ileterek devletin her zaman yanlarında olduğunu söyledi.
-
----
-
-## CHP Sözcüsü Sarı Adıyaman'da: Tarım ürünlerinin fiyatları geçen yılın altında
-
-**Siyaset · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/chp-sozcusu-sari-ureticinin-sorunlarina-degindi-maliyetler-artmasina-ragmen-fiyatlar-gecen-senenin-altinda)
-
-![](data/images/4ce41cc6c1473b95.jpg)
-
-> CHP Parti Sözcüsü Müslim Sarı, Adıyaman'da yaptığı temaslarda tütün, nar ve fıstık üreticilerinin sorunlarına değindi.
-
-CHP Parti Sözcüsü ve Yerel Yönetimlerden Sorumlu Genel Başkan Yardımcısı Müslim Sarı, Adıyaman'da CHP İl Başkanı Engin Doğan ile birlikte partililerle bir araya geldi, ardından Adıyaman Belediyesi'ni ziyaret etti. Ziyarette Belediye Başkanı Abdurrahman Tutdere'ye vekâlet eden Belediye Başkan Yardımcısı Burak Binzet Sarı'yı karşıladı.
-
-ANKA Haber Ajansı'na konuşan Sarı, üç gün boyunca Güneydoğu'da temaslarda bulunacaklarını, CHP Genel Başkanı Kemal Kılıçdaroğlu'nun cumartesi günü Gaziantep'e geleceğini söyledi. Sarı, tütün, nar ve fıstık üreticilerinin sorunlarına değinerek, "Maliyetler çok artmış olmasına rağmen tarım ürünlerinin fiyatları geçen senenin altında kalmış durumda. Dolayısıyla ürün para etmiyor" dedi.
-
-Sarı ayrıca bölgede fıstık ağaçlarının söküldüğüne yönelik bilgiler aldığını ve hükümeti tarımsal üretimde planlama konusunda eleştirdiğini söyledi. Temaslarını Kilis ve Gaziantep'te sürdüreceklerini, gözlemlerini bir basın toplantısıyla paylaşacaklarını belirtti.
-
----
-
-## Büyükşehir, Anadolu Üniversitesi'ndeki Bağımlılık Farkındalık Haftası'na stantla katıldı
-
-**Belediye · Merkez** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-de-genclere-farkindalik-destegi-73661)
-
-![](data/images/e159a57a14a3a0cc.jpg)
-
-> Eskişehir Büyükşehir Belediyesi ESMEK atölyeleri, Gençlik Merkezi ve Kadın Çalışmaları Şube Müdürlüğü ile etkinliğe destek verdi.
-
-Eskişehir Büyükşehir Belediyesi, Anadolu Üniversitesi'nin ev sahipliğinde 21-22 Ekim'de düzenlenen Bağımlılık Farkındalık Haftası etkinliklerine stant ve atölyelerle destek verdi. Etkinlikler Anadolu Park'taki stant alanında yapıldı.
-
-Eskişehir Büyükşehir Belediyesi Sanat Meslek Eğitim Kursları (ESMEK), üniversiteli gençler için ebru sanatı, mandala, anahtarlık yapımı, ahşap boyama ve taş boyama atölyeleri düzenledi. Belediyenin açıklamasına göre öğrenciler atölyelere yoğun ilgi gösterdi.
-
-Büyükşehir Belediyesi Gençlik Merkezi öğrencilere sıcak çorba ikram etti. Zeliha Tabanca Gençlik Danışma Merkezi ile Sosyal Hizmetler Dairesi Başkanlığı Kadın Çalışmaları Şube Müdürlüğü de kurdukları stantlarla yürüttükleri çalışmalar hakkında bilgi verdi.
-
----
-
-## Adalet Bakanı Gürlek: 64 dosyada 71 cinayet faili meçhul statüsünden çıkarıldı
-
-**Asayiş · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://gazetegundem.tr/haber/adalet-bakani-gurlek-faili-mechul-dosyalarinda-buyuk-gelismeleri-acikladi-53958)
-
-![](data/images/515385603ae8e3d7.jpg)
-
-> Bakan Gürlek, İzmir Menemen, Mersin ve Osmaniye'deki üç eski dosyada gelişme yaşandığını açıkladı. Şüpheliler hakkında işlem sürüyor.
-
-Adalet Bakanı Akın Gürlek, sosyal medya hesabından yaptığı açıklamada, faili meçhul suçların aydınlatılmasına yönelik çalışmalar sonucunda 64 dosya kapsamında 71 cinayetin faili meçhul statüsünden çıkarıldığını duyurdu. Gürlek, İzmir, Mersin ve Osmaniye'de 10 ile 21 yıl öncesine uzanan üç dosyada gelişme kaydedildiğini bildirdi.
-
-Açıklamaya göre İzmir'in Menemen ilçesinde 2005'ten bu yana kendisinden haber alınamayan M. O.'nun dosyasında gizli tanık beyanları ve iletişim kayıtları incelendi. Kişinin bir kuyuya atıldığına dair bulgulara ulaşıldığı belirtildi. 19 Ekim'deki operasyonda 5 şüpheli gözaltına alındı, kalıntılara ulaşmak için teknik çalışmalar sürüyor.
-
-Mersin'de 2016'da kaçırılmasının ardından kaybolan F. C.'nin dosyasında, 20 Ekim'de 9 şüpheli hakkında adli işlem başlatıldı. Şüphelilerden 7'si gözaltına alındı, 2'sinin ceza infaz kurumunda bulunduğu belirlendi. Osmaniye'de 2016'da kaybolan M. Ç.'nin dosyasında ise cezaevindeki bir şüphelinin, kişiyi öldürüp bir evin bahçesine gömdüğünü söylemesi üzerine kazı yapıldı. Yaklaşık 4 metre derinlikte kemik parçalarına ulaşıldı ve kalıntılar Adli Tıp Kurumu'na gönderildi. Bu dosyada 2 şüpheli tutuklandı, 1 şüpheli hakkında adli kontrol kararı verildi.
-
----
-
-## Tarsus Belediye Başkanı Ali Boltaç CHP'den istifa etti
-
-**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://ilketv.com.tr/tarsus-belediye-baskani-ali-boltac-chpden-istifa-etti/)
-
-![](data/images/2b30824f87c24a35.jpg)
-
-> Mersin'in Tarsus ilçesinin Belediye Başkanı Ali Boltaç, hakkında başlatılan disiplin sürecinin ardından CHP üyeliğinden istifa ettiğini açıkladı.
-
-Mersin'in Tarsus ilçesi Belediye Başkanı Ali Boltaç, CHP üyeliğinden istifa ettiğini yazılı bir açıklamayla duyurdu. Boltaç, parti yönetiminin hakkında başlattığı disiplin sürecini üzüntüyle karşıladığını belirtti.
-
-Boltaç, "Bugün itibarıyla Cumhuriyet Halk Partisi üyeliğimden istifa ediyorum" dedi. Kendisi için esas olanın inandığı değerlere sahip çıkmak ve Tarsus halkına karşı sorumluluğunu yerine getirmek olduğunu söyledi.
-
-CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı daha önce yaptığı açıklamada Boltaç'ın tedbirli olarak kesin çıkarma istemiyle Yüksek Disiplin Kurulu'na sevk edildiğini duyurmuştu.
 
 ---
