@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Şehit ve gazi çocuklarına 609 milyon liralık eğitim yardımı 23 Ekim'de ödenecek
+
+**Türkiye · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenisafak.com/ekonomi/bakan-isikhan-odeme-gununu-acikladi-ogrencilere-609-milyon-liralik-egitim-destegi-4866531)
+
+![](data/images/7a6844210ffcb17d.jpg)
+
+> Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, 2026-2027 eğitim döneminde 18 bin 441 öğrenciye yapılacak ödemenin cuma günü hesaplara yatacağını açıkladı.
+
+Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit ve harp-vazife malulü gazi çocuklarına yönelik eğitim-öğretim yardımlarının 23 Ekim Cuma günü ödeneceğini açıkladı.
+
+Işıkhan'ın sosyal medya hesabından yaptığı duyuruya göre 2026-2027 eğitim-öğretim döneminde 18 bin 441 öğrenciye toplam 609 milyon lira destek sağlanacak. Ödemeler, şehit çocuklarının yanı sıra harp ve vazife malulleri ile çocuklarını kapsıyor. Işıkhan, öğrencilere başarı dileklerini ileterek devletin her zaman yanlarında olduğunu söyledi.
+
+---
+
+## CHP Sözcüsü Sarı Adıyaman'da: Tarım ürünlerinin fiyatları geçen yılın altında
+
+**Siyaset · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/chp-sozcusu-sari-ureticinin-sorunlarina-degindi-maliyetler-artmasina-ragmen-fiyatlar-gecen-senenin-altinda)
+
+![](data/images/4ce41cc6c1473b95.jpg)
+
+> CHP Parti Sözcüsü Müslim Sarı, Adıyaman'da yaptığı temaslarda tütün, nar ve fıstık üreticilerinin sorunlarına değindi.
+
+CHP Parti Sözcüsü ve Yerel Yönetimlerden Sorumlu Genel Başkan Yardımcısı Müslim Sarı, Adıyaman'da CHP İl Başkanı Engin Doğan ile birlikte partililerle bir araya geldi, ardından Adıyaman Belediyesi'ni ziyaret etti. Ziyarette Belediye Başkanı Abdurrahman Tutdere'ye vekâlet eden Belediye Başkan Yardımcısı Burak Binzet Sarı'yı karşıladı.
+
+ANKA Haber Ajansı'na konuşan Sarı, üç gün boyunca Güneydoğu'da temaslarda bulunacaklarını, CHP Genel Başkanı Kemal Kılıçdaroğlu'nun cumartesi günü Gaziantep'e geleceğini söyledi. Sarı, tütün, nar ve fıstık üreticilerinin sorunlarına değinerek, "Maliyetler çok artmış olmasına rağmen tarım ürünlerinin fiyatları geçen senenin altında kalmış durumda. Dolayısıyla ürün para etmiyor" dedi.
+
+Sarı ayrıca bölgede fıstık ağaçlarının söküldüğüne yönelik bilgiler aldığını ve hükümeti tarımsal üretimde planlama konusunda eleştirdiğini söyledi. Temaslarını Kilis ve Gaziantep'te sürdüreceklerini, gözlemlerini bir basın toplantısıyla paylaşacaklarını belirtti.
+
+---
+
+## Büyükşehir, Anadolu Üniversitesi'ndeki Bağımlılık Farkındalık Haftası'na stantla katıldı
+
+**Belediye · Merkez** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-de-genclere-farkindalik-destegi-73661)
+
+![](data/images/e159a57a14a3a0cc.jpg)
+
+> Eskişehir Büyükşehir Belediyesi ESMEK atölyeleri, Gençlik Merkezi ve Kadın Çalışmaları Şube Müdürlüğü ile etkinliğe destek verdi.
+
+Eskişehir Büyükşehir Belediyesi, Anadolu Üniversitesi'nin ev sahipliğinde 21-22 Ekim'de düzenlenen Bağımlılık Farkındalık Haftası etkinliklerine stant ve atölyelerle destek verdi. Etkinlikler Anadolu Park'taki stant alanında yapıldı.
+
+Eskişehir Büyükşehir Belediyesi Sanat Meslek Eğitim Kursları (ESMEK), üniversiteli gençler için ebru sanatı, mandala, anahtarlık yapımı, ahşap boyama ve taş boyama atölyeleri düzenledi. Belediyenin açıklamasına göre öğrenciler atölyelere yoğun ilgi gösterdi.
+
+Büyükşehir Belediyesi Gençlik Merkezi öğrencilere sıcak çorba ikram etti. Zeliha Tabanca Gençlik Danışma Merkezi ile Sosyal Hizmetler Dairesi Başkanlığı Kadın Çalışmaları Şube Müdürlüğü de kurdukları stantlarla yürüttükleri çalışmalar hakkında bilgi verdi.
+
+---
+
+## Adalet Bakanı Gürlek: 64 dosyada 71 cinayet faili meçhul statüsünden çıkarıldı
+
+**Asayiş · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://gazetegundem.tr/haber/adalet-bakani-gurlek-faili-mechul-dosyalarinda-buyuk-gelismeleri-acikladi-53958)
+
+![](data/images/515385603ae8e3d7.jpg)
+
+> Bakan Gürlek, İzmir Menemen, Mersin ve Osmaniye'deki üç eski dosyada gelişme yaşandığını açıkladı. Şüpheliler hakkında işlem sürüyor.
+
+Adalet Bakanı Akın Gürlek, sosyal medya hesabından yaptığı açıklamada, faili meçhul suçların aydınlatılmasına yönelik çalışmalar sonucunda 64 dosya kapsamında 71 cinayetin faili meçhul statüsünden çıkarıldığını duyurdu. Gürlek, İzmir, Mersin ve Osmaniye'de 10 ile 21 yıl öncesine uzanan üç dosyada gelişme kaydedildiğini bildirdi.
+
+Açıklamaya göre İzmir'in Menemen ilçesinde 2005'ten bu yana kendisinden haber alınamayan M. O.'nun dosyasında gizli tanık beyanları ve iletişim kayıtları incelendi. Kişinin bir kuyuya atıldığına dair bulgulara ulaşıldığı belirtildi. 19 Ekim'deki operasyonda 5 şüpheli gözaltına alındı, kalıntılara ulaşmak için teknik çalışmalar sürüyor.
+
+Mersin'de 2016'da kaçırılmasının ardından kaybolan F. C.'nin dosyasında, 20 Ekim'de 9 şüpheli hakkında adli işlem başlatıldı. Şüphelilerden 7'si gözaltına alındı, 2'sinin ceza infaz kurumunda bulunduğu belirlendi. Osmaniye'de 2016'da kaybolan M. Ç.'nin dosyasında ise cezaevindeki bir şüphelinin, kişiyi öldürüp bir evin bahçesine gömdüğünü söylemesi üzerine kazı yapıldı. Yaklaşık 4 metre derinlikte kemik parçalarına ulaşıldı ve kalıntılar Adli Tıp Kurumu'na gönderildi. Bu dosyada 2 şüpheli tutuklandı, 1 şüpheli hakkında adli kontrol kararı verildi.
+
+---
+
 ## Tarsus Belediye Başkanı Ali Boltaç CHP'den istifa etti
 
 **Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://ilketv.com.tr/tarsus-belediye-baskani-ali-boltac-chpden-istifa-etti/)
@@ -413,67 +475,5 @@ Göktaş, her çocuğun haklarını koruyan, ihtiyaçlarını gözeten ve potans
 Türkiye'deki uygulamaları anlatan Göktaş, Şartlı Eğitim Yardımı Programı ile çocukların okula düzenli devamının, Şartlı Sağlık Yardımları ile de düzenli sağlık kontrollerinin desteklendiğini ifade etti. Eylül ayı itibarıyla Sosyal ve Ekonomik Destek hizmeti kapsamında yaklaşık 200 bin çocuğa destek sağlandığını açıkladı. Koruyucu aile modeliyle çocukların aile ortamında büyümelerinin amaçlandığını da kaydetti.
 
 Zirvede kabul edilmesi beklenen Semerkant Deklarasyonu'nun çocuk odaklı sosyal koruma alanındaki ortak öncelikleri somut taahhütlere dönüştürmesini temenni eden Göktaş, Türkiye'nin bilgi birikimini ve uygulama tecrübesini paylaşmaya hazır olduğunu söyledi.
-
----
-
-## Bakan Bayraktar Ankara Üniversitesi'nde enerji hedeflerini anlattı
-
-**Ekonomi · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31950)
-
-![](data/images/7df59c6a27460ec9.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Ankara Üniversitesi'nin akademik yıl açılışında 2040'a kadar enerjinin yaklaşık yüzde 70'inin yenilenebilirden sağlanacağını söyledi.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Ankara Üniversitesi 2026-2027 Akademik Yılı Açılış Töreni'nde öğrencilere Türkiye'nin enerji ve tabii kaynaklar alanındaki hedeflerini anlattı.
-
-Bayraktar, 2040'a gelindiğinde Türkiye'nin enerjisinin yaklaşık yüzde 70'ini yenilenebilir kaynaklardan sağlayacağını söyledi. Enerji verimliliğinin en ucuz enerji kaynağı olduğunu belirten Bakan, Osman Gazi Yüzer Üretim Platformu'nun geçen cumartesi görev yerine uğurlandığını, doğal gaz üretiminin 2027'den itibaren iki katına çıkacağını ve 2028'de dört katına çıkarılacağını açıkladı. Bugün 4 milyon evde yerli doğal gaz kullanıldığını ifade etti.
-
-Gabar'da günde yaklaşık 85 bin varil petrol üretildiğini, yeni keşiflerle bu rakamın 2027'de 100 binin üzerine çıkmasını beklediklerini anlatan Bayraktar, Akkuyu Nükleer Santrali'nin birinci reaktöründe son testlerin yapıldığını, önümüzdeki birkaç ay içinde ilk elektriğin üretilmesini planladıklarını söyledi. Türkiye'nin yılda en az 100 ton altın üretmesi gerektiğini de vurguladı.
-
----
-
-## Aile ve Gençlik Fonu'ndan ekimde 15 bin 468 gence ödeme yapıldı
-
-**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-genclik-fonu-kapsaminda-yeni-yuva-kuran-15-bin-468-genc-icin-ekim-ayinda-1-milyar-756-milyon-600-bin-lira-odeme-yapildi/)
-
-![](data/images/a5dabe77c9f30afc.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Göktaş, ekim ayında 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını duyurdu.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Aile ve Gençlik Fonu kapsamında ekim ayında 15 bin 468 gence toplam 1 milyar 756 milyon 600 bin lira ödeme yapıldığını açıkladı.
-
-Göktaş'ın yazılı açıklamasına göre fona yapılan başvurular 315 bin 696'ya ulaştı. Evlilik yolundaki 238 bin 448 gence şimdiye kadar toplam 22 milyar 804 milyon 100 bin liralık sıfır faizli kredi desteği sağlandı. Başvurular ailegenclikfonu.aile.gov.tr adresinden veya e-Devlet üzerinden yapılabiliyor.
-
-Göktaş, çiftlerin ikisinin de 18-25 yaş arasında olması halinde 250 bin lira, 26-29 yaş arasında olması halinde 200 bin lira destek verildiğini, kredinin 48 ay vadeli ve 2 yıl geri ödemesiz olduğunu belirtti. Gelir şartının asgari ücretin 2,3 katından 2,5 katına çıkarıldığını da hatırlattı. Ayrıca ilk çocukta 12 aylık geri ödemenin hibe edildiğini, ikinci çocukta ise kalan borcun tamamının hibe edildiğini söyledi.
-
----
-
-## Savunma Sanayii Başkan Yardımcısı Gökhan Uçar Eskişehir Teknik Üniversitesi'ni ziyaret etti
-
-**Eğitim · Tepebaşı** · 2026-10-22 15:33 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/savunma-sanayii-baskan-yardimcisi-gokhan-ucardan-eskisehir-teknik-universitesine-ziyaret)
-
-![](data/images/3dece8e6ef3a2edb.jpg)
-
-> Savunma Sanayii Başkan Yardımcısı Gökhan Uçar, 22 Ekim'de Eskişehir Teknik Üniversitesi'ni ziyaret etti. Ziyarette Rektör Prof. Dr. Adnan Özcan ev sahipliği yaptı.
-
-Savunma Sanayii Başkan Yardımcısı Gökhan Uçar, 22 Ekim 2026 Perşembe günü Eskişehir Teknik Üniversitesi'ni (ESTÜ) ziyaret etti. Ziyarette Rektör Prof. Dr. Adnan Özcan ev sahipliği yaptı.
-
-Görüşmeye TEITECH Genel Müdürü Ahmet Fındık, TEITECH Kurumsal Yönetim Genel Müdür Yardımcısı Ercan Arıcan, Havacılık ve Uzay Bilimleri Fakültesi Dekanı Prof. Dr. Cem Çetek ve Yapı İşleri ve Teknik Daire Başkanı İbrahim Halil Umur katıldı. Ziyaret, hatıra fotoğrafı çekilmesinin ardından sona erdi.
-
----
-
-## Togg'dan ekim ayında sıfır faizli kredi kampanyası
-
-**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.memurlar.net/album/28350/togg-dan-dev-kampanya.html)
-
-![](data/images/057149864b7d6ddb.jpg)
-
-> Togg, T10X ve T10F modelleri için ekim ayına özel sıfır faizli ve uzun vadeli kredi paketleri sundu.
-
-Togg, ekim ayında T10X ve T10F modelleri için finansman kampanyası başlattı. Aktarılan bilgilere göre kampanya sınırlı sayıdaki araç için geçerli ve sipariş ile kredi başvuruları Togg'un resmi web sitesi ile dijital mobil kanalları üzerinden yürütülüyor.
-
-T10F V2 için 1 milyon TL kredi 6 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 166 bin 667 TL oluyor. Aynı modelde 800 bin TL için 8 ay, 600 bin TL için 12 ay vadeli yüzde 0 faizli seçenekler var. T10X V2'de 800 bin TL kredi 6 ay vadeyle yüzde 0 faizli verilirken aylık taksit 133 bin 333 TL oluyor.
-
-T10X 4More ve T10F 4More modellerinde 1,5 milyon TL kredi 10 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 150 bin TL. Aynı tutar 36 ay vadede yüzde 2,99 faizle 78 bin 93 TL aylık ödemeyle kullanılabiliyor. T10X V2 ve T10F V2 için 1 milyon 700 bin TL'lik 48 ay vadeli kredi ise yüzde 2,95 faizle aylık 78 bin 8 TL taksit içeriyor.
 
 ---
