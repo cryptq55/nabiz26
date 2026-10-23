@@ -17,7 +17,10 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   her haber story, önem 3+ gönderi, `reel: true` olanlar sesli Reels (`reels.py`; video R2 `nabiz26-media` →
   media.nabiz26.com; ses ücretsiz edge-tts, `EDGE_TTS_VOICE`=tr-TR-EmelNeural repo değişkeni). Kota sırası Reels >
   gönderi > story. Elle Reels: "Bildir ve paylaş" iş akışı `reel` girdisi. Facebook (`facebook.py`): önem 3+ bağlantılı
-  gönderi + Reels; FB_PAGE_ID/FB_PAGE_TOKEN henüz yok (atlanıyor).
+  gönderi + Reels; FB_PAGE_ID/FB_PAGE_TOKEN henüz yok (atlanıyor). Resmî kaynağın haber sayfasında kendi mp4 videosu
+  varsa (`newsbot.find_video`, şu an Valilik) haber kaydına `video` eklenir ve o haber önce, videolu Reels olur
+  (`reels.render_video`). YouTube gömmeleri kullanılmaz. Story yalnızca gerçek fotoğraflı haberlerden (kendi kapak hariç).
+  Günde en fazla 22 paylaşım (`instagram.DAILY_CAP`). Günlük bülten: `bulten.py` + `bulten.yml` (08:00 ve 20:00).
 - **Instagram görselleri:** `social.py` her haber için 1080x1350 gönderi ve 1080x1920 story üretir,
   `nabiz26.com/social/feed.json` açıklamalarla birlikte. Profil bağlantısı sayfası `nabiz26.com/instagram`.
 - **Sabah altın haberi:** `gold.py`, Harem Altın canlı fiyatlarından (socket.io) haber + fiyat tablosu görseli yazar;
