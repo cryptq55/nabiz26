@@ -2,6 +2,122 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda darp edilen kişi tedaviyi reddedip kaçtı, arsada baygın bulundu
+
+**Asayiş · Tepebaşı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kanlar-icinde-kacti-arsada-bulundu)
+
+![](data/images/2246a965baeadc5a.jpg)
+
+> Tunalı Mahallesi'nde çıkan kavgada darp edilen kişi, evinin yakınındaki arsada bulunarak hastaneye kaldırıldı.
+
+Eskişehir'in Tepebaşı ilçesine bağlı Tunalı Mahallesi Turgut Reis Caddesi üzerinde henüz bilinmeyen bir nedenle iki grup arasında kavga çıktı. Kimliği belirlenemeyen kişilerce darp edilen bir kişiye çevredeki esnaf yardıma koştu.
+
+Ağzı ve yüzü kanlar içinde kalan yaralı, sağlık ekiplerinin müdahalesini kabul etmedi. Ambulansı fark eden yaralı ile yanındaki kadın yakını olay yerinden koşarak uzaklaştı.
+
+İlerleyen saatlerde yaralı, evinin yakınındaki boş bir arsada baygın halde bulundu. 112 Acil Sağlık ekiplerinin ilk müdahalesinin ardından Yunus Emre Devlet Hastanesi'ne kaldırılan yaralı tedavi altına alındı. Olayla ilgili inceleme başlatıldı.
+
+---
+
+## Odunpazarı'nda araçtakiler karşılıklı ateş etti, bir evin duvarına mermi isabet etti
+
+**Asayiş · Odunpazarı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/guncel/haber-eskisehir-odunpazari-nda-aractakiler-karsilikli-at-20357873/)
+
+![](data/images/1f55062965ed8eba.jpg)
+
+> Huzur Mahallesi'nde iki araçtaki kişiler silahla karşılıklı ateş etti; polis şüphelileri arıyor.
+
+Eskişehir'in Odunpazarı ilçesinde Huzur Mahallesi'nde iki araçtaki kişiler henüz belirlenemeyen nedenle karşılıklı silahla ateş etti. Bir evin duvarına mermi isabet etti.
+
+Olay, Dener Sokak ile Camlı Sokak'ın kesişiminde yaşandı. Silah seslerini duyan vatandaşların ihbarı üzerine bölgeye polis ekipleri sevk edildi.
+
+Polisin incelemesinde, iki araçtaki kişilerin karşılıklı ateş ettiği ve ardından olay yerinden ayrıldığı belirlendi. Polis, şüpheli ya da şüphelileri yakalamak için çalışma başlattı.
+
+---
+
+## MSB: Askerlik yerleri 27 Ekim'de açıklanacak
+
+**Türkiye · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.ilerigazetesi.com.tr/msb-askerlik-yerlerini-acikliyor)
+
+![](data/images/d4a1768419efa6b3.jpg)
+
+> Kasım, Aralık 2026 ve Ocak 2027 dönemi yükümlülerinin sınıflandırma sonuçları 27 Ekim Salı günü erişime açılacak.
+
+Milli Savunma Bakanlığı (MSB), yedek subay ve yedek astsubay adayları ile erlerin askerlik yerlerinin 27 Ekim 2026 Salı günü açıklanacağını duyurdu. Açıklama, MSB Sözcüsü Tuğamiral Zeki Aktürk'ten geldi.
+
+Kasım, Aralık 2026 ve Ocak 2027 dönemlerinde silahaltına alınacak yükümlüler, sonuçlara e-Devlet Kapısı, askerlik şubeleri ve MSB Mobil uygulaması üzerinden ulaşabilecek.
+
+Muvazzaf subay adayı temini başvuruları ile Deniz Kuvvetleri Komutanlığı deniz sınıfı muvazzaf subay adayı temini başvuruları 2 Kasım 2026 tarihine kadar sürecek.
+
+Açıklamada ayrıca Kara Kuvvetleri Komutanlığı'na, Bilgi Güvenliği Derneği'nin Ankara'daki konferansında "Siber Güvenlik Üstün Hizmet Ödülü" verildiği bildirildi.
+
+---
+
+## Kılıçdaroğlu: Yeni Parti'ye aktarıldığı öne sürülen 5,1 milyon lira için ihtar çekildi
+
+**Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://www.takvim.com.tr/guncel/2026/10/23/kemal-kilicdaroglu-chpde-yeni-partiye-aktarilan-paranin-iadesini-istedi)
+
+![](data/images/579be1b05207c617.jpg)
+
+> Kılıçdaroğlu, paranın iade edilmemesi halinde suç duyurusunda bulunulacağını belirtti.
+
+CHP Genel Başkanı Kemal Kılıçdaroğlu, CHP grup hesabından Yeni Parti'ye geçen milletvekillerine aktarıldığı öne sürülen 5 milyon 100 bin liranın iadesi için resmi ihtar çekildiğini açıkladı. Haberde, Kılıçdaroğlu'nun sözleri gazeteci Melik Yiğitel'in aktardığı bilgilere dayandırıldı.
+
+İddiaya göre Yeni Parti'nin kuruluşundan bir gün önce, 23 Temmuz'da Özgür Özel tarafından imzalanan belge doğrultusunda grup hesabındaki para, Yeni Parti'ye geçecek milletvekillerinin hesaplarına ayrı ayrı 57 bin lira olarak yatırıldı.
+
+Kılıçdaroğlu, işlemi ahlaki bulmadığını söyleyerek paranın iadesini istediklerini belirtti. İade edilmemesi halinde Sayıştay denetiminde sorun çıkabileceğini ve hazineden gelecek ödemenin kesilebileceğini ifade etti. Haberde, ihtarın sonuç vermemesi durumunda Özel ve ekibi hakkında suç duyurusunda bulunulacağının öğrenildiği de aktarıldı. Konuya ilişkin Özel ve ekibinin açıklaması kaynak metinde yer almıyor.
+
+---
+
+## Eskişehirspor'da Dereli, Kulet ve Damar'ın hafta sonu forma şansı düşük
+
+**Spor · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.2eylul.com.tr/forma-giyemeyecekler-3)
+
+![](data/images/9842892684c2d920.jpg)
+
+> Şapcı, sakatlığı süren iki oyuncunun oynama ihtimalinin yüksek olmadığını söyledi.
+
+Eskişehirspor'da sakatlığı süren Ahmet Dereli ve İsmail Kulet'in sağlık durumu maç saatine kadar beklenecek. Şapcı, bu iki oyuncuyu pek oynatmayı düşünmediğini, günlük durumlarına göre 21 kişilik kadroda yer alabileceklerini söyledi.
+
+Şapcı, gerekirse oyuncuların iğneyle oynayacak noktaya getirilebileceğini ancak oynama ihtimallerinin çok umut verici olmadığını belirtti.
+
+Sakat listesine Mustafa Eren Damar da eklendi. Damar'ın sırtında ağrı bulunduğu ve tedavisine başlandığı aktarıldı. Şapcı, büyük ihtimalle Damar'ın da hafta sonu kadroda yer alamayacağını söyledi.
+
+---
+
+## Eskişehir'de hava parçalı ve az bulutlu, sıcaklık 22 dereceye çıkacak
+
+**Hava Durumu · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-hava-degisiyor-mu-meteoroloji-acikladi)
+
+![](data/images/7a17c0c295d390e0.jpg)
+
+> Meteoroloji'ye göre kentte yağış beklenmiyor, önemli bir hava değişikliği öngörülmüyor.
+
+Meteoroloji 3. Bölge Müdürlüğü'nün tahminlerine göre Eskişehir ve çevresinde parçalı ve az bulutlu hava etkili olacak. Sıcaklıklarda önemli bir değişiklik beklenmiyor.
+
+Odunpazarı ilçesinde en yüksek sıcaklığın 22, Tepebaşı ilçesinde 21 derece olması tahmin ediliyor. Yağış beklenmiyor.
+
+Rüzgârın başlangıçta güneyli yönlerden, ilerleyen saatlerde kuzey ve batı yönlerden hafif, zaman zaman orta kuvvette esmesi bekleniyor. Eskişehir için güncel bir meteorolojik uyarı bulunmuyor.
+
+---
+
+## CHP'li Sarıbal: 2027 bütçesinde tarımsal destek için ayrılan 235 milyar lira yetersiz
+
+**Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://baskentpostasi.com/chp-genel-baskan-yardimcisi-orhan-saribal-235-milyar-lira-ciftcinin-mazotunun-bile-bedeli-degil)
+
+![](data/images/d8f92abc83964b15.jpg)
+
+> Sarıbal, TBMM'de düzenlediği basın toplantısında tarımsal desteklerin yasadaki yüzde 1 ölçütünün çok altında kaldığını savundu.
+
+CHP Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, TBMM'de düzenlediği basın toplantısında 2027 bütçe teklifini değerlendirdi. Sarıbal, tarımsal destekleme programlarına ayrılan 235 milyar liranın çiftçinin temel giderlerini karşılamadığını söyledi.
+
+Sarıbal'a göre tarıma ayrıldığı açıklanan 1 trilyon 305 milyar liralık toplam kaynağın tamamı çiftçiye ödenecek destek değil. Sarıbal, bu tutarın tarımsal kredi destekleri için 325 milyar lira, tarım sektörü yatırımları için 268 milyar lira ve kamu iktisadi teşebbüsleri ile ihracat destekleri için 135 milyar lira gibi kalemleri de kapsadığını aktardı.
+
+5488 sayılı Tarım Kanunu'nun 21. maddesini hatırlatan Sarıbal, destekleme kaynağının gayrisafi millî hasılanın yüzde 1'inden az olamayacağını belirtti. 2027 için öngörülen yaklaşık 111 trilyon liralık hasıla üzerinden bunun yaklaşık 1 trilyon 110 milyar lira olması gerektiğini savundu.
+
+Sarıbal ayrıca üreticilerin banka borçlarının faizlerinin silinmesini ve anaparanın uzun vadeye yayılmasını istedi. Basın özgürlüğüne ilişkin değerlendirmelerde de bulunan Sarıbal, gazeteciler Murat Ağırel ve İsmail Arı'nın tutuklanmasına tepki gösterdi.
+
+---
+
 ## Odunpazarı Belediyesi desteğiyle anneler Alaaddin Park Cafe'de buluştu
 
 **Belediye · Odunpazarı** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/kazim-kurtun-destegiyle-anneler-alaaddin-park-cafede-bulustu)
@@ -359,115 +475,5 @@ Mersin'in Tarsus ilçesi Belediye Başkanı Ali Boltaç, CHP üyeliğinden istif
 Boltaç, "Bugün itibarıyla Cumhuriyet Halk Partisi üyeliğimden istifa ediyorum" dedi. Kendisi için esas olanın inandığı değerlere sahip çıkmak ve Tarsus halkına karşı sorumluluğunu yerine getirmek olduğunu söyledi.
 
 CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı daha önce yaptığı açıklamada Boltaç'ın tedbirli olarak kesin çıkarma istemiyle Yüksek Disiplin Kurulu'na sevk edildiğini duyurmuştu.
-
----
-
-## Özgür Özel, Halk TV önündeki dayanışma mitinginde konuştu
-
-**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://kisadalga.net/amp/haber/gundem/ozgur-ozelden-halk-tv-icin-kilicdaroglunda-timsah-gozyaslari-cikisi-halk-tvyi-hedef-gosterenler-meydanda-olamiyor-141099)
-
-![](data/images/328dc546b105512c.jpg)
-
-> Yeni Parti Genel Başkanı Özgür Özel, Halk TV'ye kayyım atanmasını protesto eden dayanışma mitinginde basın özgürlüğü vurgusu yaptı.
-
-Yeni Parti Genel Başkanı Özgür Özel, Halk TV önünde düzenlenen dayanışma mitinginde konuştu. Özel, bu akşamı bir parti mitingi olarak değil, Halk TV'ye kayyım atanmasını protesto etmek ve kanalın yaklaşık 200 çalışanıyla dayanışma göstermek için düzenlediklerini söyledi.
-
-Özel'in aktardığına göre eylemde DİSK, KESK, TMMOB ve İstanbul Tabip Odası ile DEM Parti, TİP, EMEP, İYİ Parti, Saadet Partisi, DEVA Partisi, Zafer Partisi ve LDP gibi çok sayıda parti ve kuruluşun temsilcileri yer aldı.
-
-Özel, konuşmasında gazeteciliğin iktidarı denetleyen dördüncü kuvvet olduğunu söyledi. İktidarı denetimden kaçmakla ve gazetecilere yönelik soruşturma, para cezası, gözaltı ve kayyım uygulamalarıyla suçlayan Özel, bu mücadelenin toplumsallaştırılması gerektiğini ifade etti. Özel ayrıca isim vermeden CHP Genel Başkanı Kemal Kılıçdaroğlu'nu Halk TV'yi hedef göstermekle ve mitinge katılmamakla eleştirdi.
-
----
-
-## MSB: Katar'dan Eurofighter tedariki için taslak sözleşme bekleniyor
-
-**Türkiye · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.savunmasanayist.com/msbden-eurofighter-aciklamasi-katar-tarafi-bekleniyor/)
-
-![](data/images/b6bd98fd0f03b03f.jpg)
-
-> Milli Savunma Bakanlığı, Katar'dan Eurofighter Typhoon uçağı tedarikinde Katar'dan taslak eğitim programı ve satış sözleşmesi beklendiğini açıkladı.
-
-Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, haftalık basın toplantısında Katar'dan Eurofighter Typhoon uçağı tedarikine ilişkin son durumu paylaştı. Aktürk, Hava Kuvvetleri Komutanlığı'nın harekât ihtiyaçlarının karşılanması için çalışmaların sürdüğünü söyledi.
-
-Aktürk'e göre Ağustos ve Eylül aylarında heyetler arası toplantılar yapıldı. Görüşmelerde tedarik edilecek uçak ve mühimmatın kapsamı, pilot ve bakım personelinin eğitimi ile uçakların idame ve işletmesine yönelik teknik ve lojistik destek ele alındı. Gelinen son aşamada Katar tarafından taslak eğitim programı ve satış sözleşmesi bekleniyor.
-
-SavunmaSanayiST'nin aktardığına göre Türkiye, Katar'ın envanterindeki Typhoon'lardan 12'sini devralmayı planlıyor. Bu uçaklar, Birleşik Krallık ile 27 Ekim 2025'te sözleşmesi imzalanan 20 yeni üretim uçağın teslimine kadar ortaya çıkacak ihtiyacı karşılayacak.
-
----
-
-## Erdoğan AK Parti MKYK'da fon sürecini ve yerel yönetim reformunu ele aldı
-
-**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.sde.org.tr/turkiye/cumhurbaskani-erdogan-dan-fon-skandaliyla-baslayan-ofkeyi-teskin-eden-konusma-haberi-67859)
-
-![](data/images/55d30cdf8f92e4b6.jpg)
-
-> Cumhurbaşkanı Erdoğan başkanlığındaki AK Parti MKYK toplantısında fon krizine ilişkin süreç ve yerel yönetimler reform paketi gündeme geldi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplanan AK Parti Merkez Karar ve Yönetim Kurulu'nda (MKYK) fon krizine ilişkin süreç ve yerel yönetimlere yönelik reform çalışmaları görüşüldü.
-
-Türkiye gazetesinin haberine göre Erdoğan, sürecin kararlılıkla yürütüleceğini, sorumluluğu bulunanlar hakkında gerekli adımların atılacağını söyledi. Erdoğan, "Hiçbir şeyin üzeri örtülmeyecek" dedi ve muhalefetin kışkırtmalarına kapılmadan hareket edeceklerini ifade etti.
-
-Toplantıda ayrıca Yerel Yönetimler Başkanlığı'nın hazırladığı reform çalışması ele alındı. Belediyelerde mali disiplinin sağlanması, denetim mekanizmalarının güçlendirilmesi ve büyükşehir, ilçe belediyeleri ile kırsal alanlar arasındaki yetki karmaşasının giderilmesi hedefleniyor. TBMM'ye sunulmak üzere hazırlanan paket; şeffaflık ve denetim, yerel yönetim modeli, mali yapı, yeni uygulamalar ile imar ve planlama olmak üzere beş ana başlıktan oluşuyor.
-
----
-
-## CHP Engelliler Kurulu Ankara'da istişare toplantısı yaptı
-
-**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://www.fibhaber.com/chpli-taylan-simsekten-engelsiz-turkiye-cagrisi)
-
-![](data/images/1c18c15b12d396df.jpg)
-
-> CHP Genel Merkezi'ndeki toplantıda engelli bireylerin sorunları, erişilebilirlik ve fırsat eşitliği konuları ele alındı.
-
-CHP Genel Merkezi Parti Meclisi Salonu'nda Engelliler Kurulu İstişare Toplantısı düzenlendi. CHP Genel Başkan Yardımcısı Necdet Saraç'ın sorumluluğunda yürütülen çalışmalar kapsamındaki toplantıda engelli bireylerin yaşam koşulları, erişilebilir çevre düzenlemeleri ve fırsat eşitliğine yönelik sosyal politikalar değerlendirildi.
-
-Toplantıya katılanlar arasında CHP Nevşehir Merkez İlçe Başkanı ve CHP İç Anadolu Bölgesi Sosyal Politikalar Engelliler Kurulu Koordinatör Yardımcısı Taylan Şimşek de vardı. Şimşek, engelli bireylerin sorunlarının çözüm üretilmesi gereken toplumsal meseleler olduğunu söyledi ve herkes için erişilebilir bir Türkiye hedefiyle çalışacaklarını belirtti.
-
----
-
-## Mukaddes Emanetler Sergisi'ne Eskişehir'de yoğun ilgi: Metrelerce kuyruk oluştu
-
-**Kültür-Sanat · Merkez** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.saraymedya.com/haber/eskisehir-de-mukaddes-emanetler-sergisi-yogun-ilgi-gordu_316578/)
-
-![](data/images/962fe0045f0c5415.jpg)
-
-> İl Kültür ve Turizm Müdürlüğü Sergi Salonu'ndaki sergiyi görmek isteyen vatandaşlar uzun kuyruklar oluşturdu.
-
-Eskişehir İl Kültür ve Turizm Müdürlüğü Sergi Salonu'nda açılan Mukaddes Emanetler Sergisi'ne vatandaşlar yoğun ilgi gösterdi. Sergiyi görmek isteyenler metrelerce kuyruk oluşturdu.
-
-Saray Medya'nın haberine göre Asr-ı Saadet'ten Osmanlı dönemine uzanan 150'den fazla kutsal emanetin sergilendiği etkinlik, koleksiyoner Erol Güzel ile MÜSİAD Eskişehir Şubesi'nin iş birliğiyle düzenleniyor. Sergi, Eskişehir'de bu kadar geniş kapsamda ilk kez sunuluyor.
-
-Ziyaretçiler, Sakal-ı Şerif ve Kabe örtülerini görmek için saatlerce beklediklerini söyledi. Bazı ziyaretçiler 2-3 saattir sırada beklediklerini, sabahtan geldiklerini ifade etti. Genç ziyaretçiler de sergiden memnun kaldıklarını belirtti.
-
----
-
-## MSB haftalık toplantıda hudut güvenliği ve Libya mutabakatını açıkladı
-
-**Türkiye · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/milli-savunma-bakanligi-hudut-guvenligi-ve-uluslararasi-askeri-is-birliklerini-acikladi-52090)
-
-![](data/images/cd03f7f471fb35f6.jpg)
-
-> Milli Savunma Bakanlığı Sözcüsü Tuğamiral Zeki Aktürk haftalık basın toplantısında sınır güvenliği verilerini ve uluslararası iş birliklerini anlattı.
-
-Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, haftalık basın bilgilendirme toplantısında terörle mücadele, sınır güvenliği ve uluslararası askerî iş birliklerine ilişkin açıklamalarda bulundu.
-
-Aktürk, hafta içinde 4 PKK mensubunun teslim olduğunu bildirdi. Sınırı yasa dışı yollarla geçmeye çalışan 364 kişinin yakalandığını, 2 bin 47 kişinin ise sınırın ötesine geçemeden engellendiğini söyledi. Yılbaşından bu yana yakalanan kişi sayısının 14 bin 207, engellenenlerin sayısının 56 bin 898 olduğunu açıkladı.
-
-Aktürk, Türkiye ile Libya arasında yürürlüğe giren Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası'nın Libya Temsilciler Meclisi tarafından 20 Ekim'de onaylandığını belirtti. Ayrıca Türkiye, Katar, Endonezya ve Pakistan arasındaki askerî iş birliği kapsamında "Bedir Mutabakat Zaptı"nın 21 Ekim'de Doha'da imzalandığını aktardı.
-
----
-
-## "İyilik Var" gönüllülük platformuna bir ayda 20 bin kişi katıldı
-
-**Türkiye · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/iyilik-varda-bir-ayda-gonullu-sayisi-20-bine-ulasti/)
-
-![](data/images/230ea763cb6eaeb8.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanlığı'nın dijital gönüllülük platformu "İyilik Var", bir ayda 20 bin gönüllüye ulaştı.
-
-Aile ve Sosyal Hizmetler Bakanlığı'nın gönüllülük faaliyetlerine katılımı artırmak amacıyla hayata geçirdiği dijital platform "İyilik Var" ile bir ayda 20 bin vatandaş gönüllülük hareketine dahil oldu.
-
-Platform üzerinden bireysel ve kurumsal gönüllüler; sosyo-kültürel, çevre, eğitim, sanat, spor, psikososyal, bilişsel-gelişimsel, eğlence ve bilim gibi alanlardaki etkinliklere katılabiliyor. Etkinlikler, bakanlığın bağlı kuruluşları ve il müdürlükleri tarafından belirlenen ihtiyaç alanlarına göre planlanıyor. Platformdaki haritada iyilik alanlarının yoğunluğu illere göre farklı renklerle gösteriliyor.
-
-Bakanlığın açıklamasına göre 81 ilde toplam 1088 iyilik alanı oluşturuldu. Platforma ilişkin bilgilere www.iyilikvar.gov.tr adresinden ulaşılabiliyor.
 
 ---
