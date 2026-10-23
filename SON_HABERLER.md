@@ -2,6 +2,64 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Zorla tespih satıp gasbetmeye çalıştığı öne sürülen şüpheli Ankara'da yakalandı
+
+**Asayiş · Tepebaşı** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-bir-kisiyi-gasbetmeye-calistigi-one-surulen-supheli-ankarada-yakalandi-119501650)
+
+![](data/images/78309947d04e0583.jpg)
+
+> Eskişehir Asayiş Şubesi ekiplerinin çalışması sonucu R.A. Ankara'da gözaltına alındı.
+
+Eskişehir'de zorla tespih sattığı kişinin parasını gasbetmeye çalıştığı iddia edilen şüpheli Ankara'da yakalandı. Olay, Tepebaşı ilçesi Yenibağlar Mahallesi Yılmaz Büyükerşen Bulvarı'nda yaşandı.
+
+Eskişehir İl Emniyet Müdürlüğü Asayiş Şubesi ekipleri çalışma başlattı ve Ankara'da bulunduğunu tespit ettiği şüpheli R.A.'yı (26) yakaladı. Gözaltına alınan şüpheli hakkında Eskişehir Cumhuriyet Başsavcılığı'nın talimatıyla işlem başlatıldı. Şüpheli hakkındaki suçlama henüz kanıtlanmış değil.
+
+---
+
+## Sivrihisar'da traktörün şaftına kolunu kaptıran kadın ağır yaralandı
+
+**Gündem · Sivrihisar** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-feci-kaza--traktorun-saftina-kolunu-kaptiran-kadin-agir-yaralandi-296889.html)
+
+![](data/images/4df61668ca669d55.jpg)
+
+> 53 yaşındaki E.K. Göltepe Mahallesi'ndeki olayda hastaneye kaldırıldı.
+
+Eskişehir'in Sivrihisar ilçesine bağlı kırsal Göltepe Mahallesi'nde çalışır durumdaki traktörün dönen şaftına sol kolunu kaptıran 53 yaşındaki E.K. ağır yaralandı. Olayı görenlerin ihbarı üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi.
+
+Sağlık ekiplerinin ilk müdahalesinin ardından ambulansla Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Hastanesi'ne kaldırılan kadının sağlık durumunun ciddiyetini koruduğu öğrenildi. Olayın nedeni henüz belirlenemedi; jandarma ekipleri inceleme başlattı.
+
+---
+
+## CHP'li Saraç: 7 Kasım'da Ankara'da "Emekliler Buluşuyor" toplantısı yapılacak
+
+**Siyaset · Türkiye** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/chp-genel-baskan-yardimcisi-sarac-ulkede-12-milyon-insan-aclik-sinirinda-yasiyor)
+
+![](data/images/092eaac4e9f9abb5.jpg)
+
+> Saraç ve Demirci, toplantıya davet için Yozgat'ta CHP il örgütünü ziyaret etti.
+
+CHP Genel Başkan Yardımcıları Necdet Saraç ve Adnan Demirci, partilerinin 7 Kasım'da Ankara'da düzenleyeceği "Emekliler Buluşuyor" toplantısına vatandaşları davet etmek için Yozgat'a gitti ve CHP Yozgat il örgütünü ziyaret etti.
+
+Saraç, yaptığı açıklamada Türkiye'de resmî emekli sayısının 16 milyon 900 bin olduğunu, emeklilerin yaklaşık 12,5 milyonunun 23 bin ile 40 bin lira arasında maaş aldığını söyledi. Saraç, gıda için açlık sınırının 37 bin lira olduğunu belirterek "12 milyon insan bu ülkede açlık sınırında yaşıyor" dedi ve çözüm bulunması gerektiğini savundu. Emekli maaşlarına ilişkin rakamlar Saraç'a aittir.
+
+Saraç, Yozgat'ın 420 bin nüfusundan 88 bininin emekli olduğunu belirtti ve emeklilerin 7 Kasım'da Ankara'daki toplantıya katılmasını istedi.
+
+---
+
+## 75. Yıl'da Selami Vardar Bulvarı'ndaki doğalgaz hattı sızıntısı ESGAZ ekiplerince onarıldı
+
+**Gündem · Merkez** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-gaz-kokusu-panigi-ekipler-harekete-gecti)
+
+![](data/images/81a858a1ea7e9bfb.jpg)
+
+> Mahalle sakini sızıntı sırasında gaz kokusu hissedildiğini, olumsuzluk yaşanmadığını söyledi.
+
+Eskişehir Şehir İçi Doğal Gaz Dağıtım (ESGAZ) ekipleri, 75. Yıl Mahallesi'nde Selami Vardar Bulvarı üzerindeki doğalgaz hattında çalışma yaptı. Teknik müdahalenin ardından sızıntı yapan bölümün onarıldığı ve üzerinin kapatıldığı öğrenildi.
+
+Mahalle sakini İsmail Turan, bölgede yaklaşık üç gündür doğalgaz çalışması yapıldığını, bu sırada gaz kokusunun duyulduğunu ve sızıntının kısa sürede giderildiğini söyledi. Olay sırasında olumsuzluk yaşanmadığı belirtildi. Sızıntının ne zaman başladığına ve teknik nedenine ilişkin resmî bir açıklama paylaşılmadı.
+
+---
+
 ## Zonguldak'taki maden ocağında metan patlaması: Vali Yılmaz taziye diledi, soruşturma var
 
 **Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/vali-yilmazdan-zonguldaktaki-maden-kazasi-icin-taziye-mesaji)
@@ -379,67 +437,5 @@ Büyükşehir Belediye Başkanı Ayşe Ünlüce, sosyal medya hesabından yaptı
 Eğitmen Aslıhan Aslan yürütücülüğünde düzenlenen "Ben Bir İlmek Biz Bir Motif – Müzede Yaratıcı Drama Atölyesi"nde farklı kuşaklardan katılımcılar bir araya geldi.
 
 Atölyede müze koleksiyonundaki eserlerden yola çıkılarak kadın emeği, toplumsal roller ve ortak yaşam deneyimleri yaratıcı drama çalışmalarıyla ele alındı. Canlandırma, grup çalışmaları ve hikâye oluşturma etkinlikleriyle katılımcılar kadın dayanışması ve toplumsal eşitsizlikler üzerine düşündü. ESMEK, Kültür ve Düşünce Buluşmaları kapsamında farklı temalarda etkinlikler düzenlemeye devam edecek.
-
----
-
-## Eskişehir'de minibüslere zabıta, emniyet ve Şoförler Odası ortak denetim yaptı
-
-**Ulaşım · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](http://yozgatgazetesi.com/iha-haberleri/eskisehir-de-minibueslere-ortak-denetim-292345.html)
-
-![](data/images/317eda0f62ba4646.jpg)
-
-> Denetimde güzergâh, yolcu kapasitesi, sefer saatleri ve çalışma ruhsatları kontrol edildi.
-
-Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı trafik zabıta ekipleri, Eskişehir Emniyet Müdürlüğü ve Eskişehir Şoförler Odası iş birliğiyle kent genelinde minibüslere yönelik denetim yaptı.
-
-Denetimlerde minibüslerin güzergâhlarına uygun hareket edip etmediği, yolcu kapasitesine uyulup uyulmadığı, sefer saatleri ve çalışma ruhsatları kontrol edildi. Büyükşehir, denetimlerin düzenli olarak sürdüreceğini belirtti.
-
-Minibüslerle ilgili talep, öneri ve şikâyetlerini iletmek isteyen vatandaşlar 153 İç Çağrı Merkezi aracılığıyla yetkililere ulaşabiliyor.
-
----
-
-## Başkan Ataç muhtarlarla buluştu: "Ekonomik kriz belediyeleri de etkiliyor"
-
-**Belediye · Tepebaşı** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasi-belediye-baskani-ahmet-atac-ekonomik-kriz-belediyeleri-de-etkiliyor)
-
-![](data/images/d6572f5f8860b1a4.jpg)
-
-> 19 Ekim Muhtarlar Günü kahvaltısına 81 muhtar katıldı; Odunpazarı Muhtarlar Derneği Başkanı Gürdoğan anıldı.
-
-Tepebaşı Belediyesi, 19 Ekim Muhtarlar Günü dolayısıyla ilçede görev yapan 81 muhtarı kahvaltı programında ağırladı. Programa Büyükşehir Belediyesi Başkanvekili Hasan Ünal, belediye meclis üyeleri, başkan yardımcıları ve birim müdürleri de katıldı. Başkan Ahmet Ataç muhtarlarla tek tek görüştü.
-
-Programda, 19 Ekim'de yaşamını yitiren Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan anıldı. Ataç, Gürdoğan'ın ailesine başsağlığı diledi.
-
-Ataç, 1999'dan bu yana muhtarlarla yakın çalıştıklarını söyledi. Ekonomik koşullara değinen Ataç, "Son yıllarda yaşanan enflasyon ve ekonomik kriz, herkes gibi belediyeleri de etkiliyor" dedi. Yaklaşık 400 bin kişiye hizmet verdiklerini hatırlatan Ataç, zorluklara rağmen ciddi bir sıkıntı yaşamadan bugüne geldiklerini, eksiklerin birlikte çözüleceğini söyledi.
-
-Buluşmada ayrıca mobil fotoğrafçılık eğitimi alan 50 muhtarın mahallelerinde çektiği fotoğrafların bir araya getirildiği "Muhtarın Gözünden Mahallem" projesi tanıtıldı.
-
----
-
-## Tepebaşı'nda dönüş yapan otomobil bisikletliye çarptı, bisikletli hafif yaralandı
-
-**Gündem · Tepebaşı** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehirekspres.net/eskisehirde-kaza-donus-yapmak-istedi-bisiklet-yolunda-surucuyu-onune-katti)
-
-![](data/images/b05b11f6decdacbb.jpg)
-
-> Kaza güvenlik kamerasına yansıdı; bisikletli hastaneye kaldırıldı.
-
-Tepebaşı ilçesi Mustafa Kemal Paşa Mahallesi Sivrihisar-1 Caddesi üzerinde kaza yaşandı. Edinilen bilgilere göre sürücü İ.E. yönetimindeki otomobil, Şenlik Sokak'a dönmek için manevra yaptığı sırada bisiklet yolunda ilerleyen bisiklete çarptı. Otomobilin bisikletin ön tekerleği üzerinden geçtiği anlar güvenlik kamerasına yansıdı.
-
-Hafif sıyrıklarla atlattığı belirtilen bisikletli, olay yerine gelen sağlık ekiplerinin ilk müdahalesinin ardından hastaneye kaldırıldı. Polis ekipleri kazayla ilgili inceleme başlattı.
-
----
-
-## Tarım Bakanlığı listesine göre 11 markanın sucuk baharatında yasaklı boya çıktı
-
-**Türkiye · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenicaggazetesi.com/tarim-ve-orman-bakanligi-acikladi-11-markanin-sucuk-baharatinda-yasakli-boya-cikti-1084441h.htm)
-
-![](data/images/ebe5f051b363efaa.jpg)
-
-> Ürünler "Sağlığı Tehlikeye Düşürecek Gıdalar" kategorisinde 22 Ekim'de güncellenen listede yer aldı.
-
-Tarım ve Orman Bakanlığı'nın gıda denetimlerinde sucuk üretiminde kullanılan baharatlarla ilgili mevzuata aykırı bir durum tespit edildi. Analizlerde gıda üretiminde kullanılmasına izin verilmeyen bir boya maddesi bulunan 11 markanın sucuk baharatı, tüketici sağlığı açısından risk taşıyan ürünler arasına alındı.
-
-Bakanlığın 22 Ekim 2026'da yenilenen listesinde ürünler "Sağlığı Tehlikeye Düşürecek Gıdalar" kategorisinde kamuoyuna duyuruldu. Uygulamayla tüketicilerin piyasadaki gıdalar hakkında bilgi sahibi olması amaçlanıyor.
 
 ---
