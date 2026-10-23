@@ -35,6 +35,9 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   boş kategori/ilçe sayfaları noindex, Google Fonts sayfa çizimini bekletmeden yüklenir.
 
 ## Kendi kendine çalışma (sahibine muhtaç olmadan)
+- **Yönetici rutini** (claude.ai bulut rutini "Nabız 26 yönetici", 09:30 ve 21:30 TSİ): siteyi, haber akışını,
+  Instagram kayıtlarını ve kaynakları denetler, düzeltir, her çalışmada bir büyüme iyileştirmesi yapar ve `YONETIM.md`'ye
+  yazar. Sahibine ait kararlar `SAHİBİNE:` satırlarıyla orada. Instagram fiili sınırı ~25/24 saat (`DAILY_CAP`=16 + 2 bülten).
 - **Sağlık kontrolü** (`saglik.yml`, saatte bir): gündüz son haber 3 saatten eskiyse yedek masa (`newsbot.py --auto`)
   çalışır: önce Anthropic API, kredi yoksa ücretsiz Gemini (`GEMINI_API_KEY`). Site açılmazsa ya da 8 saat haber
   yoksa `saglik` etiketli GitHub kaydı açılır (sahibine e-posta), düzelince kapanır.
