@@ -2,6 +2,154 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 440 lise öğrencisine iklim krizi ve COP31 anlatıldı
+
+**Eğitim · Tepebaşı** · 2026-10-23 12:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/440ogrenciiklimkrizivecop31’ikonustu)
+
+![](data/images/5b4c6c33810c7222.jpg)
+
+> Özel Atayurt ve Özel Çağdaş Okulları'nın 9. ve 10. sınıf öğrencilerine sunum yapıldı.
+
+Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü, Özel Atayurt Okulları ve Özel Çağdaş Okulları'nın lise öğrencilerine "Gezegenin Geleceği ve İklim Uzlaşmaları: COP31" başlıklı sunum yaptı. Sunuma 9. ve 10. sınıflardan toplam 440 öğrenci katıldı.
+
+Sunumda iklim krizinin nedenleri ve günlük yaşama etkileri, sera gazları, Dünya Limit Aşım Günü, su kaynaklarının korunması, su ayak izi ve kentsel ısı adası etkisi ele alındı. Rio Zirvesi'nden Kyoto Protokolü ve Paris Anlaşması'na uzanan süreç, 1,5 derece hedefi ve Taraflar Konferansı'nın işleyişi anlatıldı.
+
+Sunumun ardından düzenlenen interaktif oyunda başarılı olan üç öğrenciye not defteri ve kalem hediye edildi.
+
+---
+
+## Sarıcakaya'da Dorlion zeytinyağı için erken hasat tamamlandı
+
+**Tarım · Sarıcakaya** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263840/eskisehirde-dorlion-zeytinyaginda-erken-hasat-tamamlandi.html)
+
+![](data/images/89d429c9ad98b77b.jpg)
+
+> Dorlion Özel Seri, 19. Natürel Sızma Zeytinyağı Kalite Yarışması'nda Premium Ödülü kazanmıştı.
+
+Eskişehir Büyükşehir Belediyesi'nin Sarıcakaya ilçesinde sürdürülebilir yöntemlerle yürüttüğü zeytinyağı üretiminde erken hasat dönemi sona erdi. Sarıcakayalı çiftçilerin topladığı zeytinler, Tarımsal Hizmetler Dairesi Başkanlığı tarafından natürel sızma zeytinyağına dönüştürüldü.
+
+Eskişehir Orta Sakarya Vadisi Zeytinciliği Geliştirme Projesi kapsamında Dorlion Özel Seri için toplanan zeytinler, Sarıcakaya Zeytin Üreticileri Birliği aracılığıyla belediyeye teslim edildi. Zeytinler hava ile teması en aza indirilerek soğuk sıkım yöntemiyle işlendi.
+
+Dorlion Özel Seri zeytinyağı, 19. Natürel Sızma Zeytinyağı Kalite Yarışması'nda Premium Ödülü kazandı. Büyükşehir, projeyle çiftçilerin üretimini desteklemeyi ve yerel tarım ürünlerine katma değer kazandırmayı amaçlıyor.
+
+---
+
+## Odunpazarı Mesleki Eğitim Merkezi öğrencileri çorba ikram ederek dayanışma etkinliği yaptı
+
+**Eğitim · Odunpazarı** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/odunpazari-mesem-den-anlamli-dayanisma-etkinligi-296875.html)
+
+![](data/images/ecbfa860a47d7bd8.jpg)
+
+> Etkinlikte "Bir tas çorba, bin tebessüm" mesajı verildi.
+
+Odunpazarı Mesleki Eğitim Merkezi (OMEM), öğrencilerin sosyal sorumluluk bilincini geliştirmeye yönelik bir etkinlik düzenledi. Okul Müdürü Erhan Aksu'nun katkıları, öğretmenlerin rehberliği ve öğrencilerin çalışmasıyla hazırlanan çorba, paylaşma ve dayanışma amacıyla ikram edildi.
+
+Etkinlikle öğrencilerin empati, yardımlaşma ve sorumluluk bilinci kazanmasına katkı sunulması hedeflendi. OMEM ailesi etkinliğin mesajını "Bir tas çorba, bin tebessüm! Paylaştıkça çoğalır, dayanışmayla güçleniriz" sözleriyle özetledi.
+
+---
+
+## Mukaddes Emanetler Sergisi Eskişehir'de açıldı, vatandaşlar kuyruk oluşturdu
+
+**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sakaryagazetesi.com.tr/mukaddes-emanetleri-gorebilmek-icin-metrelerce-kuyruk-olusturdular)
+
+![](data/images/aaacd4fdfeee3a9c.jpg)
+
+> 150'nin üzerinde emanetin yer aldığı sergi İl Kültür Müdürlüğü Sergi Salonu'nda.
+
+Asrı Saadet'ten Osmanlı'ya ve günümüze uzanan 150'nin üzerinde kutsal emaneti Eskişehirlilerle buluşturan Mukaddes Emanetler Sergisi, Eskişehir İl Kültür Müdürlüğü Sergi Salonu'nda dün açıldı. Sergi, koleksiyoncu Erol Güzel ile MÜSİAD Eskişehir Şubesi iş birliğiyle düzenlendi.
+
+Sergide Peygamber Efendimizin Sakal-ı Şerif'i ve Saç-ı Şerifi, Kabe-i Muazzama örtüleri, dünyanın en büyük ikinci el yazma Kur'an-ı Kerim'i, Ehl-i Beyt ve evliyalara ait emanetler yer alıyor. Mukaddes emanetlerin Eskişehir'de ilk kez bu kadar geniş kapsamda sergilendiği belirtildi. Sergiyi görmek isteyen vatandaşlar sergi salonunun önünde metrelerce kuyruk oluşturdu.
+
+---
+
+## Kız Anadolu İmam Hatip Lisesi'nde açılacak 4-6 yaş Kur'an kursunun hazırlıkları incelendi
+
+**Eğitim · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-d-tipi-4-6-yas-kuran-kursu-hazirliklari-incelendi-119501366)
+
+![](data/images/06f69fbca589d469.jpg)
+
+> İl Millî Eğitim Müdürü Aydın ve İl Müftüsü Gül, kurs alanını yerinde gördü.
+
+Eskişehir İl Millî Eğitim Müdürü Sinan Aydın ve İl Müftüsü Muharrem Gül, Eskişehir Kız Anadolu İmam Hatip Lisesi bünyesinde açılması planlanan D Tipi 4-6 Yaş Kur'an Kursu'nun hazırlık çalışmalarını yerinde inceledi.
+
+Heyet, kurs alanını ziyaret ederek Okul Müdürü Hasan Kaymakçı'dan hazırlık süreci ve kursun fiziki şartları hakkında bilgi aldı.
+
+---
+
+## Kılıçdaroğlu, Lüksemburg Temsilciler Meclisi Başkanı Wiseler'i kabul etti
+
+**Siyaset · Türkiye** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/kemal-kilicdaroglu-luksemburg-temsilciler-meclisi-baskani-wiseler-ile-gorustu-09b1c067)
+
+![](data/images/72d2ec73b16eee79.jpg)
+
+> Görüşme CHP Genel Merkezi'nde, çok partili heyetle yapıldı.
+
+CHP Genel Başkanı Kemal Kılıçdaroğlu, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler başkanlığındaki çok partili heyetle CHP Genel Merkezi'nde bir araya geldi.
+
+---
+
+## Halk Dansları Topluluğu ilk gösterisini yaptı: Ünlüce "hayalim gerçek oldu" dedi
+
+**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/ayse-unluce-en-buyuk-hayalini-gerceklestirdigini-acikladi)
+
+![](data/images/db0910a3db4266d2.jpg)
+
+> "Eskiden Şehre Dorlion Zamanın Dansı" Eskişehir Yılı 2026 kapsamında sahnelendi.
+
+Eskişehir Büyükşehir Belediyesi bünyesinde oluşturulan halk dansları topluluğu, 2026 Eskişehir Yılı etkinlikleri kapsamındaki "Eskiden Şehre Dorlion Zamanın Dansı" gösterisiyle ilk performansını sergiledi. Gösteride kentin geçmişten Cumhuriyet'e uzanan tarihi müzik ve dansla anlatıldı.
+
+Büyükşehir Belediye Başkanı Ayşe Ünlüce, sosyal medya hesabından yaptığı paylaşımda yıllardır güçlü bir halk dansları topluluğu hayal ettiğini, ekibin ilk gösterisiyle bu hayalin gerçeğe dönüştüğünü söyledi. Ünlüce, emeği geçenlere teşekkür ederek topluluğun gelecekte de kentin kültürünü sahneye taşımasını diledi.
+
+---
+
+## ESMEK'ten müzede "Ben Bir İlmek Biz Bir Motif" yaratıcı drama atölyesi
+
+**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-muzede-anlamli-etkinlik-kadin-emegi-ve-dayanisma-ele-alindi)
+
+![](data/images/b759971dd3c532ac.jpg)
+
+> Atölyede müze koleksiyonundaki eserlerden yola çıkılarak kadın emeği ve dayanışma ele alındı.
+
+Eğitmen Aslıhan Aslan yürütücülüğünde düzenlenen "Ben Bir İlmek Biz Bir Motif – Müzede Yaratıcı Drama Atölyesi"nde farklı kuşaklardan katılımcılar bir araya geldi.
+
+Atölyede müze koleksiyonundaki eserlerden yola çıkılarak kadın emeği, toplumsal roller ve ortak yaşam deneyimleri yaratıcı drama çalışmalarıyla ele alındı. Canlandırma, grup çalışmaları ve hikâye oluşturma etkinlikleriyle katılımcılar kadın dayanışması ve toplumsal eşitsizlikler üzerine düşündü. ESMEK, Kültür ve Düşünce Buluşmaları kapsamında farklı temalarda etkinlikler düzenlemeye devam edecek.
+
+---
+
+## Eskişehir'de minibüslere zabıta, emniyet ve Şoförler Odası ortak denetim yaptı
+
+**Ulaşım · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](http://yozgatgazetesi.com/iha-haberleri/eskisehir-de-minibueslere-ortak-denetim-292345.html)
+
+![](data/images/317eda0f62ba4646.jpg)
+
+> Denetimde güzergâh, yolcu kapasitesi, sefer saatleri ve çalışma ruhsatları kontrol edildi.
+
+Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı trafik zabıta ekipleri, Eskişehir Emniyet Müdürlüğü ve Eskişehir Şoförler Odası iş birliğiyle kent genelinde minibüslere yönelik denetim yaptı.
+
+Denetimlerde minibüslerin güzergâhlarına uygun hareket edip etmediği, yolcu kapasitesine uyulup uyulmadığı, sefer saatleri ve çalışma ruhsatları kontrol edildi. Büyükşehir, denetimlerin düzenli olarak sürdüreceğini belirtti.
+
+Minibüslerle ilgili talep, öneri ve şikâyetlerini iletmek isteyen vatandaşlar 153 İç Çağrı Merkezi aracılığıyla yetkililere ulaşabiliyor.
+
+---
+
+## Başkan Ataç muhtarlarla buluştu: "Ekonomik kriz belediyeleri de etkiliyor"
+
+**Belediye · Tepebaşı** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasi-belediye-baskani-ahmet-atac-ekonomik-kriz-belediyeleri-de-etkiliyor)
+
+![](data/images/d6572f5f8860b1a4.jpg)
+
+> 19 Ekim Muhtarlar Günü kahvaltısına 81 muhtar katıldı; Odunpazarı Muhtarlar Derneği Başkanı Gürdoğan anıldı.
+
+Tepebaşı Belediyesi, 19 Ekim Muhtarlar Günü dolayısıyla ilçede görev yapan 81 muhtarı kahvaltı programında ağırladı. Programa Büyükşehir Belediyesi Başkanvekili Hasan Ünal, belediye meclis üyeleri, başkan yardımcıları ve birim müdürleri de katıldı. Başkan Ahmet Ataç muhtarlarla tek tek görüştü.
+
+Programda, 19 Ekim'de yaşamını yitiren Odunpazarı Muhtarlar Derneği Başkanı ve Orta Mahalle Muhtarı Erol Erdal Gürdoğan anıldı. Ataç, Gürdoğan'ın ailesine başsağlığı diledi.
+
+Ataç, 1999'dan bu yana muhtarlarla yakın çalıştıklarını söyledi. Ekonomik koşullara değinen Ataç, "Son yıllarda yaşanan enflasyon ve ekonomik kriz, herkes gibi belediyeleri de etkiliyor" dedi. Yaklaşık 400 bin kişiye hizmet verdiklerini hatırlatan Ataç, zorluklara rağmen ciddi bir sıkıntı yaşamadan bugüne geldiklerini, eksiklerin birlikte çözüleceğini söyledi.
+
+Buluşmada ayrıca mobil fotoğrafçılık eğitimi alan 50 muhtarın mahallelerinde çektiği fotoğrafların bir araya getirildiği "Muhtarın Gözünden Mahallem" projesi tanıtıldı.
+
+---
+
 ## Tepebaşı'nda dönüş yapan otomobil bisikletliye çarptı, bisikletli hafif yaralandı
 
 **Gündem · Tepebaşı** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehirekspres.net/eskisehirde-kaza-donus-yapmak-istedi-bisiklet-yolunda-surucuyu-onune-katti)
@@ -309,161 +457,5 @@ TİHEK, Büyükşehir'in aldığı alternatif tedbirlerin etkili bir çözüm ol
 Törene Vali Yardımcısı Yakup Güney, ESTÜ Rektör Yardımcısı Prof. Dr. Onur Kaya, İl AFAD Müdürü Aslan Mehmet Coşkun ve İl Millî Eğitim Müdür Yardımcısı Ali Türkal katıldı. Deliklitaş, Emek, Kurtuluş, Şirintepe ve Uluönder mahallelerinde toplam 103 gönüllü projeye katıldı.
 
 Projeye katkı sunan beş mahalle muhtarına plaket verildi. MEB AKUB, İHH Eskişehir ve Arçelik bünyesindeki akredite arama kurtarma ekiplerinin temsilcilerine başarı belgesi takdim edildi. Eskişehir MEB AKUB adına İl Millî Eğitim Müdürlüğü'ne plaket verildi.
-
----
-
-## CHP İstanbul İl Başkanı olarak görevlendirilen Yüksel: CHP vesayet kabul etmez
-
-**Siyaset · Türkiye** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/mehmet-ali-yukselden-vesayet-cikisi-chp-vesayet-kabul-etmez-edemez)
-
-![](data/images/f5d15bd3954165c6.jpg)
-
-> Mehmet Ali Yüksel, il binası önünde partililerle bir araya gelerek göreve başladı.
-
-CHP İstanbul İl Başkanı olarak görevlendirilen Mehmet Ali Yüksel, il binası önünde partililerle bir araya gelerek göreve başladı. Yüksel konuşmasında "CHP, vesayet kabul etmez, edemez" dedi.
-
-Görevi sona eren Gürsel Tekin'e teşekkür eden Yüksel, Kemal Kılıçdaroğlu'na da saygı ve sevgilerini ilettiğini söyledi. Siyasi iradenin özgürlüğüne vurgu yapan Yüksel, siyasetin satın alınan sadakatler üzerine kurulmaması gerektiğini savundu.
-
-Yüksel, CHP'nin herhangi bir kişi ya da kurumun kontrolüne giremeyeceğini, partiye hiçbir sermaye gücünün sahip olamayacağını söyledi ve partinin farklı kesimleri kapsayan bir anlayışla hareket edeceğini kaydetti.
-
----
-
-## Büyükşehir'in Caz Günleri Art Baden Quartet konseriyle başladı
-
-**Kültür-Sanat · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263187/eskisehirde-caz-gunleri-art-baden-quartet-konseriyle-basladi.html)
-
-![](data/images/55ebccb2b681a528.jpg)
-
-> Grup Türkiye turnesinin ilk konserini Eskişehir'de verdi; Coltrane doğumunun 100. yılında anıldı.
-
-Eskişehir Büyükşehir Belediyesi'nin 2026-2027 sanat sezonu kapsamındaki Caz Günleri, Art Baden Quartet konseriyle başladı. Türkiye turnesinin ilk konserini Eskişehir'de veren grupta saksafonda Art Baden, gitarda Onur Aymergen, davulda Serkan Alagök ve kontrabasta Ulaş Özdemir yer aldı.
-
-Konserde John Coltrane doğumunun 100. yılında eserleriyle anıldı; Kurt Rosenwinkel ve Richard Rodgers'ın eserleri de seslendirildi. Aymergen'in 2025'te yayımlanan "Africa" adlı bestesi ile Art Baden'in "Chaotic Neutral" adlı eseri de çalındı.
-
-Caz Günleri, 3 Kasım 2026 Salı günü saat 20.00'de Sanat ve Kültür Merkezi Opera Sahnesi'nde "Sibel Köse Quintet" konseriyle sürecek.
-
----
-
-## Büyükşehir 8059. Cadde'de yol genişletip asfalt serdi: Yaşamkent-Zincirlikuyu bağlantısı
-
-**Ulaşım · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehir-buyuksehirden-bolge-ulasimina-yeni-alternatif)
-
-![](data/images/59953b16f4f8e19c.jpg)
-
-> Cadde Aydın Ünlüce Bulvarı ile 8070. Cadde arasında bağlantı sağlayacak.
-
-Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı ekipleri 8059. Cadde'de yol genişletme çalışması yürütüyor ve bitümlü sıcak asfalt serimine başladı. Çalışmayla Yaşamkent ve Zincirlikuyu mahalleleri arasındaki ulaşım bağlantısının güçlendirilmesi hedefleniyor.
-
-8059. Cadde, Aydın Ünlüce Bulvarı ile 8070. Cadde arasında bağlantı sağlayacak. Yol genişletme ve asfaltlama ile güzergâhın daha düzenli ve güvenli bir ulaşım imkânı sunması amaçlanıyor.
-
----
-
-## Altay yarın Balıkesirspor'a konuk olacak; geçen hafta Eskişehirspor'a 4-1 yenilmişti
-
-**Spor · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.egepostasi.com/haber/Altay-Balikesirspor-ile-karsilasacak/402494)
-
-![](data/images/64af6a6537118428.jpg)
-
-> 3. Lig 2. Grup 8. hafta maçı Soma Nazım Yavuz Stadı'nda oynanacak.
-
-3. Lig 2. Grup'ta geçen hafta evinde Eskişehirspor'a 4-1 yenilen Altay, yarın deplasmanda Balıkesirspor ile oynayacak. Ev sahibi ekibin stadı bakımda olduğu için 8. hafta karşılaşması Soma Nazım Yavuz Stadı'nda oynanacak; maçı Murat Demir yönetecek.
-
-Altay'da kırmızı kart cezalısı İsa ile sakatlığı bulunan Caner, Arif ve Ferhat forma giyemeyecek. Yunus Efe ile Salih'in durumu maç saatinde netleşecek. Balıkesirspor'da kırmızı kart cezalısı Ferit kadroda yer almayacak.
-
-Ligde iç sahada 3 maçta 3 galibiyet alan Balıkesirspor 13 puanla 7. sırada, son 2 deplasman maçını kazanan Altay ise 9 puanla 11. sırada.
-
----
-
-## 81 ilde ortaöğretim öğrencileri için "Tabiat ve Yaşanabilir Çevre" yarışması yapılacak
-
-**Eğitim · Türkiye** · 2026-10-23 09:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/81-ilde-ogrenciler-icin-quottabiat-ve-yasanabilir-cevrequot-bilgi-yarismasi-duzenlenecek/icerik/8689/tr)
-
-![](data/images/95ed0128622f785c.jpg)
-
-> COP31 hazırlıkları kapsamındaki yarışma okul, ilçe ve il olmak üzere üç aşamalı olacak.
-
-Türkiye'nin 9-20 Kasım 2026 tarihleri arasında Antalya'da ev sahipliği yapacağı 31. Taraflar Konferansı (COP31) hazırlıkları çerçevesinde ortaöğretim öğrencilerine yönelik "Tabiat ve Yaşanabilir Çevre" Bilgi Yarışması düzenlenecek.
-
-Yarışmayla öğrencilerin iklim değişikliği ve sürdürülebilirlik konularındaki bilgi ve farkındalığının artırılması hedefleniyor. 81 ilde yapılacak yarışma okul, ilçe ve il olmak üzere üç aşamadan oluşacak.
-
-Sorular iklim değişikliği ve iklim eylemi, sürdürülebilir yaşam, biyoçeşitlilik, enerji kaynakları ve verimliliği, su kaynaklarının korunması, atık yönetimi ve sıfır atık ile iklim politikaları konularından hazırlanacak.
-
----
-
-## Tarım Kredi Kooperatifi eski müdürü Tahsin B.'nin zimmet davasında bilirkişi kararı
-
-**Asayiş · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.cumhuriyet.com.tr/turkiye/tarim-kredi-kooperatifi-nde-83-ton-komur-acigi-eski-mudure-zimmet-davasi-2549477)
-
-![](data/images/183d0d29c55472ee-c.jpg)
-
-> Mahkeme, 83 ton kömür açığı iddiasıyla ilgili dosyayı Sayıştay emekli uzmanlarından oluşan heyete gönderdi.
-
-Eskişehir'de Tarım Kredi Kooperatifi eski müdürü Tahsin B., zimmet ve resmi belgede sahtecilik suçlamalarıyla yargılanıyor. Davanın duruşması görüldü.
-
-İddialara göre Tahsin B., bir kooperatif ortağından tahsil edilen paranın 5 bin lirasını zimmetine geçirdi, envanter sayımında ortaya çıkan 83 ton 577 kilogram kömür açığından sorumlu ve bir ziraat mühendisinin yerine sahte imza attı.
-
-Savunma yapan Tahsin B. suçlamaları kabul etmedi. Parayı elden teslim edemediğini, sonradan banka havalesiyle iade ettiğini öne sürdü; kömür açığı ve sahte imza iddialarını reddetti. Tanık olarak dinlenen İsa Y., kooperatif kayıtlarında yalnızca 5 bin lira nakit ödeme göründüğünü söyledi. Sanık avukatı beraat talep etti.
-
-Mahkeme, kooperatif zararının basit bir incelemeyle belirlenip belirlenemeyeceği için dosyanın 3 kişilik bilirkişi heyetine, belgelerdeki imzaların incelenmesi için evrakın Ankara Jandarma Kriminal Daire Başkanlığı'na gönderilmesine karar verdi ve duruşmayı erteledi. Sanık hakkında karar verilmedi.
-
----
-
-## Ortaokul Matematik Zirvesi TED Eskişehir Koleji'nde yapıldı
-
-**Eğitim · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/ortaokul-matematik-zirvesi-eskisehir039de-gerceklestirildi/icerik/8693/tr)
-
-![](data/images/9633f5e6aaec33b7.jpg)
-
-> İl Millî Eğitim Müdürlüğü koordinesindeki zirvede öğretmenler Maarif Modeli matematik programını konuştu.
-
-Türkiye Yüzyılı Maarif Modeli doğrultusunda öğretmenlerin program okuryazarlığını güçlendirmek amacıyla düzenlenen Ortaokul Matematik Zirvesi, İl Millî Eğitim Müdürlüğü koordinesinde TED Eskişehir Koleji'nin ev sahipliğinde yapıldı.
-
-Açılış konuşmasını yapan İl Millî Eğitim Müdürü Sinan Aydın, modelin öğrenci merkezli yapısına dikkat çekerek modelin başarısının öğretmenlerin bilgi ve donanımıyla doğrudan ilişkili olduğunu söyledi.
-
-İlde görev yapan matematik öğretmenlerinin katıldığı zirvede, Matematik Dersi Öğretim Programı'nın temel yaklaşımı ve sınıf içi uygulama örnekleri ele alındı. Anadolu Üniversitesi'nden Prof. Dr. Dilek Tanışlı ve Prof. Dr. Nilüfer Köse sunum yaptı.
-
----
-
-## Odunpazarı'nda çibörekçide yangın: 2 kişi dumandan etkilendi
-
-**Gündem · Odunpazarı** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.sakaryagazetesi.com.tr/eskisehirin-islek-noktasinda-korkutan-yangin)
-
-![](data/images/5d0783e281569c5b-c.jpg)
-
-> Arifiye Mahallesi'ndeki yangına itfaiye müdahale etti; ilk değerlendirmede yağdan çıktığı belirtildi.
-
-Eskişehir'in Odunpazarı ilçesine bağlı Arifiye Mahallesi Kıbrıs Şehitleri Caddesi üzerindeki bir çibörekçide henüz kesin olarak belirlenemeyen bir nedenle yangın çıktı. İhbar üzerine olay yerine sevk edilen itfaiye ekipleri yangına müdahale etti.
-
-Yangında işletme personeli 2 kişi dumandan etkilendi ve ambulansta müdahale edildi. İlk değerlendirmelere göre yangının işletmede kullanılan yağdan kaynaklandığı belirtildi. Kesin çıkış nedeninin yapılacak incelemelerle belirlenmesi bekleniyor. Polis ekipleri olayla ilgili inceleme başlattı.
-
----
-
-## MEB'in Ekim ayı Aile Eğitim Bülteni yayımlandı: Okul öncesi eğitim temalı
-
-**Eğitim · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/quotaile-egitim-bulteniquot-ekim-sayisi-yayimlandi/icerik/8695/tr)
-
-![](data/images/f0bc1570f48288b3.jpg)
-
-> Temel Eğitim Genel Müdürlüğü, okul öncesi çocukların aileleri için aylık bülteni yayımladı.
-
-Temel Eğitim Genel Müdürlüğü, ailelerin eğitim sürecindeki rolünü güçlendirmek amacıyla her ay hazırladığı "Aile Eğitim Bülteni"nin Ekim sayısını yayımladı. Bülten, okul öncesi eğitime devam eden çocukların anne babalarına rehberlik sunuyor.
-
-Ekim sayısı "Maarif Yolculuğunda Okul Öncesi Eğitim" temasıyla hazırlandı. Bültende okul öncesi eğitimin çocukların gelişimindeki yeri, Türkiye Yüzyılı Maarif Modeli'nin okul öncesi eğitim yaklaşımı ve çocukların okulda yaşayacağı öğrenme deneyimleri ele alındı.
-
-Bültende her çocuğun ilgi alanları, öğrenme hızı ve ihtiyaçlarının farklı olduğu vurgulandı. Ailelerin paylaşacağı gözlemlerin öğretmenin çocuğu daha yakından tanımasına katkı sunacağı belirtildi. Bültende ayrıca Aile Eğitimi ve Katılımı Çalışmaları, Evde Oyun Rehberi ve Ailemle Okul Yolu Programı'na yer verildi.
-
----
-
-## Eskişehirspor'a Altay maçındaki saha olayları nedeniyle 35 bin lira para cezası
-
-**Spor · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspora-para-cezasi-1)
-
-![](data/images/62c235d48f528141-c.jpg)
-
-> PFDK, taraftarların neden olduğu olaylar gerekçesiyle kulübe ceza verdi.
-
-Eskişehirspor, Altay ile oynadığı mücadelede yaşanan saha olayları gerekçesiyle Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk edilmişti.
-
-PFDK, raporlar doğrultusunda Eskişehirspor'a taraftarlarının neden olduğu saha olayları nedeniyle FDT'nin 52/2. ve 46/1. maddeleri uyarınca 35 bin lira para cezası verdi.
 
 ---
