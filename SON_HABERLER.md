@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor–Bursa Yıldırım maçı için 24 Ekim'de Alaaddin Parkı'ndan ring seferi
+
+**Ulaşım · Merkez** · 2026-10-23 23:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/eskisehirspor-un-bursa-yildirim-maci-oncesi-ulasim-kolayligi--sefer-saatleri-belli-oldu-296881.html)
+
+![](data/images/c1def988363f9a20.jpg)
+
+> Büyükşehir seferleri saat 17.00'de başlatacak.
+
+Eskişehir Büyükşehir Belediyesi, Eskişehirspor'un Bursa Yıldırım ile oynayacağı maç öncesinde taraftarların stadyuma ulaşımını kolaylaştırmak için ring seferleri düzenleyecek. Seferler 24 Ekim Cumartesi günü saat 17.00'de Odunpazarı Alaaddin Parkı'ndan başlayacak.
+
+Belediyenin sosyal medya hesaplarından yapılan duyuruda "Hasret bitiyor, büyük taraftar Eskişehirspor'a kavuşuyor!" ifadelerine yer verildi.
+
+---
+
 ## Kurşunlu Külliyesi'nde tahliye kasım başında uygulanacak: Vakıflar Bölge Müdürü açıkladı
 
 **Belediye · Odunpazarı** · 2026-10-23 22:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/eskisehir-kursunlu-kulliyesi-nde-tahliye-karari--tarih-verildi-296896.html)
@@ -399,21 +413,5 @@ Yolcuların mağdur olmaması için Uluönder, SSK ve Atatürk Lisesi durakları
 > Görevi yürüten Suat Yalnızoğlu'nun yerine atama yapıldı.
 
 Tepebaşı Belediyesi Özel Kalem Müdürlüğü görevini yürüten Suat Yalnızoğlu'nun yerine Banu Gümüşpala getirildi. Görev değişikliği Başkan Ahmet Ataç'ın onayının ardından resmiyet kazandı. Özel Kalem Müdürlüğü görevini bundan sonra Gümüşpala yürütecek.
-
----
-
-## Eskişehirspor ve UNICEF projesi: "Spor Kulüpleri için Çocuk Koruma Rehberi" tanıtılacak
-
-**Spor · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-rehberlik-yapacak)
-
-![](data/images/eskisehirspor-ve-unicef-projesi-spor-kulupleri--arsiv.jpg)
-
-> Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
-
-Avrupa Birliği'nin eş finansman desteğiyle UNICEF tarafından yürütülen ACAR Projesi kapsamında Toy Gençlik Derneği ve Eskişehirspor Kulübü iş birliğinde hazırlanan "Spor Kulüpleri için Çocuk Koruma Rehberi" için tanıtım toplantısı yapılacak.
-
-Uluslararası ve ulusal çerçevelere ve Eskişehirspor altyapısında yürütülen saha çalışmasına dayanan rehber, 18 yaş altı sporcularla çalışan kulüplerin ölçekleri ve branşları ne olursa olsun kendi çocuk koruma sistemlerini kurmalarına yardımcı olmak için hazırlandı. Toplantıda rehberin içeriği tanıtılacak, panelde sporda çocuk koruma yaklaşımı ve uygulama yöntemleri ele alınacak.
-
-Eskişehir'de çocuk sporcularla çalışan tüm kulüpler ve kurumlar toplantıya katılabilecek. Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
 
 ---
