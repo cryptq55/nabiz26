@@ -2,6 +2,80 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Zonguldak'taki maden ocağında metan patlaması: Vali Yılmaz taziye diledi, soruşturma var
+
+**Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/vali-yilmazdan-zonguldaktaki-maden-kazasi-icin-taziye-mesaji)
+
+![](data/images/294e4700be3706da.jpg)
+
+> Kilimli'deki kazada Vali'nin paylaşımına göre 2 madenci hayatını kaybetti, 5 madenci yaralandı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesindeki bir kömür madeninde meydana gelen metan parlamasına ilişkin üzüntüsünü dile getirdi. Yılmaz, ilk belirlemelere göre 2 madencinin hayatını kaybettiğini, 5 madencinin yaralandığını, madende mahsur kalan 1 madencinin kurtarılması için çalışmaların sürdüğünü belirtti. Hayatını kaybedenlere rahmet, yakınlarına sabır, yaralılara acil şifa diledi.
+
+Adalet Bakanı Akın Gürlek de Zonguldak Cumhuriyet Başsavcılığı'nca ivedi soruşturma başlatıldığını, 1 Cumhuriyet başsavcı vekili ve 2 Cumhuriyet savcısının görevlendirildiğini açıkladı. Gürlek, arama kurtarma çalışmalarının bir an önce olumlu sonuçlanmasını temenni etti.
+
+---
+
+## Tuncay: Deprem davalarında ilk derece yargılama 2027'nin ilk yarısında bitecek
+
+**Türkiye · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.son.tv/deprem-davalarinda-kritik-takvim-can-tuncay-acikladi-deprem-davalarinda-hedef-2027nin-ilk-yarisi/)
+
+![](data/images/a1fc8d416af11766.jpg)
+
+> Diyarbakır'daki toplantıya depremden etkilenen 11 ilin yargı yetkilileri katıldı.
+
+Adalet Bakan Yardımcısı Can Tuncay, 6 Şubat 2023 depremlerinin ardından başlatılan davalara ilişkin Diyarbakır'da düzenlenen "Deprem Davalarında Adli Süreçlerin Değerlendirilmesi" toplantısında konuştu. Toplantıya depremlerden etkilenen 11 ilin cumhuriyet başsavcıları, adalet komisyonu başkanları ve idare mahkemesi başkanları katıldı.
+
+Tuncay, "Deprem davalarında birinci derece mahkemelerdeki yargılamaları 2027'nin birinci yarısında sonlandırmayı, nihayetlendirmeyi planlıyoruz" dedi. Adalet Bakanlığı olarak depremde zarar gören ailelerle temas halinde olduklarını da söyledi.
+
+---
+
+## İYİ Partili Küçükerkan: Tepebaşı'nda mahalleler arasında hizmet farkı büyüyor
+
+**Siyaset · Tepebaşı** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.istikbalgazetesi.com/eskisehir-tepebasinda-hizmet-tartismasi-buyuyor-insan-hayati-bu-kadar-ucuz-olmamali)
+
+![](data/images/733d1d90036071c6.jpg)
+
+> İYİ Parti Tepebaşı İlçe Başkanı, kazı sonrası onarım ve drenaj konularında eleştirdi.
+
+İYİ Parti Tepebaşı İlçe Başkanı Reşat Küçükerkan, Tepebaşı'nda hizmetlerin mahallelere eşit dağıtılmadığını savundu. Küçükerkan, ilçenin batı kesimi ile kuzey ve doğu mahalleleri arasında kentsel hizmet farkı bulunduğunu söyledi.
+
+Küçükerkan'ın iddialarına göre bu mahallelerde kazı sonrası asfalt ve parke onarımı için bekleme süresi ortalama 45-60 gün, yağmur suyu drenaj hatlarının yol ağına oranı yaklaşık yüzde 32. Şiddetli yağışlarda Fevzi Çakmak ve Işıklar mahallelerinde sokaklarda göletler oluştuğunu ve bodrumların su bastığını ileri sürdü.
+
+Küçükerkan, altyapı kurumlarının yatırım planlarının dijital ortamda çakıştırılmasını, kazı işlerinin en geç 15 gün içinde bitirilmesini, yüklenicilere asfalt ve parke kaplaması için 14 gün süre verilmesini ve acil drenaj hattı programı başlatılmasını istedi. Açıklamadaki rakamlar Küçükerkan'a ait olup kaynak metinde Tepebaşı Belediyesi'nin yanıtı yer almıyor.
+
+---
+
+## Eskişehir'de 29 Ekim Cumhuriyet Yürüyüşü saat 15.00'te Ulus Anıtı'ndan başlayacak
+
+**Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esgazete.com/eskisehirde-29-ekim-cumhuriyet-yuruyusu)
+
+![](data/images/d9d8acbfe8000a65.jpg)
+
+> Yürüyüş ÇYDD, Atatürkçü Düşünce Derneği ve Eğitim-Sen Eskişehir şubelerinin öncülüğünde yapılacak.
+
+Eskişehir'de Cumhuriyet'in 103. yılı dolayısıyla 29 Ekim Perşembe günü Cumhuriyet Yürüyüşü düzenlenecek. Çağdaş Yaşamı Destekleme Derneği (ÇYDD) Eskişehir Şube Başkanı Sevgi Akmen, saat 15.00'te Ulus Anıtı önünden başlayacak yürüyüşe tüm Eskişehirlileri Türk bayrakları ve Atatürk posterleriyle katılmaya davet etti.
+
+Buluşmanın ardından organizasyona katılan kurumlar adına basın açıklaması yapılacak, katılımcılar Vilayet Meydanı'na yürüyecek. Etkinlik, saygı duruşu ve İstiklal Marşı'nın okunmasıyla sona erecek. Akmen, vatandaşlardan evlerine bayrak asmalarını da istedi.
+
+Yürüyüşe Atatürkçü Düşünce Derneği Eskişehir Şubesi, ÇYDD Eskişehir Şubesi ve Eğitim ve Bilim İşgörenleri Sendikası Eskişehir Şubesi öncülük ediyor.
+
+---
+
+## Erdoğan, Üsküdar ve Ataşehir belediye başkan vekillerini kabul etti
+
+**Siyaset · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-3483755)
+
+![](data/images/aa1b4f941cc90726.jpg)
+
+> Görüşmede ele alınan konulara ilişkin ayrıntı paylaşılmadı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Üsküdar Belediye Başkan Vekili Muhammed Emin Sarıoğlu ile Ataşehir Belediye Başkan Vekili Serdar Orhan'ı kabul etti. Kabule AK Parti İstanbul İl Başkanı Abdullah Özdemir ile Üsküdar ve Ataşehir ilçe başkanları da katıldı.
+
+Özdemir, sosyal medya hesabından yaptığı paylaşımda Erdoğan'a İstanbul'a gösterdiği yakın ilgi için teşekkür etti ve belediye başkan vekillerine görevlerinde başarı diledi. Görüşmede ele alınan konulara ilişkin paylaşımda ayrıntılı bilgi verilmedi.
+
+---
+
 ## Eskişehir'de 462 kamu yatırım projesinin 70'i tamamlandı
 
 **Gündem · Merkez** · 2026-10-23 15:34 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-baskanliginda-ekim-ayi-il-koordinasyon-kurulu-toplantisi-gerceklestirildi)
@@ -367,87 +441,5 @@ Hafif sıyrıklarla atlattığı belirtilen bisikletli, olay yerine gelen sağl�
 Tarım ve Orman Bakanlığı'nın gıda denetimlerinde sucuk üretiminde kullanılan baharatlarla ilgili mevzuata aykırı bir durum tespit edildi. Analizlerde gıda üretiminde kullanılmasına izin verilmeyen bir boya maddesi bulunan 11 markanın sucuk baharatı, tüketici sağlığı açısından risk taşıyan ürünler arasına alındı.
 
 Bakanlığın 22 Ekim 2026'da yenilenen listesinde ürünler "Sağlığı Tehlikeye Düşürecek Gıdalar" kategorisinde kamuoyuna duyuruldu. Uygulamayla tüketicilerin piyasadaki gıdalar hakkında bilgi sahibi olması amaçlanıyor.
-
----
-
-## İletişim Başkanı Duran'dan Zonguldak'taki maden ocağı kazası için taziye mesajı
-
-**Türkiye · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-zonguldakta-maden-ocaginda-meydana-gelen-gocuk-nedeniyle-taziye-mesaji)
-
-![](data/images/d9e809320a215310.jpg)
-
-> Duran, Kilimli'deki kazada hayatını kaybeden madencilere rahmet, yaralılara şifa diledi.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, NSosyal hesabından yaptığı paylaşımla Zonguldak'ın Kilimli ilçesindeki bir maden ocağında meydana gelen kazada hayatını kaybeden işçiler için taziye dileklerini iletti.
-
-Duran, mesajında hayatını kaybeden madencilere Allah'tan rahmet, ailelerine ve yakınlarına sabır ve başsağlığı diledi. Kazada yaralanan madencilere acil şifalar temenni etti. Duran, ilgili kurumların olay yerinde gerekli müdahale ve inceleme çalışmalarını titizlikle yürüttüğünü belirtti.
-
----
-
-## Eskişehir'de kadınların siyasi temsili için AllyGround eğitim programı yapıldı
-
-**Belediye · Merkez** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-kadinlarin-siyasi-temsili-icin-ortak-calisma-b420ef99)
-
-![](data/images/f0266bee9dcfa440.jpg)
-
-> Büyükşehir, 1984 Derneği ve İsveç Başkonsolosluğu iş birliğindeki iki günlük program Haller Gençlik Merkezi'nde düzenlendi.
-
-Eskişehir Büyükşehir Belediyesi, 1984 Derneği (D84) ve İstanbul İsveç Başkonsolosluğu iş birliğiyle yürütülen "AllyGround - Kadınların Siyasi Yolculuğunu Destekleme Projesi" kapsamında iki günlük eğitim programı düzenledi. Program Haller Gençlik Merkezi Frigya Salonu'nda yapıldı.
-
-Programla kadınların yerel siyasette daha güçlü temsil edilmesi, toplumsal cinsiyet eşitliğinin güçlendirilmesi ve farklı siyasi görüşler arasında dayanışmanın artırılması amaçlandı. Açılış konuşmasını Büyükşehir Genel Sekreter Yardımcısı Nergiz Abacı yaptı. Abacı, kadınların siyasette güçlü temsilinin demokratik bir toplumun temel koşullarından biri olduğunu söyledi.
-
-Programa belediye meclis üyeleri, siyasi parti temsilcileri, kadın siyasetçiler, partilerin kadın ve gençlik kollarında görev alanlar ile sivil toplum kuruluşlarının temsilcileri katıldı. Eğitimlerde kadınların siyasi alanda karşılaştığı engellerin aşılması, liderlik ve dayanışma becerileri ele alındı.
-
----
-
-## CHP Sözcüsü Sarı Gaziantep'te: Seçimlerde birlikte hareket etmenin önemini vurguluyoruz
-
-**Siyaset · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - CHP](https://yerel-haberler.haberturk.com/gaziantep-haberleri/chp-genel-baskan-yardimcisi-ve-parti-sozcusu-sari-gaziantepte-konustu-119501308)
-
-![](data/images/e96b69e90d3fe91b.jpg)
-
-> Sarı, belediye başkanlarına yönelik soruşturmalara ilişkin CHP Gaziantep İl Başkanlığı'nda açıklama yaptı.
-
-CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, CHP Gaziantep İl Başkanlığı'nda düzenlediği basın toplantısında belediye başkanlarına yönelik soruşturmalar ve siyasi gelişmeleri değerlendirdi.
-
-Sarı, siyaseten ayrıştıkları arkadaşları olsa bile özellikle Cumhur İttifakı'na karşı, operasyonlardan sonra ortaya çıkacak seçimlerde birlikte hareket etmenin önemini vurguladıklarını söyledi. Belediye başkanlarının tutuksuz yargılanabileceğini belirten Sarı, tutuklamanın bir cezalandırma yöntemine dönüşmemesi gerektiğini ifade etti. Çukurova ve Milas'taki adli süreçleri takip ettiklerini, Milas Belediye Başkanı'nın adli kontrolle serbest bırakılmasını beklediklerini kaydetti.
-
-Sarı ayrıca CHP'nin geçmişte diğer partilerle iş birliği yaptığını, ancak "sabrımızın bir sınırı var" diyerek partinin kurumsal kimliğini önceleyeceklerini söyledi.
-
----
-
-## Bakan Bayraktar: Dünyanın enerjide belirsizliğe değil, güvenilir ortaklıklara ihtiyacı var
-
-**Ekonomi · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31952)
-
-![](data/images/0d01139a605f14a8.jpg)
-
-> Bayraktar, İstanbul'daki 19. Verona Avrasya Ekonomik Forumu'nda konuştu.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, İstanbul'da düzenlenen 19. Verona Avrasya Ekonomik Forumu'nda konuştu. Bayraktar, dünyanın enerjide daha fazla belirsizliğe değil, daha fazla iş birliğine, yatırıma ve güvenilir ortaklıklara ihtiyacı olduğunu söyledi; Türkiye'nin buna katkı sunmaya hazır olduğunu belirtti.
-
-Bayraktar, ekonomilerin enerji güvenliğini sağlamak, büyüyen talebi karşılamak ve enerji dönüşümünü gerçekleştirmek şeklinde üç temel sınamayla karşı karşıya olduğunu ifade etti. Yanıtın çeşitlendirme, enerjiye yatırım ve daha geniş uluslararası iş birliği olduğunu söyledi.
-
-Bakan, son 10 yılda günlük LNG gazlaştırma kapasitesini yaklaşık 30 milyon metreküpten 160 milyon metreküpe çıkardıklarını, doğal gaz depolama kapasitesini 15 milyar metreküpe ulaştırmak için çalışmaya devam ettiklerini aktardı. Türkiye'nin üretici ve tüketici ülkeleri birbirine bağlayan önemli bir enerji merkezi konumunda olduğunu vurguladı.
-
----
-
-## Altın fiyatları 23 Ekim 2026: Gram altın 6.468,55 TL
-
-**Ekonomi · Merkez** · 2026-10-23 10:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261023.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.397,13 TL'den alınıyor, 6.468,55 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 13.43 itibarıyla verilerine göre gram altının satış fiyatı 6.468,55 TL, alış fiyatı 6.397,13 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,43 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.543 TL, yarım altın 21.080 TL, tam altın 42.024 TL, ata altın 42.778 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.042,25 TL, has altının gram fiyatı 6.449,20 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.023,00 dolardan işlem görürken, dolar/TL 49,70 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 13.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
