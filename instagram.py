@@ -28,8 +28,8 @@ STATE = Path(__file__).parent / "data" / "instagram.json"
 HOST = "graph.facebook.com" if os.environ.get("IG_API") == "facebook" else "graph.instagram.com"
 GRAPH = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v23.0')}"
 MAX_STORIES = 2   # tur başına
-DAILY_CAP = 22    # 24 saatte en fazla paylaşım (yeni hesapta Instagram'ın fiili sınırı API'nin söylediğinden düşük);
-                  # günlük iki video bülten için birkaç hak ayrıca boş kalır
+DAILY_CAP = 16    # 24 saatte en fazla paylaşım: Instagram bu hesapta fiilen ~25 izin veriyor (API 50 dese de);
+                  # günlük iki video bülten ve yedek için hak boş kalır
 MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
 MAX_REELS = 1     # tur başına
 REELS_PER_DAY = 8  # 24 saatte en fazla Reels (videolu haber > editörün "izlenecek" dedikleri > önemli yerel haberler)
