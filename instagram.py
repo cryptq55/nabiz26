@@ -104,7 +104,7 @@ def make_reel_video(slug):
     a = next(x for x in build.load_articles() if x["slug"] == slug)
     img = build.DATA_DIR.parent / a["image"]["file"] if a.get("image") else None
     out = Path(tempfile.gettempdir()) / f"{slug[:60]}.mp4"
-    voiced = reels.make_reel(a, img, out)
+    voiced = reels.make_video_reel(a, out) if a.get("video") else reels.make_reel(a, img, out)
     print("reels videosu:", slug, "sesli" if voiced else "sessiz")
     return upload_r2(out, f"reels/{slug[:80]}.mp4")
 
@@ -154,10 +154,11 @@ def main():
     forced = os.environ.get("REEL_SLUG", "").strip()  # elle seçilen haber (iş akışı girdisi)
     failed = set()
     if os.environ.get("R2_BUCKET") and left > 0:
+        # Kaynağın kendi videosu olan haberler her zaman Reels olur ve önce gelir; sonra editörün "izlenecek" dedikleri
+        cands = [f for f in feed[:12] if f["slug"] not in state["reels"]
+                 and (f.get("video") or (f["has_photo"] and f.get("reel") and (f.get("local", True) or imp(f) >= 5)))]
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
-                 sorted([f for f in feed[:12] if f["has_photo"] and f.get("reel") and f["slug"] not in state["reels"]
-                         and (f.get("local", True) or imp(f) >= 5)],  # Reels yerel ağırlıklı
-                        key=imp, reverse=True)[:min(MAX_REELS, max(0, left))])
+                 sorted(cands, key=lambda f: (bool(f.get("video")), imp(f)), reverse=True)[:min(MAX_REELS, max(0, left))])
         for f in picks:
             try:
                 url = make_reel_video(f["slug"])

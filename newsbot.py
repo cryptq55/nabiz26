@@ -388,6 +388,26 @@ def extract_text(html, url):
     return trafilatura.extract(lxml.html.tostring(doc, encoding="unicode"), url=url, include_comments=False) or ""
 
 
+# Resmî kaynakların haber sayfalarına doğrudan yüklediği videolar (Reels için). YouTube gömmeleri kullanılmaz
+# (indirmek YouTube kurallarına aykırı); site geneli tanıtım/slayt videoları elenir.
+VIDEO_RE = re.compile(r"""(?:src|href|data-src|file)\s*=\s*["']([^"']+\.mp4)(?:\?[^"']*)?["']""", re.I)
+VIDEO_SKIP = ("slayt", "slider", "banner", "background", "arkaplan", "spot", "tanitim", "intro", "vecihi")
+VIDEOS = {}  # aday anahtarı -> video adresi (fetch_source doldurur, collect_queue kuyruğa ekler)
+
+
+def find_video(html, page_url):
+    host = urlparse(page_url).netloc.lower()
+    if not host.endswith(OFFICIAL_SUFFIXES):
+        return None
+    for m in VIDEO_RE.findall(html):
+        url = urljoin(page_url, htmllib.unescape(m))
+        low = url.lower()
+        if urlparse(url).netloc.lower().endswith(OFFICIAL_SUFFIXES) and not any(k in low for k in VIDEO_SKIP) \
+                and ("haber" in low or re.search(r"\d{2}-\d{2}-\d{4}|20\d{2}", low)):
+            return url
+    return None
+
+
 def fetch_source(url, photos_allowed=False, key=None):
     """Kaynağın asıl adresini, metnini ve (yalnızca resmî/izinli kaynaklarda) ana fotoğrafını döndürür."""
     url = resolve_link(url)
@@ -401,6 +421,9 @@ def fetch_source(url, photos_allowed=False, key=None):
                 meta = trafilatura.extract_metadata(html, default_url=url)
                 og = meta.image if meta and meta.image and meta.image.startswith("http") else None
                 image = download_image(image_candidates(og, html, url), key or hashlib.sha1(url.encode()).hexdigest()[:16])
+                video = find_video(html, url)
+                if video and key:
+                    VIDEOS[key] = video
         except Exception as e:
             log(f"[uyarı] metin çıkarılamadı {url}: {e}")
     return url, text, image
@@ -461,6 +484,8 @@ def save_article(article, candidate, image=None):
     }
     if image:
         record["image"] = {**image, "credit": image.get("credit") or candidate["source_name"]}
+    if candidate.get("video"):
+        record["video"] = {"url": candidate["video"], "credit": candidate["source_name"]}
     (ARTICLES_DIR / f"{slug}.json").write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return record
 
@@ -492,7 +517,8 @@ def collect_queue(max_items, out_path):
             continue
         queue.append({"key": c["key"], "source_name": c["source_name"], "title": c["title"],
                       "link": c["link"], "image": image, "text": text[:12000],
-                      "topic": c.get("topic"), "brand_cover": c.get("brand_cover", False)})
+                      "topic": c.get("topic"), "brand_cover": c.get("brand_cover", False),
+                      "video": VIDEOS.get(c["key"])})
     save_seen(seen)
     today = datetime.now(timezone.utc).astimezone().strftime("%d.%m.%Y")
     Path(out_path).write_text(json.dumps({"today": today, "recent_titles": recent_titles(), "queue": queue},

@@ -390,6 +390,7 @@ def main():
                      "importance": int(a.get("importance") or 3),
                      "reel": bool(a.get("reel", int(a.get("importance") or 3) >= 4)),
                      "local": a.get("district") != "Türkiye",
+                     "video": bool(a.get("video")),  # kaynağın kendi videosu var: Reels öncelikli
                      # Kendi ürettiğimiz başlıklı kapak (gerçek fotoğraf değil): story'ye konmaz
                      "own_cover": (a.get("image") or {}).get("credit") == "Nabız 26",
                      "post": f"{SITE['url']}/{a['social']['post']}", "story": f"{SITE['url']}/{a['social']['story']}",

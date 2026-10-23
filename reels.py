@@ -330,3 +330,114 @@ if __name__ == "__main__":
     img = build.DATA_DIR.parent / a["image"]["file"] if a.get("image") else None
     voiced = make_reel(a, img, out)
     print(out, "sesli" if voiced else "sessiz")
+
+
+def probe(path):
+    """Videonun süresi ve ses kanalı olup olmadığı (ffmpeg çıktısından)."""
+    out = subprocess.run([ffmpeg_bin(), "-i", str(path)], capture_output=True, text=True).stderr
+    m = re.search(r"Duration: (\d+):(\d+):([\d.]+)", out)
+    dur = int(m.group(1)) * 3600 + int(m.group(2)) * 60 + float(m.group(3)) if m else 0
+    return dur, "Audio:" in out
+
+
+def render_video(a, video_path, out, audio=None, alignment=None):
+    """Kaynağın kendi videosundan Reels: video kartın içinde oynar (arkada bulanık kopyası), üstte logo ve başlık,
+    altta seslendirme altyazısı; videonun kendi sesi alçakta kalır. Sonda kapanış kartı."""
+    vdur, vaudio = probe(video_path)
+    text = script(a, voiced=bool(alignment))
+    caps = phrases(text, alignment)
+    speech = caps[-1][2] if caps else 0
+    body_t = min(max(12.0, speech + 0.8), 45.0)
+    total = body_t + END
+    L = layers(a, None)  # başlık bloğu ve logo
+    endc = end_card().convert("RGBA")
+    cw, ch = CARD[2] - CARD[0], CARD[3] - CARD[1]
+
+    cmd = [ffmpeg_bin(), "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", str(video_path),
+           "-f", "rawvideo", "-pix_fmt", "rgba", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-"]
+    if audio:
+        cmd += ["-i", str(audio)]
+    vf = (f"[0:v]fps={FPS},split[a][b];"
+          f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=30:2,eq=brightness=-0.32[bg];"
+          f"[b]scale={W}:{ch}:force_original_aspect_ratio=decrease[fg];"  # yatay video tam genişlikte
+          f"[bg][fg]overlay=x=({W}-w)/2:y={CARD[1]}+({ch}-h)/2[base];"
+          f"[base][1:v]overlay=0:0:format=auto[v]")
+    if audio and vaudio:
+        af = ";[0:a]volume=0.12[va];[2:a]volume=1.0[vo];[va][vo]amix=inputs=2:duration=longest:normalize=0[aout]"
+        amap = ["-map", "[aout]"]
+    elif audio:
+        af, amap = "", ["-map", "2:a"]
+    elif vaudio:
+        af, amap = ";[0:a]volume=0.8[aout]", ["-map", "[aout]"]
+    else:
+        af, amap = "", []
+    cmd += ["-filter_complex", vf + af, "-map", "[v]"] + amap
+    if not amap:
+        cmd += ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-map", "2:a"]
+    cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+            "-ar", "44100", "-t", f"{total:.2f}", "-movflags", "+faststart", str(out)]
+    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    cache = {}
+    head = L["head"]
+    for n in range(int(total * FPS)):
+        t = n / FPS
+        frame = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        frame.paste(L["logo"], (CARD[0] + 4, CARD[1] + 4), L["logo"])
+        frame.paste(video_badge(), (CARD[2] - 210, CARD[1] + 20), video_badge())
+        k = ease((t - 0.2) / 0.6)
+        if k > 0:
+            h = head if k >= 1 else head.copy()
+            if k < 1:
+                h.putalpha(head.getchannel("A").point(lambda v: int(v * k)))
+            frame.paste(h, (0, CARD[3] + 40 + int(60 * (1 - k))), h)
+        cur = next((c for c in caps if c[1] <= t < c[2] + 0.15), None)
+        if cur:
+            img = cache.get(cur[0]) or cache.setdefault(cur[0], caption_img(cur[0]))
+            frame.paste(img, ((W - img.width) // 2, 1560 - img.height), img)
+        if t > body_t - 0.4:
+            frame = Image.blend(frame, endc, ease((t - body_t + 0.4) / 0.5))
+        proc.stdin.write(frame.tobytes())
+    proc.stdin.close()
+    if proc.wait() != 0:
+        raise RuntimeError("ffmpeg videolu Reels'i üretemedi")
+    return total
+
+
+_BADGE = None
+
+
+def video_badge():
+    """Kartın sağ üstünde kaynağı belirten küçük etiket."""
+    global _BADGE
+    if _BADGE is None:
+        im = Image.new("RGBA", (190, 60), (0, 0, 0, 0))
+        d = ImageDraw.Draw(im)
+        d.rounded_rectangle((0, 0, 185, 56), 28, fill=(229, 16, 46, 235))
+        d.text((92, 28), "▶ VİDEO", font=font("Inter.ttf", 26, 800), fill="white", anchor="mm")
+        _BADGE = im
+    return _BADGE
+
+
+def make_video_reel(a, out):
+    """Haberin kaynağındaki videoyu indirip Reels üretir; sesli olup olmadığını döndürür."""
+    import requests
+    with tempfile.TemporaryDirectory() as tmp:
+        src = Path(tmp) / "kaynak.mp4"
+        with requests.get(a["video"]["url"], stream=True, timeout=120,
+                          headers={"User-Agent": "Mozilla/5.0 (compatible; Nabiz26Bot/1.0; +https://nabiz26.com)"}) as r:
+            r.raise_for_status()
+            size = 0
+            with open(src, "wb") as fh:
+                for chunk in r.iter_content(1 << 20):
+                    size += len(chunk)
+                    if size > 300 * (1 << 20):
+                        raise RuntimeError("kaynak video çok büyük")
+                    fh.write(chunk)
+        mp3 = Path(tmp) / "ses.mp3"
+        alignment = None
+        try:
+            alignment = synthesize(script(a, voiced=True), mp3)
+        except Exception as e:
+            print("[uyarı] seslendirme yapılamadı:", str(e)[:200])
+        render_video(a, src, out, audio=mp3 if alignment else None, alignment=alignment)
+        return bool(alignment)
