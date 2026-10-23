@@ -2,6 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## SOLOTÜRK 29 Ekim'de Sazova Parkı'nda gösteri uçuşu yapacak
+
+**Gündem · Tepebaşı** · 2026-10-23 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.trthaber.com/haber/turkiye/soloturk-29-ekimde-eskisehirde-gosteri-ucusu-yapacak-961033.html)
+
+![](data/images/776a26b9a4fd2512.jpg)
+
+> Ekip 24 Ekim'de çevre tanıma, 27 Ekim'de prova uçuşu gerçekleştirecek.
+
+SOLOTÜRK, 29 Ekim Perşembe günü saat 14.00'te Eskişehir'de Sazova Parkı üzerinde gösteri uçuşu yapacak. SOLOTÜRK'ün sosyal medya hesabından yapılan paylaşıma göre ekip aynı yerde 24 Ekim Cumartesi günü saat 12.20'de çevre tanıma, 27 Ekim Salı günü saat 14.00'te ise prova uçuşu gerçekleştirecek.
+
+---
+
+## Kars'ta 13. Uluslararası Çocuk ve Gençlik Edebiyatı Sempozyumu düzenlendi
+
+**Eğitim · Türkiye** · 2026-10-23 20:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/kars039ta-quot13-uluslararasi-cocuk-ve-genclik-edebiyati-sempozyumuquot-duzenlendi/haber/42283/tr)
+
+![](data/images/e7df324c98dda216.jpg)
+
+> Millî Eğitim Bakan Yardımcısı Ökten, Maarif Modeli ders kitaplarını anlattı.
+
+Kars'ta "13. Uluslararası Çocuk ve Gençlik Edebiyatı Sempozyumu" düzenlendi. Sempozyum "çocuğa yönelik olumsuz yayınlar, çocuk ve gençlik edebiyatı ile psikoloji ilişkisi" temasıyla yapıldı; Kafkas Halk Oyunları Ekibi gösteri sundu.
+
+Millî Eğitim Bakan Yardımcısı Celile Eren Ökten konuşmasında, Türkiye Yüzyılı Maarif Modeli kapsamında hazırlanan ortaokul Türkçe ve lise Türk Dili ve Edebiyatı ders kitaplarının öğrencinin yalnızca bilgi edinen değil, okuyan, sorgulayan, yorumlayan ve özgün ürünler ortaya koyan bir birey olarak gelişimini desteklediğini söyledi.
+
+---
+
 ## TOKİ, Odunpazarı ve Tepebaşı'ndaki arsaları 5-6 Kasım'da açık artırmayla satacak
 
 **Ekonomi · Merkez** · 2026-10-23 19:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/toki-eskisehirde-arsa-satacak-fiyatlar-19-milyon-tlden-basliyor)
@@ -385,31 +411,5 @@ Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü, Öz
 Sunumda iklim krizinin nedenleri ve günlük yaşama etkileri, sera gazları, Dünya Limit Aşım Günü, su kaynaklarının korunması, su ayak izi ve kentsel ısı adası etkisi ele alındı. Rio Zirvesi'nden Kyoto Protokolü ve Paris Anlaşması'na uzanan süreç, 1,5 derece hedefi ve Taraflar Konferansı'nın işleyişi anlatıldı.
 
 Sunumun ardından düzenlenen interaktif oyunda başarılı olan üç öğrenciye not defteri ve kalem hediye edildi.
-
----
-
-## Sarıcakaya'da Dorlion zeytinyağı için erken hasat tamamlandı
-
-**Tarım · Sarıcakaya** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263840/eskisehirde-dorlion-zeytinyaginda-erken-hasat-tamamlandi.html)
-
-> Dorlion Özel Seri, 19. Natürel Sızma Zeytinyağı Kalite Yarışması'nda Premium Ödülü kazanmıştı.
-
-Eskişehir Büyükşehir Belediyesi'nin Sarıcakaya ilçesinde sürdürülebilir yöntemlerle yürüttüğü zeytinyağı üretiminde erken hasat dönemi sona erdi. Sarıcakayalı çiftçilerin topladığı zeytinler, Tarımsal Hizmetler Dairesi Başkanlığı tarafından natürel sızma zeytinyağına dönüştürüldü.
-
-Eskişehir Orta Sakarya Vadisi Zeytinciliği Geliştirme Projesi kapsamında Dorlion Özel Seri için toplanan zeytinler, Sarıcakaya Zeytin Üreticileri Birliği aracılığıyla belediyeye teslim edildi. Zeytinler hava ile teması en aza indirilerek soğuk sıkım yöntemiyle işlendi.
-
-Dorlion Özel Seri zeytinyağı, 19. Natürel Sızma Zeytinyağı Kalite Yarışması'nda Premium Ödülü kazandı. Büyükşehir, projeyle çiftçilerin üretimini desteklemeyi ve yerel tarım ürünlerine katma değer kazandırmayı amaçlıyor.
-
----
-
-## Odunpazarı Mesleki Eğitim Merkezi öğrencileri çorba ikram ederek dayanışma etkinliği yaptı
-
-**Eğitim · Odunpazarı** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/odunpazari-mesem-den-anlamli-dayanisma-etkinligi-296875.html)
-
-> Etkinlikte "Bir tas çorba, bin tebessüm" mesajı verildi.
-
-Odunpazarı Mesleki Eğitim Merkezi (OMEM), öğrencilerin sosyal sorumluluk bilincini geliştirmeye yönelik bir etkinlik düzenledi. Okul Müdürü Erhan Aksu'nun katkıları, öğretmenlerin rehberliği ve öğrencilerin çalışmasıyla hazırlanan çorba, paylaşma ve dayanışma amacıyla ikram edildi.
-
-Etkinlikle öğrencilerin empati, yardımlaşma ve sorumluluk bilinci kazanmasına katkı sunulması hedeflendi. OMEM ailesi etkinliğin mesajını "Bir tas çorba, bin tebessüm! Paylaştıkça çoğalır, dayanışmayla güçleniriz" sözleriyle özetledi.
 
 ---
