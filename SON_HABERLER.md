@@ -2,11 +2,123 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## TİHEK, görme engelli başvuru üzerine Büyükşehir ve Tepebaşı'na 50'şer bin lira ceza verdi
+
+**Belediye · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.memurlar.net/haber/1181773/gorme-engelliye-ayrimcilik-tihek-ten-iki-belediyeye-ceza.html)
+
+![](data/images/d9f657fc6f38aed1.jpg)
+
+> Kurum, erişilebilirlik koşullarının sağlanmamasını engellilik temelinde ayrımcılık saydı.
+
+Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), görme engelli bir kişinin işe gidiş ve dönüşlerinde kullandığı güzergâhta erişilebilirlik koşullarının sağlanmaması nedeniyle Eskişehir Büyükşehir Belediyesi ile Tepebaşı Belediyesi'ne 50'şer bin lira idari para cezası verdi.
+
+Yüzde 52 oranında görme engeli bulunan başvuran, güzergâhta hız kesici kasis ve yaya geçidi bulunmadığını, kaldırımların erişilebilirlik standartlarına uygun olmadığını öne sürdü. UKOME'ye yaptığı kasis talebinin reddedildiğini savundu. Büyükşehir, bölgenin komisyonca incelendiğini, kasise gerek olmadığı görüşüne varıldığını ve kaldırımlardan sorumlu Tepebaşı Belediyesi'ne konunun bildirildiğini savundu.
+
+Erişilebilirlik İzleme ve Denetleme Komisyonu'nun teknik incelemesinde kaldırımlarda 150 santimetre genişliğinde kesintisiz geçişin sağlanamadığı, elektrik direkleri ve trafik tabelalarının yaya geçişini engellediği, bazı noktalarda rampa, yaya geçidi ve hissedilebilir yüzey işaretlerinin bulunmadığı tespit edildi.
+
+TİHEK, Büyükşehir'in aldığı alternatif tedbirlerin etkili bir çözüm oluşturmadığını, Tepebaşı'nın ise erişilebilir çevre koşullarını makul sürede sağlayamadığını belirterek engellilik temelinde ayrımcılık yasağının ihlal edildiğine hükmetti.
+
+---
+
+## Mahalle AFAD Gönüllü Ekipleri için ESTÜ'de belge takdim töreni yapıldı
+
+**Gündem · Tepebaşı** · 2026-10-23 09:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/13-ekim-uluslararasi-afet-risklerinin-azaltilmasi-gunu-kapsaminda-belge-takdim-toreni-estu039de-gerceklestirildi/icerik/8691/tr)
+
+![](data/images/2a7f6f680bdcf940.jpg)
+
+> 13 Ekim Afet Risklerinin Azaltılması Günü kapsamındaki törende 103 gönüllü ve ekipler ödüllendirildi.
+
+13 Ekim Uluslararası Afet Risklerinin Azaltılması Günü kapsamında Eskişehir Valiliği öncülüğünde ve İl AFAD Müdürlüğü koordinasyonunda Mahalle AFAD Gönüllü Ekipleri ve Akredite Arama Kurtarma Ekipleri Belge Takdim Töreni düzenlendi. Tören, Eskişehir Teknik Üniversitesi (ESTÜ) Yabancı Diller Yüksekokulu Konferans Salonu'nda yapıldı.
+
+Törene Vali Yardımcısı Yakup Güney, ESTÜ Rektör Yardımcısı Prof. Dr. Onur Kaya, İl AFAD Müdürü Aslan Mehmet Coşkun ve İl Millî Eğitim Müdür Yardımcısı Ali Türkal katıldı. Deliklitaş, Emek, Kurtuluş, Şirintepe ve Uluönder mahallelerinde toplam 103 gönüllü projeye katıldı.
+
+Projeye katkı sunan beş mahalle muhtarına plaket verildi. MEB AKUB, İHH Eskişehir ve Arçelik bünyesindeki akredite arama kurtarma ekiplerinin temsilcilerine başarı belgesi takdim edildi. Eskişehir MEB AKUB adına İl Millî Eğitim Müdürlüğü'ne plaket verildi.
+
+---
+
+## CHP İstanbul İl Başkanı olarak görevlendirilen Yüksel: CHP vesayet kabul etmez
+
+**Siyaset · Türkiye** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/mehmet-ali-yukselden-vesayet-cikisi-chp-vesayet-kabul-etmez-edemez)
+
+![](data/images/f5d15bd3954165c6.jpg)
+
+> Mehmet Ali Yüksel, il binası önünde partililerle bir araya gelerek göreve başladı.
+
+CHP İstanbul İl Başkanı olarak görevlendirilen Mehmet Ali Yüksel, il binası önünde partililerle bir araya gelerek göreve başladı. Yüksel konuşmasında "CHP, vesayet kabul etmez, edemez" dedi.
+
+Görevi sona eren Gürsel Tekin'e teşekkür eden Yüksel, Kemal Kılıçdaroğlu'na da saygı ve sevgilerini ilettiğini söyledi. Siyasi iradenin özgürlüğüne vurgu yapan Yüksel, siyasetin satın alınan sadakatler üzerine kurulmaması gerektiğini savundu.
+
+Yüksel, CHP'nin herhangi bir kişi ya da kurumun kontrolüne giremeyeceğini, partiye hiçbir sermaye gücünün sahip olamayacağını söyledi ve partinin farklı kesimleri kapsayan bir anlayışla hareket edeceğini kaydetti.
+
+---
+
+## Büyükşehir'in Caz Günleri Art Baden Quartet konseriyle başladı
+
+**Kültür-Sanat · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263187/eskisehirde-caz-gunleri-art-baden-quartet-konseriyle-basladi.html)
+
+![](data/images/55ebccb2b681a528.jpg)
+
+> Grup Türkiye turnesinin ilk konserini Eskişehir'de verdi; Coltrane doğumunun 100. yılında anıldı.
+
+Eskişehir Büyükşehir Belediyesi'nin 2026-2027 sanat sezonu kapsamındaki Caz Günleri, Art Baden Quartet konseriyle başladı. Türkiye turnesinin ilk konserini Eskişehir'de veren grupta saksafonda Art Baden, gitarda Onur Aymergen, davulda Serkan Alagök ve kontrabasta Ulaş Özdemir yer aldı.
+
+Konserde John Coltrane doğumunun 100. yılında eserleriyle anıldı; Kurt Rosenwinkel ve Richard Rodgers'ın eserleri de seslendirildi. Aymergen'in 2025'te yayımlanan "Africa" adlı bestesi ile Art Baden'in "Chaotic Neutral" adlı eseri de çalındı.
+
+Caz Günleri, 3 Kasım 2026 Salı günü saat 20.00'de Sanat ve Kültür Merkezi Opera Sahnesi'nde "Sibel Köse Quintet" konseriyle sürecek.
+
+---
+
+## Büyükşehir 8059. Cadde'de yol genişletip asfalt serdi: Yaşamkent-Zincirlikuyu bağlantısı
+
+**Ulaşım · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehir-buyuksehirden-bolge-ulasimina-yeni-alternatif)
+
+![](data/images/59953b16f4f8e19c.jpg)
+
+> Cadde Aydın Ünlüce Bulvarı ile 8070. Cadde arasında bağlantı sağlayacak.
+
+Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı ekipleri 8059. Cadde'de yol genişletme çalışması yürütüyor ve bitümlü sıcak asfalt serimine başladı. Çalışmayla Yaşamkent ve Zincirlikuyu mahalleleri arasındaki ulaşım bağlantısının güçlendirilmesi hedefleniyor.
+
+8059. Cadde, Aydın Ünlüce Bulvarı ile 8070. Cadde arasında bağlantı sağlayacak. Yol genişletme ve asfaltlama ile güzergâhın daha düzenli ve güvenli bir ulaşım imkânı sunması amaçlanıyor.
+
+---
+
+## Altay yarın Balıkesirspor'a konuk olacak; geçen hafta Eskişehirspor'a 4-1 yenilmişti
+
+**Spor · Merkez** · 2026-10-23 09:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.egepostasi.com/haber/Altay-Balikesirspor-ile-karsilasacak/402494)
+
+![](data/images/64af6a6537118428.jpg)
+
+> 3. Lig 2. Grup 8. hafta maçı Soma Nazım Yavuz Stadı'nda oynanacak.
+
+3. Lig 2. Grup'ta geçen hafta evinde Eskişehirspor'a 4-1 yenilen Altay, yarın deplasmanda Balıkesirspor ile oynayacak. Ev sahibi ekibin stadı bakımda olduğu için 8. hafta karşılaşması Soma Nazım Yavuz Stadı'nda oynanacak; maçı Murat Demir yönetecek.
+
+Altay'da kırmızı kart cezalısı İsa ile sakatlığı bulunan Caner, Arif ve Ferhat forma giyemeyecek. Yunus Efe ile Salih'in durumu maç saatinde netleşecek. Balıkesirspor'da kırmızı kart cezalısı Ferit kadroda yer almayacak.
+
+Ligde iç sahada 3 maçta 3 galibiyet alan Balıkesirspor 13 puanla 7. sırada, son 2 deplasman maçını kazanan Altay ise 9 puanla 11. sırada.
+
+---
+
+## 81 ilde ortaöğretim öğrencileri için "Tabiat ve Yaşanabilir Çevre" yarışması yapılacak
+
+**Eğitim · Türkiye** · 2026-10-23 09:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/81-ilde-ogrenciler-icin-quottabiat-ve-yasanabilir-cevrequot-bilgi-yarismasi-duzenlenecek/icerik/8689/tr)
+
+![](data/images/95ed0128622f785c.jpg)
+
+> COP31 hazırlıkları kapsamındaki yarışma okul, ilçe ve il olmak üzere üç aşamalı olacak.
+
+Türkiye'nin 9-20 Kasım 2026 tarihleri arasında Antalya'da ev sahipliği yapacağı 31. Taraflar Konferansı (COP31) hazırlıkları çerçevesinde ortaöğretim öğrencilerine yönelik "Tabiat ve Yaşanabilir Çevre" Bilgi Yarışması düzenlenecek.
+
+Yarışmayla öğrencilerin iklim değişikliği ve sürdürülebilirlik konularındaki bilgi ve farkındalığının artırılması hedefleniyor. 81 ilde yapılacak yarışma okul, ilçe ve il olmak üzere üç aşamadan oluşacak.
+
+Sorular iklim değişikliği ve iklim eylemi, sürdürülebilir yaşam, biyoçeşitlilik, enerji kaynakları ve verimliliği, su kaynaklarının korunması, atık yönetimi ve sıfır atık ile iklim politikaları konularından hazırlanacak.
+
+---
+
 ## Tarım Kredi Kooperatifi eski müdürü Tahsin B.'nin zimmet davasında bilirkişi kararı
 
 **Asayiş · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.cumhuriyet.com.tr/turkiye/tarim-kredi-kooperatifi-nde-83-ton-komur-acigi-eski-mudure-zimmet-davasi-2549477)
 
-![](data/images/183d0d29c55472ee.jpg)
+![](data/images/183d0d29c55472ee-c.jpg)
 
 > Mahkeme, 83 ton kömür açığı iddiasıyla ilgili dosyayı Sayıştay emekli uzmanlarından oluşan heyete gönderdi.
 
@@ -40,7 +152,7 @@ Açılış konuşmasını yapan İl Millî Eğitim Müdürü Sinan Aydın, model
 
 **Gündem · Odunpazarı** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.sakaryagazetesi.com.tr/eskisehirin-islek-noktasinda-korkutan-yangin)
 
-![](data/images/5d0783e281569c5b.jpg)
+![](data/images/5d0783e281569c5b-c.jpg)
 
 > Arifiye Mahallesi'ndeki yangına itfaiye müdahale etti; ilk değerlendirmede yağdan çıktığı belirtildi.
 
@@ -70,7 +182,7 @@ Bültende her çocuğun ilgi alanları, öğrenme hızı ve ihtiyaçlarının fa
 
 **Spor · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspora-para-cezasi-1)
 
-![](data/images/62c235d48f528141.jpg)
+![](data/images/62c235d48f528141-c.jpg)
 
 > PFDK, taraftarların neden olduğu olaylar gerekçesiyle kulübe ceza verdi.
 
@@ -84,7 +196,7 @@ PFDK, raporlar doğrultusunda Eskişehirspor'a taraftarlarının neden olduğu s
 
 **Eğitim · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-egitimde-yeni-donem-masaya-yatirildi)
 
-![](data/images/e5ee857edd4acde5.jpg)
+![](data/images/e5ee857edd4acde5-c.jpg)
 
 > Millî Eğitim Müdürlükleri Yönetmeliği doğrultusunda yapılan toplantıda eğitim politikaları değerlendirildi.
 
@@ -98,7 +210,7 @@ Toplantıda Türkiye Yüzyılı Maarif Modeli uygulamaları, mesleki ve teknik e
 
 **Siyaset · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmanin-gayreti-icerisindeyiz/4098110)
 
-![](data/images/e7dda29a1453e107.jpg)
+![](data/images/e7dda29a1453e107-c.jpg)
 
 > Erdoğan, 9. İstanbul Arabuluculuk Konferansı'na video mesaj gönderdi.
 
@@ -114,7 +226,7 @@ Erdoğan, küresel çatışmaların arttığı bir dönemde Türkiye'nin diploma
 
 **Eğitim · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.kamudanhaber.net/yusuf-tekin-acikladi-meb-cocuklara-zarar-verdigi-gerekcesiyle-metaya-dava-aciyor)
 
-![](data/images/25ffe5d42c89a9fb.jpg)
+![](data/images/25ffe5d42c89a9fb-c.jpg)
 
 > Tekin, Hukuk Hizmetleri Genel Müdürlüğü'nün süreç hazırlığı yaptığını söyledi.
 
@@ -146,7 +258,7 @@ Prof. Dr. Adnan Boyacı moderatörlüğündeki panelde eğitim politikaları de�
 
 **Asayiş · Tepebaşı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kanlar-icinde-kacti-arsada-bulundu)
 
-![](data/images/2246a965baeadc5a.jpg)
+![](data/images/2246a965baeadc5a-c.jpg)
 
 > Tunalı Mahallesi'nde çıkan kavgada darp edilen kişi, evinin yakınındaki arsada bulunarak hastaneye kaldırıldı.
 
@@ -162,7 +274,7 @@ Ağzı ve yüzü kanlar içinde kalan yaralı, sağlık ekiplerinin müdahalesin
 
 **Asayiş · Odunpazarı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/guncel/haber-eskisehir-odunpazari-nda-aractakiler-karsilikli-at-20357873/)
 
-![](data/images/1f55062965ed8eba.jpg)
+![](data/images/1f55062965ed8eba-c.jpg)
 
 > Huzur Mahallesi'nde iki araçtaki kişiler silahla karşılıklı ateş etti; polis şüphelileri arıyor.
 
@@ -178,7 +290,7 @@ Polisin incelemesinde, iki araçtaki kişilerin karşılıklı ateş ettiği ve 
 
 **Türkiye · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.ilerigazetesi.com.tr/msb-askerlik-yerlerini-acikliyor)
 
-![](data/images/d4a1768419efa6b3.jpg)
+![](data/images/d4a1768419efa6b3-c.jpg)
 
 > Kasım, Aralık 2026 ve Ocak 2027 dönemi yükümlülerinin sınıflandırma sonuçları 27 Ekim Salı günü erişime açılacak.
 
@@ -196,7 +308,7 @@ Açıklamada ayrıca Kara Kuvvetleri Komutanlığı'na, Bilgi Güvenliği Derne�
 
 **Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://www.takvim.com.tr/guncel/2026/10/23/kemal-kilicdaroglu-chpde-yeni-partiye-aktarilan-paranin-iadesini-istedi)
 
-![](data/images/579be1b05207c617.jpg)
+![](data/images/579be1b05207c617-c.jpg)
 
 > Kılıçdaroğlu, paranın iade edilmemesi halinde suç duyurusunda bulunulacağını belirtti.
 
@@ -212,7 +324,7 @@ Kılıçdaroğlu, işlemi ahlaki bulmadığını söyleyerek paranın iadesini i
 
 **Spor · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.2eylul.com.tr/forma-giyemeyecekler-3)
 
-![](data/images/9842892684c2d920.jpg)
+![](data/images/9842892684c2d920-c.jpg)
 
 > Şapcı, sakatlığı süren iki oyuncunun oynama ihtimalinin yüksek olmadığını söyledi.
 
@@ -228,7 +340,7 @@ Sakat listesine Mustafa Eren Damar da eklendi. Damar'ın sırtında ağrı bulun
 
 **Hava Durumu · Merkez** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-hava-degisiyor-mu-meteoroloji-acikladi)
 
-![](data/images/7a17c0c295d390e0.jpg)
+![](data/images/7a17c0c295d390e0-c.jpg)
 
 > Meteoroloji'ye göre kentte yağış beklenmiyor, önemli bir hava değişikliği öngörülmüyor.
 
@@ -244,7 +356,7 @@ Rüzgârın başlangıçta güneyli yönlerden, ilerleyen saatlerde kuzey ve bat
 
 **Siyaset · Türkiye** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - CHP](https://baskentpostasi.com/chp-genel-baskan-yardimcisi-orhan-saribal-235-milyar-lira-ciftcinin-mazotunun-bile-bedeli-degil)
 
-![](data/images/d8f92abc83964b15.jpg)
+![](data/images/d8f92abc83964b15-c.jpg)
 
 > Sarıbal, TBMM'de düzenlediği basın toplantısında tarımsal desteklerin yasadaki yüzde 1 ölçütünün çok altında kaldığını savundu.
 
@@ -262,7 +374,7 @@ Sarıbal ayrıca üreticilerin banka borçlarının faizlerinin silinmesini ve a
 
 **Belediye · Odunpazarı** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/kazim-kurtun-destegiyle-anneler-alaaddin-park-cafede-bulustu)
 
-![](data/images/b1929f19acc44087.jpg)
+![](data/images/b1929f19acc44087-c.jpg)
 
 > Eskişehir Anneleri Buluşuyor Platformu'nun sonbahar etkinliğine yaklaşık 100 anne ve çocuk katıldı.
 
@@ -278,7 +390,7 @@ Belediye Başkanı Kazım Kurt, daha önce Kanlıkavak Parkı'ndaki buluşmada A
 
 **Belediye · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-kurtulus-kapali-pazar-yeri-ne-zaman-acilacak-iste-dusunulen-tarihler)
 
-![](data/images/52cf4cd18d5a0a80.jpg)
+![](data/images/52cf4cd18d5a0a80-c.jpg)
 
 > Gazeteci Akif Yer, projede fiziki gerçekleşmenin yüzde 99'u geçtiğinin ifade edildiğini, resmî bitiş tarihinin Haziran 2027 olduğunu söyledi.
 
@@ -294,7 +406,7 @@ Yer'in aktardığına göre pazarcı esnafı halen İmar Sokak çevresindeki ge�
 
 **Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehirhaber26.com/eskisehirde-23-ekimde-elektrik-kesintisi-iste-mahalle-mahalle-liste)
 
-![](data/images/ad220084b7b7e129.jpg)
+![](data/images/ad220084b7b7e129-c.jpg)
 
 > OEDAŞ'ın açıkladığı programa göre Odunpazarı, Tepebaşı, Sarıcakaya, Sivrihisar, Beylikova ve Çifteler'de bazı mahallelerde saatlerce elektrik verilemeyecek.
 
@@ -312,7 +424,7 @@ Sivrihisar'da Demirciköy, İlören, Koltan, Mülkköy, Nasrettin Hoca, Oğlakç
 
 **Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-seker-fabrikasi-tasinacak-mi-koku-sikintisi-yine-gundemde)
 
-![](data/images/dd148d754123f912.jpg)
+![](data/images/dd148d754123f912-c.jpg)
 
 > Kanal 26'da konuşan gazeteci Akif Yer, fabrikanın kokusu, kapasitesi ve çiftçi nakliye giderleri üzerine yürüyen tartışmayı değerlendirdi.
 
@@ -344,7 +456,7 @@ Erdoğan ayrıca geçen hafta İstanbul ve çevre illerde yaşanan aşırı yağ
 
 **Asayiş · Türkiye** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - CHP](https://www.sonmuhur.com/uc-ay-once-chp-genel-sekreter-yardimcisi-olarak-atanmisti-cukurova-belediyesine-yonelik-sorusturmada-tutuklandi)
 
-![](data/images/2d962c9a1f6e40de.jpg)
+![](data/images/2d962c9a1f6e40de-c.jpg)
 
 > Adana Cumhuriyet Başsavcılığı'nın soruşturmasında 19 Ekim'de 51 kişi hakkında gözaltı kararı verilmişti.
 
@@ -358,7 +470,7 @@ Gözaltına alınanlar arasında Çukurova Belediyesi'nin 2014-2024 arasındaki 
 
 **Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/ak-parti-eskisehir-il-baskani-gurhan-albayrak-eskisehiri-dunyaya-acmak-istiyoruz)
 
-![](data/images/888ea94b328cd618.jpg)
+![](data/images/888ea94b328cd618-c.jpg)
 
 > Albayrak, Brüksel temaslarının ardından THY'yi Eskişehir'e getirmek ve kenti uluslararası alanda tanıtmak istediklerini söyledi.
 
@@ -367,111 +479,5 @@ AK Parti Eskişehir İl Başkanı Gürhan Albayrak, Brüksel temaslarının ard�
 Albayrak'a göre platform DEİK Avrupa İş Dünyası Zirvesi'ne katıldı. Koç Holding CEO'su, Türk Hava Yolları yetkilileri, TÜRSAB Başkanı ve Türkiye'nin Brüksel büyükelçisiyle görüşüldü. THY yetkilileriyle Eskişehir Teknik Üniversitesi ile birlikte pilotaj eğitimleri ve motor bakımı konularının konuşulduğunu anlatan Albayrak, THY'nin Eskişehir'e gelmesini istediklerini belirtti.
 
 Albayrak, kasım sonu veya aralık başında vali, belediye başkanları ve oda başkanlarıyla yeniden Brüksel'e gitmeyi, nisan veya mayısta Brüksel'de Eskişehir Tanıtım Günleri düzenlemeyi ve haziran ya da temmuzda Eskişehir'de Gurbetçiler Festivali yapmayı planladıklarını söyledi. Çevre yolu ve Yenişehir-Gemlik bağlantısının öncelikli konular olduğunu belirten Albayrak, Ulaştırma Bakanlığı'ndan aldığı bilgiye göre bağlantı yolunun ihalesinin 2027'nin ilk çeyreğinde yapılmasının öngörüldüğünü aktardı.
-
----
-
-## AK Parti'li İnan: Erdoğan kasım ayında İzmir'e gelecek
-
-**Siyaset · Türkiye** · 2026-10-23 05:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.gundemebakis.com/cumhurbaskani-erdogan-izmire-geliyor-tarihi-mujdeleri-aciklayacak)
-
-![](data/images/c0547752a325bae2.jpg)
-
-> AK Parti Genel Sekreteri Eyyüp Kadir İnan, Cumhurbaşkanı Erdoğan'ın kasımda İzmir'i ziyaret edeceğini ve kente ilişkin açıklamalar yapacağını söyledi.
-
-AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, Çiğli Belediye Başkanı Onur Emrah Yıldız'ı ziyareti sırasında yaptığı açıklamada Cumhurbaşkanı Recep Tayyip Erdoğan'ın kasım ayı içinde İzmir'e geleceğini duyurdu.
-
-Gündeme Bakış'ın aktardığına göre İnan, Erdoğan'ın ziyaretinde İzmir'e ilişkin önemli açıklamalar yapacağını belirtti. İnan, "İzmir'in yıllardır beklediği, bu şehrin kaderine etki edecek çok büyük, tarihi müjdeleri bizzat Sayın Cumhurbaşkanımız buradan ilan edecekler" dedi. Müjdelerin içeriği hakkında bilgi verilmedi.
-
----
-
-## Tugay esnaf odalarıyla buluştu: İzmir'de su tarifesinde indirim yapılacak
-
-**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.milliyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-cumhurbaskani-erdogan-son-25-yila-damgasini-vurdu-7685571)
-
-![](data/images/f9a0dd55b3882800.jpg)
-
-> Cemil Tugay, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret etti. Su fiyatlarında indirim için Meclis'e teklif götüreceğini söyledi.
-
-İzmir Büyükşehir Belediye Başkanı Cemil Tugay, İzmir Esnaf ve Sanatkarlar Odaları Birliği'ni ziyaret ederek esnaf odası başkanlarıyla bir araya geldi. Milliyet'in aktardığına göre Tugay, esnafın iş birliği süreçlerinde öncelik verilmesi gereken kesimlerin başında geldiğini söyledi.
-
-Tugay, su fiyatlarında indirim için çalışma yaptıklarını belirterek, su faturalarında belirgin fark yaratacak bir tarife indirimini önümüzdeki Meclis'ten geçireceğini açıkladı. İzmir'in Türkiye'de toplu taşımanın en ucuz olduğu kent olduğunu söyleyen Tugay, önümüzdeki yıl toplu taşımaya zam yapmadan indirimleri çeşitlendirebileceklerini ifade etti.
-
-Tugay ayrıca bakanlarla görüştüğünü, kentin uzun yıllardır çözüm bekleyen sorunlarına hızlı ve kalıcı çözümler üretilmesi için çalıştıklarını anlattı. Cumhurbaşkanı Erdoğan hakkında da olumlu değerlendirmelerde bulunan Tugay, herkesin siyasi tercihinde özgür olduğunu söyledi.
-
----
-
-## Eskişehirspor taraftarına kombine kampanyası: 100 kişiye bilet hediye edilecek
-
-**Spor · Merkez** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.milliirade.com/nebi-hatipoglundan-taraftara-mujde-eskisehirspor-sevgini-anlat-kombineyi-kap)
-
-![](data/images/95724d58cdff0546.jpg)
-
-> AK Parti Eskişehir Milletvekili Nebi Hatipoğlu, #BirKoltukDaOna etiketiyle başlattığı kampanyada en etkili videoları çeken 100 taraftara kombine bilet verecek.
-
-AK Parti Eskişehir Milletvekili Nebi Hatipoğlu, sosyal medya hesabından Eskişehirspor taraftarlarına yönelik bir kampanya başlattı. Milli İrade Gazetesi'nin aktardığına göre #BirKoltukDaOna etiketiyle yürütülen kampanyada Eskişehirspor sevgisini en iyi anlatan 100 taraftara kombine bilet hediye edilecek.
-
-Katılmak isteyen taraftarların Eskişehirspor formasını giyip takıma olan sevgilerini anlatan kısa bir video çekmesi, videoyu X, Instagram veya Facebook hesabında #BirKoltukDaOna etiketiyle paylaşması ve Hatipoğlu'nun hesabını etiketlemesi gerekiyor. Katılımda hesapların taraftarın gerçek kimliğiyle örtüşmesi şartı aranıyor.
-
-Kampanyaya katılım için son tarih 23 Ekim Cuma. Kombine biletlerin 24 Ekim Cumartesi günü teslim edilmesi planlanıyor.
-
----
-
-## Cumhurbaşkanı Erdoğan, Türk Kızılay Genel Başkanı Fatma Meriç Yılmaz'ı kabul etti
-
-**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.adanapost.com/gundem/cumhurbaskani-erdogan-turk-kizilay-genel-baskani-prof-dr-fatma-meric-yilmazi-224698h)
-
-![](data/images/63a63026747bf5d1.jpg)
-
-> Kızılay Haftası öncesindeki kabulde Kızılay'ın insani yardım ve afete hazırlık çalışmaları Erdoğan'a anlatıldı.
-
-Türk Kızılay'ın Onursal Başkanı Cumhurbaşkanı Recep Tayyip Erdoğan, Kızılay Genel Başkanı Prof. Dr. Fatma Meriç Yılmaz'ı Cumhurbaşkanlığı Külliyesi'nde kabul etti.
-
-Türk Kızılay'ın sosyal medya hesabından yaptığı açıklamaya göre Kızılay Haftası öncesinde gerçekleşen kabulde, kurumun yurt içinde ve yurt dışında yürüttüğü insani yardım faaliyetleri, afetlere hazırlık çalışmaları, sosyal destek hizmetleri ve geleceğe yönelik hedefleri Erdoğan'a anlatıldı. Kızılay, Erdoğan'ın Kızılay Haftası vesilesiyle çalışanlara ve gönüllülere selam ve iyi dileklerini ilettiğini bildirdi.
-
----
-
-## CHP'li Tarhan: Avrupa'nın "Made in Europe" yaklaşımına Türkiye izlemekle yetinemez
-
-**Ekonomi · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - CHP](https://gazetekalem.com.tr/chpli-tarhandan-made-in-europe-uyarisi-turkiye-izlemekle-yetinemez/)
-
-![](data/images/00a1cd03695d51c7.jpg)
-
-> CHP Genel Başkan Yardımcısı Tahsin Tarhan, otomotiv ihracatının yaklaşık yüzde 72,5'inin AB'ye yapıldığını hatırlatarak hükümete yerli üretim çağrısı yaptı.
-
-CHP Genel Başkan Yardımcısı Tahsin Tarhan, Almanya ve Fransa'nın otomotiv sektörünü Çin rekabetine karşı korumak için başlattığı "Made in Europe" yaklaşımına ilişkin yazılı açıklama yaptı. Tarhan, Türkiye'nin buna karşı stratejik bir politika geliştirmemesinin kabul edilemez olduğunu söyledi.
-
-Tarhan, Türkiye'nin otomotiv ihracatının yaklaşık yüzde 72,5'inin AB ülkelerine yapıldığını hatırlatarak, Avrupa'nın kamu alımlarında ve desteklerde Avrupa'da üretilen araç ve parçalara avantaj tanıyan yeni bir sanayi politikası oluşturduğunu belirtti. Türkiye'nin Avrupa dışındaki bir üretici konumuna itilebileceği uyarısında bulundu.
-
-Hükümete çağrıda bulunan Tarhan, Türkiye'nin Brüksel nezdinde kendi üreticisinin Avrupa teşviklerinden ve kamu alımlarından dışlanmaması için müzakere yürütmesi gerektiğini ifade etti. Kamu kurumlarının araç alımlarında yerli üretim ve yüksek yerli katma değer önceliği getirilmesini önerdi. Tarhan, elektrikli araç, batarya, yazılım ve elektronik alanlarında yatırım yapılması gerektiğini de söyledi.
-
----
-
-## CHP MYK, iki İBB meclis üyesi ile Tarsus Belediye Başkanı'nı disipline sevk etti
-
-**Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - CHP](https://www.sondakika.com/amp/haber-chp-kurmaylari-iki-ibb-meclis-uyesinin-disipline-20354124/)
-
-![](data/images/dff90483b09488ea.jpg)
-
-> CHP Sözcüsü Müslim Sarı, İBB Meclis Üyesi Ülkü İnanlı, Grup Sözcüsü Melendiz Dalyan İzgi ve Ali Boltaç'ın kesin ihraç talebiyle disipline sevk edildiğini açıkladı.
-
-CHP Merkez Yönetim Kurulu (MYK), Genel Başkan Kemal Kılıçdaroğlu başkanlığında yaklaşık iki saat süren toplantı yaptı. Toplantının ardından CHP Sözcüsü Müslim Sarı, İBB Meclis Üyesi Ülkü İnanlı, İBB Grup Sözcüsü Melendiz Dalyan İzgi ve Tarsus Belediye Başkanı Ali Boltaç'ın kesin ihraç talebiyle disipline sevk edildiğini açıkladı.
-
-ANKA'nın haberine göre CHP'li kurmaylar, Türkiye Belediyeler Birliği'ndeki ortak tutumun İstanbul Büyükşehir Belediyesi'nde de sürmesinden yana olduklarını, ancak partinin kurumsal kimliğini zedelemeyeceklerini söyledi. Kurmaylar, İBB'deki meclis üyesi dağılımına dikkat çekerek olası bir başkan seçiminde tek bir oyun bile önemli olabileceğini belirtti.
-
-Toplantının ardından Millî Eğitim Bakanı Yusuf Tekin, CHP Genel Merkezi'ni ziyaret ederek Kılıçdaroğlu ile yaklaşık 10 dakika görüştü. Tekin'in Kılıçdaroğlu'nu kızının nikâhına davet ettiği aktarıldı.
-
----
-
-## Sağlık Bakanlığı'nın 38 bin personel alımı için başvuru tarihi henüz açıklanmadı
-
-**Sağlık · Türkiye** · 2026-10-23 03:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.afyonanahaber.com.tr/saglik/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-basvuru-tarihi-aciklandi-mi/402546)
-
-![](data/images/b371da1054182a78.jpg)
-
-> Cumhurbaşkanı Erdoğan 17 Ekim'de yıl bitmeden 38 bin hekim dışı personel alımı için ilana çıkılacağını duyurmuştu.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, 17 Ekim 2026'da yaptığı açıklamada, yıl bitmeden 38 bin hekim dışı personel alımı için ilana çıkılacağını bildirmişti. Afyon Ana Haber'in aktardığına göre 22 Ekim itibarıyla başvuruların başlayacağı tarih henüz açıklanmadı.
-
-Hangi meslek gruplarına kaç kişilik kontenjan ayrılacağı, başvuru şartları, eğitim düzeyleri ve KPSS koşulu gibi ayrıntılar da resmî ilanla belli olacak. Başvuruların hangi sistem üzerinden alınacağına ilişkin kesin bir açıklama da yapılmadı. Adayların Sağlık Bakanlığı ve ÖSYM tarafından yapılacak resmî duyuruları takip etmesi gerekiyor.
 
 ---
