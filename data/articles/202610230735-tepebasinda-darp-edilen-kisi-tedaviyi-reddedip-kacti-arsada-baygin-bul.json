@@ -20,9 +20,9 @@
     "url": "https://www.esgazete.com/eskisehirde-kanlar-icinde-kacti-arsada-bulundu"
   },
   "image": {
-    "file": "images/2246a965baeadc5a-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/2246a965baeadc5a-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:39th_MDG_Conducts_Mass_Influenza_Vaccination_(9347327).jpg",
+    "representative": true,
+    "credit": "U.S. Air Force photo by Senior Airman Greydon Furstenau / Wikimedia Commons (Public domain)"
   }
 }

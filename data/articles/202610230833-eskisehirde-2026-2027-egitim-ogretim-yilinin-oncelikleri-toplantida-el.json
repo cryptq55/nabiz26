@@ -20,9 +20,9 @@
     "url": "https://www.eskisehirekspres.net/eskisehirde-egitimde-yeni-donem-masaya-yatirildi"
   },
   "image": {
-    "file": "images/e5ee857edd4acde5-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/e5ee857edd4acde5-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anadolu_%C3%9Cniversitesi_Havac%C4%B1l%C4%B1k_Park%C4%B1_1.jpg",
+    "representative": true,
+    "credit": "Merhabaviki / Wikimedia Commons (CC0)"
   }
 }

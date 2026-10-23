@@ -20,9 +20,9 @@
     "url": "https://www.sakaryagazetesi.com.tr/eskisehirin-islek-noktasinda-korkutan-yangin"
   },
   "image": {
-    "file": "images/5d0783e281569c5b-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/5d0783e281569c5b-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chievres_Fire_Fighters_424th_Squadron_Turkish_Airbus_A400M_exercise_(4574565).jpg",
+    "representative": true,
+    "credit": "U.S. Army photo by Henri Cambier / Wikimedia Commons (Public domain)"
   }
 }

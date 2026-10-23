@@ -19,9 +19,9 @@
     "url": "https://www.sakaryagazetesi.com.tr/eskisehirde-hava-degisiyor-mu-meteoroloji-acikladi"
   },
   "image": {
-    "file": "images/7a17c0c295d390e0-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/7a17c0c295d390e0-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ataem_panorama_3500px.jpg",
+    "representative": true,
+    "credit": "Ardabalkan / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

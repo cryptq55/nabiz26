@@ -21,9 +21,9 @@
     "url": "https://www.milliyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-cumhurbaskani-erdogan-son-25-yila-damgasini-vurdu-7685571"
   },
   "image": {
-    "file": "images/f9a0dd55b3882800-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/f9a0dd55b3882800-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_OSCE_PA_Delegation_meets_with_the_Speaker_of_the_Grand_National_Assembly_of_Turkey.jpg",
+    "representative": true,
+    "credit": "OSCE Parliamentary Assembly / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

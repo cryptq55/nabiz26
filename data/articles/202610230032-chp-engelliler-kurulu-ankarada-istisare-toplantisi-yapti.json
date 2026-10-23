@@ -20,8 +20,9 @@
     "url": "https://www.fibhaber.com/chpli-taylan-simsekten-engelsiz-turkiye-cagrisi"
   },
   "image": {
-    "file": "images/1c18c15b12d396df.jpg",
-    "source_url": "",
-    "credit": "Nabız 26"
+    "file": "images/1c18c15b12d396df-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Turkey._Ankara._An_old_parliament_building._Bus_in_front_LOC_matpc.16726.jpg",
+    "representative": true,
+    "credit": "Matson Collection / Wikimedia Commons (Public domain)"
   }
 }

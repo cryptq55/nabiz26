@@ -21,9 +21,9 @@
     "url": "https://www.esgazete.com/kazim-kurtun-destegiyle-anneler-alaaddin-park-cafede-bulustu"
   },
   "image": {
-    "file": "images/b1929f19acc44087-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/b1929f19acc44087-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Odunpazar%C4%B1,_Eski%C5%9Fehir,_Turkey_02.jpg",
+    "representative": true,
+    "credit": "Murat Özsoy 1958 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

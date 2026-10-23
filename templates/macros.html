@@ -3,7 +3,7 @@
 {% if a.image %}
 <div class="cover photo {{ size }}" style="--c: {{ a.color }}">
   <img src="{{ base }}{{ a.image.file }}" alt="{{ a.title }}"{% if a.image.w %} width="{{ a.image.w }}" height="{{ a.image.h }}"{% endif %} {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async" onerror="this.parentNode.classList.remove('photo');this.remove()">
-  {% if a.image.ai %}<span class="ai-tag" title="Habere uygun olarak yapay zekâ ile üretilmiş temsilî görsel">Temsilî görsel</span>{% endif %}
+  {% if a.image.ai or a.image.representative %}<span class="ai-tag" title="Habere uygun temsilî fotoğraf; olayın kendisine ait değildir">Temsilî</span>{% endif %}
 </div>
 {% else %}
 <div class="cover {{ size }}" style="--c: {{ a.color }}" aria-hidden="true">

@@ -20,9 +20,9 @@
     "url": "https://www.sondakika.com/guncel/haber-eskisehir-odunpazari-nda-aractakiler-karsilikli-at-20357873/"
   },
   "image": {
-    "file": "images/1f55062965ed8eba-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/1f55062965ed8eba-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Police_car_in_B%C3%BCy%C3%BCkada_(Istanbul)_Turkey.JPG",
+    "representative": true,
+    "credit": "Dickelbers / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

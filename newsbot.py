@@ -526,33 +526,18 @@ def collect_queue(max_items, out_path):
     log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
 
 
-AI_IMAGE_URL = os.environ.get("NEWS_AI_IMAGE", "https://nabiz26-relay.cryptq.workers.dev/gorsel")
-AI_CREDIT = "Temsilî görsel (yapay zekâ)"
-
-
-def ai_image(article, out_path):
-    """Resmî fotoğrafı olmayan haber için temsilî görsel (relay/ Worker: Llama sahneyi tarif eder, FLUX üretir).
-    Gerçek kişi, yüz, yazı ve logo içermez; sitede ve sosyal medyada 'Temsilî görsel (yapay zekâ)' diye belirtilir."""
-    if not AI_IMAGE_URL:
-        return None
+def commons_image(article, out_path):
+    """Resmî fotoğrafı olmayan habere Wikimedia Commons'tan uygun, serbest lisanslı fotoğraf (commons.py)."""
     try:
-        r = requests.post(AI_IMAGE_URL, timeout=120, json={k: article.get(k, "") for k in ("title", "spot", "category", "district")})
-        if not r.ok or len(r.content) < 20000:
-            log(f"[uyarı] temsilî görsel üretilemedi ({r.status_code}): {article.get('title', '')[:60]}")
-            return None
-        from io import BytesIO
-        im = Image.open(BytesIO(r.content)).convert("RGB")
-        w, h = im.size
-        im = im.crop((0, int(h * 0.12), w, int(h * 0.12) + int(w / 1.6)))  # 16:10, üstten biraz kırp
-        im.save(out_path, "JPEG", quality=84, optimize=True, progressive=True)
-        return {"file": f"images/{Path(out_path).name}", "source_url": "", "credit": AI_CREDIT, "ai": True}
+        import commons
+        return commons.fetch(article, out_path)
     except Exception as e:
-        log(f"[uyarı] temsilî görsel hatası: {str(e)[:150]}")
+        log(f"[uyarı] Commons fotoğrafı alınamadı: {str(e)[:150]}")
         return None
 
 
 def fill_images(limit=40):
-    """Kota dolduğu için yazılı kapakla yayınlanmış haberlere sonradan temsilî görsel ekler (en yeniler önce).
+    """Yazılı kapakla ya da yapay zekâ görseliyle yayınlanmış haberlere Commons'tan temsilî fotoğraf koyar (en yeniler önce).
     Yalnızca görsel alanı değişir; haber metnine dokunulmaz. Altın fiyatı tablosu kapakları olduğu gibi kalır."""
     done = 0
     for f in sorted(ARTICLES_DIR.glob("*.json"), reverse=True):
@@ -560,11 +545,11 @@ def fill_images(limit=40):
             break
         a = json.loads(f.read_text(encoding="utf-8"))
         img = a.get("image") or {}
-        if img.get("credit") != "Nabız 26" or "altın" in a["title"].lower():
+        if not (img.get("credit") == "Nabız 26" or img.get("ai")) or "altın" in a["title"].lower():
             continue
-        res = ai_image(a, IMAGES_DIR / f"{Path(img['file']).stem}-ai.jpg")
+        res = commons_image(a, IMAGES_DIR / f"{Path(img['file']).stem.replace('-ai', '')}-c.jpg")
         if not res:
-            break  # kota doldu: sonraki çalışmada devam
+            continue
         a["image"] = res
         f.write_text(json.dumps(a, ensure_ascii=False, indent=2), encoding="utf-8")
         done += 1
@@ -656,11 +641,12 @@ def save_decisions(queue_path, decisions_path):
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
             continue
         if not c.get("image") and c.get("brand_cover"):
-            # Gazete fotoğrafı kullanılamaz: önce habere uygun temsilî görsel (yapay zekâ), olmazsa kendi kapağımız
+            # Gazete fotoğrafı kullanılamaz (telif): habere uygun serbest lisanslı fotoğraf (Wikimedia Commons),
+            # bulunamazsa kendi kapağımız
             IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-            ai = ai_image(article, IMAGES_DIR / f"{key}.jpg")
-            if ai:
-                c["image"] = ai
+            rep = commons_image(article, IMAGES_DIR / f"{key}.jpg")
+            if rep:
+                c["image"] = rep
         if not c.get("image") and c.get("brand_cover"):
             from social import topic_card
             label, color = {"togg": ("Togg", "#059669"), "siyaset": ("Siyaset", "#b91c1c"),

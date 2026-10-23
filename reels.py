@@ -226,9 +226,11 @@ def layers(a, image_path):
     # Logo (fotoğraf kartının sol üst köşesinde, koyu zemin üstünde)
     logo = Image.new("RGBA", (420, 130), (0, 0, 0, 0))
     brand(ImageDraw.Draw(logo), 26, 22, 56, backing=True)
-    if (a.get("image") or {}).get("ai"):
+    img_meta = a.get("image") or {}
+    if img_meta.get("ai") or img_meta.get("representative"):
         from social import ai_tag
-        ai_tag(ImageDraw.Draw(big), big.width - 24, big.height - 22)  # kaydırma payı içinde de görünür kalsın
+        ai_tag(ImageDraw.Draw(big), big.width - 24, big.height - 22,  # kaydırma payı içinde de görünür kalsın
+               text="Temsilî fotoğraf" if img_meta.get("representative") else None)
     if own_cover(a):
         logo = Image.new("RGBA", (1, 1), (0, 0, 0, 0))  # kapağın kendi logosu var
     return {"bg": bg, "big": big, "mask": rounded_mask(cw, ch, 34), "head": head, "head_h": head_h, "logo": logo}

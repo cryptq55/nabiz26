@@ -177,17 +177,17 @@ def framed(a, image_path, W, H, photo_h):
         photo = top_shade(photo, 240)
     im.paste(photo, (0, 0))
     d = ImageDraw.Draw(im)
-    if (a.get("image") or {}).get("ai"):
-        ai_tag(d, W - 24, photo_h - 22)
+    if (a.get("image") or {}).get("ai") or (a.get("image") or {}).get("representative"):
+        ai_tag(d, W - 24, photo_h - 22, text="Temsilî fotoğraf" if (a.get("image") or {}).get("representative") else None)
     # Fotoğrafla zemin arasında kategori renginde ince şerit
     d.rectangle((0, photo_h, W, photo_h + 10), fill=hex_rgb(a["color"]))
     return im, d
 
 
-def ai_tag(d, right, bottom, size=24):
-    """Yapay zekâ ile üretilmiş temsilî görsellerin köşesine konan açıklama etiketi."""
+def ai_tag(d, right, bottom, size=24, text=None):
+    """Temsilî görsellerin (Commons fotoğrafı ya da yapay zekâ) köşesine konan açıklama etiketi."""
     f = font("Inter.ttf", size, 700)
-    t = "Temsilî görsel · yapay zekâ"
+    t = text or "Temsilî görsel · yapay zekâ"
     w = d.textlength(t, font=f)
     d.rounded_rectangle((right - w - 28, bottom - size - 18, right, bottom), radius=12, fill=(12, 11, 16))
     d.text((right - 14, bottom - 9), t, font=f, fill=(230, 226, 235), anchor="rs")

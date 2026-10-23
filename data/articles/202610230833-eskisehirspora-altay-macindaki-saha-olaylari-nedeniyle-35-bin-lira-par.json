@@ -20,9 +20,9 @@
     "url": "https://www.istikbalgazetesi.com/eskisehirspora-para-cezasi-1"
   },
   "image": {
-    "file": "images/62c235d48f528141-ai.jpg",
-    "source_url": "",
-    "credit": "Temsilî görsel (yapay zekâ)",
-    "ai": true
+    "file": "images/62c235d48f528141-c.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E_Arslan_2010_eskisehirspor_rankings.jpg",
+    "representative": true,
+    "credit": "Ercan Arslan / Wikimedia Commons (Public domain)"
   }
 }
