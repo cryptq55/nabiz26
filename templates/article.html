@@ -19,7 +19,7 @@
   {% if a.image %}
   <figure class="story-photo">
     {{ cover(a, "xl", True) }}
-    <figcaption>Fotoğraf: {{ a.image.credit }}</figcaption>
+    <figcaption>{% if a.image.ai %}Temsilî görsel: habere uygun olarak yapay zekâ ile üretilmiştir, olayın kendisine ait değildir.{% else %}Fotoğraf: {{ a.image.credit }}{% endif %}</figcaption>
   </figure>
   {% else %}{{ cover(a, "xl") }}{% endif %}
   <div class="prose">

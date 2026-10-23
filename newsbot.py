@@ -526,6 +526,51 @@ def collect_queue(max_items, out_path):
     log(f"{len(queue)} kaynak yazılmak üzere {out_path} dosyasına çıkarıldı.")
 
 
+AI_IMAGE_URL = os.environ.get("NEWS_AI_IMAGE", "https://nabiz26-relay.cryptq.workers.dev/gorsel")
+AI_CREDIT = "Temsilî görsel (yapay zekâ)"
+
+
+def ai_image(article, out_path):
+    """Resmî fotoğrafı olmayan haber için temsilî görsel (relay/ Worker: Llama sahneyi tarif eder, FLUX üretir).
+    Gerçek kişi, yüz, yazı ve logo içermez; sitede ve sosyal medyada 'Temsilî görsel (yapay zekâ)' diye belirtilir."""
+    if not AI_IMAGE_URL:
+        return None
+    try:
+        r = requests.post(AI_IMAGE_URL, timeout=120, json={k: article.get(k, "") for k in ("title", "spot", "category", "district")})
+        if not r.ok or len(r.content) < 20000:
+            log(f"[uyarı] temsilî görsel üretilemedi ({r.status_code}): {article.get('title', '')[:60]}")
+            return None
+        from io import BytesIO
+        im = Image.open(BytesIO(r.content)).convert("RGB")
+        w, h = im.size
+        im = im.crop((0, int(h * 0.12), w, int(h * 0.12) + int(w / 1.6)))  # 16:10, üstten biraz kırp
+        im.save(out_path, "JPEG", quality=84, optimize=True, progressive=True)
+        return {"file": f"images/{Path(out_path).name}", "source_url": "", "credit": AI_CREDIT, "ai": True}
+    except Exception as e:
+        log(f"[uyarı] temsilî görsel hatası: {str(e)[:150]}")
+        return None
+
+
+def fill_images(limit=40):
+    """Kota dolduğu için yazılı kapakla yayınlanmış haberlere sonradan temsilî görsel ekler (en yeniler önce).
+    Yalnızca görsel alanı değişir; haber metnine dokunulmaz. Altın fiyatı tablosu kapakları olduğu gibi kalır."""
+    done = 0
+    for f in sorted(ARTICLES_DIR.glob("*.json"), reverse=True):
+        if done >= limit:
+            break
+        a = json.loads(f.read_text(encoding="utf-8"))
+        img = a.get("image") or {}
+        if img.get("credit") != "Nabız 26" or "altın" in a["title"].lower():
+            continue
+        res = ai_image(a, IMAGES_DIR / f"{Path(img['file']).stem}-ai.jpg")
+        if not res:
+            break  # kota doldu: sonraki çalışmada devam
+        a["image"] = res
+        f.write_text(json.dumps(a, ensure_ascii=False, indent=2), encoding="utf-8")
+        done += 1
+    log(f"{done} habere temsilî görsel eklendi.")
+
+
 def write_article_gemini(candidate, source_text, recent):
     """Yedek yazar: Google Gemini (ücretsiz kota, GEMINI_API_KEY). Anthropic kredisi yokken devreye girer."""
     user_msg = (
@@ -611,9 +656,13 @@ def save_decisions(queue_path, decisions_path):
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
             continue
         if not c.get("image") and c.get("brand_cover"):
-            # Gazete fotoğrafı kullanılamaz; kendi tasarımımız olan konu kapağını üret
-            from social import topic_card
+            # Gazete fotoğrafı kullanılamaz: önce habere uygun temsilî görsel (yapay zekâ), olmazsa kendi kapağımız
             IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+            ai = ai_image(article, IMAGES_DIR / f"{key}.jpg")
+            if ai:
+                c["image"] = ai
+        if not c.get("image") and c.get("brand_cover"):
+            from social import topic_card
             label, color = {"togg": ("Togg", "#059669"), "siyaset": ("Siyaset", "#b91c1c"),
                             "bakanlik": ("Türkiye", "#1d4ed8"), "yerel": ("Eskişehir", "#e11d48")}.get(c.get("topic"), ("Nabız", "#e11d48"))
             topic_card(IMAGES_DIR / f"{key}.jpg", article["title"], label, color, note="Görsel: Nabız 26")
@@ -658,6 +707,7 @@ def main():
     parser.add_argument("--save", nargs=2, metavar=("KUYRUK.json", "KARARLAR.json"), help="oturum modu: kararları kaydet")
     parser.add_argument("--rules", action="store_true", help="editör kurallarını ve karar şemasını yazdır")
     parser.add_argument("--auto", action="store_true", help="yedek masa: topla + API ile yaz + kaydet")
+    parser.add_argument("--fill-images", type=int, metavar="N", help="kapaklı haberlere temsilî görsel ekle")
     args = parser.parse_args()
     if args.rules:
         print(SYSTEM_PROMPT + "\n\nKarar şeması (JSON Schema):\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False, indent=2))
@@ -668,6 +718,8 @@ def main():
         return save_decisions(*args.save)
     if args.auto:
         return auto_run(args.max)
+    if args.fill_images:
+        return fill_images(args.fill_images)
 
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     seen = load_seen()

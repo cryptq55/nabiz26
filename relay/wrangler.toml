@@ -11,3 +11,7 @@ class_name = "Fetcher"
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["Fetcher"]
+
+# Temsilî haber görselleri (Workers AI, ücretsiz günlük kota)
+[ai]
+binding = "AI"
