@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## AK Parti'li İnan: Erdoğan kasım ayında İzmir'e gelecek
+
+**Siyaset · Türkiye** · 2026-10-23 05:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.gundemebakis.com/cumhurbaskani-erdogan-izmire-geliyor-tarihi-mujdeleri-aciklayacak)
+
+![](data/images/c0547752a325bae2.jpg)
+
+> AK Parti Genel Sekreteri Eyyüp Kadir İnan, Cumhurbaşkanı Erdoğan'ın kasımda İzmir'i ziyaret edeceğini ve kente ilişkin açıklamalar yapacağını söyledi.
+
+AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, Çiğli Belediye Başkanı Onur Emrah Yıldız'ı ziyareti sırasında yaptığı açıklamada Cumhurbaşkanı Recep Tayyip Erdoğan'ın kasım ayı içinde İzmir'e geleceğini duyurdu.
+
+Gündeme Bakış'ın aktardığına göre İnan, Erdoğan'ın ziyaretinde İzmir'e ilişkin önemli açıklamalar yapacağını belirtti. İnan, "İzmir'in yıllardır beklediği, bu şehrin kaderine etki edecek çok büyük, tarihi müjdeleri bizzat Sayın Cumhurbaşkanımız buradan ilan edecekler" dedi. Müjdelerin içeriği hakkında bilgi verilmedi.
+
+---
+
 ## Tugay esnaf odalarıyla buluştu: İzmir'de su tarifesinde indirim yapılacak
 
 **Siyaset · Türkiye** · 2026-10-23 04:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.milliyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-cumhurbaskani-erdogan-son-25-yila-damgasini-vurdu-7685571)
@@ -455,21 +469,5 @@ Eskişehir İl Jandarma Komutanlığı ekipleri, tefecilik yaparak haksız kazan
 Aramalarda 2 bin 137 tabanca fişeği, dolu senet, 3 çek, 83 boş senet, 7 alacak-verecek defteri, muhtelif mali belgeler, Roma dönemine ait olduğu değerlendirilen bir sikke ve 4 cep telefonu ele geçirildi.
 
 Gözaltına alınan şüpheliler hakkında tefecilik suçu kapsamında işlem başlatıldı.
-
----
-
-## Cumhurbaşkanı Erdoğan, Bulgaristan Başbakanı Radev ile telefonda görüştü
-
-**Siyaset · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-bulgaristan-basbakani-radev-ile-gorusmesine-iliskin-aciklama)
-
-![](data/images/2d04c8b7fa3f0a1b.jpg)
-
-> Erdoğan, Radev'i 11-12 Kasım'da Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne davet etti.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Bulgaristan Başbakanı Rumen Radev ile telefon görüşmesi yaptı. İletişim Başkanlığı'nın açıklamasına göre liderler, Türkiye-Bulgaristan ikili ilişkilerini ve bölgesel ile küresel konuları ele aldı.
-
-Erdoğan, ticaret başta olmak üzere iş birliğini artıracak somut adımlar atmaya devam edeceklerini belirtti. Karadeniz'de seyrüsefer emniyetini sağlamak için Rusya ve Ukrayna ile temaslar yürüttüklerini söyleyen Erdoğan, Bulgaristan'ın Münhasır Ekonomik Bölgesi'nde gerçekleşen SİHA saldırısından üzüntü duyduğunu ifade ederek geçmiş olsun dileklerini iletti.
-
-Erdoğan, Radev'i 11-12 Kasım'da Antalya'da düzenlenecek COP31 Liderler Zirvesi'ne de davet etti.
 
 ---
