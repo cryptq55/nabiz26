@@ -18,7 +18,8 @@
     "title": "Eskişehir Büyükşehir perdeyi açıyor - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehir-buyuksehir-perdeyi-aciyor"
   },
-  "image": {
+  "image": null,
+  "image_hidden": {
     "file": "images/9ab171f6f12eda83.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Diyarbak%C4%B1rspor-Eskisehirspor2.jpg",
     "representative": true,

@@ -19,7 +19,8 @@
     "title": "Bal kabağından şaşırtan lezzetler! - Sakarya Gazetesi",
     "url": "https://www.sakaryagazetesi.com.tr/bal-kabagindan-sasirtan-lezzetler"
   },
-  "image": {
+  "image": null,
+  "image_hidden": {
     "file": "images/c836e1e4f9730caf.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Cattle_Vaccination_Application_Area.png",
     "representative": true,

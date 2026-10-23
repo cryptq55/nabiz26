@@ -21,11 +21,12 @@
     "title": "Eskişehir'de bir festival daha iptal edildi",
     "url": "https://www.eskisehir.net/eskisehirde-bir-festival-daha-iptal-edildi"
   },
-  "image": {
+  "image": null,
+  "updated_at": "2026-10-22T14:37:19.132632+00:00",
+  "image_hidden": {
     "file": "images/festival-iptalleri-20261022-c.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Eskisehir_Odunpazari_Art_Museum.jpg",
     "representative": true,
     "credit": "Honacan / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  "updated_at": "2026-10-22T14:37:19.132632+00:00"
+  }
 }

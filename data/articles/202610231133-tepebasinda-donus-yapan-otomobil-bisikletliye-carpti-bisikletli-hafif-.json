@@ -19,7 +19,8 @@
     "title": "Eskişehir'de kaza: Dönüş yapmak istedi, bisiklet yolunda sürücüyü önüne kattı - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/eskisehirde-kaza-donus-yapmak-istedi-bisiklet-yolunda-surucuyu-onune-katti"
   },
-  "image": {
+  "image": null,
+  "image_hidden": {
     "file": "images/b05b11f6decdacbb.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Yaz%C4%B1l%C4%B1kaya_-_Midas_city,_Eski%C5%9Fehir_09.jpg",
     "representative": true,

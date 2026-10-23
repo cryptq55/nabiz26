@@ -131,17 +131,17 @@ def wikipedia_image(query):
 
 
 def _ordered(queries):
-    """Aday sırası: her sorgu için önce olaya/konuya özel Commons sonucu, sonra tek kişilik portre ("cropped"),
-    sonra Wikidata/Vikipedi ana görseli, en son genel Commons araması."""
+    """Aday sırası: her sorgu için önce olaya/konuya özel Commons sonucu, sonra Wikidata/Vikipedi ana görseli,
+    sonra kırpılmış portre ("cropped"), en son genel Commons araması."""
     seen = set()
     for q in queries:
         for c in candidates(q)[:3] if len(q.split()) > 3 else []:  # uzun sorgu = olaya özel (ör. iki kişinin görüşmesi)
             yield c
-        for c in candidates(f"{q} cropped")[:3]:
-            yield c
-        for c in (wikidata_image(q), wikipedia_image(q)):
+        for c in (wikidata_image(q), wikipedia_image(q)):  # topluluğun seçtiği tek kişilik/temsil edici görsel
             if c:
                 yield c
+        for c in candidates(f"{q} cropped")[:3]:
+            yield c
         for c in candidates(q)[:4]:
             yield c
 

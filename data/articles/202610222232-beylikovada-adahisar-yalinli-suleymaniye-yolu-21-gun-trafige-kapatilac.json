@@ -20,7 +20,8 @@
     "title": "Eskişehir'de o yol 21 gün boyunca trafiğe kapatılacak - Gzt26",
     "url": "https://www.gzt26.com/eskisehirde-o-yol-21-gun-boyunca-trafige-kapatilacak"
   },
-  "image": {
+  "image": null,
+  "image_hidden": {
     "file": "images/a909fba288bce3b3-c.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Eskisehir_Gokmeydan_tramvay.JPG",
     "representative": true,

@@ -19,7 +19,8 @@
     "title": "CHP’li Taylan Şimşek’ten Engelsiz Türkiye Çağrısı - Fibhaber",
     "url": "https://www.fibhaber.com/chpli-taylan-simsekten-engelsiz-turkiye-cagrisi"
   },
-  "image": {
+  "image": null,
+  "image_hidden": {
     "file": "images/1c18c15b12d396df-c.jpg",
     "source_url": "https://commons.wikimedia.org/wiki/File:Turkey._Ankara._An_old_parliament_building._Bus_in_front_LOC_matpc.16726.jpg",
     "representative": true,
