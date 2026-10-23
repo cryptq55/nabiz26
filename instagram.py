@@ -31,7 +31,8 @@ MAX_STORIES = 2   # tur başına
 DAILY_CAP = 22    # 24 saatte en fazla paylaşım (yeni hesapta Instagram'ın fiili sınırı API'nin söylediğinden düşük);
                   # günlük iki video bülten için birkaç hak ayrıca boş kalır
 MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
-MAX_REELS = 2     # tur başına; yalnızca editörün "reel" işaretlediği (önemli ve izlenecek) haberler
+MAX_REELS = 1     # tur başına
+REELS_PER_DAY = 8  # 24 saatte en fazla Reels (videolu haber > editörün "izlenecek" dedikleri > önemli yerel haberler)
 POST_MIN = 3      # fotoğraf gönderisi için en düşük önem puanı
 
 
@@ -155,16 +156,29 @@ def main():
     failed = set()
     if os.environ.get("R2_BUCKET") and left > 0:
         # Kaynağın kendi videosu olan haberler her zaman Reels olur ve önce gelir; sonra editörün "izlenecek" dedikleri
-        cands = [f for f in feed[:12] if f["slug"] not in state["reels"]
-                 and (f.get("video") or (f["has_photo"] and f.get("reel") and (f.get("local", True) or imp(f) >= 5)))]
+        # Yedek olarak: kendi fotoğrafı olan önemli yerel haberler (gün boyu video akışı dursun diye, günde en fazla 8 Reels)
+        reels_today = len([t for t in state.get("reel_log", []) if now - t < 86400])
+        def score(f):
+            if f.get("video"):
+                return 3
+            if f["has_photo"] and f.get("reel") and (f.get("local", True) or imp(f) >= 5):
+                return 2
+            if f["has_photo"] and not f.get("own_cover") and f.get("local", True) and imp(f) >= 3:
+                return 1
+            if f.get("own_cover") and f.get("local", True) and imp(f) >= 4:
+                return 0.5  # kendi kapağımızla (kesinti, kaza gibi önemli yerel haberler)
+            return 0
+        cands = [f for f in feed[:15] if f["slug"] not in state["reels"] and score(f)]
+        room = min(MAX_REELS, max(0, left), max(0, REELS_PER_DAY - reels_today))
         picks = ([f for f in feed if forced in f["slug"]][:1] if forced else
-                 sorted(cands, key=lambda f: (bool(f.get("video")), imp(f)), reverse=True)[:min(MAX_REELS, max(0, left))])
+                 sorted(cands, key=lambda f: (score(f), imp(f)), reverse=True)[:room])
         for f in picks:
             try:
                 url = make_reel_video(f["slug"])
                 mid = publish(user, tries=60, media_type="REELS", video_url=url, caption=f["caption"], share_to_feed="true")
                 print("reels:", f["slug"], mid)
                 state["log"].append(time.time())
+                state.setdefault("reel_log", []).append(time.time())
                 left -= 1
             except Exception as e:
                 print("reels hatası:", f["slug"], str(e)[:300], file=sys.stderr)
@@ -204,6 +218,7 @@ def main():
             state["stories"].append(f["slug"])
     for k in ("stories", "posts", "reels"):
         state[k] = state[k][-500:]
+    state["reel_log"] = [t for t in state.get("reel_log", []) if time.time() - t < 86400]
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
