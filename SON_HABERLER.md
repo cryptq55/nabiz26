@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Sağlık Bakanlığı'nın 38 bin personel alımı için başvuru tarihi henüz açıklanmadı
+
+**Sağlık · Türkiye** · 2026-10-23 03:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.afyonanahaber.com.tr/saglik/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-basvuru-tarihi-aciklandi-mi/402546)
+
+![](data/images/b371da1054182a78.jpg)
+
+> Cumhurbaşkanı Erdoğan 17 Ekim'de yıl bitmeden 38 bin hekim dışı personel alımı için ilana çıkılacağını duyurmuştu.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, 17 Ekim 2026'da yaptığı açıklamada, yıl bitmeden 38 bin hekim dışı personel alımı için ilana çıkılacağını bildirmişti. Afyon Ana Haber'in aktardığına göre 22 Ekim itibarıyla başvuruların başlayacağı tarih henüz açıklanmadı.
+
+Hangi meslek gruplarına kaç kişilik kontenjan ayrılacağı, başvuru şartları, eğitim düzeyleri ve KPSS koşulu gibi ayrıntılar da resmî ilanla belli olacak. Başvuruların hangi sistem üzerinden alınacağına ilişkin kesin bir açıklama da yapılmadı. Adayların Sağlık Bakanlığı ve ÖSYM tarafından yapılacak resmî duyuruları takip etmesi gerekiyor.
+
+---
+
+## Eskişehir merkezli tefecilik operasyonu: 5 şüpheli yakalandı, 2'si tutuklandı
+
+**Asayiş · Merkez** · 2026-10-23 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.malatyaguncel.com/eskisehir-merkezli-3-ilde-60-milyon-liralik-tefeci-3118283h.htm)
+
+![](data/images/7db24b8298b15a5f.jpg)
+
+> Eskişehir, İstanbul ve Bursa'da eş zamanlı yapılan operasyonda yüksek faizle borç verdiği belirlenen 5 şüpheli yakalandı.
+
+Eskişehir Cumhuriyet Başsavcılığı koordinesinde İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü ekiplerince yürütülen çalışmada, yüksek faizle borç vererek vatandaşları mağdur ettikleri belirlenen şüphelilere yönelik operasyon düzenlendi. İLKHA'nın aktardığına göre operasyon Eskişehir merkezli olarak İstanbul ve Bursa'da eş zamanlı yapıldı ve 5 şüpheli yakalandı.
+
+Şüphelilerin vadeli araç satışı adı altında, senet karşılığında, havale/EFT yoluyla veya elden yüksek faizle para verdikleri, borçlarını ödeyemeyen vatandaşları baskı ve tehditle mağdur ettikleri belirlendi. Şüphelilerin bu yöntemle esnaf ve vatandaşlardan icra yoluyla yaklaşık 60 milyon lira alacaklı oldukları tespit edildi.
+
+Emniyetteki işlemlerinin ardından 22 Ekim'de adli makamlara sevk edilen şüphelilerden 2'si tutuklandı, 2'si adli kontrol şartıyla serbest bırakıldı.
+
+---
+
 ## Senetli alışverişte yeni taksit sınırları: Televizyonda 4, mobilyada 9 aya kadar
 
 **Ekonomi · Türkiye** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursadabugun.com/haber/taksitle-alisveris-yapacaklar-dikkat-bakanlik-urun-urun-yeni-vade-sinirlarini-acikladi-1958361.html)
@@ -443,37 +473,5 @@ Ortak basın toplantısında konuşan Erdoğan, ilişkilerin stratejik ortaklık
 Ticaret Bakanlığı, cep telefonu taksit düzenlemesinin sıfır ve yenilenmiş telefonlara yönelik vade ve limit koşullarını kapsadığını duyurdu. Bakanlığın açıklamasına göre, 15 Ekim 2026 tarihli ve 33401 sayılı Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle verilen yetki kapsamında telefonların taksit süreleri ve tutar sınırları güncellendi.
 
 Güncelleme, Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kararlarıyla uyumlu olacak şekilde yapıldı. Bakanlık, telefonlar dışındaki ürün gruplarında mevcut taksit sürelerinin, taksit uygulamasındaki tutarların ve geçerli sınırlamaların aynen korunduğunu bildirdi.
-
----
-
-## MEB, "Söz Varlığı Bilgi Ağı" projesini tanıttı
-
-**Eğitim · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotmeb-soz-varligi-bilgi-agiquot-tanitim-programi-bakan-tekin039in-katilimiyla-gerceklesti/haber/42261/tr)
-
-![](data/images/8ead7cb980a23172.jpg)
-
-> Millî Eğitim Bakanlığı, ders kitapları ve öğretim programlarında kullanılan kelimelerin envanterini oluşturan "MEB Söz Varlığı Bilgi Ağı"nı Bakan Tekin'in katılımıyla tanıttı.
-
-Millî Eğitim Bakanlığı (MEB), Talim ve Terbiye Kurulu Başkanlığı Maarif Salonu'nda "MEB Söz Varlığı Bilgi Ağı Tanıtım Programı" düzenledi. Programa Bakan Yusuf Tekin, Bakan Yardımcısı Ömer Faruk Yelkenci ve ÖSYM Başkanı Bayram Ali Ersoy katıldı.
-
-Tekin, ders kitapları ve öğretim programlarında hangi kelimelerin kullanıldığına ilişkin bir envanter oluşturduklarını, bu envanterin öğretmenler için kullanışlı olacağını söyledi. Projenin ÖSYM, Yunus Emre Enstitüsü ve Türk Dil Kurumu için de önemli bir veri kaynağı olacağını belirten Tekin, çalışmada kelimelerden türetilen yeni kelimelerin ve gündelik ihtiyaçlara göre üretilmesi gereken kelimelerin de ele alındığını aktardı.
-
-Bakan Tekin, Türkçe ve Türk dili ve edebiyatı derslerinde geçme notunu yükselttiklerini, bu derslerin ölçme-değerlendirme yöntemini dört beceri üzerine yeniden kurguladıklarını söyledi. Projenin Türk devletleri coğrafyasında ortak kavramsal dilin oluşturulması için bir başlangıç noktası olabileceğini de ifade etti.
-
----
-
-## Kılıçdaroğlu: Siyasi ahlak yasası çıkarılmalı
-
-**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - CHP](https://www.indyturk.com/node/784194)
-
-![](data/images/f36b10f8c6b16de0.jpg)
-
-> CHP Genel Başkanı Kemal Kılıçdaroğlu, televizyonların Ankara temsilcileriyle yaptığı toplantıda siyasi ahlak veya etik kanunu çağrısı yaptı.
-
-CHP Genel Başkanı Kemal Kılıçdaroğlu, televizyonların Ankara temsilcileriyle bir araya geldi. Kılıçdaroğlu, siyaset kurumunun kirlendiğini söylediği bir ortamda Türkiye'yi temizlemenin yine siyaset kurumuna düştüğünü belirtti.
-
-Kılıçdaroğlu, Cumhurbaşkanı Erdoğan'ın Meclis açılış konuşmasında anayasa değişikliğinden söz ettiğini hatırlatarak, kendisinin önce bir siyasi ahlak yasasının çıkması gerektiğini söylediğini aktardı. Adı ne olursa olsun, temel ilkeleri ve kuralları olan bir siyasi ahlak ya da etik kanununa ihtiyaç olduğunu belirten Kılıçdaroğlu, devlet memurları için kurallar bulunduğunu, 600 milletvekili için de aynı ilkelerin olması gerektiğini ifade etti. Bunun yalnızca CHP'nin talebi olarak görülmemesini isteyen Kılıçdaroğlu, her partiden milletvekillerinin, grup başkanlarının ve grup başkanvekillerinin bir araya gelmesi çağrısında bulundu.
-
-Habertürk'ün aktardığına göre Kılıçdaroğlu, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın istifasına ilişkin soruya, Yavaş'ın bağımsız olarak görevini sürdürdüğünü, istifasına üzüldüğünü ve belediye başkanlarının hizmet ettiklerini ayrım gözetmeden yönetmeleri gerektiğini söyleyerek yanıt verdi.
 
 ---
