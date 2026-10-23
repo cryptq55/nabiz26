@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de 462 kamu yatırım projesinin 70'i tamamlandı
+
+**Gündem · Merkez** · 2026-10-23 15:34 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-baskanliginda-ekim-ayi-il-koordinasyon-kurulu-toplantisi-gerceklestirildi)
+
+![](data/images/10478a4e9f0a37fc.jpg)
+
+> Vali Yılmaz başkanlığındaki Ekim ayı İl Koordinasyon Kurulu toplantısında yatırımların durumu değerlendirildi.
+
+2026 yılının dördüncü (Ekim ayı) İl Koordinasyon Kurulu Toplantısı, Vali Dr. Erdinç Yılmaz başkanlığında kurul üyelerinin katılımıyla yapıldı. Toplantı, kamu yatırımlarının il düzeyinde uygulanması, izlenmesi ve koordinasyonunun sağlanması amacıyla düzenlendi.
+
+Vali Yılmaz, İLYAS (İl Yatırım Takip Sistemi) verilerine göre 2026 yılı üçüncü dönem sonu itibarıyla ilde çeşitli sektörlerde yapılan ve yapılması planlanan 462 proje bulunduğunu söyledi. Bu projelerin 70'inin tamamlandığını, 270'inin devam ettiğini, 15'inin ihale aşamasında olduğunu ve 103 projeye başlanacağını belirtti.
+
+Yılmaz, koordinasyon gerektiren sorun ve ihtiyaçların toplantıda gündeme getirilmesinin önemine değindi, kurumların alınan kararları çözümlemede gerekli itinayı göstermesini istedi. Toplantı, kurul üyelerinin sunumlarının ardından sona erdi.
+
+---
+
+## Bakan Tekin İstanbul'da Kadıköy Lisesi ve Ziya Kalkavan Denizcilik Lisesi'ni ziyaret etti
+
+**Eğitim · Türkiye** · 2026-10-23 15:34 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-istanbul039da-ogrencilerle-ve-ogretmenlerle-bulustu/haber/42281/tr)
+
+![](data/images/aff51440784c8c13.jpg)
+
+> Tekin, öğrencilerin derslerine katıldı, sorularını yanıtladı ve bayrak törenine katıldı.
+
+Millî Eğitim Bakanı Yusuf Tekin, İstanbul'da Kadıköy Lisesi'ni ziyaret etti. Tekin sınıfları gezerek öğrencilerin derslerine katıldı, sorularını yanıtladı ve öğrencilerle hatıra fotoğrafı çektirdi.
+
+Ardından Beşiktaş'taki Ziya Kalkavan Denizcilik Mesleki ve Teknik Anadolu Lisesi'ni ziyaret eden Tekin, öğrencilerden çalışmaları hakkında bilgi aldı, öğretmenler odasında eğitimcilerle bir araya geldi. Okulda düzenlenen bayrak törenine katılan Tekin, öğrencilere iyi tatiller diledi.
+
+Tekin, "Ülkemizin ekonomik ve toplumsal kalkınmasında kritik bir role sahip olan meslek liselerimizi ve sevgili gençlerimizi güçlendirmeye devam edeceğiz" dedi.
+
+---
+
+## Bakan Kacır Togg kampüsünde T6X'i inceledi: Günde 375 araç üretiliyor
+
+**Ekonomi · Türkiye** · 2026-10-23 15:34 UTC · Kaynak: [Google Haberler - Togg](https://www.bloomberght.com/bakan-kacir-yeni-togg-u-paylasti-3792419)
+
+![](data/images/1fc4f91a6912ce69.jpg)
+
+> Kacır, T6X'in önümüzdeki yıl satışa sunulacağını belirtti.
+
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaret ederek önümüzdeki yıl satışa sunulması planlanan T6X ile tanıtımı yapılan T10F 4More Kehribar serisine yönelik çalışmaları inceledi.
+
+Kacır, sosyal medya hesabından yaptığı paylaşımda, 10 çalışana 1 endüstriyel robot ortalamasıyla otomotiv sektörünün en dijital altyapısına sahip tesisi olan Togg'un günde 375 araç üretim hızıyla yoluna devam ettiğini belirtti.
+
+---
+
 ## Togg T10F 4More'un Kehribar Serisi tanıtıldı: Yedi farklı renk seçeneği var
 
 **Ekonomi · Türkiye** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-t10f-4more-kehribar-serisi-tanitildi-iste-ozellikleri-3922036)
@@ -403,51 +449,5 @@ Ziynet altınlarda çeyrek altın 10.543 TL, yarım altın 21.080 TL, tam altın
 Uluslararası piyasalarda altının onsu 4.023,00 dolardan işlem görürken, dolar/TL 49,70 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 13.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Türkiye 2027'de 14 ülkede 16 uluslararası turizm fuarına katılacak
-
-**Türkiye · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.turizmaktuel.com/haber/bakanlik-2027-de-katilacagi-uluslararasi-turizm-fuarlarini-acikladi)
-
-![](data/images/0d4e9e6186c377c4.jpg)
-
-> Kültür ve Turizm Bakanlığı ile TGA'nın takvimine göre ilk fuar Ocak'ta Madrid'de.
-
-Kültür ve Turizm Bakanlığı ile Türkiye Turizm Tanıtım ve Geliştirme Ajansı (TGA) koordinasyonunda hazırlanan takvime göre Türkiye, 2027 yılında 14 ülkede düzenlenecek 16 uluslararası turizm ihtisas fuarında yer alacak.
-
-Program İspanya, Almanya, Rusya, Hindistan, Çin, Birleşik Arap Emirlikleri, Japonya, ABD ve İngiltere gibi pazarları kapsıyor. Yılın ilk büyük organizasyonu 20-24 Ocak'ta Madrid'de yapılacak FITUR 2027 olacak. Program, aralık ayında Fransa'nın Cannes kentinde düzenlenmesi planlanan lüks turizm fuarı ILTM Cannes ile tamamlanacak. Türkiye standına oteller, seyahat acenteleri, tur operatörleri ve hava yolu şirketleri de katılabilecek.
-
----
-
-## TÜİK: Yükseköğretim beyin göçünde Eskişehir 2025'te dördüncü sırada
-
-**Gündem · Merkez** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-dikkat-ceken-beyin-gocu-tablosu-ilk-5-sehir-arasinda)
-
-![](data/images/4e5735dd53adbc3d.jpg)
-
-> Beyin göçü oranı Türkiye genelinde yüzde 2,2'ye çıktı; ilk üç sırada İstanbul, İzmir ve Ankara var.
-
-Türkiye İstatistik Kurumu (TÜİK), 2025 yılı Yükseköğretim Beyin Göçü İstatistikleri'ni açıkladı. Yükseköğretim mezunlarının beyin göçü oranı bir önceki yıla göre artarak yüzde 2,2 oldu. Oran kadınlarda yüzde 1,8, erkeklerde yüzde 2,7 olarak gerçekleşti.
-
-Beyin göçünün en yüksek olduğu il yüzde 4,0 ile İstanbul oldu. İstanbul'u sırasıyla İzmir, Ankara, Eskişehir ve Yalova izledi. Erkeklerde Eskişehir yüzde 2,9 ile dördüncü, kadınlarda yüzde 1,7 ile yine dördüncü sırada yer aldı. En düşük oran yüzde 0,2 ile Siirt'te görüldü.
-
-Devlet üniversitesi mezunlarında oran 2025'te yüzde 1,9, vakıf üniversitesi mezunlarında yüzde 4,4 oldu. En yüksek beyin göçü oranı yüzde 7,0 ile bilişim ve iletişim teknolojileri alanında görüldü.
-
----
-
-## TOGG, COP31'in "Mobilite Sektör Ortağı" oldu
-
-**Ekonomi · Türkiye** · 2026-10-23 10:34 UTC · Kaynak: [Google Haberler - Togg](https://www.ekonomidunya.com/togg-cop31in-mobilite-sektor-ortagi-oldu/114052)
-
-![](data/images/e4737a1b91e454a8.jpg)
-
-> TOGG, zirvede elektrikli mobilitenin iklim hedeflerine katkısını anlatacak.
-
-TOGG, Türkiye'nin ev sahipliğinde yapılacak Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) "Mobilite Sektör Ortağı" oldu. Bilgi, TOGG'un yaptığı açıklamaya dayanıyor.
-
-Kamu, özel sektör, uluslararası kuruluşlar, akademi ve sivil toplum temsilcilerini bir araya getirecek zirvede TOGG, elektrikli mobiliteye geçişin iklim hedeflerine katkısını, bu dönüşümü destekleyen enerji ve dijital hizmetlerle birlikte ortaya koyacak. Üretimden günlük kullanıma uzanan uygulamalarını paylaşacak, uluslararası paydaşlarla yeni iş birlikleri geliştirmeyi amaçlayacak.
-
-TOGG Yönetim Kurulu Başkanı Fuat Tosyalı, Türkiye'nin COP31'e ev sahipliği yaparak iklim değişikliğiyle mücadelede küresel sorumluluk üstlenme iradesini gösterdiğini belirtti.
 
 ---
