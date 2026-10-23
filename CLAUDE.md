@@ -52,10 +52,10 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 
 ## Kurallar
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
-  İstisna: resmî fotoğrafı olmayan haberlere (Google Haberler kaynakları) yapay zekâ ile temsilî görsel üretilir
-  (`newsbot.ai_image` → relay Worker `/gorsel`, Cloudflare Workers AI ücretsiz günlük kota ~40-80 görsel). Gerçek kişi,
-  yüz, yazı yok; sitede 'Temsilî görsel' etiketi ve açıklamayla gösterilir. Kota dolarsa kendi kapağımız
-  (`social.topic_card`) kullanılır, `servis.yml` sonradan `--fill-images` ile tamamlar. Altın haberi tablo kapağıyla kalır.
+  İstisna: resmî fotoğrafı olmayan haberlere (Google Haberler kaynakları) Wikimedia Commons'tan habere uygun serbest
+  lisanslı fotoğraf konur (`commons.py`, `newsbot.commons_image`); altında fotoğrafçı, lisans ve Commons bağlantısı,
+  kartlarda 'Temsilî' etiketi. Sahibi yapay zekâ görseli istemedi (relay `/gorsel` kullanılmıyor). Bulunamazsa kendi
+  kapağımız (`social.topic_card`); `servis.yml` `--fill-images` ile sonradan tamamlar. Altın haberi tablo kapağıyla kalır.
 - Yayınlanmış haber sonradan elle değiştirilmez (düzeltme gerekirse sahibine sor).
 - Haberlerde kaynakta olmayan bilgi yok. Asayişte masumiyet karinesi, tam isim yok.
 - Gizli bilgiler (token, şifre) sohbete yazılmaz; GitHub Secrets'a eklenir.
