@@ -2,6 +2,96 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda dönüş yapan otomobil bisikletliye çarptı, bisikletli hafif yaralandı
+
+**Gündem · Tepebaşı** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehirekspres.net/eskisehirde-kaza-donus-yapmak-istedi-bisiklet-yolunda-surucuyu-onune-katti)
+
+![](data/images/b05b11f6decdacbb.jpg)
+
+> Kaza güvenlik kamerasına yansıdı; bisikletli hastaneye kaldırıldı.
+
+Tepebaşı ilçesi Mustafa Kemal Paşa Mahallesi Sivrihisar-1 Caddesi üzerinde kaza yaşandı. Edinilen bilgilere göre sürücü İ.E. yönetimindeki otomobil, Şenlik Sokak'a dönmek için manevra yaptığı sırada bisiklet yolunda ilerleyen bisiklete çarptı. Otomobilin bisikletin ön tekerleği üzerinden geçtiği anlar güvenlik kamerasına yansıdı.
+
+Hafif sıyrıklarla atlattığı belirtilen bisikletli, olay yerine gelen sağlık ekiplerinin ilk müdahalesinin ardından hastaneye kaldırıldı. Polis ekipleri kazayla ilgili inceleme başlattı.
+
+---
+
+## Tarım Bakanlığı listesine göre 11 markanın sucuk baharatında yasaklı boya çıktı
+
+**Türkiye · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenicaggazetesi.com/tarim-ve-orman-bakanligi-acikladi-11-markanin-sucuk-baharatinda-yasakli-boya-cikti-1084441h.htm)
+
+![](data/images/ebe5f051b363efaa.jpg)
+
+> Ürünler "Sağlığı Tehlikeye Düşürecek Gıdalar" kategorisinde 22 Ekim'de güncellenen listede yer aldı.
+
+Tarım ve Orman Bakanlığı'nın gıda denetimlerinde sucuk üretiminde kullanılan baharatlarla ilgili mevzuata aykırı bir durum tespit edildi. Analizlerde gıda üretiminde kullanılmasına izin verilmeyen bir boya maddesi bulunan 11 markanın sucuk baharatı, tüketici sağlığı açısından risk taşıyan ürünler arasına alındı.
+
+Bakanlığın 22 Ekim 2026'da yenilenen listesinde ürünler "Sağlığı Tehlikeye Düşürecek Gıdalar" kategorisinde kamuoyuna duyuruldu. Uygulamayla tüketicilerin piyasadaki gıdalar hakkında bilgi sahibi olması amaçlanıyor.
+
+---
+
+## İletişim Başkanı Duran'dan Zonguldak'taki maden ocağı kazası için taziye mesajı
+
+**Türkiye · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-zonguldakta-maden-ocaginda-meydana-gelen-gocuk-nedeniyle-taziye-mesaji)
+
+![](data/images/d9e809320a215310.jpg)
+
+> Duran, Kilimli'deki kazada hayatını kaybeden madencilere rahmet, yaralılara şifa diledi.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, NSosyal hesabından yaptığı paylaşımla Zonguldak'ın Kilimli ilçesindeki bir maden ocağında meydana gelen kazada hayatını kaybeden işçiler için taziye dileklerini iletti.
+
+Duran, mesajında hayatını kaybeden madencilere Allah'tan rahmet, ailelerine ve yakınlarına sabır ve başsağlığı diledi. Kazada yaralanan madencilere acil şifalar temenni etti. Duran, ilgili kurumların olay yerinde gerekli müdahale ve inceleme çalışmalarını titizlikle yürüttüğünü belirtti.
+
+---
+
+## Eskişehir'de kadınların siyasi temsili için AllyGround eğitim programı yapıldı
+
+**Belediye · Merkez** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-kadinlarin-siyasi-temsili-icin-ortak-calisma-b420ef99)
+
+![](data/images/f0266bee9dcfa440.jpg)
+
+> Büyükşehir, 1984 Derneği ve İsveç Başkonsolosluğu iş birliğindeki iki günlük program Haller Gençlik Merkezi'nde düzenlendi.
+
+Eskişehir Büyükşehir Belediyesi, 1984 Derneği (D84) ve İstanbul İsveç Başkonsolosluğu iş birliğiyle yürütülen "AllyGround - Kadınların Siyasi Yolculuğunu Destekleme Projesi" kapsamında iki günlük eğitim programı düzenledi. Program Haller Gençlik Merkezi Frigya Salonu'nda yapıldı.
+
+Programla kadınların yerel siyasette daha güçlü temsil edilmesi, toplumsal cinsiyet eşitliğinin güçlendirilmesi ve farklı siyasi görüşler arasında dayanışmanın artırılması amaçlandı. Açılış konuşmasını Büyükşehir Genel Sekreter Yardımcısı Nergiz Abacı yaptı. Abacı, kadınların siyasette güçlü temsilinin demokratik bir toplumun temel koşullarından biri olduğunu söyledi.
+
+Programa belediye meclis üyeleri, siyasi parti temsilcileri, kadın siyasetçiler, partilerin kadın ve gençlik kollarında görev alanlar ile sivil toplum kuruluşlarının temsilcileri katıldı. Eğitimlerde kadınların siyasi alanda karşılaştığı engellerin aşılması, liderlik ve dayanışma becerileri ele alındı.
+
+---
+
+## CHP Sözcüsü Sarı Gaziantep'te: Seçimlerde birlikte hareket etmenin önemini vurguluyoruz
+
+**Siyaset · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Google Haberler - CHP](https://yerel-haberler.haberturk.com/gaziantep-haberleri/chp-genel-baskan-yardimcisi-ve-parti-sozcusu-sari-gaziantepte-konustu-119501308)
+
+![](data/images/e96b69e90d3fe91b.jpg)
+
+> Sarı, belediye başkanlarına yönelik soruşturmalara ilişkin CHP Gaziantep İl Başkanlığı'nda açıklama yaptı.
+
+CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, CHP Gaziantep İl Başkanlığı'nda düzenlediği basın toplantısında belediye başkanlarına yönelik soruşturmalar ve siyasi gelişmeleri değerlendirdi.
+
+Sarı, siyaseten ayrıştıkları arkadaşları olsa bile özellikle Cumhur İttifakı'na karşı, operasyonlardan sonra ortaya çıkacak seçimlerde birlikte hareket etmenin önemini vurguladıklarını söyledi. Belediye başkanlarının tutuksuz yargılanabileceğini belirten Sarı, tutuklamanın bir cezalandırma yöntemine dönüşmemesi gerektiğini ifade etti. Çukurova ve Milas'taki adli süreçleri takip ettiklerini, Milas Belediye Başkanı'nın adli kontrolle serbest bırakılmasını beklediklerini kaydetti.
+
+Sarı ayrıca CHP'nin geçmişte diğer partilerle iş birliği yaptığını, ancak "sabrımızın bir sınırı var" diyerek partinin kurumsal kimliğini önceleyeceklerini söyledi.
+
+---
+
+## Bakan Bayraktar: Dünyanın enerjide belirsizliğe değil, güvenilir ortaklıklara ihtiyacı var
+
+**Ekonomi · Türkiye** · 2026-10-23 11:33 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31952)
+
+![](data/images/0d01139a605f14a8.jpg)
+
+> Bayraktar, İstanbul'daki 19. Verona Avrasya Ekonomik Forumu'nda konuştu.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, İstanbul'da düzenlenen 19. Verona Avrasya Ekonomik Forumu'nda konuştu. Bayraktar, dünyanın enerjide daha fazla belirsizliğe değil, daha fazla iş birliğine, yatırıma ve güvenilir ortaklıklara ihtiyacı olduğunu söyledi; Türkiye'nin buna katkı sunmaya hazır olduğunu belirtti.
+
+Bayraktar, ekonomilerin enerji güvenliğini sağlamak, büyüyen talebi karşılamak ve enerji dönüşümünü gerçekleştirmek şeklinde üç temel sınamayla karşı karşıya olduğunu ifade etti. Yanıtın çeşitlendirme, enerjiye yatırım ve daha geniş uluslararası iş birliği olduğunu söyledi.
+
+Bakan, son 10 yılda günlük LNG gazlaştırma kapasitesini yaklaşık 30 milyon metreküpten 160 milyon metreküpe çıkardıklarını, doğal gaz depolama kapasitesini 15 milyar metreküpe ulaştırmak için çalışmaya devam ettiklerini aktardı. Türkiye'nin üretici ve tüketici ülkeleri birbirine bağlayan önemli bir enerji merkezi konumunda olduğunu vurguladı.
+
+---
+
 ## Altın fiyatları 23 Ekim 2026: Gram altın 6.468,55 TL
 
 **Ekonomi · Merkez** · 2026-10-23 10:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -375,99 +465,5 @@ Bültende her çocuğun ilgi alanları, öğrenme hızı ve ihtiyaçlarının fa
 Eskişehirspor, Altay ile oynadığı mücadelede yaşanan saha olayları gerekçesiyle Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk edilmişti.
 
 PFDK, raporlar doğrultusunda Eskişehirspor'a taraftarlarının neden olduğu saha olayları nedeniyle FDT'nin 52/2. ve 46/1. maddeleri uyarınca 35 bin lira para cezası verdi.
-
----
-
-## Eskişehir'de 2026-2027 eğitim öğretim yılının öncelikleri toplantıda ele alındı
-
-**Eğitim · Merkez** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-egitimde-yeni-donem-masaya-yatirildi)
-
-![](data/images/e5ee857edd4acde5-c.jpg)
-
-> Millî Eğitim Müdürlükleri Yönetmeliği doğrultusunda yapılan toplantıda eğitim politikaları değerlendirildi.
-
-Eskişehir'de düzenlenen toplantıda, Millî Eğitim Müdürlükleri Yönetmeliği doğrultusunda 2026-2027 eğitim öğretim yılına ilişkin öncelikler ve eğitim politikaları değerlendirildi.
-
-Toplantıda Türkiye Yüzyılı Maarif Modeli uygulamaları, mesleki ve teknik eğitim politikaları, okul-aile iş birliği, okul dışı öğrenme ortamları, eğitim yatırımları, rehberlik hizmetleri, okul güvenliği ve eğitim ortamlarının iyileştirilmesi gündem maddeleri olarak ele alındı. İl genelinde yürütülen çalışmaların daha etkin sürdürülmesine yönelik görüş alışverişinde bulunuldu.
-
----
-
-## Erdoğan: Barışa giden yolu açmanın gayreti içerisindeyiz
-
-**Siyaset · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmanin-gayreti-icerisindeyiz/4098110)
-
-![](data/images/e7dda29a1453e107-c.jpg)
-
-> Erdoğan, 9. İstanbul Arabuluculuk Konferansı'na video mesaj gönderdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde "Barış için Ortaklıklar ve Yeni Perspektifler: Değişen Dünyada Arabuluculuk" temasıyla İstanbul'da düzenlenen 9. İstanbul Arabuluculuk Konferansı'na video mesaj gönderdi.
-
-Erdoğan, "Rusya ile Ukrayna arasındaki esir takaslarından Afrika kıtasındaki arabuluculuk çabalarımıza geniş bir coğrafyada elde ettiğimiz kazanımlarla bugün de barışa giden yolu açmanın gayreti içerisindeyiz." dedi.
-
-Erdoğan, küresel çatışmaların arttığı bir dönemde Türkiye'nin diplomasiden vazgeçmemeyi ilke edindiğini söyledi. Birleşmiş Milletler'in yapısını eleştiren Erdoğan, "190'dan fazla ülkenin iradesinin 5 ülkenin keyfine bağlı olduğu bir yapı ne adildir ne de güveni tam manasıyla tesis edebilir" ifadesini kullandı. Barış için tarafları bir araya getirmeye ve arabuluculuk yapmaya devam edeceklerini belirtti.
-
----
-
-## Bakan Tekin: MEB, çocuklara zarar verdiği gerekçesiyle Meta'ya dava açmaya hazırlanıyor
-
-**Eğitim · Türkiye** · 2026-10-23 08:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.kamudanhaber.net/yusuf-tekin-acikladi-meb-cocuklara-zarar-verdigi-gerekcesiyle-metaya-dava-aciyor)
-
-![](data/images/25ffe5d42c89a9fb-c.jpg)
-
-> Tekin, Hukuk Hizmetleri Genel Müdürlüğü'nün süreç hazırlığı yaptığını söyledi.
-
-Millî Eğitim Bakanı Yusuf Tekin, 12. Ankara Erzurum Tanıtım Günleri'nde yaptığı açıklamada Bakanlığın, çocuklara zarar verdiği gerekçesiyle Meta hakkında dava açmaya hazırlandığını söyledi. Tekin, Hukuk Hizmetleri Genel Müdürlüğü'nün süreç hazırlığını yürüttüğünü belirtti.
-
-Tekin, bakanlığın saha araştırmalarında çocukların şiddet algısında sosyal medyanın etkisinin görüldüğünü aktardı. Şiddete maruz kaldığını söyleyen öğrencilerin yaklaşık yüzde 80'inin, sosyal medyada beğenilmemeyi ve gruptan dışlanmayı şiddet tanımı içinde ifade ettiği bildirildi.
-
-Tekin, Cumhurbaşkanı tarafından başta sanal kumar olmak üzere sosyal medyanın çocuklar üzerindeki etkilerinin giderilmesi için tedbir alınması yönünde talimat verildiğini de söyledi.
-
----
-
-## 4. Uluslararası ESEP Eğitim Bilimleri Kongresi Anadolu Üniversitesi'nde yapıldı
-
-**Eğitim · Tepebaşı** · 2026-10-23 08:33 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/4-uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-gerceklestirildi/icerik/8692/tr)
-
-![](data/images/704ba063a96873bf.jpg)
-
-> Kongrede eğitim politikaları, oyun temelli öğrenme ve sanal gerçeklik destekli uygulamalar ele alındı.
-
-4. Uluslararası ESEP Eğitim Bilimleri ve Etkili Uygulamalar Kongresi, Anadolu Üniversitesi'nin ev sahipliğinde Eskişehir'de gerçekleştirildi.
-
-Açılış programına Vali Yardımcısı Akın Ağca, MEB Teftiş Kurulu Başkanı Fethi Fahri Kaya, MEB Personel Genel Müdürü Bülent Çiftçi, Anadolu Üniversitesi Rektör Yardımcısı Prof. Dr. Köksal Büyük, UNESCO Türkiye Millî Komisyonu Başkanı Prof. Dr. M. Öcal Oğuz ve İl Millî Eğitim Müdürü Sinan Aydın katıldı.
-
-Prof. Dr. Adnan Boyacı moderatörlüğündeki panelde eğitim politikaları değerlendirildi. Oturumlarda sanat, medeniyet, sürdürülebilir kalkınma, zekâ, oyun temelli öğrenme ve sanal gerçeklik destekli eğitim uygulamaları ele alındı. Kongrede resim sergisi açılışı, LEGADDER Eğitim Pusulası Ödül Töreni ve akademik bildiri oturumları da yer aldı.
-
----
-
-## Tepebaşı'nda darp edilen kişi tedaviyi reddedip kaçtı, arsada baygın bulundu
-
-**Asayiş · Tepebaşı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kanlar-icinde-kacti-arsada-bulundu)
-
-![](data/images/2246a965baeadc5a-c.jpg)
-
-> Tunalı Mahallesi'nde çıkan kavgada darp edilen kişi, evinin yakınındaki arsada bulunarak hastaneye kaldırıldı.
-
-Eskişehir'in Tepebaşı ilçesine bağlı Tunalı Mahallesi Turgut Reis Caddesi üzerinde henüz bilinmeyen bir nedenle iki grup arasında kavga çıktı. Kimliği belirlenemeyen kişilerce darp edilen bir kişiye çevredeki esnaf yardıma koştu.
-
-Ağzı ve yüzü kanlar içinde kalan yaralı, sağlık ekiplerinin müdahalesini kabul etmedi. Ambulansı fark eden yaralı ile yanındaki kadın yakını olay yerinden koşarak uzaklaştı.
-
-İlerleyen saatlerde yaralı, evinin yakınındaki boş bir arsada baygın halde bulundu. 112 Acil Sağlık ekiplerinin ilk müdahalesinin ardından Yunus Emre Devlet Hastanesi'ne kaldırılan yaralı tedavi altına alındı. Olayla ilgili inceleme başlatıldı.
-
----
-
-## Odunpazarı'nda araçtakiler karşılıklı ateş etti, bir evin duvarına mermi isabet etti
-
-**Asayiş · Odunpazarı** · 2026-10-23 07:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/guncel/haber-eskisehir-odunpazari-nda-aractakiler-karsilikli-at-20357873/)
-
-![](data/images/1f55062965ed8eba-c.jpg)
-
-> Huzur Mahallesi'nde iki araçtaki kişiler silahla karşılıklı ateş etti; polis şüphelileri arıyor.
-
-Eskişehir'in Odunpazarı ilçesinde Huzur Mahallesi'nde iki araçtaki kişiler henüz belirlenemeyen nedenle karşılıklı silahla ateş etti. Bir evin duvarına mermi isabet etti.
-
-Olay, Dener Sokak ile Camlı Sokak'ın kesişiminde yaşandı. Silah seslerini duyan vatandaşların ihbarı üzerine bölgeye polis ekipleri sevk edildi.
-
-Polisin incelemesinde, iki araçtaki kişilerin karşılıklı ateş ettiği ve ardından olay yerinden ayrıldığı belirlendi. Polis, şüpheli ya da şüphelileri yakalamak için çalışma başlattı.
 
 ---
