@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Senetli alışverişte yeni taksit sınırları: Televizyonda 4, mobilyada 9 aya kadar
+
+**Ekonomi · Türkiye** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursadabugun.com/haber/taksitle-alisveris-yapacaklar-dikkat-bakanlik-urun-urun-yeni-vade-sinirlarini-acikladi-1958361.html)
+
+![](data/images/7aa8292bef2201f4.jpg)
+
+> Bursada Bugün'ün aktardığına göre Ticaret Bakanlığı'nın yetkilendirildiği düzenlemeyle senetli satışlarda ürün gruplarına göre azami vade sınırları belirlendi.
+
+15 Ekim 2026 tarihli Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle Ticaret Bakanlığı, perakende işletmelerin tüketicilere yönelik taksitli satışlarında vade sürelerini belirleme ve gerektiğinde ek kısıtlama getirme yetkisini aldı. Bursada Bugün'ün haberine göre düzenleme konut satışları dışındaki mal ve hizmetleri kapsıyor.
+
+Haberde aktarılan azami taksit süreleri şöyle: fiyatı 5 bin TL'nin altındaki televizyonlarda 9 ay, 5 bin TL'nin üzerindekilerde 4 ay; tablet ve bilgisayarda 6 ay; beyaz eşya ve elektrikli küçük ev aletlerinde 9 ay; mobilyada 9 ay; seyahat ve konaklama harcamalarında ise 18 ay. Bu süreler, senet gibi yöntemlerle yapılan taksitli satışlardaki üst sınırları gösteriyor.
+
+Ticaret Bakanlığı daha önce yaptığı açıklamada cep telefonlarında sıfır ve yenilenmiş cihazlar için taksit süreleri ile tutar sınırlarının güncellendiğini duyurmuş, rakamsal ayrıntı vermemişti.
+
+---
+
+## Odunpazarı'nda 3 yaşındaki E. M. A.'nın ölümüne ilişkin sürücü hakkında iddianame
+
+**Asayiş · Odunpazarı** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://haberton.com/eskisehirde-3-yasindaki-elif-mavinin-olumune-neden-olmustu-surucu-icin-15-yila-kadar-hapis-istemi/)
+
+![](data/images/184c0450bc0d421f.jpg)
+
+> Savcılık, 3 Eylül'deki trafik kazasında 3 yaşındaki bir çocuğun ölümüne neden olan tutuklu sürücü için 2 yıldan 15 yıla kadar hapis istedi.
+
+Eskişehir Cumhuriyet Başsavcılığı, 3 Eylül'de Odunpazarı ilçesi Vişnelik Mahallesi'nde meydana gelen trafik kazasına ilişkin iddianame hazırladı. Kazada otomobilin çarptığı 3 yaşındaki E. M. A. hayatını kaybetmiş, annesi hafif yaralanmıştı. Haberton'un aktardığına göre tutuklu sürücü F. A. B. (40) hakkında "taksirle ölüme ve yaralanmaya neden olma" suçundan 2 yıldan 15 yıla kadar hapis cezası isteniyor. Dava Eskişehir 1. Ağır Ceza Mahkemesi'nde açıldı.
+
+İddianameye göre trafik kazası tespit tutanağında sürücünün kusurlu olduğu belirtilmiş, bir bilirkişi raporunun ise bunun aksini ortaya koyduğu ifade edilmişti. Bunun üzerine Adli Tıp Kurumu Ankara Trafik İhtisas Dairesi'nden rapor alındı. Gelen raporda sürücünün dikkatsizliği, tedbirsizliği ve kurallara aykırı hareketi nedeniyle asli kusurlu olduğu, ölen çocuk ile annesinin kusurunun bulunmadığı kaydedildi.
+
+Sürücü, kazanın ardından önce "konutu terk etmeme" şeklinde adli kontrol kararıyla serbest bırakılmıştı. Savcılığın itirazı üzerine yeniden gözaltına alınan sürücü, 8 Eylül'de Sulh Ceza Hakimliği tarafından tutuklandı.
+
+---
+
+## MEB ortak sınav takvimini açıkladı; Bakan Tekin 10 Kasım eleştirilerine yanıt verdi
+
+**Eğitim · Türkiye** · 2026-10-23 02:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.aksutvhaber.net/milli-egitim-bakanligi-2026-2027-ortak-sinav-takvimini-acikladi-iste-gun-gun-ders-listesi)
+
+![](data/images/8f0628ab78a0c2d8.jpg)
+
+> Ortak yazılı sınavlar 3 Kasım'da başlayacak. Bakan Tekin, 10 Kasım'daki sınavın 09.30'dan sonra yapılacağını söyledi.
+
+Millî Eğitim Bakanlığı (MEB), Ortak Yazılı Sınav Sistemi'nin 2026-2027 eğitim-öğretim yılı birinci dönem takvimini açıkladı. Ortaokul 5, 6 ve 7. sınıflar ile liselerin 9, 10 ve 11. sınıflarında 40'ar dakikalık ortak sınavlar 3 Kasım'da başlayacak.
+
+Ortaokul takvimine göre 3 Kasım'da Fen Bilimleri, 5 Kasım'da Matematik, 6 Kasım'da Sosyal Bilgiler, 10 Kasım'da (09.30'dan sonra) Türkçe, 11 Kasım'da yalnızca 6. sınıflar için Matematik, 12 Kasım'da İngilizce ve 13 Kasım'da Din Kültürü ve Ahlak Bilgisi sınavı yapılacak. Liselerde Biyoloji sınavı 3 Kasım'da uygulanacak.
+
+Takvimdeki 10 Kasım tarihi eleştirilince açıklama yapan Bakan Yusuf Tekin, sınavların 81 il valiliğine gönderilen genelge uyarınca 4. ders saatinde, yani 09.30'dan sonra yapılacağını söyledi. Tekin, 10 Kasım törenlerinin 08.45'te başladığını, sınavı bu nedenle törenden sonraya koyduklarını anlattı. Okul yönetimleri gerekirse bu sınavı farklı bir ders saatine kaydırabilecek. Tekin ayrıca soruların yapay zekâya hazırlatıldığı yönündeki iddiaları yalanladı ve soruları binden fazla uzman öğretmenin hazırladığını söyledi. Öğretmenlerin sorulara erişim süresi 1 günden 4 güne çıkarıldı, EBA'daki modül 26 Ekim Pazartesi günü açılacak.
+
+---
+
 ## Şehit ve gazi çocuklarına 609 milyon liralık eğitim yardımı 23 Ekim'de ödenecek
 
 **Türkiye · Türkiye** · 2026-10-23 01:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yenisafak.com/ekonomi/bakan-isikhan-odeme-gununu-acikladi-ogrencilere-609-milyon-liralik-egitim-destegi-4866531)
@@ -427,53 +475,5 @@ CHP Genel Başkanı Kemal Kılıçdaroğlu, televizyonların Ankara temsilcileri
 Kılıçdaroğlu, Cumhurbaşkanı Erdoğan'ın Meclis açılış konuşmasında anayasa değişikliğinden söz ettiğini hatırlatarak, kendisinin önce bir siyasi ahlak yasasının çıkması gerektiğini söylediğini aktardı. Adı ne olursa olsun, temel ilkeleri ve kuralları olan bir siyasi ahlak ya da etik kanununa ihtiyaç olduğunu belirten Kılıçdaroğlu, devlet memurları için kurallar bulunduğunu, 600 milletvekili için de aynı ilkelerin olması gerektiğini ifade etti. Bunun yalnızca CHP'nin talebi olarak görülmemesini isteyen Kılıçdaroğlu, her partiden milletvekillerinin, grup başkanlarının ve grup başkanvekillerinin bir araya gelmesi çağrısında bulundu.
 
 Habertürk'ün aktardığına göre Kılıçdaroğlu, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın istifasına ilişkin soruya, Yavaş'ın bağımsız olarak görevini sürdürdüğünü, istifasına üzüldüğünü ve belediye başkanlarının hizmet ettiklerini ayrım gözetmeden yönetmeleri gerektiğini söyleyerek yanıt verdi.
-
----
-
-## Cumhurbaşkanı Erdoğan, TDT Genel Sekreteri Ömüraliyev'i kabul etti
-
-**Siyaset · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tdt-genel-sekreteri-omuraliyevi-kabul-etti-960897.html)
-
-![](data/images/647e190594b67cac.jpg)
-
-> Cumhurbaşkanı Erdoğan, Türk Devletleri Teşkilatı Genel Sekreteri Ömüraliyev ile Külliye'de bir araya geldi. Teşkilatın 13. zirvesi 29-30 Ekim'de Ankara'da yapılacak.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı (TDT) Genel Sekreteri Ömüraliyev'i Cumhurbaşkanlığı Külliyesi'nde kabul etti.
-
-TRT Haber'in aktardığına göre TDT, kuruluşundan bu yana devlet başkanları düzeyinde 12 zirve düzenledi ve 13'üncü zirvesini 29-30 Ekim'de Ankara'da yapacak. Zirvenin teması "Türk Yüzyılı: Dilde, Fikirde, İşte Birlik" olarak belirlendi. Cumhuriyet'in kuruluşunun 103. yıl dönümüne denk gelen buluşmayla birlikte Türkiye, teşkilatın dönem başkanlığını üstlenecek.
-
----
-
-## Bakan Tekin, Macaristan Millî Günü resepsiyonuna katıldı
-
-**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-macaristan-milli-gunu-resepsiyonuna-katildi/haber/42265/tr)
-
-![](data/images/ee0c5e536c3a1a1b.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin, Macaristan'ın Ankara Büyükelçiliğindeki Millî Gün resepsiyonunda konuştu.
-
-Macaristan'ın Ankara Büyükelçiliğinde Maslahatgüzar Gabor Baar'ın ev sahipliğinde Macaristan Millî Günü resepsiyonu düzenlendi. Resepsiyona Millî Eğitim Bakanı Yusuf Tekin, diplomatik misyon mensupları ve davetliler katıldı.
-
-Konuşmasında Macaristan'ın 23 Ekim Millî Günü'nü kutlayan Tekin, 1956'daki mücadelenin 70. yıl dönümünde hayatını kaybedenleri andı. İki ülkenin 2023'ten bu yana geliştirilmiş stratejik ortaklık düzeyinde ilişkiler yürüttüğünü hatırlatan Tekin, 2025'te yaklaşık 5,16 milyar dolara ulaşan ikili ticaret hacmini 10 milyar dolara çıkarmayı hedeflediklerini söyledi.
-
-Eğitim alanındaki iş birliğine de değinen Tekin, Macaristan'ın Türk öğrencilere sunduğu Stipendium Hungaricum burs programı kapsamında her yıl yaklaşık 200 öğrenciye karşılıklı burs verildiğini belirtti. Programın 2026-2028 dönemine ilişkin mutabakat zaptının 8 Aralık 2025'te imzalandığını ifade etti.
-
----
-
-## Bakan Göktaş, Semerkant'taki çocuk refahı zirvesinde konuştu
-
-**Türkiye · Türkiye** · 2026-10-22 22:27 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-goktas-ozbekistanda-cocuklarin-refahina-yatirim-yapmak-konulu-zirvede-konustu/)
-
-![](data/images/c048f5391aadeb25.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Özbekistan'ın Semerkant kentindeki zirvede çocuk odaklı sosyal koruma sistemlerinin önemine değindi.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Özbekistan'ın Semerkant kentinde düzenlenen "Çocukların Refahına Yatırım Yapmak: Gelecek Nesillerin Sürdürülebilir ve Adil Kalkınmasına Giden Yol Dünya Zirvesi"nde konuştu.
-
-Göktaş, her çocuğun haklarını koruyan, ihtiyaçlarını gözeten ve potansiyelini geliştiren güçlü bir sosyal koruma sistemi kurulmasının öncelik olması gerektiğini söyledi. Sosyal yardım, eğitim, sağlık ve sosyal hizmetlerin bütüncül bir anlayışla ele alınması gerektiğini belirtti.
-
-Türkiye'deki uygulamaları anlatan Göktaş, Şartlı Eğitim Yardımı Programı ile çocukların okula düzenli devamının, Şartlı Sağlık Yardımları ile de düzenli sağlık kontrollerinin desteklendiğini ifade etti. Eylül ayı itibarıyla Sosyal ve Ekonomik Destek hizmeti kapsamında yaklaşık 200 bin çocuğa destek sağlandığını açıkladı. Koruyucu aile modeliyle çocukların aile ortamında büyümelerinin amaçlandığını da kaydetti.
-
-Zirvede kabul edilmesi beklenen Semerkant Deklarasyonu'nun çocuk odaklı sosyal koruma alanındaki ortak öncelikleri somut taahhütlere dönüştürmesini temenni eden Göktaş, Türkiye'nin bilgi birikimini ve uygulama tecrübesini paylaşmaya hazır olduğunu söyledi.
 
 ---
