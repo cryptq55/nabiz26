@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## TOKİ, Odunpazarı ve Tepebaşı'ndaki arsaları 5-6 Kasım'da açık artırmayla satacak
+
+**Ekonomi · Merkez** · 2026-10-23 19:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/toki-eskisehirde-arsa-satacak-fiyatlar-19-milyon-tlden-basliyor)
+
+![](data/images/5c4c810d0f919744.jpg)
+
+> 61 ilde 725 arsa satılacak; Eskişehir'de başlangıç bedeli 1,9 milyon TL'den başlıyor.
+
+TOKİ'nin açıkladığı takvime göre 61 ilde 725 arsanın açık artırmaları 5 Kasım Perşembe ve 6 Kasım Cuma günleri saat 10.30'da başlayacak. Satış listesinde Eskişehir'in Odunpazarı ve Tepebaşı ilçelerinde taşınmazlar da yer alıyor.
+
+Odunpazarı'nda 71 Evler Mahallesi'ndeki toplu işyeri alanlarından birinin bedeli 1 milyon 900 bin TL; diğerlerinin bedelleri 32 milyon 600 bin TL ile 93 milyon 600 bin TL arasında. Aşağı Çağlan Mahallesi'ndeki 373 metrekarelik konut alanı parsellerinin her biri 3 milyon 200 bin TL, Eşenkara bölgesindeki termal turizm tesisi alanları ise 40 milyon 500 bin, 50 milyon 300 bin ve 58 milyon 500 bin TL bedelle listelendi. Tepebaşı'nda Zincirlikuyu Mahallesi'ndeki 10 bin 358,41 metrekarelik ticaret-konut alanının bedeli 145 milyon 100 bin TL.
+
+---
+
+## St. Johnstone taraftarı Eskişehir'e gelip 20 kombine alarak #VarsanVarım'a destek verdi
+
+**Spor · Merkez** · 2026-10-23 19:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaberajansi.com/eskisehirspor-icin-iskocyadan-geldi-varsan-varim-kampanyasina-destek-verdi)
+
+![](data/images/332bbfb5f063d414.jpg)
+
+> İskoç taraftar Ricky Marshall, Bursa Yıldırım SK maçı öncesinde Eskişehir'e geldi.
+
+Eskişehirspor'un İskoçya'daki kardeş kulübü St. Johnstone'un taraftarı Ricky Marshall, yarın oynanacak Bursa Yıldırım SK karşılaşması öncesinde Eskişehir'e geldi. Kulübü ziyaret eden Marshall, 20 adet kombine satın alarak #VarsanVarım kampanyasına destek verdi.
+
+Eskişehirspor, yaptığı açıklamada Marshall'a hoş geldin dedi ve kulübe gösterdiği ilgi ile katkısı için teşekkür etti.
+
+---
+
+## KPSS Ortaöğretim sınavı için Eskişehir'de toplu ulaşıma ek sefer yapılacak
+
+**Ulaşım · Merkez** · 2026-10-23 19:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263563/eskisehirde-kpss-oncesi-toplu-ulasima-ek-seferler-planlandi.html)
+
+![](data/images/7d7496d7c581abc6.jpg)
+
+> Sınav 25 Ekim Pazar günü saat 10.15'te, 111 merkezde yaklaşık 40 bin adayla yapılacak.
+
+Eskişehir Büyükşehir Belediyesi, 25 Ekim 2026 Pazar günü saat 10.15'te başlayacak KPSS Ortaöğretim sınavı nedeniyle kent genelinde ulaşım ve trafik önlemleri aldı. Eskişehir'de 111 sınav merkezinde yaklaşık 40 bin adayın katılması beklenen sınav 130 dakika sürecek.
+
+Sınav sabahı otobüs seferleri hafta içi tarifesine göre yapılacak, ihtiyaç duyulan güzergâhlarda ek seferler düzenlenecek. ESTRAM cumartesi sefer saatlerini uygulayacak. Üniversite bölgelerinde trafik akışını rahatlatmak için sinyalizasyon sistemlerinde düzenleme yapıldı. Eskişehir Osmangazi Üniversitesi'nin üç kapısı sınav süresince açık olacak, emniyet ekipleri kavşaklarda ilave tedbir alacak.
+
+Büyükşehir, adayların sınav merkezlerine en az 2 saat önce ulaşmasını ve mümkün olduğunca toplu taşımayı tercih etmesini istedi.
+
+---
+
 ## İtalyan köpek eğitmenleri Eskişehir'de Türk çoban köpeklerini inceledi
 
 **Gündem · Merkez** · 2026-10-23 18:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.sehirgazetesi.com.tr/eskisehire-ikinci-kez-geldiler-italyanlar-turk-coban-kopeklerine-hayran-kaldi)
@@ -36,8 +80,6 @@ Kabulde Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wa
 
 **Asayiş · Tepebaşı** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-bir-kisiyi-gasbetmeye-calistigi-one-surulen-supheli-ankarada-yakalandi-119501650)
 
-![](data/images/78309947d04e0583.jpg)
-
 > Eskişehir Asayiş Şubesi ekiplerinin çalışması sonucu R.A. Ankara'da gözaltına alındı.
 
 Eskişehir'de zorla tespih sattığı kişinin parasını gasbetmeye çalıştığı iddia edilen şüpheli Ankara'da yakalandı. Olay, Tepebaşı ilçesi Yenibağlar Mahallesi Yılmaz Büyükerşen Bulvarı'nda yaşandı.
@@ -50,8 +92,6 @@ Eskişehir İl Emniyet Müdürlüğü Asayiş Şubesi ekipleri çalışma başla
 
 **Gündem · Sivrihisar** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-feci-kaza--traktorun-saftina-kolunu-kaptiran-kadin-agir-yaralandi-296889.html)
 
-![](data/images/4df61668ca669d55.jpg)
-
 > 53 yaşındaki E.K. Göltepe Mahallesi'ndeki olayda hastaneye kaldırıldı.
 
 Eskişehir'in Sivrihisar ilçesine bağlı kırsal Göltepe Mahallesi'nde çalışır durumdaki traktörün dönen şaftına sol kolunu kaptıran 53 yaşındaki E.K. ağır yaralandı. Olayı görenlerin ihbarı üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi.
@@ -63,8 +103,6 @@ Sağlık ekiplerinin ilk müdahalesinin ardından ambulansla Eskişehir Osmangaz
 ## CHP'li Saraç: 7 Kasım'da Ankara'da "Emekliler Buluşuyor" toplantısı yapılacak
 
 **Siyaset · Türkiye** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/chp-genel-baskan-yardimcisi-sarac-ulkede-12-milyon-insan-aclik-sinirinda-yasiyor)
-
-![](data/images/092eaac4e9f9abb5.jpg)
 
 > Saraç ve Demirci, toplantıya davet için Yozgat'ta CHP il örgütünü ziyaret etti.
 
@@ -80,8 +118,6 @@ Saraç, Yozgat'ın 420 bin nüfusundan 88 bininin emekli olduğunu belirtti ve e
 
 **Gündem · Merkez** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-gaz-kokusu-panigi-ekipler-harekete-gecti)
 
-![](data/images/81a858a1ea7e9bfb.jpg)
-
 > Mahalle sakini sızıntı sırasında gaz kokusu hissedildiğini, olumsuzluk yaşanmadığını söyledi.
 
 Eskişehir Şehir İçi Doğal Gaz Dağıtım (ESGAZ) ekipleri, 75. Yıl Mahallesi'nde Selami Vardar Bulvarı üzerindeki doğalgaz hattında çalışma yaptı. Teknik müdahalenin ardından sızıntı yapan bölümün onarıldığı ve üzerinin kapatıldığı öğrenildi.
@@ -93,8 +129,6 @@ Mahalle sakini İsmail Turan, bölgede yaklaşık üç gündür doğalgaz çalı
 ## Zonguldak'taki maden ocağında metan patlaması: Vali Yılmaz taziye diledi, soruşturma var
 
 **Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/vali-yilmazdan-zonguldaktaki-maden-kazasi-icin-taziye-mesaji)
-
-![](data/images/294e4700be3706da.jpg)
 
 > Kilimli'deki kazada Vali'nin paylaşımına göre 2 madenci hayatını kaybetti, 5 madenci yaralandı.
 
@@ -108,8 +142,6 @@ Adalet Bakanı Akın Gürlek de Zonguldak Cumhuriyet Başsavcılığı'nca ivedi
 
 **Türkiye · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.son.tv/deprem-davalarinda-kritik-takvim-can-tuncay-acikladi-deprem-davalarinda-hedef-2027nin-ilk-yarisi/)
 
-![](data/images/a1fc8d416af11766.jpg)
-
 > Diyarbakır'daki toplantıya depremden etkilenen 11 ilin yargı yetkilileri katıldı.
 
 Adalet Bakan Yardımcısı Can Tuncay, 6 Şubat 2023 depremlerinin ardından başlatılan davalara ilişkin Diyarbakır'da düzenlenen "Deprem Davalarında Adli Süreçlerin Değerlendirilmesi" toplantısında konuştu. Toplantıya depremlerden etkilenen 11 ilin cumhuriyet başsavcıları, adalet komisyonu başkanları ve idare mahkemesi başkanları katıldı.
@@ -121,8 +153,6 @@ Tuncay, "Deprem davalarında birinci derece mahkemelerdeki yargılamaları 2027'
 ## İYİ Partili Küçükerkan: Tepebaşı'nda mahalleler arasında hizmet farkı büyüyor
 
 **Siyaset · Tepebaşı** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.istikbalgazetesi.com/eskisehir-tepebasinda-hizmet-tartismasi-buyuyor-insan-hayati-bu-kadar-ucuz-olmamali)
-
-![](data/images/733d1d90036071c6.jpg)
 
 > İYİ Parti Tepebaşı İlçe Başkanı, kazı sonrası onarım ve drenaj konularında eleştirdi.
 
@@ -138,8 +168,6 @@ Küçükerkan, altyapı kurumlarının yatırım planlarının dijital ortamda �
 
 **Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esgazete.com/eskisehirde-29-ekim-cumhuriyet-yuruyusu)
 
-![](data/images/d9d8acbfe8000a65.jpg)
-
 > Yürüyüş ÇYDD, Atatürkçü Düşünce Derneği ve Eğitim-Sen Eskişehir şubelerinin öncülüğünde yapılacak.
 
 Eskişehir'de Cumhuriyet'in 103. yılı dolayısıyla 29 Ekim Perşembe günü Cumhuriyet Yürüyüşü düzenlenecek. Çağdaş Yaşamı Destekleme Derneği (ÇYDD) Eskişehir Şube Başkanı Sevgi Akmen, saat 15.00'te Ulus Anıtı önünden başlayacak yürüyüşe tüm Eskişehirlileri Türk bayrakları ve Atatürk posterleriyle katılmaya davet etti.
@@ -154,7 +182,7 @@ Yürüyüşe Atatürkçü Düşünce Derneği Eskişehir Şubesi, ÇYDD Eskişeh
 
 **Siyaset · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-3483755)
 
-![](data/images/aa1b4f941cc90726.jpg)
+![](data/images/erdogan-uskudar-ve-atasehir-belediye-baskan-vek-arsiv.jpg)
 
 > Görüşmede ele alınan konulara ilişkin ayrıntı paylaşılmadı.
 
@@ -200,7 +228,7 @@ Tekin, "Ülkemizin ekonomik ve toplumsal kalkınmasında kritik bir role sahip o
 
 **Ekonomi · Türkiye** · 2026-10-23 15:34 UTC · Kaynak: [Google Haberler - Togg](https://www.bloomberght.com/bakan-kacir-yeni-togg-u-paylasti-3792419)
 
-![](data/images/1fc4f91a6912ce69.jpg)
+![](data/images/bakan-kacir-togg-kampusunde-t6xi-inceledi-gunde-arsiv.jpg)
 
 > Kacır, T6X'in önümüzdeki yıl satışa sunulacağını belirtti.
 
@@ -214,7 +242,7 @@ Kacır, sosyal medya hesabından yaptığı paylaşımda, 10 çalışana 1 endü
 
 **Ekonomi · Türkiye** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-t10f-4more-kehribar-serisi-tanitildi-iste-ozellikleri-3922036)
 
-![](data/images/eda0d527bbaa9968.jpg)
+![](data/images/togg-t10f-4moreun-kehribar-serisi-tanitildi-yed-arsiv.jpg)
 
 > Çift motorlu T10F 4More 0'dan 100'e 4,3 saniyede ulaşıyor, WLTP'ye göre 500 kilometre menzil sunuyor.
 
@@ -230,7 +258,7 @@ T10F 4More, 320 kW (435 PS) güç ve 700 Nm tork üretiyor ve 0'dan 100 km/sa h�
 
 **Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/hakan-sapcihedefimiz-zirveyi-almak)
 
-![](data/images/2ad57978ac694f9e.jpg)
+![](data/images/sapci-hedefimiz-zirveyi-almak-eskisehirspor-bur-arsiv.jpg)
 
 > Şapcı, kazanmaları halinde ligde ikinci sıraya yükseleceklerini söyledi.
 
@@ -243,8 +271,6 @@ Eskişehirspor'dan Hakan Şapcı, Bursa Yıldırımspor maçı öncesinde grupta
 ## Piyano Günleri'nde Sebastiano Brusco'dan "Liebestraum" resitali
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://yerel-haberler.haberturk.com/eskisehir-haberleri/6-uluslararasi-piyano-gunlerinde-sebastiano-bruscodan-liebestraum-resitali-119501449)
-
-![](data/images/6caf16e8ee31b0d1.jpg)
 
 > 6. Uluslararası Piyano Günleri Anadolu Üniversitesi'nde 24 Ekim'e kadar sürecek.
 
@@ -260,8 +286,6 @@ Anadolu Üniversitesi ev sahipliğindeki Piyano Günleri, 24 Ekim'e kadar düzen
 
 **Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-perdeyi-aciyor)
 
-![](data/images/9ab171f6f12eda83.jpg)
-
 > Takım Kocaeli'ni Porsuk Spor Salonu'nda saat 16.00'da ağırlayacak.
 
 Erkekler Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir Gençlik ve Spor Kulübü, yeni sezonun ilk maçına çıkıyor. İlk haftayı fikstür gereği dinlenerek geçiren takım, sezonu kendi sahasında açacak. Antrenör Erol Sezer yönetimindeki ekip, Kocaeli karşısında kazanarak lige iyi bir başlangıç yapmayı hedefliyor.
@@ -273,8 +297,6 @@ Büyükşehir, A Grubu'nda Beykoz Belediyesi, Kocaeli Gençlik ve Spor İl Müd�
 ## Eskişehir Barosu Başkanı Günaydın: Avukat güvenliği ve basın özgürlüğü korunmalı
 
 **Gündem · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehir-barosundan-sert-tepki-gercekler-tutuklanamaz)
-
-![](data/images/1ba3fd94489da14a.jpg)
 
 > Günaydın, avukatlara yönelik saldırılara ve gazetecilerin tutukluluğuna tepki gösterdi.
 
@@ -290,7 +312,7 @@ Gazeteciler Murat Ağırel ve İsmail Arı'nın tutukluluk durumlarına değinen
 
 **Ulaşım · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-4-tramvay-hattinda-seferler-normale-dondu)
 
-![](data/images/b735fbc42a7abe21.jpg)
+![](data/images/uluonderdeki-teknik-ariza-4-tramvay-hattini-etk-arsiv.jpg)
 
 > Arıza nedeniyle Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri çalıştırıldı.
 
@@ -304,8 +326,6 @@ Yolcuların mağdur olmaması için Uluönder, SSK ve Atatürk Lisesi durakları
 
 **Belediye · Tepebaşı** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-yeni-ozel-kalem-muduru-resmen-belli-oldu)
 
-![](data/images/9eb00de363f48e44.jpg)
-
 > Görevi yürüten Suat Yalnızoğlu'nun yerine atama yapıldı.
 
 Tepebaşı Belediyesi Özel Kalem Müdürlüğü görevini yürüten Suat Yalnızoğlu'nun yerine Banu Gümüşpala getirildi. Görev değişikliği Başkan Ahmet Ataç'ın onayının ardından resmiyet kazandı. Özel Kalem Müdürlüğü görevini bundan sonra Gümüşpala yürütecek.
@@ -316,7 +336,7 @@ Tepebaşı Belediyesi Özel Kalem Müdürlüğü görevini yürüten Suat Yalnı
 
 **Spor · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-rehberlik-yapacak)
 
-![](data/images/76abda107ccc9000.jpg)
+![](data/images/eskisehirspor-ve-unicef-projesi-spor-kulupleri--arsiv.jpg)
 
 > Toplantı Haller Gençlik Merkezi Frigya Salonu'nda saat 10.00'da başlayacak.
 
@@ -332,8 +352,6 @@ Eskişehir'de çocuk sporcularla çalışan tüm kulüpler ve kurumlar toplantı
 
 **Asayiş · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-kacakcilik-ve-uyusturucu-operasyon-43352458)
 
-![](data/images/b17e191d6afb94eb.jpg)
-
 > İki adreste yapılan aramalarda hap, sentetik uyuşturucu ve kaçak içki ele geçirildi.
 
 Eskişehir'de kaçak ve sahte alkol ticareti yaparak halk sağlığını tehlikeye düşürdükleri belirlenen şüphelilere yönelik operasyon yapıldı. Çalışma Eskişehir Cumhuriyet Başsavcılığı koordinesinde İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şubesi ekiplerince yürütüldü.
@@ -345,8 +363,6 @@ Eskişehir'de kaçak ve sahte alkol ticareti yaparak halk sağlığını tehlike
 ## Eskişehir Model Fabrika'da 9. Öğren Dönüş Programı'nın ikinci aşaması yapıldı
 
 **Ekonomi · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sanayi-odasina-bagli-eskisehir-model-fabrikadan-firmalara-onemli-destek)
-
-![](data/images/44f07bec357861bc.jpg)
 
 > Katılımcılara performans takibi, yalın üretim ve Just in Time konularında uygulamalı eğitim verildi.
 
@@ -376,8 +392,6 @@ Sunumun ardından düzenlenen interaktif oyunda başarılı olan üç öğrenciy
 
 **Tarım · Sarıcakaya** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263840/eskisehirde-dorlion-zeytinyaginda-erken-hasat-tamamlandi.html)
 
-![](data/images/89d429c9ad98b77b.jpg)
-
 > Dorlion Özel Seri, 19. Natürel Sızma Zeytinyağı Kalite Yarışması'nda Premium Ödülü kazanmıştı.
 
 Eskişehir Büyükşehir Belediyesi'nin Sarıcakaya ilçesinde sürdürülebilir yöntemlerle yürüttüğü zeytinyağı üretiminde erken hasat dönemi sona erdi. Sarıcakayalı çiftçilerin topladığı zeytinler, Tarımsal Hizmetler Dairesi Başkanlığı tarafından natürel sızma zeytinyağına dönüştürüldü.
@@ -392,52 +406,10 @@ Dorlion Özel Seri zeytinyağı, 19. Natürel Sızma Zeytinyağı Kalite Yarış
 
 **Eğitim · Odunpazarı** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/odunpazari-mesem-den-anlamli-dayanisma-etkinligi-296875.html)
 
-![](data/images/ecbfa860a47d7bd8.jpg)
-
 > Etkinlikte "Bir tas çorba, bin tebessüm" mesajı verildi.
 
 Odunpazarı Mesleki Eğitim Merkezi (OMEM), öğrencilerin sosyal sorumluluk bilincini geliştirmeye yönelik bir etkinlik düzenledi. Okul Müdürü Erhan Aksu'nun katkıları, öğretmenlerin rehberliği ve öğrencilerin çalışmasıyla hazırlanan çorba, paylaşma ve dayanışma amacıyla ikram edildi.
 
 Etkinlikle öğrencilerin empati, yardımlaşma ve sorumluluk bilinci kazanmasına katkı sunulması hedeflendi. OMEM ailesi etkinliğin mesajını "Bir tas çorba, bin tebessüm! Paylaştıkça çoğalır, dayanışmayla güçleniriz" sözleriyle özetledi.
-
----
-
-## Mukaddes Emanetler Sergisi Eskişehir'de açıldı, vatandaşlar kuyruk oluşturdu
-
-**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sakaryagazetesi.com.tr/mukaddes-emanetleri-gorebilmek-icin-metrelerce-kuyruk-olusturdular)
-
-![](data/images/aaacd4fdfeee3a9c.jpg)
-
-> 150'nin üzerinde emanetin yer aldığı sergi İl Kültür Müdürlüğü Sergi Salonu'nda.
-
-Asrı Saadet'ten Osmanlı'ya ve günümüze uzanan 150'nin üzerinde kutsal emaneti Eskişehirlilerle buluşturan Mukaddes Emanetler Sergisi, Eskişehir İl Kültür Müdürlüğü Sergi Salonu'nda dün açıldı. Sergi, koleksiyoncu Erol Güzel ile MÜSİAD Eskişehir Şubesi iş birliğiyle düzenlendi.
-
-Sergide Peygamber Efendimizin Sakal-ı Şerif'i ve Saç-ı Şerifi, Kabe-i Muazzama örtüleri, dünyanın en büyük ikinci el yazma Kur'an-ı Kerim'i, Ehl-i Beyt ve evliyalara ait emanetler yer alıyor. Mukaddes emanetlerin Eskişehir'de ilk kez bu kadar geniş kapsamda sergilendiği belirtildi. Sergiyi görmek isteyen vatandaşlar sergi salonunun önünde metrelerce kuyruk oluşturdu.
-
----
-
-## Kız Anadolu İmam Hatip Lisesi'nde açılacak 4-6 yaş Kur'an kursunun hazırlıkları incelendi
-
-**Eğitim · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-d-tipi-4-6-yas-kuran-kursu-hazirliklari-incelendi-119501366)
-
-![](data/images/06f69fbca589d469.jpg)
-
-> İl Millî Eğitim Müdürü Aydın ve İl Müftüsü Gül, kurs alanını yerinde gördü.
-
-Eskişehir İl Millî Eğitim Müdürü Sinan Aydın ve İl Müftüsü Muharrem Gül, Eskişehir Kız Anadolu İmam Hatip Lisesi bünyesinde açılması planlanan D Tipi 4-6 Yaş Kur'an Kursu'nun hazırlık çalışmalarını yerinde inceledi.
-
-Heyet, kurs alanını ziyaret ederek Okul Müdürü Hasan Kaymakçı'dan hazırlık süreci ve kursun fiziki şartları hakkında bilgi aldı.
-
----
-
-## Kılıçdaroğlu, Lüksemburg Temsilciler Meclisi Başkanı Wiseler'i kabul etti
-
-**Siyaset · Türkiye** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/kemal-kilicdaroglu-luksemburg-temsilciler-meclisi-baskani-wiseler-ile-gorustu-09b1c067)
-
-![](data/images/72d2ec73b16eee79.jpg)
-
-> Görüşme CHP Genel Merkezi'nde, çok partili heyetle yapıldı.
-
-CHP Genel Başkanı Kemal Kılıçdaroğlu, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler başkanlığındaki çok partili heyetle CHP Genel Merkezi'nde bir araya geldi.
 
 ---
