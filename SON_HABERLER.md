@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tarsus Belediye Başkanı Ali Boltaç CHP'den istifa etti
+
+**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://ilketv.com.tr/tarsus-belediye-baskani-ali-boltac-chpden-istifa-etti/)
+
+![](data/images/2b30824f87c24a35.jpg)
+
+> Mersin'in Tarsus ilçesinin Belediye Başkanı Ali Boltaç, hakkında başlatılan disiplin sürecinin ardından CHP üyeliğinden istifa ettiğini açıkladı.
+
+Mersin'in Tarsus ilçesi Belediye Başkanı Ali Boltaç, CHP üyeliğinden istifa ettiğini yazılı bir açıklamayla duyurdu. Boltaç, parti yönetiminin hakkında başlattığı disiplin sürecini üzüntüyle karşıladığını belirtti.
+
+Boltaç, "Bugün itibarıyla Cumhuriyet Halk Partisi üyeliğimden istifa ediyorum" dedi. Kendisi için esas olanın inandığı değerlere sahip çıkmak ve Tarsus halkına karşı sorumluluğunu yerine getirmek olduğunu söyledi.
+
+CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı daha önce yaptığı açıklamada Boltaç'ın tedbirli olarak kesin çıkarma istemiyle Yüksek Disiplin Kurulu'na sevk edildiğini duyurmuştu.
+
+---
+
+## Özgür Özel, Halk TV önündeki dayanışma mitinginde konuştu
+
+**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://kisadalga.net/amp/haber/gundem/ozgur-ozelden-halk-tv-icin-kilicdaroglunda-timsah-gozyaslari-cikisi-halk-tvyi-hedef-gosterenler-meydanda-olamiyor-141099)
+
+![](data/images/328dc546b105512c.jpg)
+
+> Yeni Parti Genel Başkanı Özgür Özel, Halk TV'ye kayyım atanmasını protesto eden dayanışma mitinginde basın özgürlüğü vurgusu yaptı.
+
+Yeni Parti Genel Başkanı Özgür Özel, Halk TV önünde düzenlenen dayanışma mitinginde konuştu. Özel, bu akşamı bir parti mitingi olarak değil, Halk TV'ye kayyım atanmasını protesto etmek ve kanalın yaklaşık 200 çalışanıyla dayanışma göstermek için düzenlediklerini söyledi.
+
+Özel'in aktardığına göre eylemde DİSK, KESK, TMMOB ve İstanbul Tabip Odası ile DEM Parti, TİP, EMEP, İYİ Parti, Saadet Partisi, DEVA Partisi, Zafer Partisi ve LDP gibi çok sayıda parti ve kuruluşun temsilcileri yer aldı.
+
+Özel, konuşmasında gazeteciliğin iktidarı denetleyen dördüncü kuvvet olduğunu söyledi. İktidarı denetimden kaçmakla ve gazetecilere yönelik soruşturma, para cezası, gözaltı ve kayyım uygulamalarıyla suçlayan Özel, bu mücadelenin toplumsallaştırılması gerektiğini ifade etti. Özel ayrıca isim vermeden CHP Genel Başkanı Kemal Kılıçdaroğlu'nu Halk TV'yi hedef göstermekle ve mitinge katılmamakla eleştirdi.
+
+---
+
+## MSB: Katar'dan Eurofighter tedariki için taslak sözleşme bekleniyor
+
+**Türkiye · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.savunmasanayist.com/msbden-eurofighter-aciklamasi-katar-tarafi-bekleniyor/)
+
+![](data/images/b6bd98fd0f03b03f.jpg)
+
+> Milli Savunma Bakanlığı, Katar'dan Eurofighter Typhoon uçağı tedarikinde Katar'dan taslak eğitim programı ve satış sözleşmesi beklendiğini açıkladı.
+
+Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, haftalık basın toplantısında Katar'dan Eurofighter Typhoon uçağı tedarikine ilişkin son durumu paylaştı. Aktürk, Hava Kuvvetleri Komutanlığı'nın harekât ihtiyaçlarının karşılanması için çalışmaların sürdüğünü söyledi.
+
+Aktürk'e göre Ağustos ve Eylül aylarında heyetler arası toplantılar yapıldı. Görüşmelerde tedarik edilecek uçak ve mühimmatın kapsamı, pilot ve bakım personelinin eğitimi ile uçakların idame ve işletmesine yönelik teknik ve lojistik destek ele alındı. Gelinen son aşamada Katar tarafından taslak eğitim programı ve satış sözleşmesi bekleniyor.
+
+SavunmaSanayiST'nin aktardığına göre Türkiye, Katar'ın envanterindeki Typhoon'lardan 12'sini devralmayı planlıyor. Bu uçaklar, Birleşik Krallık ile 27 Ekim 2025'te sözleşmesi imzalanan 20 yeni üretim uçağın teslimine kadar ortaya çıkacak ihtiyacı karşılayacak.
+
+---
+
+## Erdoğan AK Parti MKYK'da fon sürecini ve yerel yönetim reformunu ele aldı
+
+**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.sde.org.tr/turkiye/cumhurbaskani-erdogan-dan-fon-skandaliyla-baslayan-ofkeyi-teskin-eden-konusma-haberi-67859)
+
+![](data/images/55d30cdf8f92e4b6.jpg)
+
+> Cumhurbaşkanı Erdoğan başkanlığındaki AK Parti MKYK toplantısında fon krizine ilişkin süreç ve yerel yönetimler reform paketi gündeme geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplanan AK Parti Merkez Karar ve Yönetim Kurulu'nda (MKYK) fon krizine ilişkin süreç ve yerel yönetimlere yönelik reform çalışmaları görüşüldü.
+
+Türkiye gazetesinin haberine göre Erdoğan, sürecin kararlılıkla yürütüleceğini, sorumluluğu bulunanlar hakkında gerekli adımların atılacağını söyledi. Erdoğan, "Hiçbir şeyin üzeri örtülmeyecek" dedi ve muhalefetin kışkırtmalarına kapılmadan hareket edeceklerini ifade etti.
+
+Toplantıda ayrıca Yerel Yönetimler Başkanlığı'nın hazırladığı reform çalışması ele alındı. Belediyelerde mali disiplinin sağlanması, denetim mekanizmalarının güçlendirilmesi ve büyükşehir, ilçe belediyeleri ile kırsal alanlar arasındaki yetki karmaşasının giderilmesi hedefleniyor. TBMM'ye sunulmak üzere hazırlanan paket; şeffaflık ve denetim, yerel yönetim modeli, mali yapı, yeni uygulamalar ile imar ve planlama olmak üzere beş ana başlıktan oluşuyor.
+
+---
+
+## CHP Engelliler Kurulu Ankara'da istişare toplantısı yaptı
+
+**Siyaset · Türkiye** · 2026-10-23 00:32 UTC · Kaynak: [Google Haberler - CHP](https://www.fibhaber.com/chpli-taylan-simsekten-engelsiz-turkiye-cagrisi)
+
+![](data/images/1c18c15b12d396df.jpg)
+
+> CHP Genel Merkezi'ndeki toplantıda engelli bireylerin sorunları, erişilebilirlik ve fırsat eşitliği konuları ele alındı.
+
+CHP Genel Merkezi Parti Meclisi Salonu'nda Engelliler Kurulu İstişare Toplantısı düzenlendi. CHP Genel Başkan Yardımcısı Necdet Saraç'ın sorumluluğunda yürütülen çalışmalar kapsamındaki toplantıda engelli bireylerin yaşam koşulları, erişilebilir çevre düzenlemeleri ve fırsat eşitliğine yönelik sosyal politikalar değerlendirildi.
+
+Toplantıya katılanlar arasında CHP Nevşehir Merkez İlçe Başkanı ve CHP İç Anadolu Bölgesi Sosyal Politikalar Engelliler Kurulu Koordinatör Yardımcısı Taylan Şimşek de vardı. Şimşek, engelli bireylerin sorunlarının çözüm üretilmesi gereken toplumsal meseleler olduğunu söyledi ve herkes için erişilebilir bir Türkiye hedefiyle çalışacaklarını belirtti.
+
+---
+
 ## Mukaddes Emanetler Sergisi'ne Eskişehir'de yoğun ilgi: Metrelerce kuyruk oluştu
 
 **Kültür-Sanat · Merkez** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.saraymedya.com/haber/eskisehir-de-mukaddes-emanetler-sergisi-yogun-ilgi-gordu_316578/)
@@ -397,93 +475,5 @@ Togg, ekim ayında T10X ve T10F modelleri için finansman kampanyası başlattı
 T10F V2 için 1 milyon TL kredi 6 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 166 bin 667 TL oluyor. Aynı modelde 800 bin TL için 8 ay, 600 bin TL için 12 ay vadeli yüzde 0 faizli seçenekler var. T10X V2'de 800 bin TL kredi 6 ay vadeyle yüzde 0 faizli verilirken aylık taksit 133 bin 333 TL oluyor.
 
 T10X 4More ve T10F 4More modellerinde 1,5 milyon TL kredi 10 ay vade ve yüzde 0 faizle sunuluyor, aylık taksit 150 bin TL. Aynı tutar 36 ay vadede yüzde 2,99 faizle 78 bin 93 TL aylık ödemeyle kullanılabiliyor. T10X V2 ve T10F V2 için 1 milyon 700 bin TL'lik 48 ay vadeli kredi ise yüzde 2,95 faizle aylık 78 bin 8 TL taksit içeriyor.
-
----
-
-## Togg T10X ve T10F için yeni OTA yazılım güncellemesi yayında
-
-**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.haber7.com/otomobil/haber/3666930-togglara-isinize-yarayacak-ozellik-geliyor-alacaklari-memnun-edecek)
-
-![](data/images/328663d6dc4a7552.jpg)
-
-> Togg, T10X ve T10F modellerine multimedya ekranı, şarj ve ses ayarlarında iyileştirmeler getiren yeni kablosuz yazılım güncellemesini sundu.
-
-Togg, T10X ve T10F modelleri için yeni kablosuz yazılım (OTA) güncellemesini kullanıcıların erişimine açtı. Güncelleme; şarj deneyimi, multimedya sistemi, ses ayarları ve enerji yönetimi alanlarında iyileştirmeler içeriyor.
-
-Bilgi-eğlence ekranının tepki hızı artırıldı, menüler arası geçişler daha akıcı hale getirildi. 360 derece çevre görüş kamerası daha kısa sürede devreye giriyor. Standart ses sistemine manuel ekolayzer ayarı eklendi ve Bluetooth bağlantısının kararlılığına yönelik düzenlemeler yapıldı.
-
-T10X kullanıcıları uyumlu şarj istasyonlarında otomatik şarj özelliğinden yararlanabilecek. AC şarj sırasında araç kablo bağlıyken kapı kilitlerinin açılması şarjı kesmeyecek.
-
----
-
-## Togg, COP31'in mobilite sektör ortağı oldu
-
-**Ekonomi · Merkez** · 2026-10-22 14:33 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-cop31-turkiyenin-mobilite-sektor-ortagi-oldu-3921749)
-
-![](data/images/1b9fff4a74dce736.jpg)
-
-> Togg, Türkiye'nin ev sahipliğinde yapılacak COP31'de "Mobilite Sektör Ortağı" olarak yer alacak ve Start-up Zone'un ana sahne sponsorluğunu üstlenecek.
-
-Togg, Türkiye'nin ev sahipliğinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Konferansı COP31'in "Mobilite Sektör Ortağı" oldu. Kamu, özel sektör, uluslararası kuruluşlar, akademi ve sivil toplum temsilcilerini bir araya getirecek zirvede Togg, elektrikli mobiliteye geçişin iklim hedeflerine katkısını enerji ve dijital hizmetleriyle birlikte anlatacak. Şirket ayrıca Start-up Zone'un ana sahne sponsoru olacak.
-
-Togg Yönetim Kurulu Başkanı Fuat Tosyalı, COP31'in Türkiye'nin üretim yetkinliklerini, teknoloji geliştirme kapasitesini ve yeşil dönüşüm hedeflerini uluslararası ölçekte ortaya koyması açısından önemli bir fırsat olduğunu söyledi.
-
-Togg CEO'su M. Gürcan Karakaş, yollardaki 130 bine yaklaşan akıllı cihazla 600 bin tona varan CO₂ emisyonunun önüne geçildiğini belirtti. Karakaş, Gemlik Teknoloji Kampüsü'nde kendi bataryalarını ürettiklerini, ultra hızlı şarj ağı Trugo ile 81 ilde yenilenebilir enerji kaynaklarından sağlanan enerji sunduklarını ifade etti.
-
----
-
-## Piyano Günleri'nde Barış Büyükyıldırım "Akışın Hafızası" resitali verdi
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-22 14:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/pxplibx0jufhoq0n37bnmr4j)
-
-![](data/images/e45fad4d873bbaa0.jpg)
-
-> Anadolu Üniversitesi'ndeki 6. Uluslararası Piyano Günleri kapsamında piyanist Barış Büyükyıldırım Händel, Riley ve Liszt'in eserlerinden oluşan resital sundu.
-
-Anadolu Üniversitesi Devlet Konservatuvarı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında piyanist Barış Büyükyıldırım "Akışın Hafızası" başlıklı resitalini verdi. Resital Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı ve Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren ile çok sayıda sanatsever tarafından izlendi.
-
-Programda Georg Friedrich Händel'in Sol Majör Chaconne ve 21 Varyasyon'u, Terry Riley'nin Keyboard Study No. 1'i ve Franz Liszt'in Bach'ın bir kantatı ile Si Minör Missa'daki "Crucifixus" motifi üzerine yazdığı varyasyonlar yer aldı.
-
-Büyükyıldırım, 19. yüzyılın ortalarına kadar bestecilerin aynı zamanda doğaçlamacı olduğunu, sonradan yorumculuk, bestecilik ve doğaçlamanın birbirinden ayrılmaya başladığını anlattı. Kendi bestelerinden "Triquetra" ve "Wasserreise"yi de seslendirdi. Resitalin sonunda Prof. Eren, sanatçıya teşekkür belgesi ve çiçek verdi.
-
----
-
-## Anadolu Üniversitesi'nde Bağımlılık Farkındalık Haftası ikinci gününde sürdü
-
-**Eğitim · Tepebaşı** · 2026-10-22 14:33 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/acoeslhv9rdll385k587o6y1)
-
-![](data/images/37bca43900f5a848.jpg)
-
-> 3. Bağımlılık Farkındalık Haftası'nın ikinci gününde Anadolu Park'ta atölyeler, spor salonunda turnuvalar, Turizm Fakültesi'nde atölye ve "Narko Gençlik" semineri yapıldı.
-
-Anadolu Üniversitesi Bağımlılık Önleme Çalışmaları Birim Müdürlüğü'nün düzenlediği "3. Bağımlılık Farkındalık Haftası" etkinlikleri ikinci gününde de sürdü. Birim Müdürü Doç. Dr. Ayşe Çevik, her yıl ekim ayının üçüncü haftasında bu etkinlikleri düzenlediklerini, öğrencilere olabildiğince fazla etkinlik sunmaya çalıştıklarını söyledi.
-
-Çevik'e göre Anadolu Park'ta atölye çalışmaları ve etkinlikler devam ediyor, öğrencilere çeşitli ikramlar sunuluyor. Yunus Emre Spor Salonu'nda 3x3 basketbol turnuvası yapılırken, önceki gün düzenlenen floor curling, dart, satranç ve masa tenisi turnuvalarında kazanan öğrencilere madalyaları verildi. Çevik, birkaç günlük de olsa bağımlılığa dikkat çekmek, bağımsızlıkla ilgili alternatifler sunmak istediklerini belirtti.
-
-Turizm Fakültesi uygulama mutfağında Doç. Dr. Merve Özgür Göde ve Araş. Gör. Halide Gernaz'ın yürüttüğü "Latte'nin Moleküler Yolculuğu" atölyesi düzenlendi. Atölye sonunda eğitmenlere Doç. Dr. Çevik tarafından katılım sertifikası verildi.
-
-İletişim Bilimleri Fakültesi Şener Şen Kültür Salonu'nda ise Polis Memuru Mehmet Ali Avcı "Narko Gençlik" semineri verdi. Avcı, madde bağımlılığının çoğu zaman merak duygusu ve arkadaş çevresiyle başladığını, tedavinin zor ve uzun bir süreç olduğunu anlattı.
-
----
-
-## Festival kenti Eskişehir'de iptal zinciri: Faturayı esnaf ve seyirci ödedi
-
-**Kültür-Sanat · Merkez** · 2026-10-22 14:32 UTC · Kaynak: [Eskişehir.net ve yerel basın](https://www.eskisehir.net/eskisehirde-bir-festival-daha-iptal-edildi)
-
-![](data/images/festival-iptalleri-20261022.jpg)
-
-> Festivalleriyle öne çıkan Eskişehir'de son iki ayda beş etkinlik iptal edildi. Organizasyon krizinde tezgâh açan esnaf zarar ettiğini söylerken, bilet alanlar iade için platform platform dolaşmak zorunda kaldı.
-
-Konserleri, açık hava etkinlikleri ve uluslararası festivalleriyle kendini "festival kenti" olarak tanıtan Eskişehir, eylül ve ekim aylarında art arda gelen iptallerle anıldı. Son iki ayda beş etkinlik ya tamamen iptal edildi ya da programdan çıkarıldı. İptallerin bedelini ise bilet alan seyirciler, yol masrafına girip tezgâh kuran esnaf ve hazırlık yapan kurumlar ödedi.
-
-Tablonun en ağır halkası Tepebaşı'nda 18-20 Eylül'de düzenlenen Food Vibe Fest oldu. Ceza, Piiz ve İrem Derici, organizasyon firmasının sorumluluklarını yerine getirmediğini açıklayarak konserlerini iptal etti. İrem Derici paylaşımında, "Kabahatli ben olmasam da bizi de mağdur edenler adına ben sizlerden özür dilerim" diyerek seyircilerden özür diledi.
-
-Festival için Türkiye'nin farklı illerinden Eskişehir'e gelen esnaf ise stant ücretleri, elektrik ve jeneratör sorunları, beklenenin çok altında kalan ziyaretçi sayısı ve bozulan ürünler nedeniyle ciddi zarara uğradıklarını anlattı. Adana'dan geldiğini söyleyen esnaf Hüseyin Yüksel, "7 bin bilet satıldığı söylenmişti ancak 2 günde bin kişi bile gelmedi" dedi. Esnafın şikâyetçi olduğu organizasyon sorumlusu E.Ü. polis tarafından karakola götürüldü ve hakkında işlem başlatıldı.
-
-Kriz bununla da sınırlı kalmadı. 23-25 Ekim'de Kentpark'ta yapılacak Şehir Festivalleri, düzenleyici Because Creative'in yoğun yağış riski açıklamasıyla iptal edildi. Bilet sahiplerine, iade için bileti aldıkları platformlarla kendilerinin iletişime geçmesi söylendi; festivalin ileri bir tarihte yapılıp yapılmayacağına dair bir bilgi verilmedi.
-
-26 Eylül'deki 3. İnönü Havacılık Festivali de hazırlıkları tamamlanmışken güçlü rüzgâr nedeniyle iptal edildi ve yeni bir tarih açıklanmadı. 7 Ekim'deki Yalın konseri ise bilet sahiplerine gönderilen bir mesajla iptal edildi; kararın gerekçesi kamuoyuyla paylaşılmadı, prodüksiyon şirketi yalnızca konserin bahara kaldığını bildirdi. Porsuk Festivali kapsamındaki "Yıldız" adlı tiyatro oyunu da sağlık sorunu gerekçesiyle sahnelenemedi.
-
-Art arda gelen iptaller, kentte etkinlik düzenleyen firmaların nasıl denetlendiği, açık hava etkinliklerinde hava koşullarına karşı neden bir yedek plan bulunmadığı, bilet iadelerinin tamamlanıp tamamlanmadığı ve Food Vibe Fest'te zarar eden esnafın kayıplarının kim tarafından karşılanacağı sorularını gündeme getirdi. Nabız 26, bu soruların yanıtlarının peşini bırakmayacak.
 
 ---
