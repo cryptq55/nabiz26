@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## İtalyan köpek eğitmenleri Eskişehir'de Türk çoban köpeklerini inceledi
+
+**Gündem · Merkez** · 2026-10-23 18:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.sehirgazetesi.com.tr/eskisehire-ikinci-kez-geldiler-italyanlar-turk-coban-kopeklerine-hayran-kaldi)
+
+![](data/images/065e8d61da0a4c68.jpg)
+
+> 10 kişilik heyet, Eskişehirli çoban Süleyman Savran'ın çiftliğinde 1 ay kaldı.
+
+Orta İtalya'dan gelen 10 kişilik köpek eğitmeni heyeti, Eskişehirli çiftçi ve çoban Süleyman Savran'ın konuğu olarak yaklaşık 1 ay boyunca Türk çoban köpeklerinin sürü içindeki davranışlarını inceledi. Heyet iki yıl önce başlayan gözlem sürecinin ardından ikinci kez Eskişehir'e geldi.
+
+İtalyan eğitmen Christopher Paoletti, Türk çoban köpeklerinin kurda karşı çok daha baskın ve atılgan olduğunu, kendi ülkelerindeki köpeklerin ise havlayarak ve koku bırakarak yabani hayvanı püskürttüğünü söyledi. Eğitmen Elisa Malacrida ise Türkiye'ye ilk kez geldiğini belirterek grup içindeki dinamikleri ve çobanın çalışma tarzını izlemenin büyüleyici olduğunu ifade etti.
+
+Savran, konuklarının topladıkları bilgilerle Türk çoban köpeklerinin karakterini İtalya'da tanıtacağını söyledi.
+
+---
+
+## Erdoğan, R4+E3 toplantısı için gelen altı ülkenin dışişleri bakanlarını kabul etti
+
+**Siyaset · Türkiye** · 2026-10-23 18:31 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-6-ulkenin-disisleri-bakanlarini-kabul-etti-961021.html)
+
+![](data/images/2ad6dccabdfdf799.jpg)
+
+> Kabulde Fidan, Wadephul, Barrot, Tajani, Dar, Abdulati ve Faysal bin Ferhan yer aldı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, R4 (Türkiye, Mısır, Pakistan ve Suudi Arabistan) ile İtalya'nın katılımıyla gerçekleştirilen R4+E3 (İngiltere, Almanya ve Fransa) Dışişleri Bakanları Toplantıları kapsamında Türkiye'ye gelen dışişleri bakanlarını kabul etti.
+
+Kabulde Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wadephul, Fransa Dışişleri Bakanı Jean-Noel Barrot, İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, Pakistan Dışişleri Bakanı Muhammad Ishaq Dar, Mısır Dışişleri Bakanı Bedir Abdulati ve Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan yer aldı.
+
+---
+
 ## Zorla tespih satıp gasbetmeye çalıştığı öne sürülen şüpheli Ankara'da yakalandı
 
 **Asayiş · Tepebaşı** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-bir-kisiyi-gasbetmeye-calistigi-one-surulen-supheli-ankarada-yakalandi-119501650)
@@ -409,33 +439,5 @@ Heyet, kurs alanını ziyaret ederek Okul Müdürü Hasan Kaymakçı'dan hazırl
 > Görüşme CHP Genel Merkezi'nde, çok partili heyetle yapıldı.
 
 CHP Genel Başkanı Kemal Kılıçdaroğlu, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler başkanlığındaki çok partili heyetle CHP Genel Merkezi'nde bir araya geldi.
-
----
-
-## Halk Dansları Topluluğu ilk gösterisini yaptı: Ünlüce "hayalim gerçek oldu" dedi
-
-**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/ayse-unluce-en-buyuk-hayalini-gerceklestirdigini-acikladi)
-
-![](data/images/db0910a3db4266d2.jpg)
-
-> "Eskiden Şehre Dorlion Zamanın Dansı" Eskişehir Yılı 2026 kapsamında sahnelendi.
-
-Eskişehir Büyükşehir Belediyesi bünyesinde oluşturulan halk dansları topluluğu, 2026 Eskişehir Yılı etkinlikleri kapsamındaki "Eskiden Şehre Dorlion Zamanın Dansı" gösterisiyle ilk performansını sergiledi. Gösteride kentin geçmişten Cumhuriyet'e uzanan tarihi müzik ve dansla anlatıldı.
-
-Büyükşehir Belediye Başkanı Ayşe Ünlüce, sosyal medya hesabından yaptığı paylaşımda yıllardır güçlü bir halk dansları topluluğu hayal ettiğini, ekibin ilk gösterisiyle bu hayalin gerçeğe dönüştüğünü söyledi. Ünlüce, emeği geçenlere teşekkür ederek topluluğun gelecekte de kentin kültürünü sahneye taşımasını diledi.
-
----
-
-## ESMEK'ten müzede "Ben Bir İlmek Biz Bir Motif" yaratıcı drama atölyesi
-
-**Kültür-Sanat · Merkez** · 2026-10-23 12:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-muzede-anlamli-etkinlik-kadin-emegi-ve-dayanisma-ele-alindi)
-
-![](data/images/b759971dd3c532ac.jpg)
-
-> Atölyede müze koleksiyonundaki eserlerden yola çıkılarak kadın emeği ve dayanışma ele alındı.
-
-Eğitmen Aslıhan Aslan yürütücülüğünde düzenlenen "Ben Bir İlmek Biz Bir Motif – Müzede Yaratıcı Drama Atölyesi"nde farklı kuşaklardan katılımcılar bir araya geldi.
-
-Atölyede müze koleksiyonundaki eserlerden yola çıkılarak kadın emeği, toplumsal roller ve ortak yaşam deneyimleri yaratıcı drama çalışmalarıyla ele alındı. Canlandırma, grup çalışmaları ve hikâye oluşturma etkinlikleriyle katılımcılar kadın dayanışması ve toplumsal eşitsizlikler üzerine düşündü. ESMEK, Kültür ve Düşünce Buluşmaları kapsamında farklı temalarda etkinlikler düzenlemeye devam edecek.
 
 ---
