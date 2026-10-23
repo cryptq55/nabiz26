@@ -2,6 +2,118 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediyesi desteğiyle anneler Alaaddin Park Cafe'de buluştu
+
+**Belediye · Odunpazarı** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/kazim-kurtun-destegiyle-anneler-alaaddin-park-cafede-bulustu)
+
+![](data/images/b1929f19acc44087.jpg)
+
+> Eskişehir Anneleri Buluşuyor Platformu'nun sonbahar etkinliğine yaklaşık 100 anne ve çocuk katıldı.
+
+Odunpazarı Belediyesi'nin desteğiyle düzenlenen Eskişehir Anneleri Buluşuyor etkinliğinde, 0-6 yaş arasındaki çocuklar ve anneleri Alaaddin Park Cafe'de bir araya geldi. Esgazete'nin haberine göre etkinliğe yaklaşık 100 anne ve çocuk katıldı.
+
+Çocuklar sonbahar temalı boyama etkinliğine katıldı, sonbahar yapraklarından taçlar hazırladı; müzik ve geleneksel sokak oyunlarıyla vakit geçirdi. Odunpazarı Belediyesi Kadın ve Aile Hizmetleri Müdürlüğü ile Eskişehir Anneleri Buluşuyor Platformu'nun iş birliğinde düzenlenen etkinlikle annelerin tanışması ve deneyimlerini paylaşması amaçlandı.
+
+Belediye Başkanı Kazım Kurt, daha önce Kanlıkavak Parkı'ndaki buluşmada Alaaddin Park Cafe'nin anneler tarafından kullanılabileceğini söylemişti. Müdürlük de annelerle görüş alışverişinde bulunarak mekânda yapılabilecek düzenlemeleri değerlendirdi.
+
+---
+
+## Kurtuluş Kapalı Pazar Yeri'nin açılış tarihi için henüz resmî açıklama yok
+
+**Belediye · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-kurtulus-kapali-pazar-yeri-ne-zaman-acilacak-iste-dusunulen-tarihler)
+
+![](data/images/52cf4cd18d5a0a80.jpg)
+
+> Gazeteci Akif Yer, projede fiziki gerçekleşmenin yüzde 99'u geçtiğinin ifade edildiğini, resmî bitiş tarihinin Haziran 2027 olduğunu söyledi.
+
+Eskişehir'de uzun süredir beklenen Kurtuluş Kapalı Pazar Yeri projesinde çalışmaların son aşamaya geldiği belirtiliyor. Kanal 26'daki "Muhabirin Gözünden" programında Esra Merve Özer'in sorularını yanıtlayan gazeteci Akif Yer, projenin son durumunu anlattı.
+
+Akif Yer, fiziki gerçekleşme oranının yüzde 99'u geçtiğinin ifade edildiğini, iç düzenleme ve yerleşim çalışmalarının sürdüğünü söyledi. Projenin resmî bitiş tarihinin Haziran 2027 olduğunu belirten Yer, açılışın daha erken yapılabileceğine dair duyumlar aldığını ve 23 Nisan ile 19 Mayıs tarihlerinin gündeme gelebileceğini aktardı; bu tarihler için resmî bir açıklama bulunmadığını vurguladı.
+
+Yer'in aktardığına göre pazarcı esnafı halen İmar Sokak çevresindeki geçici alanda satış yapıyor. Yeni binada balıkçılar, şarküteriler ve diğer esnaf için kapalı satış alanları oluşturulacak, zemin altında iki katlı otopark ve Pazarcılar Odası için bir ofis yer alacak.
+
+---
+
+## Eskişehir'de 23 Ekim'de 7 ilçede planlı elektrik kesintisi: Mahalle mahalle liste
+
+**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehirhaber26.com/eskisehirde-23-ekimde-elektrik-kesintisi-iste-mahalle-mahalle-liste)
+
+![](data/images/ad220084b7b7e129.jpg)
+
+> OEDAŞ'ın açıkladığı programa göre Odunpazarı, Tepebaşı, Sarıcakaya, Sivrihisar, Beylikova ve Çifteler'de bazı mahallelerde saatlerce elektrik verilemeyecek.
+
+Osmangazi Elektrik Dağıtım AŞ (OEDAŞ), 23 Ekim 2026 Cuma günü Eskişehir'in 6 ilçesinde bakım, yatırım ve ağaç budama çalışmaları nedeniyle planlı elektrik kesintisi yapılacağını duyurdu. Kesintiler sabah 09.00'da başlayacak, bazı bölgelerde 18.00'e kadar sürecek.
+
+Odunpazarı'nda Orhangazi Mahallesi'nde 09.00-16.00, Karaçay ve Kireç mahallelerinde 10.00-16.00 arasında enerji verilemeyecek. Sarıcakaya'da Beyyayla, Güney ve Kapıkaya mahallelerinde 09.00-17.00 arasında kesinti olacak. Tepebaşı'nda Ertuğrulgazi Mahallesi'nin bazı sokaklarında (Huzur, Arzugül, Damar, İncesu, Ödül ve Porsuk Nehri sokakları) 13.00-16.00 arasında elektrik olmayacak.
+
+Sivrihisar'da Demirciköy, İlören, Koltan, Mülkköy, Nasrettin Hoca, Oğlakçı ve Ortaklar mahallelerinde 10.00-15.30 arasında, Beylikova'da Ata (İstasyon), İkipınar ve Parsıbey mahallelerinde 10.00-16.00 arasında, Çifteler'de Doğanay Mahallesi'nde 11.45-18.00 arasında kesinti yapılacak.
+
+Çalışmaların erken tamamlanması veya saha koşullarına göre saatler değişebilir. Güncel bilgiler OEDAŞ'ın duyurularından ve ALO 186 elektrik arıza hattından öğrenilebiliyor.
+
+---
+
+## Eskişehir Şeker Fabrikası'nın taşınması tartışması yeniden gündemde
+
+**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-seker-fabrikasi-tasinacak-mi-koku-sikintisi-yine-gundemde)
+
+![](data/images/dd148d754123f912.jpg)
+
+> Kanal 26'da konuşan gazeteci Akif Yer, fabrikanın kokusu, kapasitesi ve çiftçi nakliye giderleri üzerine yürüyen tartışmayı değerlendirdi.
+
+Kanal 26'daki "Muhabirin Gözünden" programında Esra Merve Özer'in sorularını yanıtlayan gazeteci Akif Yer, Eskişehir Şeker Fabrikası'nın taşınmasına ilişkin tartışmaları değerlendirdi. Yer, yaklaşık 93 yıl önce kurulan fabrikanın başlangıçta şehir dışında kaldığını, kentin büyümesiyle yerleşim alanlarının arasında kaldığını anlattı.
+
+Yer'e göre tartışma, AK Parti Eskişehir İl Başkanı Gürhan Albayrak'ın Eskişehir Genç Rençberler Derneği'ni ziyaretiyle gündeme geldi. Albayrak'ın gerekli görülürse taşınmanın mümkün olabileceğini söylediği iddia ediliyor. İYİ Parti Odunpazarı İlçe Başkanı Gürol Yer ise fabrikanın yerinde kalmasını savunuyor ve arazinin rant amacıyla kullanılmaması gerektiğini söylüyor. Genç Rençberler Derneği Başkanı Burak Kuşan ise Mahmudiye'yi pancar üreticileri için ulaşılabilir bir nokta olarak öneriyor.
+
+Akif Yer, taşınmanın nakliye giderlerini azaltabileceğini, ancak fabrikanın üretim ve işleme kapasitesinin artırılmasının şart olduğunu söyledi. Koku sorununun özellikle Tepebaşı'nda hissedildiğini belirten Yer, taşınma kararı alınırsa mevcut arazinin kamu mülkiyetinde kalmasını ve satışa çıkarılmamasını savundu.
+
+---
+
+## Erdoğan AK Parti grup toplantısında siyaset dilini ve sel çalışmalarını anlattı
+
+**Siyaset · Türkiye** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.tbmm.gov.tr/Haber/Detay?Id=fe054b99-be80-4d03-a5a7-01a15e25ca54)
+
+![](data/images/5bfdca20b1ba1dbe.jpg)
+
+> Cumhurbaşkanı Erdoğan, TBMM'deki AK Parti Grup Toplantısı'nda muhalefete yönelik eleştirilerde bulundu ve afet çalışmalarına ilişkin bilgi verdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda yaptığı konuşmada geçen hafta İstanbul'dan Ankara'ya gelirken geçirdiği trafik kazasında hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için başsağlığı diledi. Erdoğan, Üsküdar Belediye Başkan Vekili seçilen Muhammed Emin Sarıoğlu'nu da tebrik etti.
+
+Erdoğan, siyasette artan kutuplaşmanın tehlikelerine dikkat çektiğini ve tüm siyasi partileri müştereklerini çoğaltmaya davet ettiğini söyledi. Son üç haftada muhalefetin bazı isimlerinden beklediği tavrı görmediğini belirten Erdoğan, muhalefetin bir kısmının sorumsuz bir tavır sergilediğini ileri sürdü. Fon tartışmalarına da değinen Erdoğan, belgesiz itham ve iftira olarak nitelendirdiği iddialara karşı hukuk ve demokrasi zemininde mücadele edeceklerini söyledi.
+
+Erdoğan ayrıca geçen hafta İstanbul ve çevre illerde yaşanan aşırı yağış, sel ve su baskınlarına ilişkin açıklama yaptı. Devlet olarak vakit kaybetmeden harekete geçtiklerini belirten Erdoğan, 14 Ekim'de afet gruplarının İstanbul'daki il ve ilçe AFAD yönetim merkezlerinde 7 gün 24 saat çalışmaya başladığını, arama kurtarma, müdahale ve destek çalışmalarında 47 bin 217 personelin, 5 bin 280 araç ve 14 botla görev aldığını açıkladı.
+
+---
+
+## Çukurova Belediyesi soruşturmasında 34 kişi tutuklandı
+
+**Asayiş · Türkiye** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - CHP](https://www.sonmuhur.com/uc-ay-once-chp-genel-sekreter-yardimcisi-olarak-atanmisti-cukurova-belediyesine-yonelik-sorusturmada-tutuklandi)
+
+![](data/images/2d962c9a1f6e40de.jpg)
+
+> Adana Cumhuriyet Başsavcılığı'nın soruşturmasında 19 Ekim'de 51 kişi hakkında gözaltı kararı verilmişti.
+
+Adana Cumhuriyet Başsavcılığı, Çukurova Belediyesi'ne yönelik "suç işlemek amacıyla örgüt kurma, yönetme ve örgüte üye olma", "rüşvet", "nitelikli dolandırıcılık" ve "ihaleye fesat karıştırma" suçlamalarıyla soruşturma yürütüyor. Son Mühür'ün aktardığına göre soruşturmada 19 Ekim'de 51 kişi hakkında gözaltı kararı çıkarılmıştı.
+
+Gözaltına alınanlar arasında Çukurova Belediyesi'nin 2014-2024 arasındaki eski başkanı S. Ç. ile mevcut başkan E. K. de bulunuyordu. Şüphelilerin sorgusunun tamamlanmasının ardından, aralarında üç belediye başkan yardımcısının da olduğu 34 kişi hakkında tutuklama kararı verildi. Haberde, tutuklananlardan eski başkanın bu yıl haziranda CHP Genel Sekreter Yardımcısı olarak atandığı ve mevcut başkanın CHP'den aday gösterildikten sonra Yeni Parti'ye geçtiği belirtildi. Soruşturma sürüyor.
+
+---
+
+## AK Parti Eskişehir İl Başkanı Albayrak: Eskişehir Kalkınma Platformu dernekleşecek
+
+**Gündem · Merkez** · 2026-10-23 06:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/ak-parti-eskisehir-il-baskani-gurhan-albayrak-eskisehiri-dunyaya-acmak-istiyoruz)
+
+![](data/images/888ea94b328cd618.jpg)
+
+> Albayrak, Brüksel temaslarının ardından THY'yi Eskişehir'e getirmek ve kenti uluslararası alanda tanıtmak istediklerini söyledi.
+
+AK Parti Eskişehir İl Başkanı Gürhan Albayrak, Brüksel temaslarının ardından Sakarya Gazetesi'ne açıklamalarda bulundu. Albayrak, Eskişehir Kalkınma Platformu'nun dernekleşeceğini, platformun internet sitesi ve sosyal medya hesaplarının oluşturulacağını ve faaliyetlerin büyük ölçüde sponsorluklarla yürütülmesinin planlandığını söyledi.
+
+Albayrak'a göre platform DEİK Avrupa İş Dünyası Zirvesi'ne katıldı. Koç Holding CEO'su, Türk Hava Yolları yetkilileri, TÜRSAB Başkanı ve Türkiye'nin Brüksel büyükelçisiyle görüşüldü. THY yetkilileriyle Eskişehir Teknik Üniversitesi ile birlikte pilotaj eğitimleri ve motor bakımı konularının konuşulduğunu anlatan Albayrak, THY'nin Eskişehir'e gelmesini istediklerini belirtti.
+
+Albayrak, kasım sonu veya aralık başında vali, belediye başkanları ve oda başkanlarıyla yeniden Brüksel'e gitmeyi, nisan veya mayısta Brüksel'de Eskişehir Tanıtım Günleri düzenlemeyi ve haziran ya da temmuzda Eskişehir'de Gurbetçiler Festivali yapmayı planladıklarını söyledi. Çevre yolu ve Yenişehir-Gemlik bağlantısının öncelikli konular olduğunu belirten Albayrak, Ulaştırma Bakanlığı'ndan aldığı bilgiye göre bağlantı yolunun ihalesinin 2027'nin ilk çeyreğinde yapılmasının öngörüldüğünü aktardı.
+
+---
+
 ## AK Parti'li İnan: Erdoğan kasım ayında İzmir'e gelecek
 
 **Siyaset · Türkiye** · 2026-10-23 05:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.gundemebakis.com/cumhurbaskani-erdogan-izmire-geliyor-tarihi-mujdeleri-aciklayacak)
@@ -357,117 +469,5 @@ Aile ve Sosyal Hizmetler Bakanlığı'nın gönüllülük faaliyetlerine katıl�
 Platform üzerinden bireysel ve kurumsal gönüllüler; sosyo-kültürel, çevre, eğitim, sanat, spor, psikososyal, bilişsel-gelişimsel, eğlence ve bilim gibi alanlardaki etkinliklere katılabiliyor. Etkinlikler, bakanlığın bağlı kuruluşları ve il müdürlükleri tarafından belirlenen ihtiyaç alanlarına göre planlanıyor. Platformdaki haritada iyilik alanlarının yoğunluğu illere göre farklı renklerle gösteriliyor.
 
 Bakanlığın açıklamasına göre 81 ilde toplam 1088 iyilik alanı oluşturuldu. Platforma ilişkin bilgilere www.iyilikvar.gov.tr adresinden ulaşılabiliyor.
-
----
-
-## Eskişehir Büyükşehir Belediyesi büfe, çay bahçesi ve otopark için 4 Kasım'da ihale yapacak
-
-**Belediye · Merkez** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediyesi-yeni-bufe-ve-cay-bahceleri-icin-ihaleye-cikiyor-a585d780)
-
-![](data/images/525a4704e90905fd.jpg)
-
-> Büyükşehir Belediyesi, kentin farklı noktalarındaki büfe ve çay bahçesi alanları ile 140 araç kapasiteli katlı otoparkı açık artırmayla kiraya verecek.
-
-Eskişehir Büyükşehir Belediyesi, kentin farklı noktalarında hizmet verecek büfe, çay bahçesi ve çiçekçi alanları ile 140 araç kapasiteli katlı otoparkın kiraya verilmesi için 4 Kasım Çarşamba günü ihaleye çıkacak. İhale, Satın Alma Dairesi Başkanlığı tarafından 2886 sayılı Devlet İhale Kanunu'nun 45. maddesi uyarınca açık artırma usulüyle yapılacak.
-
-İhale kapsamında belediyeye ait 4 büfe ile işletmeciler tarafından yaptırılacak 12 büfe kiralanacak. Büfe yapılması planlanan noktalar arasında 71 Evler Mahallesi (Şehir Hastanesi yanı), Muttalip Orta Mahallesi, Uluönder Mahallesi, Akarbaşı Mahallesi, Sümer Park ve Büyük Park girişi yer alıyor. Babalar Parkı, Söğütönü Parkı, Pati Park yanı ve Batıkent'te tenis kortları yanındaki alanlar büfe ve çay bahçesi olarak kiraya verilecek. Ulus Anıtı Meydanı'nda ise 3 çiçekçi büfesi için ihale yapılacak.
-
-Odunpazarı ilçesi Şarkiye Mahallesi'ndeki 140 araç kapasiteli katlı otopark da kiralanacak. İhaleye katılmak isteyenlerin ikametgâh belgesi, imza sirküleri, nüfus cüzdanı fotokopisi, geçici teminat makbuzu veya banka teminat mektubu, şartname alındı makbuzu ve Gelir Müdürlüğü'nden alınacak "borcu yoktur" yazısını hazırlaması gerekiyor.
-
----
-
-## CHP Kadın Kolları Genel Başkanı Gülsever, Kadirli'de 87 yaşındaki H. T.'yi ziyaret etti
-
-**Siyaset · Türkiye** · 2026-10-22 23:32 UTC · Kaynak: [Google Haberler - CHP](https://www.medyagazete.com/haber/chp-kadin-kollari-genel-baskani-gulseverden-huru-teyzeye-ziyaret-1467158)
-
-![](data/images/afb0ab41755a696f.jpg)
-
-> CHP Kadın Kolları Genel Başkanı Ayten Gülsever, Osmaniye'nin Kadirli ilçesinde geçimini pazarda sağlamaya çalışan yaşlı bir kadını ziyaret ederek barınma ve gelir sorununa dikkat çekti.
-
-CHP Kadın Kolları Genel Başkanı Ayten Gülsever, Osmaniye'nin Kadirli ilçesinde 87 yaşında olmasına rağmen geçimini sağlamaya çalışan H. T.'yi ziyaret etti. Ziyarette CHP Osmaniye İl Başkanı Rıza Tekerek ve yönetim kurulu üyeleri de yer aldı.
-
-Gülsever'in açıklamasına göre H. T., herhangi bir geliri olmadan kömürlükte yaşıyor ve kızının dağdan topladığı nanelerin kurutulup satılmasıyla geçimini sağlamaya çalışıyor. Gülsever, 87 yaşındaki bir vatandaşın bu koşullarda yaşam mücadelesi vermesinin sosyal devlet anlayışı açısından ciddi bir sorun olduğunu söyledi.
-
-Gülsever, CHP Genel Başkanı Kemal Kılıçdaroğlu'nun talimatıyla harekete geçtiklerini, Osmaniye İl Başkanlığı ile salı gününden itibaren iletişim kurduklarını anlattı. Konunun gündeme gelmesinin ardından Osmaniye milletvekillerinin ve Kadirli Belediyesi'nin de harekete geçtiğini belirten Gülsever, atılan adımları sevindirici bulduğunu ifade etti.
-
----
-
-## Odunpazarı'nda foseptik çukuruna düşen at AFAD ekiplerince kurtarıldı
-
-**Gündem · Odunpazarı** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.nefes.com.tr/evden-kacip-foseptik-cukuruna-dusen-ati-afad-kurtardi-159947)
-
-![](data/images/091a06d04d260c02.jpg)
-
-> Evinin bahçesinden kaçan at, boş arsadaki foseptik çukuruna düştü. AFAD ekipleri atı kurtardı.
-
-Odunpazarı'na bağlı 71 Evler Mahallesi Mehmet Akif Ersoy Sokak'ta bir evin bahçesindeki at, bulunduğu yerden kaçtı. Başıboş dolaşan at, boş bir arsadaki foseptik çukuruna düştü.
-
-Atın çukurda mahsur kaldığını fark eden çevredekilerin ihbarı üzerine olay yerine AFAD ve polis ekipleri gönderildi. Hareketsiz kalan at, AFAD ekiplerinin çalışmasıyla çukurdan çıkarıldı.
-
-Bacağında yara oluşan at, belediye personeli tarafından barınağa götürüldü.
-
----
-
-## MEB, yurt dışındaki öğrenciler için yenilenen Türkçe ders kitaplarını yayımladı
-
-**Eğitim · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/yurt-disindaki-ogrenciler-icin-yenilenen-quotturkce-ve-turk-kulturuquot-ders-kitaplari-yayimlandi/haber/42255/tr)
-
-![](data/images/dca01a3b75f70c0e.jpg)
-
-> Yurt dışında yaşayan Türk çocukları için hazırlanan 7 seviyelik "Türkçe ve Türk Kültürü" ders kitabı seti "Ülkem Yanımda" platformunda yayımlandı.
-
-Millî Eğitim Bakanlığı, 2026 Türkçe ve Türk Kültürü Dersi Öğretim Programı doğrultusunda Yükseköğretim ve Yurt Dışı Eğitim Genel Müdürlüğünce hazırlanan 7 seviyelik ders kitabı setini "Ülkem Yanımda" platformunda yayımladı. Kitaplar, yurt dışında yaşayan Türk öğrencilerin Türkçe dil becerilerini geliştirmeyi amaçlıyor.
-
-Bakanlığın açıklamasına göre Almanya, Fransa, Belçika, Birleşik Krallık, İsviçre, İtalya ve Karadağ'da yürütülen yüz yüze eğitime bu yıl Japonya da eklendi. Böylece 8 ülkede 800'e yakın öğretmenle 50 bine yakın öğrenciye ana dili eğitimi veriliyor.
-
-Seviye temelli kitaplar dinleme, konuşma, okuma ve yazma becerilerini destekliyor. İçeriklerde bayramlardan geleneklere, tarihî şahsiyetlerden spor ve sanata, geleneksel oyunlardan bilim ve teknolojiye uzanan konular yer alıyor.
-
----
-
-## Kadınlar için yapay zekâ ve dijital güçlenme eğitimleri 7 pilot ilde başlıyor
-
-**Türkiye · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/kadinlar-icin-yapay-zeka-ve-dijital-guclenme-egitimleri-7-pilot-ilde-basliyor/)
-
-![](data/images/b3f9df9fd97fcf48.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve KADEM iş birliğindeki eğitimler 27 Ekim'de Van'da başlayacak. Başvurular çevrim içi alınıyor.
-
-Aile ve Sosyal Hizmetler Bakanlığı, Turkcell ve Kadın ve Demokrasi Vakfı (KADEM) iş birliğiyle hayata geçirilen "Kadınlar İçin Yapay Zeka ve Dijital Güçlenme Eğitimleri" 27 Ekim'de Van'da başlayacak. Program, kadınların yapay zekâ ve güvenli internet alanlarındaki yetkinliklerini artırmayı amaçlıyor. Protokol, 17 Eylül'de İstanbul'da imzalanmıştı.
-
-Eğitimler 7 pilot ilde yapılacak: 27 Ekim'de Van, 3 Kasım'da İzmir, 12 Kasım'da Ankara, 1 Aralık'ta Bursa ve Gaziantep, 8 Aralık'ta Adana ve Samsun. Programın 2027'de diğer illere yaygınlaştırılması planlanıyor.
-
-Eğitimlerde dijital ebeveynlik, akıllı ev yönetimi, dijital güvenlik, ev ekonomisi ve güvenli alışveriş konuları işlenecek. Çocuklarıyla gelmek isteyen katılımcılar için eğitim süresince Bakanlık personeli çocuk bakım hizmeti sunacak. Katılmak isteyen kadınlar bakanlığın internet sitesindeki kayıt formundan başvurabilecek.
-
----
-
-## İçişleri Bakanı Çiftçi: COP31 Zirvesi'nde 26 bin personel görev yapacak
-
-**Türkiye · Türkiye** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.akdenizgercek.com.tr/antalya/icisleri-bakani-ciftci-acikladi-cop31-zirvesinde-26-bin-personel-gorev-yapacak/387838)
-
-![](data/images/455e78679876078b.jpg)
-
-> İçişleri Bakanı Mustafa Çiftçi, Antalya'daki COP31 hazırlıklarını inceledi. Günlük ziyaretçi sayısının 100 bine ulaşması bekleniyor.
-
-İçişleri Bakanı Mustafa Çiftçi ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 hazırlıkları kapsamında Antalya'da zirve alanındaki çalışmaları yerinde inceledi.
-
-Çiftçi, zirvede 26 bin personelin görev yapacağını, güvenlik tedbirlerinin kara, hava ve denizden yürütüleceğini söyledi. Günlük ziyaretçi sayısının 100 bin kişiye ulaşmasının beklendiğini belirten Çiftçi, NATO Zirvesi'ndeki hassasiyetle hazırlık yaptıklarını ifade etti. Konferans alanı ve konaklama noktalarındaki yangın önlemleri, tahliye planları ve acil durum senaryolarının gözden geçirildiğini de aktardı.
-
-Bakan Kurum ise şu ana kadar 85 ülke liderinin zirveye katılacağını bildirdiğini söyledi. Çiftçi, zirve süresince gösteri başvurularını değerlendirme yetkisinin Antalya Valiliği'ne devredildiğini açıkladı.
-
----
-
-## Eskişehir'de üç ilçede tefecilik operasyonu: 4 şüpheli gözaltına alındı
-
-**Asayiş · Merkez** · 2026-10-22 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberler.com/amp/eskisehir-de-3-ilcede-duzenlenen-tefecilik-20357342-haberi/)
-
-![](data/images/a8ff5a80adbae4ad.jpg)
-
-> Jandarma ekipleri Odunpazarı, Tepebaşı ve Alpu'da tefecilik şüphesiyle düzenlediği operasyonda 4 kişiyi gözaltına aldı.
-
-Eskişehir İl Jandarma Komutanlığı ekipleri, tefecilik yaparak haksız kazanç elde ettikleri belirlenen 4 şüpheliyi yakalamak için Odunpazarı, Tepebaşı ve Alpu ilçelerinde operasyon düzenledi. Şüphelilerin ev ve iş yerlerinde arama yapıldı, 4 şüpheli gözaltına alındı.
-
-Aramalarda 2 bin 137 tabanca fişeği, dolu senet, 3 çek, 83 boş senet, 7 alacak-verecek defteri, muhtelif mali belgeler, Roma dönemine ait olduğu değerlendirilen bir sikke ve 4 cep telefonu ele geçirildi.
-
-Gözaltına alınan şüpheliler hakkında tefecilik suçu kapsamında işlem başlatıldı.
 
 ---
