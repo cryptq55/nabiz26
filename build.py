@@ -33,8 +33,8 @@ SITE = {
     "url": os.environ.get("SITE_URL", "").rstrip("/"),
     "tagline": "Eskişehir'in nabzı, 7/24",
     "email": os.environ.get("SITE_EMAIL", "iletisim@nabiz26.com"),
-    "description": ("Eskişehir son dakika haberleri: Odunpazarı, Tepebaşı ve 14 ilçeden gündem, belediye, "
-                    "eğitim, spor, ekonomi ve asayiş haberleri günün her saati Nabız 26'da."),
+    "description": ("Eskişehir son dakika haberleri: Odunpazarı, Tepebaşı ve ilçelerden gündem, belediye, "
+                    "eğitim, spor, ekonomi ve asayiş haberleri, hava durumu ve namaz vakitleri Nabız 26'da."),
 }
 # IndexNow anahtarı: Bing ve Yandex'e yeni sayfaları anında bildirmek için (gizli değildir)
 # Instagram açıklamalarına kategoriye göre ek etiketler (keşfedilebilirlik)
