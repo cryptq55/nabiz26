@@ -37,6 +37,14 @@ SITE = {
                     "eğitim, spor, ekonomi ve asayiş haberleri günün her saati Nabız 26'da."),
 }
 # IndexNow anahtarı: Bing ve Yandex'e yeni sayfaları anında bildirmek için (gizli değildir)
+# Instagram açıklamalarına kategoriye göre ek etiketler (keşfedilebilirlik)
+CATEGORY_TAGS = {
+    "Spor": ["#Eskişehirspor", "#Spor"], "Eğitim": ["#Eğitim", "#Öğrenci"], "Ekonomi": ["#Ekonomi", "#Piyasa"],
+    "Asayiş": ["#Asayiş", "#SonDakika"], "Siyaset": ["#Siyaset", "#Gündem"], "Gündem": ["#Gündem", "#SonDakika"],
+    "Türkiye": ["#Türkiye", "#Gündem"], "Kültür-Sanat": ["#Kültür", "#Sanat", "#Etkinlik"],
+    "Belediye": ["#Belediye", "#YerelYönetim"], "Ulaşım": ["#Ulaşım", "#Trafik"], "Sağlık": ["#Sağlık"],
+    "Hava Durumu": ["#HavaDurumu"], "Tarım": ["#Tarım", "#Çiftçi"],
+}
 INDEXNOW_KEY = hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır
 CATEGORY_COLORS = {
@@ -384,6 +392,9 @@ def main():
         if a["district"] not in ("Merkez",):
             tags.append("#" + a["district"].replace(" ", ""))
         tags.append("#" + a["category"].replace("-", "").replace(" ", ""))
+        for t in CATEGORY_TAGS.get(a["category"], []):
+            if t not in tags:
+                tags.append(t)
         caption = (f"{a['title']}\n\n{a['spot']}\n\n"
                    f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),
