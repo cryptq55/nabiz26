@@ -9,7 +9,8 @@
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",
-    "run_worker_first": true,
+    // Görsel, CSS/JS ve sosyal dosyalar Worker'a uğramaz (ücretsiz kota yalnızca sayfa isteklerinde harcanır)
+    "run_worker_first": ["/*", "!/images/*", "!/static/*", "!/social/*"],
     "not_found_handling": "404-page",
     "html_handling": "drop-trailing-slash"
   }
