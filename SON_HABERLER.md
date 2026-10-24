@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor, Bursa Yıldırımspor ile 2-2 berabere kaldı; penaltı direkten döndü
+
+**Spor · Merkez** · 2026-10-24 18:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macinda-fiyasko-mac-sonucu-2-2)
+
+![](data/images/d95a714c4ab07b78.jpg)
+
+> Es-Es son dakikalarda iki golle geri döndü; Ahmet Dereli sakatlanınca 10 kişi oynadı.
+
+Eskişehirspor, 3. Lig'de sahasında Bursa Yıldırımspor ile 2-2 berabere kaldı. Konuk ekip 19. dakikada Hakan Öztürk'ün golüyle öne geçti. Eskişehirspor ikinci yarıda baskı kurdu; Beykan Şimşek'in kullandığı penaltı direkten döndü. 78. dakikada sakatlanan Ahmet Dereli oyuna devam edemedi ve oyuncu değişikliği hakkı kalmayan ev sahibi takım son bölümde 10 kişi mücadele etti.
+
+Eskişehirspor 83. dakikada Kerem Baykuş'un golüyle skoru 1-1'e getirdi. Bursa Yıldırımspor 88. dakikada Efe Yüceer'in golüyle yeniden öne geçti, Baykuş 89. dakikada ikinci golünü atarak skoru 2-2 yaptı.
+
+Taraftarının 169 gün sonra takımıyla ligde buluştuğu maçın ardından teknik direktör Hakan Şapcı'ya yönelik istifa çağrıları yapıldığı aktarıldı.
+
+---
+
 ## Eskişehirspor, Bursa Yıldırımspor karşısında ilk yarıyı 0-1 geride kapattı
 
 **Spor · Merkez** · 2026-10-24 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macina-kotu-basladi-ilk-yari-sonucu-0-1)
@@ -423,21 +439,5 @@ Eskişehir Büyükşehir Belediyesi, 25 Ekim 2026 Pazar günü saat 10.15'te ba�
 Sınav sabahı otobüs seferleri hafta içi tarifesine göre yapılacak, ihtiyaç duyulan güzergâhlarda ek seferler düzenlenecek. ESTRAM cumartesi sefer saatlerini uygulayacak. Üniversite bölgelerinde trafik akışını rahatlatmak için sinyalizasyon sistemlerinde düzenleme yapıldı. Eskişehir Osmangazi Üniversitesi'nin üç kapısı sınav süresince açık olacak, emniyet ekipleri kavşaklarda ilave tedbir alacak.
 
 Büyükşehir, adayların sınav merkezlerine en az 2 saat önce ulaşmasını ve mümkün olduğunca toplu taşımayı tercih etmesini istedi.
-
----
-
-## İtalyan köpek eğitmenleri Eskişehir'de Türk çoban köpeklerini inceledi
-
-**Gündem · Merkez** · 2026-10-23 18:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.sehirgazetesi.com.tr/eskisehire-ikinci-kez-geldiler-italyanlar-turk-coban-kopeklerine-hayran-kaldi)
-
-![](data/images/065e8d61da0a4c68.jpg)
-
-> 10 kişilik heyet, Eskişehirli çoban Süleyman Savran'ın çiftliğinde 1 ay kaldı.
-
-Orta İtalya'dan gelen 10 kişilik köpek eğitmeni heyeti, Eskişehirli çiftçi ve çoban Süleyman Savran'ın konuğu olarak yaklaşık 1 ay boyunca Türk çoban köpeklerinin sürü içindeki davranışlarını inceledi. Heyet iki yıl önce başlayan gözlem sürecinin ardından ikinci kez Eskişehir'e geldi.
-
-İtalyan eğitmen Christopher Paoletti, Türk çoban köpeklerinin kurda karşı çok daha baskın ve atılgan olduğunu, kendi ülkelerindeki köpeklerin ise havlayarak ve koku bırakarak yabani hayvanı püskürttüğünü söyledi. Eğitmen Elisa Malacrida ise Türkiye'ye ilk kez geldiğini belirterek grup içindeki dinamikleri ve çobanın çalışma tarzını izlemenin büyüleyici olduğunu ifade etti.
-
-Savran, konuklarının topladıkları bilgilerle Türk çoban köpeklerinin karakterini İtalya'da tanıtacağını söyledi.
 
 ---
