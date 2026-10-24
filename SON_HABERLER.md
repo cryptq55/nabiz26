@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de gazeteciler "Sansüre Hayır, Habere Özgürlük" yürüyüşü yaptı
+
+**Gündem · Merkez** · 2026-10-24 15:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-sansure-hayir-habere-ozgurluk-yuruyusu-duzenlendi-bu-duzene-sessiz-kalmayacagiz-2549879)
+
+![](data/images/8ca144b16194407c.jpg)
+
+> ÇGD, TGS ve EGC şubelerinin çağrısıyla Köprübaşı'ndan Yediler Parkı'na yürüdüler.
+
+Gazetecilere yönelik gözaltı ve tutuklamalara, medya kuruluşlarına kayyum atamalarına ve haber sitelerine getirilen erişim engellerine karşı basın meslek örgütlerinin ortak çağrısıyla Eskişehir'de "Sansüre Hayır, Habere Özgürlük" yürüyüşü yapıldı. Katılımcılar Köprübaşı'ndan Hamamyolu Yediler Parkı'na yürüdü. Yürüyüşe YENİ Parti Eskişehir Milletvekili İbrahim Arslan ile Odunpazarı Belediye Başkanı Kazım Kurt destek verdi.
+
+Çağdaş Gazeteciler Derneği (ÇGD), Türkiye Gazeteciler Sendikası (TGS) ve Eskişehir Gazeteciler Cemiyeti (EGC) Eskişehir şubeleri adına basın metnini okuyan ÇGD Eskişehir Şubesi Yönetim Kurulu Üyesi Eylem Lodos, "Gazeteciliğin suç, haberin tehdit, gerçeğin sakıncalı sayıldığı bu düzene sessiz kalmayacağız" dedi. Lodos, basın örgütlerinin tek taleplerinin mesleği özgürce yapmak olduğunu ve basın özgürlüğünün yalnızca gazetecilerin değil toplumun tüm kesimlerinin sorunu olduğunu söyledi. Açıklamadaki değerlendirmeler basın örgütlerine aittir.
+
+---
+
+## Eskişehir'de bu gece Ay ve Satürn gökyüzünde yan yana görülecek
+
+**Gündem · Merkez** · 2026-10-24 15:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-bu-gece-gokyuzune-bakin-ay-ve-saturn-bir-arada-gorulecek)
+
+![](data/images/871c0756f0528fd5.jpg)
+
+> 24 Ekim akşamı iki gök cismi çıplak gözle izlenebilecek; 26 Ekim'de dolunay olacak.
+
+TÜBİTAK Bilim Genç'in ekim ayı gökyüzü takvimine göre Ay ile Satürn, 24 Ekim Cumartesi akşamı Balıklar Takımyıldızı yönünde birbirine yakın görülecek. Hava koşulları uygun olursa görüntü Eskişehir'de çıplak gözle izlenebilecek. Ay, kentte 16.53 civarında doğacak; iki gök cismi gece boyunca gökyüzünde kalacak.
+
+Gözlem yapmak isteyenlere yüksek binaların görüşü kapatmadığı, gökyüzünün açık olduğu alanları tercih etmeleri öneriliyor. Şelale Park gibi şehre hâkim noktalar değerlendirilebilir; şehir ışıklarından uzak alanlar daha sönük yıldızları görmek için avantaj sağlayabilir. Şehir dışına çıkacakların güvenli alanları seçmesi gerekiyor.
+
+Ekimin son haftasında 26 Ekim Pazartesi günü dolunay olacak. Eskişehir'de Ay'ın yaklaşık 17.49'da doğması bekleniyor.
+
+---
+
 ## 29 Ekim'de Eskişehir'de tramvay ve otobüslerin ücretsiz olup olmayacağı henüz belli değil
 
 **Ulaşım · Merkez** · 2026-10-24 14:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirde-29-ekimde-tramvay-ve-otobusler-ucretsiz-olacak-mi-iste-son-gelismeler)
@@ -405,31 +435,5 @@ Kabulde Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wa
 Eskişehir'de zorla tespih sattığı kişinin parasını gasbetmeye çalıştığı iddia edilen şüpheli Ankara'da yakalandı. Olay, Tepebaşı ilçesi Yenibağlar Mahallesi Yılmaz Büyükerşen Bulvarı'nda yaşandı.
 
 Eskişehir İl Emniyet Müdürlüğü Asayiş Şubesi ekipleri çalışma başlattı ve Ankara'da bulunduğunu tespit ettiği şüpheli R.A.'yı (26) yakaladı. Gözaltına alınan şüpheli hakkında Eskişehir Cumhuriyet Başsavcılığı'nın talimatıyla işlem başlatıldı. Şüpheli hakkındaki suçlama henüz kanıtlanmış değil.
-
----
-
-## Sivrihisar'da traktörün şaftına kolunu kaptıran kadın ağır yaralandı
-
-**Gündem · Sivrihisar** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-feci-kaza--traktorun-saftina-kolunu-kaptiran-kadin-agir-yaralandi-296889.html)
-
-> 53 yaşındaki E.K. Göltepe Mahallesi'ndeki olayda hastaneye kaldırıldı.
-
-Eskişehir'in Sivrihisar ilçesine bağlı kırsal Göltepe Mahallesi'nde çalışır durumdaki traktörün dönen şaftına sol kolunu kaptıran 53 yaşındaki E.K. ağır yaralandı. Olayı görenlerin ihbarı üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi.
-
-Sağlık ekiplerinin ilk müdahalesinin ardından ambulansla Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Hastanesi'ne kaldırılan kadının sağlık durumunun ciddiyetini koruduğu öğrenildi. Olayın nedeni henüz belirlenemedi; jandarma ekipleri inceleme başlattı.
-
----
-
-## CHP'li Saraç: 7 Kasım'da Ankara'da "Emekliler Buluşuyor" toplantısı yapılacak
-
-**Siyaset · Türkiye** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - CHP](https://www.babaocagi.com.tr/chp-genel-baskan-yardimcisi-sarac-ulkede-12-milyon-insan-aclik-sinirinda-yasiyor)
-
-> Saraç ve Demirci, toplantıya davet için Yozgat'ta CHP il örgütünü ziyaret etti.
-
-CHP Genel Başkan Yardımcıları Necdet Saraç ve Adnan Demirci, partilerinin 7 Kasım'da Ankara'da düzenleyeceği "Emekliler Buluşuyor" toplantısına vatandaşları davet etmek için Yozgat'a gitti ve CHP Yozgat il örgütünü ziyaret etti.
-
-Saraç, yaptığı açıklamada Türkiye'de resmî emekli sayısının 16 milyon 900 bin olduğunu, emeklilerin yaklaşık 12,5 milyonunun 23 bin ile 40 bin lira arasında maaş aldığını söyledi. Saraç, gıda için açlık sınırının 37 bin lira olduğunu belirterek "12 milyon insan bu ülkede açlık sınırında yaşıyor" dedi ve çözüm bulunması gerektiğini savundu. Emekli maaşlarına ilişkin rakamlar Saraç'a aittir.
-
-Saraç, Yozgat'ın 420 bin nüfusundan 88 bininin emekli olduğunu belirtti ve emeklilerin 7 Kasım'da Ankara'daki toplantıya katılmasını istedi.
 
 ---
