@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Tekin: Ebeveyn Okulu Programı'na katılım zorunlu, katılım oranı yüzde 91'e ulaştı
+
+**Eğitim · Türkiye** · 2026-10-24 10:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/velilere-20-saatlik-egitim-zorunlulugu-bakan-tekin-acikladi-52116)
+
+![](data/images/ef0555b43e4d02d3.jpg)
+
+> Okul öncesi, ilkokul 1. ve ortaokul 5. sınıfa başlayan öğrencilerin velileri 20 saatlik eğitim alıyor.
+
+Millî Eğitim Bakanı Yusuf Tekin, Ebeveyn Okulu Programı'na katılım oranının yüzde 91'e ulaştığını açıkladı. Programa katılım, bu yıl okul öncesine, ilkokul 1. sınıfa ve ortaokul 5. sınıfa yeni başlayan öğrencilerin velileri için zorunlu hâle getirildi.
+
+Yaklaşık iki veya üç güne yayılan, toplam 20 saatlik programda velilere aile içi iletişim ve sağlıklı aile ilişkileri, çocukların akademik gelişiminin desteklenmesi, öğretmen ve okul yönetimiyle doğru iletişim, ebeveynlerin sorumlulukları ile okul-aile iş birliği ve güvenlik konularında eğitim veriliyor. Uygulamayla özellikle okula uyum sürecinde ailelerin daha etkin rol üstlenmesi hedefleniyor.
+
+---
+
+## Eskişehirspor–Bursa Yıldırımspor maçı bugün saat 19.00'da, Tivibu Spor 4'ten yayınlanacak
+
+**Spor · Merkez** · 2026-10-24 10:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haberlisin.com/eskisehirspor-bursa-yildirimspor-maci-hangi-kanalda-saat-kacta-24-ekim-canli-yayin)
+
+![](data/images/e65e83f5630ae23e.jpg)
+
+> Karşılaşma Nesine 3. Lig 2. Grup'un 8. haftasında oynanacak.
+
+Eskişehirspor, Nesine 3. Lig 2. Grup'un 8. haftasında Bursa Yıldırımspor'u konuk edecek. Karşılaşma 24 Ekim 2026 Cumartesi günü saat 19.00'da başlayacak.
+
+Maç Tivibu Spor 4 kanalından canlı yayınlanacak. Dijital ortamda izlemek isteyenler Tivibu GO üzerinden erişim seçeneklerini kontrol edebilecek.
+
+---
+
 ## Altın fiyatları 24 Ekim 2026: Gram altın 6.471,57 TL
 
 **Ekonomi · Merkez** · 2026-10-24 09:59 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -399,35 +427,5 @@ Eskişehir'de Cumhuriyet'in 103. yılı dolayısıyla 29 Ekim Perşembe günü C
 Buluşmanın ardından organizasyona katılan kurumlar adına basın açıklaması yapılacak, katılımcılar Vilayet Meydanı'na yürüyecek. Etkinlik, saygı duruşu ve İstiklal Marşı'nın okunmasıyla sona erecek. Akmen, vatandaşlardan evlerine bayrak asmalarını da istedi.
 
 Yürüyüşe Atatürkçü Düşünce Derneği Eskişehir Şubesi, ÇYDD Eskişehir Şubesi ve Eğitim ve Bilim İşgörenleri Sendikası Eskişehir Şubesi öncülük ediyor.
-
----
-
-## Erdoğan, Üsküdar ve Ataşehir belediye başkan vekillerini kabul etti
-
-**Siyaset · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-3483755)
-
-![](data/images/erdogan-uskudar-ve-atasehir-belediye-baskan-vek-arsiv.jpg)
-
-> Görüşmede ele alınan konulara ilişkin ayrıntı paylaşılmadı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Üsküdar Belediye Başkan Vekili Muhammed Emin Sarıoğlu ile Ataşehir Belediye Başkan Vekili Serdar Orhan'ı kabul etti. Kabule AK Parti İstanbul İl Başkanı Abdullah Özdemir ile Üsküdar ve Ataşehir ilçe başkanları da katıldı.
-
-Özdemir, sosyal medya hesabından yaptığı paylaşımda Erdoğan'a İstanbul'a gösterdiği yakın ilgi için teşekkür etti ve belediye başkan vekillerine görevlerinde başarı diledi. Görüşmede ele alınan konulara ilişkin paylaşımda ayrıntılı bilgi verilmedi.
-
----
-
-## Eskişehir'de 462 kamu yatırım projesinin 70'i tamamlandı
-
-**Gündem · Merkez** · 2026-10-23 15:34 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-baskanliginda-ekim-ayi-il-koordinasyon-kurulu-toplantisi-gerceklestirildi)
-
-![](data/images/10478a4e9f0a37fc.jpg)
-
-> Vali Yılmaz başkanlığındaki Ekim ayı İl Koordinasyon Kurulu toplantısında yatırımların durumu değerlendirildi.
-
-2026 yılının dördüncü (Ekim ayı) İl Koordinasyon Kurulu Toplantısı, Vali Dr. Erdinç Yılmaz başkanlığında kurul üyelerinin katılımıyla yapıldı. Toplantı, kamu yatırımlarının il düzeyinde uygulanması, izlenmesi ve koordinasyonunun sağlanması amacıyla düzenlendi.
-
-Vali Yılmaz, İLYAS (İl Yatırım Takip Sistemi) verilerine göre 2026 yılı üçüncü dönem sonu itibarıyla ilde çeşitli sektörlerde yapılan ve yapılması planlanan 462 proje bulunduğunu söyledi. Bu projelerin 70'inin tamamlandığını, 270'inin devam ettiğini, 15'inin ihale aşamasında olduğunu ve 103 projeye başlanacağını belirtti.
-
-Yılmaz, koordinasyon gerektiren sorun ve ihtiyaçların toplantıda gündeme getirilmesinin önemine değindi, kurumların alınan kararları çözümlemede gerekli itinayı göstermesini istedi. Toplantı, kurul üyelerinin sunumlarının ardından sona erdi.
 
 ---
