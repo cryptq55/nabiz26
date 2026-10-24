@@ -6,6 +6,7 @@ Yalnızca dosya adında bu adın bütün kelimeleri geçen, en az 1000 px geniş
 kamu malı lisanslı fotoğraflar seçilir. Uygun fotoğraf yoksa None döner ve haber yayınlanmaz.
 """
 
+import json
 import re
 import time
 import unicodedata
@@ -13,7 +14,7 @@ from io import BytesIO
 from pathlib import Path
 
 import requests
-from PIL import Image
+from PIL import Image, ImageFilter, ImageStat
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "Nabiz26Bot/1.0 (https://nabiz26.com; iletisim@nabiz26.com)"}
@@ -22,7 +23,8 @@ BAD_WORDS = ("logo", "map", "flag", "harita", "bayrak", "signature", "imza", "ic
              "afis", "coat of arms", "seal", "svg", "letter", "mektup", "document", "belge", "handwrit", "el yazisi",
              "stamp", "pul", "banknote", "coin", "screenshot", "ekran goruntusu", "graffiti", "caricature", "karikatur",
              "tebrik", "mesaj", "message", "card", "kart", "book", "kitap", "newspaper", "gazete", "cover", "kapak",
-             "billboard", "pano", "mural", "banner", "pankart", "sticker")
+             "billboard", "pano", "mural", "banner", "pankart", "sticker", "ranking", "table", "tablo", "graph",
+             "grafik", "statistic", "istatistik", "timeline", "infographic", "scan", "tarama")
 
 
 # Bir kişinin adını taşıyan yerler (stadyum, havalimanı, cadde...) o kişinin fotoğrafı değildir;
@@ -31,6 +33,40 @@ PLACE_WORDS = ("stadium", "stadyum", "stadi", "arena", "airport", "havalimani", 
                "caddesi", "cadde", "bulvari", "boulevard", "street", "avenue", "sokak", "school", "okulu", "lisesi",
                "hospital", "hastanesi", "bridge", "koprusu", "tunnel", "tuneli", "parki", "kulliye", "statue", "heykel",
                "bust", "bust", "tomb", "turbe", "station", "istasyon", "ship", "gemi")
+
+
+# Tek kişi aranırken o kişinin başkasıyla görüşmesi/ziyareti yanıltır (ör. bakanın yabancı mevkidaşıyla fotoğrafı)
+MEETING_WORDS = ("meets", "meeting", "met with", "with", "and", "talks", "visit", "visits", "summit", "bilateral",
+                 "delegation", "ile", "gorusme", "gorustu", "ziyaret", "kabul", "zirve", "heyet", "toplanti")
+# Yalnızca şehir/ilçe adı habere birebir uyan fotoğraf vermez (rastgele sokak/bina çıkar)
+TOO_GENERIC = {"eskisehir", "turkiye", "turkey", "ankara", "istanbul", "odunpazari", "tepebasi", "alpu", "beylikova",
+               "cifteler", "gunyuzu", "han", "inonu", "mahmudiye", "mihalgazi", "mihaliccik", "saricakaya", "seyitgazi",
+               "sivrihisar", "eskisehir merkez", "eskisehir turkey", "eskisehir city"}
+USED = Path(__file__).parent / "data" / "media_used.json"
+REUSE_DAYS, REUSE_MAX = 10, 2  # aynı fotoğraf 10 günde en fazla 2 haberde
+
+
+def _used():
+    try:
+        data = json.loads(USED.read_text(encoding="utf-8"))
+    except Exception:
+        data = {}
+    cut = time.time() - REUSE_DAYS * 86400
+    return {k: [t for t in v if t > cut] for k, v in data.items() if any(t > cut for t in v)}
+
+
+def _mark(title):
+    data = _used()
+    data.setdefault(title, []).append(time.time())
+    USED.write_text(json.dumps(data, ensure_ascii=False, indent=0), encoding="utf-8")
+
+
+def _looks_ok(im):
+    """Karanlık, soluk ya da bulanık fotoğrafları eler."""
+    g = im.convert("L").resize((256, 256))
+    st = ImageStat.Stat(g)
+    sharp = ImageStat.Stat(g.filter(ImageFilter.FIND_EDGES)).mean[0]
+    return 55 <= st.mean[0] <= 215 and st.stddev[0] >= 30 and sharp >= 6  # çok beyaz zemin = çizim/tablo
 
 
 def _norm(s):
@@ -67,6 +103,8 @@ def candidates(query, limit=15):
             continue
         qn = _norm(query)
         if any(w in title.split() and w not in qn for w in PLACE_WORDS):
+            continue
+        if any(f" {w} " in f" {title} " and f" {w} " not in f" {qn} " for w in MEETING_WORDS):
             continue
         artist = re.sub(r"\s+", " ", re.sub("<[^>]+>", "", meta.get("Artist", {}).get("value", ""))).strip()[:60]
         out.append({"index": p.get("index", 99), "title": p["title"], "url": ii.get("thumburl") or ii["url"],
@@ -151,28 +189,43 @@ def find_image(query, images_dir, key):
 
     query bir metin ya da en özelden en genele sıralı metin listesi olabilir:
     ["Recep Tayyip Erdoğan Mark Carney", "Recep Tayyip Erdoğan"]."""
-    queries = [q.strip() for q in ([query] if isinstance(query, str) else (query or [])) if q and q.strip()]
+    queries = [q.strip() for q in ([query] if isinstance(query, str) else (query or []))
+               if q and q.strip() and _norm(q) not in TOO_GENERIC]
     if not queries:
         return None
-    tried = set()
+    used = _used()
+    tried, spare = set(), []
     for c in _ordered(queries):
         if c["title"] in tried:
             continue
         tried.add(c["title"])
-        if len(tried) > 8:
+        if len(tried) > 10:
             break
         try:
             r = requests.get(c["url"], headers=HEADERS, timeout=40)
             if not r.ok:
                 continue
             im = Image.open(BytesIO(r.content)).convert("RGB")
-            im.thumbnail((1280, 1280))
-            Path(images_dir).mkdir(parents=True, exist_ok=True)
-            im.save(Path(images_dir) / f"{key}.jpg", "JPEG", quality=82, optimize=True, progressive=True)
-            return {"file": f"images/{key}.jpg", "source_url": c["page"], "archive": True,
-                    "credit": f"{c['artist']} / Wikimedia Commons ({c['license']})"}
+            if not _looks_ok(im):
+                continue
+            if len(used.get(c["title"], [])) >= REUSE_MAX:  # çok kullanıldı: başka uygun fotoğraf yoksa son çare
+                spare.append((len(used[c["title"]]), c, im))
+                continue
+            return _save(c, im, images_dir, key)
         except Exception:
             continue
         finally:
             time.sleep(1)
+    if spare:
+        _, c, im = min(spare, key=lambda x: x[0])
+        return _save(c, im, images_dir, key)
     return None
+
+
+def _save(c, im, images_dir, key):
+    im.thumbnail((1280, 1280))
+    Path(images_dir).mkdir(parents=True, exist_ok=True)
+    im.save(Path(images_dir) / f"{key}.jpg", "JPEG", quality=82, optimize=True, progressive=True)
+    _mark(c["title"])
+    return {"file": f"images/{key}.jpg", "source_url": c["page"], "archive": True,
+            "credit": f"{c['artist']} / Wikimedia Commons ({c['license']})"}

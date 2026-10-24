@@ -25,7 +25,6 @@ ROOT = Path(__file__).parent
 TR = timezone(timedelta(hours=3))
 AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 GUNLER = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
-SIRA = ["Bir", "İki", "Üç", "Dört", "Beş"]
 
 
 def first_sentence(text, limit=170):
@@ -104,8 +103,8 @@ def build_script(kind, items, now, svc):
     else:
         intro = f"Eskişehir'de bugün. {date} gününün öne çıkan haberleri Nabız 26'da."
     parts.append(intro)
-    for i, a in enumerate(items):
-        parts.append(f"{SIRA[i]}. {first_sentence(a['spot'])}")
+    for a in items:  # sıra numarası okunmaz; köşedeki sayaç yeterli
+        parts.append(first_sentence(a["spot"]))
     parts.append("Haberlerin tamamı nabız yirmi altı nokta com'da.")
     text, starts = "", []
     for ptxt in parts:
