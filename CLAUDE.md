@@ -9,7 +9,8 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   Editör kuralları: `python newsbot.py --rules`. Kaynaklar: `sources.yaml`.
 - **Yayın:** Cloudflare Workers (GitHub bağlantısı), her push'ta derler. Derleme komutu:
   `pip install -r requirements.txt && SITE_URL=https://nabiz26.com LINK_EXT= python build.py`, ayar `wrangler.jsonc`.
-  Alan adları nabiz26.com ve www.nabiz26.com bağlı.
+  Alan adları nabiz26.com ve www.nabiz26.com bağlı; `worker.js` www ve http isteklerini 301 ile https://nabiz26.com'a
+  yönlendirir (Search Console tekrar eden URL uyarısı, 24.10.2026).
 - **GitHub Actions** (`.github/workflows/haber.yml`): yeni haberde IndexNow (Bing/Yandex) bildirimi ve
   Instagram paylaşımı (`instagram.py`; `IG_ACCESS_TOKEN` gizli değişkeni yoksa atlar).
   `ig-token.yml` haftada bir 60 günlük Instagram token'ını yeniler (`GH_SECRETS_TOKEN` gerekir).
