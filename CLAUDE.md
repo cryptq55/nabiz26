@@ -57,7 +57,9 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
   fotoğrafı (`media.py`: dosya adında adın bütün kelimeleri, ≥1000 px, CC BY/BY-SA/CC0/kamu malı, logo/harita/afiş yok);
   sitede ve kartlarda "Arşiv fotoğrafı" etiketi, fotoğrafçı ve lisans. Bulunamazsa haber yayınlanmaz. Sahibi yapay zekâ
   görseli ve yazılı kapak istemedi (23.10.2026). Birebir fotoğrafı olmayan eski haberler gizlendi (`image: null`,
-  eski görsel `image_hidden` alanında). Altın haberi tablo kapağıyla kalır.
+  eski görsel `image_hidden` alanında). Altın haberi tablo kapağıyla kalır. Tek kişi aranırken görüşme fotoğrafı,
+  grafik/tablo, karanlık/bulanık fotoğraf elenir; aynı fotoğraf 10 günde en fazla 2 haberde (`data/media_used.json`);
+  yalnızca şehir/ilçe adıyla aranmaz (24.10.2026, sahibi "saçma görsel kullanma" dedi).
 - Yayınlanmış haber sonradan elle değiştirilmez (düzeltme gerekirse sahibine sor).
 - Haberlerde kaynakta olmayan bilgi yok. Asayişte masumiyet karinesi, tam isim yok.
 - Gizli bilgiler (token, şifre) sohbete yazılmaz; GitHub Secrets'a eklenir.
