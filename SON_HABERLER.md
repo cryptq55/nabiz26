@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Büyükşehir ve Emeklilerin Sesi Derneği kıdemli vatandaşlara iletişim etkinliği düzenledi
+
+**Belediye · Merkez** · 2026-10-24 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-buyuksehir-belediyesi-ve-emeklilerin-sesi-derneginden-ortak-etkinlik)
+
+![](data/images/ddf9459315ed55c3.jpg)
+
+> Etkinlikte aile içi ilişkiler ve sosyal bağlar konuşuldu.
+
+Eskişehir Büyükşehir Belediyesi Yaşlı Hizmetleri Birimi ile Emeklilerin Sesi Derneği Eskişehir İl Temsilciliği iş birliğinde, kıdemli vatandaşlara yönelik sağlıklı iletişim etkinliği düzenlendi. Etkinlikte aile içi ilişkiler, sosyal bağların güçlendirilmesi ve günlük yaşamda karşılaşılan iletişim sorunları konuşuldu.
+
+Yaşlı Hizmetleri Birimi Sorumlusu Merve Kas, kıdemli vatandaşların sosyal hayata aktif katılımını desteklemeyi ve sağlıklı iletişim kurmalarına katkı sağlamayı amaçladıklarını söyledi. Emeklilerin Sesi Derneği Eskişehir İl Temsilcisi Aydan Çetintürk Güner ise iletişimde sevgi, ilgi ve bilgiye dayanan "üç adım yöntemini" anlattı.
+
+---
+
 ## Yasa dışı bahis operasyonu Eskişehir'e de uzandı: 14 gözaltından 11 tutuklama
 
 **Asayiş · Merkez** · 2026-10-24 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/aralarinda-eskisehirde-var4-ilde-yasa-disi-bahis-operasyonunda-11-tutuklama)
@@ -407,17 +421,5 @@ Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Da
 Brusco, Schubert, Chopin, Rachmaninoff ve Liszt'in eserlerini seslendirdi. Programda Schubert'in Impromptu Op. 90 No. 3'ü, Chopin'in noktürn, etüt, baladlar ve polonezi, Rachmaninoff'un Prelude Op. 32 No. 12'si ve Liszt'in Liebestraum No. 3'ü yer aldı. Resitalin sonunda Anadolu Üniversitesi Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, Brusco'ya teşekkür belgesi ve çiçek verdi.
 
 Anadolu Üniversitesi ev sahipliğindeki Piyano Günleri, 24 Ekim'e kadar düzenlenecek konserler ve etkinliklerle sürecek.
-
----
-
-## Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir GSK sezonun ilk maçına çıkıyor
-
-**Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-perdeyi-aciyor)
-
-> Takım Kocaeli'ni Porsuk Spor Salonu'nda saat 16.00'da ağırlayacak.
-
-Erkekler Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir Gençlik ve Spor Kulübü, yeni sezonun ilk maçına çıkıyor. İlk haftayı fikstür gereği dinlenerek geçiren takım, sezonu kendi sahasında açacak. Antrenör Erol Sezer yönetimindeki ekip, Kocaeli karşısında kazanarak lige iyi bir başlangıç yapmayı hedefliyor.
-
-Büyükşehir, A Grubu'nda Beykoz Belediyesi, Kocaeli Gençlik ve Spor İl Müdürlüğü SK, Karagümrük Hentbol ve Zonguldak Gençlik ve Spor İl Müdürlüğü takımlarıyla mücadele edecek. Grubu ilk iki sırada tamamlayan takımlar 1. Lig'e yükselme maçlarına katılma hakkı elde edecek. Karşılaşma Porsuk Spor Salonu'nda saat 16.00'da oynanacak.
 
 ---
