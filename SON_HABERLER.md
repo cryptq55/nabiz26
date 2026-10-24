@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor Başkanı Entok: Hakan Şapcı görevine devam edecek
+
+**Spor · Merkez** · 2026-10-24 20:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-teknik-direktor-hakan-sapci-ile-ilgili-verilen-karar-belli-oldu)
+
+![](data/images/e38619f04b31af1a.jpg)
+
+> Bursa Yıldırımspor beraberliğinin ardından tribünlerden istifa çağrıları yapılmıştı.
+
+Eskişehirspor Başkanı Ulaş Entok, Bursa Yıldırımspor ile sahada 2-2 berabere kalınan maçın ardından tribünlerden istifa çağrıları yapılan teknik direktör Hakan Şapcı'nın görevine devam edeceğini söyledi.
+
+Haberlere göre Şapcı maçın ardından bir açıklama yapmadı. Entok'un açıklamasıyla yönetimin teknik direktör değişikliğine gitmeyeceği netleşti.
+
+---
+
 ## Kızılinler Bal Kabağı Panayırı 25 Ekim'de, Bal Kabağı Çalıştayı 26 Ekim'de yapılacak
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-24 19:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esyenigun.com/bal-kabagi-panayiri-yarin-nerede-ucretsiz-ulasim-nasil-saglanacak)
@@ -425,19 +439,5 @@ Millî Eğitim Bakan Yardımcısı Celile Eren Ökten konuşmasında, Türkiye Y
 TOKİ'nin açıkladığı takvime göre 61 ilde 725 arsanın açık artırmaları 5 Kasım Perşembe ve 6 Kasım Cuma günleri saat 10.30'da başlayacak. Satış listesinde Eskişehir'in Odunpazarı ve Tepebaşı ilçelerinde taşınmazlar da yer alıyor.
 
 Odunpazarı'nda 71 Evler Mahallesi'ndeki toplu işyeri alanlarından birinin bedeli 1 milyon 900 bin TL; diğerlerinin bedelleri 32 milyon 600 bin TL ile 93 milyon 600 bin TL arasında. Aşağı Çağlan Mahallesi'ndeki 373 metrekarelik konut alanı parsellerinin her biri 3 milyon 200 bin TL, Eşenkara bölgesindeki termal turizm tesisi alanları ise 40 milyon 500 bin, 50 milyon 300 bin ve 58 milyon 500 bin TL bedelle listelendi. Tepebaşı'nda Zincirlikuyu Mahallesi'ndeki 10 bin 358,41 metrekarelik ticaret-konut alanının bedeli 145 milyon 100 bin TL.
-
----
-
-## St. Johnstone taraftarı Eskişehir'e gelip 20 kombine alarak #VarsanVarım'a destek verdi
-
-**Spor · Merkez** · 2026-10-23 19:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaberajansi.com/eskisehirspor-icin-iskocyadan-geldi-varsan-varim-kampanyasina-destek-verdi)
-
-![](data/images/202610231932-st-johnstone-taraftari-eski-v3.jpg)
-
-> İskoç taraftar Ricky Marshall, Bursa Yıldırım SK maçı öncesinde Eskişehir'e geldi.
-
-Eskişehirspor'un İskoçya'daki kardeş kulübü St. Johnstone'un taraftarı Ricky Marshall, yarın oynanacak Bursa Yıldırım SK karşılaşması öncesinde Eskişehir'e geldi. Kulübü ziyaret eden Marshall, 20 adet kombine satın alarak #VarsanVarım kampanyasına destek verdi.
-
-Eskişehirspor, yaptığı açıklamada Marshall'a hoş geldin dedi ve kulübe gösterdiği ilgi ile katkısı için teşekkür etti.
 
 ---
