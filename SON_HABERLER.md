@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 24 Ekim 2026: Gram altın 6.471,57 TL
+
+**Ekonomi · Merkez** · 2026-10-24 09:59 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261024.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.393,09 TL'den alınıyor, 6.471,57 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 12.59 itibarıyla verilerine göre gram altının satış fiyatı 6.471,57 TL, alış fiyatı 6.393,09 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın 42.043 TL, ata altın 42.798 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.045,08 TL, has altının gram fiyatı 6.452,21 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 12.59 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Vali Yılmaz'dan Eskişehirspor'a destek: "Haydi Efsane, bugün galibiyet günü!"
 
 **Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/vali-yilmazdan-eskisehirspora-destek-haydi-efsane)
@@ -409,21 +429,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Üsküdar Belediye Başkan Vekili Muhamme
 Vali Yılmaz, İLYAS (İl Yatırım Takip Sistemi) verilerine göre 2026 yılı üçüncü dönem sonu itibarıyla ilde çeşitli sektörlerde yapılan ve yapılması planlanan 462 proje bulunduğunu söyledi. Bu projelerin 70'inin tamamlandığını, 270'inin devam ettiğini, 15'inin ihale aşamasında olduğunu ve 103 projeye başlanacağını belirtti.
 
 Yılmaz, koordinasyon gerektiren sorun ve ihtiyaçların toplantıda gündeme getirilmesinin önemine değindi, kurumların alınan kararları çözümlemede gerekli itinayı göstermesini istedi. Toplantı, kurul üyelerinin sunumlarının ardından sona erdi.
-
----
-
-## Bakan Tekin İstanbul'da Kadıköy Lisesi ve Ziya Kalkavan Denizcilik Lisesi'ni ziyaret etti
-
-**Eğitim · Türkiye** · 2026-10-23 15:34 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-istanbul039da-ogrencilerle-ve-ogretmenlerle-bulustu/haber/42281/tr)
-
-![](data/images/aff51440784c8c13.jpg)
-
-> Tekin, öğrencilerin derslerine katıldı, sorularını yanıtladı ve bayrak törenine katıldı.
-
-Millî Eğitim Bakanı Yusuf Tekin, İstanbul'da Kadıköy Lisesi'ni ziyaret etti. Tekin sınıfları gezerek öğrencilerin derslerine katıldı, sorularını yanıtladı ve öğrencilerle hatıra fotoğrafı çektirdi.
-
-Ardından Beşiktaş'taki Ziya Kalkavan Denizcilik Mesleki ve Teknik Anadolu Lisesi'ni ziyaret eden Tekin, öğrencilerden çalışmaları hakkında bilgi aldı, öğretmenler odasında eğitimcilerle bir araya geldi. Okulda düzenlenen bayrak törenine katılan Tekin, öğrencilere iyi tatiller diledi.
-
-Tekin, "Ülkemizin ekonomik ve toplumsal kalkınmasında kritik bir role sahip olan meslek liselerimizi ve sevgili gençlerimizi güçlendirmeye devam edeceğiz" dedi.
 
 ---
