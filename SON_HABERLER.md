@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kızılinler Bal Kabağı Panayırı 25 Ekim'de, Bal Kabağı Çalıştayı 26 Ekim'de yapılacak
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-24 19:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esyenigun.com/bal-kabagi-panayiri-yarin-nerede-ucretsiz-ulasim-nasil-saglanacak)
+
+![](data/images/b239d14f683d51be.jpg)
+
+> Panayıra Tepebaşı Belediyesi Hizmet Binası önünden 11.45'te ücretsiz ulaşım sağlanacak.
+
+Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü'nün düzenlediği 4. Kızılinler Bal Kabağı Panayırı 25 Ekim 2026 Pazar günü saat 12.00-16.00 arasında Kızılinler Davet Salonu'nda yapılacak. Panayırda halk oyunları gösterileri, Eko-Şov konseri, sergiler, söyleşiler ve yöresel ürün stantları yer alacak.
+
+Panayıra gitmek isteyenler için Tepebaşı Belediyesi Hizmet Binası önünden saat 11.45'te ücretsiz araç kalkacak; hizmetten yararlanmak için belediyenin belirttiği kayıt formunun doldurulması gerekiyor.
+
+Türkiye'de ilk kez ulusal ölçekte yapılacak Eskişehir Bal Kabağı Çalıştayı ise 26 Ekim'de düzenlenecek. Çalıştayda kabak ıslahı, genetik kaynakların korunması, yetiştiricilik yöntemleri ve coğrafi işaretli bal kabağının kırsal kalkınmaya katkısı ele alınacak.
+
+---
+
 ## Eskişehirspor, Bursa Yıldırımspor ile 2-2 berabere kaldı; penaltı direkten döndü
 
 **Spor · Merkez** · 2026-10-24 18:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macinda-fiyasko-mac-sonucu-2-2)
@@ -423,21 +439,5 @@ Odunpazarı'nda 71 Evler Mahallesi'ndeki toplu işyeri alanlarından birinin bed
 Eskişehirspor'un İskoçya'daki kardeş kulübü St. Johnstone'un taraftarı Ricky Marshall, yarın oynanacak Bursa Yıldırım SK karşılaşması öncesinde Eskişehir'e geldi. Kulübü ziyaret eden Marshall, 20 adet kombine satın alarak #VarsanVarım kampanyasına destek verdi.
 
 Eskişehirspor, yaptığı açıklamada Marshall'a hoş geldin dedi ve kulübe gösterdiği ilgi ile katkısı için teşekkür etti.
-
----
-
-## KPSS Ortaöğretim sınavı için Eskişehir'de toplu ulaşıma ek sefer yapılacak
-
-**Ulaşım · Merkez** · 2026-10-23 19:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/263563/eskisehirde-kpss-oncesi-toplu-ulasima-ek-seferler-planlandi.html)
-
-![](data/images/7d7496d7c581abc6.jpg)
-
-> Sınav 25 Ekim Pazar günü saat 10.15'te, 111 merkezde yaklaşık 40 bin adayla yapılacak.
-
-Eskişehir Büyükşehir Belediyesi, 25 Ekim 2026 Pazar günü saat 10.15'te başlayacak KPSS Ortaöğretim sınavı nedeniyle kent genelinde ulaşım ve trafik önlemleri aldı. Eskişehir'de 111 sınav merkezinde yaklaşık 40 bin adayın katılması beklenen sınav 130 dakika sürecek.
-
-Sınav sabahı otobüs seferleri hafta içi tarifesine göre yapılacak, ihtiyaç duyulan güzergâhlarda ek seferler düzenlenecek. ESTRAM cumartesi sefer saatlerini uygulayacak. Üniversite bölgelerinde trafik akışını rahatlatmak için sinyalizasyon sistemlerinde düzenleme yapıldı. Eskişehir Osmangazi Üniversitesi'nin üç kapısı sınav süresince açık olacak, emniyet ekipleri kavşaklarda ilave tedbir alacak.
-
-Büyükşehir, adayların sınav merkezlerine en az 2 saat önce ulaşmasını ve mümkün olduğunca toplu taşımayı tercih etmesini istedi.
 
 ---
