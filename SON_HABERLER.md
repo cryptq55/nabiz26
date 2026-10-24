@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kültür ve Turizm Bakanlığı Eskişehir için 3 asıl, 2 yedek sözleşmeli kütüphaneci alacak
+
+**Gündem · Merkez** · 2026-10-24 00:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.milliirade.com/eskisehire-kutuphaneci-kadrosu-acildi-basvuru-tarihleri-netlesti)
+
+![](data/images/67f089fa1e69faad.jpg)
+
+> Türkiye genelinde 162 kişilik alımın başvuruları 2-16 Kasım'da yapılacak.
+
+Kültür ve Turizm Bakanlığı, taşra teşkilatında görevlendirmek üzere Türkiye genelinde 162 sözleşmeli kütüphaneci alacak. 23 Ekim 2026 tarihli Resmî Gazete'de yayımlanan ilana göre Eskişehir için 3 asıl ve 2 yedek aday kontenjanı ayrıldı.
+
+Alımlar KPSS P3 puan sıralamasına göre sözlü sınavla yapılacak; her il için kontenjanın üç katı kadar aday mülakata çağrılacak. Başvurular 2-16 Kasım 2026 tarihleri arasında e-Devlet üzerinden "Kariyer Kapısı-Kamu İşe Alım" hizmetiyle yapılacak. Adayların Bilgi ve Belge Yönetimi, Kütüphanecilik, Arşivcilik veya Dokümantasyon ve Enformasyon bölümlerinden mezun olması ve 2026 KPSS B Grubu P3 puan türünden en az 70 puan alması gerekiyor. Adaylar yalnızca tek bir ile başvurabilecek.
+
+---
+
 ## Eskişehirspor–Bursa Yıldırım maçı için 24 Ekim'de Alaaddin Parkı'ndan ring seferi
 
 **Ulaşım · Merkez** · 2026-10-23 23:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/eskisehirspor-un-bursa-yildirim-maci-oncesi-ulasim-kolayligi--sefer-saatleri-belli-oldu-296881.html)
@@ -403,15 +417,5 @@ Gazeteciler Murat Ağırel ve İsmail Arı'nın tutukluluk durumlarına değinen
 Eskişehir'de SSK yönünde, Uluönder tramvay durağı bölgesinde teknik arıza yaşandı. Arıza nedeniyle Otogar-SSK, SSK-OGÜ, Batıkent-SSK ve Çamlıca-SSK hatlarında seferler geçici olarak durduruldu.
 
 Yolcuların mağdur olmaması için Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri devreye alındı. ESTRAM'ın yaptığı yeni açıklamada teknik sorunun giderildiği ve tramvay seferlerinin yeniden normale döndüğü bildirildi.
-
----
-
-## Tepebaşı Belediyesi'nde Özel Kalem Müdürlüğü'ne Banu Gümüşpala getirildi
-
-**Belediye · Tepebaşı** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-yeni-ozel-kalem-muduru-resmen-belli-oldu)
-
-> Görevi yürüten Suat Yalnızoğlu'nun yerine atama yapıldı.
-
-Tepebaşı Belediyesi Özel Kalem Müdürlüğü görevini yürüten Suat Yalnızoğlu'nun yerine Banu Gümüşpala getirildi. Görev değişikliği Başkan Ahmet Ataç'ın onayının ardından resmiyet kazandı. Özel Kalem Müdürlüğü görevini bundan sonra Gümüşpala yürütecek.
 
 ---
