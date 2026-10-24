@@ -2,6 +2,46 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## SOLOTÜRK Sazova Parkı'nda çevre tanıma uçuşu yaptı, Eskişehirliler yoğun ilgi gösterdi
+
+**Gündem · Tepebaşı** · 2026-10-24 11:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sondakika.com/cevre/haber-soloturk-un-sazova-parki-ndaki-prova-ucusu-eskiseh-20361958/)
+
+![](data/images/e0f818c2122448c3.jpg)
+
+> Ekip 29 Ekim Cumhuriyet Bayramı'nda Eskişehir'de gösteri uçuşu yapacak.
+
+Türk Hava Kuvvetleri'nin gösteri takımı SOLOTÜRK, 29 Ekim Cumhuriyet Bayramı kapsamında Eskişehir'de yapacağı gösteri uçuşu öncesinde Sazova Parkı'nda çevre tanıma uçuşu gerçekleştirdi. Saat 12.20'de başlayan uçuşu izleyen Eskişehirliler yoğun ilgi gösterdi. Ekibin bayram günkü ana uçuşu için hazırlıkları sürüyor.
+
+---
+
+## Bakan Güler, 1. Hava Bakım Fabrika'nın 100. yıl kutlaması için Eskişehir'de
+
+**Gündem · Merkez** · 2026-10-24 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/milli-savunma-bakani-yasar-guler-eskisehire-geldi)
+
+![](data/images/d5ea82785d63c320.jpg)
+
+> Güler, Hava Kuvvetleri Komutanı Dalkıran'la birlikte Hasan Polatkan Havalimanı'nda karşılandı.
+
+Milli Savunma Bakanı Yaşar Güler, Eskişehir'deki 1. Hava Bakım Fabrika Müdürlüğü'nün 100. yıl dönümü dolayısıyla düzenlenen kutlama programına katılmak için kente geldi. Güler'e üst düzey askeri heyet eşlik etti.
+
+Güler ve Hava Kuvvetleri Komutanı Hava Orgeneral Rafet Dalkıran, Eskişehir Teknik Üniversitesi Hasan Polatkan Havalimanı'nda düzenlenen törenle karşılandı. Karşılama töreninde Vali Erdinç Yılmaz ve kent protokolü hazır bulundu. Ardından Vali Yılmaz ile birlikte 1. Hava Bakım Fabrika Müdürlüğü'ne geçen heyet, tesiste incelemelerde bulundu; fabrikanın geçmişi, bakım, onarım ve modernizasyon çalışmaları ile geleceğe yönelik projeler değerlendirildi.
+
+---
+
+## Erdoğan'dan BM Günü mesajı: BM Güvenlik Konseyi daha adil ve kapsayıcı hale gelmeli
+
+**Siyaset · Türkiye** · 2026-10-24 11:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-birlesmis-milletler-gunu-ve-bm-teskilatinin-kurulusunun-81-yil-donumu-mesaji-24-10-26)
+
+![](data/images/2d36aa4e60f850c6.jpg)
+
+> Erdoğan, BM'nin kuruluşunun 81. yıl dönümünü kutladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, 24 Ekim Birleşmiş Milletler Günü ve BM'nin kuruluşunun 81. yıl dönümü dolayısıyla mesaj yayımladı. Erdoğan, BM'nin kuruluşunun 81. yıl dönümünü tebrik etti; Genel Sekreter Antonio Guterres başta olmak üzere BM çalışanlarını kutladı.
+
+Erdoğan, savaşlar, insani felaketler, iklim değişikliği, açlık ve yoksulluk gibi küresel sınamaların BM'nin kuruluş misyonunun öneminin azalmadığını, arttığını gösterdiğini belirtti. Tüm ülkelerin BM Şartı'na daha güçlü sahip çıkmasını ve Teşkilat'ın temel organlarının etkinliğini artıracak reformları desteklemesini isteyen Erdoğan, BM Güvenlik Konseyi'nin daha adil, kapsayıcı ve uluslararası toplumun beklentilerini karşılayabilecek bir yapıya kavuşturulmasının önemli hâle geldiğini söyledi.
+
+---
+
 ## Bakan Tekin: Ebeveyn Okulu Programı'na katılım zorunlu, katılım oranı yüzde 91'e ulaştı
 
 **Eğitim · Türkiye** · 2026-10-24 10:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/velilere-20-saatlik-egitim-zorunlulugu-bakan-tekin-acikladi-52116)
@@ -387,45 +427,5 @@ Mahalle sakini İsmail Turan, bölgede yaklaşık üç gündür doğalgaz çalı
 Eskişehir Valisi Dr. Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesindeki bir kömür madeninde meydana gelen metan parlamasına ilişkin üzüntüsünü dile getirdi. Yılmaz, ilk belirlemelere göre 2 madencinin hayatını kaybettiğini, 5 madencinin yaralandığını, madende mahsur kalan 1 madencinin kurtarılması için çalışmaların sürdüğünü belirtti. Hayatını kaybedenlere rahmet, yakınlarına sabır, yaralılara acil şifa diledi.
 
 Adalet Bakanı Akın Gürlek de Zonguldak Cumhuriyet Başsavcılığı'nca ivedi soruşturma başlatıldığını, 1 Cumhuriyet başsavcı vekili ve 2 Cumhuriyet savcısının görevlendirildiğini açıkladı. Gürlek, arama kurtarma çalışmalarının bir an önce olumlu sonuçlanmasını temenni etti.
-
----
-
-## Tuncay: Deprem davalarında ilk derece yargılama 2027'nin ilk yarısında bitecek
-
-**Türkiye · Türkiye** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.son.tv/deprem-davalarinda-kritik-takvim-can-tuncay-acikladi-deprem-davalarinda-hedef-2027nin-ilk-yarisi/)
-
-> Diyarbakır'daki toplantıya depremden etkilenen 11 ilin yargı yetkilileri katıldı.
-
-Adalet Bakan Yardımcısı Can Tuncay, 6 Şubat 2023 depremlerinin ardından başlatılan davalara ilişkin Diyarbakır'da düzenlenen "Deprem Davalarında Adli Süreçlerin Değerlendirilmesi" toplantısında konuştu. Toplantıya depremlerden etkilenen 11 ilin cumhuriyet başsavcıları, adalet komisyonu başkanları ve idare mahkemesi başkanları katıldı.
-
-Tuncay, "Deprem davalarında birinci derece mahkemelerdeki yargılamaları 2027'nin birinci yarısında sonlandırmayı, nihayetlendirmeyi planlıyoruz" dedi. Adalet Bakanlığı olarak depremde zarar gören ailelerle temas halinde olduklarını da söyledi.
-
----
-
-## İYİ Partili Küçükerkan: Tepebaşı'nda mahalleler arasında hizmet farkı büyüyor
-
-**Siyaset · Tepebaşı** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.istikbalgazetesi.com/eskisehir-tepebasinda-hizmet-tartismasi-buyuyor-insan-hayati-bu-kadar-ucuz-olmamali)
-
-> İYİ Parti Tepebaşı İlçe Başkanı, kazı sonrası onarım ve drenaj konularında eleştirdi.
-
-İYİ Parti Tepebaşı İlçe Başkanı Reşat Küçükerkan, Tepebaşı'nda hizmetlerin mahallelere eşit dağıtılmadığını savundu. Küçükerkan, ilçenin batı kesimi ile kuzey ve doğu mahalleleri arasında kentsel hizmet farkı bulunduğunu söyledi.
-
-Küçükerkan'ın iddialarına göre bu mahallelerde kazı sonrası asfalt ve parke onarımı için bekleme süresi ortalama 45-60 gün, yağmur suyu drenaj hatlarının yol ağına oranı yaklaşık yüzde 32. Şiddetli yağışlarda Fevzi Çakmak ve Işıklar mahallelerinde sokaklarda göletler oluştuğunu ve bodrumların su bastığını ileri sürdü.
-
-Küçükerkan, altyapı kurumlarının yatırım planlarının dijital ortamda çakıştırılmasını, kazı işlerinin en geç 15 gün içinde bitirilmesini, yüklenicilere asfalt ve parke kaplaması için 14 gün süre verilmesini ve acil drenaj hattı programı başlatılmasını istedi. Açıklamadaki rakamlar Küçükerkan'a ait olup kaynak metinde Tepebaşı Belediyesi'nin yanıtı yer almıyor.
-
----
-
-## Eskişehir'de 29 Ekim Cumhuriyet Yürüyüşü saat 15.00'te Ulus Anıtı'ndan başlayacak
-
-**Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esgazete.com/eskisehirde-29-ekim-cumhuriyet-yuruyusu)
-
-> Yürüyüş ÇYDD, Atatürkçü Düşünce Derneği ve Eğitim-Sen Eskişehir şubelerinin öncülüğünde yapılacak.
-
-Eskişehir'de Cumhuriyet'in 103. yılı dolayısıyla 29 Ekim Perşembe günü Cumhuriyet Yürüyüşü düzenlenecek. Çağdaş Yaşamı Destekleme Derneği (ÇYDD) Eskişehir Şube Başkanı Sevgi Akmen, saat 15.00'te Ulus Anıtı önünden başlayacak yürüyüşe tüm Eskişehirlileri Türk bayrakları ve Atatürk posterleriyle katılmaya davet etti.
-
-Buluşmanın ardından organizasyona katılan kurumlar adına basın açıklaması yapılacak, katılımcılar Vilayet Meydanı'na yürüyecek. Etkinlik, saygı duruşu ve İstiklal Marşı'nın okunmasıyla sona erecek. Akmen, vatandaşlardan evlerine bayrak asmalarını da istedi.
-
-Yürüyüşe Atatürkçü Düşünce Derneği Eskişehir Şubesi, ÇYDD Eskişehir Şubesi ve Eğitim ve Bilim İşgörenleri Sendikası Eskişehir Şubesi öncülük ediyor.
 
 ---
