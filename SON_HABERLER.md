@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu: Şapcı 3 değişiklik yaptı
+
+**Spor · Merkez** · 2026-10-24 16:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kadrosunda-3-degisiklik-1)
+
+![](data/images/9d0490fa00e0b321.jpg)
+
+> Mustafa Eren Damar kadroya alınmadı; Kurtuluş ve Baykuş yedek kulübesine çekildi.
+
+Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu. Kalede Bora, sağ bekte Murat Şener, sol bekte Ahmet Lütfü Kara, savunmanın ortasında Abdülkadir Öksüz ve Arda Okumuş, orta sahada Ozan İsmail Koç, Tayfun Tatlı ve Mehmet Bağlı, kanatlarda Beykan Şimşek ve Hasan Kaya, forvette ise Osman Arslantaş sahaya çıktı.
+
+Teknik direktör Hakan Şapcı, sakatlığı bulunan Mustafa Eren Damar'ı kadroya almadı; son maçtan Ertuğrul Kurtuluş ve Kerem Baykuş'u ise yedek kulübesine çekti.
+
+---
+
 ## Eskişehir'de gazeteciler "Sansüre Hayır, Habere Özgürlük" yürüyüşü yaptı
 
 **Gündem · Merkez** · 2026-10-24 15:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-sansure-hayir-habere-ozgurluk-yuruyusu-duzenlendi-bu-duzene-sessiz-kalmayacagiz-2549879)
@@ -423,17 +437,5 @@ Savran, konuklarının topladıkları bilgilerle Türk çoban köpeklerinin kara
 Cumhurbaşkanı Recep Tayyip Erdoğan, R4 (Türkiye, Mısır, Pakistan ve Suudi Arabistan) ile İtalya'nın katılımıyla gerçekleştirilen R4+E3 (İngiltere, Almanya ve Fransa) Dışişleri Bakanları Toplantıları kapsamında Türkiye'ye gelen dışişleri bakanlarını kabul etti.
 
 Kabulde Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wadephul, Fransa Dışişleri Bakanı Jean-Noel Barrot, İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, Pakistan Dışişleri Bakanı Muhammad Ishaq Dar, Mısır Dışişleri Bakanı Bedir Abdulati ve Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan yer aldı.
-
----
-
-## Zorla tespih satıp gasbetmeye çalıştığı öne sürülen şüpheli Ankara'da yakalandı
-
-**Asayiş · Tepebaşı** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-bir-kisiyi-gasbetmeye-calistigi-one-surulen-supheli-ankarada-yakalandi-119501650)
-
-> Eskişehir Asayiş Şubesi ekiplerinin çalışması sonucu R.A. Ankara'da gözaltına alındı.
-
-Eskişehir'de zorla tespih sattığı kişinin parasını gasbetmeye çalıştığı iddia edilen şüpheli Ankara'da yakalandı. Olay, Tepebaşı ilçesi Yenibağlar Mahallesi Yılmaz Büyükerşen Bulvarı'nda yaşandı.
-
-Eskişehir İl Emniyet Müdürlüğü Asayiş Şubesi ekipleri çalışma başlattı ve Ankara'da bulunduğunu tespit ettiği şüpheli R.A.'yı (26) yakaladı. Gözaltına alınan şüpheli hakkında Eskişehir Cumhuriyet Başsavcılığı'nın talimatıyla işlem başlatıldı. Şüpheli hakkındaki suçlama henüz kanıtlanmış değil.
 
 ---
