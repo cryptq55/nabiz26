@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 29 Ekim'de Eskişehir'de tramvay ve otobüslerin ücretsiz olup olmayacağı henüz belli değil
+
+**Ulaşım · Merkez** · 2026-10-24 14:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirde-29-ekimde-tramvay-ve-otobusler-ucretsiz-olacak-mi-iste-son-gelismeler)
+
+![](data/images/35d4edcdc1468b95.jpg)
+
+> Bakanlığın ücretsiz ulaşım duyurusu Ankara, İstanbul ve İzmir'deki raylı sistemleri kapsıyor.
+
+Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 29 Ekim Cumhuriyet Bayramı'nda Bakanlığa bağlı bazı raylı sistem hatlarında ücretsiz ulaşım sağlanacağını duyurdu. İstanbul'da Marmaray, Sirkeci-Kazlıçeşme Hattı ve Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı, Ankara'da Başkentray ve İzmir'de İZBAN ücretsiz hizmet verecek.
+
+Bakanlığın uygulaması Eskişehir'deki ESTRAM tramvaylarını ve belediye otobüslerini kapsamıyor. Eskişehir Büyükşehir Belediyesi'nden 29 Ekim Perşembe günü için ücretsiz ulaşıma ilişkin henüz resmî bir duyuru yapılmadı. Belediye yeni bir karar açıklamazsa Eskişehir'de mevcut ücret tarifesi geçerli olacak.
+
+---
+
 ## Topkapı Sarayı Darphane-i Amire Müzeleri açıldı: 5 müzede 10 bin 500 eser sergilenecek
 
 **Türkiye · Türkiye** · 2026-10-24 13:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-milleti-olarak-dunyada-esine-az-rastlanir-bir-muktesebata-sahibiz-961083.html)
@@ -417,17 +431,5 @@ CHP Genel Başkan Yardımcıları Necdet Saraç ve Adnan Demirci, partilerinin 7
 Saraç, yaptığı açıklamada Türkiye'de resmî emekli sayısının 16 milyon 900 bin olduğunu, emeklilerin yaklaşık 12,5 milyonunun 23 bin ile 40 bin lira arasında maaş aldığını söyledi. Saraç, gıda için açlık sınırının 37 bin lira olduğunu belirterek "12 milyon insan bu ülkede açlık sınırında yaşıyor" dedi ve çözüm bulunması gerektiğini savundu. Emekli maaşlarına ilişkin rakamlar Saraç'a aittir.
 
 Saraç, Yozgat'ın 420 bin nüfusundan 88 bininin emekli olduğunu belirtti ve emeklilerin 7 Kasım'da Ankara'daki toplantıya katılmasını istedi.
-
----
-
-## 75. Yıl'da Selami Vardar Bulvarı'ndaki doğalgaz hattı sızıntısı ESGAZ ekiplerince onarıldı
-
-**Gündem · Merkez** · 2026-10-23 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-gaz-kokusu-panigi-ekipler-harekete-gecti)
-
-> Mahalle sakini sızıntı sırasında gaz kokusu hissedildiğini, olumsuzluk yaşanmadığını söyledi.
-
-Eskişehir Şehir İçi Doğal Gaz Dağıtım (ESGAZ) ekipleri, 75. Yıl Mahallesi'nde Selami Vardar Bulvarı üzerindeki doğalgaz hattında çalışma yaptı. Teknik müdahalenin ardından sızıntı yapan bölümün onarıldığı ve üzerinin kapatıldığı öğrenildi.
-
-Mahalle sakini İsmail Turan, bölgede yaklaşık üç gündür doğalgaz çalışması yapıldığını, bu sırada gaz kokusunun duyulduğunu ve sızıntının kısa sürede giderildiğini söyledi. Olay sırasında olumsuzluk yaşanmadığı belirtildi. Sızıntının ne zaman başladığına ve teknik nedenine ilişkin resmî bir açıklama paylaşılmadı.
 
 ---
