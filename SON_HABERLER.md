@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Topkapı Sarayı Darphane-i Amire Müzeleri açıldı: 5 müzede 10 bin 500 eser sergilenecek
+
+**Türkiye · Türkiye** · 2026-10-24 13:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-milleti-olarak-dunyada-esine-az-rastlanir-bir-muktesebata-sahibiz-961083.html)
+
+![](data/images/033d18e93d24f0fb.jpg)
+
+> Açılışı Cumhurbaşkanı Erdoğan yaptı; müzeler 17 bin metrekarelik alana yayılan 7 yapıda yer alıyor.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni'nde konuştu. Erdoğan'a göre Darphane-i Amire Külliyesi'nde yapılan restorasyonlarla 17 bin metrekarelik alana yayılan 7 yapı ve 46 salon 5 farklı müze olarak düzenlendi. Topkapı Sarayı envanterindeki toplam 10 bin 500 eser müzelerde ziyaretçilerle buluşacak.
+
+Harita Müzesi'nde Osmanlı coğrafyasına ait yaklaşık 200 harita yer alacak; aynı binada 800 binden fazla yazılı ve görsel kaynağın dijital ortamda toplandığı Milli Saraylar Araştırma Merkezi hizmet verecek. Hüsnühat Eserleri Müzesi'nde 2 binden fazla hüsnühat eseri ilk kez sergilenecek. Darphane ve Endüstri Araçları Müzesi'nde yaklaşık 500 endüstri aracı, Esliha-i Hümayun Müzesi'nde 7. yüzyıldan 20. yüzyıla uzanan 2 bin 500'den fazla askeri teçhizat bulunacak; bunların arasında Fatih Sultan Mehmet'in kılıcı ve zırhlı gömleği de yer alacak. Saray Porselenleri Müzesi'nde ise Çin, Japonya, İran, İngiltere, Vietnam, Fransa ve Rusya'da üretilen porselenler ile Yıldız Porselen Sarayı fabrikasının eserleri sergilenecek.
+
+---
+
 ## SOLOTÜRK Sazova Parkı'nda çevre tanıma uçuşu yaptı, Eskişehirliler yoğun ilgi gösterdi
 
 **Gündem · Tepebaşı** · 2026-10-24 11:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sondakika.com/cevre/haber-soloturk-un-sazova-parki-ndaki-prova-ucusu-eskiseh-20361958/)
@@ -415,17 +429,5 @@ Saraç, Yozgat'ın 420 bin nüfusundan 88 bininin emekli olduğunu belirtti ve e
 Eskişehir Şehir İçi Doğal Gaz Dağıtım (ESGAZ) ekipleri, 75. Yıl Mahallesi'nde Selami Vardar Bulvarı üzerindeki doğalgaz hattında çalışma yaptı. Teknik müdahalenin ardından sızıntı yapan bölümün onarıldığı ve üzerinin kapatıldığı öğrenildi.
 
 Mahalle sakini İsmail Turan, bölgede yaklaşık üç gündür doğalgaz çalışması yapıldığını, bu sırada gaz kokusunun duyulduğunu ve sızıntının kısa sürede giderildiğini söyledi. Olay sırasında olumsuzluk yaşanmadığı belirtildi. Sızıntının ne zaman başladığına ve teknik nedenine ilişkin resmî bir açıklama paylaşılmadı.
-
----
-
-## Zonguldak'taki maden ocağında metan patlaması: Vali Yılmaz taziye diledi, soruşturma var
-
-**Gündem · Merkez** · 2026-10-23 16:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/vali-yilmazdan-zonguldaktaki-maden-kazasi-icin-taziye-mesaji)
-
-> Kilimli'deki kazada Vali'nin paylaşımına göre 2 madenci hayatını kaybetti, 5 madenci yaralandı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesindeki bir kömür madeninde meydana gelen metan parlamasına ilişkin üzüntüsünü dile getirdi. Yılmaz, ilk belirlemelere göre 2 madencinin hayatını kaybettiğini, 5 madencinin yaralandığını, madende mahsur kalan 1 madencinin kurtarılması için çalışmaların sürdüğünü belirtti. Hayatını kaybedenlere rahmet, yakınlarına sabır, yaralılara acil şifa diledi.
-
-Adalet Bakanı Akın Gürlek de Zonguldak Cumhuriyet Başsavcılığı'nca ivedi soruşturma başlatıldığını, 1 Cumhuriyet başsavcı vekili ve 2 Cumhuriyet savcısının görevlendirildiğini açıkladı. Gürlek, arama kurtarma çalışmalarının bir an önce olumlu sonuçlanmasını temenni etti.
 
 ---
