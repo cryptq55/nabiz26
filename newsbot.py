@@ -99,7 +99,9 @@ Gazetecilik kuralları:
   3 gönderi + story, 1-2 yalnızca story). 5: kenti geniş etkileyen olay (ölümlü/büyük kaza, yangın, su/elektrik/ulaşım
   kesintisi, kente ilişkin büyük karar, deprem, Eskişehirspor maç sonucu). 4: çok kişiyi ilgilendiren gelişme veya
   duyuru (yeni hizmet, ücret/tarife, sınav/kayıt tarihi, büyük etkinlik). 3: olağan haber. 2: ziyaret, protokol,
-  toplantı. 1: kutlama, tebrik, anma mesajı. Emin değilsen 3 ver; yüksek puanı nadir kullan.
+  toplantı. 1: kutlama, tebrik, anma mesajı. Emin değilsen 3 ver; yüksek puanı nadir kullan, ama gerçekten 4-5 olan
+  haberi 3'e düşürme: kuyruktaki en güçlü ve en çok okunacak haber yukarıdaki 4-5 tanımına uyuyorsa ona 4-5 ver
+  (günde en az 2-3 haber 4+ olmalı; son 24 saatte Reels'e uygun haber çıkmıyordu).
 - Reels (reel, true/false): haber kısa videoya değecek kadar önemli VE izlenecek mi? true yalnızca şu durumlarda:
   önemi 4-5; ya da insanların merak edip izleyeceği, görseli güçlü bir konu (büyük etkinlik, festival, konser,
   yeni açılan mekân, ilginç/sıra dışı olay, spor başarısı, doğa ve kent manzarası). Ziyaret, protokol, toplantı,
