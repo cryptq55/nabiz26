@@ -4,8 +4,12 @@
   //   pip install -r requirements.txt && SITE_URL=https://nabiz26.com LINK_EXT= python build.py
   "name": "nabiz26",
   "compatibility_date": "2026-10-01",
+  // worker.js: www ve http adreslerini nabiz26.com'a 301 ile yönlendirir (Search Console tekrar eden URL)
+  "main": "worker.js",
   "assets": {
     "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": true,
     "not_found_handling": "404-page",
     "html_handling": "drop-trailing-slash"
   }

@@ -220,8 +220,13 @@ def main():
         if instagram.quota_left(user) <= 0:
             print("Instagram günlük paylaşım hakkı dolu; bülten atlandı.")
             return
-        mid = instagram.publish(user, tries=60, media_type="REELS", video_url=url, caption=cap, share_to_feed="true")
-        print("instagram bülten:", mid)
+        try:
+            mid = instagram.publish(user, tries=60, media_type="REELS", video_url=url, caption=cap, share_to_feed="true")
+            print("instagram bülten:", mid)
+        except RuntimeError as e:
+            if not instagram.LIMITED:
+                raise
+            print("Instagram paylaşım sınırına takıldı; bülten atlandı:", str(e)[:200])
         if os.environ.get("FB_PAGE_ID") and os.environ.get("FB_PAGE_TOKEN"):
             import facebook
             fb = {"caption": cap, "url": "https://nabiz26.com/"}
