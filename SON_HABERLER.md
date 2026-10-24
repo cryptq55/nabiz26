@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yasa dışı bahis operasyonu Eskişehir'e de uzandı: 14 gözaltından 11 tutuklama
+
+**Asayiş · Merkez** · 2026-10-24 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/aralarinda-eskisehirde-var4-ilde-yasa-disi-bahis-operasyonunda-11-tutuklama)
+
+![](data/images/bc847cf928b70563.jpg)
+
+> Çerkezköy'deki soruşturmada 14 şüpheli gözaltına alındı, 3'ü adli kontrolle serbest bırakıldı.
+
+Tekirdağ İl Jandarma Komutanlığı ekipleri, Çerkezköy Cumhuriyet Başsavcılığı koordinesinde yasa dışı bahis faaliyetlerine yönelik çalışma yürüttü. 20 Ekim 2026'da saat 06.30'da Tekirdağ, İstanbul, Kütahya ve Eskişehir'de belirlenen adreslere eş zamanlı operasyon düzenlendi. 7258 sayılı Kanun'a muhalefet suçlamasıyla 14 şüpheli gözaltına alındı.
+
+Aramalarda 16 cep telefonu, 9 SIM kart, 1 hard disk, 2 dizüstü bilgisayar, 2 bilgisayar, 1 Micro SD kart ve 4 USB bellek ele geçirildi. Şüphelilerin hesaplarında toplam 2 milyar 146 milyon 143 bin 816 TL işlem hacmi bulunduğu belirlendi. Adliyeye sevk edilen 14 şüpheliden 11'i tutuklandı, 3'ü adli kontrolle serbest bırakıldı. Şüpheliler hakkındaki suçlamalar henüz yargı kararıyla kesinleşmedi.
+
+---
+
+## Resmî Gazete: 5 şehit ve gazinin mirasçılarına İstiklal Madalyası verilecek
+
+**Türkiye · Türkiye** · 2026-10-24 01:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.son.tv/cumhurbaskani-erdogan-imzaladi-istiklal-madalyasi-karari-resmi-gazetede-5-kahramanin-mirascilarina-madalya-verilecek/)
+
+![](data/images/e85a1c77765f8abc.jpg)
+
+> Listede Eskişehir doğumlu Er Ferhat Taymaz'ın torunu Baykal Taymaz da var.
+
+24 Ekim 2026 tarihli ve 33410 sayılı Resmî Gazete'de yayımlanan 11925 sayılı Cumhurbaşkanı Kararı ile Kurtuluş Savaşı'ndaki hizmetleri tespit edilen beş şehit ve gazinin mirasçılarına İstiklal Madalyası verilmesine karar verildi. Karar, 66 sayılı İstiklal Madalyası Kanunu'nun ek 4. ve ek 6. maddelerine dayanıyor.
+
+Listede yer alanlardan biri, Eskişehir doğumlu Baykal Taymaz. Taymaz, 1898 doğumlu Er Ferhat Taymaz'ın torunu; Ferhat Taymaz 28 Mart 1921'de İkinci İnönü Muharebesi'nde yaralandı. Diğer mirasçılar arasında Dumlupınar Muharebesi'nde şehit düşen Onbaşı Mustafa Kırcılar, Sakarya Muharebesi'nde şehit düşen Er Halis Köse, Türkmen Dağı Taarruzu'nda şehit düşen Er Yasin Şekerlisoy ve 1922'deki İstiklal Muharebesi nedeniyle malul olarak kayıtlı Er Halil Taş'ın yakınları bulunuyor.
+
+Millî Savunma Bakanlığı'na göre başvurular askerlik şubeleri aracılığıyla alınıyor; madalya işlemlerini Askeralma Genel Müdürlüğü yürütüyor.
+
+---
+
 ## Kültür ve Turizm Bakanlığı Eskişehir için 3 asıl, 2 yedek sözleşmeli kütüphaneci alacak
 
 **Gündem · Merkez** · 2026-10-24 00:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.milliirade.com/eskisehire-kutuphaneci-kadrosu-acildi-basvuru-tarihleri-netlesti)
@@ -389,33 +419,5 @@ Anadolu Üniversitesi ev sahipliğindeki Piyano Günleri, 24 Ekim'e kadar düzen
 Erkekler Hentbol 2. Lig'de Eskişehir'i temsil eden Büyükşehir Gençlik ve Spor Kulübü, yeni sezonun ilk maçına çıkıyor. İlk haftayı fikstür gereği dinlenerek geçiren takım, sezonu kendi sahasında açacak. Antrenör Erol Sezer yönetimindeki ekip, Kocaeli karşısında kazanarak lige iyi bir başlangıç yapmayı hedefliyor.
 
 Büyükşehir, A Grubu'nda Beykoz Belediyesi, Kocaeli Gençlik ve Spor İl Müdürlüğü SK, Karagümrük Hentbol ve Zonguldak Gençlik ve Spor İl Müdürlüğü takımlarıyla mücadele edecek. Grubu ilk iki sırada tamamlayan takımlar 1. Lig'e yükselme maçlarına katılma hakkı elde edecek. Karşılaşma Porsuk Spor Salonu'nda saat 16.00'da oynanacak.
-
----
-
-## Eskişehir Barosu Başkanı Günaydın: Avukat güvenliği ve basın özgürlüğü korunmalı
-
-**Gündem · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehir-barosundan-sert-tepki-gercekler-tutuklanamaz)
-
-> Günaydın, avukatlara yönelik saldırılara ve gazetecilerin tutukluluğuna tepki gösterdi.
-
-Eskişehir Barosu Başkanı Barış Günaydın, yaptığı açıklamada son günlerde farklı illerde avukatlara yönelik yaşanan saldırılara dikkat çekti. Aksaray, Afyonkarahisar, Van ve İstanbul'da görevlerini yerine getirirken saldırıya uğrayan avukatları hatırlatan Günaydın, "Avukatın can güvenliği, savunma hakkının güvencesidir" dedi ve etkili yasal düzenlemeler ile somut koruma tedbirleri alınmasını istedi.
-
-Gazeteciler Murat Ağırel ve İsmail Arı'nın tutukluluk durumlarına değinen Günaydın, basın özgürlüğünün anayasal güvence altında olduğunu söyledi. Günaydın, "Tutuklama bir cezalandırma ya da yıldırma aracına dönüşmemelidir" diyerek tutukluluk hallerine son verilmesi çağrısında bulundu.
-
-İzmir'in Menemen ilçesinde öldürülen Avukat Özge Penbegül'ü de anan Günaydın, kadın cinayetlerinin önlenmesi için 6284 sayılı Kanun'un etkin uygulanması gerektiğini belirtti.
-
----
-
-## Uluönder'deki teknik arıza 4 tramvay hattını etkiledi, seferler normale döndü
-
-**Ulaşım · Merkez** · 2026-10-23 13:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-4-tramvay-hattinda-seferler-normale-dondu)
-
-![](data/images/uluonderdeki-teknik-ariza-4-tramvay-hattini-etk-arsiv.jpg)
-
-> Arıza nedeniyle Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri çalıştırıldı.
-
-Eskişehir'de SSK yönünde, Uluönder tramvay durağı bölgesinde teknik arıza yaşandı. Arıza nedeniyle Otogar-SSK, SSK-OGÜ, Batıkent-SSK ve Çamlıca-SSK hatlarında seferler geçici olarak durduruldu.
-
-Yolcuların mağdur olmaması için Uluönder, SSK ve Atatürk Lisesi durakları arasında acil durum otobüsleri devreye alındı. ESTRAM'ın yaptığı yeni açıklamada teknik sorunun giderildiği ve tramvay seferlerinin yeniden normale döndüğü bildirildi.
 
 ---
