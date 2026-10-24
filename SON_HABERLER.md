@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan Eskişehirspor'a destek: "Haydi Efsane, bugün galibiyet günü!"
+
+**Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/vali-yilmazdan-eskisehirspora-destek-haydi-efsane)
+
+![](data/images/a36790311f31f7cd.jpg)
+
+> Yılmaz, takımın 169 günlük hasretin ardından taraftarıyla buluştuğunu belirtti.
+
+Eskişehir Valisi Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Eskişehirspor'un yeniden taraftarıyla buluşmasının kentte oluşturduğu heyecana dikkat çekti ve takıma başarı diledi.
+
+Yılmaz, "169 günlük hasretin ardından taraftarıyla yeniden buluşan siyah-kırmızılı ekibimiz, Prof. Dr. Fethi Heper Stadyumu'nda galibiyet için sahaya çıkıyor. Tribünler yeniden ateşlenecek, Eskişehir yeniden tek yürek olacak" dedi. Futbolculara son düdüğe kadar mücadele etmeleri çağrısı yapan Yılmaz, "3 puan Eskişehir'e gelecek! Haydi EFSANE, bugün galibiyet günü!" ifadelerini kullandı.
+
+---
+
+## Büyükşehir'in yüzme bilmeyenler eğitimi için online kayıtlar 27 Ekim'de başlıyor
+
+**Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.esyenigun.com/eskisehirde-yuzme-ogrenmek-isteyenlere-mujde-kayit-tarihi-belli-oldu)
+
+![](data/images/d382a49b6f79e0cf.jpg)
+
+> Eğitimler 3 Kasım-27 Aralık'ta Kentpark Kapalı Yüzme Havuzu'nda yapılacak.
+
+Eskişehir Büyükşehir Belediyesi Gençlik ve Spor Hizmetleri Dairesi Başkanlığı, 5-17 yaş arasındaki çocuklar ile yetişkinlere yönelik "Yüzme Bilmeyenler Eğitimi"nin yeni dönemini başlatıyor. Eğitimler 3 Kasım'da başlayıp 27 Aralık'ta sona erecek.
+
+Kentpark Kapalı Yüzme Havuzu'nda yapılacak eğitimler için online kayıtlar 27 Ekim Salı günü saat 09.00'da başlayacak. Program kontenjanla sınırlı. Ayrıntılar Büyükşehir'in resmî internet sitesi ve @ebbsporeskisehir Instagram hesabından duyurulacak.
+
+2012'de hizmete açılan Kentpark Kapalı Yüzme Havuzu'nda yaz sonrası yıllık bakım ve tadilat çalışmaları tamamlandı; havuz serbest yüzmek isteyen vatandaşlara da açık.
+
+---
+
 ## Eskişehir Atatürk Lisesi 116 yıllık geçmişiyle eğitim vermeye devam ediyor
 
 **Eğitim · Odunpazarı** · 2026-10-24 08:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ensondakika.com.tr/asirlik-mektepler-eskisehir-in-116-yillik-egitim-cinari-gelecegin-ogrencilerini-yetistiriyor/726155/)
@@ -395,35 +425,5 @@ Millî Eğitim Bakanı Yusuf Tekin, İstanbul'da Kadıköy Lisesi'ni ziyaret ett
 Ardından Beşiktaş'taki Ziya Kalkavan Denizcilik Mesleki ve Teknik Anadolu Lisesi'ni ziyaret eden Tekin, öğrencilerden çalışmaları hakkında bilgi aldı, öğretmenler odasında eğitimcilerle bir araya geldi. Okulda düzenlenen bayrak törenine katılan Tekin, öğrencilere iyi tatiller diledi.
 
 Tekin, "Ülkemizin ekonomik ve toplumsal kalkınmasında kritik bir role sahip olan meslek liselerimizi ve sevgili gençlerimizi güçlendirmeye devam edeceğiz" dedi.
-
----
-
-## Bakan Kacır Togg kampüsünde T6X'i inceledi: Günde 375 araç üretiliyor
-
-**Ekonomi · Türkiye** · 2026-10-23 15:34 UTC · Kaynak: [Google Haberler - Togg](https://www.bloomberght.com/bakan-kacir-yeni-togg-u-paylasti-3792419)
-
-![](data/images/bakan-kacir-togg-kampusunde-t6xi-inceledi-gunde-arsiv.jpg)
-
-> Kacır, T6X'in önümüzdeki yıl satışa sunulacağını belirtti.
-
-Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaret ederek önümüzdeki yıl satışa sunulması planlanan T6X ile tanıtımı yapılan T10F 4More Kehribar serisine yönelik çalışmaları inceledi.
-
-Kacır, sosyal medya hesabından yaptığı paylaşımda, 10 çalışana 1 endüstriyel robot ortalamasıyla otomotiv sektörünün en dijital altyapısına sahip tesisi olan Togg'un günde 375 araç üretim hızıyla yoluna devam ettiğini belirtti.
-
----
-
-## Togg T10F 4More'un Kehribar Serisi tanıtıldı: Yedi farklı renk seçeneği var
-
-**Ekonomi · Türkiye** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Togg](https://www.haberturk.com/ekonomi/togg-t10f-4more-kehribar-serisi-tanitildi-iste-ozellikleri-3922036)
-
-![](data/images/togg-t10f-4moreun-kehribar-serisi-tanitildi-yed-arsiv.jpg)
-
-> Çift motorlu T10F 4More 0'dan 100'e 4,3 saniyede ulaşıyor, WLTP'ye göre 500 kilometre menzil sunuyor.
-
-Togg, çift motorlu ve dört tekerlekten çekişli T10F 4More'u "Kehribar Serisi" ile kullanıcılarla buluşturuyor. Seri, Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere yedi farklı gövde rengiyle sunuluyor. Kehribar, Togg'un Obsidiyen Serisi'nden sonraki yeni özel serisi.
-
-Jantlardan ön panjura, logodan yan aynalara ve cam çerçevelerine kadar kehribar detayları kullanılıyor. İç mekânda Artisyn kumaş ve kabartma desenli koltuklar ile özel dekoratif yüzeyler yer alıyor.
-
-T10F 4More, 320 kW (435 PS) güç ve 700 Nm tork üretiyor ve 0'dan 100 km/sa hıza 4,3 saniyede ulaşıyor. 89,6 kWh batarya kapasitesiyle WLTP'ye göre 500 kilometre menzil sunan model, 26,5 dakikalık hızlı şarj süresine sahip.
 
 ---
