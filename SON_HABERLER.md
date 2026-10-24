@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir Atatürk Lisesi 116 yıllık geçmişiyle eğitim vermeye devam ediyor
+
+**Eğitim · Odunpazarı** · 2026-10-24 08:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ensondakika.com.tr/asirlik-mektepler-eskisehir-in-116-yillik-egitim-cinari-gelecegin-ogrencilerini-yetistiriyor/726155/)
+
+![](data/images/b180e8a17c95acd2.jpg)
+
+> Okul 1910'da "Rüştiye Mektebi" adıyla açıldı; bugünkü binasına 1934-1935'te taşındı.
+
+Osmanlı Devleti tarafından 1910 yılında "Rüştiye Mektebi" adıyla açılan Eskişehir Atatürk Lisesi, 116 yıllık eğitim geçmişiyle "Asırlık Mektepler" dosya haberinin konusu oldu. Odunpazarı ilçesi Akcami Mahallesi'ndeki okul, Eskişehir'in 1920'de işgal edilmesi nedeniyle eğitime ara verdi; kentin 2 Eylül 1922'de kurtarılmasının ardından "Sultani Mektebi" adıyla yeniden faaliyete geçti.
+
+Okul 1930-1931'de "Eskişehir Lisesi" adını aldı ve ilk mezunlarını 1932-1933'te verdi. Atatürk, 1932'de okulu ziyaret ettikten sonra daha uygun bir binaya taşınması için talimat verdi. Dönemin Hükümet Konağı olarak inşa edilen bugünkü bina okula tahsis edildi; okul 1934-1935 eğitim öğretim yılının başında bu binaya taşındı ve 1961'de "Atatürk Lisesi" adını aldı. Yapı 1988'de anıtsal yapı olarak tescillendi.
+
+Okul bugün 28 derslikte 523 öğrenciyle eğitim veriyor. Yaklaşık 13 bin 500 kitaplı kütüphanesi bulunuyor; "Bayrak Şairi" Arif Nihat Asya 1954-1955 yıllarında okulda edebiyat öğretmenliği yaptı.
+
+---
+
+## ESTÜ'nün UNESCO Kürsüsü başvurusu olumlu değerlendirildi, nihai onay aşamasına geçti
+
+**Eğitim · Tepebaşı** · 2026-10-24 08:31 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/cop31-yolunda-eskisehir-teknik-universitesinden-onemli-bir-basari)
+
+![](data/images/e0a40733be6b5a67.jpg)
+
+> Kürsü, 13 ülkeden 32 ortaklı EPD-Net projesiyle bağlantılı olarak geliştirildi.
+
+Eskişehir Teknik Üniversitesi'nin (ESTÜ) UNITWIN/UNESCO Kürsüleri Programı kapsamındaki UNESCO Kürsüsü başvurusu, UNESCO uzmanlarınca olumlu değerlendirildi ve nihai onay aşamasına geçti.
+
+Kürsünün, Yer ve Uzay Bilimleri Enstitüsü öğretim üyeleri Prof. Dr. Saye Nihan Çabuk ve Doç. Dr. Gordana Kaplan'ın eş başkanlığında, Uluslararası İlişkiler Birimi Sorumlusu Öğr. Gör. Gülsüm Karaman'ın katkılarıyla faaliyet göstermesi planlanıyor. Kürsü, ESTÜ koordinatörlüğünde 13 ülkeden 32 ortağın katılımıyla yürütülen ve afet riskinin azaltılması, dirençli kentler ve sürdürülebilir yeniden yapılanma alanlarında iş birliği ağı oluşturan EPD-Net projesiyle bağlantılı olarak geliştirildi.
+
+Kürsünün iklim değişikliğine uyum ve afet dirençliliği alanlarında ortak araştırma, eğitim ve kapasite geliştirme faaliyetlerini güçlendirmesi hedefleniyor.
+
+---
+
 ## Büyükşehir ve Emeklilerin Sesi Derneği kıdemli vatandaşlara iletişim etkinliği düzenledi
 
 **Belediye · Merkez** · 2026-10-24 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-buyuksehir-belediyesi-ve-emeklilerin-sesi-derneginden-ortak-etkinlik)
@@ -393,33 +425,5 @@ Togg, çift motorlu ve dört tekerlekten çekişli T10F 4More'u "Kehribar Serisi
 Jantlardan ön panjura, logodan yan aynalara ve cam çerçevelerine kadar kehribar detayları kullanılıyor. İç mekânda Artisyn kumaş ve kabartma desenli koltuklar ile özel dekoratif yüzeyler yer alıyor.
 
 T10F 4More, 320 kW (435 PS) güç ve 700 Nm tork üretiyor ve 0'dan 100 km/sa hıza 4,3 saniyede ulaşıyor. 89,6 kWh batarya kapasitesiyle WLTP'ye göre 500 kilometre menzil sunan model, 26,5 dakikalık hızlı şarj süresine sahip.
-
----
-
-## Şapcı: "Hedefimiz zirveyi almak"; Eskişehirspor Bursa Yıldırımspor'u ağırlayacak
-
-**Spor · Merkez** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/hakan-sapcihedefimiz-zirveyi-almak)
-
-![](data/images/sapci-hedefimiz-zirveyi-almak-eskisehirspor-bur-arsiv.jpg)
-
-> Şapcı, kazanmaları halinde ligde ikinci sıraya yükseleceklerini söyledi.
-
-Eskişehirspor'dan Hakan Şapcı, Bursa Yıldırımspor maçı öncesinde grupta dengeli bir yapı bulunduğunu ve rakiplerin puan kaybettiğini söyledi. Şapcı, "Rakiplerimizin takıldığı haftada önemli bir avantaj elde ettik" dedi ve bu hafta kazanmaları halinde lig ikincisi olacaklarını, rakip sonuçlarına göre liderliğe oturma ihtimallerinin de bulunduğunu belirtti.
-
-Şapcı, rakibin ne yaptığını bilen, oyun kurgusu olan bir takım olduğunu, ancak kazanmak zorunda oldukları bir maça çıktıklarını ifade etti. Maçta taraftarın da tribündeki yerini alabileceğini hatırlatan Şapcı, Bursa Yıldırım'a bu sezonki ilk mağlubiyetini yaşatmak ve 2 puan önüne geçmek istediklerini söyledi. Bursa Yıldırımspor'u 43 yaşındaki teknik direktör Gürkan Ferhatoğlu çalıştırıyor; Şapcı'nın ekibi geçen sezon Bornova 1877'yi çalıştıran Ferhatoğlu'nun takımını 1-0 yenmişti.
-
----
-
-## Piyano Günleri'nde Sebastiano Brusco'dan "Liebestraum" resitali
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-23 14:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://yerel-haberler.haberturk.com/eskisehir-haberleri/6-uluslararasi-piyano-gunlerinde-sebastiano-bruscodan-liebestraum-resitali-119501449)
-
-> 6. Uluslararası Piyano Günleri Anadolu Üniversitesi'nde 24 Ekim'e kadar sürecek.
-
-Anadolu Üniversitesi Devlet Konservatuvarı Müzik Bölümü Piyano Anasanat Dalı Başkanlığı'nın düzenlediği 6. Uluslararası Piyano Günleri kapsamında piyanist Sebastiano Brusco, "Liebestraum" başlıklı resitalini verdi. Resital, Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda yapıldı.
-
-Brusco, Schubert, Chopin, Rachmaninoff ve Liszt'in eserlerini seslendirdi. Programda Schubert'in Impromptu Op. 90 No. 3'ü, Chopin'in noktürn, etüt, baladlar ve polonezi, Rachmaninoff'un Prelude Op. 32 No. 12'si ve Liszt'in Liebestraum No. 3'ü yer aldı. Resitalin sonunda Anadolu Üniversitesi Halk Bilimi Uygulama ve Araştırma Merkezi Müdürü Prof. Oytun Eren, Brusco'ya teşekkür belgesi ve çiçek verdi.
-
-Anadolu Üniversitesi ev sahipliğindeki Piyano Günleri, 24 Ekim'e kadar düzenlenecek konserler ve etkinliklerle sürecek.
 
 ---
