@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor, Bursa Yıldırımspor karşısında ilk yarıyı 0-1 geride kapattı
+
+**Spor · Merkez** · 2026-10-24 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macina-kotu-basladi-ilk-yari-sonucu-0-1)
+
+![](data/images/af5a351430b825b2.jpg)
+
+> Maç 22. dakikada stadyumda ışıkların kısmen sönmesi nedeniyle durdu.
+
+Eskişehirspor, 169 gün sonra taraftarı önünde Bursa Yıldırımspor ile oynadığı 3. Lig maçının ilk yarısını 0-1 geride kapattı. Konuk ekip 19. dakikada Hakan Öztürk'ün golüyle öne geçti.
+
+Maça hızlı başlayan ve üst üste kornerlerle gol arayan Eskişehirspor, Abdülkadir'in kafa vuruşunda savunmadan çizgiden çıkan top dışında net pozisyon bulamadı. 45+3'te Hasan Kaya'nın çaprazdan şutunda top savunmadan döndü; Eskişehirspor penaltı beklese de hakem Hatem Yarar oyuna devam dedi. Maçın 22. dakikasında stadyumun bir kısmında ışıklar söndü ve hakem oyunu durdurdu.
+
+Eskişehirspor 11'i: Bora Göymen, Murat Şenel, Ahmet Lütfi Kara, Arda Okumuş, Abdülkadir Öksüz, Ozan İsmail Koç, Mehmet Bağlı, Tayfun Tatlı, Hasan Kaya, Beykan Şimşek, Osman Arslantaş.
+
+---
+
 ## Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu: Şapcı 3 değişiklik yaptı
 
 **Spor · Merkez** · 2026-10-24 16:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kadrosunda-3-degisiklik-1)
@@ -90,7 +106,7 @@ Türk Hava Kuvvetleri'nin gösteri takımı SOLOTÜRK, 29 Ekim Cumhuriyet Bayram
 
 **Gündem · Merkez** · 2026-10-24 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/milli-savunma-bakani-yasar-guler-eskisehire-geldi)
 
-![](data/images/d5ea82785d63c320.jpg)
+![](data/images/202610241132-bakan-guler-1-hava-bakim-fa-v2.jpg)
 
 > Güler, Hava Kuvvetleri Komutanı Dalkıran'la birlikte Hasan Polatkan Havalimanı'nda karşılandı.
 
@@ -118,7 +134,7 @@ Erdoğan, savaşlar, insani felaketler, iklim değişikliği, açlık ve yoksull
 
 **Eğitim · Türkiye** · 2026-10-24 10:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/velilere-20-saatlik-egitim-zorunlulugu-bakan-tekin-acikladi-52116)
 
-![](data/images/ef0555b43e4d02d3.jpg)
+![](data/images/202610241033-bakan-tekin-ebeveyn-okulu-p-v2.jpg)
 
 > Okul öncesi, ilkokul 1. ve ortaokul 5. sınıfa başlayan öğrencilerin velileri 20 saatlik eğitim alıyor.
 
@@ -166,7 +182,7 @@ Fiyatlar Harem Altın'ın saat 12.59 itibarıyla paylaştığı verilere dayanma
 
 **Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/vali-yilmazdan-eskisehirspora-destek-haydi-efsane)
 
-![](data/images/a36790311f31f7cd.jpg)
+![](data/images/202610240931-vali-yilmazdan-eskisehirspo-v2.jpg)
 
 > Yılmaz, takımın 169 günlük hasretin ardından taraftarıyla buluştuğunu belirtti.
 
@@ -286,7 +302,7 @@ Alımlar KPSS P3 puan sıralamasına göre sözlü sınavla yapılacak; her il i
 
 **Ulaşım · Merkez** · 2026-10-23 23:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/eskisehirspor-un-bursa-yildirim-maci-oncesi-ulasim-kolayligi--sefer-saatleri-belli-oldu-296881.html)
 
-![](data/images/c1def988363f9a20.jpg)
+![](data/images/202610232331-eskisehirspor-bursa-yildiri-v2.jpg)
 
 > Büyükşehir seferleri saat 17.00'de başlatacak.
 
@@ -330,7 +346,7 @@ Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), aktif öğrenci sayıs�
 
 **Spor · Merkez** · 2026-10-23 21:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaber.com/altes-tribun-lideri-mucahit-ulucaydan-eskisehirspor-taraftarina-cagri)
 
-![](data/images/ce7a8bee8cb99f5f.jpg)
+![](data/images/202610232134-altes-tribun-lideri-ulucayd-v3.jpg)
 
 > Uluçay, deplasman yolunda ve tribünde tek görüntü oluşturulmasını istedi.
 
@@ -384,7 +400,7 @@ Odunpazarı'nda 71 Evler Mahallesi'ndeki toplu işyeri alanlarından birinin bed
 
 **Spor · Merkez** · 2026-10-23 19:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaberajansi.com/eskisehirspor-icin-iskocyadan-geldi-varsan-varim-kampanyasina-destek-verdi)
 
-![](data/images/332bbfb5f063d414.jpg)
+![](data/images/202610231932-st-johnstone-taraftari-eski-v3.jpg)
 
 > İskoç taraftar Ricky Marshall, Bursa Yıldırım SK maçı öncesinde Eskişehir'e geldi.
 
@@ -423,19 +439,5 @@ Orta İtalya'dan gelen 10 kişilik köpek eğitmeni heyeti, Eskişehirli çiftç
 İtalyan eğitmen Christopher Paoletti, Türk çoban köpeklerinin kurda karşı çok daha baskın ve atılgan olduğunu, kendi ülkelerindeki köpeklerin ise havlayarak ve koku bırakarak yabani hayvanı püskürttüğünü söyledi. Eğitmen Elisa Malacrida ise Türkiye'ye ilk kez geldiğini belirterek grup içindeki dinamikleri ve çobanın çalışma tarzını izlemenin büyüleyici olduğunu ifade etti.
 
 Savran, konuklarının topladıkları bilgilerle Türk çoban köpeklerinin karakterini İtalya'da tanıtacağını söyledi.
-
----
-
-## Erdoğan, R4+E3 toplantısı için gelen altı ülkenin dışişleri bakanlarını kabul etti
-
-**Siyaset · Türkiye** · 2026-10-23 18:31 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-6-ulkenin-disisleri-bakanlarini-kabul-etti-961021.html)
-
-![](data/images/2ad6dccabdfdf799.jpg)
-
-> Kabulde Fidan, Wadephul, Barrot, Tajani, Dar, Abdulati ve Faysal bin Ferhan yer aldı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, R4 (Türkiye, Mısır, Pakistan ve Suudi Arabistan) ile İtalya'nın katılımıyla gerçekleştirilen R4+E3 (İngiltere, Almanya ve Fransa) Dışişleri Bakanları Toplantıları kapsamında Türkiye'ye gelen dışişleri bakanlarını kabul etti.
-
-Kabulde Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Johann Wadephul, Fransa Dışişleri Bakanı Jean-Noel Barrot, İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, Pakistan Dışişleri Bakanı Muhammad Ishaq Dar, Mısır Dışişleri Bakanı Bedir Abdulati ve Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan yer aldı.
 
 ---
