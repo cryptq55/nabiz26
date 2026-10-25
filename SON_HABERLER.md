@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 25 Ekim 2026: Gram altın 6.471,57 TL
+
+**Ekonomi · Merkez** · 2026-10-25 10:24 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261025.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.389,88 TL'den alınıyor, 6.471,57 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 13.24 itibarıyla verilerine göre gram altının satış fiyatı 6.471,57 TL, alış fiyatı 6.389,88 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın 42.043 TL, ata altın 42.798 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.045,08 TL, has altının gram fiyatı 6.452,21 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 13.24 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Başkan Ataç Yeni Mahalle'de tamamlanan asfalt ve kaldırım çalışmalarını inceledi
 
 **Belediye · Tepebaşı** · 2026-10-25 09:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenimahalle’dehizmetevatandaslardantamnot)
@@ -443,19 +463,5 @@ Millî Savunma Bakanlığı'na göre başvurular askerlik şubeleri aracılığ�
 Kültür ve Turizm Bakanlığı, taşra teşkilatında görevlendirmek üzere Türkiye genelinde 162 sözleşmeli kütüphaneci alacak. 23 Ekim 2026 tarihli Resmî Gazete'de yayımlanan ilana göre Eskişehir için 3 asıl ve 2 yedek aday kontenjanı ayrıldı.
 
 Alımlar KPSS P3 puan sıralamasına göre sözlü sınavla yapılacak; her il için kontenjanın üç katı kadar aday mülakata çağrılacak. Başvurular 2-16 Kasım 2026 tarihleri arasında e-Devlet üzerinden "Kariyer Kapısı-Kamu İşe Alım" hizmetiyle yapılacak. Adayların Bilgi ve Belge Yönetimi, Kütüphanecilik, Arşivcilik veya Dokümantasyon ve Enformasyon bölümlerinden mezun olması ve 2026 KPSS B Grubu P3 puan türünden en az 70 puan alması gerekiyor. Adaylar yalnızca tek bir ile başvurabilecek.
-
----
-
-## Eskişehirspor–Bursa Yıldırım maçı için 24 Ekim'de Alaaddin Parkı'ndan ring seferi
-
-**Ulaşım · Merkez** · 2026-10-23 23:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/eskisehirspor-un-bursa-yildirim-maci-oncesi-ulasim-kolayligi--sefer-saatleri-belli-oldu-296881.html)
-
-![](data/images/202610232331-eskisehirspor-bursa-yildiri-v2.jpg)
-
-> Büyükşehir seferleri saat 17.00'de başlatacak.
-
-Eskişehir Büyükşehir Belediyesi, Eskişehirspor'un Bursa Yıldırım ile oynayacağı maç öncesinde taraftarların stadyuma ulaşımını kolaylaştırmak için ring seferleri düzenleyecek. Seferler 24 Ekim Cumartesi günü saat 17.00'de Odunpazarı Alaaddin Parkı'ndan başlayacak.
-
-Belediyenin sosyal medya hesaplarından yapılan duyuruda "Hasret bitiyor, büyük taraftar Eskişehirspor'a kavuşuyor!" ifadelerine yer verildi.
 
 ---
