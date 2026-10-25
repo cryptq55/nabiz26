@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg T10F 4More için Kehribar Serisi geldi: Yedi renk seçeneği var
+
+**Türkiye · Türkiye** · 2026-10-25 02:34 UTC · Kaynak: [Google Haberler - Togg](https://m.duzcetv.com/ekonomi-haberleri/262002-togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor)
+
+![](data/images/1ffbd971badc534c.jpg)
+
+> Togg, çift motorlu T10F 4More modelini özel tasarım detaylı Kehribar Serisi ile sunuyor.
+
+Togg, doğadan ilham alan özel serilerine Kehribar ile yenisini ekliyor. Çift motorlu ve dört tekerlekten çekişli T10F 4More, Kehribar Serisi ile kullanıcılarla buluşuyor.
+
+Seri, Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere yedi farklı gövde rengiyle sunuluyor. Jantlardan ön panjura, logodan yan aynalara ve cam çerçevelerine kadar tasarımın farklı noktalarında Kehribar detayları kullanılıyor.
+
+İç mekânda Artisyn kumaş ve kabartma desenli detaylara sahip koltuklar ile özel dekoratif yüzeyler yer alıyor. Kehribar, volkanik kökenli obsidiyenin tonlarını yansıtan Obsidiyen Serisi'nin ardından markanın özel serilerine katılıyor. (Kaynak: Düzce TV)
+
+---
+
+## Eskişehir'de kadın çiftçiler için 6 bin metrekarelik kuşburnu bahçesi kuruldu
+
+**Tarım · Merkez** · 2026-10-25 02:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-kadin-ciftciler-icin-6-bin-metrekarelik-bahce-kuruldu)
+
+![](data/images/2f783c45c636fe36.jpg)
+
+> İl Tarım ve Orman Müdürlüğü'nün projesiyle altı kadın üreticinin bahçeleri oluşturuldu; çiftçiler Kütahya'ya inceleme gezisi yaptı.
+
+Eskişehir İl Tarım ve Orman Müdürlüğü, kadın çiftçilerin tarımsal bilgi ve becerilerini geliştirmek için Kütahya'ya inceleme gezisi düzenledi. Program, Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanlığı'nın desteğiyle yürütüldü.
+
+"Ege'den Doğan Ay Eskişehir'i Aydınlatıyor" projesiyle kuşburnu üretiminin Eskişehir'in altı ilçesindeki mahallelerde yaygınlaştırılması hedefleniyor. İzmir Ege Tarımsal Araştırma Enstitüsü Müdürlüğü iş birliğindeki proje kapsamında altı kadın üretici için 1.000'er metrekarelik demonstrasyon bahçeleri kuruldu; toplam alan 6.000 metrekareye ulaştı.
+
+Gezide kuşburnu ve ahududu yetiştirilen alanlar ile pazarlama noktaları ziyaret edildi. Kadın çiftçiler S.S. Kütahya Sekiören Kadın Girişimi Üretim ve İşletme Kooperatifi'nde girişimcilik ve kooperatif çalışmaları hakkında bilgi aldı, Hekim Sinan Tıbbi ve Aromatik Merkezi'ni de gezdi.
+
+Üreticiler, bahçelerini geliştirerek kuşburnu yetiştiriciliğini Eskişehir genelinde yaygınlaştırmak istediklerini ifade etti. (Kaynak: Eskişehir Haberleri)
+
+---
+
 ## Eskişehirspor Başkanı Entok: Hakan Şapcı görevine devam edecek
 
 **Spor · Merkez** · 2026-10-24 20:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-teknik-direktor-hakan-sapci-ile-ilgili-verilen-karar-belli-oldu)
@@ -411,33 +445,5 @@ Uluçay, "Siyahın içinde tek yürek, tek ses, tek sevda olalım" dedi. Tribün
 > Ekip 24 Ekim'de çevre tanıma, 27 Ekim'de prova uçuşu gerçekleştirecek.
 
 SOLOTÜRK, 29 Ekim Perşembe günü saat 14.00'te Eskişehir'de Sazova Parkı üzerinde gösteri uçuşu yapacak. SOLOTÜRK'ün sosyal medya hesabından yapılan paylaşıma göre ekip aynı yerde 24 Ekim Cumartesi günü saat 12.20'de çevre tanıma, 27 Ekim Salı günü saat 14.00'te ise prova uçuşu gerçekleştirecek.
-
----
-
-## Kars'ta 13. Uluslararası Çocuk ve Gençlik Edebiyatı Sempozyumu düzenlendi
-
-**Eğitim · Türkiye** · 2026-10-23 20:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/kars039ta-quot13-uluslararasi-cocuk-ve-genclik-edebiyati-sempozyumuquot-duzenlendi/haber/42283/tr)
-
-![](data/images/e7df324c98dda216.jpg)
-
-> Millî Eğitim Bakan Yardımcısı Ökten, Maarif Modeli ders kitaplarını anlattı.
-
-Kars'ta "13. Uluslararası Çocuk ve Gençlik Edebiyatı Sempozyumu" düzenlendi. Sempozyum "çocuğa yönelik olumsuz yayınlar, çocuk ve gençlik edebiyatı ile psikoloji ilişkisi" temasıyla yapıldı; Kafkas Halk Oyunları Ekibi gösteri sundu.
-
-Millî Eğitim Bakan Yardımcısı Celile Eren Ökten konuşmasında, Türkiye Yüzyılı Maarif Modeli kapsamında hazırlanan ortaokul Türkçe ve lise Türk Dili ve Edebiyatı ders kitaplarının öğrencinin yalnızca bilgi edinen değil, okuyan, sorgulayan, yorumlayan ve özgün ürünler ortaya koyan bir birey olarak gelişimini desteklediğini söyledi.
-
----
-
-## TOKİ, Odunpazarı ve Tepebaşı'ndaki arsaları 5-6 Kasım'da açık artırmayla satacak
-
-**Ekonomi · Merkez** · 2026-10-23 19:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/toki-eskisehirde-arsa-satacak-fiyatlar-19-milyon-tlden-basliyor)
-
-![](data/images/5c4c810d0f919744.jpg)
-
-> 61 ilde 725 arsa satılacak; Eskişehir'de başlangıç bedeli 1,9 milyon TL'den başlıyor.
-
-TOKİ'nin açıkladığı takvime göre 61 ilde 725 arsanın açık artırmaları 5 Kasım Perşembe ve 6 Kasım Cuma günleri saat 10.30'da başlayacak. Satış listesinde Eskişehir'in Odunpazarı ve Tepebaşı ilçelerinde taşınmazlar da yer alıyor.
-
-Odunpazarı'nda 71 Evler Mahallesi'ndeki toplu işyeri alanlarından birinin bedeli 1 milyon 900 bin TL; diğerlerinin bedelleri 32 milyon 600 bin TL ile 93 milyon 600 bin TL arasında. Aşağı Çağlan Mahallesi'ndeki 373 metrekarelik konut alanı parsellerinin her biri 3 milyon 200 bin TL, Eşenkara bölgesindeki termal turizm tesisi alanları ise 40 milyon 500 bin, 50 milyon 300 bin ve 58 milyon 500 bin TL bedelle listelendi. Tepebaşı'nda Zincirlikuyu Mahallesi'ndeki 10 bin 358,41 metrekarelik ticaret-konut alanının bedeli 145 milyon 100 bin TL.
 
 ---
