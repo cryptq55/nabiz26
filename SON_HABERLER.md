@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Şimşek: IMF'ye göre Türkiye mali şeffaflıkta yükseldi
+
+**Ekonomi · Türkiye** · 2026-10-25 05:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.toplumsal.com.tr/haber/hazine-bakani-simsek-turkiye-nin-mali-seffaflikta-yukseldigini-acikladi_31109/)
+
+![](data/images/c3133a50eaedf9d1.jpg)
+
+> Hazine ve Maliye Bakanı Mehmet Şimşek, IMF'nin Mali Şeffaflık Değerlendirmesi'ni değerlendirdi.
+
+Hazine ve Maliye Bakanı Mehmet Şimşek, IMF'nin Türkiye'ye ilişkin Mali Şeffaflık Değerlendirmesi raporunu değerlendirdi. Şimşek, Türkiye'nin mali şeffaflık derecesinin önemli ölçüde yükseldiğini söyledi.
+
+Bakan'a göre Türkiye, 2015 yılında Mali Şeffaflık Kodu'ndaki ilkelerin yaklaşık yarısında iyi veya ileri uygulama düzeyindeydi; bu oran şimdi üçte ikiye çıktı. Şimşek, bu gelişmeyle Türkiye'nin Birleşik Krallık, Finlandiya, İrlanda, Avusturya ve Portekiz gibi ülkelerin de bulunduğu yaklaşık 40 ülke arasında en üst sıralarda yer aldığını belirtti.
+
+Şimşek, Türkiye'nin mali istatistikler, bütçe yönetimi, mali riskler ve hesap verebilirlik alanlarındaki uygulamalarının IMF tarafından incelendiğini ifade etti. Başarının 20 yılı aşkın süredir süren kurumsal dönüşümün sonucu olduğunu söyleyen Şimşek, mali şeffaflığı artıracak yapısal reform çalışmalarının sürdüğünü vurguladı. (Kaynak: Toplumsal Haber)
+
+---
+
+## ESKİ'nin online su yükleme sistemi 26 Ekim'de başlıyor
+
+**Belediye · Merkez** · 2026-10-25 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/tarih-belli-oldu-eskisehirde-su-yukleme-islemleri-online-gerceklestirilecek-2419789)
+
+![](data/images/b7d1522e9c59cee2.jpg)
+
+> Başkan Ünlüce, ES2026 Yeni Nesil Sayaç ve Online Su Yükleme Sistemi'nin pazartesi günü hayata geçeceğini duyurdu.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, online su yükleme sisteminin 26 Ekim Pazartesi günü hayata geçirileceğini açıkladı.
+
+ESKİ Genel Müdürlüğü'nün kendi mühendislik ve AR-GE birikimiyle geliştirdiği ES2026 Yeni Nesil Sayaç ve Online Su Yükleme Sistemi sayesinde aboneler, su yüklemek için Sumatik noktalarına gitmek zorunda kalmayacak. İşlemler Android ve iOS işletim sistemli telefonlar üzerinden yapılabilecek.
+
+Sistemin resmî tanıtım töreni 26 Ekim Pazartesi günü saat 12.00'de, ESKİ Genel Müdürlüğü Orhangazi Mahallesi Ömür Mevkii İçme Suyu Arıtma Tesisleri'nde yapılacak. Tanıtımda yeni sistemin kullanımı ve dijital altyapıyla planlanan kolaylıklar hakkında bilgi verilecek.
+
+Ünlüce, sosyal medya hesabından yaptığı açıklamada, 2026 Eskişehir Yılı'nda verdikleri bir sözü daha tuttuklarını belirtti ve projede emeği geçen çalışanlara teşekkür etti. (Kaynak: Gazete Vat)
+
+---
+
 ## Togg T10F 4More için Kehribar Serisi geldi: Yedi renk seçeneği var
 
 **Türkiye · Türkiye** · 2026-10-25 02:34 UTC · Kaynak: [Google Haberler - Togg](https://m.duzcetv.com/ekonomi-haberleri/262002-togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor)
@@ -419,31 +453,5 @@ Haberde, Başkan Kazım Kurt'un daha önce belediyeye tahliye tebligatı gönder
 Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), aktif öğrenci sayısında 1 milyon barajını geçti. Üniversite öğrencileri ve mezunlarına sınava girmeden ön lisans veya lisans programlarına kayıt olma imkânı sunan İkinci Üniversite programına yoğun ilgi gösterilmesi üzerine kayıt süresi 26 Ekim Pazartesi günü saat 17.00'ye kadar uzatıldı. Kayıtlar aoskayit.anadolu.edu.tr adresinden yapılıyor. Yapay Zekâ Destekli Kodlama ve Veri Görselleştirme programları adayların en çok tercih ettiği yeni programlar oldu.
 
 Öğrenci affı kapsamında güz dönemi kesin kayıt işlemleri sona erdi; yaklaşık 300 bin kişi başvuruda bulundu. Kesin kaydı onaylanan öğrenciler ders ekleme ve silme işlemlerini 26 Ekim saat 22.00'ye kadar yapabilecek. Öğrenci affı 2026-2027 bahar dönemi başvuruları ise 9 Aralık 2026 Çarşamba günü saat 17.00'ye kadar kabul edilecek.
-
----
-
-## Altes Tribün Lideri Uluçay'dan Altay deplasmanı öncesi taraftara "siyah giyin" çağrısı
-
-**Spor · Merkez** · 2026-10-23 21:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirhaber.com/altes-tribun-lideri-mucahit-ulucaydan-eskisehirspor-taraftarina-cagri)
-
-![](data/images/202610232134-altes-tribun-lideri-ulucayd-v3.jpg)
-
-> Uluçay, deplasman yolunda ve tribünde tek görüntü oluşturulmasını istedi.
-
-Eskişehirspor'un taraftar grubu Altes'in tribün lideri Mücahit Uluçay, hafta sonu oynanacak Altay deplasmanı öncesinde taraftarlara birlik ve beraberlik mesajı verdi. Uluçay, taraftarlardan deplasman yolunda ve tribünde siyah kıyafet giyerek tek bir görüntü oluşturmalarını istedi.
-
-Uluçay, "Siyahın içinde tek yürek, tek ses, tek sevda olalım" dedi. Tribün kültürünün kardeşlik, sadakat ve vefa olduğunu vurgulayan Uluçay, taraftarların gittikleri her yerde kulübü en iyi şekilde temsil etmesi gerektiğini söyledi.
-
----
-
-## SOLOTÜRK 29 Ekim'de Sazova Parkı'nda gösteri uçuşu yapacak
-
-**Gündem · Tepebaşı** · 2026-10-23 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.trthaber.com/haber/turkiye/soloturk-29-ekimde-eskisehirde-gosteri-ucusu-yapacak-961033.html)
-
-![](data/images/776a26b9a4fd2512.jpg)
-
-> Ekip 24 Ekim'de çevre tanıma, 27 Ekim'de prova uçuşu gerçekleştirecek.
-
-SOLOTÜRK, 29 Ekim Perşembe günü saat 14.00'te Eskişehir'de Sazova Parkı üzerinde gösteri uçuşu yapacak. SOLOTÜRK'ün sosyal medya hesabından yapılan paylaşıma göre ekip aynı yerde 24 Ekim Cumartesi günü saat 12.20'de çevre tanıma, 27 Ekim Salı günü saat 14.00'te ise prova uçuşu gerçekleştirecek.
 
 ---
