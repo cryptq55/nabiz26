@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Kacır: Togg günde 375 otomobil üretiyor, T6X önümüzdeki yıl satışta
+
+**Türkiye · Türkiye** · 2026-10-25 08:31 UTC · Kaynak: [Google Haberler - Togg](https://www.autobond.tr/haberler/togg-t6x-kacir-gunluk-375-uretim/)
+
+![](data/images/5a8296c029667818.jpg)
+
+> Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaretinin ardından üretim hızını açıkladı.
+
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaret etti. Kacır, Togg T6X ile T10F 4More Kehribar Serisi'ne yönelik çalışmaları incelediklerini belirtti.
+
+Bakan, Togg'un günde 375 otomobil üretim hızına ulaştığını açıkladı. Kacır'a göre tesis, 10 çalışana 1 endüstriyel robot ortalamasıyla otomotiv sektörünün en dijital altyapısına sahip tesisi konumunda.
+
+Açıklamada T6X modelinin önümüzdeki yıl satışa sunulacağı belirtildi. Modelin fiyatı, donanımları, batarya kapasitesi ve menzili ise açıklanmadı.
+
+Kehribar Serisi, çift motorlu ve dört tekerlekten çekişli T10F 4More için hazırlandı ve yedi gövde rengiyle sunuluyor. Kehribar tasarım paketinin fiyatı 100 bin TL olarak açıklandı. (Kaynak: AutoBond)
+
+---
+
 ## Şimşek: IMF'ye göre Türkiye mali şeffaflıkta yükseldi
 
 **Ekonomi · Türkiye** · 2026-10-25 05:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.toplumsal.com.tr/haber/hazine-bakani-simsek-turkiye-nin-mali-seffaflikta-yukseldigini-acikladi_31109/)
@@ -439,19 +457,5 @@ Kütahya Vakıflar Bölge Müdürü Muhammet Enes Çınar, Odunpazarı Belediyes
 Çınar, tahliyenin kasım ayının başında Odunpazarı Kaymakamlığı ve emniyet güçlerince yürütüleceğini ifade etti. Külliyenin nasıl değerlendirileceğine ilişkin bir rapor hazırlayıp Vakıflar Genel Müdürlüğü'ne sunduklarını, henüz kesinleşmiş bir karar bulunmadığını ve külliyedeki müzeler ile alt kiracıların durumunun netleşmediğini söyledi.
 
 Haberde, Başkan Kazım Kurt'un daha önce belediyeye tahliye tebligatı gönderildiğini ve işlemin 3 Kasım'a kadar gerçekleştirilmesinin istendiğini açıkladığı aktarıldı. Yaklaşık 10 yıl önce benzer bir süreçte Kurt'un oturma eylemi yaptığı ve iki kurum arasında uzlaşma sağlandığı da hatırlatıldı.
-
----
-
-## AÖF'te İkinci Üniversite kayıtları 26 Ekim saat 17.00'ye kadar uzatıldı
-
-**Eğitim · Tepebaşı** · 2026-10-23 22:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirhaberajansi.com/aofte-ikinci-universite-kayitlari-uzatildi)
-
-![](data/images/c689eebba3e107b6.jpg)
-
-> AÖF'ün aktif öğrenci sayısı 1 milyonu aştı; öğrenci affı bahar dönemi başvuruları 9 Aralık'a kadar sürecek.
-
-Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), aktif öğrenci sayısında 1 milyon barajını geçti. Üniversite öğrencileri ve mezunlarına sınava girmeden ön lisans veya lisans programlarına kayıt olma imkânı sunan İkinci Üniversite programına yoğun ilgi gösterilmesi üzerine kayıt süresi 26 Ekim Pazartesi günü saat 17.00'ye kadar uzatıldı. Kayıtlar aoskayit.anadolu.edu.tr adresinden yapılıyor. Yapay Zekâ Destekli Kodlama ve Veri Görselleştirme programları adayların en çok tercih ettiği yeni programlar oldu.
-
-Öğrenci affı kapsamında güz dönemi kesin kayıt işlemleri sona erdi; yaklaşık 300 bin kişi başvuruda bulundu. Kesin kaydı onaylanan öğrenciler ders ekleme ve silme işlemlerini 26 Ekim saat 22.00'ye kadar yapabilecek. Öğrenci affı 2026-2027 bahar dönemi başvuruları ise 9 Aralık 2026 Çarşamba günü saat 17.00'ye kadar kabul edilecek.
 
 ---
