@@ -397,6 +397,8 @@ def main():
         for t in CATEGORY_TAGS.get(a["category"], []):
             if t not in tags:
                 tags.append(t)
+        if "altın" in a["title"].lower():  # günlük altın haberi: aranan etiketler
+            tags += [t for t in ("#Altın", "#AltınFiyatları") if t not in tags]
         caption = (f"{a['title']}\n\n{a['spot']}\n\n"
                    f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),

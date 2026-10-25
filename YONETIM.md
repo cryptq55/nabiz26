@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 25.10.2026 21:45 TSİ
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (143 haber). **Haber akışı durdu:** son haber 13:33 TSİ (altın + Enerji Bak. haberi); sonraki 5 "Haber turu" commit'i yalnız seen.json değiştirdi, 8 saattir yeni haber yok. Son 24 saatte yalnız 11 haber (Ekonomi 3, Türkiye/Belediye 2'şer, Kültür-Sanat/Spor/Tarım/Gündem 1'er); önem 2→7, 3→4, `reel` 0. İlçe: Türkiye 5, Merkez 4, Tepebaşı 2. Tekrar başlık 0, fotoğrafsız 0 (toplam 73 haberin kapağı gizli). Instagram: son 24 saatte 14 paylaşım (cap 16), 6 Reels.
+**Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv. açılmadı; Günyüzü bağlantı yok; 360 aday ama Google Haberler hedeflerinin çoğu 403/429 verdi ("yetersiz metin") ve Commons birebir fotoğraf kuralı elediği için yayın çıkmıyor olabilir. Boş GitHub `saglik` kaydı yok (8 saat eşiği henüz dolmadı).
+**İyileştirme:** `build.py` Instagram açıklamalarına altın haberlerinde #Altın #AltınFiyatları.
+**Sıradaki 3 fikir:** (1) akış durması nedenini haber masası günlüğünden bulmak (aday var, yayın yok: foto kuralı mı, tazelik mi); (2) resmî kaynak (gov.tr/bel.tr) sayısını artırmak; (3) nöbetçi eczane sayfası.
+SAHİBİNE: Haber akışı pazar günü 13:33'ten beri durdu; sabah hâlâ böyleyse "Nabız 26 haber masası" oturumunu kontrol edin.
+
 ## 25.10.2026 09:45 TSİ
 **Denetim:** /, /hava-durumu, /namaz-vakitleri, /sitemap.xml, /news-sitemap.xml, /rss.xml ve son 3 haber 200. Derleme geçti (138 haber). Son haber 08:32 TSİ. Son 24 saatte 24 haber (Spor 7, Gündem 4, Eğitim 3, Belediye/Ekonomi/Türkiye 2'şer, Siyaset/Ulaşım/Kültür-Sanat/Tarım 1'er). İlçe: Merkez 15, Türkiye 5, Tepebaşı 3, Odunpazarı 1. Tekrar başlık 0, fotoğrafsız 0. Önem: 3→14, 2→9, 1→1; 4+ ve `reel: true` hâlâ 0 (dünkü önem kalibrasyonu sonrası da değişmedi). Instagram: log 15 (cap 16'ya yakın), reel_log 6; Reels yedek puanıyla (fotoğraflı yerel önem 3+) çıkmaya devam ediyor, yani editör işareti olmasa da hat çalışıyor.
 **Kaynaklar (bulut IP'si):** Valilik, Büyükşehir, Anadolu Ünv. açılmadı (yurt dışı engeli, bilinen); Günyüzü bağlantı yok; gazetecin.com 403. 302 yeni aday.
