@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye'nin elektrik kurulu gücü Eylül sonunda 127 bin 355 megavata ulaştı
+
+**Ekonomi · Türkiye** · 2026-10-25 10:31 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31953)
+
+![](data/images/5e2a1650fad83c73.jpg)
+
+> Yenilenebilir kaynakların payı yüzde 63,1'e çıktı; Bakan Bayraktar yerli kaynakların payını vurguladı.
+
+Türkiye'nin elektrik kurulu gücü, 2026 Eylül ayı sonu itibarıyla 127 bin 355 megavata ulaştı. Yenilenebilir kaynaklı kurulu güç 80 bin 315 megavata çıktı; yenilenebilirin toplam kurulu güç içindeki payı yüzde 63,1, yerli kaynakların payı ise yüzde 72,1 oldu.
+
+Güneş enerjisinin kurulu gücü 28 bin 222 megavata, rüzgâr enerjisinin kurulu gücü 15 bin 540 megavata yükseldi. İki kaynağın toplam kurulu gücü 43 bin 762 megavata, toplam içindeki payı yüzde 34,4'e çıktı.
+
+Eylül'de aylık elektrik üretimi 31,79 milyar kilovatsaat oldu. Üretimin yüzde 26'sına denk gelen 8,27 milyar kilovatsaati hidrolik kaynaklardan elde edildi.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Eylül'de toplam elektrik üretiminin yüzde 70,3'ünü yerli kaynaklarla karşıladıklarını, böylece dışa bağımlılığı yüzde 30'un altına indirdiklerini söyledi. (Kaynak: Enerji ve Tabii Kaynaklar Bakanlığı)
+
+---
+
+## AİLEM Engelsiz İletişim Merkezi 335 bin 288 çağrıya çeviri desteği sağladı
+
+**Gündem · Türkiye** · 2026-10-25 10:31 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/ailem-engelsiz-iletisim-merkezi-335-bin-288-cagriya-ceviri-destegi-sagladi/)
+
+![](data/images/a61172c0e11ed8d7.jpg)
+
+> Bakan Göktaş, merkezin 54 bin 788 kayıtlı kullanıcısı olduğunu ve günde ortalama 250-300 çağrıya destek verildiğini açıkladı.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, işitme engelli bireylerin kamu hizmetlerine, bilgiye ve sosyal hayata erişimini kolaylaştırmak için hizmete sunulan AİLEM Engelsiz İletişim Merkezi aracılığıyla bugüne kadar 335 bin 288 çağrının karşılandığını bildirdi.
+
+Göktaş'a göre merkezin 54 bin 788 kayıtlı kullanıcısı bulunuyor. İşitme engelli bireylerin eğitimden istihdama, sağlık hizmetlerinden bankacılık işlemlerine, aile içi iletişimden kamu kurumlarıyla yürütülen işlemlere kadar hayatın her alanında iletişim kurabilmesi için günlük ortalama 250-300 çağrıya destek sağlanıyor.
+
+Merkeze iOS ve Android mobil uygulamaları ile web üzerinden erişilebiliyor. Göktaş, merkezin işitme engelli danışana, hastaya, veliye veya müşteriye ulaşmak isteyen işiten bireylerin de kullanımına açık olduğunu hatırlattı. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
+
+---
+
 ## Altın fiyatları 25 Ekim 2026: Gram altın 6.471,57 TL
 
 **Ekonomi · Merkez** · 2026-10-25 10:24 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -433,35 +467,5 @@ Yaşlı Hizmetleri Birimi Sorumlusu Merve Kas, kıdemli vatandaşların sosyal h
 Tekirdağ İl Jandarma Komutanlığı ekipleri, Çerkezköy Cumhuriyet Başsavcılığı koordinesinde yasa dışı bahis faaliyetlerine yönelik çalışma yürüttü. 20 Ekim 2026'da saat 06.30'da Tekirdağ, İstanbul, Kütahya ve Eskişehir'de belirlenen adreslere eş zamanlı operasyon düzenlendi. 7258 sayılı Kanun'a muhalefet suçlamasıyla 14 şüpheli gözaltına alındı.
 
 Aramalarda 16 cep telefonu, 9 SIM kart, 1 hard disk, 2 dizüstü bilgisayar, 2 bilgisayar, 1 Micro SD kart ve 4 USB bellek ele geçirildi. Şüphelilerin hesaplarında toplam 2 milyar 146 milyon 143 bin 816 TL işlem hacmi bulunduğu belirlendi. Adliyeye sevk edilen 14 şüpheliden 11'i tutuklandı, 3'ü adli kontrolle serbest bırakıldı. Şüpheliler hakkındaki suçlamalar henüz yargı kararıyla kesinleşmedi.
-
----
-
-## Resmî Gazete: 5 şehit ve gazinin mirasçılarına İstiklal Madalyası verilecek
-
-**Türkiye · Türkiye** · 2026-10-24 01:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.son.tv/cumhurbaskani-erdogan-imzaladi-istiklal-madalyasi-karari-resmi-gazetede-5-kahramanin-mirascilarina-madalya-verilecek/)
-
-![](data/images/e85a1c77765f8abc.jpg)
-
-> Listede Eskişehir doğumlu Er Ferhat Taymaz'ın torunu Baykal Taymaz da var.
-
-24 Ekim 2026 tarihli ve 33410 sayılı Resmî Gazete'de yayımlanan 11925 sayılı Cumhurbaşkanı Kararı ile Kurtuluş Savaşı'ndaki hizmetleri tespit edilen beş şehit ve gazinin mirasçılarına İstiklal Madalyası verilmesine karar verildi. Karar, 66 sayılı İstiklal Madalyası Kanunu'nun ek 4. ve ek 6. maddelerine dayanıyor.
-
-Listede yer alanlardan biri, Eskişehir doğumlu Baykal Taymaz. Taymaz, 1898 doğumlu Er Ferhat Taymaz'ın torunu; Ferhat Taymaz 28 Mart 1921'de İkinci İnönü Muharebesi'nde yaralandı. Diğer mirasçılar arasında Dumlupınar Muharebesi'nde şehit düşen Onbaşı Mustafa Kırcılar, Sakarya Muharebesi'nde şehit düşen Er Halis Köse, Türkmen Dağı Taarruzu'nda şehit düşen Er Yasin Şekerlisoy ve 1922'deki İstiklal Muharebesi nedeniyle malul olarak kayıtlı Er Halil Taş'ın yakınları bulunuyor.
-
-Millî Savunma Bakanlığı'na göre başvurular askerlik şubeleri aracılığıyla alınıyor; madalya işlemlerini Askeralma Genel Müdürlüğü yürütüyor.
-
----
-
-## Kültür ve Turizm Bakanlığı Eskişehir için 3 asıl, 2 yedek sözleşmeli kütüphaneci alacak
-
-**Gündem · Merkez** · 2026-10-24 00:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.milliirade.com/eskisehire-kutuphaneci-kadrosu-acildi-basvuru-tarihleri-netlesti)
-
-![](data/images/67f089fa1e69faad.jpg)
-
-> Türkiye genelinde 162 kişilik alımın başvuruları 2-16 Kasım'da yapılacak.
-
-Kültür ve Turizm Bakanlığı, taşra teşkilatında görevlendirmek üzere Türkiye genelinde 162 sözleşmeli kütüphaneci alacak. 23 Ekim 2026 tarihli Resmî Gazete'de yayımlanan ilana göre Eskişehir için 3 asıl ve 2 yedek aday kontenjanı ayrıldı.
-
-Alımlar KPSS P3 puan sıralamasına göre sözlü sınavla yapılacak; her il için kontenjanın üç katı kadar aday mülakata çağrılacak. Başvurular 2-16 Kasım 2026 tarihleri arasında e-Devlet üzerinden "Kariyer Kapısı-Kamu İşe Alım" hizmetiyle yapılacak. Adayların Bilgi ve Belge Yönetimi, Kütüphanecilik, Arşivcilik veya Dokümantasyon ve Enformasyon bölümlerinden mezun olması ve 2026 KPSS B Grubu P3 puan türünden en az 70 puan alması gerekiyor. Adaylar yalnızca tek bir ile başvurabilecek.
 
 ---
