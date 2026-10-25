@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 26.10.2026 00:55 TSİ (müdür, ilk denetim)
+**Devralma:** "Nabız 26 müdür" oturumu ve 6 saatte bir tur kuruldu; eski yönetici rutini (06:30/18:30 UTC) sürüyor, işi tekrarlamıyorum, bulgularını devam ettiriyorum.
+**Denetim:** son 10 haberde kaynakta olmayan bilgi, asayişte tam isim (yalnız baş harf: "E. M. A."), fotoğraf kuralı ihlali, tekrar bulunmadı. **Düzeltildi:** elektrik kesintisi haberinin başlığı "7 ilçede" → "6 ilçede" (metin ve spot 6 ilçeyi sayıyor; slug URL kararlılığı için değişmedi).
+**Akış:** son haber 13:31 TSİ; 11 saattir yeni haber yok. Masa her saat çalışıyor, asıl neden fotoğraf kuralı (Commons'ta birebir eşleşme yok → haber kaydedilmiyor): Kızılinler festivali, Cumhuriyet Bayramı takvimi, Kırım Caddesi kapanışı, Seyitgazi kazası vb. düştü. Sağlık yedek masası 14:35 ve 17:53'te çalıştı, sonuç yok; 21:15'te GitHub #1 "Sağlık uyarısı" açıldı. Kuralı gevşetmedim (sahibinin sabit kararı).
+**Instagram:** data/instagram.json'da yalnız paylaşım zaman damgaları var, erişim/etkileşim verisi yok; "neyin işe yaradığını" ölçmek için Instagram Insights okuması gerekiyor. Bu turda kod değiştirmedim.
+**Sıradaki 3 fikir:** (1) instagram.py'ye Insights (reach/saves) kaydı ekleyip paylaşım türlerini kıyaslamak; (2) yerel olaylar için resmî fotoğrafı olan kaynak (bel.tr/gov.tr) artırmak; (3) nöbetçi eczane sayfası.
+SAHİBİNE: Haber akışı fotoğraf kuralı yüzünden fiilen duruyor. Seçenek: yerel haberde Commons eşleşmesi yoksa ilçe/yer genel arşiv fotoğrafı ya da fotoğrafsız yayın izni. Kararınız olmadan kuralı değiştirmeyeceğim. Ayrıca Instagram Insights izni (token kapsamı) verilirse büyümeyi ölçebilirim.
+
 ## 25.10.2026 21:45 TSİ
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (143 haber). **Haber akışı durdu:** son haber 13:33 TSİ (altın + Enerji Bak. haberi); sonraki 5 "Haber turu" commit'i yalnız seen.json değiştirdi, 8 saattir yeni haber yok. Son 24 saatte yalnız 11 haber (Ekonomi 3, Türkiye/Belediye 2'şer, Kültür-Sanat/Spor/Tarım/Gündem 1'er); önem 2→7, 3→4, `reel` 0. İlçe: Türkiye 5, Merkez 4, Tepebaşı 2. Tekrar başlık 0, fotoğrafsız 0 (toplam 73 haberin kapağı gizli). Instagram: son 24 saatte 14 paylaşım (cap 16), 6 Reels.
 **Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv. açılmadı; Günyüzü bağlantı yok; 360 aday ama Google Haberler hedeflerinin çoğu 403/429 verdi ("yetersiz metin") ve Commons birebir fotoğraf kuralı elediği için yayın çıkmıyor olabilir. Boş GitHub `saglik` kaydı yok (8 saat eşiği henüz dolmadı).
