@@ -389,7 +389,9 @@ def main():
     feed = []
     for a in articles[:30]:
         tags = ["#Eskişehir", "#nabız26", "#EskişehirHaber"]
-        if a["district"] not in ("Merkez",):
+        if a["district"] == "Türkiye":  # ulusal haber: yerel etiketler yanlış kitleyi çeker
+            tags = ["#nabız26", "#SonDakika", "#Haber"]
+        elif a["district"] not in ("Merkez",):
             tags.append("#" + a["district"].replace(" ", ""))
         tags.append("#" + a["category"].replace("-", "").replace(" ", ""))
         for t in CATEGORY_TAGS.get(a["category"], []):

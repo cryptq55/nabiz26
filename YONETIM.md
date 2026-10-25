@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 25.10.2026 09:45 TSİ
+**Denetim:** /, /hava-durumu, /namaz-vakitleri, /sitemap.xml, /news-sitemap.xml, /rss.xml ve son 3 haber 200. Derleme geçti (138 haber). Son haber 08:32 TSİ. Son 24 saatte 24 haber (Spor 7, Gündem 4, Eğitim 3, Belediye/Ekonomi/Türkiye 2'şer, Siyaset/Ulaşım/Kültür-Sanat/Tarım 1'er). İlçe: Merkez 15, Türkiye 5, Tepebaşı 3, Odunpazarı 1. Tekrar başlık 0, fotoğrafsız 0. Önem: 3→14, 2→9, 1→1; 4+ ve `reel: true` hâlâ 0 (dünkü önem kalibrasyonu sonrası da değişmedi). Instagram: log 15 (cap 16'ya yakın), reel_log 6; Reels yedek puanıyla (fotoğraflı yerel önem 3+) çıkmaya devam ediyor, yani editör işareti olmasa da hat çalışıyor.
+**Kaynaklar (bulut IP'si):** Valilik, Büyükşehir, Anadolu Ünv. açılmadı (yurt dışı engeli, bilinen); Günyüzü bağlantı yok; gazetecin.com 403. 302 yeni aday.
+**İyileştirme:** `build.py` Instagram açıklamalarında ulusal (district=Türkiye) haberler artık #Eskişehir etiketleri yerine #SonDakika #Haber alır; yerel etiketler yanlış kitleyi çekiyordu.
+**Sıradaki 3 fikir:** (1) editör hâlâ 4+ vermiyorsa önemi koddan türetmek (Spor "maç sonucu", ulaşım/kesinti anahtar sözcükleri); (2) nöbetçi eczane sayfası; (3) boş ilçeler için kaynak/arama.
+SAHİBİNE: yok.
+
 ## 24.10.2026 21:45 TSİ
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (131 haber). Son haber 20:32 TSİ. Son 24 saatte 29 haber (önceki turda 87; akış belirgin yavaşladı): Spor 7, Gündem 6, Eğitim 5, Ulaşım 3, Ekonomi/Belediye/Türkiye 2'şer, Asayiş/Siyaset 1'er. İlçe: Merkez 18, Türkiye 5, Tepebaşı 4, Odunpazarı 2. Tekrar başlık 0, fotoğrafsız 0. Önem: 3→16, 2→11, 1→2 (yine 4+ yok); `reel: true` 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 7, toplam 12 Reels kaydı.
 **Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv., Gençlik ve Spor İl Müdürlüğü açılmadı (yurt dışı engeli); Günyüzü bağlantı yok; MSB bir haber bağlantısı 404. 367 yeni aday.
