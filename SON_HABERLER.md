@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Başkan Ataç Yeni Mahalle'de tamamlanan asfalt ve kaldırım çalışmalarını inceledi
+
+**Belediye · Tepebaşı** · 2026-10-25 09:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenimahalle’dehizmetevatandaslardantamnot)
+
+![](data/images/dfe954afbab66fde.jpg)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, mahalle sakinleriyle sohbet etti ve çalışmayı yürüten ekibe baklava ikram etti.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Yeni Mahalle'de Fen İşleri Müdürlüğü ekiplerince yürütülen asfalt ve kaldırım yenileme çalışmalarını yerinde inceledi. Fen İşleri Müdür Vekili Enes Akgün'den çalışmalar hakkında bilgi alan Ataç'a Mahalle Muhtarı Halil Çeltik eşlik etti.
+
+Ataç, mahalle sakinleriyle tek tek sohbet ederek görüş ve taleplerini dinledi. Mahalleliler, tamamlanan asfalt ve kaldırım çalışmalarından memnuniyetlerini dile getirerek Ataç'a ve belediye ekiplerine teşekkür etti. Muhtar Çeltik de mahalleye sunulan hizmetlerden memnun olduğunu belirtti.
+
+Ziyaretin sonunda çalışan asfalt ekibine baklava ikram eden Ataç, "Mahallelerimizin ihtiyaçlarını yerinde görmek, hemşerilerimizin görüşlerini dinlemek bizim için çok önemli. Yeni Mahalle'de asfalt ve kaldırım yenileme çalışmalarımızı tamamladık" dedi. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## Bakan Kacır: Togg günde 375 otomobil üretiyor, T6X önümüzdeki yıl satışta
 
 **Türkiye · Türkiye** · 2026-10-25 08:31 UTC · Kaynak: [Google Haberler - Togg](https://www.autobond.tr/haberler/togg-t6x-kacir-gunluk-375-uretim/)
@@ -441,21 +457,5 @@ Alımlar KPSS P3 puan sıralamasına göre sözlü sınavla yapılacak; her il i
 Eskişehir Büyükşehir Belediyesi, Eskişehirspor'un Bursa Yıldırım ile oynayacağı maç öncesinde taraftarların stadyuma ulaşımını kolaylaştırmak için ring seferleri düzenleyecek. Seferler 24 Ekim Cumartesi günü saat 17.00'de Odunpazarı Alaaddin Parkı'ndan başlayacak.
 
 Belediyenin sosyal medya hesaplarından yapılan duyuruda "Hasret bitiyor, büyük taraftar Eskişehirspor'a kavuşuyor!" ifadelerine yer verildi.
-
----
-
-## Kurşunlu Külliyesi'nde tahliye kasım başında uygulanacak: Vakıflar Bölge Müdürü açıkladı
-
-**Belediye · Odunpazarı** · 2026-10-23 22:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/eskisehir-kursunlu-kulliyesi-nde-tahliye-karari--tarih-verildi-296896.html)
-
-![](data/images/d9dae315501f8c1e.jpg)
-
-> Odunpazarı Belediyesi'nin yürütmeyi durdurma başvurusu kabul edilmedi; külliyenin geleceği netleşmedi.
-
-Kütahya Vakıflar Bölge Müdürü Muhammet Enes Çınar, Odunpazarı Belediyesi ile Kurşunlu Külliyesi'nin kira bedeli ve artış oranı nedeniyle yaşanan anlaşmazlığın yargıya taşındığını, mahkeme sürecinin ardından tahliye kararı verildiğini söyledi. Çınar, belediyenin tahliye kararına karşı yaptığı yürütmeyi durdurma başvurusunun kabul edilmediğini belirtti.
-
-Çınar, tahliyenin kasım ayının başında Odunpazarı Kaymakamlığı ve emniyet güçlerince yürütüleceğini ifade etti. Külliyenin nasıl değerlendirileceğine ilişkin bir rapor hazırlayıp Vakıflar Genel Müdürlüğü'ne sunduklarını, henüz kesinleşmiş bir karar bulunmadığını ve külliyedeki müzeler ile alt kiracıların durumunun netleşmediğini söyledi.
-
-Haberde, Başkan Kazım Kurt'un daha önce belediyeye tahliye tebligatı gönderildiğini ve işlemin 3 Kasım'a kadar gerçekleştirilmesinin istendiğini açıkladığı aktarıldı. Yaklaşık 10 yıl önce benzer bir süreçte Kurt'un oturma eylemi yaptığı ve iki kurum arasında uzlaşma sağlandığı da hatırlatıldı.
 
 ---
