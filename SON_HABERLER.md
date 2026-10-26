@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## TEDx Vişnelik Women 'Rooted & Rising' temasıyla Eskişehir'de yapıldı
+
+**Kültür-Sanat · Odunpazarı** · 2026-10-26 05:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/tedx-visnelik-women-da-rooted-rising-bulusmasi-eskisehir-de-kadinlarin-ilham)
+
+![](data/images/2e641a575e501658.jpg)
+
+> Odunpazarı Belediyesi'nin katkısıyla düzenlenen etkinlikte beş kadın konuşmacı deneyimlerini paylaştı.
+
+Odunpazarı Belediyesi'nin katkılarıyla Hasan Polatkan Kültür Merkezi'nde düzenlenen TEDx Vişnelik Women, "Rooted & Rising" (Köklerinden Güç Alarak Yükselmek) temasıyla kadınların deneyimlerini, dönüşüm yolculuklarını ve geleceğe yön veren fikirlerini aynı sahnede buluşturdu. Etkinliğe Odunpazarı Belediye Başkanı Kazım Kurt da katıldı.
+
+Etkinlikte Doç. Dr. Aysel Kaya, Nihal Elersu Bağcı, İrem Karakaya Kavalcı, Bedriye Berber Engin ve Feyza Çelik Orbay konuşmacı olarak yer aldı. Farklı disiplinlerden gelen konuşmacılar kendi hikâyelerini ve bakış açılarını katılımcılarla paylaştı.
+
+Etkinliğin sonunda kürsüye çıkan Başkan Kurt, kadınların toplumsal yaşamın her alanında güçlenmesinin ve kendi hikâyelerini özgürce anlatabilmesinin önemine dikkat çekti. (Kaynak: Odunpazarı Belediyesi)
+
+---
+
+## Manidar grubu Yunus Emre Kültür ve Sanat Merkezi'nde konser verdi
+
+**Kültür-Sanat · Odunpazarı** · 2026-10-26 05:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/manidar-grubu-ndan-odunpazari-nda-unutulmaz-konser)
+
+![](data/images/207bde86e4916b57.jpg)
+
+> Salonu dolduran müzikseverler grubun seslendirdiği ezgilere eşlik etti; konseri Başkan Yardımcısı Sibel Yeşildal de izledi.
+
+Odunpazarı Belediyesi Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçıların kurduğu Manidar grubu, Yunus Emre Kültür ve Sanat Merkezi'nde konser verdi. Konsere müzikseverler yoğun ilgi gösterdi, salonu dolduran dinleyiciler seslendirilen ezgilere eşlik etti.
+
+Konseri Odunpazarı Belediyesi Başkan Yardımcısı Sibel Yeşildal da izledi. Konserin sonunda sahneye çıkan Yeşildal, sanatçılara ve geceye katılan müzikseverlere teşekkür etti. Yeşildal, Manidar grubunun belediyenin Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçılar tarafından kurulmasının önemine dikkat çekti ve kültür-sanat etkinliklerinin artarak süreceğini söyledi. (Kaynak: Odunpazarı Belediyesi)
+
+---
+
 ## Türkiye'nin elektrik kurulu gücü Eylül sonunda 127 bin 355 megavata ulaştı
 
 **Ekonomi · Türkiye** · 2026-10-25 10:31 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31953)
@@ -439,33 +469,5 @@ Eskişehir Teknik Üniversitesi'nin (ESTÜ) UNITWIN/UNESCO Kürsüleri Programı
 Kürsünün, Yer ve Uzay Bilimleri Enstitüsü öğretim üyeleri Prof. Dr. Saye Nihan Çabuk ve Doç. Dr. Gordana Kaplan'ın eş başkanlığında, Uluslararası İlişkiler Birimi Sorumlusu Öğr. Gör. Gülsüm Karaman'ın katkılarıyla faaliyet göstermesi planlanıyor. Kürsü, ESTÜ koordinatörlüğünde 13 ülkeden 32 ortağın katılımıyla yürütülen ve afet riskinin azaltılması, dirençli kentler ve sürdürülebilir yeniden yapılanma alanlarında iş birliği ağı oluşturan EPD-Net projesiyle bağlantılı olarak geliştirildi.
 
 Kürsünün iklim değişikliğine uyum ve afet dirençliliği alanlarında ortak araştırma, eğitim ve kapasite geliştirme faaliyetlerini güçlendirmesi hedefleniyor.
-
----
-
-## Büyükşehir ve Emeklilerin Sesi Derneği kıdemli vatandaşlara iletişim etkinliği düzenledi
-
-**Belediye · Merkez** · 2026-10-24 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-buyuksehir-belediyesi-ve-emeklilerin-sesi-derneginden-ortak-etkinlik)
-
-![](data/images/ddf9459315ed55c3.jpg)
-
-> Etkinlikte aile içi ilişkiler ve sosyal bağlar konuşuldu.
-
-Eskişehir Büyükşehir Belediyesi Yaşlı Hizmetleri Birimi ile Emeklilerin Sesi Derneği Eskişehir İl Temsilciliği iş birliğinde, kıdemli vatandaşlara yönelik sağlıklı iletişim etkinliği düzenlendi. Etkinlikte aile içi ilişkiler, sosyal bağların güçlendirilmesi ve günlük yaşamda karşılaşılan iletişim sorunları konuşuldu.
-
-Yaşlı Hizmetleri Birimi Sorumlusu Merve Kas, kıdemli vatandaşların sosyal hayata aktif katılımını desteklemeyi ve sağlıklı iletişim kurmalarına katkı sağlamayı amaçladıklarını söyledi. Emeklilerin Sesi Derneği Eskişehir İl Temsilcisi Aydan Çetintürk Güner ise iletişimde sevgi, ilgi ve bilgiye dayanan "üç adım yöntemini" anlattı.
-
----
-
-## Yasa dışı bahis operasyonu Eskişehir'e de uzandı: 14 gözaltından 11 tutuklama
-
-**Asayiş · Merkez** · 2026-10-24 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/aralarinda-eskisehirde-var4-ilde-yasa-disi-bahis-operasyonunda-11-tutuklama)
-
-![](data/images/bc847cf928b70563.jpg)
-
-> Çerkezköy'deki soruşturmada 14 şüpheli gözaltına alındı, 3'ü adli kontrolle serbest bırakıldı.
-
-Tekirdağ İl Jandarma Komutanlığı ekipleri, Çerkezköy Cumhuriyet Başsavcılığı koordinesinde yasa dışı bahis faaliyetlerine yönelik çalışma yürüttü. 20 Ekim 2026'da saat 06.30'da Tekirdağ, İstanbul, Kütahya ve Eskişehir'de belirlenen adreslere eş zamanlı operasyon düzenlendi. 7258 sayılı Kanun'a muhalefet suçlamasıyla 14 şüpheli gözaltına alındı.
-
-Aramalarda 16 cep telefonu, 9 SIM kart, 1 hard disk, 2 dizüstü bilgisayar, 2 bilgisayar, 1 Micro SD kart ve 4 USB bellek ele geçirildi. Şüphelilerin hesaplarında toplam 2 milyar 146 milyon 143 bin 816 TL işlem hacmi bulunduğu belirlendi. Adliyeye sevk edilen 14 şüpheliden 11'i tutuklandı, 3'ü adli kontrolle serbest bırakıldı. Şüpheliler hakkındaki suçlamalar henüz yargı kararıyla kesinleşmedi.
 
 ---
