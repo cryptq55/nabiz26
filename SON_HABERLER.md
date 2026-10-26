@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Ankara Pursaklar'da Mehmet Akif Ersoy Çocuk Evleri Sitesi açıldı: 80 çocuk kapasitesi
+
+**Türkiye · Türkiye** · 2026-10-26 12:42 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-mahinur-ozdemir-goktas-mehmet-akif-ersoy-cocuk-evleri-sitesinin-acilis-toreninde-konustu/)
+
+![](data/images/09d91872813fad25.jpg)
+
+> Bakan Göktaş, tesisin açılışında koruma ve bakım altındaki çocuk sayılarını açıkladı.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara Pursaklar'daki Mehmet Akif Ersoy Çocuk Evleri Sitesi'nin açılış töreninde konuştu. Göktaş, tesisin hayata geçirilmesinde sağladığı iş birliği nedeniyle UNICEF'e teşekkür etti.
+
+Göktaş'ın verdiği bilgiye göre site 0-6 yaş grubundaki kız ve erkek çocuklara ile 7-12 yaş grubundaki kız çocuklarına hizmet verecek. 80 çocuk kapasitesiyle planlanan site, 8 villa tipi yaşam birimi, bir sosyal bina ve bir idari binadan oluşuyor. Kuruluş 14 Ekim'de kapılarını açtı ve 40 kız çocuğu yeni hayatlarına bu evlerde başladı.
+
+Bakan, koruma ve bakım altındaki 15 bin 174 çocuğun barınma, eğitim, sağlık ve psikososyal gelişiminin takip edildiğini söyledi. Göktaş'a göre 11 bin 72 çocuk 9 bin 327 koruyucu ailenin yanında büyüyor; sosyal ve ekonomik destek hizmetiyle 199 bin 889 çocuğun ailesinin yanında büyümesine katkı sağlanıyor. Ankara'da ise 6 bin 754 çocuğun ailesinin yanında büyümesi destekleniyor, 507 çocuğa koruyucu aile hizmeti, 1560 çocuğa kuruluşlarda bakım hizmeti sunuluyor. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
+
+---
+
+## Ailekart ile hak sahiplerine 56 milyar liradan fazla kaynak aktarıldı
+
+**Türkiye · Türkiye** · 2026-10-26 12:42 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/)
+
+![](data/images/821601ed9ece0229.jpg)
+
+> Aile Bakanlığı'na göre 3 milyon 580 bin Ailekart dağıtıldı; 15 düzenli sosyal yardım tek karttan ödeniyor.
+
+Aile ve Sosyal Hizmetler Bakanlığı'nın açıklamasına göre, Ailekart uygulaması aracılığıyla doğum yardımı ve düzenli sosyal yardım ödemeleri kapsamında hak sahiplerine toplam 56 milyar 12 milyon 551 bin 214 lira aktarıldı.
+
+Uygulama, Eylül 2025'te doğum yardımı ödemeleriyle başladı. 1 Temmuz 2026'dan itibaren engelli ve yaşlı aylıkları ile elektrik ve doğal gaz tüketim desteği gibi 15 farklı düzenli sosyal yardım ödemesi de Halkbank aracılığıyla Ailekart üzerinden yapılıyor. Bakanlık, uygulamanın yapay zekâ destekli merkezi ödeme sistemiyle entegre çalıştığını bildirdi.
+
+Bugüne kadar 3 milyon 580 bin Ailekart dağıtıldı. Eylül 2025'ten bu yana doğum yardımı kapsamında 24 milyar 173 milyon 107 bin 900 lira, Temmuz 2026'dan itibaren düzenli sosyal yardımlar kapsamında ise 31 milyar 839 milyon 443 bin 314 lira ödeme yapıldı.
+
+Ailekart sahipleri ödemelerini kamu bankalarının ortak kullanıma açık ATM'lerinden alabiliyor. Bakanlığa göre önümüzdeki günlerde anlaşmalı iş yerlerinde sunulacak indirimlerden de yararlanabilecekler. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
+
+---
+
 ## Altın fiyatları 26 Ekim 2026: Gram altın 6.476,45 TL
 
 **Ekonomi · Merkez** · 2026-10-26 11:53 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -441,39 +475,5 @@ Erdoğan, savaşlar, insani felaketler, iklim değişikliği, açlık ve yoksull
 Millî Eğitim Bakanı Yusuf Tekin, Ebeveyn Okulu Programı'na katılım oranının yüzde 91'e ulaştığını açıkladı. Programa katılım, bu yıl okul öncesine, ilkokul 1. sınıfa ve ortaokul 5. sınıfa yeni başlayan öğrencilerin velileri için zorunlu hâle getirildi.
 
 Yaklaşık iki veya üç güne yayılan, toplam 20 saatlik programda velilere aile içi iletişim ve sağlıklı aile ilişkileri, çocukların akademik gelişiminin desteklenmesi, öğretmen ve okul yönetimiyle doğru iletişim, ebeveynlerin sorumlulukları ile okul-aile iş birliği ve güvenlik konularında eğitim veriliyor. Uygulamayla özellikle okula uyum sürecinde ailelerin daha etkin rol üstlenmesi hedefleniyor.
-
----
-
-## Eskişehirspor–Bursa Yıldırımspor maçı bugün saat 19.00'da, Tivibu Spor 4'ten yayınlanacak
-
-**Spor · Merkez** · 2026-10-24 10:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haberlisin.com/eskisehirspor-bursa-yildirimspor-maci-hangi-kanalda-saat-kacta-24-ekim-canli-yayin)
-
-![](data/images/e65e83f5630ae23e.jpg)
-
-> Karşılaşma Nesine 3. Lig 2. Grup'un 8. haftasında oynanacak.
-
-Eskişehirspor, Nesine 3. Lig 2. Grup'un 8. haftasında Bursa Yıldırımspor'u konuk edecek. Karşılaşma 24 Ekim 2026 Cumartesi günü saat 19.00'da başlayacak.
-
-Maç Tivibu Spor 4 kanalından canlı yayınlanacak. Dijital ortamda izlemek isteyenler Tivibu GO üzerinden erişim seçeneklerini kontrol edebilecek.
-
----
-
-## Altın fiyatları 24 Ekim 2026: Gram altın 6.471,57 TL
-
-**Ekonomi · Merkez** · 2026-10-24 09:59 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261024.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.393,09 TL'den alınıyor, 6.471,57 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 12.59 itibarıyla verilerine göre gram altının satış fiyatı 6.471,57 TL, alış fiyatı 6.393,09 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın 42.043 TL, ata altın 42.798 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.045,08 TL, has altının gram fiyatı 6.452,21 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 12.59 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
