@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Valilik Cumhuriyet Bayramı programını açıkladı: 29 Ekim'de resmî geçit töreni
+
+**Gündem · Merkez** · 2026-10-26 18:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehir-valiligi-duyurdu-29-ekim-cumhuriyet-bayrami-programi-belli-oldu)
+
+![](data/images/d48f1939999d2530.jpg)
+
+> 26-29 Ekim arasında doğa yürüyüşleri, konserler, çelenk töreni, kortej ve resmî geçit var.
+
+Eskişehir Valiliği'nin paylaştığı programa göre Cumhuriyet Bayramı kutlamaları 26 Ekim'den itibaren kentte çeşitli etkinliklerle sürecek.
+
+26 Ekim: 09.00-17.00 arasında İl Halk Kütüphanesi giriş katında Atatürk Kitap Sergisi açık olacak. 09.00-15.00 arasında Frig Vadisi-Yazılıkaya'da doğa yürüyüşü yapılacak. 11.00'de Büyükşehir Belediyesi Sanat ve Kültür Merkezi'nde Türk Halk Müziği Korosu konseri, 17.00'de Şehit Anıl Gül Spor Salonu'nda güreş turnuvası düzenlenecek.
+
+27 Ekim: 08.45'te Küçükelmalı Tabiat Parkı'nda doğa yürüyüşü, 10.00-15.00 arasında Sümer Mahallesi'nde oryantiring yarışı olacak. 16.00'da ESOGÜ Kongre ve Kültür Merkezi'nde halk müziği konseri ve halk oyunları gösterisi, 19.00-21.00 arasında Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda konser yapılacak.
+
+28 Ekim: İlköğretim öğrencileri ETİ Arkeoloji Müzesi'ni 08.00-17.00 arasında ücretsiz gezebilecek. 10.00'da Hava Şehitliği'nde şehitlik ziyareti yapılacak. 11.00'de Tepebaşı Belediyesi başkanlık binası yanında "Atatürk ve Çocukları" adlı eserin açılışı yapılacak. 13.00'te Valilik Meydanı'nda çelenk sunma töreni, 17.00'de kortej, 19.30'da Hasan Polatkan Kültür Merkezi'nde Cumhuriyet Bayramı konseri olacak.
+
+29 Ekim: 10.00'da Valilik Makamı'nda tebriklerin kabulü töreni, 10.30'da Atatürk Bulvarı'nda kutlama ve resmî geçit töreni yapılacak. 10.00-17.00 arasında TÜRASAŞ Bölge Müdürlüğü'ndeki Devrim Müzesi ziyaret edilebilecek. (Kaynak: İstikbal Gazetesi, Eskişehir Valiliği programı)
+
+---
+
 ## Vali Yılmaz İstiklal Mahallesi Demirciler Sokağı esnafını ziyaret etti
 
 **Gündem · Merkez** · 2026-10-26 14:32 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesi-demirciler-sokak-uzerinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
@@ -465,19 +485,5 @@ Harita Müzesi'nde Osmanlı coğrafyasına ait yaklaşık 200 harita yer alacak;
 > Ekip 29 Ekim Cumhuriyet Bayramı'nda Eskişehir'de gösteri uçuşu yapacak.
 
 Türk Hava Kuvvetleri'nin gösteri takımı SOLOTÜRK, 29 Ekim Cumhuriyet Bayramı kapsamında Eskişehir'de yapacağı gösteri uçuşu öncesinde Sazova Parkı'nda çevre tanıma uçuşu gerçekleştirdi. Saat 12.20'de başlayan uçuşu izleyen Eskişehirliler yoğun ilgi gösterdi. Ekibin bayram günkü ana uçuşu için hazırlıkları sürüyor.
-
----
-
-## Bakan Güler, 1. Hava Bakım Fabrika'nın 100. yıl kutlaması için Eskişehir'de
-
-**Gündem · Merkez** · 2026-10-24 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/milli-savunma-bakani-yasar-guler-eskisehire-geldi)
-
-![](data/images/202610241132-bakan-guler-1-hava-bakim-fa-v2.jpg)
-
-> Güler, Hava Kuvvetleri Komutanı Dalkıran'la birlikte Hasan Polatkan Havalimanı'nda karşılandı.
-
-Milli Savunma Bakanı Yaşar Güler, Eskişehir'deki 1. Hava Bakım Fabrika Müdürlüğü'nün 100. yıl dönümü dolayısıyla düzenlenen kutlama programına katılmak için kente geldi. Güler'e üst düzey askeri heyet eşlik etti.
-
-Güler ve Hava Kuvvetleri Komutanı Hava Orgeneral Rafet Dalkıran, Eskişehir Teknik Üniversitesi Hasan Polatkan Havalimanı'nda düzenlenen törenle karşılandı. Karşılama töreninde Vali Erdinç Yılmaz ve kent protokolü hazır bulundu. Ardından Vali Yılmaz ile birlikte 1. Hava Bakım Fabrika Müdürlüğü'ne geçen heyet, tesiste incelemelerde bulundu; fabrikanın geçmişi, bakım, onarım ve modernizasyon çalışmaları ile geleceğe yönelik projeler değerlendirildi.
 
 ---
