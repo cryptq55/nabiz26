@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye ile Suudi Arabistan arasında eğitim iş birliği mutabakat zaptı imzalandı
+
+**Eğitim · Türkiye** · 2026-10-26 20:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-suudi-arabistan-egitim-bakani-el-benyan039la-gorustu/haber/42293/tr)
+
+![](data/images/2c8a51b23f827716.jpg)
+
+> Bakan Tekin ve Suudi Arabistan Eğitim Bakanı El-Benyan, öğretmen-öğrenci değişimi ve denklik konularını içeren mutabakat zaptını imzaladı.
+
+Millî Eğitim Bakanı Yusuf Tekin, Suudi Arabistan Eğitim Bakanı Yusuf Bin Abdullah El-Benyan ile görüştü. Görüşmenin ardından iki bakan eğitim alanında mutabakat zaptı imzaladı. Programda Millî Eğitim Bakan Yardımcısı Celile Eren Ökten de yer aldı.
+
+Mutabakat zaptıyla öğretmen, öğrenci ve uzmanların karşılıklı ziyaretleri, eğitim personelinin mesleki gelişimi, ortak araştırmalar, eğitim materyallerinin geliştirilmesi, özel eğitim, eğitim teknolojileri ve uzaktan eğitim alanlarında iş birliğinin güçlendirilmesi hedefleniyor. Türkçe ve Arapça öğretiminin desteklenmesi, eğitim yeterlilikleri ve sertifikalarının karşılıklı tanınması ve denklikleri konusunda iş birliği, okul açılış ve izin süreçlerinin kolaylaştırılması da öngörülüyor.
+
+Tekin, iki ülke ilişkilerinin daha iyi bir noktaya taşınması için en önemli görevin eğitim bakanlıklarına düştüğünü söyledi. Tekin ayrıca yapay zekânın eğitim süreçlerindeki olumlu ve olumsuz etkilerinin sağlıklı değerlendirilmesi gerektiğini belirtti. El-Benyan ise yapay zekânın eğitimdeki yerinin belirlenmesi gerektiğini, bu rolün Suudi Arabistan'ın dini ve ulusal değerleriyle örtüşmesi gerektiğini söyledi. (Kaynak: Millî Eğitim Bakanlığı)
+
+---
+
 ## Valilik Cumhuriyet Bayramı programını açıkladı: 29 Ekim'de resmî geçit töreni
 
 **Gündem · Merkez** · 2026-10-26 18:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehir-valiligi-duyurdu-29-ekim-cumhuriyet-bayrami-programi-belli-oldu)
@@ -473,17 +489,5 @@ Bakanlığın uygulaması Eskişehir'deki ESTRAM tramvaylarını ve belediye oto
 Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni'nde konuştu. Erdoğan'a göre Darphane-i Amire Külliyesi'nde yapılan restorasyonlarla 17 bin metrekarelik alana yayılan 7 yapı ve 46 salon 5 farklı müze olarak düzenlendi. Topkapı Sarayı envanterindeki toplam 10 bin 500 eser müzelerde ziyaretçilerle buluşacak.
 
 Harita Müzesi'nde Osmanlı coğrafyasına ait yaklaşık 200 harita yer alacak; aynı binada 800 binden fazla yazılı ve görsel kaynağın dijital ortamda toplandığı Milli Saraylar Araştırma Merkezi hizmet verecek. Hüsnühat Eserleri Müzesi'nde 2 binden fazla hüsnühat eseri ilk kez sergilenecek. Darphane ve Endüstri Araçları Müzesi'nde yaklaşık 500 endüstri aracı, Esliha-i Hümayun Müzesi'nde 7. yüzyıldan 20. yüzyıla uzanan 2 bin 500'den fazla askeri teçhizat bulunacak; bunların arasında Fatih Sultan Mehmet'in kılıcı ve zırhlı gömleği de yer alacak. Saray Porselenleri Müzesi'nde ise Çin, Japonya, İran, İngiltere, Vietnam, Fransa ve Rusya'da üretilen porselenler ile Yıldız Porselen Sarayı fabrikasının eserleri sergilenecek.
-
----
-
-## SOLOTÜRK Sazova Parkı'nda çevre tanıma uçuşu yaptı, Eskişehirliler yoğun ilgi gösterdi
-
-**Gündem · Tepebaşı** · 2026-10-24 11:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sondakika.com/cevre/haber-soloturk-un-sazova-parki-ndaki-prova-ucusu-eskiseh-20361958/)
-
-![](data/images/e0f818c2122448c3.jpg)
-
-> Ekip 29 Ekim Cumhuriyet Bayramı'nda Eskişehir'de gösteri uçuşu yapacak.
-
-Türk Hava Kuvvetleri'nin gösteri takımı SOLOTÜRK, 29 Ekim Cumhuriyet Bayramı kapsamında Eskişehir'de yapacağı gösteri uçuşu öncesinde Sazova Parkı'nda çevre tanıma uçuşu gerçekleştirdi. Saat 12.20'de başlayan uçuşu izleyen Eskişehirliler yoğun ilgi gösterdi. Ekibin bayram günkü ana uçuşu için hazırlıkları sürüyor.
 
 ---
