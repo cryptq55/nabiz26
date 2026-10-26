@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Göktaş il müdürlerinden bakım kuruluşlarında habersiz denetim istedi
+
+**Türkiye · Türkiye** · 2026-10-26 07:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goktastan-il-mudurlerine-sahada-aktif-yonetim-ve-habersiz-denetim-talimati/)
+
+![](data/images/7b22b8484c4831c8.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Göktaş, 81 il müdürüyle yıllık değerlendirme toplantısı yaptı.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara'da Bakanlığın 81 il müdürüyle yıllık değerlendirme toplantısında bir araya geldi. Göktaş, çocuk, yaşlı ve engelli bireylerin bakımını üstlenen kuruluşların büyük bir hassasiyetle takip edilmesini ve titizlikle denetlenmesini istedi.
+
+Aile ve Nüfus 10 Yılı'nı Bakanlığın tüm hizmet alanlarını ortak bir gelecek perspektifinde buluşturan stratejik bir süreç olarak gördüklerini belirten Göktaş, il müdürlerinden yerel öncelikleri bu doğrultuda belirlemelerini istedi.
+
+Göktaş, nisandan itibaren 81 ilde kadına yönelik şiddet ve çocukların suça sürüklenmesi sosyal risk haritalarındaki yüksek riskli hanelerin ziyaret edildiğini, hane ziyaretlerinin yüzde 69,94'ünün tamamlandığını söyledi. Yüksek riskli hanelerin üç ay sonra yeniden ziyaret edilmesinin önemine dikkat çekti.
+
+Bakan, il müdürlerinden sahada aktif, vatandaşla doğrudan temas kuran ve ulaşılabilir yöneticiler olmalarını istedi. Göktaş, sahada karşılaşılan sorunların valilik koordinasyonunda çözülmesini, çözülemeyenlerin gecikmeden Bakanlığa iletilmesini de belirtti. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
+
+---
+
+## Eskişehir çevre yolunda otogar karşısında kaza: Olay yerinde itfaiye ve ambulans var
+
+**Asayiş · Merkez** · 2026-10-26 07:10 UTC · Kaynak: [Nabız 26]()
+
+![](data/images/cevre-yolu-kaza-20261026.jpg)
+
+> Ankara yönünde otogar karşısında sabah saatlerinde meydana gelen kazada bir kamyonetin ön kısmı hasar gördü; olay yerinde 112 ekibi ve itfaiye aracı bulunuyor.
+
+Eskişehir çevre yolunda, otogar karşısında Ankara yönünde sabah saatlerinde trafik kazası meydana geldi. Olay yerinde çekilen görüntülerde, beyaz renkli bir kamyonetin ön kısmının ve sürücü kapısı çevresinin hasar gördüğü, yol üzerinde cam kırıkları ve araç parçaları bulunduğu görülüyor.
+
+Görüntülerde olay yerinde bir ambulans ve 112 Acil Çağrı yazılı bir itfaiye aracı bulunuyor. Kazanın nedeni, kazaya karışan araç sayısı ile yaralı olup olmadığı konusunda şu an resmî bir açıklama bulunmuyor. Bilgiler netleştikçe haber güncellenecek. (Kaynak: Nabız 26)
+
+---
+
 ## TEDx Vişnelik Women 'Rooted & Rising' temasıyla Eskişehir'de yapıldı
 
 **Kültür-Sanat · Odunpazarı** · 2026-10-26 05:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/tedx-visnelik-women-da-rooted-rising-bulusmasi-eskisehir-de-kadinlarin-ilham)
@@ -437,37 +469,5 @@ Eskişehir Büyükşehir Belediyesi Gençlik ve Spor Hizmetleri Dairesi Başkanl
 Kentpark Kapalı Yüzme Havuzu'nda yapılacak eğitimler için online kayıtlar 27 Ekim Salı günü saat 09.00'da başlayacak. Program kontenjanla sınırlı. Ayrıntılar Büyükşehir'in resmî internet sitesi ve @ebbsporeskisehir Instagram hesabından duyurulacak.
 
 2012'de hizmete açılan Kentpark Kapalı Yüzme Havuzu'nda yaz sonrası yıllık bakım ve tadilat çalışmaları tamamlandı; havuz serbest yüzmek isteyen vatandaşlara da açık.
-
----
-
-## Eskişehir Atatürk Lisesi 116 yıllık geçmişiyle eğitim vermeye devam ediyor
-
-**Eğitim · Odunpazarı** · 2026-10-24 08:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ensondakika.com.tr/asirlik-mektepler-eskisehir-in-116-yillik-egitim-cinari-gelecegin-ogrencilerini-yetistiriyor/726155/)
-
-![](data/images/b180e8a17c95acd2.jpg)
-
-> Okul 1910'da "Rüştiye Mektebi" adıyla açıldı; bugünkü binasına 1934-1935'te taşındı.
-
-Osmanlı Devleti tarafından 1910 yılında "Rüştiye Mektebi" adıyla açılan Eskişehir Atatürk Lisesi, 116 yıllık eğitim geçmişiyle "Asırlık Mektepler" dosya haberinin konusu oldu. Odunpazarı ilçesi Akcami Mahallesi'ndeki okul, Eskişehir'in 1920'de işgal edilmesi nedeniyle eğitime ara verdi; kentin 2 Eylül 1922'de kurtarılmasının ardından "Sultani Mektebi" adıyla yeniden faaliyete geçti.
-
-Okul 1930-1931'de "Eskişehir Lisesi" adını aldı ve ilk mezunlarını 1932-1933'te verdi. Atatürk, 1932'de okulu ziyaret ettikten sonra daha uygun bir binaya taşınması için talimat verdi. Dönemin Hükümet Konağı olarak inşa edilen bugünkü bina okula tahsis edildi; okul 1934-1935 eğitim öğretim yılının başında bu binaya taşındı ve 1961'de "Atatürk Lisesi" adını aldı. Yapı 1988'de anıtsal yapı olarak tescillendi.
-
-Okul bugün 28 derslikte 523 öğrenciyle eğitim veriyor. Yaklaşık 13 bin 500 kitaplı kütüphanesi bulunuyor; "Bayrak Şairi" Arif Nihat Asya 1954-1955 yıllarında okulda edebiyat öğretmenliği yaptı.
-
----
-
-## ESTÜ'nün UNESCO Kürsüsü başvurusu olumlu değerlendirildi, nihai onay aşamasına geçti
-
-**Eğitim · Tepebaşı** · 2026-10-24 08:31 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/cop31-yolunda-eskisehir-teknik-universitesinden-onemli-bir-basari)
-
-![](data/images/e0a40733be6b5a67.jpg)
-
-> Kürsü, 13 ülkeden 32 ortaklı EPD-Net projesiyle bağlantılı olarak geliştirildi.
-
-Eskişehir Teknik Üniversitesi'nin (ESTÜ) UNITWIN/UNESCO Kürsüleri Programı kapsamındaki UNESCO Kürsüsü başvurusu, UNESCO uzmanlarınca olumlu değerlendirildi ve nihai onay aşamasına geçti.
-
-Kürsünün, Yer ve Uzay Bilimleri Enstitüsü öğretim üyeleri Prof. Dr. Saye Nihan Çabuk ve Doç. Dr. Gordana Kaplan'ın eş başkanlığında, Uluslararası İlişkiler Birimi Sorumlusu Öğr. Gör. Gülsüm Karaman'ın katkılarıyla faaliyet göstermesi planlanıyor. Kürsü, ESTÜ koordinatörlüğünde 13 ülkeden 32 ortağın katılımıyla yürütülen ve afet riskinin azaltılması, dirençli kentler ve sürdürülebilir yeniden yapılanma alanlarında iş birliği ağı oluşturan EPD-Net projesiyle bağlantılı olarak geliştirildi.
-
-Kürsünün iklim değişikliğine uyum ve afet dirençliliği alanlarında ortak araştırma, eğitim ve kapasite geliştirme faaliyetlerini güçlendirmesi hedefleniyor.
 
 ---
