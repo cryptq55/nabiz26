@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 26 Ekim 2026: Gram altın 6.476,45 TL
+
+**Ekonomi · Merkez** · 2026-10-26 11:53 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261026.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.408,61 TL'den alınıyor, 6.476,45 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.53 itibarıyla verilerine göre gram altının satış fiyatı 6.476,45 TL, alış fiyatı 6.408,61 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,31 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.556 TL, yarım altın 21.105 TL, tam altın 42.075 TL, ata altın 42.895 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.049,66 TL, has altının gram fiyatı 6.457,08 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.019,00 dolardan işlem görürken, dolar/TL 49,81 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.53 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Kazım Kurt: Kurşunlu Külliyesi'ndeki tahliye için hukuki süreç sürüyor
 
 **Belediye · Odunpazarı** · 2026-10-26 10:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/kazim-kurt-tan-kursunlu-kulliyesi-icin-uyari--eserler-yok-olabilir--297015.html)
@@ -455,19 +475,5 @@ Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 12.59 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Vali Yılmaz'dan Eskişehirspor'a destek: "Haydi Efsane, bugün galibiyet günü!"
-
-**Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/vali-yilmazdan-eskisehirspora-destek-haydi-efsane)
-
-![](data/images/202610240931-vali-yilmazdan-eskisehirspo-v2.jpg)
-
-> Yılmaz, takımın 169 günlük hasretin ardından taraftarıyla buluştuğunu belirtti.
-
-Eskişehir Valisi Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Eskişehirspor'un yeniden taraftarıyla buluşmasının kentte oluşturduğu heyecana dikkat çekti ve takıma başarı diledi.
-
-Yılmaz, "169 günlük hasretin ardından taraftarıyla yeniden buluşan siyah-kırmızılı ekibimiz, Prof. Dr. Fethi Heper Stadyumu'nda galibiyet için sahaya çıkıyor. Tribünler yeniden ateşlenecek, Eskişehir yeniden tek yürek olacak" dedi. Futbolculara son düdüğe kadar mücadele etmeleri çağrısı yapan Yılmaz, "3 puan Eskişehir'e gelecek! Haydi EFSANE, bugün galibiyet günü!" ifadelerini kullandı.
 
 ---
