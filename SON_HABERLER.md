@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz İstiklal Mahallesi Demirciler Sokağı esnafını ziyaret etti
+
+**Gündem · Merkez** · 2026-10-26 14:32 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesi-demirciler-sokak-uzerinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
+
+![](data/images/efd1f4476fcfda2c.jpg)
+
+> Vali Erdinç Yılmaz esnafın sorunlarını ve önerilerini dinledi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, İstiklal Mahallesi Demirciler Sokağı üzerinde faaliyet gösteren esnafı ziyaret etti. Yılmaz, esnafa hayırlı ve bereketli kazançlar diledi.
+
+Esnaf ve vatandaşlarla bir süre sohbet eden Yılmaz, iş yerlerinin durumu ve karşılaşılan sorunlar hakkında bilgi aldı, talep ve önerileri dinledi. Yılmaz, esnafın şehrin ekonomisine ve sosyal hayatına önemli katkılar sunduğunu belirterek "Esnafımızın her zaman yanındayız. Hemşehrilerimizle birlikte Eskişehir'imiz için çalışmaya devam edeceğiz" dedi. (Kaynak: Eskişehir Valiliği)
+
+---
+
+## Ortak Yazılı Sınav Sistemi için 'Sıkça Sorulan Sorular' rehberi hazırlandı
+
+**Eğitim · Merkez** · 2026-10-26 14:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/ortak-yazili-sinav-sistemi039yle-ilgili-quotsikca-sorulan-sorularquot-rehberi-hazirlandi/icerik/8697/tr)
+
+![](data/images/d11c6d90bdc01d06.jpg)
+
+> İl Milli Eğitim Müdürlüğü, OYSS'nin hangi sınıf ve derslerde uygulanacağını açıkladı.
+
+Eskişehir İl Milli Eğitim Müdürlüğü, Ortak Yazılı Sınav Sistemi (OYSS) ile ilgili sıkça sorulan soruları yanıtladı. Hazırlanan rehberde sistemin amacı, öğrenci başarısı ve eğitim kalitesi bakımından önemi ve nasıl uygulanacağı anlatıldı.
+
+OYSS, okul geneli ortak yazılı sınavların hazırlanması, uygulanması ve değerlendirilmesi süreçlerini dijital ortamda yürütmek için geliştirilen bir sistem. Rehbere göre sınavların öğretim programlarındaki öğrenme çıktılarıyla uyumlu, geçerli ve güvenilir hazırlanması hedefleniyor. Sistemle Türkiye Yüzyılı Maarif Modeli ile uyumlu biçimlendirici değerlendirme uygulamalarının, açık uçlu ve beceri temelli soruların okul düzeyinde yaygınlaştırılması amaçlanıyor.
+
+2026-2027 eğitim öğretim yılında OYSS, ortaokul 5, 6 ve 7. sınıflarda Türkçe, matematik, fen bilimleri, sosyal bilgiler, din kültürü ve ahlak bilgisi ile İngilizce derslerinde; lise 9, 10 ve 11. sınıflarda Türk dili ve edebiyatı, matematik, fizik, kimya, biyoloji, tarih, coğrafya, din kültürü ve ahlak bilgisi, felsefe ve İngilizce derslerinde uygulanacak.
+
+Sistemin kullanımına yönelik bilgilendirme ve eğitim çalışmaları 19-23 Ekim 2026'da tamamlandı. Öğretmenler sistem üzerinde deneme uygulamaları yapabiliyor. (Kaynak: Eskişehir İl Milli Eğitim Müdürlüğü)
+
+---
+
 ## Ankara Pursaklar'da Mehmet Akif Ersoy Çocuk Evleri Sitesi açıldı: 80 çocuk kapasitesi
 
 **Türkiye · Türkiye** · 2026-10-26 12:42 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-mahinur-ozdemir-goktas-mehmet-akif-ersoy-cocuk-evleri-sitesinin-acilis-toreninde-konustu/)
@@ -447,33 +479,5 @@ Türk Hava Kuvvetleri'nin gösteri takımı SOLOTÜRK, 29 Ekim Cumhuriyet Bayram
 Milli Savunma Bakanı Yaşar Güler, Eskişehir'deki 1. Hava Bakım Fabrika Müdürlüğü'nün 100. yıl dönümü dolayısıyla düzenlenen kutlama programına katılmak için kente geldi. Güler'e üst düzey askeri heyet eşlik etti.
 
 Güler ve Hava Kuvvetleri Komutanı Hava Orgeneral Rafet Dalkıran, Eskişehir Teknik Üniversitesi Hasan Polatkan Havalimanı'nda düzenlenen törenle karşılandı. Karşılama töreninde Vali Erdinç Yılmaz ve kent protokolü hazır bulundu. Ardından Vali Yılmaz ile birlikte 1. Hava Bakım Fabrika Müdürlüğü'ne geçen heyet, tesiste incelemelerde bulundu; fabrikanın geçmişi, bakım, onarım ve modernizasyon çalışmaları ile geleceğe yönelik projeler değerlendirildi.
-
----
-
-## Erdoğan'dan BM Günü mesajı: BM Güvenlik Konseyi daha adil ve kapsayıcı hale gelmeli
-
-**Siyaset · Türkiye** · 2026-10-24 11:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-birlesmis-milletler-gunu-ve-bm-teskilatinin-kurulusunun-81-yil-donumu-mesaji-24-10-26)
-
-![](data/images/2d36aa4e60f850c6.jpg)
-
-> Erdoğan, BM'nin kuruluşunun 81. yıl dönümünü kutladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, 24 Ekim Birleşmiş Milletler Günü ve BM'nin kuruluşunun 81. yıl dönümü dolayısıyla mesaj yayımladı. Erdoğan, BM'nin kuruluşunun 81. yıl dönümünü tebrik etti; Genel Sekreter Antonio Guterres başta olmak üzere BM çalışanlarını kutladı.
-
-Erdoğan, savaşlar, insani felaketler, iklim değişikliği, açlık ve yoksulluk gibi küresel sınamaların BM'nin kuruluş misyonunun öneminin azalmadığını, arttığını gösterdiğini belirtti. Tüm ülkelerin BM Şartı'na daha güçlü sahip çıkmasını ve Teşkilat'ın temel organlarının etkinliğini artıracak reformları desteklemesini isteyen Erdoğan, BM Güvenlik Konseyi'nin daha adil, kapsayıcı ve uluslararası toplumun beklentilerini karşılayabilecek bir yapıya kavuşturulmasının önemli hâle geldiğini söyledi.
-
----
-
-## Bakan Tekin: Ebeveyn Okulu Programı'na katılım zorunlu, katılım oranı yüzde 91'e ulaştı
-
-**Eğitim · Türkiye** · 2026-10-24 10:33 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://filashaber.com/haber/velilere-20-saatlik-egitim-zorunlulugu-bakan-tekin-acikladi-52116)
-
-![](data/images/202610241033-bakan-tekin-ebeveyn-okulu-p-v2.jpg)
-
-> Okul öncesi, ilkokul 1. ve ortaokul 5. sınıfa başlayan öğrencilerin velileri 20 saatlik eğitim alıyor.
-
-Millî Eğitim Bakanı Yusuf Tekin, Ebeveyn Okulu Programı'na katılım oranının yüzde 91'e ulaştığını açıkladı. Programa katılım, bu yıl okul öncesine, ilkokul 1. sınıfa ve ortaokul 5. sınıfa yeni başlayan öğrencilerin velileri için zorunlu hâle getirildi.
-
-Yaklaşık iki veya üç güne yayılan, toplam 20 saatlik programda velilere aile içi iletişim ve sağlıklı aile ilişkileri, çocukların akademik gelişiminin desteklenmesi, öğretmen ve okul yönetimiyle doğru iletişim, ebeveynlerin sorumlulukları ile okul-aile iş birliği ve güvenlik konularında eğitim veriliyor. Uygulamayla özellikle okula uyum sürecinde ailelerin daha etkin rol üstlenmesi hedefleniyor.
 
 ---
