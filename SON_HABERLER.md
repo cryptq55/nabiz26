@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kazım Kurt: Kurşunlu Külliyesi'ndeki tahliye için hukuki süreç sürüyor
+
+**Belediye · Odunpazarı** · 2026-10-26 10:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/kazim-kurt-tan-kursunlu-kulliyesi-icin-uyari--eserler-yok-olabilir--297015.html)
+
+![](data/images/64e954c529fd431d.jpg)
+
+> Odunpazarı Belediye Başkanı Kurt, ES TV'de dava ve kira sözleşmesi sürecini anlattı; Vakıflar tarafı bu haberde görüş bildirmedi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, ES TV'de yayınlanan Günaydın Eskişehir programında Kurşunlu Külliyesi'nin tahliye süreci ve Vakıflar Bölge Müdürlüğü ile yaşanan hukuki uyuşmazlık hakkında konuştu. Kurt, Eskişehir'de açtıkları davayı kaybettiklerini, dosyanın Bursa'da istinaf aşamasında olduğunu ve tahliyenin durdurulması için hukuki girişimlerin sürdüğünü söyledi.
+
+Kurt'un anlattığına göre, 20 Kasım 2025'te yürürlüğe giren 7565 sayılı Kanun'un geçici 15'inci maddesi kapsamında kira sözleşmelerinin uzatılması için başvuruda bulundular ancak yanıt alamadılar. Bunun üzerine kiracılık durumlarının tespiti ve ilgili yasal düzenlemeden yararlanma talebiyle yeni bir dava açtılar. Kurt, Vakıflar tarafından tahliye kararının yeniden tebliğ edildiğini ve bu işleme karşı da dava açtıklarını belirtti.
+
+Kurt, külliyede lületaşı müzesi, fotoğraf makineleri müzesi, fotoğraf atölyesi, ahşap eserler müzesi, ahşap atölyesi, cam fırını ve cam atölyesinin bulunduğunu hatırlattı. Külliyede Vakıfların verdiği yetkiyle kiralanan yaklaşık 20-25 küçük işletmede Eskişehirli kadın girişimcilerin el işi ürünlerinin satıldığını söyleyen Kurt, tahliyenin hem ekonomik faaliyetlere hem kültürel üretime zarar verebileceğini savundu. Özellikle ahşap eserler müzesindeki çalışmaların zarar görmesinden endişe duyduğunu ifade etti. (Kaynak: Anadolu Gazetesi)
+
+---
+
 ## Bakan Göktaş il müdürlerinden bakım kuruluşlarında habersiz denetim istedi
 
 **Türkiye · Türkiye** · 2026-10-26 07:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goktastan-il-mudurlerine-sahada-aktif-yonetim-ve-habersiz-denetim-talimati/)
@@ -453,21 +469,5 @@ Fiyatlar Harem Altın'ın saat 12.59 itibarıyla paylaştığı verilere dayanma
 Eskişehir Valisi Erdinç Yılmaz, sosyal medya hesabından yaptığı paylaşımda Eskişehirspor'un yeniden taraftarıyla buluşmasının kentte oluşturduğu heyecana dikkat çekti ve takıma başarı diledi.
 
 Yılmaz, "169 günlük hasretin ardından taraftarıyla yeniden buluşan siyah-kırmızılı ekibimiz, Prof. Dr. Fethi Heper Stadyumu'nda galibiyet için sahaya çıkıyor. Tribünler yeniden ateşlenecek, Eskişehir yeniden tek yürek olacak" dedi. Futbolculara son düdüğe kadar mücadele etmeleri çağrısı yapan Yılmaz, "3 puan Eskişehir'e gelecek! Haydi EFSANE, bugün galibiyet günü!" ifadelerini kullandı.
-
----
-
-## Büyükşehir'in yüzme bilmeyenler eğitimi için online kayıtlar 27 Ekim'de başlıyor
-
-**Spor · Merkez** · 2026-10-24 09:31 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.esyenigun.com/eskisehirde-yuzme-ogrenmek-isteyenlere-mujde-kayit-tarihi-belli-oldu)
-
-![](data/images/d382a49b6f79e0cf.jpg)
-
-> Eğitimler 3 Kasım-27 Aralık'ta Kentpark Kapalı Yüzme Havuzu'nda yapılacak.
-
-Eskişehir Büyükşehir Belediyesi Gençlik ve Spor Hizmetleri Dairesi Başkanlığı, 5-17 yaş arasındaki çocuklar ile yetişkinlere yönelik "Yüzme Bilmeyenler Eğitimi"nin yeni dönemini başlatıyor. Eğitimler 3 Kasım'da başlayıp 27 Aralık'ta sona erecek.
-
-Kentpark Kapalı Yüzme Havuzu'nda yapılacak eğitimler için online kayıtlar 27 Ekim Salı günü saat 09.00'da başlayacak. Program kontenjanla sınırlı. Ayrıntılar Büyükşehir'in resmî internet sitesi ve @ebbsporeskisehir Instagram hesabından duyurulacak.
-
-2012'de hizmete açılan Kentpark Kapalı Yüzme Havuzu'nda yaz sonrası yıllık bakım ve tadilat çalışmaları tamamlandı; havuz serbest yüzmek isteyen vatandaşlara da açık.
 
 ---
