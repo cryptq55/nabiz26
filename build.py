@@ -45,7 +45,15 @@ CATEGORY_TAGS = {
     "Belediye": ["#Belediye", "#YerelYönetim"], "Ulaşım": ["#Ulaşım", "#Trafik"], "Sağlık": ["#Sağlık"],
     "Hava Durumu": ["#HavaDurumu"], "Tarım": ["#Tarım", "#Çiftçi"],
 }
-INDEXNOW_KEY = hashlib.sha1(b"nabiz26-indexnow").hexdigest()
+# Başlık/etiketlerde geçen sözcüğe göre ek etiketler
+KEYWORD_TAGS = [
+    ("togg", ["#Togg", "#YerliOtomobil"]), ("elektrik kesinti", ["#ElektrikKesintisi"]),
+    ("su kesinti", ["#SuKesintisi"]), ("eskişehirspor", ["#Eskişehirspor"]),
+    ("cumhuriyet bayram", ["#CumhuriyetBayramı", "#29Ekim"]), ("anadolu üniversitesi", ["#AnadoluÜniversitesi"]),
+    ("deprem", ["#Deprem"]), ("hava durumu", ["#HavaDurumu"]), ("tramvay", ["#EskişehirTramvay"]),
+    ("dolar", ["#Dolar", "#Döviz"]), ("enflasyon", ["#Enflasyon"]),
+]
+INDEXNOW_KEY =hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır
 CATEGORY_COLORS = {
     "Gündem": "#e11d48", "Asayiş": "#475569", "Belediye": "#0891b2", "Ekonomi": "#059669",
@@ -399,6 +407,10 @@ def main():
                 tags.append(t)
         if "altın" in a["title"].lower():  # günlük altın haberi: aranan etiketler
             tags += [t for t in ("#Altın", "#AltınFiyatları") if t not in tags]
+        text = (a["title"] + " " + " ".join(a.get("tags") or [])).lower()
+        for kw, kt in KEYWORD_TAGS:  # konuya özgü, aranan etiketler
+            if kw in text:
+                tags += [t for t in kt if t not in tags]
         caption = (f"{a['title']}\n\n{a['spot']}\n\n"
                    f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),

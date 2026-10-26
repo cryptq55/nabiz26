@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 26.10.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (145 haber). Son haber 08:32 TSİ; son 24 saatte yalnız 7 haber (Ekonomi 2, Kültür-Sanat 2, Türkiye/Belediye/Gündem 1'er; ilçe Türkiye 3, Odunpazarı 2, Tepebaşı/Merkez 1'er), önem 2→6, 3→1, `reel` 0, fotoğrafsız 0, tekrar 0. Instagram: son 24 saatte 11 paylaşım (cap 16), 5 Reels.
+**Kaynaklar (bulut IP'si):** 219 aday; Valilik, Büyükşehir, Odunpazarı Bel., Anadolu Ünv., Tarım İl Müdürlüğü açılmadı (yurt dışı engeli); Günyüzü bağlantı yok; Google Haberler hedeflerinin çoğu 403/429 → "yetersiz metin". Akış hâlâ yavaş (dün 11, bugün 7).
+**Düzeltilen:** yok (hata bulunmadı).
+**İyileştirme:** `build.py` Instagram açıklamalarına konu anahtar sözcüğüne göre etiket (Togg, elektrik/su kesintisi, Cumhuriyet Bayramı, Eskişehirspor, dolar vb.; `KEYWORD_TAGS`).
+**Sıradaki 3 fikir:** (1) Cumhuriyet Bayramı (29 Ekim) için özel story/Reels; (2) haftalık "Eskişehir'de bu hafta" bülteni; (3) nöbetçi eczane sayfası.
+SAHİBİNE: Akış düşük hacimli kalıyor (günde ~7-11 haber); sebep Commons birebir fotoğraf kuralı ve bulut IP'sinden erişilemeyen resmî kaynaklar. Kural gevşetilmediği sürece büyüme sınırlı.
+
 ## 26.10.2026 00:55 TSİ (müdür, ilk denetim)
 **Devralma:** "Nabız 26 müdür" oturumu ve 6 saatte bir tur kuruldu; eski yönetici rutini (06:30/18:30 UTC) sürüyor, işi tekrarlamıyorum, bulgularını devam ettiriyorum.
 **Denetim:** son 10 haberde kaynakta olmayan bilgi, asayişte tam isim (yalnız baş harf: "E. M. A."), fotoğraf kuralı ihlali, tekrar bulunmadı. **Düzeltildi:** elektrik kesintisi haberinin başlığı "7 ilçede" → "6 ilçede" (metin ve spot 6 ilçeyi sayıyor; slug URL kararlılığı için değişmedi).
