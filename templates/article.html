@@ -22,6 +22,7 @@
     <figcaption>{% if a.image.archive %}Arşiv fotoğrafı: <a href="{{ a.image.source_url }}" rel="nofollow noopener" target="_blank">{{ a.image.credit }}</a>{% elif a.image.representative %}Temsilî fotoğraf (olayın kendisine ait değildir): <a href="{{ a.image.source_url }}" rel="nofollow noopener" target="_blank">{{ a.image.credit }}</a>{% elif a.image.ai %}Temsilî görsel: yapay zekâ ile üretilmiştir, olayın kendisine ait değildir.{% else %}Fotoğraf: {{ a.image.credit }}{% endif %}</figcaption>
   </figure>
   {% else %}{{ cover(a, "xl") }}{% endif %}
+  {% if a.video and a.video.site %}<figure class="story-video"><video controls playsinline preload="metadata" poster="{{ base }}{{ a.image.file }}" style="max-width:100%;max-height:70vh;display:block;margin:0 auto"><source src="{{ a.video.url }}" type="video/mp4"></video><figcaption>Video: {{ a.video.credit }}</figcaption></figure>{% endif %}
   <div class="prose">
     {% for p in a.paragraphs %}<p>{{ p }}</p>{% endfor %}
   </div>
