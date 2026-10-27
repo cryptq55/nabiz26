@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kazım Kurt: Kurşunlu Külliyesi ve eserlerin sorumluluğunu Vakıflar'a bırakıyoruz
+
+**Belediye · Odunpazarı** · 2026-10-27 02:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/kazim-kurttan-kursunlu-kulliyesi-tepkisi-buyurun-sizin-olsun)
+
+![](data/images/53002373d9902d39.jpg)
+
+> Odunpazarı Belediye Başkanı Kurt, sosyal medya paylaşımında külliyenin belediyenin elinden alınmak istendiğini öne sürdü.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'ne ilişkin sosyal medya hesabından açıklama yaptı. Kurt, külliyenin yıllardır kültür ve sanat faaliyetleriyle yaşatıldığını belirterek yapının belediyenin elinden alınmak istendiğini öne sürdü.
+
+Kurt paylaşımında, külliyenin müzeleri, atölyeleri ve uluslararası festivalleriyle Eskişehir'in önemli kültür ve sanat merkezlerinden biri haline getirildiğini, mevcut gelişmelerin bu birikimin geleceğini belirsizliğe sürüklediğini savundu. Kurt, "Biz üzerimize düşeni yaptık. Bu tarihi mirasa sahip çıktık, sanatla buluşturduk, Eskişehirlilerin hizmetine sunduk. Madem bütün bu emeğin, sanatın ve kültürel birikimin bir karşılığı yok, buyurun Kurşunlu Külliyesi de eserler de sizin olsun!" dedi. Eserlerin sorumluluğunu Kütahya Vakıflar Bölge Müdürlüğü'ne bıraktıklarını belirtti.
+
+Haberde yer alan bilgiler Kurt'un açıklamasına dayanıyor; Vakıflar Bölge Müdürlüğü'nün bu açıklamaya yanıtı kaynakta yer almıyor. (Kaynak: Google Haberler üzerinden Odunpazarı Belediye Başkanı Kazım Kurt'un paylaşımı)
+
+---
+
 ## ESKİ'nin ES2026 Yeni Nesil Sayaç ve Online Ödeme Sistemi tanıtıldı: Komisyon yok
 
 **Belediye · Merkez** · 2026-10-27 00:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unlucenin-secim-vaadi-hayata-gecti-eskisehirde-sebeke-suyu-yuklemede-yeni-donem)
@@ -479,19 +495,5 @@ TÜBİTAK Bilim Genç'in ekim ayı gökyüzü takvimine göre Ay ile Satürn, 24
 Gözlem yapmak isteyenlere yüksek binaların görüşü kapatmadığı, gökyüzünün açık olduğu alanları tercih etmeleri öneriliyor. Şelale Park gibi şehre hâkim noktalar değerlendirilebilir; şehir ışıklarından uzak alanlar daha sönük yıldızları görmek için avantaj sağlayabilir. Şehir dışına çıkacakların güvenli alanları seçmesi gerekiyor.
 
 Ekimin son haftasında 26 Ekim Pazartesi günü dolunay olacak. Eskişehir'de Ay'ın yaklaşık 17.49'da doğması bekleniyor.
-
----
-
-## 29 Ekim'de Eskişehir'de tramvay ve otobüslerin ücretsiz olup olmayacağı henüz belli değil
-
-**Ulaşım · Merkez** · 2026-10-24 14:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirde-29-ekimde-tramvay-ve-otobusler-ucretsiz-olacak-mi-iste-son-gelismeler)
-
-![](data/images/35d4edcdc1468b95.jpg)
-
-> Bakanlığın ücretsiz ulaşım duyurusu Ankara, İstanbul ve İzmir'deki raylı sistemleri kapsıyor.
-
-Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 29 Ekim Cumhuriyet Bayramı'nda Bakanlığa bağlı bazı raylı sistem hatlarında ücretsiz ulaşım sağlanacağını duyurdu. İstanbul'da Marmaray, Sirkeci-Kazlıçeşme Hattı ve Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı, Ankara'da Başkentray ve İzmir'de İZBAN ücretsiz hizmet verecek.
-
-Bakanlığın uygulaması Eskişehir'deki ESTRAM tramvaylarını ve belediye otobüslerini kapsamıyor. Eskişehir Büyükşehir Belediyesi'nden 29 Ekim Perşembe günü için ücretsiz ulaşıma ilişkin henüz resmî bir duyuru yapılmadı. Belediye yeni bir karar açıklamazsa Eskişehir'de mevcut ücret tarifesi geçerli olacak.
 
 ---
