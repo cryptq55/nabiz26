@@ -57,6 +57,9 @@ KEYWORD_TAGS = [
     ("konser", ["#Konser", "#Etkinlik"]), ("sergi", ["#Sergi", "#Sanat"]), ("seçim", ["#Seçim"]),
     ("asgari ücret", ["#AsgariÜcret"]), ("emekli", ["#Emekli"]), ("öğretmen", ["#Öğretmenler"]),
     ("anadolu efes", ["#AnadoluEfes"]), ("osmangazi üniversitesi", ["#ESOGÜ"]),
+    ("29 ekim", ["#CumhuriyetBayramı", "#29Ekim"]), ("cumhuriyetin 103", ["#Cumhuriyet103", "#29Ekim"]),
+    ("atatürk", ["#Atatürk"]), ("10 kasım", ["#Atatürk", "#10Kasım"]), ("nöbetçi eczane", ["#NöbetçiEczane"]),
+    ("kabine", ["#Kabine"]), ("bal kabağı", ["#Kızılinler", "#Eskişehir"]),
 ]
 INDEXNOW_KEY =hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır

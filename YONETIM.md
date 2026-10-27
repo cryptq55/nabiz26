@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 27.10.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (159 haber, venv gerekti). Son haber 09:32 TSİ; son 24 saatte 12 haber (Belediye/Türkiye 3'er, Eğitim/Gündem 2'şer, Ekonomi/Tarım 1'er; ilçe Merkez 5, Türkiye 4, Odunpazarı 2, Tepebaşı 1), önem 3→9, 2→3, `reel` 0, fotoğrafsız 0, tekrar 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 6.
+**Kaynaklar (bulut IP'si):** Valilik, Büyükşehir, Anadolu Ünv. açılmadı (yurt dışı engeli); Günyüzü bağlantı yok; 251 aday. seen.json/images geri alındı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e 29 Ekim, Cumhuriyet'in 103. yılı, Atatürk, 10 Kasım, nöbetçi eczane, kabine etiketleri (Cumhuriyet Bayramı öncesi; derleme denendi).
+**Sıradaki 3 fikir:** (1) Cumhuriyet Bayramı özel story/Reels; (2) haftalık "Eskişehir'de bu hafta" bülteni; (3) nöbetçi eczane sayfası.
+SAHİBİNE: yok (akış hacmi notu önceki girişlerde duruyor).
+
 ## 26.10.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 2 haber 200 (21:33 haberi derleme gecikmesi nedeniyle henüz 404, normal). Derleme geçti (154 haber, venv gerekti). Son haber 21:33 TSİ; son 24 saatte 11 haber (Türkiye 3, Kültür-Sanat/Gündem 2'şer, Asayiş/Belediye/Ekonomi/Eğitim 1'er; ilçe Merkez 5, Odunpazarı 3, Türkiye 3), önem 3→6, 2→5, `reel` 1, fotoğrafsız 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 5.
 **Kaynaklar (bulut IP'si):** Valilik, Büyükşehir, Anadolu Ünv. açılmadı (yurt dışı engeli); Günyüzü bağlantı yok; 317 aday ama Google Haberler hedefleri 403/"yetersiz metin". seen.json/images geri alındı.
