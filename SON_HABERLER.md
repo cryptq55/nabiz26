@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 29 Ekim'de Büyükşehir 5 mahalleden tören alanına ücretsiz ring seferleri düzenleyecek
+
+**Ulaşım · Merkez** · 2026-10-27 15:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehir-icin-yeni-karar-ucretsiz-olacak-2420141)
+
+![](data/images/223873a17c26af93.jpg)
+
+> Ring araçları 29 Ekim Perşembe günü saat 08.45'te Fevzi Çakmak, Orhangazi, 75. Yıl, Çankaya ve Şirintepe'den hareket edecek.
+
+Eskişehir Büyükşehir Belediyesi, Cumhuriyet'in 103. yıl dönümü kutlamaları kapsamında vatandaşların tören alanına kolay ve güvenli ulaşımını sağlamak için 5 ayrı güzergâhta ücretsiz ring seferi düzenleyecek. Ring araçları 29 Ekim Perşembe günü saat 08.45'te hareket edecek.
+
+Seferler Fevzi Çakmak, Orhangazi, 75. Yıl, Çankaya ve Şirintepe mahallelerinden başlayacak ve her hat Odunpazarı'nda son bulacak.
+
+Hatlar şöyle: Ring Hattı 1 Fevzi Çakmak Mahallesi'nden Topçular Caddesi, Gazi Yakup Satar Caddesi, Çevre Yolu, Prof. Dr. Yılmaz Büyükerşen Caddesi ve Yunusemre Caddesi üzerinden; Ring Hattı 2 Orhangazi Mahallesi'nden Eskişehir-Kütahya Yolu, Ulusal Egemenlik Caddesi, Basın Şehitleri Caddesi ve Atatürk Bulvarı üzerinden; Ring Hattı 3 75. Yıl Mahallesi'nden Gün Sazak Caddesi, Selami Vardar Caddesi, Çevre Yolu ve Cumhuriyet Bulvarı üzerinden; Ring Hattı 4 Çankaya Mahallesi'nden Mustafa Özel Bulvarı, Arabacılar Bulvarı, Dumlupınar Caddesi üzerinden; Ring Hattı 5 Şirintepe Mahallesi'nden Bülent Ecevit Bulvarı, İsmet İnönü Bulvarları ve Atatürk Bulvarı üzerinden Odunpazarı'na ulaşacak. (Kaynak: Eskişehir Haberleri)
+
+---
+
 ## Kurşunlu Külliyesi için tahliye tarihi 3 Kasım: Kurt yürütmeyi durdurma başvurusu yaptı
 
 **Belediye · Odunpazarı** · 2026-10-27 12:58 UTC · Kaynak: [Google Haberler - Odunpazarı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/kursunlu-kulliyesi-icin-tahliye-tebligati-baskan-kazim-kurttan-yurutmeyi-durdurma-119504772)
@@ -491,23 +507,5 @@ Hazine ve Maliye Bakanı Mehmet Şimşek, IMF'nin Türkiye'ye ilişkin Mali Şef
 Bakan'a göre Türkiye, 2015 yılında Mali Şeffaflık Kodu'ndaki ilkelerin yaklaşık yarısında iyi veya ileri uygulama düzeyindeydi; bu oran şimdi üçte ikiye çıktı. Şimşek, bu gelişmeyle Türkiye'nin Birleşik Krallık, Finlandiya, İrlanda, Avusturya ve Portekiz gibi ülkelerin de bulunduğu yaklaşık 40 ülke arasında en üst sıralarda yer aldığını belirtti.
 
 Şimşek, Türkiye'nin mali istatistikler, bütçe yönetimi, mali riskler ve hesap verebilirlik alanlarındaki uygulamalarının IMF tarafından incelendiğini ifade etti. Başarının 20 yılı aşkın süredir süren kurumsal dönüşümün sonucu olduğunu söyleyen Şimşek, mali şeffaflığı artıracak yapısal reform çalışmalarının sürdüğünü vurguladı. (Kaynak: Toplumsal Haber)
-
----
-
-## ESKİ'nin online su yükleme sistemi 26 Ekim'de başlıyor
-
-**Belediye · Merkez** · 2026-10-25 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/tarih-belli-oldu-eskisehirde-su-yukleme-islemleri-online-gerceklestirilecek-2419789)
-
-![](data/images/b7d1522e9c59cee2.jpg)
-
-> Başkan Ünlüce, ES2026 Yeni Nesil Sayaç ve Online Su Yükleme Sistemi'nin pazartesi günü hayata geçeceğini duyurdu.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, online su yükleme sisteminin 26 Ekim Pazartesi günü hayata geçirileceğini açıkladı.
-
-ESKİ Genel Müdürlüğü'nün kendi mühendislik ve AR-GE birikimiyle geliştirdiği ES2026 Yeni Nesil Sayaç ve Online Su Yükleme Sistemi sayesinde aboneler, su yüklemek için Sumatik noktalarına gitmek zorunda kalmayacak. İşlemler Android ve iOS işletim sistemli telefonlar üzerinden yapılabilecek.
-
-Sistemin resmî tanıtım töreni 26 Ekim Pazartesi günü saat 12.00'de, ESKİ Genel Müdürlüğü Orhangazi Mahallesi Ömür Mevkii İçme Suyu Arıtma Tesisleri'nde yapılacak. Tanıtımda yeni sistemin kullanımı ve dijital altyapıyla planlanan kolaylıklar hakkında bilgi verilecek.
-
-Ünlüce, sosyal medya hesabından yaptığı açıklamada, 2026 Eskişehir Yılı'nda verdikleri bir sözü daha tuttuklarını belirtti ve projede emeği geçen çalışanlara teşekkür etti. (Kaynak: Gazete Vat)
 
 ---
