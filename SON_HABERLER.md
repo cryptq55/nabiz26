@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Kurum: Sıfır Atık'ta geri kazanım oranı 2017'de yüzde 13'ten yüzde 37'ye çıktı
+
+**Türkiye · Türkiye** · 2026-10-27 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/bakan-kurum-sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-panelinde-konustu)
+
+![](data/images/f4ad7996e3b9a72f.jpg)
+
+> COP31 Başkanı Murat Kurum, İletişim Başkanlığı'ndaki 'Sıfır Atık'tan COP31'e' panelinde konuştu.
+
+COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Cumhurbaşkanlığı İletişim Başkanlığı Konferans Salonu'nda düzenlenen "Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi" panelinin açılışında konuştu.
+
+Kurum'un açıkladığı verilere göre geri kazanım oranı 2017'de yüzde 13 iken 2025'te yüzde 37'ye çıktı. Bu dönemde 90 milyon ton atık geri kazanıldı ve ekonomiye yaklaşık 365 milyar liralık katkı sağlandı. Depozito Yönetim Sistemi kapsamında bugüne kadar 520 milyon ambalaj yeniden ekonomiye kazandırıldı. Kurum, Sıfır Atık Hareketi'nin Emine Erdoğan'ın öncülüğünde başlatıldığını belirtti.
+
+Kurum, COP31'e hazırlandıklarını söyleyerek iklim krizinin gezegeni yaşanamaz hâle getirme tehlikesine dikkat çekti. Daha önceki gece Antalya'daki şiddetli hortumda 4 kişinin hayatını kaybettiğini aktaran Kurum, ölenlere rahmet, yakınlarına sabır diledi. Türkiye'nin Akdeniz havzasındaki konumu nedeniyle iklim krizinin etkilerine en fazla maruz kalan ülkelerden biri olduğunu belirten Kurum, kentsel dönüşümü milli güvenlik meselesi olarak gördüklerini söyledi. (Kaynak: İletişim Başkanlığı)
+
+---
+
 ## 4. Kızılinler Bal Kabağı Panayırı'na binlerce Eskişehirli katıldı
 
 **Tarım · Tepebaşı** · 2026-10-27 06:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/binlerceeskisehirlipanayırdabulustu)
@@ -485,19 +501,5 @@ Eskişehirspor, 169 gün sonra taraftarı önünde Bursa Yıldırımspor ile oyn
 Maça hızlı başlayan ve üst üste kornerlerle gol arayan Eskişehirspor, Abdülkadir'in kafa vuruşunda savunmadan çizgiden çıkan top dışında net pozisyon bulamadı. 45+3'te Hasan Kaya'nın çaprazdan şutunda top savunmadan döndü; Eskişehirspor penaltı beklese de hakem Hatem Yarar oyuna devam dedi. Maçın 22. dakikasında stadyumun bir kısmında ışıklar söndü ve hakem oyunu durdurdu.
 
 Eskişehirspor 11'i: Bora Göymen, Murat Şenel, Ahmet Lütfi Kara, Arda Okumuş, Abdülkadir Öksüz, Ozan İsmail Koç, Mehmet Bağlı, Tayfun Tatlı, Hasan Kaya, Beykan Şimşek, Osman Arslantaş.
-
----
-
-## Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu: Şapcı 3 değişiklik yaptı
-
-**Spor · Merkez** · 2026-10-24 16:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kadrosunda-3-degisiklik-1)
-
-![](data/images/9d0490fa00e0b321.jpg)
-
-> Mustafa Eren Damar kadroya alınmadı; Kurtuluş ve Baykuş yedek kulübesine çekildi.
-
-Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu. Kalede Bora, sağ bekte Murat Şener, sol bekte Ahmet Lütfü Kara, savunmanın ortasında Abdülkadir Öksüz ve Arda Okumuş, orta sahada Ozan İsmail Koç, Tayfun Tatlı ve Mehmet Bağlı, kanatlarda Beykan Şimşek ve Hasan Kaya, forvette ise Osman Arslantaş sahaya çıktı.
-
-Teknik direktör Hakan Şapcı, sakatlığı bulunan Mustafa Eren Damar'ı kadroya almadı; son maçtan Ertuğrul Kurtuluş ve Kerem Baykuş'u ise yedek kulübesine çekti.
 
 ---
