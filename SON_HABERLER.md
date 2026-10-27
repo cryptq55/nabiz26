@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 4. Kızılinler Bal Kabağı Panayırı'na binlerce Eskişehirli katıldı
+
+**Tarım · Tepebaşı** · 2026-10-27 06:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/binlerceeskisehirlipanayırdabulustu)
+
+![](data/images/4d3967d6d270a9c4.jpg)
+
+> Tepebaşı Belediyesi'nin düzenlediği panayırda sembolik mezat ve halk oyunları gösterisi yapıldı.
+
+Tepebaşı Belediyesi'nin düzenlediği 4. Kızılinler Bal Kabağı Panayırı'na binlerce Eskişehirli katıldı. Kızılinler Davet Salonu'ndaki panayırda saatler süren kuyruklar ve yoğun araç trafiği oluştu. Coğrafi işaretli Kızılinler bal kabağı tanıtıldı, sembolik mezat ve halk oyunları gösterisi yapıldı.
+
+Panayıra katılan Tepebaşı Belediye Başkanı Ahmet Ataç, panayırın 2023'te bir fikir olarak doğduğunu, bu yıl dördüncüsünün yapıldığını söyledi. Ataç, geçen yıl ulusal olacağını söylediklerini, bu yıl ulusal olduğunu ve seneye büyük ihtimalle uluslararası olacağını belirtti.
+
+Kızılinler Muhtarı Halil İbrahim Can, bal kabağının rulo pastadan baklavaya uzanan bir lezzet serüveni olduğunu ve bu yıl Tepebaşı Belediyesi'nin de Kızılinler'de üretim yaptığını söyledi. Tepebaşı Kırsal Kalkınma Kurulu Başkanı Mehmet Kızılinler, ürünün yaklaşık 90 yıldır ata tohumuyla üretildiğini hatırlattı. Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz, coğrafi işaret tescilinin markalaşma yolunda önemli bir adım olduğunu belirtti. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da üreticilerin emeğinin bilimsel bilgiyle desteklenip katma değere dönüşmesi gerektiğini söyledi. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## Kabine toplantısı sona erdi: Erdoğan haftanın diplomasi programını açıkladı
 
 **Türkiye · Türkiye** · 2026-10-27 05:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-kabinesi-toplandi-26-10-26)
@@ -483,19 +499,5 @@ Eskişehirspor 11'i: Bora Göymen, Murat Şenel, Ahmet Lütfi Kara, Arda Okumuş
 Eskişehirspor'un Bursa Yıldırımspor maçı ilk 11'i belli oldu. Kalede Bora, sağ bekte Murat Şener, sol bekte Ahmet Lütfü Kara, savunmanın ortasında Abdülkadir Öksüz ve Arda Okumuş, orta sahada Ozan İsmail Koç, Tayfun Tatlı ve Mehmet Bağlı, kanatlarda Beykan Şimşek ve Hasan Kaya, forvette ise Osman Arslantaş sahaya çıktı.
 
 Teknik direktör Hakan Şapcı, sakatlığı bulunan Mustafa Eren Damar'ı kadroya almadı; son maçtan Ertuğrul Kurtuluş ve Kerem Baykuş'u ise yedek kulübesine çekti.
-
----
-
-## Eskişehir'de gazeteciler "Sansüre Hayır, Habere Özgürlük" yürüyüşü yaptı
-
-**Gündem · Merkez** · 2026-10-24 15:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-sansure-hayir-habere-ozgurluk-yuruyusu-duzenlendi-bu-duzene-sessiz-kalmayacagiz-2549879)
-
-![](data/images/8ca144b16194407c.jpg)
-
-> ÇGD, TGS ve EGC şubelerinin çağrısıyla Köprübaşı'ndan Yediler Parkı'na yürüdüler.
-
-Gazetecilere yönelik gözaltı ve tutuklamalara, medya kuruluşlarına kayyum atamalarına ve haber sitelerine getirilen erişim engellerine karşı basın meslek örgütlerinin ortak çağrısıyla Eskişehir'de "Sansüre Hayır, Habere Özgürlük" yürüyüşü yapıldı. Katılımcılar Köprübaşı'ndan Hamamyolu Yediler Parkı'na yürüdü. Yürüyüşe YENİ Parti Eskişehir Milletvekili İbrahim Arslan ile Odunpazarı Belediye Başkanı Kazım Kurt destek verdi.
-
-Çağdaş Gazeteciler Derneği (ÇGD), Türkiye Gazeteciler Sendikası (TGS) ve Eskişehir Gazeteciler Cemiyeti (EGC) Eskişehir şubeleri adına basın metnini okuyan ÇGD Eskişehir Şubesi Yönetim Kurulu Üyesi Eylem Lodos, "Gazeteciliğin suç, haberin tehdit, gerçeğin sakıncalı sayıldığı bu düzene sessiz kalmayacağız" dedi. Lodos, basın örgütlerinin tek taleplerinin mesleği özgürce yapmak olduğunu ve basın özgürlüğünün yalnızca gazetecilerin değil toplumun tüm kesimlerinin sorunu olduğunu söyledi. Açıklamadaki değerlendirmeler basın örgütlerine aittir.
 
 ---
