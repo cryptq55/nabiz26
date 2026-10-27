@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 27 Ekim 2026: Gram altın 6.453,36 TL
+
+**Ekonomi · Merkez** · 2026-10-27 11:16 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261027.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.385,87 TL'den alınıyor, 6.453,36 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.16 itibarıyla verilerine göre gram altının satış fiyatı 6.453,36 TL, alış fiyatı 6.385,87 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.518 TL, yarım altın 21.030 TL, tam altın 41.925 TL, ata altın 42.742 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.028,75 TL, has altının gram fiyatı 6.434,84 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.012,10 dolardan işlem görürken, dolar/TL 49,80 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.16 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Tepebaşı'nda Cumhuriyet Bayramı kortej, ücretsiz konser ve EKO-ŞOV ile kutlanacak
 
 **Gündem · Tepebaşı** · 2026-10-27 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetbayramıkortejvekonserlerlekutlanacak)
@@ -487,21 +507,5 @@ Gezide kuşburnu ve ahududu yetiştirilen alanlar ile pazarlama noktaları ziyar
 Eskişehirspor Başkanı Ulaş Entok, Bursa Yıldırımspor ile sahada 2-2 berabere kalınan maçın ardından tribünlerden istifa çağrıları yapılan teknik direktör Hakan Şapcı'nın görevine devam edeceğini söyledi.
 
 Haberlere göre Şapcı maçın ardından bir açıklama yapmadı. Entok'un açıklamasıyla yönetimin teknik direktör değişikliğine gitmeyeceği netleşti.
-
----
-
-## Kızılinler Bal Kabağı Panayırı 25 Ekim'de, Bal Kabağı Çalıştayı 26 Ekim'de yapılacak
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-24 19:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esyenigun.com/bal-kabagi-panayiri-yarin-nerede-ucretsiz-ulasim-nasil-saglanacak)
-
-![](data/images/b239d14f683d51be.jpg)
-
-> Panayıra Tepebaşı Belediyesi Hizmet Binası önünden 11.45'te ücretsiz ulaşım sağlanacak.
-
-Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü'nün düzenlediği 4. Kızılinler Bal Kabağı Panayırı 25 Ekim 2026 Pazar günü saat 12.00-16.00 arasında Kızılinler Davet Salonu'nda yapılacak. Panayırda halk oyunları gösterileri, Eko-Şov konseri, sergiler, söyleşiler ve yöresel ürün stantları yer alacak.
-
-Panayıra gitmek isteyenler için Tepebaşı Belediyesi Hizmet Binası önünden saat 11.45'te ücretsiz araç kalkacak; hizmetten yararlanmak için belediyenin belirttiği kayıt formunun doldurulması gerekiyor.
-
-Türkiye'de ilk kez ulusal ölçekte yapılacak Eskişehir Bal Kabağı Çalıştayı ise 26 Ekim'de düzenlenecek. Çalıştayda kabak ıslahı, genetik kaynakların korunması, yetiştiricilik yöntemleri ve coğrafi işaretli bal kabağının kırsal kalkınmaya katkısı ele alınacak.
 
 ---
