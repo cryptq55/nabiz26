@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESKİ'nin ES2026 Yeni Nesil Sayaç ve Online Ödeme Sistemi tanıtıldı: Komisyon yok
+
+**Belediye · Merkez** · 2026-10-27 00:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unlucenin-secim-vaadi-hayata-gecti-eskisehirde-sebeke-suyu-yuklemede-yeni-donem)
+
+![](data/images/30223c2984e4afd2.jpg)
+
+> Aboneler cep telefonlarından su yükleyebilecek; mevcut sayaçlar ve su yükleme noktaları hizmet vermeyi sürdürecek.
+
+Eskişehir Büyükşehir Belediyesi ve ESKİ Genel Müdürlüğü'nün geliştirdiği ES2026 Yeni Nesil Sayaç ve Online Ödeme Sistemi, 26 Ekim'de ESKİ İçme Suyu Arıtma Tesisleri'nde düzenlenen programla tanıtıldı. Yeni sistemle vatandaşlar su yükleme noktalarına gitmeden cep telefonlarından işlem yapabilecek. Mevcut sayaçlarını kullanmak isteyen aboneler eski sistemle devam edebilecek.
+
+Programa Büyükşehir Belediyesi Genel Sekreter Vekili M. Recai Erdir, ESKİ Genel Müdür Vekili Niyazi Solak, belediye yöneticileri ve basın mensupları katıldı. Fransa'nın Strazburg kentinde bulunan Belediye Başkanı Ayşe Ünlüce, programa video mesaj gönderdi ve sistemin ESKİ çalışanlarının kendi mühendislik çalışmalarıyla geliştirildiğini belirterek teşekkür etti.
+
+Yeni uygulamayla vatandaşlar aile bireylerinin aboneliklerine de uzaktan su yükleyebilecek. Mobil uygulama üzerinden yapılan işlemlerden komisyon alınmayacak. Kullanıcılar kalan su miktarını ve tahmini bitiş tarihini görebilecek; su kredisinin bitmesine bir hafta kala telefonlarına uyarı gönderilecek. Sistem Android ve iOS'ta kullanılabilecek, ESKİ'ye göre iPhone'larda su yüklenmesini sağlayan çözüm Türkiye'de bir ilk.
+
+Nisan ayında saha testlerine başlanan yeni sayaçlar yeni yapılarda kullanılmaya başlandı. Mevcut aboneler mobil uygulamadan başvurarak sayaçlarını değiştirebilecek. İlk aşamada 5 ila 6 bin abonenin talebini karşılayacak hazırlık yapıldı, yıllık üretim kapasitesi 80 bin sayaca ulaşabilecek. (Kaynak: Anadolu Gazetesi)
+
+---
+
 ## Türkiye ile Suudi Arabistan arasında eğitim iş birliği mutabakat zaptı imzalandı
 
 **Eğitim · Türkiye** · 2026-10-26 20:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-suudi-arabistan-egitim-bakani-el-benyan039la-gorustu/haber/42293/tr)
@@ -475,19 +493,5 @@ Ekimin son haftasında 26 Ekim Pazartesi günü dolunay olacak. Eskişehir'de Ay
 Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, 29 Ekim Cumhuriyet Bayramı'nda Bakanlığa bağlı bazı raylı sistem hatlarında ücretsiz ulaşım sağlanacağını duyurdu. İstanbul'da Marmaray, Sirkeci-Kazlıçeşme Hattı ve Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı, Ankara'da Başkentray ve İzmir'de İZBAN ücretsiz hizmet verecek.
 
 Bakanlığın uygulaması Eskişehir'deki ESTRAM tramvaylarını ve belediye otobüslerini kapsamıyor. Eskişehir Büyükşehir Belediyesi'nden 29 Ekim Perşembe günü için ücretsiz ulaşıma ilişkin henüz resmî bir duyuru yapılmadı. Belediye yeni bir karar açıklamazsa Eskişehir'de mevcut ücret tarifesi geçerli olacak.
-
----
-
-## Topkapı Sarayı Darphane-i Amire Müzeleri açıldı: 5 müzede 10 bin 500 eser sergilenecek
-
-**Türkiye · Türkiye** · 2026-10-24 13:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turk-milleti-olarak-dunyada-esine-az-rastlanir-bir-muktesebata-sahibiz-961083.html)
-
-![](data/images/033d18e93d24f0fb.jpg)
-
-> Açılışı Cumhurbaşkanı Erdoğan yaptı; müzeler 17 bin metrekarelik alana yayılan 7 yapıda yer alıyor.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni'nde konuştu. Erdoğan'a göre Darphane-i Amire Külliyesi'nde yapılan restorasyonlarla 17 bin metrekarelik alana yayılan 7 yapı ve 46 salon 5 farklı müze olarak düzenlendi. Topkapı Sarayı envanterindeki toplam 10 bin 500 eser müzelerde ziyaretçilerle buluşacak.
-
-Harita Müzesi'nde Osmanlı coğrafyasına ait yaklaşık 200 harita yer alacak; aynı binada 800 binden fazla yazılı ve görsel kaynağın dijital ortamda toplandığı Milli Saraylar Araştırma Merkezi hizmet verecek. Hüsnühat Eserleri Müzesi'nde 2 binden fazla hüsnühat eseri ilk kez sergilenecek. Darphane ve Endüstri Araçları Müzesi'nde yaklaşık 500 endüstri aracı, Esliha-i Hümayun Müzesi'nde 7. yüzyıldan 20. yüzyıla uzanan 2 bin 500'den fazla askeri teçhizat bulunacak; bunların arasında Fatih Sultan Mehmet'in kılıcı ve zırhlı gömleği de yer alacak. Saray Porselenleri Müzesi'nde ise Çin, Japonya, İran, İngiltere, Vietnam, Fransa ve Rusya'da üretilen porselenler ile Yıldız Porselen Sarayı fabrikasının eserleri sergilenecek.
 
 ---
