@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Cumhuriyet Bayramı kortej, ücretsiz konser ve EKO-ŞOV ile kutlanacak
+
+**Gündem · Tepebaşı** · 2026-10-27 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetbayramıkortejvekonserlerlekutlanacak)
+
+![](data/images/a84ae0ffc53a1b0c.jpg)
+
+> Kortej 28 Ekim'de 17.30'da Cumhuriyet Meydanı'ndan yola çıkacak; 29 Ekim'de EKO-ŞOV Espark AVM önünde.
+
+Tepebaşı Belediyesi, 29 Ekim Cumhuriyet Bayramı'nı konserler, EKO-ŞOV ve Cumhuriyet Kortejiyle kutlayacak.
+
+Kutlamalar 28 Ekim Çarşamba günü saat 17.30'da Şarhöyük Mahallesi Cumhuriyet Meydanı'ndan yola çıkacak Cumhuriyet Korteji ile başlayacak. Kortej, Tepebaşı Belediyesi yanındaki açık otoparkta sona erecek. Eskişehir Motosiklet Grubu 26, MOSEF, VesBaga Eskişehir, Vos 26 Eskişehir, Yol Kawaşçıları Türkiye ve Demir Pençe 26 Eskişehir gibi topluluklar korteje destek verecek.
+
+Ardından saat 19.00'da Özgenur Altaş, saat 20.00'de Soup Opera sahne alacak. Konserler ücretsiz. 29 Ekim Perşembe günü saat 14.00'te EKO-ŞOV eşliğinde kutlama programı Espark AVM önünde sürecek.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, tüm Eskişehirlileri kutlamalara davet etti. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
+## Başkan Ataç Gaziler Günü'nde gazi ve şehit yakınlarıyla kahvaltıda buluştu
+
+**Gündem · Tepebaşı** · 2026-10-27 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacgazivesehityakınlarıylaaynısofradabulustu)
+
+![](data/images/199a8d3a73770e26.jpg)
+
+> Tepebaşı Belediyesi'nin programına Muharip Gaziler Derneği, Şehit Aileleri Derneği ve EMŞAV temsilcileri katıldı.
+
+Tepebaşı Belediyesi, Gaziler Günü kapsamında şehit aileleri ve gaziler için kahvaltı programı düzenledi. Tepebaşı Belediye Başkanı Ahmet Ataç'ın ev sahipliğindeki buluşmaya Eskişehir Muharip Gaziler Derneği, Eskişehir Şehit Aileleri Derneği ve Emniyet Teşkilatı Vazife Malulü ve Şehit Aileleri Vakfı (EMŞAV) temsilcileri, şehit yakınları ve gaziler katıldı.
+
+Ataç, program boyunca konuklarıyla tek tek sohbet etti. Cumhuriyet Bayramı'nın 103. yıl dönümü dolayısıyla kutlama mesajlarının paylaşıldığı programda dernek ve vakıf temsilcileri de konuşma yaptı ve ev sahipliği için teşekkür etti.
+
+Ataç, "Sadece önemli gün ve haftalarda değil, yılın 365 gününde bir ve beraberiz" dedi. Şehitlerin yılın her günü hatırlanması ve hatıralarının yaşatılması gerektiğini söyleyen Ataç, Tepebaşı Belediyesi'nin her zaman yanlarında olacağını belirtti. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## Bakan Kurum: Sıfır Atık'ta geri kazanım oranı 2017'de yüzde 13'ten yüzde 37'ye çıktı
 
 **Türkiye · Türkiye** · 2026-10-27 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/bakan-kurum-sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-panelinde-konustu)
@@ -12,7 +46,7 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Cumhurbaşkanlığı İletişim Başkanlığı Konferans Salonu'nda düzenlenen "Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi" panelinin açılışında konuştu.
 
-Kurum'un açıkladığı verilere göre geri kazanım oranı 2017'de yüzde 13 iken 2025'te yüzde 37'ye çıktı. Bu dönemde 90 milyon ton atık geri kazanıldı ve ekonomiye yaklaşık 365 milyar liralık katkı sağlandı. Depozito Yönetim Sistemi kapsamında bugüne kadar 520 milyon ambalaj yeniden ekonomiye kazandırıldı. Kurum, Sıfır Atık Hareketi'nin Emine Erdoğan'ın öncülüğünde başlatıldığını belirtti.
+Kurum'un açıkladığı verilere göre geri kazanım oranı 2017'de yüzde 13 iken 2025'te yüzde 37'ye çıktı. Bu dönemde 90 milyon ton atık geri kazanıldı ve ekonomiye yaklaşık 365 milyar liralık katkı sağlandı. Depozitolu Ambalajlar Sistemi kapsamında bugüne kadar 520 milyon ambalaj yeniden ekonomiye kazandırıldı. Kurum, Sıfır Atık Hareketi'nin Emine Erdoğan'ın öncülüğünde başlatıldığını belirtti.
 
 Kurum, COP31'e hazırlandıklarını söyleyerek iklim krizinin gezegeni yaşanamaz hâle getirme tehlikesine dikkat çekti. Daha önceki gece Antalya'daki şiddetli hortumda 4 kişinin hayatını kaybettiğini aktaran Kurum, ölenlere rahmet, yakınlarına sabır diledi. Türkiye'nin Akdeniz havzasındaki konumu nedeniyle iklim krizinin etkilerine en fazla maruz kalan ülkelerden biri olduğunu belirten Kurum, kentsel dönüşümü milli güvenlik meselesi olarak gördüklerini söyledi. (Kaynak: İletişim Başkanlığı)
 
@@ -469,37 +503,5 @@ Tepebaşı Belediyesi Kırsal Hizmetler Müdürlüğü'nün düzenlediği 4. Kı
 Panayıra gitmek isteyenler için Tepebaşı Belediyesi Hizmet Binası önünden saat 11.45'te ücretsiz araç kalkacak; hizmetten yararlanmak için belediyenin belirttiği kayıt formunun doldurulması gerekiyor.
 
 Türkiye'de ilk kez ulusal ölçekte yapılacak Eskişehir Bal Kabağı Çalıştayı ise 26 Ekim'de düzenlenecek. Çalıştayda kabak ıslahı, genetik kaynakların korunması, yetiştiricilik yöntemleri ve coğrafi işaretli bal kabağının kırsal kalkınmaya katkısı ele alınacak.
-
----
-
-## Eskişehirspor, Bursa Yıldırımspor ile 2-2 berabere kaldı; penaltı direkten döndü
-
-**Spor · Merkez** · 2026-10-24 18:35 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macinda-fiyasko-mac-sonucu-2-2)
-
-![](data/images/d95a714c4ab07b78.jpg)
-
-> Es-Es son dakikalarda iki golle geri döndü; Ahmet Dereli sakatlanınca 10 kişi oynadı.
-
-Eskişehirspor, 3. Lig'de sahasında Bursa Yıldırımspor ile 2-2 berabere kaldı. Konuk ekip 19. dakikada Hakan Öztürk'ün golüyle öne geçti. Eskişehirspor ikinci yarıda baskı kurdu; Beykan Şimşek'in kullandığı penaltı direkten döndü. 78. dakikada sakatlanan Ahmet Dereli oyuna devam edemedi ve oyuncu değişikliği hakkı kalmayan ev sahibi takım son bölümde 10 kişi mücadele etti.
-
-Eskişehirspor 83. dakikada Kerem Baykuş'un golüyle skoru 1-1'e getirdi. Bursa Yıldırımspor 88. dakikada Efe Yüceer'in golüyle yeniden öne geçti, Baykuş 89. dakikada ikinci golünü atarak skoru 2-2 yaptı.
-
-Taraftarının 169 gün sonra takımıyla ligde buluştuğu maçın ardından teknik direktör Hakan Şapcı'ya yönelik istifa çağrıları yapıldığı aktarıldı.
-
----
-
-## Eskişehirspor, Bursa Yıldırımspor karşısında ilk yarıyı 0-1 geride kapattı
-
-**Spor · Merkez** · 2026-10-24 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-bursa-yildirim-macina-kotu-basladi-ilk-yari-sonucu-0-1)
-
-![](data/images/af5a351430b825b2.jpg)
-
-> Maç 22. dakikada stadyumda ışıkların kısmen sönmesi nedeniyle durdu.
-
-Eskişehirspor, 169 gün sonra taraftarı önünde Bursa Yıldırımspor ile oynadığı 3. Lig maçının ilk yarısını 0-1 geride kapattı. Konuk ekip 19. dakikada Hakan Öztürk'ün golüyle öne geçti.
-
-Maça hızlı başlayan ve üst üste kornerlerle gol arayan Eskişehirspor, Abdülkadir'in kafa vuruşunda savunmadan çizgiden çıkan top dışında net pozisyon bulamadı. 45+3'te Hasan Kaya'nın çaprazdan şutunda top savunmadan döndü; Eskişehirspor penaltı beklese de hakem Hatem Yarar oyuna devam dedi. Maçın 22. dakikasında stadyumun bir kısmında ışıklar söndü ve hakem oyunu durdurdu.
-
-Eskişehirspor 11'i: Bora Göymen, Murat Şenel, Ahmet Lütfi Kara, Arda Okumuş, Abdülkadir Öksüz, Ozan İsmail Koç, Mehmet Bağlı, Tayfun Tatlı, Hasan Kaya, Beykan Şimşek, Osman Arslantaş.
 
 ---
