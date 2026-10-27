@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurşunlu Külliyesi için tahliye tarihi 3 Kasım: Kurt yürütmeyi durdurma başvurusu yaptı
+
+**Belediye · Odunpazarı** · 2026-10-27 12:58 UTC · Kaynak: [Google Haberler - Odunpazarı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/kursunlu-kulliyesi-icin-tahliye-tebligati-baskan-kazim-kurttan-yurutmeyi-durdurma-119504772)
+
+![](data/images/ded8d3fde5017b00.jpg)
+
+> Odunpazarı Belediye Başkanı Kurt, Vakıflar'ın tebligatına karşı İdare Mahkemesi'ne başvurduklarını açıkladı.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Vakıflar Genel Müdürlüğü tarafından Kurşunlu Külliyesi için belediyeye tahliye tebligatı gönderildiğini ve karara karşı İdare Mahkemesi'ne iptal ile yürütmenin durdurulması başvurusu yaptıklarını açıkladı.
+
+Kurt'un basın açıklamasına göre süreç 2024 yılı sonunda başladı. İlk tahliye kararına karşı açılan dava istinaf aşamasında. Kurt, 20 Kasım 2025'te yürürlüğe giren kanunun geçici 15. maddesine dikkat çekerek, belediyenin vakıf şartlarını kabul ettiğini resmen bildirmesine rağmen yanıt alamadıklarını ve tahliye için 3 Kasım 2026 tarihinin tebliğ edildiğini söyledi. Kurt, tahliyenin kanuna aykırı olduğunu savundu.
+
+Kurt'a göre tahliye gerçekleşirse 3 müze kapanacak, cam atölyesi ve fırınları kapanacak, 3 festival sona erecek, külliyede çalışan 18 kişi işsiz kalacak ve yaklaşık 20 esnaf ticaret yapamaz hale gelecek. Kurt ayrıca kira artış oranlarında belediyenin hesabı ile Vakıfların talebinin uyuşmadığını söyledi.
+
+Haberde yer alan bilgiler Kurt'un açıklamasına dayanıyor; Vakıflar Genel Müdürlüğü'nün görüşü kaynakta yer almıyor. (Kaynak: Anadolu Gazetesi)
+
+---
+
+## Büyükşehir'in müze ve tesisleri 28-29 Ekim'de açık, Halk Ekmek 29 Ekim'de kapalı
+
+**Gündem · Merkez** · 2026-10-27 12:57 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediyesi-nden-kultur-sanat-noktalarinda-29-ekim-duzenlemesi-f516d7ac)
+
+![](data/images/733730524f43a439.jpg)
+
+> Müzeler, Sazova'daki tesisler ve sosyal tesisler Cumhuriyet Bayramı'nda ziyaretçilere açık olacak.
+
+Eskişehir Büyükşehir Belediyesi, 29 Ekim Cumhuriyet Bayramı nedeniyle müze, kültür ve sanat merkezleri, turistik noktalar ile sosyal tesislerin çalışma düzenini açıkladı. Birçok tesis 28 Ekim Çarşamba ve 29 Ekim Perşembe günlerinde ziyaretçilerini ağırlayacak.
+
+Açık olacak müzeler arasında Yılmaz Büyükerşen Balmumu Heykeller Müzesi, Çağdaş Cam Sanatları Müzesi, Kent Belleği Müzesi, Kurtuluş Müzesi, İmren Erşen Oya Müzesi, Hamam Müzesi, Zühal Yorgancıoğlu Moda ve Tasarım Müzesi ile Ergün Başar Portre Galerisi var. Sanat Sokağı'ndaki Çağdaş Seramik Sanatları Müzesi, Bilim Deney Merkezi, Sabancı Uzay Evi, Masal Şatosu'nun Kendin Keşfet alanı, Hayvanat Bahçesi ve Sualtı Dünyası, Kalyon Müze Gemi, Sazova'daki Dekovil Tren, Gondol ve Bot Turu ile belediyeye ait kafeler de her iki gün hizmet verecek.
+
+Kentpark Kafe, Üretici Market Adliye, Üretici Market Bağlar, İskele 26 ve Emek Kafe de 28-29 Ekim'de açık olacak. Halk Et Marketler ve Halk Ekmek büfeleri ise 28 Ekim Çarşamba günü açık, 29 Ekim Perşembe günü kapalı olacak. (Kaynak: DHA)
+
+---
+
 ## Tepebaşı'nın minik piyanistleri Özdilek Sanat Merkezi'nde konser verdi
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-27 11:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınminikpiyanistlerisahnede)
@@ -475,39 +509,5 @@ ESKİ Genel Müdürlüğü'nün kendi mühendislik ve AR-GE birikimiyle gelişti
 Sistemin resmî tanıtım töreni 26 Ekim Pazartesi günü saat 12.00'de, ESKİ Genel Müdürlüğü Orhangazi Mahallesi Ömür Mevkii İçme Suyu Arıtma Tesisleri'nde yapılacak. Tanıtımda yeni sistemin kullanımı ve dijital altyapıyla planlanan kolaylıklar hakkında bilgi verilecek.
 
 Ünlüce, sosyal medya hesabından yaptığı açıklamada, 2026 Eskişehir Yılı'nda verdikleri bir sözü daha tuttuklarını belirtti ve projede emeği geçen çalışanlara teşekkür etti. (Kaynak: Gazete Vat)
-
----
-
-## Togg T10F 4More için Kehribar Serisi geldi: Yedi renk seçeneği var
-
-**Türkiye · Türkiye** · 2026-10-25 02:34 UTC · Kaynak: [Google Haberler - Togg](https://m.duzcetv.com/ekonomi-haberleri/262002-togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor)
-
-![](data/images/1ffbd971badc534c.jpg)
-
-> Togg, çift motorlu T10F 4More modelini özel tasarım detaylı Kehribar Serisi ile sunuyor.
-
-Togg, doğadan ilham alan özel serilerine Kehribar ile yenisini ekliyor. Çift motorlu ve dört tekerlekten çekişli T10F 4More, Kehribar Serisi ile kullanıcılarla buluşuyor.
-
-Seri, Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere yedi farklı gövde rengiyle sunuluyor. Jantlardan ön panjura, logodan yan aynalara ve cam çerçevelerine kadar tasarımın farklı noktalarında Kehribar detayları kullanılıyor.
-
-İç mekânda Artisyn kumaş ve kabartma desenli detaylara sahip koltuklar ile özel dekoratif yüzeyler yer alıyor. Kehribar, volkanik kökenli obsidiyenin tonlarını yansıtan Obsidiyen Serisi'nin ardından markanın özel serilerine katılıyor. (Kaynak: Düzce TV)
-
----
-
-## Eskişehir'de kadın çiftçiler için 6 bin metrekarelik kuşburnu bahçesi kuruldu
-
-**Tarım · Merkez** · 2026-10-25 02:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-kadin-ciftciler-icin-6-bin-metrekarelik-bahce-kuruldu)
-
-![](data/images/2f783c45c636fe36.jpg)
-
-> İl Tarım ve Orman Müdürlüğü'nün projesiyle altı kadın üreticinin bahçeleri oluşturuldu; çiftçiler Kütahya'ya inceleme gezisi yaptı.
-
-Eskişehir İl Tarım ve Orman Müdürlüğü, kadın çiftçilerin tarımsal bilgi ve becerilerini geliştirmek için Kütahya'ya inceleme gezisi düzenledi. Program, Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanlığı'nın desteğiyle yürütüldü.
-
-"Ege'den Doğan Ay Eskişehir'i Aydınlatıyor" projesiyle kuşburnu üretiminin Eskişehir'in altı ilçesindeki mahallelerde yaygınlaştırılması hedefleniyor. İzmir Ege Tarımsal Araştırma Enstitüsü Müdürlüğü iş birliğindeki proje kapsamında altı kadın üretici için 1.000'er metrekarelik demonstrasyon bahçeleri kuruldu; toplam alan 6.000 metrekareye ulaştı.
-
-Gezide kuşburnu ve ahududu yetiştirilen alanlar ile pazarlama noktaları ziyaret edildi. Kadın çiftçiler S.S. Kütahya Sekiören Kadın Girişimi Üretim ve İşletme Kooperatifi'nde girişimcilik ve kooperatif çalışmaları hakkında bilgi aldı, Hekim Sinan Tıbbi ve Aromatik Merkezi'ni de gezdi.
-
-Üreticiler, bahçelerini geliştirerek kuşburnu yetiştiriciliğini Eskişehir genelinde yaygınlaştırmak istediklerini ifade etti. (Kaynak: Eskişehir Haberleri)
 
 ---
