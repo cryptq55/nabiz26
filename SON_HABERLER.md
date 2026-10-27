@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nın minik piyanistleri Özdilek Sanat Merkezi'nde konser verdi
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-27 11:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınminikpiyanistlerisahnede)
+
+![](data/images/65795f5daa451d36.jpg)
+
+> Belediyenin piyano kurslarına katılan 7-12 yaş arasındaki 16 öğrenci 25 Ekim'de sahne aldı.
+
+Tepebaşı Belediyesi'nin düzenlediği piyano kurslarına katılan 7-12 yaş arasındaki 16 öğrenci, eğitim sürecinde öğrendiklerini Özdilek Sanat Merkezi'nde düzenlenen konserde dinleyicilerle paylaştı. Konser 25 Ekim'de, Özgenur Altaş'ın eğitmenliğinde yapıldı.
+
+En az bir yıldır piyano eğitimi alan öğrenciler, kursta öğrendiklerini sahnede sergiledi. Eğitimler öğrencilerin gelişimine göre genellikle iki yıl sürüyor.
+
+Tepebaşı Belediyesi'nin sanat kursları, çocukların ilgi ve yeteneklerini geliştirmelerine, öğrendiklerini paylaşmalarına ve sahne deneyimi kazanmalarına katkı sunuyor. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## Altın fiyatları 27 Ekim 2026: Gram altın 6.453,36 TL
 
 **Ekonomi · Merkez** · 2026-10-27 11:16 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -493,19 +509,5 @@ Eskişehir İl Tarım ve Orman Müdürlüğü, kadın çiftçilerin tarımsal bi
 Gezide kuşburnu ve ahududu yetiştirilen alanlar ile pazarlama noktaları ziyaret edildi. Kadın çiftçiler S.S. Kütahya Sekiören Kadın Girişimi Üretim ve İşletme Kooperatifi'nde girişimcilik ve kooperatif çalışmaları hakkında bilgi aldı, Hekim Sinan Tıbbi ve Aromatik Merkezi'ni de gezdi.
 
 Üreticiler, bahçelerini geliştirerek kuşburnu yetiştiriciliğini Eskişehir genelinde yaygınlaştırmak istediklerini ifade etti. (Kaynak: Eskişehir Haberleri)
-
----
-
-## Eskişehirspor Başkanı Entok: Hakan Şapcı görevine devam edecek
-
-**Spor · Merkez** · 2026-10-24 20:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-teknik-direktor-hakan-sapci-ile-ilgili-verilen-karar-belli-oldu)
-
-![](data/images/e38619f04b31af1a.jpg)
-
-> Bursa Yıldırımspor beraberliğinin ardından tribünlerden istifa çağrıları yapılmıştı.
-
-Eskişehirspor Başkanı Ulaş Entok, Bursa Yıldırımspor ile sahada 2-2 berabere kalınan maçın ardından tribünlerden istifa çağrıları yapılan teknik direktör Hakan Şapcı'nın görevine devam edeceğini söyledi.
-
-Haberlere göre Şapcı maçın ardından bir açıklama yapmadı. Entok'un açıklamasıyla yönetimin teknik direktör değişikliğine gitmeyeceği netleşti.
 
 ---
