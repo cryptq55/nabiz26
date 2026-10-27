@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kabine toplantısı sona erdi: Erdoğan haftanın diplomasi programını açıkladı
+
+**Türkiye · Türkiye** · 2026-10-27 05:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-kabinesi-toplandi-26-10-26)
+
+![](data/images/d1ec92f924621606.jpg)
+
+> Cumhurbaşkanı Erdoğan, yaklaşık 3 saat süren Kabine Toplantısı'nın ardından programı ve dış politika başlıklarını açıkladı.
+
+Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Cumhurbaşkanlığı Külliyesi'nde toplandı. Saat 15.38'de başlayan toplantı yaklaşık 3 saat sürdü. Erdoğan, toplantının ardından millete seslendi.
+
+Erdoğan konuşmasına, Zonguldak'ta geçen hafta özel bir maden ocağındaki grizu patlamasında hayatını kaybeden 3 madenciye ve Ankara'daki askerî araç kazasında şehit olan Albay Sayit Gökgöz'e başsağlığı dileyerek başladı. Kabine toplantısında iç siyaset, ekonomi, güvenlik ve dış politikaya ilişkin güncel gelişmeleri ele aldıklarını söyledi.
+
+Erdoğan'ın aktardığına göre Kanada Başbakanı Mark Carney'nin ziyaretinde ilişkiler stratejik ortaklık seviyesine yükseltildi; savunma, hava ulaştırma ve enerji alanlarında üç anlaşma imzalandı ve serbest ticaret anlaşması müzakerelerine yıl bitmeden başlanması kararlaştırıldı. 3 milyar dolar civarındaki ticaret hacminin önce 5, sonra 10 milyar dolara çıkarılması hedefleniyor. Erdoğan, 16 Ekim'de Kamboçya Başbakanı Hun Manet'i İstanbul'da ağırladıklarını da hatırlattı.
+
+Erdoğan, önümüzdeki günlerin programını şöyle açıkladı: 28 Ekim'de Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev Ankara'da ağırlanacak ve aynı gün Beştepe Millet Ormanı halkın kullanımına açılacak. 30 Ekim Cuma günü Türk Devletleri Teşkilatı'nın 13. Zirvesi Ankara'da yapılacak. Ardından Güney Kore ziyareti ve dönüşte Antalya'da COP31 Zirvesi planlanıyor. (Kaynak: İletişim Başkanlığı)
+
+---
+
 ## Kazım Kurt: Kurşunlu Külliyesi ve eserlerin sorumluluğunu Vakıflar'a bırakıyoruz
 
 **Belediye · Odunpazarı** · 2026-10-27 02:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/kazim-kurttan-kursunlu-kulliyesi-tepkisi-buyurun-sizin-olsun)
@@ -479,21 +497,5 @@ Teknik direktör Hakan Şapcı, sakatlığı bulunan Mustafa Eren Damar'ı kadro
 Gazetecilere yönelik gözaltı ve tutuklamalara, medya kuruluşlarına kayyum atamalarına ve haber sitelerine getirilen erişim engellerine karşı basın meslek örgütlerinin ortak çağrısıyla Eskişehir'de "Sansüre Hayır, Habere Özgürlük" yürüyüşü yapıldı. Katılımcılar Köprübaşı'ndan Hamamyolu Yediler Parkı'na yürüdü. Yürüyüşe YENİ Parti Eskişehir Milletvekili İbrahim Arslan ile Odunpazarı Belediye Başkanı Kazım Kurt destek verdi.
 
 Çağdaş Gazeteciler Derneği (ÇGD), Türkiye Gazeteciler Sendikası (TGS) ve Eskişehir Gazeteciler Cemiyeti (EGC) Eskişehir şubeleri adına basın metnini okuyan ÇGD Eskişehir Şubesi Yönetim Kurulu Üyesi Eylem Lodos, "Gazeteciliğin suç, haberin tehdit, gerçeğin sakıncalı sayıldığı bu düzene sessiz kalmayacağız" dedi. Lodos, basın örgütlerinin tek taleplerinin mesleği özgürce yapmak olduğunu ve basın özgürlüğünün yalnızca gazetecilerin değil toplumun tüm kesimlerinin sorunu olduğunu söyledi. Açıklamadaki değerlendirmeler basın örgütlerine aittir.
-
----
-
-## Eskişehir'de bu gece Ay ve Satürn gökyüzünde yan yana görülecek
-
-**Gündem · Merkez** · 2026-10-24 15:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-bu-gece-gokyuzune-bakin-ay-ve-saturn-bir-arada-gorulecek)
-
-![](data/images/871c0756f0528fd5.jpg)
-
-> 24 Ekim akşamı iki gök cismi çıplak gözle izlenebilecek; 26 Ekim'de dolunay olacak.
-
-TÜBİTAK Bilim Genç'in ekim ayı gökyüzü takvimine göre Ay ile Satürn, 24 Ekim Cumartesi akşamı Balıklar Takımyıldızı yönünde birbirine yakın görülecek. Hava koşulları uygun olursa görüntü Eskişehir'de çıplak gözle izlenebilecek. Ay, kentte 16.53 civarında doğacak; iki gök cismi gece boyunca gökyüzünde kalacak.
-
-Gözlem yapmak isteyenlere yüksek binaların görüşü kapatmadığı, gökyüzünün açık olduğu alanları tercih etmeleri öneriliyor. Şelale Park gibi şehre hâkim noktalar değerlendirilebilir; şehir ışıklarından uzak alanlar daha sönük yıldızları görmek için avantaj sağlayabilir. Şehir dışına çıkacakların güvenli alanları seçmesi gerekiyor.
-
-Ekimin son haftasında 26 Ekim Pazartesi günü dolunay olacak. Eskişehir'de Ay'ın yaklaşık 17.49'da doğması bekleniyor.
 
 ---
