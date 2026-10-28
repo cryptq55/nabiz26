@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 'Yediden Yetmişe Cumhuriyet Bayramı Kutlaması' üç kuşağı buluşturdu
+
+**Gündem · Tepebaşı** · 2026-10-28 20:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetcoskusuucneslibirarayagetirdi)
+
+![](data/images/05e1b9ad245b9617.jpg)
+
+> Yunusemre Spor Kompleksi'ndeki etkinlikte vals ve rumba gösterileri yapıldı, Andımız hep birlikte okundu.
+
+Tepebaşı Belediyesi'nin "Yediden Yetmişe Cumhuriyet Bayramı Kutlaması", Yunusemre Spor Kompleksi'nde yapıldı. Etkinliği belediyenin Kadın Aile Hizmetleri Müdürlüğü, Gençlik ve Spor Hizmetleri Müdürlüğü ile Sağlık İşleri Müdürlüğü düzenledi. Metin Özöğüt Yaşam Merkezi sakinleri, belediyeye bağlı kreşlerdeki çocuklar ve engelli merkezlerinde eğitim gören gençler bayram sevincini birlikte yaşadı.
+
+Yaşam merkezi sakinleriyle anaokulu çocuklarının birlikte sunduğu vals gösterisi ve üç çiftin vals ile rumba gösterisi beğeni topladı. Engelli merkezlerindeki gençler Atatürk'ün sevdiği şarkıları seslendirdi. Tepebaşı Belediye Başkanı Ahmet Ataç, belediye personeli, çocuklar, gençler ve deneyimli vatandaşlar "Andımız"ı hep birlikte okudu; 98 yaşındaki Ayhan Tunçer de bir konuşma yaptı.
+
+Ataç, Cumhuriyet'in kuşakları yan yana getiren ortak bir kazanım olduğunu söyledi ve etkinliğe emek verenlere teşekkür etti. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
+## Tepebaşı'nda 8. Geleneksel Cumhuriyet Kupası'nı Sağlık İşleri Müdürlüğü kazandı
+
+**Spor · Tepebaşı** · 2026-10-28 20:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebasıbelediyesi8gelenekselcumhuriyetkupasıtamamlandı)
+
+![](data/images/b2b0c67aac5fb747.jpg)
+
+> Turnuvaya 12 takım ve 150 belediye personeli katıldı; Park Bahçeler ikinci, Temizlik İşleri üçüncü oldu.
+
+Tepebaşı Belediyesi'nin 12 takım ve 150 personelin katılımıyla düzenlediği 8. Geleneksel Cumhuriyet Kupası tamamlandı. Esentepe Halı Saha'da oynanan finalde Sağlık İşleri Müdürlüğü, Park Bahçeler Müdürlüğü'nü geçerek şampiyon oldu. Park Bahçeler Müdürlüğü ikinci, Temizlik İşleri Müdürlüğü üçüncü sırada yer aldı.
+
+Turnuvayı Spor İşleri Müdürlüğü düzenledi. Kayıtlar 14 Eylül'de başladı, maçlar 5 Ekim'de oynanmaya başladı. Tepebaşı Belediye Başkanı Ahmet Ataç, kupanın çalışma arkadaşlarını sporun birleştirici gücü etrafında buluşturan bir gelenek olduğunu söyledi ve dereceye giren takımları kutladı. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## 'Atatürk ve Dünya Çocukları' anıtı açıldı, adını Eskişehirliler anketle belirleyecek
 
 **Kültür-Sanat · Tepebaşı** · 2026-10-28 19:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/ataturkvecocuklarınizieskisehir’inkenthafızasınakazındı)
@@ -469,35 +499,5 @@ Bakan, il müdürlerinden sahada aktif, vatandaşla doğrudan temas kuran ve ula
 Eskişehir çevre yolunda, otogar karşısında Ankara yönünde sabah saatlerinde trafik kazası meydana geldi. Olay yerinde çekilen görüntülerde, beyaz renkli bir kamyonetin ön kısmının ve sürücü kapısı çevresinin hasar gördüğü, yol üzerinde cam kırıkları ve araç parçaları bulunduğu görülüyor.
 
 Görüntülerde olay yerinde bir ambulans ve 112 Acil Çağrı yazılı bir itfaiye aracı bulunuyor. Kazanın nedeni, kazaya karışan araç sayısı ile yaralı olup olmadığı konusunda şu an resmî bir açıklama bulunmuyor. Bilgiler netleştikçe haber güncellenecek. (Kaynak: Nabız 26)
-
----
-
-## TEDx Vişnelik Women 'Rooted & Rising' temasıyla Eskişehir'de yapıldı
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-26 05:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/tedx-visnelik-women-da-rooted-rising-bulusmasi-eskisehir-de-kadinlarin-ilham)
-
-![](data/images/2e641a575e501658.jpg)
-
-> Odunpazarı Belediyesi'nin katkısıyla düzenlenen etkinlikte beş kadın konuşmacı deneyimlerini paylaştı.
-
-Odunpazarı Belediyesi'nin katkılarıyla Hasan Polatkan Kültür Merkezi'nde düzenlenen TEDx Vişnelik Women, "Rooted & Rising" (Köklerinden Güç Alarak Yükselmek) temasıyla kadınların deneyimlerini, dönüşüm yolculuklarını ve geleceğe yön veren fikirlerini aynı sahnede buluşturdu. Etkinliğe Odunpazarı Belediye Başkanı Kazım Kurt da katıldı.
-
-Etkinlikte Doç. Dr. Aysel Kaya, Nihal Elersu Bağcı, İrem Karakaya Kavalcı, Bedriye Berber Engin ve Feyza Çelik Orbay konuşmacı olarak yer aldı. Farklı disiplinlerden gelen konuşmacılar kendi hikâyelerini ve bakış açılarını katılımcılarla paylaştı.
-
-Etkinliğin sonunda kürsüye çıkan Başkan Kurt, kadınların toplumsal yaşamın her alanında güçlenmesinin ve kendi hikâyelerini özgürce anlatabilmesinin önemine dikkat çekti. (Kaynak: Odunpazarı Belediyesi)
-
----
-
-## Manidar grubu Yunus Emre Kültür ve Sanat Merkezi'nde konser verdi
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-26 05:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/manidar-grubu-ndan-odunpazari-nda-unutulmaz-konser)
-
-![](data/images/207bde86e4916b57.jpg)
-
-> Salonu dolduran müzikseverler grubun seslendirdiği ezgilere eşlik etti; konseri Başkan Yardımcısı Sibel Yeşildal de izledi.
-
-Odunpazarı Belediyesi Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçıların kurduğu Manidar grubu, Yunus Emre Kültür ve Sanat Merkezi'nde konser verdi. Konsere müzikseverler yoğun ilgi gösterdi, salonu dolduran dinleyiciler seslendirilen ezgilere eşlik etti.
-
-Konseri Odunpazarı Belediyesi Başkan Yardımcısı Sibel Yeşildal da izledi. Konserin sonunda sahneye çıkan Yeşildal, sanatçılara ve geceye katılan müzikseverlere teşekkür etti. Yeşildal, Manidar grubunun belediyenin Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçılar tarafından kurulmasının önemine dikkat çekti ve kültür-sanat etkinliklerinin artarak süreceğini söyledi. (Kaynak: Odunpazarı Belediyesi)
 
 ---
