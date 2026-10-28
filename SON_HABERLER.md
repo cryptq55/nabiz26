@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz, gösteri uçuşu için Eskişehir'e gelen SOLOTÜRK ekibini kabul etti
+
+**Gündem · Merkez** · 2026-10-28 12:52 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-solo-turk-ekibini-kabul-etti)
+
+![](data/images/0db53705db2bba8f.jpg)
+
+> Vali Erdinç Yılmaz, ekibe gösteri uçuşunda başarılar diledi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, SOLOTÜRK gösteri uçuşu kapsamında Eskişehir'e gelen Hava Pilot Yarbay Murat Bakıcı, Hava Pilot Yarbay M. Erhan Aydemir, Hava Pilot Binbaşı Murat Çakmak, Hava Piyade Yüzbaşı Ş. Alper Şen ve Hava Harekât Astsubay Üstçavuş Muhammed Bölükbaşı'nı kabul etti.
+
+Yılmaz, SOLOTÜRK'ün Türk Hava Kuvvetlerinin gücünü, Türk pilotlarının yeteneğini ve havacılıktaki başarılarını gökyüzünde temsil ettiğini belirtti. Ekibe nazik ziyaretleri için teşekkür eden Yılmaz, gösteri uçuşunda başarılar diledi. (Kaynak: Eskişehir Valiliği)
+
+---
+
 ## Altın fiyatları 28 Ekim 2026: Gram altın 6.525,46 TL
 
 **Ekonomi · Merkez** · 2026-10-28 11:51 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -487,21 +501,5 @@ Güneş enerjisinin kurulu gücü 28 bin 222 megavata, rüzgâr enerjisinin kuru
 Eylül'de aylık elektrik üretimi 31,79 milyar kilovatsaat oldu. Üretimin yüzde 26'sına denk gelen 8,27 milyar kilovatsaati hidrolik kaynaklardan elde edildi.
 
 Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Eylül'de toplam elektrik üretiminin yüzde 70,3'ünü yerli kaynaklarla karşıladıklarını, böylece dışa bağımlılığı yüzde 30'un altına indirdiklerini söyledi. (Kaynak: Enerji ve Tabii Kaynaklar Bakanlığı)
-
----
-
-## AİLEM Engelsiz İletişim Merkezi 335 bin 288 çağrıya çeviri desteği sağladı
-
-**Gündem · Türkiye** · 2026-10-25 10:31 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/ailem-engelsiz-iletisim-merkezi-335-bin-288-cagriya-ceviri-destegi-sagladi/)
-
-![](data/images/a61172c0e11ed8d7.jpg)
-
-> Bakan Göktaş, merkezin 54 bin 788 kayıtlı kullanıcısı olduğunu ve günde ortalama 250-300 çağrıya destek verildiğini açıkladı.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, işitme engelli bireylerin kamu hizmetlerine, bilgiye ve sosyal hayata erişimini kolaylaştırmak için hizmete sunulan AİLEM Engelsiz İletişim Merkezi aracılığıyla bugüne kadar 335 bin 288 çağrının karşılandığını bildirdi.
-
-Göktaş'a göre merkezin 54 bin 788 kayıtlı kullanıcısı bulunuyor. İşitme engelli bireylerin eğitimden istihdama, sağlık hizmetlerinden bankacılık işlemlerine, aile içi iletişimden kamu kurumlarıyla yürütülen işlemlere kadar hayatın her alanında iletişim kurabilmesi için günlük ortalama 250-300 çağrıya destek sağlanıyor.
-
-Merkeze iOS ve Android mobil uygulamaları ile web üzerinden erişilebiliyor. Göktaş, merkezin işitme engelli danışana, hastaya, veliye veya müşteriye ulaşmak isteyen işiten bireylerin de kullanımına açık olduğunu hatırlattı. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
 
 ---
