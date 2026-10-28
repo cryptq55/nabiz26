@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye'de ilk Eskişehir Bal Kabağı Çalıştayı ESOGÜ'de yapıldı
+
+**Tarım · Tepebaşı** · 2026-10-28 06:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebasıbelediyesi’ndenbirilkdahabalkabagıilkkezulusalolcektemasayayatırıldı)
+
+![](data/images/962d312465c8711f.jpg)
+
+> Tepebaşı Belediyesi ve ESOGÜ Ziraat Fakültesi, bal kabağını ulusal ölçekte ele alan ilk çalıştayı düzenledi.
+
+Tepebaşı Belediyesi ile Eskişehir Osmangazi Üniversitesi (ESOGÜ) Ziraat Fakültesi iş birliğinde düzenlenen Eskişehir Bal Kabağı Çalıştayı, bal kabağını ulusal ölçekte ele alan ilk buluşma oldu. Çalıştay ESOGÜ Ali Numan Kıraç Yerleşkesi Prof. Dr. Ali Koç Konferans Salonu'nda yapıldı.
+
+Akademisyenler ve tarımsal araştırma enstitülerinin temsilcileri; bal kabağının genetik kaynaklarını, ıslahını, yetiştiriciliğini ve kırsal kalkınmadaki yerini değerlendirdi. Çalıştaya Geçit Kuşağı Araştırma Enstitüsü Müdürü Ulaş Çınar, Sakarya Mısır Araştırma Enstitüsü Müdürü Mehmet Yılmaz, Eskişehir İl Tarım ve Orman Müdür Yardımcısı Hasan Öz ile Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü'nden Dr. Evran Doğan da katıldı.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, Kızılinler bal kabağının Eskişehir'in kırsal değerlerinden biri olduğunu ve coğrafi işaret tescili taşıdığını hatırlatarak üretimi geliştirmek ve üreticiye daha fazla katkı sunmak istediklerini söyledi. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da bilgilerin paylaşılmasının önemine değindi. Çalıştayın moderatörlüğünü Doç. Dr. Sıtkı Ermiş yaptı; ilk oturumlarda kabak türlerinin tarihsel gelişimi ve ıslah çalışmaları ele alındı. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## 29 Ekim'de Büyükşehir 5 mahalleden tören alanına ücretsiz ring seferleri düzenleyecek
 
 **Ulaşım · Merkez** · 2026-10-27 15:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehir-icin-yeni-karar-ucretsiz-olacak-2420141)
@@ -491,21 +507,5 @@ Bakan, Togg'un günde 375 otomobil üretim hızına ulaştığını açıkladı.
 Açıklamada T6X modelinin önümüzdeki yıl satışa sunulacağı belirtildi. Modelin fiyatı, donanımları, batarya kapasitesi ve menzili ise açıklanmadı.
 
 Kehribar Serisi, çift motorlu ve dört tekerlekten çekişli T10F 4More için hazırlandı ve yedi gövde rengiyle sunuluyor. Kehribar tasarım paketinin fiyatı 100 bin TL olarak açıklandı. (Kaynak: AutoBond)
-
----
-
-## Şimşek: IMF'ye göre Türkiye mali şeffaflıkta yükseldi
-
-**Ekonomi · Türkiye** · 2026-10-25 05:32 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.toplumsal.com.tr/haber/hazine-bakani-simsek-turkiye-nin-mali-seffaflikta-yukseldigini-acikladi_31109/)
-
-![](data/images/c3133a50eaedf9d1.jpg)
-
-> Hazine ve Maliye Bakanı Mehmet Şimşek, IMF'nin Mali Şeffaflık Değerlendirmesi'ni değerlendirdi.
-
-Hazine ve Maliye Bakanı Mehmet Şimşek, IMF'nin Türkiye'ye ilişkin Mali Şeffaflık Değerlendirmesi raporunu değerlendirdi. Şimşek, Türkiye'nin mali şeffaflık derecesinin önemli ölçüde yükseldiğini söyledi.
-
-Bakan'a göre Türkiye, 2015 yılında Mali Şeffaflık Kodu'ndaki ilkelerin yaklaşık yarısında iyi veya ileri uygulama düzeyindeydi; bu oran şimdi üçte ikiye çıktı. Şimşek, bu gelişmeyle Türkiye'nin Birleşik Krallık, Finlandiya, İrlanda, Avusturya ve Portekiz gibi ülkelerin de bulunduğu yaklaşık 40 ülke arasında en üst sıralarda yer aldığını belirtti.
-
-Şimşek, Türkiye'nin mali istatistikler, bütçe yönetimi, mali riskler ve hesap verebilirlik alanlarındaki uygulamalarının IMF tarafından incelendiğini ifade etti. Başarının 20 yılı aşkın süredir süren kurumsal dönüşümün sonucu olduğunu söyleyen Şimşek, mali şeffaflığı artıracak yapısal reform çalışmalarının sürdüğünü vurguladı. (Kaynak: Toplumsal Haber)
 
 ---
