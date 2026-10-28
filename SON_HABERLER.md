@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 28 Ekim 2026: Gram altın 6.525,46 TL
+
+**Ekonomi · Merkez** · 2026-10-28 11:51 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261028.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.454,67 TL'den alınıyor, 6.525,46 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 14.51 itibarıyla verilerine göre gram altının satış fiyatı 6.525,46 TL, alış fiyatı 6.454,67 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,63 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.636 TL, yarım altın 21.265 TL, tam altın 42.393 TL, ata altın 43.219 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.095,59 TL, has altının gram fiyatı 6.505,94 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.046,10 dolardan işlem görürken, dolar/TL 49,89 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.51 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Mahkeme, Alpagut-Atalan altın-gümüş madeni projesinin ÇED olumlu kararını durdurdu
 
 **Gündem · Merkez** · 2026-10-28 11:36 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/eskisehirin-dogasi-icin-kritik-karar-ced-olumlu-karari-durduruldu)
@@ -483,25 +503,5 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, işitme engelli bire
 Göktaş'a göre merkezin 54 bin 788 kayıtlı kullanıcısı bulunuyor. İşitme engelli bireylerin eğitimden istihdama, sağlık hizmetlerinden bankacılık işlemlerine, aile içi iletişimden kamu kurumlarıyla yürütülen işlemlere kadar hayatın her alanında iletişim kurabilmesi için günlük ortalama 250-300 çağrıya destek sağlanıyor.
 
 Merkeze iOS ve Android mobil uygulamaları ile web üzerinden erişilebiliyor. Göktaş, merkezin işitme engelli danışana, hastaya, veliye veya müşteriye ulaşmak isteyen işiten bireylerin de kullanımına açık olduğunu hatırlattı. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
-
----
-
-## Altın fiyatları 25 Ekim 2026: Gram altın 6.471,57 TL
-
-**Ekonomi · Merkez** · 2026-10-25 10:24 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261025.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.389,88 TL'den alınıyor, 6.471,57 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 13.24 itibarıyla verilerine göre gram altının satış fiyatı 6.471,57 TL, alış fiyatı 6.389,88 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın 42.043 TL, ata altın 42.798 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.045,08 TL, has altının gram fiyatı 6.452,21 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 13.24 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
