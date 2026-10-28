@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 28.10.2026 21:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (172 haber; pip kurulumu bu turda yavaştı). Son haber 15:52 TSİ; son 24 saatte yalnız 5 haber (Gündem 2, Tarım/Spor/Ekonomi 1'er; ilçe Merkez 4, Tepebaşı 1), önem 3→3, 4→1, 2→1, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 10 paylaşım (cap 16 altında), 5 Reels.
+**Kaynaklar:** `--collect` bulut IP'sinden 100 sn'de bitmedi (ogu.edu.tr, anahaber.anadolu.edu.tr, enerji.gov.tr tüneli kapandı); ayrıntılı rapor alınamadı. seen.json/images geri alındı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e SoloTürk, maden, mahkeme, gram altın, bisiklet etiketleri (kısa "zam"/"burs" alt dize riski nedeniyle eklenmedi; derleme denendi).
+**Sıradaki 3 fikir:** (1) Cumhuriyet Bayramı özel story/Reels; (2) haftalık "Eskişehir'de bu hafta" bülteni; (3) nöbetçi eczane sayfası.
+SAHİBİNE: Akış günde ~5-12 habere düştü (dün 12, bugün 5); sebep fotoğraf kuralı ve erişilemeyen resmî kaynaklar, kural gevşetilmedi.
+
 ## 28.10.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (168 haber; sistem python3 yerine /usr/bin/python3 gerekti). Son haber 09:33 TSİ; son 24 saatte 9 haber (Gündem 3, Türkiye/Ekonomi/Kültür-Sanat/Belediye/Ulaşım/Tarım 1'er; ilçe Tepebaşı 4, Merkez 3, Odunpazarı/Türkiye 1'er), önem 3→6, 2→3, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 10 paylaşım (cap 16 altında), 4 Reels.
 **Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv., Alpu açılmadı (yurt dışı engeli); Günyüzü bağlantı yok; 452 aday, Google Haberler hedefleri 403/429 → "yetersiz metin". seen.json/images geri alındı.
