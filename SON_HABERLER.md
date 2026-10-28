@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Mahkeme, Alpagut-Atalan altın-gümüş madeni projesinin ÇED olumlu kararını durdurdu
+
+**Gündem · Merkez** · 2026-10-28 11:36 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/eskisehirin-dogasi-icin-kritik-karar-ced-olumlu-karari-durduruldu)
+
+![](data/images/c0cf4a3a88c09d63.jpg)
+
+> Eskişehir 2. İdare Mahkemesi, Büyükşehir Belediyesi'nin açtığı davada yürütmeyi durdurma kararı verdi.
+
+Eskişehir Büyükşehir Belediyesi'nin Alpagut-Atalan Altın-Gümüş Madeni Projesi'ne karşı açtığı davada önemli bir gelişme yaşandı. Eskişehir 2. İdare Mahkemesi, bilirkişi raporunda doğa ve su kaynaklarına yönelik ciddi risklerin ortaya konulmasının ardından, telafisi güç zararlar oluşabileceği değerlendirmesiyle ÇED Olumlu kararının yürütmesini durdurdu.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kararın kentin doğal kaynaklarının korunması açısından büyük önem taşıdığını belirtti. Ünlüce açıklamasında, "Alpagut-Atalan Altın-Gümüş Madeni Projesi'ne karşı açtığımız davada, bilirkişi raporuyla doğamıza ve su kaynaklarımıza yönelik ciddi riskler ortaya konuldu" dedi ve Eskişehir'in suyuna, toprağına ve geleceğine sahip çıkmaya devam edeceklerini söyledi. (Kaynak: Eskişehir Ekspres)
+
+---
+
 ## Yenikent Olimpik Havuzu'nda çocuk yüzme kış spor okulu kayıtları 2 Kasım'da
 
 **Spor · Merkez** · 2026-10-28 08:33 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/305045/olimpik-havuz-cocuk-egitim-yuzme-kayitlari.aspx)
@@ -489,21 +503,5 @@ Ziynet altınlarda çeyrek altın 10.548 TL, yarım altın 21.089 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.998,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 13.24 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Başkan Ataç Yeni Mahalle'de tamamlanan asfalt ve kaldırım çalışmalarını inceledi
-
-**Belediye · Tepebaşı** · 2026-10-25 09:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenimahalle’dehizmetevatandaslardantamnot)
-
-![](data/images/dfe954afbab66fde.jpg)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, mahalle sakinleriyle sohbet etti ve çalışmayı yürüten ekibe baklava ikram etti.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Yeni Mahalle'de Fen İşleri Müdürlüğü ekiplerince yürütülen asfalt ve kaldırım yenileme çalışmalarını yerinde inceledi. Fen İşleri Müdür Vekili Enes Akgün'den çalışmalar hakkında bilgi alan Ataç'a Mahalle Muhtarı Halil Çeltik eşlik etti.
-
-Ataç, mahalle sakinleriyle tek tek sohbet ederek görüş ve taleplerini dinledi. Mahalleliler, tamamlanan asfalt ve kaldırım çalışmalarından memnuniyetlerini dile getirerek Ataç'a ve belediye ekiplerine teşekkür etti. Muhtar Çeltik de mahalleye sunulan hizmetlerden memnun olduğunu belirtti.
-
-Ziyaretin sonunda çalışan asfalt ekibine baklava ikram eden Ataç, "Mahallelerimizin ihtiyaçlarını yerinde görmek, hemşerilerimizin görüşlerini dinlemek bizim için çok önemli. Yeni Mahalle'de asfalt ve kaldırım yenileme çalışmalarımızı tamamladık" dedi. (Kaynak: Tepebaşı Belediyesi)
 
 ---
