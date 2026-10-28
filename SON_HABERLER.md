@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 'Atatürk ve Dünya Çocukları' anıtı açıldı, adını Eskişehirliler anketle belirleyecek
+
+**Kültür-Sanat · Tepebaşı** · 2026-10-28 19:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/ataturkvecocuklarınizieskisehir’inkenthafızasınakazındı)
+
+![](data/images/5f58d5ccc2b51d30.jpg)
+
+> Tepebaşı Belediyesi'nin 18. Pişmiş Toprak Sempozyumu'nda hazırlanan anıtın yapımına 126 kişi emek verdi.
+
+Tepebaşı Belediyesi'nin 18. Uluslararası Eskişehir Pişmiş Toprak Sempozyumu kapsamında kente kazandırdığı "Atatürk ve Dünya Çocukları" temalı kolektif anıt, 29 Ekim Cumhuriyet Bayramı'nın arifesinde törenle açıldı. Tepebaşı Belediye Başkanı Ahmet Ataç'ın ev sahipliğindeki törene Odunpazarı Belediye Başkanı Kazım Kurt, Büyükşehir Belediye Başkan Vekili Vural Yörük, Tepebaşı Kent Konseyi Başkanı Canan Adlım, Prof. Bilgehan Uzuner ve çok sayıda vatandaş katıldı. Bando gösterisiyle başlayan törende Tepebaşı Belediyesi Erken Çocukluk Eğitim Merkezlerindeki çocuklar bayraklarla yer aldı; protokol kurdele keserek anıtı açtı.
+
+Anıtın yapımına 6'sı Türk, 2'si yabancı 8 sanatçı, 90 çocuk, 24 stajyer ve 4 konuk akademisyen, toplam 126 kişi katkı sundu. Sanatçıların hazırladığı çocuk figürleri, çocukların pişmiş topraktan yaptığı çiçeklerle bir araya geldi. Uzuner, tasarımın merkezinde Atatürk'ün siluetinin bulunduğunu, belirli saatlerde ışığın yere de yansıdığını anlattı. Anıt, sempozyumun dördüncü kolektif eseri; daha önce "Varlığınız Sağlığımız Anıtı", "Sonsuz Cumhuriyet Anıtı" ve Yazılıkaya'dan esinlenen eser kente kazandırılmıştı.
+
+Ataç, sempozyumun 25 yıllık birikiminde 236 sanatçının katıldığını, yaklaşık 700 güzel sanatlar öğrencisinin yer aldığını, Eskişehir'e 244 pişmiş toprak heykel kazandırıldığını ve 400 bildirinin sunulduğunu söyledi. Anıtın adı, "Cumhuriyet'in Çocukları", "Atatürk'ün Çiçekleri", "Atatürk'ün Dünya Çocukları" ve "Atatürk'ün Çiçek Bahçesi" seçenekleriyle halk oylamasına sunulacak. (Kaynak: Tepebaşı Belediyesi)
+
+---
+
 ## Vali Yılmaz, gösteri uçuşu için Eskişehir'e gelen SOLOTÜRK ekibini kabul etti
 
 **Gündem · Merkez** · 2026-10-28 12:52 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-solo-turk-ekibini-kabul-etti)
@@ -483,23 +499,5 @@ Etkinliğin sonunda kürsüye çıkan Başkan Kurt, kadınların toplumsal yaşa
 Odunpazarı Belediyesi Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçıların kurduğu Manidar grubu, Yunus Emre Kültür ve Sanat Merkezi'nde konser verdi. Konsere müzikseverler yoğun ilgi gösterdi, salonu dolduran dinleyiciler seslendirilen ezgilere eşlik etti.
 
 Konseri Odunpazarı Belediyesi Başkan Yardımcısı Sibel Yeşildal da izledi. Konserin sonunda sahneye çıkan Yeşildal, sanatçılara ve geceye katılan müzikseverlere teşekkür etti. Yeşildal, Manidar grubunun belediyenin Kültür ve Sanat Sosyal İşler Müdürlüğü bünyesindeki sanatçılar tarafından kurulmasının önemine dikkat çekti ve kültür-sanat etkinliklerinin artarak süreceğini söyledi. (Kaynak: Odunpazarı Belediyesi)
-
----
-
-## Türkiye'nin elektrik kurulu gücü Eylül sonunda 127 bin 355 megavata ulaştı
-
-**Ekonomi · Türkiye** · 2026-10-25 10:31 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31953)
-
-![](data/images/5e2a1650fad83c73.jpg)
-
-> Yenilenebilir kaynakların payı yüzde 63,1'e çıktı; Bakan Bayraktar yerli kaynakların payını vurguladı.
-
-Türkiye'nin elektrik kurulu gücü, 2026 Eylül ayı sonu itibarıyla 127 bin 355 megavata ulaştı. Yenilenebilir kaynaklı kurulu güç 80 bin 315 megavata çıktı; yenilenebilirin toplam kurulu güç içindeki payı yüzde 63,1, yerli kaynakların payı ise yüzde 72,1 oldu.
-
-Güneş enerjisinin kurulu gücü 28 bin 222 megavata, rüzgâr enerjisinin kurulu gücü 15 bin 540 megavata yükseldi. İki kaynağın toplam kurulu gücü 43 bin 762 megavata, toplam içindeki payı yüzde 34,4'e çıktı.
-
-Eylül'de aylık elektrik üretimi 31,79 milyar kilovatsaat oldu. Üretimin yüzde 26'sına denk gelen 8,27 milyar kilovatsaati hidrolik kaynaklardan elde edildi.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Eylül'de toplam elektrik üretiminin yüzde 70,3'ünü yerli kaynaklarla karşıladıklarını, böylece dışa bağımlılığı yüzde 30'un altına indirdiklerini söyledi. (Kaynak: Enerji ve Tabii Kaynaklar Bakanlığı)
 
 ---
