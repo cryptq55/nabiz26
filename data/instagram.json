@@ -213,7 +213,8 @@
   "202610271133-tepebasinin-minik-piyanistleri-ozdilek-sanat-merkezinde-konser-verdi",
   "202610271258-kursunlu-kulliyesi-icin-tahliye-tarihi-3-kasim-kurt-yurutmeyi-durdurma",
   "202610271257-buyuksehirin-muze-ve-tesisleri-28-29-ekimde-acik-halk-ekmek-29-ekimde-",
-  "202610271505-29-ekimde-buyuksehir-5-mahalleden-toren-alanina-ucretsiz-ring-seferler"
+  "202610271505-29-ekimde-buyuksehir-5-mahalleden-toren-alanina-ucretsiz-ring-seferler",
+  "202610280633-turkiyede-ilk-eskisehir-bal-kabagi-calistayi-esogude-yapildi"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -273,12 +274,10 @@
   "202610270632-4-kizilinler-bal-kabagi-panayirina-binlerce-eskisehirli-katildi",
   "202610271116-altin-fiyatlari-27-ekim-2026-gram-altin-6-453-36-tl",
   "202610271258-kursunlu-kulliyesi-icin-tahliye-tarihi-3-kasim-kurt-yurutmeyi-durdurma",
-  "202610271505-29-ekimde-buyuksehir-5-mahalleden-toren-alanina-ucretsiz-ring-seferler"
+  "202610271505-29-ekimde-buyuksehir-5-mahalleden-toren-alanina-ucretsiz-ring-seferler",
+  "202610280633-turkiyede-ilk-eskisehir-bal-kabagi-calistayi-esogude-yapildi"
  ],
  "log": [
-  1793061525.4053104,
-  1793079483.7217855,
-  1793079500.8296978,
   1793093870.5287209,
   1793093888.4706428,
   1793100165.6389492,
@@ -288,14 +287,15 @@
   1793106297.020011,
   1793113882.9839485,
   1793113899.0025237,
-  1793113915.1960115
+  1793113915.1960115,
+  1793169488.0682273,
+  1793169508.9053273
  ],
  "reel_log": [
-  1793061525.405312,
-  1793079483.7217877,
   1793093870.528723,
   1793100165.6389506,
   1793106248.1890714,
-  1793113882.9839506
+  1793113882.9839506,
+  1793169488.068229
  ]
 }
