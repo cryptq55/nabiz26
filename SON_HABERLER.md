@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yenikent Olimpik Havuzu'nda çocuk yüzme kış spor okulu kayıtları 2 Kasım'da
+
+**Spor · Merkez** · 2026-10-28 08:33 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/305045/olimpik-havuz-cocuk-egitim-yuzme-kayitlari.aspx)
+
+![](data/images/458b5eb9df45e026.jpg)
+
+> 7-17 yaş grubu için 8 haftalık, 16 derslik eğitimlerin kaydı 2 Kasım Pazartesi 08.00-17.00 arasında alınacak.
+
+Eskişehir Gençlik ve Spor İl Müdürlüğü, Yenikent Olimpik Yüzme Havuzu'ndaki ücretli kış spor okulu çocuk eğitim kayıtlarının 2 Kasım 2026 Pazartesi günü 08.00-17.00 saatleri arasında alınacağını duyurdu. Kayıtlar saat 08.00'de başlayacak. Eğitimler 8 hafta, yani 16 ders sürecek.
+
+Kayıt, 2011-2019 doğumlu, yüzme bilen ve bilmeyen çocuklar için yapılacak. Kayıt sırasında kimlik ibrazı zorunlu; anne, baba ve reşit kardeş dışındaki kişilerin yaptıracağı kayıtlar alınmayacak. Kayıt formuna katılmak istenen grubun numarası yazılmalı. Duyuruya göre ücretler ön kayıt işlemi yapıldıktan sonra yatırılacak, elden veya kredi kartıyla ücret alınmayacak ve kayıt işleminden önce herhangi bir IBAN numarasına ücret yatırılmaması gerekiyor.
+
+Ücret, 07-17 yaş grubu için tek çocukta 1750 TL, iki kardeşte kişi başı 1600 TL, üç kardeşte kişi başı 1450 TL; her durumda 50 TL kart ücreti ekleniyor. Üyeliğini iptal etmek isteyenlerin durumlarını belgelendirmesi gerekiyor; ücret iadesi yapılmayacak, ücret hakkı iptal edilen kayıt döneminden itibaren 2 kayıt dönemi içinde kullanılabilecek. Eğitim başladıktan sonra grup değişikliği yapılmayacak. (Kaynak: Eskişehir Gençlik ve Spor İl Müdürlüğü)
+
+---
+
 ## Türkiye'de ilk Eskişehir Bal Kabağı Çalıştayı ESOGÜ'de yapıldı
 
 **Tarım · Tepebaşı** · 2026-10-28 06:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebasıbelediyesi’ndenbirilkdahabalkabagıilkkezulusalolcektemasayayatırıldı)
@@ -489,23 +505,5 @@ Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Yeni Mahalle'de Fen İşleri Müd
 Ataç, mahalle sakinleriyle tek tek sohbet ederek görüş ve taleplerini dinledi. Mahalleliler, tamamlanan asfalt ve kaldırım çalışmalarından memnuniyetlerini dile getirerek Ataç'a ve belediye ekiplerine teşekkür etti. Muhtar Çeltik de mahalleye sunulan hizmetlerden memnun olduğunu belirtti.
 
 Ziyaretin sonunda çalışan asfalt ekibine baklava ikram eden Ataç, "Mahallelerimizin ihtiyaçlarını yerinde görmek, hemşerilerimizin görüşlerini dinlemek bizim için çok önemli. Yeni Mahalle'de asfalt ve kaldırım yenileme çalışmalarımızı tamamladık" dedi. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Bakan Kacır: Togg günde 375 otomobil üretiyor, T6X önümüzdeki yıl satışta
-
-**Türkiye · Türkiye** · 2026-10-25 08:31 UTC · Kaynak: [Google Haberler - Togg](https://www.autobond.tr/haberler/togg-t6x-kacir-gunluk-375-uretim/)
-
-![](data/images/5a8296c029667818.jpg)
-
-> Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaretinin ardından üretim hızını açıkladı.
-
-Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Togg Üretim ve Teknoloji Kampüsü'nü ziyaret etti. Kacır, Togg T6X ile T10F 4More Kehribar Serisi'ne yönelik çalışmaları incelediklerini belirtti.
-
-Bakan, Togg'un günde 375 otomobil üretim hızına ulaştığını açıkladı. Kacır'a göre tesis, 10 çalışana 1 endüstriyel robot ortalamasıyla otomotiv sektörünün en dijital altyapısına sahip tesisi konumunda.
-
-Açıklamada T6X modelinin önümüzdeki yıl satışa sunulacağı belirtildi. Modelin fiyatı, donanımları, batarya kapasitesi ve menzili ise açıklanmadı.
-
-Kehribar Serisi, çift motorlu ve dört tekerlekten çekişli T10F 4More için hazırlandı ve yedi gövde rengiyle sunuluyor. Kehribar tasarım paketinin fiyatı 100 bin TL olarak açıklandı. (Kaynak: AutoBond)
 
 ---
