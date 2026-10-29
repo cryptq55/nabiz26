@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Cumhuriyet coşkusu: kortej, konserler ve EKO-ŞOV
+
+**Gündem · Tepebaşı** · 2026-10-29 12:44 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacklasikaracıylacoskuyaortakoldu)
+
+![](data/images/52b1a034f85b1382.jpg)
+
+> Başkan Ataç klasik aracıyla kortejde yer aldı; Özgenur Altaş ve Soup Opera konser verdi.
+
+Tepebaşı Belediyesi'nin Cumhuriyet'in 103. yılı için düzenlediği etkinlikler büyük katılımla gerçekleşti. Başkan Ahmet Ataç, kendi kullandığı klasik otomobille Cumhuriyet Korteji'ne katılarak vatandaşları selamladı.
+
+Kutlamalar 28 Ekim Çarşamba günü saat 17.30'da Şarhöyük Mahallesi Cumhuriyet Meydanı'ndan hareket eden kortejle başladı. Tepebaşı Belediyesi yanındaki açık otoparkta sona eren korteje Eskişehir Motosiklet Grubu 26, MOSEF, Vosbağa Eskişehir, Vos 26 Eskişehir, Yol Savaşçıları Türkiye ve Demir Pençe 26 Eskişehir motosikletleri ve klasik araçlarıyla destek verdi.
+
+Kortejin ardından aynı alanda konserler yapıldı. Saat 19.00'da Özgenur Altaş, saat 20.00'de Soup Opera sahne aldı. Kutlamaların finali ise 29 Ekim Perşembe günü Espark AVM önünde gerçekleştirilen EKO-ŞOV gösterisi oldu.
+
+Başkan Ataç, etkinliklerin ardından yaptığı değerlendirmede, "Biz Cumhuriyet'in çocuklarıyız. Büyük Önderimiz Mustafa Kemal Atatürk'ün bizlere emanet ettiği Cumhuriyet, en büyük ortak değerimizdir" dedi. Etkinliklere katılan hemşerilerine teşekkür eden Ataç, "Tepebaşı, Cumhuriyetine, Atatürk'üne ve aydınlık yarınlarına yürekten sahip çıkıyor" ifadesini kullandı.
+
+---
+
 ## Altın fiyatları 29 Ekim 2026: Gram altın 6.488,18 TL
 
 **Ekonomi · Merkez** · 2026-10-29 11:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -491,21 +509,5 @@ OYSS, okul geneli ortak yazılı sınavların hazırlanması, uygulanması ve de
 2026-2027 eğitim öğretim yılında OYSS, ortaokul 5, 6 ve 7. sınıflarda Türkçe, matematik, fen bilimleri, sosyal bilgiler, din kültürü ve ahlak bilgisi ile İngilizce derslerinde; lise 9, 10 ve 11. sınıflarda Türk dili ve edebiyatı, matematik, fizik, kimya, biyoloji, tarih, coğrafya, din kültürü ve ahlak bilgisi, felsefe ve İngilizce derslerinde uygulanacak.
 
 Sistemin kullanımına yönelik bilgilendirme ve eğitim çalışmaları 19-23 Ekim 2026'da tamamlandı. Öğretmenler sistem üzerinde deneme uygulamaları yapabiliyor. (Kaynak: Eskişehir İl Milli Eğitim Müdürlüğü)
-
----
-
-## Ankara Pursaklar'da Mehmet Akif Ersoy Çocuk Evleri Sitesi açıldı: 80 çocuk kapasitesi
-
-**Türkiye · Türkiye** · 2026-10-26 12:42 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-mahinur-ozdemir-goktas-mehmet-akif-ersoy-cocuk-evleri-sitesinin-acilis-toreninde-konustu/)
-
-![](data/images/09d91872813fad25.jpg)
-
-> Bakan Göktaş, tesisin açılışında koruma ve bakım altındaki çocuk sayılarını açıkladı.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara Pursaklar'daki Mehmet Akif Ersoy Çocuk Evleri Sitesi'nin açılış töreninde konuştu. Göktaş, tesisin hayata geçirilmesinde sağladığı iş birliği nedeniyle UNICEF'e teşekkür etti.
-
-Göktaş'ın verdiği bilgiye göre site 0-6 yaş grubundaki kız ve erkek çocuklara ile 7-12 yaş grubundaki kız çocuklarına hizmet verecek. 80 çocuk kapasitesiyle planlanan site, 8 villa tipi yaşam birimi, bir sosyal bina ve bir idari binadan oluşuyor. Kuruluş 14 Ekim'de kapılarını açtı ve 40 kız çocuğu yeni hayatlarına bu evlerde başladı.
-
-Bakan, koruma ve bakım altındaki 15 bin 174 çocuğun barınma, eğitim, sağlık ve psikososyal gelişiminin takip edildiğini söyledi. Göktaş'a göre 11 bin 72 çocuk 9 bin 327 koruyucu ailenin yanında büyüyor; sosyal ve ekonomik destek hizmetiyle 199 bin 889 çocuğun ailesinin yanında büyümesine katkı sağlanıyor. Ankara'da ise 6 bin 754 çocuğun ailesinin yanında büyümesi destekleniyor, 507 çocuğa koruyucu aile hizmeti, 1560 çocuğa kuruluşlarda bakım hizmeti sunuluyor. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
 
 ---
