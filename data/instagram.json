@@ -227,7 +227,8 @@
   "202610290731-erdogandan-cumhuriyet-bayrami-video-mesaji-turkiye-bugun-dunden-daha-g",
   "202610290931-cumhuriyetin-103-yilinda-devlet-erkani-anitkabirde",
   "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl",
-  "202610291244-tepebasinda-cumhuriyet-coskusu-kortej-konserler-ve-eko-sov"
+  "202610291244-tepebasinda-cumhuriyet-coskusu-kortej-konserler-ve-eko-sov",
+  "202610291345-eskisehirde-cumhuriyetin-103-yil-donumu-toreni-ataturk-bulvarinda-yapi"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -299,11 +300,10 @@
   "202610271257-buyuksehirin-muze-ve-tesisleri-28-29-ekimde-acik-halk-ekmek-29-ekimde-",
   "202610281933-ataturk-ve-dunya-cocuklari-aniti-acildi-adini-eskisehirliler-anketle-b",
   "202610271032-tepebasinda-cumhuriyet-bayrami-kortej-ucretsiz-konser-ve-eko-sov-ile-k",
-  "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl"
+  "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl",
+  "202610291345-eskisehirde-cumhuriyetin-103-yil-donumu-toreni-ataturk-bulvarinda-yapi"
  ],
  "log": [
-  1793192342.2139213,
-  1793192364.3727434,
   1793216368.3629377,
   1793216386.368864,
   1793219887.0676873,
@@ -316,12 +316,14 @@
   1793275500.3055835,
   1793275517.2906263,
   1793275533.951817,
-  1793278156.4815738
+  1793278156.4815738,
+  1793281877.7791164,
+  1793281893.697163
  ],
  "reel_log": [
-  1793192342.213923,
   1793216368.3629394,
   1793219887.0676892,
-  1793275481.1207228
+  1793275481.1207228,
+  1793281877.7791176
  ]
 }
