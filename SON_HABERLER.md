@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Tekin'den Cumhuriyet Bayramı mesajı: "Eğitim en sağlam dayanağımız"
+
+**Eğitim · Türkiye** · 2026-10-29 06:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin039in-29-ekim-cumhuriyet-bayrami-mesaji/haber/42330/tr)
+
+![](data/images/86d1f3c6624edaab.jpg)
+
+> Bakan Tekin, Cumhuriyet'in 103. yılında Maarif Modeli'ne ve öğretmenlere vurgu yaptı.
+
+Millî Eğitim Bakanı Yusuf Tekin, Cumhuriyet'in ilanının 103. yıl dönümü dolayısıyla bir mesaj yayımladı. Tekin, mesajında yurdun dört bir yanındaki vatandaşların, Kıbrıs Türk halkının, yurt dışında yaşayanların ve bütün eğitim camiasının 29 Ekim Cumhuriyet Bayramı'nı kutladı.
+
+Bakan Tekin, bu özel günün milletin birliğini ve kardeşliğini güçlendirmesini, ülke ve bütün insanlık için huzura ve barışa vesile olmasını diledi. Cumhuriyet'in banisi Gazi Mustafa Kemal Atatürk'ü, Millî Mücadele'yi yöneten Gazi Meclis'in mensuplarını ve bu mücadelenin bütün kahramanlarını şükranla andığını belirtti; şehitleri rahmetle, gazileri minnetle andı.
+
+Tekin, Cumhuriyet'in ikinci yüzyılının şafağında Cumhurbaşkanı'nın işaret ettiği Türkiye Yüzyılı hedeflerine millet olarak omuz verdiklerini söyledi. Bu hedefin en sağlam dayanağının eğitim, en büyük güvencesinin ise iyi yetişmiş nesiller olduğunu vurguladı. Türkiye Yüzyılı Maarif Modeli'ni bu bilinçle hayata geçirdiklerini, modelle millî ve manevi değerlerine bağlı, tarihine ve kültürüne vâkıf, hür düşünen, muhakeme eden ve üreten nesiller yetiştirmeyi amaçladıklarını ifade etti.
+
+Mesajında öğretmenlere de seslenen Tekin, onları eğitim idealini yaşatan "cumhuriyet neferleri" olarak niteledi ve "Hakkınız ödenmez" dedi.
+
+---
+
 ## Erdoğan, ABD Başkanı Trump ile telefonda görüştü
 
 **Türkiye · Türkiye** · 2026-10-29 02:31 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama28-10-26)
@@ -485,23 +503,5 @@ Odunpazarı Belediye Başkanı Kazım Kurt, ES TV'de yayınlanan Günaydın Eski
 Kurt'un anlattığına göre, 20 Kasım 2025'te yürürlüğe giren 7565 sayılı Kanun'un geçici 15'inci maddesi kapsamında kira sözleşmelerinin uzatılması için başvuruda bulundular ancak yanıt alamadılar. Bunun üzerine kiracılık durumlarının tespiti ve ilgili yasal düzenlemeden yararlanma talebiyle yeni bir dava açtılar. Kurt, Vakıflar tarafından tahliye kararının yeniden tebliğ edildiğini ve bu işleme karşı da dava açtıklarını belirtti.
 
 Kurt, külliyede lületaşı müzesi, fotoğraf makineleri müzesi, fotoğraf atölyesi, ahşap eserler müzesi, ahşap atölyesi, cam fırını ve cam atölyesinin bulunduğunu hatırlattı. Külliyede Vakıfların verdiği yetkiyle kiralanan yaklaşık 20-25 küçük işletmede Eskişehirli kadın girişimcilerin el işi ürünlerinin satıldığını söyleyen Kurt, tahliyenin hem ekonomik faaliyetlere hem kültürel üretime zarar verebileceğini savundu. Özellikle ahşap eserler müzesindeki çalışmaların zarar görmesinden endişe duyduğunu ifade etti. (Kaynak: Anadolu Gazetesi)
-
----
-
-## Bakan Göktaş il müdürlerinden bakım kuruluşlarında habersiz denetim istedi
-
-**Türkiye · Türkiye** · 2026-10-26 07:32 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goktastan-il-mudurlerine-sahada-aktif-yonetim-ve-habersiz-denetim-talimati/)
-
-![](data/images/7b22b8484c4831c8.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Göktaş, 81 il müdürüyle yıllık değerlendirme toplantısı yaptı.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara'da Bakanlığın 81 il müdürüyle yıllık değerlendirme toplantısında bir araya geldi. Göktaş, çocuk, yaşlı ve engelli bireylerin bakımını üstlenen kuruluşların büyük bir hassasiyetle takip edilmesini ve titizlikle denetlenmesini istedi.
-
-Aile ve Nüfus 10 Yılı'nı Bakanlığın tüm hizmet alanlarını ortak bir gelecek perspektifinde buluşturan stratejik bir süreç olarak gördüklerini belirten Göktaş, il müdürlerinden yerel öncelikleri bu doğrultuda belirlemelerini istedi.
-
-Göktaş, nisandan itibaren 81 ilde kadına yönelik şiddet ve çocukların suça sürüklenmesi sosyal risk haritalarındaki yüksek riskli hanelerin ziyaret edildiğini, hane ziyaretlerinin yüzde 69,94'ünün tamamlandığını söyledi. Yüksek riskli hanelerin üç ay sonra yeniden ziyaret edilmesinin önemine dikkat çekti.
-
-Bakan, il müdürlerinden sahada aktif, vatandaşla doğrudan temas kuran ve ulaşılabilir yöneticiler olmalarını istedi. Göktaş, sahada karşılaşılan sorunların valilik koordinasyonunda çözülmesini, çözülemeyenlerin gecikmeden Bakanlığa iletilmesini de belirtti. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
 
 ---
