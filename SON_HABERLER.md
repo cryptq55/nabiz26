@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan'dan Cumhuriyet Bayramı video mesajı: "Türkiye bugün dünden daha güçlü"
+
+**Türkiye · Türkiye** · 2026-10-29 07:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-29-10-26)
+
+![](data/images/bc54be2e396113f6.jpg)
+
+> Cumhurbaşkanı Erdoğan, Cumhuriyet'in 103. yılında video mesaj yayımladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla video mesaj yayımladı. Cumhuriyet'in kuruluşunun 103. yıl dönümünün büyük bir gurur ve coşkuyla kutlandığını belirten Erdoğan, vatandaşların, Kıbrıs Türkü kardeşlerin ve dünyanın farklı yerlerinde yaşayan Türklerin bayramını tebrik etti.
+
+Erdoğan, Türkiye'nin yakın çevresinde ve dünyanın farklı yerlerinde savaşların, çatışmaların ve krizlerin yaşandığı zor bir dönemde istikrarını koruduğunu, anlaşmazlıkların çözümü için de sorumluluk aldığını söyledi.
+
+Cumhuriyet'i Türk milletinin bağımsızlık iradesinin ve hür yaşama kararlılığının en güçlü nişanesi olarak niteleyen Erdoğan, Gazi Mustafa Kemal önderliğindeki Millî Mücadele'nin, birlik ve beraberlik içinde kenetlenen bir milletin en zor şartlarda neleri başarabileceğini dünyaya gösterdiğini belirtti. Son 24 yılda savunma sanayisinden enerjiye, ulaştırmadan diplomasiye uzanan alanlarda katedilen mesafeyi "müessir ve müreffeh Türkiye'ye giden yolun kilometre taşları" olarak gördüklerini ifade etti.
+
+"Dünyada barış, bölgede barış ve yurtta barış" şiarıyla barış ve adalet için gayret göstermeye devam edeceklerini söyleyen Erdoğan, Türkiye Yüzyılı hedefini hayata geçireceklerini belirtti. Erdoğan, "Türkiye hamdolsun bugün dünden daha güçlüdür" ifadesini kullandı.
+
+Mesajın sonunda Atatürk'ü, silah arkadaşlarını, Millî Mücadele kahramanlarını ve şehitleri rahmetle andı, gazilere şükranlarını sundu.
+
+---
+
 ## Bakan Tekin'den Cumhuriyet Bayramı mesajı: "Eğitim en sağlam dayanağımız"
 
 **Eğitim · Türkiye** · 2026-10-29 06:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin039in-29-ekim-cumhuriyet-bayrami-mesaji/haber/42330/tr)
@@ -487,21 +507,5 @@ Ziynet altınlarda çeyrek altın 10.556 TL, yarım altın 21.105 TL, tam altın
 Uluslararası piyasalarda altının onsu 4.019,00 dolardan işlem görürken, dolar/TL 49,81 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 14.53 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Kazım Kurt: Kurşunlu Külliyesi'ndeki tahliye için hukuki süreç sürüyor
-
-**Belediye · Odunpazarı** · 2026-10-26 10:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/kazim-kurt-tan-kursunlu-kulliyesi-icin-uyari--eserler-yok-olabilir--297015.html)
-
-![](data/images/64e954c529fd431d.jpg)
-
-> Odunpazarı Belediye Başkanı Kurt, ES TV'de dava ve kira sözleşmesi sürecini anlattı; Vakıflar tarafı bu haberde görüş bildirmedi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, ES TV'de yayınlanan Günaydın Eskişehir programında Kurşunlu Külliyesi'nin tahliye süreci ve Vakıflar Bölge Müdürlüğü ile yaşanan hukuki uyuşmazlık hakkında konuştu. Kurt, Eskişehir'de açtıkları davayı kaybettiklerini, dosyanın Bursa'da istinaf aşamasında olduğunu ve tahliyenin durdurulması için hukuki girişimlerin sürdüğünü söyledi.
-
-Kurt'un anlattığına göre, 20 Kasım 2025'te yürürlüğe giren 7565 sayılı Kanun'un geçici 15'inci maddesi kapsamında kira sözleşmelerinin uzatılması için başvuruda bulundular ancak yanıt alamadılar. Bunun üzerine kiracılık durumlarının tespiti ve ilgili yasal düzenlemeden yararlanma talebiyle yeni bir dava açtılar. Kurt, Vakıflar tarafından tahliye kararının yeniden tebliğ edildiğini ve bu işleme karşı da dava açtıklarını belirtti.
-
-Kurt, külliyede lületaşı müzesi, fotoğraf makineleri müzesi, fotoğraf atölyesi, ahşap eserler müzesi, ahşap atölyesi, cam fırını ve cam atölyesinin bulunduğunu hatırlattı. Külliyede Vakıfların verdiği yetkiyle kiralanan yaklaşık 20-25 küçük işletmede Eskişehirli kadın girişimcilerin el işi ürünlerinin satıldığını söyleyen Kurt, tahliyenin hem ekonomik faaliyetlere hem kültürel üretime zarar verebileceğini savundu. Özellikle ahşap eserler müzesindeki çalışmaların zarar görmesinden endişe duyduğunu ifade etti. (Kaynak: Anadolu Gazetesi)
 
 ---
