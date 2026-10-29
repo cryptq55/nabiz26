@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Cumhuriyet'in 103. yılında devlet erkanı Anıtkabir'de
+
+**Türkiye · Türkiye** · 2026-10-29 09:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-baskanligindaki-devlet-erkani-anitkabiri-ziyaret-etti-29-10-26)
+
+![](data/images/2b9848b250408058.jpg)
+
+> Cumhurbaşkanı Erdoğan başkanlığındaki devlet erkanı Anıtkabir'i ziyaret etti, Özel Defter'e not yazdı.
+
+29 Ekim Cumhuriyet Bayramı ve Cumhuriyet'in ilanının 103. yıl dönümü kutlamalarının ilk töreni Anıtkabir'de düzenlendi. Tören, devlet erkanının Aslanlı Yol'da yürüyüşüyle başladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığındaki kortejde TBMM Başkanı Numan Kurtulmuş, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeni Parti Genel Başkanı Özgür Özel, MHP Genel Başkanı Devlet Bahçeli, CHP Genel Başkanı Kemal Kılıçdaroğlu, İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Kabine üyeleri, yüksek yargı organlarının başkanları, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, kuvvet komutanları, siyasi partilerin temsilcileri ve diğer devlet erkanı yer aldı.
+
+Erdoğan, üzerinde ay yıldız bulunan çelengi Atatürk'ün mozolesine bıraktı. Ardından saygı duruşunda bulunuldu ve İstiklal Marşı okundu. Erdoğan ve beraberindekiler daha sonra Misak-ı Millî Kulesi'ne geçti.
+
+Erdoğan, burada Anıtkabir Özel Defteri'ne yazdığı notta Atatürk'ü, silah arkadaşlarını ve şehitleri şükranla andı. Notunda "Türkiye Cumhuriyeti'ni, devleti ve milletiyle birlikte müreffeh ve muzaffer yarınlara ulaştırmak için farklı cephelerde yoğun bir mücadele içindeyiz" ifadesini kullanan Erdoğan, Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışmayı sürdüreceklerini yazdı.
+
+---
+
 ## Erdoğan'dan Cumhuriyet Bayramı video mesajı: "Türkiye bugün dünden daha güçlü"
 
 **Türkiye · Türkiye** · 2026-10-29 07:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-29-10-26)
@@ -487,25 +505,5 @@ Uygulama, Eylül 2025'te doğum yardımı ödemeleriyle başladı. 1 Temmuz 2026
 Bugüne kadar 3 milyon 580 bin Ailekart dağıtıldı. Eylül 2025'ten bu yana doğum yardımı kapsamında 24 milyar 173 milyon 107 bin 900 lira, Temmuz 2026'dan itibaren düzenli sosyal yardımlar kapsamında ise 31 milyar 839 milyon 443 bin 314 lira ödeme yapıldı.
 
 Ailekart sahipleri ödemelerini kamu bankalarının ortak kullanıma açık ATM'lerinden alabiliyor. Bakanlığa göre önümüzdeki günlerde anlaşmalı iş yerlerinde sunulacak indirimlerden de yararlanabilecekler. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
-
----
-
-## Altın fiyatları 26 Ekim 2026: Gram altın 6.476,45 TL
-
-**Ekonomi · Merkez** · 2026-10-26 11:53 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261026.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.408,61 TL'den alınıyor, 6.476,45 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.53 itibarıyla verilerine göre gram altının satış fiyatı 6.476,45 TL, alış fiyatı 6.408,61 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,31 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.556 TL, yarım altın 21.105 TL, tam altın 42.075 TL, ata altın 42.895 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.049,66 TL, has altının gram fiyatı 6.457,08 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.019,00 dolardan işlem görürken, dolar/TL 49,81 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.53 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
