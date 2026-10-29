@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 29.10.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (182 haber; ilk denemeler zaman aşımına uğradı, venv ile 280 sn'de bitti). Son haber 16:45 TSİ (Cumhuriyet töreni); son 24 saatte 10 haber (Türkiye 3, Gündem 3, Spor/Eğitim/Ekonomi/Kültür-Sanat 1'er; ilçe Tepebaşı 4, Türkiye 4, Merkez 2), önem 3→7, 2→3, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 15 paylaşım (cap 16), 4 Reels.
+**Kaynaklar:** `--collect` bulut IP'sinden 100 sn içinde bitmedi (zaman aşımı), rapor alınamadı. seen.json/images geri alındı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Porsuk, lületaşı, Odunpazarı evleri, çibörek, hızlı tren, Öğretmenler Günü, Kasım, kış hazırlığı etiketleri (derleme denendi).
+**Sıradaki 3 fikir:** (1) haftalık "Eskişehir'de bu hafta" bülteni; (2) nöbetçi eczane sayfası; (3) 10 Kasım anma story'si.
+SAHİBİNE: yok.
+
 ## 29.10.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (177 haber). Son haber 09:31 TSİ; son 24 saatte 10 haber (Gündem 3, Spor 2, Eğitim/Türkiye/Kültür-Sanat/Ekonomi/Tarım 1'er; ilçe Tepebaşı 4, Merkez 4, Türkiye 2), önem 3→6, 2→3, 4→1, `reel` 0, fotoğrafsız 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 7.
 **Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv. açılmadı; Günyüzü bağlantı yok; 320 aday, Google Haberler hedefleri 403/429 → "yetersiz metin". seen.json/images geri alındı.
