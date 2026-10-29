@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor, Iğdır FK'yı 90+7'de eledi: Türkiye Kupası'nda 4. tura çıktı
+
+**Spor · Merkez** · 2026-10-29 20:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirspor-907de-turu-kapti)
+
+![](data/images/89014870fa4ae4fa.jpg)
+
+> Kırmızı-siyahlılar Kerem Baykuş'un son dakika golüyle Ziraat Türkiye Kupası'nda tur atladı.
+
+Ziraat Türkiye Kupası 3. Eleme Turu'nda Alagöz Holding Iğdır FK'yı konuk eden Eskişehirspor, Kerem Baykuş'un 90+7. dakikada attığı golle rakibini 1-0 yendi ve 4. eleme turuna yükseldi.
+
+Karşılaşma, 29 Ekim Cumhuriyet Bayramı'nda Prof. Dr. Fethi Heper Stadyumu'nda oynandı. İlk yarı golsüz sona erdi, ikinci yarıda da uzun süre gol çıkmadı. Eskişehirspor'da Kerem Baykuş, duran toptan attığı golle takımına tur biletini getirdi.
+
+Maç öncesinde tribünlerde Cumhuriyet Bayramı coşkusu yaşandı. Türk bayraklarıyla donatılan tribünlerde taraftarlar, Bando Es Es'in çaldığı marşlarla Cumhuriyet'in 103. yılını kutladı.
+
+Maçın kadrosu: Eskişehirspor: Kaan Çinkaya, Ertuğrul Kurtuluş, İsmail Kulet, Emre Sarıkaya, Sarper Çağlar, Ozan İsmail Koç, Mert Başer, Emre Tangeldi, Fırat Sarı, Atalay Yıldırım, Osman Arslantaş. Hakemler Raşit Yorgancılar, Mehmet Şengül ve Mehmet Ali Vardar'dı. Eskişehirspor'da Emre Tangeldi, Fırat Sarı ve Sarper Çağlar; Iğdır FK'da Alperen Selvi, Devran Şenyurt ve Ahmet Köse sarı kart gördü.
+
+---
+
 ## Eskişehir'de Cumhuriyet'in 103. yıl dönümü töreni Atatürk Bulvarı'nda yapıldı
 
 **Gündem · Merkez** · 2026-10-29 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ve-esi-doc-dr-senay-yilmaz-hanimefendi-cumhuriyetimizin-103-yil-donumu-torenine-katildi)
@@ -497,19 +515,5 @@ Eskişehir Valiliği'nin paylaştığı programa göre Cumhuriyet Bayramı kutla
 28 Ekim: İlköğretim öğrencileri ETİ Arkeoloji Müzesi'ni 08.00-17.00 arasında ücretsiz gezebilecek. 10.00'da Hava Şehitliği'nde şehitlik ziyareti yapılacak. 11.00'de Tepebaşı Belediyesi başkanlık binası yanında "Atatürk ve Çocukları" adlı eserin açılışı yapılacak. 13.00'te Valilik Meydanı'nda çelenk sunma töreni, 17.00'de kortej, 19.30'da Hasan Polatkan Kültür Merkezi'nde Cumhuriyet Bayramı konseri olacak.
 
 29 Ekim: 10.00'da Valilik Makamı'nda tebriklerin kabulü töreni, 10.30'da Atatürk Bulvarı'nda kutlama ve resmî geçit töreni yapılacak. 10.00-17.00 arasında TÜRASAŞ Bölge Müdürlüğü'ndeki Devrim Müzesi ziyaret edilebilecek. (Kaynak: İstikbal Gazetesi, Eskişehir Valiliği programı)
-
----
-
-## Vali Yılmaz İstiklal Mahallesi Demirciler Sokağı esnafını ziyaret etti
-
-**Gündem · Merkez** · 2026-10-26 14:32 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesi-demirciler-sokak-uzerinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
-
-![](data/images/efd1f4476fcfda2c.jpg)
-
-> Vali Erdinç Yılmaz esnafın sorunlarını ve önerilerini dinledi.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, İstiklal Mahallesi Demirciler Sokağı üzerinde faaliyet gösteren esnafı ziyaret etti. Yılmaz, esnafa hayırlı ve bereketli kazançlar diledi.
-
-Esnaf ve vatandaşlarla bir süre sohbet eden Yılmaz, iş yerlerinin durumu ve karşılaşılan sorunlar hakkında bilgi aldı, talep ve önerileri dinledi. Yılmaz, esnafın şehrin ekonomisine ve sosyal hayatına önemli katkılar sunduğunu belirterek "Esnafımızın her zaman yanındayız. Hemşehrilerimizle birlikte Eskişehir'imiz için çalışmaya devam edeceğiz" dedi. (Kaynak: Eskişehir Valiliği)
 
 ---
