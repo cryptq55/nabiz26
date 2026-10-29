@@ -66,7 +66,8 @@ KEYWORD_TAGS = [
     ("hastane", ["#Sağlık", "#Hastane"]), ("bayram", ["#Bayram"]),
     ("solotürk", ["#SoloTürk", "#Gösteri"]), ("maden", ["#Maden", "#Çevre"]),
     ("mahkeme", ["#Mahkeme", "#Hukuk"]),
-    ("gram altın", ["#Altın", "#AltınFiyatları"]), ("bisiklet", ["#Bisiklet", "#EskişehirYaşam"]),
+    ("gram altın", ["#Altın", "#AltınFiyatları"]), ("meteoroloji", ["#HavaDurumu", "#Meteoroloji"]),
+    ("afad", ["#AFAD"]), ("kızılay", ["#Kızılay"]), ("kültür bakanlığı", ["#Kültür", "#Sanat"]), ("bisiklet", ["#Bisiklet", "#EskişehirYaşam"]),
 ]
 INDEXNOW_KEY =hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır
@@ -426,6 +427,7 @@ def main():
         for kw, kt in KEYWORD_TAGS:  # konuya özgü, aranan etiketler
             if kw in text:
                 tags += [t for t in kt if t not in tags]
+        tags = tags[:15]  # Instagram en çok 30 etiket izin verir; konuya özgü olanlar sonda, kesilmesin diye 15
         caption = (f"{a['title']}\n\n{a['spot']}\n\n"
                    f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),

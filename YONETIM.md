@@ -1,5 +1,13 @@
 # Nabız 26 yönetim notları
 
+## 29.10.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (177 haber). Son haber 09:31 TSİ; son 24 saatte 10 haber (Gündem 3, Spor 2, Eğitim/Türkiye/Kültür-Sanat/Ekonomi/Tarım 1'er; ilçe Tepebaşı 4, Merkez 4, Türkiye 2), önem 3→6, 2→3, 4→1, `reel` 0, fotoğrafsız 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 7.
+**Kaynaklar (bulut IP'si):** Büyükşehir (ReadTimeout), Anadolu Ünv. açılmadı; Günyüzü bağlantı yok; 320 aday, Google Haberler hedefleri 403/429 → "yetersiz metin". seen.json/images geri alındı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` Instagram açıklamalarında etiket sayısı 15 ile sınırlandı (aşırı etiket erişimi düşürür); meteoroloji, AFAD, Kızılay, Kültür Bakanlığı etiketleri eklendi (derleme denendi).
+**Sıradaki 3 fikir:** (1) haftalık "Eskişehir'de bu hafta" bülteni; (2) nöbetçi eczane sayfası; (3) Kasım için 10 Kasım anma story'si.
+SAHİBİNE: yok.
+
 ## 28.10.2026 21:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (172 haber; pip kurulumu bu turda yavaştı). Son haber 15:52 TSİ; son 24 saatte yalnız 5 haber (Gündem 2, Tarım/Spor/Ekonomi 1'er; ilçe Merkez 4, Tepebaşı 1), önem 3→3, 4→1, 2→1, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 10 paylaşım (cap 16 altında), 5 Reels.
 **Kaynaklar:** `--collect` bulut IP'sinden 100 sn'de bitmedi (ogu.edu.tr, anahaber.anadolu.edu.tr, enerji.gov.tr tüneli kapandı); ayrıntılı rapor alınamadı. seen.json/images geri alındı.
