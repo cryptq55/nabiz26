@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 29 Ekim 2026: Gram altın 6.488,18 TL
+
+**Ekonomi · Merkez** · 2026-10-29 11:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261029.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.398,52 TL'den alınıyor, 6.488,18 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 14.58 itibarıyla verilerine göre gram altının satış fiyatı 6.488,18 TL, alış fiyatı 6.398,52 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,05 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.575 TL, yarım altın 21.143 TL, tam altın 42.151 TL, ata altın 42.973 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.060,65 TL, has altının gram fiyatı 6.468,77 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.019,30 dolardan işlem görürken, dolar/TL 49,89 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.58 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Cumhuriyet'in 103. yılında devlet erkanı Anıtkabir'de
 
 **Türkiye · Türkiye** · 2026-10-29 09:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-baskanligindaki-devlet-erkani-anitkabiri-ziyaret-etti-29-10-26)
@@ -487,23 +507,5 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Ankara Pursaklar'dak
 Göktaş'ın verdiği bilgiye göre site 0-6 yaş grubundaki kız ve erkek çocuklara ile 7-12 yaş grubundaki kız çocuklarına hizmet verecek. 80 çocuk kapasitesiyle planlanan site, 8 villa tipi yaşam birimi, bir sosyal bina ve bir idari binadan oluşuyor. Kuruluş 14 Ekim'de kapılarını açtı ve 40 kız çocuğu yeni hayatlarına bu evlerde başladı.
 
 Bakan, koruma ve bakım altındaki 15 bin 174 çocuğun barınma, eğitim, sağlık ve psikososyal gelişiminin takip edildiğini söyledi. Göktaş'a göre 11 bin 72 çocuk 9 bin 327 koruyucu ailenin yanında büyüyor; sosyal ve ekonomik destek hizmetiyle 199 bin 889 çocuğun ailesinin yanında büyümesine katkı sağlanıyor. Ankara'da ise 6 bin 754 çocuğun ailesinin yanında büyümesi destekleniyor, 507 çocuğa koruyucu aile hizmeti, 1560 çocuğa kuruluşlarda bakım hizmeti sunuluyor. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
-
----
-
-## Ailekart ile hak sahiplerine 56 milyar liradan fazla kaynak aktarıldı
-
-**Türkiye · Türkiye** · 2026-10-26 12:42 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/)
-
-![](data/images/821601ed9ece0229.jpg)
-
-> Aile Bakanlığı'na göre 3 milyon 580 bin Ailekart dağıtıldı; 15 düzenli sosyal yardım tek karttan ödeniyor.
-
-Aile ve Sosyal Hizmetler Bakanlığı'nın açıklamasına göre, Ailekart uygulaması aracılığıyla doğum yardımı ve düzenli sosyal yardım ödemeleri kapsamında hak sahiplerine toplam 56 milyar 12 milyon 551 bin 214 lira aktarıldı.
-
-Uygulama, Eylül 2025'te doğum yardımı ödemeleriyle başladı. 1 Temmuz 2026'dan itibaren engelli ve yaşlı aylıkları ile elektrik ve doğal gaz tüketim desteği gibi 15 farklı düzenli sosyal yardım ödemesi de Halkbank aracılığıyla Ailekart üzerinden yapılıyor. Bakanlık, uygulamanın yapay zekâ destekli merkezi ödeme sistemiyle entegre çalıştığını bildirdi.
-
-Bugüne kadar 3 milyon 580 bin Ailekart dağıtıldı. Eylül 2025'ten bu yana doğum yardımı kapsamında 24 milyar 173 milyon 107 bin 900 lira, Temmuz 2026'dan itibaren düzenli sosyal yardımlar kapsamında ise 31 milyar 839 milyon 443 bin 314 lira ödeme yapıldı.
-
-Ailekart sahipleri ödemelerini kamu bankalarının ortak kullanıma açık ATM'lerinden alabiliyor. Bakanlığa göre önümüzdeki günlerde anlaşmalı iş yerlerinde sunulacak indirimlerden de yararlanabilecekler. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
 
 ---
