@@ -224,7 +224,9 @@
   "202610282032-tepebasinda-8-geleneksel-cumhuriyet-kupasini-saglik-isleri-mudurlugu-k",
   "202610290231-erdogan-abd-baskani-trump-ile-telefonda-gorustu",
   "202610290631-bakan-tekinden-cumhuriyet-bayrami-mesaji-egitim-en-saglam-dayanagimiz",
-  "202610290731-erdogandan-cumhuriyet-bayrami-video-mesaji-turkiye-bugun-dunden-daha-g"
+  "202610290731-erdogandan-cumhuriyet-bayrami-video-mesaji-turkiye-bugun-dunden-daha-g",
+  "202610290931-cumhuriyetin-103-yilinda-devlet-erkani-anitkabirde",
+  "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -256,7 +258,8 @@
   "202610271257-buyuksehirin-muze-ve-tesisleri-28-29-ekimde-acik-halk-ekmek-29-ekimde-",
   "202610290231-erdogan-abd-baskani-trump-ile-telefonda-gorustu",
   "202610290731-erdogandan-cumhuriyet-bayrami-video-mesaji-turkiye-bugun-dunden-daha-g",
-  "202610290631-bakan-tekinden-cumhuriyet-bayrami-mesaji-egitim-en-saglam-dayanagimiz"
+  "202610290631-bakan-tekinden-cumhuriyet-bayrami-mesaji-egitim-en-saglam-dayanagimiz",
+  "202610290931-cumhuriyetin-103-yilinda-devlet-erkani-anitkabirde"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -294,13 +297,10 @@
   "202610281151-altin-fiyatlari-28-ekim-2026-gram-altin-6-525-46-tl",
   "202610271257-buyuksehirin-muze-ve-tesisleri-28-29-ekimde-acik-halk-ekmek-29-ekimde-",
   "202610281933-ataturk-ve-dunya-cocuklari-aniti-acildi-adini-eskisehirliler-anketle-b",
-  "202610271032-tepebasinda-cumhuriyet-bayrami-kortej-ucretsiz-konser-ve-eko-sov-ile-k"
+  "202610271032-tepebasinda-cumhuriyet-bayrami-kortej-ucretsiz-konser-ve-eko-sov-ile-k",
+  "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl"
  ],
  "log": [
-  1793187712.6389885,
-  1793187728.8546388,
-  1793188617.6504438,
-  1793188633.9173596,
   1793192342.2139213,
   1793192364.3727434,
   1793216368.3629377,
@@ -310,13 +310,16 @@
   1793219918.2216392,
   1793241370.6205359,
   1793259345.7373457,
-  1793259363.3659534
+  1793259363.3659534,
+  1793275481.1207209,
+  1793275500.3055835,
+  1793275517.2906263,
+  1793275533.951817
  ],
  "reel_log": [
-  1793187712.6389906,
-  1793188617.6504452,
   1793192342.213923,
   1793216368.3629394,
-  1793219887.0676892
+  1793219887.0676892,
+  1793275481.1207228
  ]
 }
