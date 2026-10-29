@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan, ABD Başkanı Trump ile telefonda görüştü
+
+**Türkiye · Türkiye** · 2026-10-29 02:31 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama28-10-26)
+
+![](data/images/0793f4d03d440555.jpg)
+
+> Liderler ikili ilişkileri ve bölgesel gelişmeleri ele aldı; Trump Cumhuriyet Bayramı'nı kutladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi gerçekleştirdi. Liderler, Türkiye-ABD ikili ilişkilerini ve bölgesel ile küresel gelişmeleri ele aldı.
+
+Erdoğan, önümüzdeki sene tesisinin 100. yıl dönümü kutlanacak Türkiye-ABD ilişkilerinin geliştirilmesi ve iş birliğine her alanda ivme kazandırılması için çalışmaya devam edeceklerini belirtti.
+
+Erdoğan, Mekke Ortak Savunma İttifakı olarak Hürmüz Boğazı ve Yemen'deki gelişmeleri yakından takip ettiklerini, sorunun diplomasi zemininde çözülmesi için gayret gösterdiklerini ifade etti. Türkiye'nin, Ukrayna-Rusya arasında diplomatik sürecin canlandırılması ve savaşın bu yolla sona erdirilmesi için yapılan çalışmalara destek vermeye hazır olduğunu da belirtti.
+
+Trump ise Erdoğan'ı ve Türk halkını Cumhuriyet Bayramı dolayısıyla kutladı; Türk Devletleri Teşkilatı Zirvesi'nin başarılı geçmesi temennisini iletti.
+
+---
+
 ## Tepebaşı'nda 'Yediden Yetmişe Cumhuriyet Bayramı Kutlaması' üç kuşağı buluşturdu
 
 **Gündem · Tepebaşı** · 2026-10-28 20:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetcoskusuucneslibirarayagetirdi)
@@ -485,19 +503,5 @@ Aile ve Nüfus 10 Yılı'nı Bakanlığın tüm hizmet alanlarını ortak bir ge
 Göktaş, nisandan itibaren 81 ilde kadına yönelik şiddet ve çocukların suça sürüklenmesi sosyal risk haritalarındaki yüksek riskli hanelerin ziyaret edildiğini, hane ziyaretlerinin yüzde 69,94'ünün tamamlandığını söyledi. Yüksek riskli hanelerin üç ay sonra yeniden ziyaret edilmesinin önemine dikkat çekti.
 
 Bakan, il müdürlerinden sahada aktif, vatandaşla doğrudan temas kuran ve ulaşılabilir yöneticiler olmalarını istedi. Göktaş, sahada karşılaşılan sorunların valilik koordinasyonunda çözülmesini, çözülemeyenlerin gecikmeden Bakanlığa iletilmesini de belirtti. (Kaynak: Aile ve Sosyal Hizmetler Bakanlığı)
-
----
-
-## Eskişehir çevre yolunda otogar karşısında kaza: Olay yerinde itfaiye ve ambulans var
-
-**Asayiş · Merkez** · 2026-10-26 07:10 UTC · Kaynak: [Nabız 26]()
-
-![](data/images/cevre-yolu-kaza-20261026.jpg)
-
-> Ankara yönünde otogar karşısında sabah saatlerinde meydana gelen kazada bir kamyonetin ön kısmı hasar gördü; olay yerinde 112 ekibi ve itfaiye aracı bulunuyor.
-
-Eskişehir çevre yolunda, otogar karşısında Ankara yönünde sabah saatlerinde trafik kazası meydana geldi. Olay yerinde çekilen görüntülerde, beyaz renkli bir kamyonetin ön kısmının ve sürücü kapısı çevresinin hasar gördüğü, yol üzerinde cam kırıkları ve araç parçaları bulunduğu görülüyor.
-
-Görüntülerde olay yerinde bir ambulans ve 112 Acil Çağrı yazılı bir itfaiye aracı bulunuyor. Kazanın nedeni, kazaya karışan araç sayısı ile yaralı olup olmadığı konusunda şu an resmî bir açıklama bulunmuyor. Bilgiler netleştikçe haber güncellenecek. (Kaynak: Nabız 26)
 
 ---
