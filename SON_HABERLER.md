@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de Cumhuriyet'in 103. yıl dönümü töreni Atatürk Bulvarı'nda yapıldı
+
+**Gündem · Merkez** · 2026-10-29 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ve-esi-doc-dr-senay-yilmaz-hanimefendi-cumhuriyetimizin-103-yil-donumu-torenine-katildi)
+
+![](data/images/19591a9aeb6a19b4.jpg)
+
+> Vali Yılmaz, Eskişehir'in savunma, havacılık, raylı sistemler ve nadir toprak elementleri alanlarında yeni başarılara imza atacağını söyledi.
+
+Cumhuriyet'in kuruluşunun 103. yıl dönümü kutlamaları kapsamında Eskişehir'de Atatürk Bulvarı'nda resmî tören düzenlendi. Törene Vali Dr. Erdinç Yılmaz ve eşi Doç. Dr. Şenay Yılmaz da katıldı.
+
+Tören, Vali Yılmaz, Muharip Hava Kuvveti ve Garnizon Komutanı Hava Orgeneral Erdoğan Gür ve Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin askerî araçla törene katılanları ve vatandaşları selamlamasıyla başladı. Saygı duruşunun ve İstiklal Marşı'nın okunmasının ardından Cumhurbaşkanı Recep Tayyip Erdoğan'ın kutlama mesajı kendi sesinden dinlendi.
+
+Törende konuşan Vali Yılmaz, Cumhuriyet'in 103. yıl dönümünü Eskişehir'de kutlamanın gururunu yaşadıklarını söyledi; Atatürk'ü ve Millî Mücadele kahramanlarını andı. "Kurtuluş Savaşımız milletimizin var olma ülküsü, Cumhuriyetimiz ise yeniden dirilişimizin adıdır" diyen Yılmaz, Cumhuriyet'in Türk milletinin karakterine en çok yakışan idare olduğunu belirtti. Gençlere seslenen Yılmaz, Türkiye'nin geleceğinin gençlerin ellerinde yükseleceğine olan inancını dile getirdi.
+
+Vali Yılmaz, Eskişehir'in de savunma, havacılık, raylı sistemler ve nadir toprak elementleri alanlarında yeni başarılara imza atacağını ifade etti. Konuşmasını "Cumhuriyet Bayramımız kutlu olsun! Ne mutlu Cumhuriyetimize! Ne mutlu Türk'üm diyene!" sözleriyle tamamladı.
+
+Şiirlerin okunması ve öğrencilerin halk oyunları gösterilerinin ardından askerî bando eşliğinde tören geçişi gerçekleştirildi. Vatandaşlar geçişe alkışlarla eşlik etti.
+
+---
+
 ## Tepebaşı'nda Cumhuriyet coşkusu: kortej, konserler ve EKO-ŞOV
 
 **Gündem · Tepebaşı** · 2026-10-29 12:44 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacklasikaracıylacoskuyaortakoldu)
@@ -491,23 +511,5 @@ Eskişehir Valiliği'nin paylaştığı programa göre Cumhuriyet Bayramı kutla
 Eskişehir Valisi Dr. Erdinç Yılmaz, İstiklal Mahallesi Demirciler Sokağı üzerinde faaliyet gösteren esnafı ziyaret etti. Yılmaz, esnafa hayırlı ve bereketli kazançlar diledi.
 
 Esnaf ve vatandaşlarla bir süre sohbet eden Yılmaz, iş yerlerinin durumu ve karşılaşılan sorunlar hakkında bilgi aldı, talep ve önerileri dinledi. Yılmaz, esnafın şehrin ekonomisine ve sosyal hayatına önemli katkılar sunduğunu belirterek "Esnafımızın her zaman yanındayız. Hemşehrilerimizle birlikte Eskişehir'imiz için çalışmaya devam edeceğiz" dedi. (Kaynak: Eskişehir Valiliği)
-
----
-
-## Ortak Yazılı Sınav Sistemi için 'Sıkça Sorulan Sorular' rehberi hazırlandı
-
-**Eğitim · Merkez** · 2026-10-26 14:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/ortak-yazili-sinav-sistemi039yle-ilgili-quotsikca-sorulan-sorularquot-rehberi-hazirlandi/icerik/8697/tr)
-
-![](data/images/d11c6d90bdc01d06.jpg)
-
-> İl Milli Eğitim Müdürlüğü, OYSS'nin hangi sınıf ve derslerde uygulanacağını açıkladı.
-
-Eskişehir İl Milli Eğitim Müdürlüğü, Ortak Yazılı Sınav Sistemi (OYSS) ile ilgili sıkça sorulan soruları yanıtladı. Hazırlanan rehberde sistemin amacı, öğrenci başarısı ve eğitim kalitesi bakımından önemi ve nasıl uygulanacağı anlatıldı.
-
-OYSS, okul geneli ortak yazılı sınavların hazırlanması, uygulanması ve değerlendirilmesi süreçlerini dijital ortamda yürütmek için geliştirilen bir sistem. Rehbere göre sınavların öğretim programlarındaki öğrenme çıktılarıyla uyumlu, geçerli ve güvenilir hazırlanması hedefleniyor. Sistemle Türkiye Yüzyılı Maarif Modeli ile uyumlu biçimlendirici değerlendirme uygulamalarının, açık uçlu ve beceri temelli soruların okul düzeyinde yaygınlaştırılması amaçlanıyor.
-
-2026-2027 eğitim öğretim yılında OYSS, ortaokul 5, 6 ve 7. sınıflarda Türkçe, matematik, fen bilimleri, sosyal bilgiler, din kültürü ve ahlak bilgisi ile İngilizce derslerinde; lise 9, 10 ve 11. sınıflarda Türk dili ve edebiyatı, matematik, fizik, kimya, biyoloji, tarih, coğrafya, din kültürü ve ahlak bilgisi, felsefe ve İngilizce derslerinde uygulanacak.
-
-Sistemin kullanımına yönelik bilgilendirme ve eğitim çalışmaları 19-23 Ekim 2026'da tamamlandı. Öğretmenler sistem üzerinde deneme uygulamaları yapabiliyor. (Kaynak: Eskişehir İl Milli Eğitim Müdürlüğü)
 
 ---
