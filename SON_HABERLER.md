@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nda özel gereksinimli bireylerin annelerine ücretsiz psikolojik danışmanlık
+
+**Sağlık · Odunpazarı** · 2026-10-30 15:59 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-ndan-ozel-gereksinimli-bireylerin-annelerine-psikolojik-danismanlik-d-1)
+
+![](data/images/eed880842614ce26.jpg)
+
+> Hizmet Engelsiz Kültür ve Sanat Merkezi'nde Psikolojik Danışman Öznur Anılır tarafından yürütülüyor.
+
+Odunpazarı Belediyesi, Engelli ve Yaşlı Hizmetleri Müdürlüğü bünyesinde özel gereksinimli bireylerin aileleri için ücretsiz Psikolojik Danışmanlık Hizmeti sunuyor. Hizmetle ailelerin psikolojik açıdan desteklenmesi ve karşılaştıkları süreçlerde yalnız olmadıklarını hissetmeleri amaçlanıyor.
+
+Hizmet, Engelsiz Kültür ve Sanat Merkezi'nde Psikolojik Danışman Öznur Anılır tarafından yürütülüyor. Belediyenin aktardığına göre çalışmayla ailelerin yaşadıkları süreçleri daha sağlıklı yönetmelerine, duygusal ihtiyaçlarını ifade etmelerine ve güçlüklerle baş etme becerilerini geliştirmelerine destek olunması hedefleniyor.
+
+Ücretsiz Psikolojik Danışmanlık Hizmeti hakkında bilgi almak ve kayıt yaptırmak isteyenler Engelsiz Kültür ve Sanat Merkezi'ne başvurabilir. Ayrıntılı bilgi için Odunpazarı Belediyesi'nin 0222 227 86 38 numaralı telefonu aranabilir.
+
+---
+
 ## Odunpazarı Belediyesi pazarlarda tartı kontrol noktası kurdu: eksik gramaj çıkmadı
 
 **Belediye · Odunpazarı** · 2026-10-30 13:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-pazarlarda-elektronik-tarti-denetimi-2)
@@ -493,25 +509,5 @@ Tepebaşı Belediyesi'nin düzenlediği piyano kurslarına katılan 7-12 yaş ar
 En az bir yıldır piyano eğitimi alan öğrenciler, kursta öğrendiklerini sahnede sergiledi. Eğitimler öğrencilerin gelişimine göre genellikle iki yıl sürüyor.
 
 Tepebaşı Belediyesi'nin sanat kursları, çocukların ilgi ve yeteneklerini geliştirmelerine, öğrendiklerini paylaşmalarına ve sahne deneyimi kazanmalarına katkı sunuyor. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Altın fiyatları 27 Ekim 2026: Gram altın 6.453,36 TL
-
-**Ekonomi · Merkez** · 2026-10-27 11:16 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261027.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.385,87 TL'den alınıyor, 6.453,36 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.16 itibarıyla verilerine göre gram altının satış fiyatı 6.453,36 TL, alış fiyatı 6.385,87 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.518 TL, yarım altın 21.030 TL, tam altın 41.925 TL, ata altın 42.742 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.028,75 TL, has altının gram fiyatı 6.434,84 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.012,10 dolardan işlem görürken, dolar/TL 49,80 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.16 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
