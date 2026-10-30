@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan TDT Zirvesi'nde konuştu: Dönem başkanlığı Türkiye'ye geçti
+
+**Türkiye · Türkiye** · 2026-10-30 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-turk-devletleri-teskilati-devlet-baskanlari-konseyi-13-zirvesinde-konustu)
+
+![](data/images/f19e066c3c95ea3a.jpg)
+
+> Erdoğan, 13. Zirve'de Türkiye'nin dönem başkanlığı hedeflerini ve bölgesel gelişmelere ilişkin görüşlerini anlattı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Sergi Salonu'nda "Türk Yüzyılı: Dilde, Fikirde, İşte Birlik" temasıyla düzenlenen Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi'nde konuştu.
+
+Erdoğan, Teşkilat'ın dönem başkanlığını Azerbaycan'dan devraldıklarını söyledi ve Azerbaycan'a teşekkür etti. Dönem başkanlığında kurumsal birikimi daha somut kazanımlara dönüştürmeyi hedeflediklerini belirten Erdoğan, ortak dilin yaygınlaştırılması, spor başta olmak üzere kültürel etkinliklerin desteklenmesi ve ülkeler arasında seyahatlerin kolaylaştırılması gibi alanlarda ilerleme kaydetmek istediklerini ifade etti. Türkmenistan'ı en kısa zamanda tam üye olarak görmeyi temenni ettiğini de söyledi.
+
+Erdoğan, Azerbaycan'ın Ermenistan ile yürüttüğü temasları desteklediğini, kalıcı barış için katkı sunmaya devam edeceklerini belirtti. İran ile son dönemde artan tansiyonun diplomasiye dönüşmesini temenni ettiğini söyleyen Erdoğan, Filistin meselesinin adil çözümü için daha fazla çaba gösterilmesi gerektiğini, Gazze'ye insani yardımların ulaştırılması ve yeniden imar çalışmalarının başlatılması gerektiğini ifade etti.
+
+Ticaret, ulaştırma ve enerji alanına da değinen Erdoğan, Trans-Hazar-Doğu-Batı Orta Koridoru'nu "yarının ticaretine yön verecek stratejik bir hat" olarak niteledi. Siber güvenlik ve siber işbirliği mutabakatının en kısa sürede imzalanmasını beklediklerini, ortak uydu projesinin hızlandırılmasının öncelikleri arasında olduğunu, ortak dijital ticaret platformu ve büyük Türk dili modeli için çalışmalar yapılmasını beklediklerini söyledi.
+
+Erdoğan, 11-12 Kasım'da COP31 Liderler Zirvesi'ne Antalya'da ev sahipliği yapacaklarını hatırlattı ve üyeleri zirveye davet etti. Görev süresi sona eren TDT Genel Sekreteri Kubanıçbek Ömüraliyev'e teşekkür etti, yeni Genel Sekreter Mirvahid Azimov'a başarılar diledi.
+
+---
+
 ## Eskişehirspor, Iğdır FK'yı 90+7'de eledi: Türkiye Kupası'nda 4. tura çıktı
 
 **Spor · Merkez** · 2026-10-29 20:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirspor-907de-turu-kapti)
@@ -495,25 +515,5 @@ Millî Eğitim Bakanı Yusuf Tekin, Suudi Arabistan Eğitim Bakanı Yusuf Bin Ab
 Mutabakat zaptıyla öğretmen, öğrenci ve uzmanların karşılıklı ziyaretleri, eğitim personelinin mesleki gelişimi, ortak araştırmalar, eğitim materyallerinin geliştirilmesi, özel eğitim, eğitim teknolojileri ve uzaktan eğitim alanlarında iş birliğinin güçlendirilmesi hedefleniyor. Türkçe ve Arapça öğretiminin desteklenmesi, eğitim yeterlilikleri ve sertifikalarının karşılıklı tanınması ve denklikleri konusunda iş birliği, okul açılış ve izin süreçlerinin kolaylaştırılması da öngörülüyor.
 
 Tekin, iki ülke ilişkilerinin daha iyi bir noktaya taşınması için en önemli görevin eğitim bakanlıklarına düştüğünü söyledi. Tekin ayrıca yapay zekânın eğitim süreçlerindeki olumlu ve olumsuz etkilerinin sağlıklı değerlendirilmesi gerektiğini belirtti. El-Benyan ise yapay zekânın eğitimdeki yerinin belirlenmesi gerektiğini, bu rolün Suudi Arabistan'ın dini ve ulusal değerleriyle örtüşmesi gerektiğini söyledi. (Kaynak: Millî Eğitim Bakanlığı)
-
----
-
-## Valilik Cumhuriyet Bayramı programını açıkladı: 29 Ekim'de resmî geçit töreni
-
-**Gündem · Merkez** · 2026-10-26 18:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehir-valiligi-duyurdu-29-ekim-cumhuriyet-bayrami-programi-belli-oldu)
-
-![](data/images/d48f1939999d2530.jpg)
-
-> 26-29 Ekim arasında doğa yürüyüşleri, konserler, çelenk töreni, kortej ve resmî geçit var.
-
-Eskişehir Valiliği'nin paylaştığı programa göre Cumhuriyet Bayramı kutlamaları 26 Ekim'den itibaren kentte çeşitli etkinliklerle sürecek.
-
-26 Ekim: 09.00-17.00 arasında İl Halk Kütüphanesi giriş katında Atatürk Kitap Sergisi açık olacak. 09.00-15.00 arasında Frig Vadisi-Yazılıkaya'da doğa yürüyüşü yapılacak. 11.00'de Büyükşehir Belediyesi Sanat ve Kültür Merkezi'nde Türk Halk Müziği Korosu konseri, 17.00'de Şehit Anıl Gül Spor Salonu'nda güreş turnuvası düzenlenecek.
-
-27 Ekim: 08.45'te Küçükelmalı Tabiat Parkı'nda doğa yürüyüşü, 10.00-15.00 arasında Sümer Mahallesi'nde oryantiring yarışı olacak. 16.00'da ESOGÜ Kongre ve Kültür Merkezi'nde halk müziği konseri ve halk oyunları gösterisi, 19.00-21.00 arasında Anadolu Üniversitesi Öğrenci Merkezi Yunus Emre Salonu'nda konser yapılacak.
-
-28 Ekim: İlköğretim öğrencileri ETİ Arkeoloji Müzesi'ni 08.00-17.00 arasında ücretsiz gezebilecek. 10.00'da Hava Şehitliği'nde şehitlik ziyareti yapılacak. 11.00'de Tepebaşı Belediyesi başkanlık binası yanında "Atatürk ve Çocukları" adlı eserin açılışı yapılacak. 13.00'te Valilik Meydanı'nda çelenk sunma töreni, 17.00'de kortej, 19.30'da Hasan Polatkan Kültür Merkezi'nde Cumhuriyet Bayramı konseri olacak.
-
-29 Ekim: 10.00'da Valilik Makamı'nda tebriklerin kabulü töreni, 10.30'da Atatürk Bulvarı'nda kutlama ve resmî geçit töreni yapılacak. 10.00-17.00 arasında TÜRASAŞ Bölge Müdürlüğü'ndeki Devrim Müzesi ziyaret edilebilecek. (Kaynak: İstikbal Gazetesi, Eskişehir Valiliği programı)
 
 ---
