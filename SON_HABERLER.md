@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Aile ve Sosyal Hizmetler İl Müdürlüğü'nde değerlendirme toplantısı: yatırımlar ele alındı
+
+**Gündem · Merkez** · 2026-10-30 18:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aile.gov.tr/eskisehir/haberler/il-mueduerlueguemuezde-degerlendirme-toplantisi-biz-bu-devletin-emanet-kasasiyiz/)
+
+![](data/images/4710be757d5148b5.jpg)
+
+> İl Müdürü Orhan Bayrak, bakım merkezleri ve yeni tesis projelerinin süreçlerinin titizlikle takip edilmesinin önemini vurguladı.
+
+Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde, İl Müdürü Orhan Bayrak başkanlığında koordinasyon toplantısı yapıldı. Toplantıya il müdürlüğüne bağlı kuruluşların idarecileri ve il müdür yardımcıları katıldı.
+
+Toplantıda 29 Ekim Cumhuriyet Bayramı kapsamında il genelinde düzenlenen resmî törenler ve kuruluş içi etkinlikler değerlendirildi. Bayrak, kuruluşlarda misafir edilen çocukların, engellilerin ve yaşlıların bayramı coşkuyla yaşamasını sağlayan organizasyonlar için idarecilere ve personele teşekkür etti. Bayrak, "Bizler bu devletin emanet kasasıyız. Bakım ve koruma, bizim birinci ve en temel vazifemizdir" dedi.
+
+İl genelinde yürütülen ve yapımına başlanması planlanan hizmet binaları, bakım merkezleri ve ek tesis projeleri de ele alındı; inşaat çalışmalarının fiziki gerçekleşme oranları gözden geçirildi. Bakanlık merkezindeki İl Müdürleri Toplantısı'nın çıktıları da görüşüldü. Sosyal dayanışma ağını güçlendirmeyi amaçlayan "İyilik Var" uygulamasının il genelinde daha etkin tanıtılması ve yaygınlaştırılması kararlaştırıldı. Dezavantajlı kesimlerin ihtiyaçlarını önceden tespit etmeyi amaçlayan "Sosyal Risk Haritası" çalışmalarının tamamlanması için birimler arası koordinasyonun artırılması gerektiği vurgulandı.
+
+---
+
 ## Odunpazarı'nda özel gereksinimli bireylerin annelerine ücretsiz psikolojik danışmanlık
 
 **Sağlık · Odunpazarı** · 2026-10-30 15:59 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-ndan-ozel-gereksinimli-bireylerin-annelerine-psikolojik-danismanlik-d-1)
@@ -493,21 +509,5 @@ Eskişehir Büyükşehir Belediyesi, 29 Ekim Cumhuriyet Bayramı nedeniyle müze
 Açık olacak müzeler arasında Yılmaz Büyükerşen Balmumu Heykeller Müzesi, Çağdaş Cam Sanatları Müzesi, Kent Belleği Müzesi, Kurtuluş Müzesi, İmren Erşen Oya Müzesi, Hamam Müzesi, Zühal Yorgancıoğlu Moda ve Tasarım Müzesi ile Ergün Başar Portre Galerisi var. Sanat Sokağı'ndaki Çağdaş Seramik Sanatları Müzesi, Bilim Deney Merkezi, Sabancı Uzay Evi, Masal Şatosu'nun Kendin Keşfet alanı, Hayvanat Bahçesi ve Sualtı Dünyası, Kalyon Müze Gemi, Sazova'daki Dekovil Tren, Gondol ve Bot Turu ile belediyeye ait kafeler de her iki gün hizmet verecek.
 
 Kentpark Kafe, Üretici Market Adliye, Üretici Market Bağlar, İskele 26 ve Emek Kafe de 28-29 Ekim'de açık olacak. Halk Et Marketler ve Halk Ekmek büfeleri ise 28 Ekim Çarşamba günü açık, 29 Ekim Perşembe günü kapalı olacak. (Kaynak: DHA)
-
----
-
-## Tepebaşı'nın minik piyanistleri Özdilek Sanat Merkezi'nde konser verdi
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-27 11:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınminikpiyanistlerisahnede)
-
-![](data/images/65795f5daa451d36.jpg)
-
-> Belediyenin piyano kurslarına katılan 7-12 yaş arasındaki 16 öğrenci 25 Ekim'de sahne aldı.
-
-Tepebaşı Belediyesi'nin düzenlediği piyano kurslarına katılan 7-12 yaş arasındaki 16 öğrenci, eğitim sürecinde öğrendiklerini Özdilek Sanat Merkezi'nde düzenlenen konserde dinleyicilerle paylaştı. Konser 25 Ekim'de, Özgenur Altaş'ın eğitmenliğinde yapıldı.
-
-En az bir yıldır piyano eğitimi alan öğrenciler, kursta öğrendiklerini sahnede sergiledi. Eğitimler öğrencilerin gelişimine göre genellikle iki yıl sürüyor.
-
-Tepebaşı Belediyesi'nin sanat kursları, çocukların ilgi ve yeteneklerini geliştirmelerine, öğrendiklerini paylaşmalarına ve sahne deneyimi kazanmalarına katkı sunuyor. (Kaynak: Tepebaşı Belediyesi)
 
 ---
