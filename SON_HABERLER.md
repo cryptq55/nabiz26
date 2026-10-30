@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 30 Ekim 2026: Gram altın 6.395,34 TL
+
+**Ekonomi · Merkez** · 2026-10-30 11:52 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261030.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.300,18 TL'den alınıyor, 6.395,34 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.52 itibarıyla verilerine göre gram altının satış fiyatı 6.395,34 TL, alış fiyatı 6.300,18 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.424 TL, yarım altın 20.841 TL, tam altın 41.548 TL, ata altın 42.645 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.973,64 TL, has altının gram fiyatı 6.376,21 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.968,30 dolardan işlem görürken, dolar/TL 49,79 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.52 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Tepebaşı'nda kazılan yol ve kaldırımlar mahalle mahalle yenileniyor
 
 **Belediye · Tepebaşı** · 2026-10-30 11:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaustyapıatagı)
@@ -497,23 +517,5 @@ Tepebaşı Belediyesi'nin düzenlediği 4. Kızılinler Bal Kabağı Panayırı'
 Panayıra katılan Tepebaşı Belediye Başkanı Ahmet Ataç, panayırın 2023'te bir fikir olarak doğduğunu, bu yıl dördüncüsünün yapıldığını söyledi. Ataç, geçen yıl ulusal olacağını söylediklerini, bu yıl ulusal olduğunu ve seneye büyük ihtimalle uluslararası olacağını belirtti.
 
 Kızılinler Muhtarı Halil İbrahim Can, bal kabağının rulo pastadan baklavaya uzanan bir lezzet serüveni olduğunu ve bu yıl Tepebaşı Belediyesi'nin de Kızılinler'de üretim yaptığını söyledi. Tepebaşı Kırsal Kalkınma Kurulu Başkanı Mehmet Kızılinler, ürünün yaklaşık 90 yıldır ata tohumuyla üretildiğini hatırlattı. Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz, coğrafi işaret tescilinin markalaşma yolunda önemli bir adım olduğunu belirtti. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da üreticilerin emeğinin bilimsel bilgiyle desteklenip katma değere dönüşmesi gerektiğini söyledi. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Kabine toplantısı sona erdi: Erdoğan haftanın diplomasi programını açıkladı
-
-**Türkiye · Türkiye** · 2026-10-27 05:32 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-kabinesi-toplandi-26-10-26)
-
-![](data/images/d1ec92f924621606.jpg)
-
-> Cumhurbaşkanı Erdoğan, yaklaşık 3 saat süren Kabine Toplantısı'nın ardından programı ve dış politika başlıklarını açıkladı.
-
-Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Cumhurbaşkanlığı Külliyesi'nde toplandı. Saat 15.38'de başlayan toplantı yaklaşık 3 saat sürdü. Erdoğan, toplantının ardından millete seslendi.
-
-Erdoğan konuşmasına, Zonguldak'ta geçen hafta özel bir maden ocağındaki grizu patlamasında hayatını kaybeden 3 madenciye ve Ankara'daki askerî araç kazasında şehit olan Albay Sayit Gökgöz'e başsağlığı dileyerek başladı. Kabine toplantısında iç siyaset, ekonomi, güvenlik ve dış politikaya ilişkin güncel gelişmeleri ele aldıklarını söyledi.
-
-Erdoğan'ın aktardığına göre Kanada Başbakanı Mark Carney'nin ziyaretinde ilişkiler stratejik ortaklık seviyesine yükseltildi; savunma, hava ulaştırma ve enerji alanlarında üç anlaşma imzalandı ve serbest ticaret anlaşması müzakerelerine yıl bitmeden başlanması kararlaştırıldı. 3 milyar dolar civarındaki ticaret hacminin önce 5, sonra 10 milyar dolara çıkarılması hedefleniyor. Erdoğan, 16 Ekim'de Kamboçya Başbakanı Hun Manet'i İstanbul'da ağırladıklarını da hatırlattı.
-
-Erdoğan, önümüzdeki günlerin programını şöyle açıkladı: 28 Ekim'de Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev Ankara'da ağırlanacak ve aynı gün Beştepe Millet Ormanı halkın kullanımına açılacak. 30 Ekim Cuma günü Türk Devletleri Teşkilatı'nın 13. Zirvesi Ankara'da yapılacak. Ardından Güney Kore ziyareti ve dönüşte Antalya'da COP31 Zirvesi planlanıyor. (Kaynak: İletişim Başkanlığı)
 
 ---
