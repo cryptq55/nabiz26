@@ -236,7 +236,9 @@
   "202610301132-odunpazarinda-anneler-ve-cocuklar-cumhuriyeti-alaaddin-parkinda-kutlad",
   "202610301152-altin-fiyatlari-30-ekim-2026-gram-altin-6-395-34-tl",
   "202610301257-odunpazarinin-yasli-merkezlerinde-cumhuriyet-coskusu-piyes-ve-balo",
-  "202610301257-odunpazari-belediyesinin-cumhuriyet-programinda-muzik-tiyatro-ve-halk-"
+  "202610301257-odunpazari-belediyesinin-cumhuriyet-programinda-muzik-tiyatro-ve-halk-",
+  "202610301347-odunpazari-belediyesi-pazarlarda-tarti-kontrol-noktasi-kurdu-eksik-gra",
+  "202610301347-ayse-kulin-31-ekimde-odunpazarinda-okurlariyla-bulusacak"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -313,11 +315,10 @@
   "202610291345-eskisehirde-cumhuriyetin-103-yil-donumu-toreni-ataturk-bulvarinda-yapi",
   "202610292035-eskisehirspor-igdir-fkyi-90-7de-eledi-turkiye-kupasinda-4-tura-cikti",
   "202610301132-kursunlu-kulliyesinde-3-kasim-tahliyesi-durduruldu",
-  "202610301152-altin-fiyatlari-30-ekim-2026-gram-altin-6-395-34-tl"
+  "202610301152-altin-fiyatlari-30-ekim-2026-gram-altin-6-395-34-tl",
+  "202610301347-ayse-kulin-31-ekimde-odunpazarinda-okurlariyla-bulusacak"
  ],
  "log": [
-  1793281877.7791164,
-  1793281893.697163,
   1793306453.8109224,
   1793306471.01945,
   1793353008.0830991,
@@ -328,12 +329,15 @@
   1793361559.5984304,
   1793361576.6911259,
   1793365341.0218768,
-  1793365361.0513287
+  1793365361.0513287,
+  1793368429.7881231,
+  1793368446.86858,
+  1793368462.8474174
  ],
  "reel_log": [
-  1793281877.7791176,
   1793306453.8109243,
   1793360345.1008666,
-  1793361559.5984328
+  1793361559.5984328,
+  1793368429.7881253
  ]
 }
