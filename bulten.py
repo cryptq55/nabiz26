@@ -3,7 +3,7 @@
 Sabah: hava durumu + namaz vakitleri + günün öne çıkan 3 haberi. Akşam: son 24 saatin en önemli 5 haberi.
 Tek seslendirme metni sahnelere bölünür; her sahne, sesin o sahnenin cümlelerine geldiği anda başlar.
 
-Kullanım:  python bulten.py sabah|aksam [çıktı.mp4]   (yayın: python bulten.py sabah --yayinla)
+Kullanım:  python bulten.py sabah|aksam|hafta [çıktı.mp4]   (yayın: python bulten.py sabah --yayinla)
 """
 
 import json
@@ -34,7 +34,7 @@ def first_sentence(text, limit=170):
 
 def pick(articles, kind, now):
     """Bültene girecek haberler: fotoğraflı, Eskişehir'le ilgili (ulusal değil), önem ve yeniliğe göre."""
-    hours = 14 if kind == "sabah" else 24
+    hours = {"sabah": 14, "hafta": 168}.get(kind, 24)
     pool = [a for a in articles if a.get("image") and a.get("district") != "Türkiye"
             and now - datetime.fromisoformat(a["published_at"]) <= timedelta(hours=hours)]
     pool.sort(key=lambda a: (int(a.get("importance") or 3), a["published_at"]), reverse=True)
@@ -52,7 +52,7 @@ def intro_card(kind, now, svc):
     brand(d, M, 250, 72)
     date = f"{now.day} {AYLAR[now.month - 1]} {GUNLER[now.weekday()]}"
     pill(d, M, 420, date.upper(), RED, 34)
-    title = "Günaydın\nEskişehir" if kind == "sabah" else "Eskişehir'de\nbugün"
+    title = {"sabah": "Günaydın\nEskişehir", "hafta": "Eskişehir'de\nbu hafta"}.get(kind, "Eskişehir'de\nbugün")
     d.multiline_text((M, 520), title, font=font("Bricolage.ttf", 150, 800), fill="white", spacing=6)
     if kind == "sabah" and svc:
         w, p = svc.get("weather"), svc.get("prayer")
@@ -72,7 +72,7 @@ def intro_card(kind, now, svc):
                 d.text((x, yy), k.upper(), font=font("Inter.ttf", 28, 700), fill=MUTED)
                 d.text((x, yy + 36), v, font=font("Bricolage.ttf", 70, 800), fill="white")
     else:
-        d.text((M, 900), "Günün öne çıkan haberleri", font=font("Bricolage.ttf", 56, 800), fill=PAPER)
+        d.text((M, 900), "Haftanın öne çıkan haberleri" if kind == "hafta" else "Günün öne çıkan haberleri", font=font("Bricolage.ttf", 56, 800), fill=PAPER)
     beat_line(d, 1650, W, width=7)
     return im
 
@@ -100,6 +100,8 @@ def build_script(kind, items, now, svc):
         if w:
             intro += f" Hava {reels_weather(w['code'])[0].lower()}, en yüksek sıcaklık {w['days'][0]['max']} derece."
         intro += " İşte günün öne çıkan haberleri."
+    elif kind == "hafta":
+        intro = "Eskişehir'de bu hafta. Haftanın en çok öne çıkan haberleri Nabız 26'da."
     else:
         intro = f"Eskişehir'de bugün. {date} gününün öne çıkan haberleri Nabız 26'da."
     parts.append(intro)
@@ -185,7 +187,8 @@ def render_bulletin(kind, items, out, now, svc=None):
 
 def caption(kind, items, now):
     date = f"{now.day} {AYLAR[now.month - 1]} {GUNLER[now.weekday()]}"
-    head = f"☀️ Günaydın Eskişehir · {date}" if kind == "sabah" else f"🌙 Eskişehir'de bugün · {date}"
+    head = {"sabah": f"☀️ Günaydın Eskişehir · {date}",
+            "hafta": f"📅 Eskişehir'de bu hafta · {date}"}.get(kind, f"🌙 Eskişehir'de bugün · {date}")
     lines = [head, ""] + [f"{i + 1}. {a['title']}" for i, a in enumerate(items)]
     lines += ["", "📲 Haberlerin tamamı profildeki bağlantıda: nabiz26.com", "",
               "#Eskişehir #EskişehirHaber #nabız26 #Odunpazarı #Tepebaşı #EskişehirGündem"]
