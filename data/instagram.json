@@ -230,7 +230,10 @@
   "202610291244-tepebasinda-cumhuriyet-coskusu-kortej-konserler-ve-eko-sov",
   "202610291345-eskisehirde-cumhuriyetin-103-yil-donumu-toreni-ataturk-bulvarinda-yapi",
   "202610292035-eskisehirspor-igdir-fkyi-90-7de-eledi-turkiye-kupasinda-4-tura-cikti",
-  "202610300932-erdogan-tdt-zirvesinde-konustu-donem-baskanligi-turkiyeye-gecti"
+  "202610300932-erdogan-tdt-zirvesinde-konustu-donem-baskanligi-turkiyeye-gecti",
+  "202610301132-tepebasinda-kazilan-yol-ve-kaldirimlar-mahalle-mahalle-yenileniyor",
+  "202610301132-kursunlu-kulliyesinde-3-kasim-tahliyesi-durduruldu",
+  "202610301132-odunpazarinda-anneler-ve-cocuklar-cumhuriyeti-alaaddin-parkinda-kutlad"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -305,7 +308,8 @@
   "202610271032-tepebasinda-cumhuriyet-bayrami-kortej-ucretsiz-konser-ve-eko-sov-ile-k",
   "202610291158-altin-fiyatlari-29-ekim-2026-gram-altin-6-488-18-tl",
   "202610291345-eskisehirde-cumhuriyetin-103-yil-donumu-toreni-ataturk-bulvarinda-yapi",
-  "202610292035-eskisehirspor-igdir-fkyi-90-7de-eledi-turkiye-kupasinda-4-tura-cikti"
+  "202610292035-eskisehirspor-igdir-fkyi-90-7de-eledi-turkiye-kupasinda-4-tura-cikti",
+  "202610301132-kursunlu-kulliyesinde-3-kasim-tahliyesi-durduruldu"
  ],
  "log": [
   1793275481.1207209,
@@ -318,11 +322,15 @@
   1793306453.8109224,
   1793306471.01945,
   1793353008.0830991,
-  1793353024.857546
+  1793353024.857546,
+  1793360345.1008651,
+  1793360361.3098865,
+  1793360374.5253875
  ],
  "reel_log": [
   1793275481.1207228,
   1793281877.7791176,
-  1793306453.8109243
+  1793306453.8109243,
+  1793360345.1008666
  ]
 }
