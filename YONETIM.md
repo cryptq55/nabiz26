@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 30.10.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (183 haber, venv ile 72 sn). Son haber dün 23:35 TSİ (Eskişehirspor Türkiye Kupası); son 24 saatte 4 haber (Gündem 2, Ekonomi 1, Spor 1; ilçe Merkez 3, Tepebaşı 1); gece 10 saat haber yok, saatlik tur çalışıyor (commitler düzenli). 29 Ekim'de 10 haber vardı, bugünkü altın haberi henüz yok (06:00 UTC iş akışı gecikmiş olabilir). Instagram: log 12, reel_log 3. Kaynak taraması bu turda çalıştırılmadı (önceki turlarda bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Türkiye Kupası, sanayi, havalimanı, akaryakıt, maaş etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) haftalık "Eskişehir'de bu hafta" bülteni; (2) nöbetçi eczane sayfası; (3) 10 Kasım anma story'si.
+SAHİBİNE: yok.
+
 ## 29.10.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (182 haber; ilk denemeler zaman aşımına uğradı, venv ile 280 sn'de bitti). Son haber 16:45 TSİ (Cumhuriyet töreni); son 24 saatte 10 haber (Türkiye 3, Gündem 3, Spor/Eğitim/Ekonomi/Kültür-Sanat 1'er; ilçe Tepebaşı 4, Türkiye 4, Merkez 2), önem 3→7, 2→3, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 15 paylaşım (cap 16), 4 Reels.
 **Kaynaklar:** `--collect` bulut IP'sinden 100 sn içinde bitmedi (zaman aşımı), rapor alınamadı. seen.json/images geri alındı.
