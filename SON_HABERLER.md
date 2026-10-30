@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nın yaşlı merkezlerinde Cumhuriyet coşkusu: piyes ve balo
+
+**Gündem · Odunpazarı** · 2026-10-30 12:57 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-cinarlar-cumhuriyet-coskusunu-yasadi)
+
+![](data/images/5009f99e520705f4.jpg)
+
+> Koca Çınar Yaşam Merkezi ve Lütfü Yüksel Yaşlı Bakım Merkezi'nde 103. yıl kutlandı.
+
+Odunpazarı Belediyesi'nin yaşlılara yönelik hizmet veren merkezlerinde Cumhuriyet'in 103. yıl dönümü kutlandı. Belediyenin Engelli ve Yaşlı Hizmetleri Müdürlüğü'ne bağlı Koca Çınar Yaşam Merkezi'nde piyes ve balo düzenlendi, Lütfü Yüksel Yaşlı Bakım Merkezi'nin sakinleri de bayramı kutladı.
+
+Gültepe Mahallesi Üniversite Evleri'ndeki Koca Çınar Yaşam Merkezi'nde hazırlanan programla Cumhuriyet'in anlamına dikkat çekildi, baloyla bayram sevinci paylaşıldı. Lütfü Yüksel Yaşlı Bakım Merkezi'nde ise merkezin kıdemli sakinleri Cumhuriyet'in 103. yıl dönümünü birlik, beraberlik ve Atatürk sevgisiyle karşıladı.
+
+Odunpazarı Belediyesi, sosyal belediyecilik anlayışıyla yaş almış yurttaşların sosyal yaşamın içinde yer almasını destekleyen çalışmalarını sürdürdüğünü belirtti.
+
+---
+
+## Odunpazarı Belediyesi'nin Cumhuriyet programında müzik, tiyatro ve halk dansları
+
+**Kültür-Sanat · Odunpazarı** · 2026-10-30 12:57 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-cumhuriyet-coskusu-sanatla-sahneye-tasindi)
+
+![](data/images/da5d0e2b10023d02.jpg)
+
+> Programda Cumhuriyet'e iz bırakan isimler sahnede canlandırıldı; Başkan Kurt konuştu.
+
+Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü'nün düzenlediği Cumhuriyet Bayramı kutlama programında Cumhuriyet'in kazanımları müzik, tiyatro, şiir ve halk danslarıyla anlatıldı. Programa Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal, Tepebaşı Belediye Başkan Vekili Mehmet Baturay Özkan, Çağdaş Sen Eskişehir Şube Başkanı Deniz Kalkan ve çok sayıda Eskişehirli katıldı.
+
+Saygı duruşu ve İstiklal Marşı ile başlayan programda Hülya Düzbaş "Yüzüm Şen, Hatıram Şen", "Mehtaplı Bir Gecede" ve "Bir Pembe İncisin Sen" eserlerini seslendirdi. Odunpazarı Belediye Tiyatrosu'nun canlandırmalarında Semiha Berksoy, Afife Jale, Müzeyyen Senar, Cahide Sonku, Samiye Cahid Morkaya, Remziye Hisar, Ahmet Adnan Saygun, Cahit Arf, Hasan Âli Yücel, Yaşar Kemal ve Vecihi Hürkuş gibi isimler izleyiciyle buluştu.
+
+Utku Görkem Kırdemir, Attilâ İlhan'ın "Mustafa Kemal'in Sofrası" şiirini okudu; Serpil Mercan Vurucu "Ben Cumhuriyet Kadınıyım" şiirini seslendirdi. Odunpazarı Belediyesi Halk Dansları ekibi gösteri yaptı, tango gösterisi de programa renk kattı. Programın sonunda konuşan Başkan Kazım Kurt, Cumhuriyet'e ve kazanımlarına sahip çıkma çağrısı yaptı.
+
+---
+
 ## Altın fiyatları 30 Ekim 2026: Gram altın 6.395,34 TL
 
 **Ekonomi · Merkez** · 2026-10-30 11:52 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -485,37 +517,5 @@ Tepebaşı Belediyesi, Gaziler Günü kapsamında şehit aileleri ve gaziler iç
 Ataç, program boyunca konuklarıyla tek tek sohbet etti. Cumhuriyet Bayramı'nın 103. yıl dönümü dolayısıyla kutlama mesajlarının paylaşıldığı programda dernek ve vakıf temsilcileri de konuşma yaptı ve ev sahipliği için teşekkür etti.
 
 Ataç, "Sadece önemli gün ve haftalarda değil, yılın 365 gününde bir ve beraberiz" dedi. Şehitlerin yılın her günü hatırlanması ve hatıralarının yaşatılması gerektiğini söyleyen Ataç, Tepebaşı Belediyesi'nin her zaman yanlarında olacağını belirtti. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Bakan Kurum: Sıfır Atık'ta geri kazanım oranı 2017'de yüzde 13'ten yüzde 37'ye çıktı
-
-**Türkiye · Türkiye** · 2026-10-27 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/bakan-kurum-sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-panelinde-konustu)
-
-![](data/images/f4ad7996e3b9a72f.jpg)
-
-> COP31 Başkanı Murat Kurum, İletişim Başkanlığı'ndaki 'Sıfır Atık'tan COP31'e' panelinde konuştu.
-
-COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Cumhurbaşkanlığı İletişim Başkanlığı Konferans Salonu'nda düzenlenen "Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi" panelinin açılışında konuştu.
-
-Kurum'un açıkladığı verilere göre geri kazanım oranı 2017'de yüzde 13 iken 2025'te yüzde 37'ye çıktı. Bu dönemde 90 milyon ton atık geri kazanıldı ve ekonomiye yaklaşık 365 milyar liralık katkı sağlandı. Depozitolu Ambalajlar Sistemi kapsamında bugüne kadar 520 milyon ambalaj yeniden ekonomiye kazandırıldı. Kurum, Sıfır Atık Hareketi'nin Emine Erdoğan'ın öncülüğünde başlatıldığını belirtti.
-
-Kurum, COP31'e hazırlandıklarını söyleyerek iklim krizinin gezegeni yaşanamaz hâle getirme tehlikesine dikkat çekti. Daha önceki gece Antalya'daki şiddetli hortumda 4 kişinin hayatını kaybettiğini aktaran Kurum, ölenlere rahmet, yakınlarına sabır diledi. Türkiye'nin Akdeniz havzasındaki konumu nedeniyle iklim krizinin etkilerine en fazla maruz kalan ülkelerden biri olduğunu belirten Kurum, kentsel dönüşümü milli güvenlik meselesi olarak gördüklerini söyledi. (Kaynak: İletişim Başkanlığı)
-
----
-
-## 4. Kızılinler Bal Kabağı Panayırı'na binlerce Eskişehirli katıldı
-
-**Tarım · Tepebaşı** · 2026-10-27 06:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/binlerceeskisehirlipanayırdabulustu)
-
-![](data/images/4d3967d6d270a9c4.jpg)
-
-> Tepebaşı Belediyesi'nin düzenlediği panayırda sembolik mezat ve halk oyunları gösterisi yapıldı.
-
-Tepebaşı Belediyesi'nin düzenlediği 4. Kızılinler Bal Kabağı Panayırı'na binlerce Eskişehirli katıldı. Kızılinler Davet Salonu'ndaki panayırda saatler süren kuyruklar ve yoğun araç trafiği oluştu. Coğrafi işaretli Kızılinler bal kabağı tanıtıldı, sembolik mezat ve halk oyunları gösterisi yapıldı.
-
-Panayıra katılan Tepebaşı Belediye Başkanı Ahmet Ataç, panayırın 2023'te bir fikir olarak doğduğunu, bu yıl dördüncüsünün yapıldığını söyledi. Ataç, geçen yıl ulusal olacağını söylediklerini, bu yıl ulusal olduğunu ve seneye büyük ihtimalle uluslararası olacağını belirtti.
-
-Kızılinler Muhtarı Halil İbrahim Can, bal kabağının rulo pastadan baklavaya uzanan bir lezzet serüveni olduğunu ve bu yıl Tepebaşı Belediyesi'nin de Kızılinler'de üretim yaptığını söyledi. Tepebaşı Kırsal Kalkınma Kurulu Başkanı Mehmet Kızılinler, ürünün yaklaşık 90 yıldır ata tohumuyla üretildiğini hatırlattı. Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz, coğrafi işaret tescilinin markalaşma yolunda önemli bir adım olduğunu belirtti. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da üreticilerin emeğinin bilimsel bilgiyle desteklenip katma değere dönüşmesi gerektiğini söyledi. (Kaynak: Tepebaşı Belediyesi)
 
 ---
