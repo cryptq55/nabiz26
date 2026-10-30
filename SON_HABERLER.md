@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediyesi pazarlarda tartı kontrol noktası kurdu: eksik gramaj çıkmadı
+
+**Belediye · Odunpazarı** · 2026-10-30 13:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-pazarlarda-elektronik-tarti-denetimi-2)
+
+![](data/images/082d7a58e3b9c021.jpg)
+
+> Zabıta Emek Mahallesi Kapalı Pazar Yeri'nde denetim yaptı.
+
+Odunpazarı Belediyesi Zabıta Müdürlüğü ekipleri, Pazar Uygulama Yönetmeliği kapsamında pazarlarda ölçü ve tartı aletlerinin hileli kullanımına karşı denetimlerini sürdürüyor. Ekipler son olarak Emek Mahallesi Kapalı Pazar Yeri'nde denetim yaptı.
+
+Denetim sırasında pazar alanında Odunpazarı Belediyesi Tartı Kontrol Noktası kuruldu. Alışveriş yapan vatandaşlar satın aldıkları ürünleri burada yeniden tarttırabildi. Belediyenin aktardığına göre yapılan denetimlerde eksik gramaja rastlanmadı.
+
+Zabıta Müdürlüğü yetkilileri, denetimlerin yalnızca kapalı pazar yerleriyle sınırlı kalmayacağını, ilçedeki diğer pazarlarda da düzenli olarak sürdürüleceğini açıkladı.
+
+---
+
+## Ayşe Kulin 31 Ekim'de Odunpazarı'nda okurlarıyla buluşacak
+
+**Kültür-Sanat · Odunpazarı** · 2026-10-30 13:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/ayse-kulin-odunpazari-nda-okurlariyla-bulusacak)
+
+![](data/images/f531daa8e8476832.jpg)
+
+> "Cumhuriyet ve Edebiyat" söyleşisi ve imza günü Hasan Polatkan Kültür Merkezi'nde, ücretsiz.
+
+Odunpazarı Belediyesi, yazar Ayşe Kulin'i Eskişehirli okurlarla buluşturuyor. "Cumhuriyet ve Edebiyat" başlığıyla düzenlenecek söyleşi ve imza günü, 31 Ekim Cumartesi günü saat 15.00'te Hasan Polatkan Kültür Merkezi'nde yapılacak.
+
+Etkinlik, Cumhuriyet'in edebiyatla kurduğu ilişkiyi odağına alıyor. Söyleşinin ardından düzenlenecek imza gününde okurlar kitaplarını Ayşe Kulin'e imzalatabilecek. Söyleşi ve imza günü ücretsiz.
+
+---
+
 ## Odunpazarı'nın yaşlı merkezlerinde Cumhuriyet coşkusu: piyes ve balo
 
 **Gündem · Odunpazarı** · 2026-10-30 12:57 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-cinarlar-cumhuriyet-coskusunu-yasadi)
@@ -483,39 +513,5 @@ Ziynet altınlarda çeyrek altın 10.518 TL, yarım altın 21.030 TL, tam altın
 Uluslararası piyasalarda altının onsu 4.012,10 dolardan işlem görürken, dolar/TL 49,80 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 14.16 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Tepebaşı'nda Cumhuriyet Bayramı kortej, ücretsiz konser ve EKO-ŞOV ile kutlanacak
-
-**Gündem · Tepebaşı** · 2026-10-27 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetbayramıkortejvekonserlerlekutlanacak)
-
-![](data/images/a84ae0ffc53a1b0c.jpg)
-
-> Kortej 28 Ekim'de 17.30'da Cumhuriyet Meydanı'ndan yola çıkacak; 29 Ekim'de EKO-ŞOV Espark AVM önünde.
-
-Tepebaşı Belediyesi, 29 Ekim Cumhuriyet Bayramı'nı konserler, EKO-ŞOV ve Cumhuriyet Kortejiyle kutlayacak.
-
-Kutlamalar 28 Ekim Çarşamba günü saat 17.30'da Şarhöyük Mahallesi Cumhuriyet Meydanı'ndan yola çıkacak Cumhuriyet Korteji ile başlayacak. Kortej, Tepebaşı Belediyesi yanındaki açık otoparkta sona erecek. Eskişehir Motosiklet Grubu 26, MOSEF, VesBaga Eskişehir, Vos 26 Eskişehir, Yol Kawaşçıları Türkiye ve Demir Pençe 26 Eskişehir gibi topluluklar korteje destek verecek.
-
-Ardından saat 19.00'da Özgenur Altaş, saat 20.00'de Soup Opera sahne alacak. Konserler ücretsiz. 29 Ekim Perşembe günü saat 14.00'te EKO-ŞOV eşliğinde kutlama programı Espark AVM önünde sürecek.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, tüm Eskişehirlileri kutlamalara davet etti. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Başkan Ataç Gaziler Günü'nde gazi ve şehit yakınlarıyla kahvaltıda buluştu
-
-**Gündem · Tepebaşı** · 2026-10-27 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacgazivesehityakınlarıylaaynısofradabulustu)
-
-![](data/images/199a8d3a73770e26.jpg)
-
-> Tepebaşı Belediyesi'nin programına Muharip Gaziler Derneği, Şehit Aileleri Derneği ve EMŞAV temsilcileri katıldı.
-
-Tepebaşı Belediyesi, Gaziler Günü kapsamında şehit aileleri ve gaziler için kahvaltı programı düzenledi. Tepebaşı Belediye Başkanı Ahmet Ataç'ın ev sahipliğindeki buluşmaya Eskişehir Muharip Gaziler Derneği, Eskişehir Şehit Aileleri Derneği ve Emniyet Teşkilatı Vazife Malulü ve Şehit Aileleri Vakfı (EMŞAV) temsilcileri, şehit yakınları ve gaziler katıldı.
-
-Ataç, program boyunca konuklarıyla tek tek sohbet etti. Cumhuriyet Bayramı'nın 103. yıl dönümü dolayısıyla kutlama mesajlarının paylaşıldığı programda dernek ve vakıf temsilcileri de konuşma yaptı ve ev sahipliği için teşekkür etti.
-
-Ataç, "Sadece önemli gün ve haftalarda değil, yılın 365 gününde bir ve beraberiz" dedi. Şehitlerin yılın her günü hatırlanması ve hatıralarının yaşatılması gerektiğini söyleyen Ataç, Tepebaşı Belediyesi'nin her zaman yanlarında olacağını belirtti. (Kaynak: Tepebaşı Belediyesi)
 
 ---
