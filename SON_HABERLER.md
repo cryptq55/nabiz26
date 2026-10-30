@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda kazılan yol ve kaldırımlar mahalle mahalle yenileniyor
+
+**Belediye · Tepebaşı** · 2026-10-30 11:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaustyapıatagı)
+
+![](data/images/1fe5126de7b6ccae.jpg)
+
+> Başkan Ataç, Yeni Mahalle'de tamamlanan, Işıklar ve Şeker'de süren çalışmaları inceledi.
+
+Tepebaşı Belediyesi, alt yapı hizmeti yürüten kurum ve kuruluşların çalışmaları sırasında kazılan yol ve kaldırımları mahalle mahalle yeniliyor. Başkan Dt. Ahmet Ataç, Fen İşleri Müdürlüğü ekiplerinin sürdürdüğü çalışmaları yerinde inceledi.
+
+Ataç, Yeni Mahalle'de çalışmaların tamamlandığını, Işıklar Mahallesi'nde yoğun biçimde sürdüğünü, Şeker Mahallesi'nde de bazı sokakların yenilendiğini söyledi. Fen İşleri Müdür Vekili Enes Akgün'den sahadaki çalışmalar hakkında bilgi alan Ataç, uygulamanın beş mahallede yürütüldüğünü belirtti.
+
+Temmuz ayının sonunda başlayan çalışmalarda kaldırım işlerinin tamamlanmak üzere olduğunu, asfalt yenilemelerinin ise sürdüğünü ifade eden Ataç, "Şimdi sokakları bitirerek bu mahallelerdeki yenileme çalışmalarını tamamlayacağız" dedi. Ataç, iklim koşullarının çalışmaları engellememesini dilediğini de söyledi.
+
+---
+
+## Odunpazarı'nda anneler ve çocuklar Cumhuriyet'i Alaaddin Parkı'nda kutladı
+
+**Gündem · Odunpazarı** · 2026-10-30 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/cumhuriyet-coskusu-anneler-ve-cocuklarla-alaaddin-parki-na-tasindi)
+
+![](data/images/9f96bd98e3429a8e.jpg)
+
+> Odunpazarı Belediyesi ve Eskişehir Anneleri Buluşuyor'un şenliğinde çocuklar hatıra afişine el izlerini bıraktı.
+
+Odunpazarı Belediyesi, Eskişehir Anneleri Buluşuyor iş birliğiyle Alaaddin Parkı'nda Cumhuriyet Şenliği düzenledi. Anneler ve çocuklar Cumhuriyet'in 103. yıl dönümünü birlikte kutladı.
+
+Atatürk ve Cumhuriyet temalı gösterimlerle başlayan şenlikte Cumhuriyet marşları söylendi, çocuklara Türk bayrağı dağıtıldı. Çocuklar ellerini kırmızı boyaya batırarak ortak hatıra afişine izlerini bıraktı. Etkinlik, her yaştan çocuğun katılımına açık ve ücretsizdi; belediye, Eskişehir'de bir ilk olarak çocuklara özel hazırlandığını aktardı.
+
+Şenliğe katılan Odunpazarı Belediye Başkanı Kazım Kurt, çocuklarla sohbet etti ve fotoğraf çektirdi. Kurt, konuşmasında "103 yıldır Türkiye'de kadın erkek eşitliğini sağlayan, demokrasiyi getiren, hukukun üstünlüğünü getiren bir cumhuriyetimiz var. Buna sonuna kadar sahip çıkmalıyız" dedi. Kurt ayrıca "Cumhuriyet ve çocuklar size emanet" ifadesini kullandı.
+
+---
+
+## Kurşunlu Külliyesi'nde 3 Kasım tahliyesi durduruldu
+
+**Belediye · Odunpazarı** · 2026-10-30 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/eskisehirlilerin-tepkisi-karsilik-buldu-kursunlu-kulliyesi-nde-tahliye-durdurul)
+
+![](data/images/ce5834ce28135645.jpg)
+
+> Kaymakamlık, yürütmeyi durdurma talebine ilişkin mahkeme kararını bekleyecek.
+
+Odunpazarı Belediyesi'nin kullandığı alanların 3 Kasım'da boşaltılmasını öngören Kurşunlu Külliyesi tahliye işlemi durduruldu. Odunpazarı Kaymakamlığı, mahkemenin yürütmeyi durdurma talebiyle ilgili kararını bekleyecek.
+
+Odunpazarı Belediyesi'nin aktardığına göre, Odunpazarı Kaymakamlığı İlçe Hukuk İşleri Şefliği'nin 30 Ekim 2026'da belediyeye gönderdiği resmî yazıda, belediyenin tahliye işlemine karşı Eskişehir 1. İdare Mahkemesi'nde dava açtığı hatırlatıldı. Yazıda mahkemenin 26 Ekim 2026 tarihli ve 2026/1219 Esas sayılı kararına dikkat çekildi. Yürütmeyi durdurma talebiyle ilgili karar verilinceye kadar taşınmazın tahliyesinin durdurulmasına karar verildiği, mahkeme kararının ardından taraflardan talep gelmesi hâlinde konunun yeniden değerlendirileceği bildirildi.
+
+Belediye, tahliye durdurulduğu için külliyedeki mevcut faaliyetlerin şimdilik devam edeceğini belirtti. Odunpazarı Belediyesi, 2004'ten bu yana kira sözleşmeleri kapsamında kullandığı külliyede kapsamlı restorasyon ve düzenleme çalışmaları yaptığını, külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi'nin bulunduğunu aktardı. Belediyeye göre külliyede kadın girişimcilerin işlettiği işletmeler var, yaklaşık 30 kişi çalışıyor ve yüzlerce kursiyer sanat eğitimi alıyor. Belediye, kira sözleşmesinin beş yıl uzatılması talebine yanıt verilmemesi üzerine yargı yoluna başvurduğunu ifade etti.
+
+Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
+
+---
+
 ## Erdoğan TDT Zirvesi'nde konuştu: Dönem başkanlığı Türkiye'ye geçti
 
 **Türkiye · Türkiye** · 2026-10-30 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-turk-devletleri-teskilati-devlet-baskanlari-konseyi-13-zirvesinde-konustu)
@@ -465,55 +515,5 @@ Erdoğan konuşmasına, Zonguldak'ta geçen hafta özel bir maden ocağındaki g
 Erdoğan'ın aktardığına göre Kanada Başbakanı Mark Carney'nin ziyaretinde ilişkiler stratejik ortaklık seviyesine yükseltildi; savunma, hava ulaştırma ve enerji alanlarında üç anlaşma imzalandı ve serbest ticaret anlaşması müzakerelerine yıl bitmeden başlanması kararlaştırıldı. 3 milyar dolar civarındaki ticaret hacminin önce 5, sonra 10 milyar dolara çıkarılması hedefleniyor. Erdoğan, 16 Ekim'de Kamboçya Başbakanı Hun Manet'i İstanbul'da ağırladıklarını da hatırlattı.
 
 Erdoğan, önümüzdeki günlerin programını şöyle açıkladı: 28 Ekim'de Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev Ankara'da ağırlanacak ve aynı gün Beştepe Millet Ormanı halkın kullanımına açılacak. 30 Ekim Cuma günü Türk Devletleri Teşkilatı'nın 13. Zirvesi Ankara'da yapılacak. Ardından Güney Kore ziyareti ve dönüşte Antalya'da COP31 Zirvesi planlanıyor. (Kaynak: İletişim Başkanlığı)
-
----
-
-## Kazım Kurt: Kurşunlu Külliyesi ve eserlerin sorumluluğunu Vakıflar'a bırakıyoruz
-
-**Belediye · Odunpazarı** · 2026-10-27 02:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/kazim-kurttan-kursunlu-kulliyesi-tepkisi-buyurun-sizin-olsun)
-
-![](data/images/53002373d9902d39.jpg)
-
-> Odunpazarı Belediye Başkanı Kurt, sosyal medya paylaşımında külliyenin belediyenin elinden alınmak istendiğini öne sürdü.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'ne ilişkin sosyal medya hesabından açıklama yaptı. Kurt, külliyenin yıllardır kültür ve sanat faaliyetleriyle yaşatıldığını belirterek yapının belediyenin elinden alınmak istendiğini öne sürdü.
-
-Kurt paylaşımında, külliyenin müzeleri, atölyeleri ve uluslararası festivalleriyle Eskişehir'in önemli kültür ve sanat merkezlerinden biri haline getirildiğini, mevcut gelişmelerin bu birikimin geleceğini belirsizliğe sürüklediğini savundu. Kurt, "Biz üzerimize düşeni yaptık. Bu tarihi mirasa sahip çıktık, sanatla buluşturduk, Eskişehirlilerin hizmetine sunduk. Madem bütün bu emeğin, sanatın ve kültürel birikimin bir karşılığı yok, buyurun Kurşunlu Külliyesi de eserler de sizin olsun!" dedi. Eserlerin sorumluluğunu Kütahya Vakıflar Bölge Müdürlüğü'ne bıraktıklarını belirtti.
-
-Haberde yer alan bilgiler Kurt'un açıklamasına dayanıyor; Vakıflar Bölge Müdürlüğü'nün bu açıklamaya yanıtı kaynakta yer almıyor. (Kaynak: Google Haberler üzerinden Odunpazarı Belediye Başkanı Kazım Kurt'un paylaşımı)
-
----
-
-## ESKİ'nin ES2026 Yeni Nesil Sayaç ve Online Ödeme Sistemi tanıtıldı: Komisyon yok
-
-**Belediye · Merkez** · 2026-10-27 00:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unlucenin-secim-vaadi-hayata-gecti-eskisehirde-sebeke-suyu-yuklemede-yeni-donem)
-
-![](data/images/30223c2984e4afd2.jpg)
-
-> Aboneler cep telefonlarından su yükleyebilecek; mevcut sayaçlar ve su yükleme noktaları hizmet vermeyi sürdürecek.
-
-Eskişehir Büyükşehir Belediyesi ve ESKİ Genel Müdürlüğü'nün geliştirdiği ES2026 Yeni Nesil Sayaç ve Online Ödeme Sistemi, 26 Ekim'de ESKİ İçme Suyu Arıtma Tesisleri'nde düzenlenen programla tanıtıldı. Yeni sistemle vatandaşlar su yükleme noktalarına gitmeden cep telefonlarından işlem yapabilecek. Mevcut sayaçlarını kullanmak isteyen aboneler eski sistemle devam edebilecek.
-
-Programa Büyükşehir Belediyesi Genel Sekreter Vekili M. Recai Erdir, ESKİ Genel Müdür Vekili Niyazi Solak, belediye yöneticileri ve basın mensupları katıldı. Fransa'nın Strazburg kentinde bulunan Belediye Başkanı Ayşe Ünlüce, programa video mesaj gönderdi ve sistemin ESKİ çalışanlarının kendi mühendislik çalışmalarıyla geliştirildiğini belirterek teşekkür etti.
-
-Yeni uygulamayla vatandaşlar aile bireylerinin aboneliklerine de uzaktan su yükleyebilecek. Mobil uygulama üzerinden yapılan işlemlerden komisyon alınmayacak. Kullanıcılar kalan su miktarını ve tahmini bitiş tarihini görebilecek; su kredisinin bitmesine bir hafta kala telefonlarına uyarı gönderilecek. Sistem Android ve iOS'ta kullanılabilecek, ESKİ'ye göre iPhone'larda su yüklenmesini sağlayan çözüm Türkiye'de bir ilk.
-
-Nisan ayında saha testlerine başlanan yeni sayaçlar yeni yapılarda kullanılmaya başlandı. Mevcut aboneler mobil uygulamadan başvurarak sayaçlarını değiştirebilecek. İlk aşamada 5 ila 6 bin abonenin talebini karşılayacak hazırlık yapıldı, yıllık üretim kapasitesi 80 bin sayaca ulaşabilecek. (Kaynak: Anadolu Gazetesi)
-
----
-
-## Türkiye ile Suudi Arabistan arasında eğitim iş birliği mutabakat zaptı imzalandı
-
-**Eğitim · Türkiye** · 2026-10-26 20:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-suudi-arabistan-egitim-bakani-el-benyan039la-gorustu/haber/42293/tr)
-
-![](data/images/2c8a51b23f827716.jpg)
-
-> Bakan Tekin ve Suudi Arabistan Eğitim Bakanı El-Benyan, öğretmen-öğrenci değişimi ve denklik konularını içeren mutabakat zaptını imzaladı.
-
-Millî Eğitim Bakanı Yusuf Tekin, Suudi Arabistan Eğitim Bakanı Yusuf Bin Abdullah El-Benyan ile görüştü. Görüşmenin ardından iki bakan eğitim alanında mutabakat zaptı imzaladı. Programda Millî Eğitim Bakan Yardımcısı Celile Eren Ökten de yer aldı.
-
-Mutabakat zaptıyla öğretmen, öğrenci ve uzmanların karşılıklı ziyaretleri, eğitim personelinin mesleki gelişimi, ortak araştırmalar, eğitim materyallerinin geliştirilmesi, özel eğitim, eğitim teknolojileri ve uzaktan eğitim alanlarında iş birliğinin güçlendirilmesi hedefleniyor. Türkçe ve Arapça öğretiminin desteklenmesi, eğitim yeterlilikleri ve sertifikalarının karşılıklı tanınması ve denklikleri konusunda iş birliği, okul açılış ve izin süreçlerinin kolaylaştırılması da öngörülüyor.
-
-Tekin, iki ülke ilişkilerinin daha iyi bir noktaya taşınması için en önemli görevin eğitim bakanlıklarına düştüğünü söyledi. Tekin ayrıca yapay zekânın eğitim süreçlerindeki olumlu ve olumsuz etkilerinin sağlıklı değerlendirilmesi gerektiğini belirtti. El-Benyan ise yapay zekânın eğitimdeki yerinin belirlenmesi gerektiğini, bu rolün Suudi Arabistan'ın dini ve ulusal değerleriyle örtüşmesi gerektiğini söyledi. (Kaynak: Millî Eğitim Bakanlığı)
 
 ---
