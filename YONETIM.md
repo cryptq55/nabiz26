@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 31.10.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (194 haber, venv ile). Son haber dün 21:31 TSİ (gece 12 saat haber yok, saatlik tur çalışıyor); önceki 24 saatte 12 haber (Belediye/Gündem 3'er, Kültür-Sanat 2, Spor/Türkiye/Ekonomi/Sağlık 1'er; ilçe Odunpazarı 7, Merkez 3, Tepebaşı/Türkiye 1'er), önem 2→6, 3→5, 4→1, `reel` 0, fotoğrafsız 0. Instagram: log 16 (DAILY_CAP dolu), reel_log 5, reels kaydı 43. Kaynak taraması bu turda çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Eğitim, Sağlık, Tepebaşı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e soğuk hava, don, sağanak, KYK, pazar yeri, psikolojik destek, engelli, müze etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Spor/Eğitim kaynakları.
+SAHİBİNE: yok.
+
 ## 30.10.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (267 dosya). Son haber 21:31 TSİ; son 24 saatte 12 haber (Belediye 3, Gündem 3, Kültür-Sanat 2, Spor/Türkiye/Ekonomi/Sağlık 1'er; ilçe Odunpazarı 7, Merkez 3, Tepebaşı/Türkiye 1'er), önem 2→6, 3→5, 4→1, `reel` 0, fotoğrafsız 0. Instagram: son 24 saatte 16 paylaşım (DAILY_CAP dolu), 5 Reels. Kaynak taraması bu turda çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Eğitim, Tepebaşı/Merkez dışı ilçeler.
 **Düzeltilen:** yok.
