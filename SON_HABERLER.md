@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 31 Ekim 2026: Gram altın 6.280,35 TL
+
+**Ekonomi · Merkez** · 2026-10-31 11:26 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261031.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.202,49 TL'den alınıyor, 6.280,35 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.26 itibarıyla verilerine göre gram altının satış fiyatı 6.280,35 TL, alış fiyatı 6.202,49 TL oldu. Gram altın, önceki kapanışa göre yüzde 3,15 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.236 TL, yarım altın 20.467 TL, tam altın 40.770 TL, ata altın 41.866 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.865,88 TL, has altının gram fiyatı 6.261,57 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 14.26 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Aile ve Sosyal Hizmetler İl Müdürlüğü'nde değerlendirme toplantısı: yatırımlar ele alındı
 
 **Gündem · Merkez** · 2026-10-30 18:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aile.gov.tr/eskisehir/haberler/il-mueduerlueguemuezde-degerlendirme-toplantisi-biz-bu-devletin-emanet-kasasiyiz/)
@@ -493,21 +513,5 @@ Kurt'un basın açıklamasına göre süreç 2024 yılı sonunda başladı. İlk
 Kurt'a göre tahliye gerçekleşirse 3 müze kapanacak, cam atölyesi ve fırınları kapanacak, 3 festival sona erecek, külliyede çalışan 18 kişi işsiz kalacak ve yaklaşık 20 esnaf ticaret yapamaz hale gelecek. Kurt ayrıca kira artış oranlarında belediyenin hesabı ile Vakıfların talebinin uyuşmadığını söyledi.
 
 Haberde yer alan bilgiler Kurt'un açıklamasına dayanıyor; Vakıflar Genel Müdürlüğü'nün görüşü kaynakta yer almıyor. (Kaynak: Anadolu Gazetesi)
-
----
-
-## Büyükşehir'in müze ve tesisleri 28-29 Ekim'de açık, Halk Ekmek 29 Ekim'de kapalı
-
-**Gündem · Merkez** · 2026-10-27 12:57 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediyesi-nden-kultur-sanat-noktalarinda-29-ekim-duzenlemesi-f516d7ac)
-
-![](data/images/733730524f43a439.jpg)
-
-> Müzeler, Sazova'daki tesisler ve sosyal tesisler Cumhuriyet Bayramı'nda ziyaretçilere açık olacak.
-
-Eskişehir Büyükşehir Belediyesi, 29 Ekim Cumhuriyet Bayramı nedeniyle müze, kültür ve sanat merkezleri, turistik noktalar ile sosyal tesislerin çalışma düzenini açıkladı. Birçok tesis 28 Ekim Çarşamba ve 29 Ekim Perşembe günlerinde ziyaretçilerini ağırlayacak.
-
-Açık olacak müzeler arasında Yılmaz Büyükerşen Balmumu Heykeller Müzesi, Çağdaş Cam Sanatları Müzesi, Kent Belleği Müzesi, Kurtuluş Müzesi, İmren Erşen Oya Müzesi, Hamam Müzesi, Zühal Yorgancıoğlu Moda ve Tasarım Müzesi ile Ergün Başar Portre Galerisi var. Sanat Sokağı'ndaki Çağdaş Seramik Sanatları Müzesi, Bilim Deney Merkezi, Sabancı Uzay Evi, Masal Şatosu'nun Kendin Keşfet alanı, Hayvanat Bahçesi ve Sualtı Dünyası, Kalyon Müze Gemi, Sazova'daki Dekovil Tren, Gondol ve Bot Turu ile belediyeye ait kafeler de her iki gün hizmet verecek.
-
-Kentpark Kafe, Üretici Market Adliye, Üretici Market Bağlar, İskele 26 ve Emek Kafe de 28-29 Ekim'de açık olacak. Halk Et Marketler ve Halk Ekmek büfeleri ise 28 Ekim Çarşamba günü açık, 29 Ekim Perşembe günü kapalı olacak. (Kaynak: DHA)
 
 ---
