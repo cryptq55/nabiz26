@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan, Zelenskiy ile Dolmabahçe'de görüştü: Karadeniz'de seyrüsefer vurgusu
+
+**Türkiye · Türkiye** · 2026-10-31 17:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-ortak-basin-toplantisinda-konustu-31-10-26)
+
+![](data/images/9f5bdeb9591adcef.jpg)
+
+> Erdoğan, Ukrayna'da barış çabalarını ve Karadeniz'deki güvenlik durumunu ele aldıklarını söyledi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan ile Ukrayna Devlet Başkanı Volodimir Zelenskiy, Dolmabahçe Ofisi'nde yapılan ikili ve heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.
+
+Erdoğan, görüşmede Ukrayna'da barışın sağlanmasına yönelik son dönemde artan çabaları ve Karadeniz'deki güvenlik durumunu ele aldıklarını söyledi. Savaşın, özellikle ABD Başkanı Trump'ın çabalarıyla diplomatik yollarla sona erdirilmesine yönelik girişimlerin yeniden hız kazanmasından memnuniyet duyduklarını belirten Erdoğan, "Adil bir barışın kaybedeni olmaz" dedi ve barışa giden yolu açmak için gayret göstermeye hazır olduklarını ifade etti.
+
+Erdoğan, çatışmaların Karadeniz'e sıçradığını belirterek, sivil gemilere yönelik saldırıların kimden gelirse gelsin kabul edilemeyeceğini söyledi, tüm tarafları sorumlu davranmaya çağırdı ve Karadeniz'de seyrüsefer emniyetini yeniden tesis etmek için taraflarla görüşmelerini sürdüreceklerini belirtti.
+
+Ukrayna'nın toprak bütünlüğüne, egemenliğine ve bağımsızlığına bağlılıklarını teyit ettiklerini söyleyen Erdoğan, 2022'de imzalanan Serbest Ticaret Anlaşması'nın 1 Ekim itibarıyla yürürlüğe girmesinin 10 milyar dolar ticaret hacmi hedefine yaklaştırdığını ifade etti.
+
+Toplantıda Millî Savunma Bakanı Yaşar Güler, MİT Başkanı İbrahim Kalın, İletişim Başkanı Burhanettin Duran, Savunma Sanayii Başkanı Haluk Görgün ve diğer isimler yer aldı.
+
+---
+
 ## Altın fiyatları 31 Ekim 2026: Gram altın 6.280,35 TL
 
 **Ekonomi · Merkez** · 2026-10-31 11:26 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -495,23 +515,5 @@ Eskişehir Büyükşehir Belediyesi, Cumhuriyet'in 103. yıl dönümü kutlamala
 Seferler Fevzi Çakmak, Orhangazi, 75. Yıl, Çankaya ve Şirintepe mahallelerinden başlayacak ve her hat Odunpazarı'nda son bulacak.
 
 Hatlar şöyle: Ring Hattı 1 Fevzi Çakmak Mahallesi'nden Topçular Caddesi, Gazi Yakup Satar Caddesi, Çevre Yolu, Prof. Dr. Yılmaz Büyükerşen Caddesi ve Yunusemre Caddesi üzerinden; Ring Hattı 2 Orhangazi Mahallesi'nden Eskişehir-Kütahya Yolu, Ulusal Egemenlik Caddesi, Basın Şehitleri Caddesi ve Atatürk Bulvarı üzerinden; Ring Hattı 3 75. Yıl Mahallesi'nden Gün Sazak Caddesi, Selami Vardar Caddesi, Çevre Yolu ve Cumhuriyet Bulvarı üzerinden; Ring Hattı 4 Çankaya Mahallesi'nden Mustafa Özel Bulvarı, Arabacılar Bulvarı, Dumlupınar Caddesi üzerinden; Ring Hattı 5 Şirintepe Mahallesi'nden Bülent Ecevit Bulvarı, İsmet İnönü Bulvarları ve Atatürk Bulvarı üzerinden Odunpazarı'na ulaşacak. (Kaynak: Eskişehir Haberleri)
-
----
-
-## Kurşunlu Külliyesi için tahliye tarihi 3 Kasım: Kurt yürütmeyi durdurma başvurusu yaptı
-
-**Belediye · Odunpazarı** · 2026-10-27 12:58 UTC · Kaynak: [Google Haberler - Odunpazarı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/kursunlu-kulliyesi-icin-tahliye-tebligati-baskan-kazim-kurttan-yurutmeyi-durdurma-119504772)
-
-![](data/images/ded8d3fde5017b00.jpg)
-
-> Odunpazarı Belediye Başkanı Kurt, Vakıflar'ın tebligatına karşı İdare Mahkemesi'ne başvurduklarını açıkladı.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Vakıflar Genel Müdürlüğü tarafından Kurşunlu Külliyesi için belediyeye tahliye tebligatı gönderildiğini ve karara karşı İdare Mahkemesi'ne iptal ile yürütmenin durdurulması başvurusu yaptıklarını açıkladı.
-
-Kurt'un basın açıklamasına göre süreç 2024 yılı sonunda başladı. İlk tahliye kararına karşı açılan dava istinaf aşamasında. Kurt, 20 Kasım 2025'te yürürlüğe giren kanunun geçici 15. maddesine dikkat çekerek, belediyenin vakıf şartlarını kabul ettiğini resmen bildirmesine rağmen yanıt alamadıklarını ve tahliye için 3 Kasım 2026 tarihinin tebliğ edildiğini söyledi. Kurt, tahliyenin kanuna aykırı olduğunu savundu.
-
-Kurt'a göre tahliye gerçekleşirse 3 müze kapanacak, cam atölyesi ve fırınları kapanacak, 3 festival sona erecek, külliyede çalışan 18 kişi işsiz kalacak ve yaklaşık 20 esnaf ticaret yapamaz hale gelecek. Kurt ayrıca kira artış oranlarında belediyenin hesabı ile Vakıfların talebinin uyuşmadığını söyledi.
-
-Haberde yer alan bilgiler Kurt'un açıklamasına dayanıyor; Vakıflar Genel Müdürlüğü'nün görüşü kaynakta yer almıyor. (Kaynak: Anadolu Gazetesi)
 
 ---
