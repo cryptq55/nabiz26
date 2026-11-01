@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Başkan Ataç pazar günü Baksan'daki yol çalışmalarını inceledi
+
+**Belediye · Tepebaşı** · 2026-11-01 17:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/baksanda-calismalar-devam-ediyor-ahmet-atac-aciklama-yapti)
+
+> Tepebaşı Belediyesi ekipleri Baksan'da yaz başından beri süren çalışmalara pazar günü de devam etti.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, Baksan bölgesindeki yol çalışmalarını yerinde inceledi. Belediye ekipleri pazar günü de sahada çalıştı.
+
+Ataç, çalışma alanlarını gezdi ve belediye personeliyle bir araya geldi. Çalışmaların hangi aşamada olduğu, ihtiyaç duyulan düzenlemeler ve önümüzdeki süreçte yapılacak işler ele alındı. Ataç incelemelerin ardından, "Baksan'da ekiplerimiz pazar mesaisinde. Çalışmaları yerinde inceleyip sahadaki mevcut durumu, ihtiyaçları ve planlamamızı değerlendirdik" dedi.
+
+Tepebaşı Belediyesi'nin yaz başından beri ilçenin farklı noktalarında yol düzenleme çalışmaları yürüttüğü belirtildi. Ataç, "Mevsim koşulları elverdiği sürece, şehrimizi güzelleştirmek için tüm ekiplerimizle sahada olacağız" ifadesini kullandı. Çalışma programının hava şartlarına göre sürdürüleceği bildirildi. Belediyenin açıklamasında Baksan'daki çalışmaların tamamlanacağı tarihe ilişkin bilgi verilmedi.
+
+---
+
+## Kent Konseyi Arabasız Pazar'da "Satın Alma, Sahiplen" etkinliği düzenledi
+
+**Gündem · Merkez** · 2026-11-01 17:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/inci-ulugden-eskisehir-halkina-anlamli-cagri)
+
+> Başkan İnci Ülüğ hayvan sahiplenmenin önemine dikkat çekti.
+
+Eskişehir Kent Konseyi Hayvan Hakları Çalışma Grubu, Eskişehir Büyükşehir Belediyesi'nin Atatürk Bulvarı'nda düzenlediği Arabasız Pazar etkinliğinde "Satın Alma, Sahiplen" etkinliği yaptı. Etkinliğe Kent Konseyi Başkanı İnci Ülüğ de katıldı.
+
+Çalışma grubu üyeleri, vatandaşları hayvan hakları konusunda bilgilendirdi ve hayvan satın almak yerine sahiplenmenin tercih edilmesi gerektiğini anlattı. Ülüğ, hayvanların sevgiye ve güvenli bir yuvaya ihtiyaç duyan yaşam arkadaşları olduğunu vurguladı.
+
+Kent Konseyi'nin açıklamasında, etkinlik kapsamında kaç hayvanın sahiplendirildiğine ilişkin bir sayı paylaşılmadı.
+
+---
+
 ## Eskişehirspor, Gaziemir'i deplasmanda 5-0 yenerek ikinci sıraya yükseldi
 
 **Spor · Merkez** · 2026-11-01 16:47 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirekspres.net/eskisehirspordan-izmirde-rahat-galibiyet-5-0)
@@ -487,39 +515,5 @@ Tepebaşı Belediyesi'nin 18. Uluslararası Eskişehir Pişmiş Toprak Sempozyum
 Anıtın yapımına 6'sı Türk, 2'si yabancı 8 sanatçı, 90 çocuk, 24 stajyer ve 4 konuk akademisyen, toplam 126 kişi katkı sundu. Sanatçıların hazırladığı çocuk figürleri, çocukların pişmiş topraktan yaptığı çiçeklerle bir araya geldi. Uzuner, tasarımın merkezinde Atatürk'ün siluetinin bulunduğunu, belirli saatlerde ışığın yere de yansıdığını anlattı. Anıt, sempozyumun dördüncü kolektif eseri; daha önce "Varlığınız Sağlığımız Anıtı", "Sonsuz Cumhuriyet Anıtı" ve Yazılıkaya'dan esinlenen eser kente kazandırılmıştı.
 
 Ataç, sempozyumun 25 yıllık birikiminde 236 sanatçının katıldığını, yaklaşık 700 güzel sanatlar öğrencisinin yer aldığını, Eskişehir'e 244 pişmiş toprak heykel kazandırıldığını ve 400 bildirinin sunulduğunu söyledi. Anıtın adı, "Cumhuriyet'in Çocukları", "Atatürk'ün Çiçekleri", "Atatürk'ün Dünya Çocukları" ve "Atatürk'ün Çiçek Bahçesi" seçenekleriyle halk oylamasına sunulacak. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Vali Yılmaz, gösteri uçuşu için Eskişehir'e gelen SOLOTÜRK ekibini kabul etti
-
-**Gündem · Merkez** · 2026-10-28 12:52 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-solo-turk-ekibini-kabul-etti)
-
-![](data/images/0db53705db2bba8f.jpg)
-
-> Vali Erdinç Yılmaz, ekibe gösteri uçuşunda başarılar diledi.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, SOLOTÜRK gösteri uçuşu kapsamında Eskişehir'e gelen Hava Pilot Yarbay Murat Bakıcı, Hava Pilot Yarbay M. Erhan Aydemir, Hava Pilot Binbaşı Murat Çakmak, Hava Piyade Yüzbaşı Ş. Alper Şen ve Hava Harekât Astsubay Üstçavuş Muhammed Bölükbaşı'nı kabul etti.
-
-Yılmaz, SOLOTÜRK'ün Türk Hava Kuvvetlerinin gücünü, Türk pilotlarının yeteneğini ve havacılıktaki başarılarını gökyüzünde temsil ettiğini belirtti. Ekibe nazik ziyaretleri için teşekkür eden Yılmaz, gösteri uçuşunda başarılar diledi. (Kaynak: Eskişehir Valiliği)
-
----
-
-## Altın fiyatları 28 Ekim 2026: Gram altın 6.525,46 TL
-
-**Ekonomi · Merkez** · 2026-10-28 11:51 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261028.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.454,67 TL'den alınıyor, 6.525,46 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 14.51 itibarıyla verilerine göre gram altının satış fiyatı 6.525,46 TL, alış fiyatı 6.454,67 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,63 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.636 TL, yarım altın 21.265 TL, tam altın 42.393 TL, ata altın 43.219 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.095,59 TL, has altının gram fiyatı 6.505,94 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.046,10 dolardan işlem görürken, dolar/TL 49,89 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.51 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
