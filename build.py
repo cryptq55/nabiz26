@@ -81,6 +81,9 @@ KEYWORD_TAGS = [
     ("zelenskiy", ["#Ukrayna", "#Diplomasi"]), ("karadeniz", ["#Karadeniz", "#Türkiye"]),
     ("dolmabahçe", ["#Dolmabahçe", "#Diplomasi"]), ("sosyal hizmet", ["#SosyalHizmet", "#Aile"]),
     ("cadılar", ["#Halloween"]), ("kış saati", ["#SaatDeğişikliği"]), ("yağış", ["#Yağış", "#HavaDurumu"]),
+    ("kar yağışı", ["#Kar", "#HavaDurumu"]), ("buzlanma", ["#Buzlanma", "#TrafikUyarısı"]), ("kömür", ["#Kömür", "#KışHazırlığı"]),
+    ("doğalgaz", ["#Doğalgaz", "#Enerji"]), ("seçim", ["#Seçim", "#Siyaset"]), ("deprem", ["#Deprem", "#AFAD"]),
+    ("ekim ayı", ["#Ekim"]), ("anma", ["#Anma"]),
 ]
 INDEXNOW_KEY =hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır
