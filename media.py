@@ -74,15 +74,16 @@ def _norm(s):
     return re.sub(r"[^a-z0-9]+", " ", s).strip()
 
 
-def _get(params, tries=4):
+def _get(params, tries=3):
     for i in range(tries):
         r = requests.get(API, params={**params, "format": "json"}, headers=HEADERS, timeout=30)
         if r.status_code == 429:  # Commons kısa sürede çok istek yapılınca bekletir
-            time.sleep(8 * (i + 1))
+            time.sleep(5 * (i + 1))
             continue
         r.raise_for_status()
         return r.json()
-    return {}
+    # Hep 429: bu IP engelli (bulut oturumu). Boş sonuç "fotoğraf yok" sanılmasın diye hata verilir
+    raise RuntimeError("Wikimedia 429: bu IP'den erişim engelli")
 
 
 def candidates(query, limit=15):

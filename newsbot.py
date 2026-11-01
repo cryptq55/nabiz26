@@ -503,6 +503,32 @@ def save_article(article, candidate, image=None):
     return record
 
 
+def fill_photos(max_tries=3):
+    """foto.yml adımı: fotoğrafı bekleyen haberlere image_query ile Commons fotoğrafı bulur; bulunca haber yayına girer.
+    max_tries denemede de bulunamazsa haber yayın dışı kalır (photo_failed)."""
+    done = 0
+    for f in sorted(ARTICLES_DIR.glob("*.json")):
+        a = json.loads(f.read_text(encoding="utf-8"))
+        p = a.get("photo_pending")
+        if not p or a.get("image"):
+            continue
+        img = archive_image({"image_query": p["query"]}, a["slug"][13:60] + "-arsiv")
+        if img:
+            a["image"] = img
+            a["published_at"] = datetime.now(timezone.utc).isoformat()  # yayına girdiği an
+            del a["photo_pending"]
+            done += 1
+            log(f"[fotoğraf bulundu] {a['title']}")
+        else:
+            p["tries"] += 1
+            if p["tries"] >= max_tries:
+                a["photo_failed"] = a.pop("photo_pending")
+                log(f"[fotoğraf yok, yayın dışı] {a['title']}")
+        f.write_text(json.dumps(a, ensure_ascii=False, indent=2), encoding="utf-8")
+    log(f"{done} habere fotoğraf bulundu.")
+    return done
+
+
 def collect_queue(max_items, out_path):
     """Oturum modu 1. adım: modeli çağırmadan, yazılacak kaynakları metinleriyle birlikte dosyaya çıkarır."""
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
@@ -612,6 +638,12 @@ def save_decisions(queue_path, decisions_path):
     """Oturum modu 2. adım: Claude'un verdiği kararları (ARTICLE_SCHEMA biçiminde) doğrulayıp kaydeder."""
     queue = {c["key"]: c for c in json.loads(Path(queue_path).read_text(encoding="utf-8"))["queue"]}
     decisions = json.loads(Path(decisions_path).read_text(encoding="utf-8"))
+    reasons = [d.get("skip_reason", "") for d in decisions.values() if not d.get("publish")]
+    if len(decisions) >= 4 and len(reasons) == len(decisions) and len(set(reasons)) == 1:
+        # Her kaynak ayrı değerlendirilmeli: hepsini tek gerekçeyle geçmek haber akışını durduruyordu
+        log("[hata] Bütün kaynaklar aynı gerekçeyle geçilmiş; toplu geçiş kabul edilmez. Her kaynağı ayrı değerlendir, "
+            "fotoğrafı olmayanlara image_query yaz (OTURUM.md). Hiçbir şey kaydedilmedi.")
+        sys.exit(1)
     seen = load_seen()
     written = 0
     for key, article in decisions.items():
@@ -633,13 +665,23 @@ def save_decisions(queue_path, decisions_path):
         if not c.get("image"):
             # Gazete fotoğrafı kullanılamaz (telif), yapay zekâ görseli üretilmez: konuya birebir uyan arşiv fotoğrafı
             c["image"] = archive_image(article, key)
-        if REQUIRE_IMAGE and not c.get("image"):
+        pending = REQUIRE_IMAGE and not c.get("image") and bool(article.get("image_query"))
+        if REQUIRE_IMAGE and not c.get("image") and not pending:
             log(f"[atlandı] fotoğrafsız haber kaydedilmez: {c['title']}")
             continue
         if article["category"] not in CATEGORIES or article["district"] not in DISTRICTS:
             log(f"[hata] geçersiz kategori/ilçe ({article['category']}/{article['district']}): {c['title']}")
             continue
         record = save_article(article, c, c.get("image"))
+        if pending:
+            # Bulut oturumunun IP'si Wikimedia'dan engellenebiliyor: haber fotoğrafsız (yayın dışı) kaydedilir,
+            # fotoğrafı GitHub Actions'taki foto.yml (--fill-photos) bulup yayına alır
+            record["photo_pending"] = {"query": article["image_query"], "tries": 0}
+            (ARTICLES_DIR / f"{record['slug']}.json").write_text(json.dumps(record, ensure_ascii=False, indent=2),
+                                                                encoding="utf-8")
+            log(f"[fotoğraf bekliyor] {record['title']} <- {article['image_query']}")
+            written += 1
+            continue
         written += 1
         log(f"[yazıldı] {record['title']} ({record['category']}/{record['district']}){' 📷' if c.get('image') else ''}")
     for key in queue:
@@ -673,7 +715,10 @@ def main():
     parser.add_argument("--save", nargs=2, metavar=("KUYRUK.json", "KARARLAR.json"), help="oturum modu: kararları kaydet")
     parser.add_argument("--rules", action="store_true", help="editör kurallarını ve karar şemasını yazdır")
     parser.add_argument("--auto", action="store_true", help="yedek masa: topla + API ile yaz + kaydet")
+    parser.add_argument("--fill-photos", action="store_true", help="fotoğraf bekleyen haberlere Commons fotoğrafı bul")
     args = parser.parse_args()
+    if args.fill_photos:
+        return fill_photos()
     if args.rules:
         print(SYSTEM_PROMPT + "\n\nKarar şeması (JSON Schema):\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False, indent=2))
         return

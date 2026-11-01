@@ -1,0 +1,62 @@
+name: Fotoğraf bul
+
+# Haber masası (Claude bulut oturumu) Wikimedia'ya erişemiyor (bulut IP'si 429 alıyor): fotoğrafı bekleyen
+# haberleri (photo_pending) burada image_query ile Wikimedia Commons'tan tamamlar, bulunanlar yayına girer.
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"
+  workflow_dispatch:
+    inputs:
+      dene:
+        description: "Yalnızca dene: bu sorguyla fotoğraf ara, hiçbir şey kaydetme (ör. Eskişehirspor)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write   # yeni haber yayına girince "Bildir ve paylaş"ı başlatmak için
+
+concurrency:
+  group: foto
+  cancel-in-progress: false
+
+jobs:
+  bul:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bekleyen haber var mı
+        id: kontrol
+        env:
+          DENE: ${{ inputs.dene }}
+        run: |
+          if [ -n "$DENE" ]; then echo "dene=1" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if grep -lq '"photo_pending"' data/articles/*.json; then echo "var=1" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/setup-python@v5
+        if: steps.kontrol.outputs.var == '1' || steps.kontrol.outputs.dene == '1'
+        with:
+          python-version: "3.12"
+          cache: pip
+      - if: steps.kontrol.outputs.var == '1' || steps.kontrol.outputs.dene == '1'
+        run: pip install -q -r requirements.txt
+      - name: Sorgu denemesi
+        if: steps.kontrol.outputs.dene == '1'
+        env:
+          DENE: ${{ inputs.dene }}
+        run: python -c "import media, os; print(media.find_image(os.environ['DENE'], '/tmp/dene', 'dene'))"
+      - if: steps.kontrol.outputs.var == '1'
+        run: python newsbot.py --fill-photos | tee foto.log
+      - name: Kaydet ve paylaş
+        if: steps.kontrol.outputs.var == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "nabiz26-bot"
+          git config user.email "nabiz26-bot@users.noreply.github.com"
+          git add data/articles data/images data/media_used.json
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Fotoğraflar bulundu"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+            if grep -q "fotoğraf bulundu\]" foto.log; then gh workflow run haber.yml; fi
+          fi
