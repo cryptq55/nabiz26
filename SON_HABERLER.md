@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'ın duyurduğu "Vizyon Eskişehir 2036" çalışması televizyonda tartışıldı
+
+**Gündem · Merkez** · 2026-11-01 23:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/vizyon-eskisehir-2036-projesi-eskisehire-neler-katacak)
+
+> Gazeteci Akif Yer, çalışmanın ilçelere yönelik yaklaşımını olumlu bulduğunu söyledi.
+
+Kanal 26'da yayınlanan Muhabirin Gözünden programında, Eskişehir Valisi Dr. Erdinç Yılmaz'ın duyurduğu "Vizyon Eskişehir 2036" çalışması ele alındı. Programın moderatörü Merve Esra Özer, açıklanan hedeflerin somut projelere dönüşmesi için gereken adımları sordu. Gazeteci Akif Yer, çalışmanın kentin önümüzdeki 10 yılı için önemli hedefler içerdiğini söyledi.
+
+Yer'in aktardığına göre tanıtım programına belediyeler, odalar, dernekler, vakıflar ve üniversiteler dahil çok sayıda kurum davet edildi ve yaklaşık 40-45 dakika sürdü. Yer, çalışmanın yeni fabrikalar kurulmasını, iş imkânlarının artırılmasını, tarımın geliştirilmesini, turizmin büyütülmesini ve gençlere fırsat sunulmasını hedeflediğini anlattı. Tanıtımda kullanılan şarkı ve klibin yapay zekâyla oluşturulduğunu belirten Yer, şarkıyı yetersiz bulduğunu söyledi.
+
+Yer, çalışmanın en beğendiği yönünün "Eskişehir sadece Odunpazarı ve Tepebaşı'ndan ibaret değildir" vurgusu olduğunu belirtti. Yaklaşık 920 bin kişilik nüfusun 820 bininin iki merkez ilçede yaşadığını, kalan nüfusun 12 kırsal ilçeye dağıldığını ve yatırımcıların ilçelere yönlendirilmesi gerektiğini söyledi. Eskişehir'in İstanbul ve Ankara'ya yakın konumu nedeniyle daha fazla yatırım alması gerektiğini ifade eden Yer, 2036'ya kadar yaşanacak gelişmeleri takip edeceklerini belirtti.
+
+Haberdeki değerlendirmeler Akif Yer'e aittir.
+
+---
+
 ## Eskişehirspor'da Hakan Şapcı'ya taraftardan destek: tribünler çağırdı, alkışladı
 
 **Spor · Merkez** · 2026-11-01 22:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-hakan-sapci-ve-ekibine-destek-artiyor)
@@ -495,23 +511,5 @@ Cumhuriyet'i Türk milletinin bağımsızlık iradesinin ve hür yaşama kararl�
 "Dünyada barış, bölgede barış ve yurtta barış" şiarıyla barış ve adalet için gayret göstermeye devam edeceklerini söyleyen Erdoğan, Türkiye Yüzyılı hedefini hayata geçireceklerini belirtti. Erdoğan, "Türkiye hamdolsun bugün dünden daha güçlüdür" ifadesini kullandı.
 
 Mesajın sonunda Atatürk'ü, silah arkadaşlarını, Millî Mücadele kahramanlarını ve şehitleri rahmetle andı, gazilere şükranlarını sundu.
-
----
-
-## Bakan Tekin'den Cumhuriyet Bayramı mesajı: "Eğitim en sağlam dayanağımız"
-
-**Eğitim · Türkiye** · 2026-10-29 06:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin039in-29-ekim-cumhuriyet-bayrami-mesaji/haber/42330/tr)
-
-![](data/images/86d1f3c6624edaab.jpg)
-
-> Bakan Tekin, Cumhuriyet'in 103. yılında Maarif Modeli'ne ve öğretmenlere vurgu yaptı.
-
-Millî Eğitim Bakanı Yusuf Tekin, Cumhuriyet'in ilanının 103. yıl dönümü dolayısıyla bir mesaj yayımladı. Tekin, mesajında yurdun dört bir yanındaki vatandaşların, Kıbrıs Türk halkının, yurt dışında yaşayanların ve bütün eğitim camiasının 29 Ekim Cumhuriyet Bayramı'nı kutladı.
-
-Bakan Tekin, bu özel günün milletin birliğini ve kardeşliğini güçlendirmesini, ülke ve bütün insanlık için huzura ve barışa vesile olmasını diledi. Cumhuriyet'in banisi Gazi Mustafa Kemal Atatürk'ü, Millî Mücadele'yi yöneten Gazi Meclis'in mensuplarını ve bu mücadelenin bütün kahramanlarını şükranla andığını belirtti; şehitleri rahmetle, gazileri minnetle andı.
-
-Tekin, Cumhuriyet'in ikinci yüzyılının şafağında Cumhurbaşkanı'nın işaret ettiği Türkiye Yüzyılı hedeflerine millet olarak omuz verdiklerini söyledi. Bu hedefin en sağlam dayanağının eğitim, en büyük güvencesinin ise iyi yetişmiş nesiller olduğunu vurguladı. Türkiye Yüzyılı Maarif Modeli'ni bu bilinçle hayata geçirdiklerini, modelle millî ve manevi değerlerine bağlı, tarihine ve kültürüne vâkıf, hür düşünen, muhakeme eden ve üreten nesiller yetiştirmeyi amaçladıklarını ifade etti.
-
-Mesajında öğretmenlere de seslenen Tekin, onları eğitim idealini yaşatan "cumhuriyet neferleri" olarak niteledi ve "Hakkınız ödenmez" dedi.
 
 ---
