@@ -331,7 +331,8 @@
   "202610311126-altin-fiyatlari-31-ekim-2026-gram-altin-6-280-35-tl",
   "202611011220-altin-fiyatlari-1-kasim-2026-gram-altin-6-288-41-tl",
   "202611011647-eskisehirspor-gaziemiri-deplasmanda-5-0-yenerek-ikinci-siraya-yukseldi",
-  "202611011647-ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyesindeki-muzeye-dikkat-ce"
+  "202611011647-ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyesindeki-muzeye-dikkat-ce",
+  "202611011646-eskisehir-lezzetleri-kitabi-tanitildi-37-tarif-12-lezzetin-oykusu"
  ],
  "log": [
   1793535981.2200692,
@@ -341,11 +342,13 @@
   1793555548.3923645,
   1793555566.0308373,
   1793555582.7030437,
-  1793555597.1324518
+  1793555597.1324518,
+  1793558288.7080722
  ],
  "reel_log": [
   1793535981.2200706,
   1793552006.3134296,
-  1793555548.3923664
+  1793555548.3923664,
+  1793558288.7080746
  ]
 }
