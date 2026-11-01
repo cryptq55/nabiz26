@@ -20,10 +20,10 @@
     "title": "Tepebaşı’nda Pop & Caz Korosu İçin Koristler Aranıyor - Haberes",
     "url": "https://www.haberes.com.tr/tepebasinda-pop-caz-korosu-icin-koristler-araniyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ferdi Zeyrek Yaşam Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
