@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 1 Kasım 2026: Gram altın 6.288,41 TL
+
+**Ekonomi · Merkez** · 2026-11-01 12:20 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261101.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.206,84 TL'den alınıyor, 6.288,41 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.20 itibarıyla verilerine göre gram altının satış fiyatı 6.288,41 TL, alış fiyatı 6.206,84 TL oldu. Gram altın, önceki kapanışa göre yüzde 3,03 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.250 TL, yarım altın 20.493 TL, tam altın 40.823 TL, ata altın 41.920 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.873,42 TL, has altının gram fiyatı 6.269,60 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,92 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.20 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Erdoğan, Zelenskiy ile Dolmabahçe'de görüştü: Karadeniz'de seyrüsefer vurgusu
 
 **Türkiye · Türkiye** · 2026-10-31 17:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-ortak-basin-toplantisinda-konustu-31-10-26)
@@ -499,21 +519,5 @@ Tepebaşı Belediyesi ile Eskişehir Osmangazi Üniversitesi (ESOGÜ) Ziraat Fak
 Akademisyenler ve tarımsal araştırma enstitülerinin temsilcileri; bal kabağının genetik kaynaklarını, ıslahını, yetiştiriciliğini ve kırsal kalkınmadaki yerini değerlendirdi. Çalıştaya Geçit Kuşağı Araştırma Enstitüsü Müdürü Ulaş Çınar, Sakarya Mısır Araştırma Enstitüsü Müdürü Mehmet Yılmaz, Eskişehir İl Tarım ve Orman Müdür Yardımcısı Hasan Öz ile Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü'nden Dr. Evran Doğan da katıldı.
 
 Tepebaşı Belediye Başkanı Ahmet Ataç, Kızılinler bal kabağının Eskişehir'in kırsal değerlerinden biri olduğunu ve coğrafi işaret tescili taşıdığını hatırlatarak üretimi geliştirmek ve üreticiye daha fazla katkı sunmak istediklerini söyledi. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da bilgilerin paylaşılmasının önemine değindi. Çalıştayın moderatörlüğünü Doç. Dr. Sıtkı Ermiş yaptı; ilk oturumlarda kabak türlerinin tarihsel gelişimi ve ıslah çalışmaları ele alındı. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## 29 Ekim'de Büyükşehir 5 mahalleden tören alanına ücretsiz ring seferleri düzenleyecek
-
-**Ulaşım · Merkez** · 2026-10-27 15:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehir-icin-yeni-karar-ucretsiz-olacak-2420141)
-
-![](data/images/223873a17c26af93.jpg)
-
-> Ring araçları 29 Ekim Perşembe günü saat 08.45'te Fevzi Çakmak, Orhangazi, 75. Yıl, Çankaya ve Şirintepe'den hareket edecek.
-
-Eskişehir Büyükşehir Belediyesi, Cumhuriyet'in 103. yıl dönümü kutlamaları kapsamında vatandaşların tören alanına kolay ve güvenli ulaşımını sağlamak için 5 ayrı güzergâhta ücretsiz ring seferi düzenleyecek. Ring araçları 29 Ekim Perşembe günü saat 08.45'te hareket edecek.
-
-Seferler Fevzi Çakmak, Orhangazi, 75. Yıl, Çankaya ve Şirintepe mahallelerinden başlayacak ve her hat Odunpazarı'nda son bulacak.
-
-Hatlar şöyle: Ring Hattı 1 Fevzi Çakmak Mahallesi'nden Topçular Caddesi, Gazi Yakup Satar Caddesi, Çevre Yolu, Prof. Dr. Yılmaz Büyükerşen Caddesi ve Yunusemre Caddesi üzerinden; Ring Hattı 2 Orhangazi Mahallesi'nden Eskişehir-Kütahya Yolu, Ulusal Egemenlik Caddesi, Basın Şehitleri Caddesi ve Atatürk Bulvarı üzerinden; Ring Hattı 3 75. Yıl Mahallesi'nden Gün Sazak Caddesi, Selami Vardar Caddesi, Çevre Yolu ve Cumhuriyet Bulvarı üzerinden; Ring Hattı 4 Çankaya Mahallesi'nden Mustafa Özel Bulvarı, Arabacılar Bulvarı, Dumlupınar Caddesi üzerinden; Ring Hattı 5 Şirintepe Mahallesi'nden Bülent Ecevit Bulvarı, İsmet İnönü Bulvarları ve Atatürk Bulvarı üzerinden Odunpazarı'na ulaşacak. (Kaynak: Eskişehir Haberleri)
 
 ---
