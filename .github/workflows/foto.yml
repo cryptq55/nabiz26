@@ -3,6 +3,9 @@ name: Fotoğraf bul
 # Haber masası (Claude bulut oturumu) Wikimedia'ya erişemiyor (bulut IP'si 429 alıyor): fotoğrafı bekleyen
 # haberleri (photo_pending) burada image_query ile Wikimedia Commons'tan tamamlar, bulunanlar yayına girer.
 on:
+  push:   # haber masası yeni haber gönderince hemen (kendi kayıtları GITHUB_TOKEN ile, tekrar tetiklemez)
+    branches: [main]
+    paths: ["data/articles/**"]
   schedule:
     - cron: "7,27,47 * * * *"
   workflow_dispatch:
