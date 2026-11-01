@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı Pop & Caz Korosu için koristler aranıyor: başvuru 12 Kasım'a kadar
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-01 18:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/tepebasinda-pop-caz-korosu-icin-koristler-araniyor)
+
+> 17-35 yaş arası müzikseverler için seçmeler 13 Kasım'da Ferdi Zeyrek Yaşam Merkezi'nde.
+
+Tepebaşı Belediyesi, Pop & Caz Korosu'nda yer almak isteyen 17-35 yaş arasındaki müzikseverler için başvuru sürecini başlattı. Başvurular 22 Ekim-12 Kasım tarihleri arasında alınacak.
+
+Şef Derya İnanç yönetimindeki koroya başvuru formuna tepebasi.bel.tr adresinin Etkinlikler sayfasından ulaşılabilecek. Seçmeler 13 Kasım Cuma günü saat 19.00'da, Ferdi Zeyrek Yaşam Merkezi bünyesindeki İki Elin Sesi Var Çocuk ve Gençlik Senfoni Orkestrası ve Korosu'nda yapılacak.
+
+Seçmelerin yapılacağı adres Yeşiltepe Mahallesi, Kırca Sokak No: 1/A. Ayrıntılı bilgi için 0222 321 12 79 numaralı telefon aranabilir. Etkinlik ücretsiz.
+
+---
+
 ## Başkan Ataç pazar günü Baksan'daki yol çalışmalarını inceledi
 
 **Belediye · Tepebaşı** · 2026-11-01 17:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/baksanda-calismalar-devam-ediyor-ahmet-atac-aciklama-yapti)
@@ -50,7 +64,9 @@ Bu galibiyetle puanını 18'e yükselten Eskişehirspor ikinci sıraya yerleşti
 
 ## Ayşe Kulin Odunpazarı'nı gezdi, Kurşunlu Külliyesi'ndeki müzeye dikkat çekti
 
-**Kültür-Sanat · Odunpazarı** · 2026-11-01 16:47 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/amp/ayse-kulin-den-kursunlu-kulliyesi-icin-cagri--kulturu-lutfen-mahvetmeyiniz-beyler--297356.html)
+**Kültür-Sanat · Odunpazarı** · 2026-11-01 17:46 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/amp/ayse-kulin-den-kursunlu-kulliyesi-icin-cagri--kulturu-lutfen-mahvetmeyiniz-beyler--297356.html)
+
+![](data/images/ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyes-arsiv.jpg)
 
 > Yazar, Ahşap Eserler Müzesi'nin tahliye edilmek istenmesine tepki gösterdi.
 
@@ -66,7 +82,9 @@ Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
 
 ## "Eskişehir Lezzetleri" kitabı tanıtıldı: 37 tarif, 12 lezzetin öyküsü
 
-**Kültür-Sanat · Merkez** · 2026-11-01 16:46 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.toplumsal.com.tr/haber/eskisehir-in-37-tarifli-mutfak-kitabi-tanitildi_32397/)
+**Kültür-Sanat · Merkez** · 2026-11-01 17:46 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.toplumsal.com.tr/haber/eskisehir-in-37-tarifli-mutfak-kitabi-tanitildi_32397/)
+
+![](data/images/eskisehir-lezzetleri-kitabi-tanitildi-37-tarif--arsiv.jpg)
 
 > Kitabı Büyükşehir ile TYSD Eskişehir Şubesi hazırladı.
 
@@ -499,21 +517,5 @@ Ataç, Cumhuriyet'in kuşakları yan yana getiren ortak bir kazanım olduğunu s
 Tepebaşı Belediyesi'nin 12 takım ve 150 personelin katılımıyla düzenlediği 8. Geleneksel Cumhuriyet Kupası tamamlandı. Esentepe Halı Saha'da oynanan finalde Sağlık İşleri Müdürlüğü, Park Bahçeler Müdürlüğü'nü geçerek şampiyon oldu. Park Bahçeler Müdürlüğü ikinci, Temizlik İşleri Müdürlüğü üçüncü sırada yer aldı.
 
 Turnuvayı Spor İşleri Müdürlüğü düzenledi. Kayıtlar 14 Eylül'de başladı, maçlar 5 Ekim'de oynanmaya başladı. Tepebaşı Belediye Başkanı Ahmet Ataç, kupanın çalışma arkadaşlarını sporun birleştirici gücü etrafında buluşturan bir gelenek olduğunu söyledi ve dereceye giren takımları kutladı. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## 'Atatürk ve Dünya Çocukları' anıtı açıldı, adını Eskişehirliler anketle belirleyecek
-
-**Kültür-Sanat · Tepebaşı** · 2026-10-28 19:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/ataturkvecocuklarınizieskisehir’inkenthafızasınakazındı)
-
-![](data/images/5f58d5ccc2b51d30.jpg)
-
-> Tepebaşı Belediyesi'nin 18. Pişmiş Toprak Sempozyumu'nda hazırlanan anıtın yapımına 126 kişi emek verdi.
-
-Tepebaşı Belediyesi'nin 18. Uluslararası Eskişehir Pişmiş Toprak Sempozyumu kapsamında kente kazandırdığı "Atatürk ve Dünya Çocukları" temalı kolektif anıt, 29 Ekim Cumhuriyet Bayramı'nın arifesinde törenle açıldı. Tepebaşı Belediye Başkanı Ahmet Ataç'ın ev sahipliğindeki törene Odunpazarı Belediye Başkanı Kazım Kurt, Büyükşehir Belediye Başkan Vekili Vural Yörük, Tepebaşı Kent Konseyi Başkanı Canan Adlım, Prof. Bilgehan Uzuner ve çok sayıda vatandaş katıldı. Bando gösterisiyle başlayan törende Tepebaşı Belediyesi Erken Çocukluk Eğitim Merkezlerindeki çocuklar bayraklarla yer aldı; protokol kurdele keserek anıtı açtı.
-
-Anıtın yapımına 6'sı Türk, 2'si yabancı 8 sanatçı, 90 çocuk, 24 stajyer ve 4 konuk akademisyen, toplam 126 kişi katkı sundu. Sanatçıların hazırladığı çocuk figürleri, çocukların pişmiş topraktan yaptığı çiçeklerle bir araya geldi. Uzuner, tasarımın merkezinde Atatürk'ün siluetinin bulunduğunu, belirli saatlerde ışığın yere de yansıdığını anlattı. Anıt, sempozyumun dördüncü kolektif eseri; daha önce "Varlığınız Sağlığımız Anıtı", "Sonsuz Cumhuriyet Anıtı" ve Yazılıkaya'dan esinlenen eser kente kazandırılmıştı.
-
-Ataç, sempozyumun 25 yıllık birikiminde 236 sanatçının katıldığını, yaklaşık 700 güzel sanatlar öğrencisinin yer aldığını, Eskişehir'e 244 pişmiş toprak heykel kazandırıldığını ve 400 bildirinin sunulduğunu söyledi. Anıtın adı, "Cumhuriyet'in Çocukları", "Atatürk'ün Çiçekleri", "Atatürk'ün Dünya Çocukları" ve "Atatürk'ün Çiçek Bahçesi" seçenekleriyle halk oylamasına sunulacak. (Kaynak: Tepebaşı Belediyesi)
 
 ---
