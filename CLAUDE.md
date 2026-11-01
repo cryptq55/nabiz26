@@ -55,7 +55,11 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 - Fotoğraflar yalnızca resmî kurum sitelerinden (gov.tr, bel.tr, edu.tr). Gazete ve ajans fotoğrafı yok.
   Resmî fotoğraf yoksa editörün `image_query`'sine (kişi/ürün/yer tam adı) birebir uyan Wikimedia Commons
   fotoğrafı (`media.py`: dosya adında adın bütün kelimeleri, ≥1000 px, CC BY/BY-SA/CC0/kamu malı, logo/harita/afiş yok);
-  sitede ve kartlarda "Arşiv fotoğrafı" etiketi, fotoğrafçı ve lisans. Bulunamazsa haber yayınlanmaz. Sahibi yapay zekâ
+  sitede ve kartlarda "Arşiv fotoğrafı" etiketi, fotoğrafçı ve lisans. Bulunamazsa haber yayınlanmaz. Bulut oturumlarının IP'si
+  Wikimedia'da engelli (429): masa haberi `photo_pending` ile yayın dışı kaydeder, `foto.yml` (20 dk'da bir, Actions)
+  `newsbot.py --fill-photos` ile fotoğrafı bulup yayına alır ve "Bildir ve paylaş"ı başlatır; 3 denemede bulunamazsa
+  `photo_failed`. Elle deneme: "Fotoğraf bul" iş akışı `dene` girdisi. `--save` bütün kuyruğu tek gerekçeyle geçen
+  kararları reddeder (masa 25-31.10 arası böyle yapıp akışı durdurmuştu). Sahibi yapay zekâ
   görseli ve yazılı kapak istemedi (23.10.2026). Birebir fotoğrafı olmayan eski haberler gizlendi (`image: null`,
   eski görsel `image_hidden` alanında). Altın haberi tablo kapağıyla kalır. Tek kişi aranırken görüşme fotoğrafı,
   grafik/tablo, karanlık/bulanık fotoğraf elenir; aynı fotoğraf 10 günde en fazla 2 haberde (`data/media_used.json`);
