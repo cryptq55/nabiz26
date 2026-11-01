@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-01T16:46:53.468752+00:00",
+  "published_at": "2026-11-01T17:46:27.491219+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir’in 37 tarifli mutfak kitabı tanıtıldı - Toplumsal Haber",
     "url": "https://www.toplumsal.com.tr/haber/eskisehir-in-37-tarifli-mutfak-kitabi-tanitildi_32397/"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehir-lezzetleri-kitabi-tanitildi-37-tarif--arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:AyseUnluce.jpg",
+    "archive": true,
+    "credit": "T.C. Eskişehir Büyükşehir Belediyesi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-01T16:47:47.663991+00:00",
+  "published_at": "2026-11-01T17:46:30.375050+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir gündem",
     "title": "Ayşe Kulin’den Kurşunlu Külliyesi için çağrı: Kültürü lütfen mahvetmeyiniz beyler! - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/amp/ayse-kulin-den-kursunlu-kulliyesi-icin-cagri--kulturu-lutfen-mahvetmeyiniz-beyler--297356.html"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Kulin"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyes-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aysekulin_(cropped).jpg",
+    "archive": true,
+    "credit": "Levent Abi at Turkish Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }
