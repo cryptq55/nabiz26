@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-01T23:31:48.281569+00:00",
+  "published_at": "2026-11-01T23:32:19.392374+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Vizyon Eskişehir 2036 projesi Eskişehir'e neler katacak - Gzt26",
     "url": "https://www.gzt26.com/vizyon-eskisehir-2036-projesi-eskisehire-neler-katacak"
   },
-  "photo_pending": {
-    "query": [
-      "Erdinç Yılmaz"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/vali-yilmazin-duyurdugu-vizyon-eskisehir-2036-c-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Erdinc-Yilmaz-2023.jpg",
+    "archive": true,
+    "credit": "Gazette TV / Wikimedia Commons (CC BY 3.0)"
   }
 }
