@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor'da Hakan Şapcı'ya taraftardan destek: tribünler çağırdı, alkışladı
+
+**Spor · Merkez** · 2026-11-01 22:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-hakan-sapci-ve-ekibine-destek-artiyor)
+
+> Gaziemir galibiyetinin ardından teknik direktör tribünlere çağrıldı.
+
+Eskişehirspor'un İzmir'de Gaziemir'i 5-0 yendiği maçın ardından taraftarlar teknik direktör Hakan Şapcı'yı tribünlere çağırdı. Şapcı, taraftarları alkışlayarak teşekkür etti.
+
+Etimesgut ve Bursa Yıldırımspor maçlarındaki puan kayıpları nedeniyle eleştirilen Şapcı'ya yönelik tepkiler artmıştı. Bursa Yıldırımspor maçının son dakikalarında tribünlerden istifa tezahüratları yükselmişti. Takımın Türkiye Kupası'nda Iğdır FK'yı yenmesi bu süreçte önemli bir dönüm noktası olarak değerlendirildi.
+
+Üst üste alınan Iğdır FK ve Gaziemir galibiyetlerinin ardından Eskişehirspor gelecek cumartesi günü kendi sahasında Antalya Kepezspor'u konuk edecek.
+
+---
+
+## Eskişehirli Sui Generis Tiyatro Maltepe Tiyatro Festivali'nde "Cambazın Cenazesi"ni oynadı
+
+**Kültür-Sanat · Merkez** · 2026-11-01 22:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.gzt26.com/eskisehirli-tiyatro-toplulugu-istanbulda-alkis-topladi)
+
+> Oyun 27 Ekim'de Maltepe Belediyesi Türkan Saylan Kültür Merkezi'nde sahnelendi.
+
+Eskişehir'in tiyatro topluluklarından Sui Generis Tiyatro, İstanbul'da düzenlenen 8. Uluslararası Maltepe Tiyatro Festivali'ne katıldı. Topluluk, "Cambazın Cenazesi" oyununu 27 Ekim Salı akşamı Maltepe Belediyesi Türkan Saylan Kültür Merkezi'nde sahneledi ve izleyicilerden alkış aldı.
+
+2009'da Eskişehir'de kurulan topluluğun oyununun yazarı Firuze Engin, yönetmeni Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları sanatçısı Tolga Tümer. Oyunda Hüseyin Akçar, Tolga Tümer ve Eren Coşan rol aldı.
+
+Grup Koordinatörü Av. Hüseyin Akçar, İstanbul'da gördükleri ilgiden memnuniyet duyduklarını, topluluğun uzun yıllardır gönüllülük esasıyla çalıştığını söyledi.
+
+---
+
+## Erdoğan Güney Kore'ye gitti: 3 Kasım'da Lee Jae Myung ile görüşecek
+
+**Türkiye · Türkiye** · 2026-11-01 22:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-guney-koreye-gitti-01.11.26)
+
+![](data/images/c11e91010c8a402e.jpg)
+
+> Ziyaret 1-4 Kasım tarihlerini kapsıyor.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Kore Cumhuriyeti Devlet Başkanı Lee Jae Myung'un davetiyle Seul'e hareket etti. Erdoğan'ı Atatürk Havalimanı Devlet Konukevi'nden Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, İstanbul Valisi Davut Gül ve AK Parti İstanbul İl Başkanı Abdullah Özdemir uğurladı.
+
+Erdoğan'a eşi Emine Erdoğan, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Millî Savunma Bakanı Yaşar Güler ve Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır eşlik etti.
+
+1-4 Kasım tarihlerini kapsayan ziyaret kapsamında Erdoğan, 3 Kasım Salı günü Lee Jae Myung ile resmî görüşme yapacak. Görüşmelerde iki ülke arasındaki stratejik ortaklık ilişkileri tüm yönleriyle ele alınacak, güncel bölgesel ve küresel meseleler hakkında fikir alışverişinde bulunulacak ve ikili ilişkilerin zeminini güçlendirecek çeşitli belgeler imzalanacak.
+
+---
+
 ## Tepebaşı Pop & Caz Korosu için koristler aranıyor: başvuru 12 Kasım'a kadar
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-01 18:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/tepebasinda-pop-caz-korosu-icin-koristler-araniyor)
@@ -469,53 +513,5 @@ Bakan Tekin, bu özel günün milletin birliğini ve kardeşliğini güçlendirm
 Tekin, Cumhuriyet'in ikinci yüzyılının şafağında Cumhurbaşkanı'nın işaret ettiği Türkiye Yüzyılı hedeflerine millet olarak omuz verdiklerini söyledi. Bu hedefin en sağlam dayanağının eğitim, en büyük güvencesinin ise iyi yetişmiş nesiller olduğunu vurguladı. Türkiye Yüzyılı Maarif Modeli'ni bu bilinçle hayata geçirdiklerini, modelle millî ve manevi değerlerine bağlı, tarihine ve kültürüne vâkıf, hür düşünen, muhakeme eden ve üreten nesiller yetiştirmeyi amaçladıklarını ifade etti.
 
 Mesajında öğretmenlere de seslenen Tekin, onları eğitim idealini yaşatan "cumhuriyet neferleri" olarak niteledi ve "Hakkınız ödenmez" dedi.
-
----
-
-## Erdoğan, ABD Başkanı Trump ile telefonda görüştü
-
-**Türkiye · Türkiye** · 2026-10-29 02:31 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama28-10-26)
-
-![](data/images/0793f4d03d440555.jpg)
-
-> Liderler ikili ilişkileri ve bölgesel gelişmeleri ele aldı; Trump Cumhuriyet Bayramı'nı kutladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi gerçekleştirdi. Liderler, Türkiye-ABD ikili ilişkilerini ve bölgesel ile küresel gelişmeleri ele aldı.
-
-Erdoğan, önümüzdeki sene tesisinin 100. yıl dönümü kutlanacak Türkiye-ABD ilişkilerinin geliştirilmesi ve iş birliğine her alanda ivme kazandırılması için çalışmaya devam edeceklerini belirtti.
-
-Erdoğan, Mekke Ortak Savunma İttifakı olarak Hürmüz Boğazı ve Yemen'deki gelişmeleri yakından takip ettiklerini, sorunun diplomasi zemininde çözülmesi için gayret gösterdiklerini ifade etti. Türkiye'nin, Ukrayna-Rusya arasında diplomatik sürecin canlandırılması ve savaşın bu yolla sona erdirilmesi için yapılan çalışmalara destek vermeye hazır olduğunu da belirtti.
-
-Trump ise Erdoğan'ı ve Türk halkını Cumhuriyet Bayramı dolayısıyla kutladı; Türk Devletleri Teşkilatı Zirvesi'nin başarılı geçmesi temennisini iletti.
-
----
-
-## Tepebaşı'nda 'Yediden Yetmişe Cumhuriyet Bayramı Kutlaması' üç kuşağı buluşturdu
-
-**Gündem · Tepebaşı** · 2026-10-28 20:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacumhuriyetcoskusuucneslibirarayagetirdi)
-
-![](data/images/05e1b9ad245b9617.jpg)
-
-> Yunusemre Spor Kompleksi'ndeki etkinlikte vals ve rumba gösterileri yapıldı, Andımız hep birlikte okundu.
-
-Tepebaşı Belediyesi'nin "Yediden Yetmişe Cumhuriyet Bayramı Kutlaması", Yunusemre Spor Kompleksi'nde yapıldı. Etkinliği belediyenin Kadın Aile Hizmetleri Müdürlüğü, Gençlik ve Spor Hizmetleri Müdürlüğü ile Sağlık İşleri Müdürlüğü düzenledi. Metin Özöğüt Yaşam Merkezi sakinleri, belediyeye bağlı kreşlerdeki çocuklar ve engelli merkezlerinde eğitim gören gençler bayram sevincini birlikte yaşadı.
-
-Yaşam merkezi sakinleriyle anaokulu çocuklarının birlikte sunduğu vals gösterisi ve üç çiftin vals ile rumba gösterisi beğeni topladı. Engelli merkezlerindeki gençler Atatürk'ün sevdiği şarkıları seslendirdi. Tepebaşı Belediye Başkanı Ahmet Ataç, belediye personeli, çocuklar, gençler ve deneyimli vatandaşlar "Andımız"ı hep birlikte okudu; 98 yaşındaki Ayhan Tunçer de bir konuşma yaptı.
-
-Ataç, Cumhuriyet'in kuşakları yan yana getiren ortak bir kazanım olduğunu söyledi ve etkinliğe emek verenlere teşekkür etti. (Kaynak: Tepebaşı Belediyesi)
-
----
-
-## Tepebaşı'nda 8. Geleneksel Cumhuriyet Kupası'nı Sağlık İşleri Müdürlüğü kazandı
-
-**Spor · Tepebaşı** · 2026-10-28 20:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebasıbelediyesi8gelenekselcumhuriyetkupasıtamamlandı)
-
-![](data/images/b2b0c67aac5fb747.jpg)
-
-> Turnuvaya 12 takım ve 150 belediye personeli katıldı; Park Bahçeler ikinci, Temizlik İşleri üçüncü oldu.
-
-Tepebaşı Belediyesi'nin 12 takım ve 150 personelin katılımıyla düzenlediği 8. Geleneksel Cumhuriyet Kupası tamamlandı. Esentepe Halı Saha'da oynanan finalde Sağlık İşleri Müdürlüğü, Park Bahçeler Müdürlüğü'nü geçerek şampiyon oldu. Park Bahçeler Müdürlüğü ikinci, Temizlik İşleri Müdürlüğü üçüncü sırada yer aldı.
-
-Turnuvayı Spor İşleri Müdürlüğü düzenledi. Kayıtlar 14 Eylül'de başladı, maçlar 5 Ekim'de oynanmaya başladı. Tepebaşı Belediye Başkanı Ahmet Ataç, kupanın çalışma arkadaşlarını sporun birleştirici gücü etrafında buluşturan bir gelenek olduğunu söyledi ve dereceye giren takımları kutladı. (Kaynak: Tepebaşı Belediyesi)
 
 ---
