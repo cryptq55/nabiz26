@@ -244,7 +244,9 @@
   "202610311126-altin-fiyatlari-31-ekim-2026-gram-altin-6-280-35-tl",
   "202610311731-erdogan-zelenskiy-ile-dolmabahcede-gorustu-karadenizde-seyrusefer-vurg",
   "202611011220-altin-fiyatlari-1-kasim-2026-gram-altin-6-288-41-tl",
-  "202611011647-eskisehirspor-gaziemiri-deplasmanda-5-0-yenerek-ikinci-siraya-yukseldi"
+  "202611011647-eskisehirspor-gaziemiri-deplasmanda-5-0-yenerek-ikinci-siraya-yukseldi",
+  "202611011646-eskisehir-lezzetleri-kitabi-tanitildi-37-tarif-12-lezzetin-oykusu",
+  "202611011647-ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyesindeki-muzeye-dikkat-ce"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -279,7 +281,8 @@
   "202610290631-bakan-tekinden-cumhuriyet-bayrami-mesaji-egitim-en-saglam-dayanagimiz",
   "202610290931-cumhuriyetin-103-yilinda-devlet-erkani-anitkabirde",
   "202610300932-erdogan-tdt-zirvesinde-konustu-donem-baskanligi-turkiyeye-gecti",
-  "202610311731-erdogan-zelenskiy-ile-dolmabahcede-gorustu-karadenizde-seyrusefer-vurg"
+  "202610311731-erdogan-zelenskiy-ile-dolmabahcede-gorustu-karadenizde-seyrusefer-vurg",
+  "202611011646-eskisehir-lezzetleri-kitabi-tanitildi-37-tarif-12-lezzetin-oykusu"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -327,16 +330,22 @@
   "202610301559-odunpazarinda-ozel-gereksinimli-bireylerin-annelerine-ucretsiz-psikolo",
   "202610311126-altin-fiyatlari-31-ekim-2026-gram-altin-6-280-35-tl",
   "202611011220-altin-fiyatlari-1-kasim-2026-gram-altin-6-288-41-tl",
-  "202611011647-eskisehirspor-gaziemiri-deplasmanda-5-0-yenerek-ikinci-siraya-yukseldi"
+  "202611011647-eskisehirspor-gaziemiri-deplasmanda-5-0-yenerek-ikinci-siraya-yukseldi",
+  "202611011647-ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyesindeki-muzeye-dikkat-ce"
  ],
  "log": [
   1793535981.2200692,
   1793535998.2618673,
   1793552006.3134272,
-  1793552022.54421
+  1793552022.54421,
+  1793555548.3923645,
+  1793555566.0308373,
+  1793555582.7030437,
+  1793555597.1324518
  ],
  "reel_log": [
   1793535981.2200706,
-  1793552006.3134296
+  1793552006.3134296,
+  1793555548.3923664
  ]
 }
