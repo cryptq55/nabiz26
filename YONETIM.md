@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 01.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve yayındaki son haber 200 (fotoğraf bekleyen 3 haber yayın dışı, 404 beklenen). Derleme geçti (200 haber, venv ile). Son 24 saatte yayında yalnız 4 haber (Kültür-Sanat 2, Ekonomi 1, Spor 1; ilçe Merkez 3, Odunpazarı 1); `foto.yml` 3 haberi bekletiyor (Commons'ta kişi/yer fotoğrafı bulunamıyor). Instagram: log 8, reel_log 3, reels kaydı 47. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Eğitim, Sağlık, Asayiş, Tepebaşı.
+**Düzeltilen:** `build.py` etiket eşleştirmesi büyük harfli başlıkta (İ/I) kaçırıyordu; Türkçe küçük harfe çevirme eklendi.
+**İyileştirme:** KEYWORD_TAGS'e nöbetçi eczane ve belediye meclisi etiketleri (derleme denendi).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Spor/Eğitim kaynakları.
+SAHİBİNE: yok (akış düşüklüğü önceki notlardaki gibi).
+
 ## 01.11.2026 09:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber 200. Derleme geçti (196 haber, venv ile). Son haber dün 20:31 TSİ (Erdoğan-Zelenskiy); sabaha kadar 13 saat haber yok (gece, saatlik tur çalışıyor), son 24 saatte 2 haber (Ekonomi, Türkiye; ilçe Merkez, Türkiye), akış hâlâ çok düşük. Instagram: log 4 (son paylaşım 13 saat önce), reel_log 1, DAILY_CAP dolmuyor (haber yok). Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Eğitim, Sağlık, Tepebaşı, Asayiş.
 **Düzeltilen:** yok.

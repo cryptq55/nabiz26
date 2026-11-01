@@ -55,6 +55,7 @@ KEYWORD_TAGS = [
     ("yağış", ["#HavaDurumu", "#Yağış"]), ("kar yağ", ["#KarYağışı", "#HavaDurumu"]),
     ("trafik", ["#Trafik"]), ("yangın", ["#Yangın"]), ("festival", ["#Festival", "#Etkinlik"]),
     ("konser", ["#Konser", "#Etkinlik"]), ("sergi", ["#Sergi", "#Sanat"]), ("seçim", ["#Seçim"]),
+    ("eczane", ["#NöbetçiEczane"]), ("belediye meclis", ["#BelediyeMeclisi"]),
     ("asgari ücret", ["#AsgariÜcret"]), ("emekli", ["#Emekli"]), ("öğretmen", ["#Öğretmenler"]),
     ("anadolu efes", ["#AnadoluEfes"]), ("osmangazi üniversitesi", ["#ESOGÜ"]),
     ("29 ekim", ["#CumhuriyetBayramı", "#29Ekim"]),
@@ -439,7 +440,7 @@ def main():
                 tags.append(t)
         if "altın" in a["title"].lower():  # günlük altın haberi: aranan etiketler
             tags += [t for t in ("#Altın", "#AltınFiyatları") if t not in tags]
-        text = (a["title"] + " " + " ".join(a.get("tags") or [])).lower()
+        text = (a["title"] + " " + " ".join(a.get("tags") or [])).replace("İ", "i").replace("I", "ı").lower()  # Türkçe küçük harf
         for kw, kt in KEYWORD_TAGS:  # konuya özgü, aranan etiketler
             if kw in text:
                 tags += [t for t in kt if t not in tags]
