@@ -20,10 +20,10 @@
     "title": "Baksan'da çalışmalar devam ediyor; Ahmet Ataç açıklama yaptı - Gzt26",
     "url": "https://www.gzt26.com/baksanda-calismalar-devam-ediyor-ahmet-atac-aciklama-yapti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
