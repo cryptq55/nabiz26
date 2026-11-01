@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor, Gaziemir'i deplasmanda 5-0 yenerek ikinci sıraya yükseldi
+
+**Spor · Merkez** · 2026-11-01 16:47 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirekspres.net/eskisehirspordan-izmirde-rahat-galibiyet-5-0)
+
+![](data/images/d846229c0f0f94fc.jpg)
+
+> Kırmızı-siyahlılar Nesine 3. Lig'de ilk yarıda 5 gol buldu.
+
+Eskişehirspor, Nesine 3. Lig 2. Grup'un 9. haftasında İzmir Bornova Aziz Kocaoğlu Stadyumu'nda Gaziemir'i 5-0 yendi.
+
+İlk yarıda 11. dakikada Kerem Baykuş, Atalay Yıldırım'ın ortasıyla öne geçti. 16. dakikada Hasan Kaya'nın ortasında Beykan Şimşek skoru 2-0 yaptı. 28. dakikada Hasan Kaya, 29. dakikada İsmail Kulet ve 35. dakikada Atalay Yıldırım golleri attı. Eskişehirspor ilk yarıyı 5-0 önde tamamladı.
+
+İkinci yarıda tempo düştü. Teknik direktör Hakan Şapcı, Beykan Şimşek, Sarper Çağlar, Atalay Yıldırım ve Ertuğrul Kurtuluş'un yerine Mert Başer, Ahmet Kara, Fırat Sarı ve Emre Sarıkaya'yı oyuna aldı. 88. dakikada Hasan Kaya'nın şutunu Gaziemir'den Sedat Yahşi çizgi üzerinde çıkardı; başka gol olmadı.
+
+Bu galibiyetle puanını 18'e yükselten Eskişehirspor ikinci sıraya yerleşti. Takım, 10. haftada 7 Kasım Cumartesi günü saat 15.30'da sahasında Kepezspor'u konuk edecek.
+
+---
+
+## Ayşe Kulin Odunpazarı'nı gezdi, Kurşunlu Külliyesi'ndeki müzeye dikkat çekti
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-01 16:47 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/amp/ayse-kulin-den-kursunlu-kulliyesi-icin-cagri--kulturu-lutfen-mahvetmeyiniz-beyler--297356.html)
+
+> Yazar, Ahşap Eserler Müzesi'nin tahliye edilmek istenmesine tepki gösterdi.
+
+Odunpazarı Belediyesi'nin düzenlediği "Cumhuriyet ve Edebiyat" söyleşisi ve imza günü için Eskişehir'e gelen yazar Ayşe Kulin, Odunpazarı Tarihi Bölge'yi gezdi. Gezide Odunpazarı Belediye Başkanı Kazım Kurt eşlik etti.
+
+Kulin'in ilk durağı Mustafa Abdülcemil Kırımoğlu Kırım Tatar Müzesi oldu. Ardından Odunpazarı Şehrin Ateşi Seramik Galerisi'ni ve Kurşunlu Külliyesi'ndeki Ahşap Eserler Müzesi'ni gezdi. Müzede, Uluslararası Ahşap Heykel Festivali'ne katılan 55 ülkeden sanatçının 202 eseri sergileniyor.
+
+Kulin, Kurşunlu Külliyesi'nin tahliye edilmek istenmesine tepki gösterdi. "İçeride çok değerli eserler var. Burayı tahliye edip ne yapacaklar? Bina mı yok? Var olan bir şeyi yok etmek kolaydır, var olanını muhafaza etmek daha zordur" dedi. Kulin, "Kültürü lütfen mahvetmeyiniz beyler" ifadesini kullandı.
+
+Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
+
+---
+
+## "Eskişehir Lezzetleri" kitabı tanıtıldı: 37 tarif, 12 lezzetin öyküsü
+
+**Kültür-Sanat · Merkez** · 2026-11-01 16:46 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.toplumsal.com.tr/haber/eskisehir-in-37-tarifli-mutfak-kitabi-tanitildi_32397/)
+
+> Kitabı Büyükşehir ile TYSD Eskişehir Şubesi hazırladı.
+
+Eskişehir Büyükşehir Belediyesi ile Türkiye Yardımsevenler Derneği (TYSD) Eskişehir Şubesi'nin hazırladığı "Eskişehir Lezzetleri" kitabı, Porsuk Konukevi'nde düzenlenen programla tanıtıldı. Kitapta 37 özgün tarif ile kentle özdeşleşen 12 lezzetin tarihçesi, hikâyesi ve fotoğrafları yer alıyor.
+
+Tanıtıma Büyükşehir Belediye Başkanı Ayşe Ünlüce, YENİ Parti Eskişehir Milletvekili İbrahim Arslan, Tepebaşı Belediye Başkanı Ahmet Ataç, Eskişehir Baro Başkanı Barış Günaydın, TYSD Eskişehir Şube Başkanı Serpil Çamoğlu, Eskişehir Ticaret Odası Yönetim Kurulu Üyesi Yasin Bakılan ve meclis üyeleri katıldı. Ünlüce, 81 ilin yemek tariflerini içeren bir kitabın ardından Eskişehir'e özel bir çalışma fikrinin doğduğunu, 2026 Eskişehir Yılı'nda kente kalıcı bir eser kazandırmak istediklerini söyledi. Kitabı hazırlayan Serpil Uzoğlu, çalışmayı kitabın editörlüğünü yapan kızı İpek Eda Uça ile yürüttüklerini, tarifleri araştırıp kendi evlerinde hazırladıklarını anlattı.
+
+Etkinlik, kitaptaki geleneksel tariflerden hazırlanan yöresel yemeklerin ikramıyla sona erdi. Kitap; TYSD Eskişehir Şubesi, Hamam Müzesi, Masal Şatosu, ETİ Su Altı Dünyası Akvaryum Kafe ve Hediyelik Eşya Bölümü, Bilim Deney Merkezi Galaksi Kafe, Emek Kafe, Aktif Yaşam Parkı Yaşam Kafe, Sazova Bilim Kültür Sanat Parkı Elma Kafe ve Hayvanat Bahçesi Tropik Merkezi'nden alınabilecek.
+
+---
+
 ## Altın fiyatları 1 Kasım 2026: Gram altın 6.288,41 TL
 
 **Ekonomi · Merkez** · 2026-11-01 12:20 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -473,51 +521,5 @@ Ziynet altınlarda çeyrek altın 10.636 TL, yarım altın 21.265 TL, tam altın
 Uluslararası piyasalarda altının onsu 4.046,10 dolardan işlem görürken, dolar/TL 49,89 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 14.51 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Mahkeme, Alpagut-Atalan altın-gümüş madeni projesinin ÇED olumlu kararını durdurdu
-
-**Gündem · Merkez** · 2026-10-28 11:36 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/eskisehirin-dogasi-icin-kritik-karar-ced-olumlu-karari-durduruldu)
-
-![](data/images/c0cf4a3a88c09d63.jpg)
-
-> Eskişehir 2. İdare Mahkemesi, Büyükşehir Belediyesi'nin açtığı davada yürütmeyi durdurma kararı verdi.
-
-Eskişehir Büyükşehir Belediyesi'nin Alpagut-Atalan Altın-Gümüş Madeni Projesi'ne karşı açtığı davada önemli bir gelişme yaşandı. Eskişehir 2. İdare Mahkemesi, bilirkişi raporunda doğa ve su kaynaklarına yönelik ciddi risklerin ortaya konulmasının ardından, telafisi güç zararlar oluşabileceği değerlendirmesiyle ÇED Olumlu kararının yürütmesini durdurdu.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kararın kentin doğal kaynaklarının korunması açısından büyük önem taşıdığını belirtti. Ünlüce açıklamasında, "Alpagut-Atalan Altın-Gümüş Madeni Projesi'ne karşı açtığımız davada, bilirkişi raporuyla doğamıza ve su kaynaklarımıza yönelik ciddi riskler ortaya konuldu" dedi ve Eskişehir'in suyuna, toprağına ve geleceğine sahip çıkmaya devam edeceklerini söyledi. (Kaynak: Eskişehir Ekspres)
-
----
-
-## Yenikent Olimpik Havuzu'nda çocuk yüzme kış spor okulu kayıtları 2 Kasım'da
-
-**Spor · Merkez** · 2026-10-28 08:33 UTC · Kaynak: [Eskişehir Gençlik ve Spor İl Müdürlüğü](https://eskisehir.gsb.gov.tr/HaberDetaylari/1/305045/olimpik-havuz-cocuk-egitim-yuzme-kayitlari.aspx)
-
-![](data/images/458b5eb9df45e026.jpg)
-
-> 7-17 yaş grubu için 8 haftalık, 16 derslik eğitimlerin kaydı 2 Kasım Pazartesi 08.00-17.00 arasında alınacak.
-
-Eskişehir Gençlik ve Spor İl Müdürlüğü, Yenikent Olimpik Yüzme Havuzu'ndaki ücretli kış spor okulu çocuk eğitim kayıtlarının 2 Kasım 2026 Pazartesi günü 08.00-17.00 saatleri arasında alınacağını duyurdu. Kayıtlar saat 08.00'de başlayacak. Eğitimler 8 hafta, yani 16 ders sürecek.
-
-Kayıt, 2011-2019 doğumlu, yüzme bilen ve bilmeyen çocuklar için yapılacak. Kayıt sırasında kimlik ibrazı zorunlu; anne, baba ve reşit kardeş dışındaki kişilerin yaptıracağı kayıtlar alınmayacak. Kayıt formuna katılmak istenen grubun numarası yazılmalı. Duyuruya göre ücretler ön kayıt işlemi yapıldıktan sonra yatırılacak, elden veya kredi kartıyla ücret alınmayacak ve kayıt işleminden önce herhangi bir IBAN numarasına ücret yatırılmaması gerekiyor.
-
-Ücret, 07-17 yaş grubu için tek çocukta 1750 TL, iki kardeşte kişi başı 1600 TL, üç kardeşte kişi başı 1450 TL; her durumda 50 TL kart ücreti ekleniyor. Üyeliğini iptal etmek isteyenlerin durumlarını belgelendirmesi gerekiyor; ücret iadesi yapılmayacak, ücret hakkı iptal edilen kayıt döneminden itibaren 2 kayıt dönemi içinde kullanılabilecek. Eğitim başladıktan sonra grup değişikliği yapılmayacak. (Kaynak: Eskişehir Gençlik ve Spor İl Müdürlüğü)
-
----
-
-## Türkiye'de ilk Eskişehir Bal Kabağı Çalıştayı ESOGÜ'de yapıldı
-
-**Tarım · Tepebaşı** · 2026-10-28 06:33 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebasıbelediyesi’ndenbirilkdahabalkabagıilkkezulusalolcektemasayayatırıldı)
-
-![](data/images/962d312465c8711f.jpg)
-
-> Tepebaşı Belediyesi ve ESOGÜ Ziraat Fakültesi, bal kabağını ulusal ölçekte ele alan ilk çalıştayı düzenledi.
-
-Tepebaşı Belediyesi ile Eskişehir Osmangazi Üniversitesi (ESOGÜ) Ziraat Fakültesi iş birliğinde düzenlenen Eskişehir Bal Kabağı Çalıştayı, bal kabağını ulusal ölçekte ele alan ilk buluşma oldu. Çalıştay ESOGÜ Ali Numan Kıraç Yerleşkesi Prof. Dr. Ali Koç Konferans Salonu'nda yapıldı.
-
-Akademisyenler ve tarımsal araştırma enstitülerinin temsilcileri; bal kabağının genetik kaynaklarını, ıslahını, yetiştiriciliğini ve kırsal kalkınmadaki yerini değerlendirdi. Çalıştaya Geçit Kuşağı Araştırma Enstitüsü Müdürü Ulaş Çınar, Sakarya Mısır Araştırma Enstitüsü Müdürü Mehmet Yılmaz, Eskişehir İl Tarım ve Orman Müdür Yardımcısı Hasan Öz ile Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü'nden Dr. Evran Doğan da katıldı.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, Kızılinler bal kabağının Eskişehir'in kırsal değerlerinden biri olduğunu ve coğrafi işaret tescili taşıdığını hatırlatarak üretimi geliştirmek ve üreticiye daha fazla katkı sunmak istediklerini söyledi. ESOGÜ Ziraat Fakültesi Dekanı Prof. Dr. Onur Koyuncu da bilgilerin paylaşılmasının önemine değindi. Çalıştayın moderatörlüğünü Doç. Dr. Sıtkı Ermiş yaptı; ilk oturumlarda kabak türlerinin tarihsel gelişimi ve ıslah çalışmaları ele alındı. (Kaynak: Tepebaşı Belediyesi)
 
 ---
