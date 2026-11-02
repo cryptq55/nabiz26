@@ -2,9 +2,23 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de ruhsatlı silah sahiplerine tebligat: silahlar kilitli yerde saklanmalı
+
+**Gündem · Merkez** · 2026-11-02 08:41 UTC · Kaynak: [Google Haberler - Tepebaşı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/ruhsatli-silah-sahiplerine-kilitli-muhafaza-uyarisi-eskisehir-tepebasi-avcilik-aticilik-119509798)
+
+> Eskişehir, silah ruhsatı başvuru ve yenilemelerinde yazılı tebligat yapılan dört il arasında.
+
+Ruhsatlı silahların ve yivsiz av tüfeklerinin çocukların ve yetkisiz kişilerin ulaşamayacağı kilitli alanlarda saklanması için ülke genelinde bilgilendirme çalışması başlatıldı. Çalışmanın ilk aşamasında 7 ilde silah ruhsatı sahiplerine SMS gönderildi. Eskişehir, Bursa, Afyonkarahisar ve Erzurum'da ise yeni ruhsat başvurusu yapan ve ruhsatını yenileyen vatandaşlara yazılı tebligat yapılmaya başlandı. Uygulamanın diğer illerde de sürdüğü bildirildi.
+
+Eskişehir Tepebaşı Avcılık Atıcılık Balıkçılık İhtisas Spor Kulübü Derneği Başkan Yardımcısı Sercan Gözlev, konuya ilişkin değerlendirmesinde tüfeklerin yivli ve yivsiz olmak üzere ikiye ayrıldığını, her yivsiz tüfeğin av tüfeği olmadığını söyledi. Gözlev, "Halkımız tüfeklerini kilitli dolaplarda tutarsa istenmeyen olayların önüne geçilir" dedi. Gözlev, asayiş olaylarında kullanılan tüfeklerin çoğunun avda kullanılamayacağını, boyu kısa tüfeklerin avda kullanılmasının zaten yasak olduğunu belirtti.
+
+---
+
 ## Eskişehir'de ekimde aranan 582 şahıs yakalandı: 794 uygulama noktası kuruldu
 
 **Asayiş · Merkez** · 2026-11-02 07:37 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehir.net/eskisehirde-emniyet-ve-jandarmadan-aranan-sahislara-operasyon)
+
+![](data/images/eskisehirde-ekimde-aranan-582-sahis-yakalandi-7-arsiv.jpg)
 
 > Valilik koordinesinde emniyet ve jandarma ekipleri 1.978 personelle sahada görev aldı.
 
@@ -16,7 +30,9 @@ Bir aylık çalışmada çeşitli suçlardan aranan 398 kişi dahil toplam 582 �
 
 ## Eskişehir'de ekimde 1308 okul servisi denetlendi, 31 kusurlu araç tespit edildi
 
-**Eğitim · Merkez** · 2026-11-02 07:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-okul-servisleri-ve-cevrelerinde-denetimler-yapildi-119509819)
+**Eğitim · Merkez** · 2026-11-02 07:37 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-okul-servisleri-ve-cevrelerinde-denetimler-yapildi-119509819)
+
+![](data/images/eskisehirde-ekimde-1308-okul-servisi-denetlendi-arsiv.jpg)
 
 > Valilik, okul çevrelerinde yüzlerce işletmenin de kontrol edildiğini açıkladı.
 
@@ -449,25 +465,5 @@ Erdoğan, çatışmaların Karadeniz'e sıçradığını belirterek, sivil gemil
 Ukrayna'nın toprak bütünlüğüne, egemenliğine ve bağımsızlığına bağlılıklarını teyit ettiklerini söyleyen Erdoğan, 2022'de imzalanan Serbest Ticaret Anlaşması'nın 1 Ekim itibarıyla yürürlüğe girmesinin 10 milyar dolar ticaret hacmi hedefine yaklaştırdığını ifade etti.
 
 Toplantıda Millî Savunma Bakanı Yaşar Güler, MİT Başkanı İbrahim Kalın, İletişim Başkanı Burhanettin Duran, Savunma Sanayii Başkanı Haluk Görgün ve diğer isimler yer aldı.
-
----
-
-## Altın fiyatları 31 Ekim 2026: Gram altın 6.280,35 TL
-
-**Ekonomi · Merkez** · 2026-10-31 11:26 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261031.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.202,49 TL'den alınıyor, 6.280,35 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.26 itibarıyla verilerine göre gram altının satış fiyatı 6.280,35 TL, alış fiyatı 6.202,49 TL oldu. Gram altın, önceki kapanışa göre yüzde 3,15 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.236 TL, yarım altın 20.467 TL, tam altın 40.770 TL, ata altın 41.866 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.865,88 TL, has altının gram fiyatı 6.261,57 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.26 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
