@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Kültür-Sanat · Merkez** · 2026-11-02 17:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/2-eskisehir-uluslararasi-polifonik-koro-senligi-ozel-konserle-sona-erdi-a838140a)
 
+![](data/images/eskisehir-uluslararasi-polifonik-koro-senligi-i-arsiv.jpg)
+
 > Şenliğe 30 Ekim-1 Kasım'da 37 koro katıldı.
 
 Eskişehir Büyükşehir Belediyesi ve Eskişehir Polifonik Korosu Derneği iş birliğiyle düzenlenen 2. Eskişehir Uluslararası Polifonik Koro Şenliği, İstanbul Avrupa Korosu'nun özel konseriyle sona erdi. Kapanış konserine Eskişehir Büyükşehir Belediye Başkan Vekili Vural Yörük ile Tepebaşı Belediye Başkanı Ahmet Ataç katıldı.
