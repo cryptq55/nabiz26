@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## TFF 3. Lig 2. Grup'ta Eskişehir Anadolu Alanya'yı 5-1, Eskişehirspor Gaziemir'i 5-0 yendi
+
+**Spor · Merkez** · 2026-11-02 21:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.usakport.com.tr/usakin-yenildigi-haftanin-en-kazanclisi-eskisehirin-2-ekibi-oldu)
+
+![](data/images/98ef4f2c579ce6f3.jpg)
+
+> Eskişehirspor 7 Kasım'da Kepezspor'u konuk edecek.
+
+TFF 3. Lig 2. Grup'un 9. haftasında Eskişehir'in iki takımı da farklı galibiyet aldı. Evinde Alanya 1221 FK'yı konuk eden Eskişehir Anadolu rakibini 5-1 yendi. Ligin ikincisi Eskişehirspor ise Gaziemir G.O.G.'yi deplasmanda 5-0 mağlup etti.
+
+Haftanın diğer sonuçları şöyle: Kepezspor-Uşakspor 2-0, Altay 1922-Akşehir Spor 1-1, Etimesgutspor 1-0 (rakibi kaynakta Bigaspor olarak geçiyor), Ayvalıkgücü Belediyespor-Bucaspor 1928 2-1, Bursa Yıldırımspor-Balıkesirspor 1-1, Denizli İdmanyurdu-Karşıyaka 0-6, Söke 1970-Gemlik Sümerbey 1-7.
+
+Gelecek hafta, 7 Kasım Cumartesi günü Eskişehirspor Kepezspor'u, Uşakspor ise Eskişehir Anadolu'yu konuk edecek.
+
+---
+
 ## AK Partili meclis üyeleri: Kurşunlu Külliyesi kapanmıyor, belediye bilgi versin
 
 **Gündem · Odunpazarı** · 2026-11-02 20:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/ak-partiden-kursunlu-cikisi-belediye-gercekleri-aciklasin)
@@ -465,23 +481,5 @@ Eskişehir Büyükşehir Belediyesi ile Eskişehir Polifonik Korosu Derneği'nin
 Açılışta konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, geçen yıl ilki düzenlenen şenliğin ardından bu yıl da aynı heyecanı yaşadığını söyledi. Macaristan'dan katılan Scherzo Mixed Choir ile birlikte farklı şehir ve ülkelerden gelen konuk koroları selamlayan Ünlüce, şenliklerin uluslararası nitelik taşımasını önemsediklerini belirtti.
 
 Şenliğin sanat yönetmeni Ender Sakpınar da organizasyona destek verenlere teşekkür etti ve koro müziğinin birleştirici gücüne dikkat çekti. Organizasyonun amacı, farklı kültürlerden korolar arasında sanatsal etkileşimi artırmak ve müzik aracılığıyla kalıcı dostluklar kurmak olarak açıklandı.
-
----
-
-## Eskişehir'de ekimde uyuşturucu operasyonlarında 241 şüpheliye işlem, 36 tutuklama
-
-**Asayiş · Merkez** · 2026-11-02 02:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.milliirade.com/eskisehirde-uyusturucuya-gecit-yok-1-ayda-241-gozalti-36-tutuklama)
-
-![](data/images/8ecf08c2a23a226d.jpg)
-
-> Valilik, 183 olayda ele geçirilen madde ve silah dökümünü paylaştı.
-
-Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekiplerinin 1-31 Ekim 2026 tarihlerinde yürüttüğü uyuşturucu operasyonlarının aylık bilançosu paylaşıldı. Kent genelinde 183 olaya müdahale edildi.
-
-Haklarında adli işlem başlatılan 241 şüpheliden 36'sı tutuklandı, 205'i tutuksuz yargılanmak üzere serbest bırakıldı.
-
-Aramalarda 9 kilo 56 gram metamfetamin, 2 kilo 55 gram kokain, 39 bin 636 adet sentetik ecza hapı, 1.709,62 gram esrar, 728,81 gram bonzai, 74 gram bonzai hammaddesi, 24 kök hint keneviri, 22 adet ecstasy hap ve 5,31 gram afyon sakızı ele geçirildi. Ayrıca 9 hassas terazi, 3 uyuşturucu kullanma aparatı, 1 ruhsatsız tabanca, 1 tabanca şarjörü ve 64 fişek muhafaza altına alındı.
-
-Haklarında işlem yapılanların suçlu olduğu mahkeme kararıyla kesinleşmedikçe masum sayıldığı unutulmamalıdır.
 
 ---
