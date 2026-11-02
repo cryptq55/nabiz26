@@ -20,10 +20,10 @@
     "title": "Eskişehir'deki Aşk Adası'na yeni düzenleme yapılacak: İşte edinilen bilgiler - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-ask-adasina-yeni-duzenleme-yapilacak-iste-edinilen-bilgiler-2445126"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Aşk Adası Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
