@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Başkan Ünlüce Eskişehir Kırkalılar Derneği'nin kadınlar kahvaltısına katıldı
+
+**Gündem · Merkez** · 2026-11-02 06:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/eskisehirde-baskan-unluce-kirkali-kadinlarla-kahvaltida-bulustu)
+
+> Etkinlikte Seyitgazi Belediye Başkanı Uğur Tepe de yer aldı.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Eskişehir Kırkalılar Kültür, Dayanışma ve Yardımlaşma Derneği'nin kadınlar için düzenlediği buluşma kahvaltısına katıldı. Seyitgazi Belediye Başkanı Uğur Tepe de etkinlikte yer aldı.
+
+Kahvaltı, kadınların bir araya gelerek sohbet etmesi ve komşuluk ilişkilerini geliştirmesi amacıyla düzenlendi. Ünlüce, kadınların bir aradalığının toplumsal yapıya katkı sunduğunu söyledi ve organizasyonda emeği bulunan Dernek Başkanı Ayberk Akyıldız ile yönetimine teşekkür etti.
+
+---
+
+## Ayşe Kulin Eskişehir'de okurlarıyla buluştu: salon dolup taştı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-02 06:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/ayse-kulin-odunpazari-nda-eskisehirlilerle-bulustu-kurtulus-savasi-bir-mucizedi)
+
+![](data/images/90df3a1324f1c247.jpg)
+
+> Odunpazarı Belediyesi'nin söyleşisinde Kulin, Cumhuriyet'i ve edebiyatın toplumsal sorumluluğunu anlattı.
+
+Odunpazarı Belediyesi'nin düzenlediği söyleşi ve imza gününde yazar Ayşe Kulin, 31 Ekim'de Hasan Polatkan Kültür Merkezi'nde Eskişehirlilerle buluştu. Belediyenin aktardığına göre salon katılımcıları almadı, çok sayıda kişi söyleşiyi ayakta izledi.
+
+Etkinliğe Odunpazarı Belediye Başkanı Kazım Kurt, Tepebaşı Belediye Başkanı Ahmet Ataç ve Anadolu Üniversitesi eski rektörü Prof. Dr. Engin Ataç katıldı. Söyleşinin moderatörlüğünü ÇYDD Eskişehir Şube Başkanı Sevgi Akmen yaptı.
+
+Cumhuriyet'in 103. yıl dönümü dolayısıyla yapılan söyleşide Kulin, Cumhuriyet'in tarihsel önemini ve çocukluk anılarını anlattı. "İşgal altındaki bir ülkenin kazandığı Kurtuluş Savaşı, benim için bir mucizedir" diyen Kulin, "Biz onu tırnaklarımızla kazandık" ifadesini kullandı. Dedesinin Harf Devrimi'ne ilişkin tutumunu anlatan Kulin, edebiyatın yalnızca hikâye anlatmak olmadığını, toplumsal sorunlara dikkat çekme sorumluluğu taşıdığını söyledi. Kulin'in Kurşunlu Külliyesi'ndeki müzelerin tahliyesi tartışmasına ilişkin sözleri de söyleşinin dikkat çeken başlıklarından biri oldu.
+
+Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
+
+---
+
 ## Porsuk'taki Aşk Adası iskele, ahşap teras ve yeşil alanla yenilenecek
 
 **Belediye · Odunpazarı** · 2026-11-02 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-ask-adasina-yeni-duzenleme-yapilacak-iste-edinilen-bilgiler-2445126)
@@ -445,35 +475,5 @@ Odunpazarı Belediyesi Zabıta Müdürlüğü ekipleri, Pazar Uygulama Yönetmel
 Denetim sırasında pazar alanında Odunpazarı Belediyesi Tartı Kontrol Noktası kuruldu. Alışveriş yapan vatandaşlar satın aldıkları ürünleri burada yeniden tarttırabildi. Belediyenin aktardığına göre yapılan denetimlerde eksik gramaja rastlanmadı.
 
 Zabıta Müdürlüğü yetkilileri, denetimlerin yalnızca kapalı pazar yerleriyle sınırlı kalmayacağını, ilçedeki diğer pazarlarda da düzenli olarak sürdürüleceğini açıkladı.
-
----
-
-## Ayşe Kulin 31 Ekim'de Odunpazarı'nda okurlarıyla buluşacak
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-30 13:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/ayse-kulin-odunpazari-nda-okurlariyla-bulusacak)
-
-![](data/images/f531daa8e8476832.jpg)
-
-> "Cumhuriyet ve Edebiyat" söyleşisi ve imza günü Hasan Polatkan Kültür Merkezi'nde, ücretsiz.
-
-Odunpazarı Belediyesi, yazar Ayşe Kulin'i Eskişehirli okurlarla buluşturuyor. "Cumhuriyet ve Edebiyat" başlığıyla düzenlenecek söyleşi ve imza günü, 31 Ekim Cumartesi günü saat 15.00'te Hasan Polatkan Kültür Merkezi'nde yapılacak.
-
-Etkinlik, Cumhuriyet'in edebiyatla kurduğu ilişkiyi odağına alıyor. Söyleşinin ardından düzenlenecek imza gününde okurlar kitaplarını Ayşe Kulin'e imzalatabilecek. Söyleşi ve imza günü ücretsiz.
-
----
-
-## Odunpazarı'nın yaşlı merkezlerinde Cumhuriyet coşkusu: piyes ve balo
-
-**Gündem · Odunpazarı** · 2026-10-30 12:57 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-cinarlar-cumhuriyet-coskusunu-yasadi)
-
-![](data/images/5009f99e520705f4.jpg)
-
-> Koca Çınar Yaşam Merkezi ve Lütfü Yüksel Yaşlı Bakım Merkezi'nde 103. yıl kutlandı.
-
-Odunpazarı Belediyesi'nin yaşlılara yönelik hizmet veren merkezlerinde Cumhuriyet'in 103. yıl dönümü kutlandı. Belediyenin Engelli ve Yaşlı Hizmetleri Müdürlüğü'ne bağlı Koca Çınar Yaşam Merkezi'nde piyes ve balo düzenlendi, Lütfü Yüksel Yaşlı Bakım Merkezi'nin sakinleri de bayramı kutladı.
-
-Gültepe Mahallesi Üniversite Evleri'ndeki Koca Çınar Yaşam Merkezi'nde hazırlanan programla Cumhuriyet'in anlamına dikkat çekildi, baloyla bayram sevinci paylaşıldı. Lütfü Yüksel Yaşlı Bakım Merkezi'nde ise merkezin kıdemli sakinleri Cumhuriyet'in 103. yıl dönümünü birlik, beraberlik ve Atatürk sevgisiyle karşıladı.
-
-Odunpazarı Belediyesi, sosyal belediyecilik anlayışıyla yaş almış yurttaşların sosyal yaşamın içinde yer almasını destekleyen çalışmalarını sürdürdüğünü belirtti.
 
 ---
