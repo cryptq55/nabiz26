@@ -12,17 +12,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-02T22:31:47.327965+00:00",
+  "published_at": "2026-11-02T22:32:16.984081+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir Şehir Hastanesinin yeni başhekimi belli oldu - Gzt26",
     "url": "https://www.gzt26.com/eskisehir-sehir-hastanesinin-yeni-bashekimi-belli-oldu"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Şehir Hastanesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehir-sehir-hastanesinin-yeni-bashekimi-pro-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_%C5%9Eehir_Hastanesi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC0)"
   }
 }
