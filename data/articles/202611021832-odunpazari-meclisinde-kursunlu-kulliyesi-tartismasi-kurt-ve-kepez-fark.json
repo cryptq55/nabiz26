@@ -14,17 +14,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-02T18:32:49.998829+00:00",
+  "published_at": "2026-11-02T18:33:19.317151+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "Kazım Kurt sert konuştu: \"Hiç kimseye bir şey teslim etmiyoruz\" - Gzt26",
     "url": "https://www.gzt26.com/kazim-kurt-sert-konustu-hic-kimseye-bir-sey-teslim-etmiyoruz"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/odunpazari-meclisinde-kursunlu-kulliyesi-tartis-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi1716b.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
