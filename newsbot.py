@@ -478,6 +478,34 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text).strip("-")[:70]
 
 
+def _title_tokens(text):
+    """Başlık karşılaştırması için: küçük harf, ilk 5 harf (ek farklarını yutar), 4+ harfli kelimeler ve sayılar."""
+    text = text.replace("İ", "i").replace("I", "ı").lower()
+    return {w[:5] for w in re.findall(r"[0-9a-zçğıöşü]+", text) if len(w) >= 4 or w.isdigit()}
+
+
+def find_duplicate(title, spot="", hours=36):
+    """Son saatlerde yayımlanmış, aynı olayı anlatan haber varsa başlığını döndürür (yinelenen haber engeli)."""
+    now = datetime.now(timezone.utc)
+    for f in sorted(ARTICLES_DIR.glob("*.json"), reverse=True)[:120]:
+        try:
+            a = json.loads(f.read_text(encoding="utf-8"))
+            dt = datetime.fromisoformat(a["published_at"])
+        except Exception:
+            continue
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        if (now - dt).total_seconds() > hours * 3600:
+            continue
+        t1, t2 = _title_tokens(title), _title_tokens(a["title"])
+        common = t1 & t2
+        big_nums = {t for t in common if t.isdigit() and len(t) >= 3}  # örn. "582 şahıs" iki haberde de geçiyor
+        ratio = len(common) / max(1, min(len(t1), len(t2)))
+        if (big_nums and len(common) >= 4 and ratio >= 0.5) or (len(common) >= 5 and ratio >= 0.7):
+            return a["title"]
+    return None
+
+
 def save_article(article, candidate, image=None):
     now = datetime.now(timezone.utc)
     slug = f"{now:%Y%m%d%H%M}-{slugify(article['title'])}"
@@ -661,6 +689,10 @@ def save_decisions(queue_path, decisions_path):
             continue
         if not article["publish"]:
             log(f"[geçildi] {c['title']} -> {article['skip_reason']}")
+            continue
+        dup = find_duplicate(article["title"], article.get("spot", ""))
+        if dup:
+            log(f"[yinelenen] aynı olay zaten yayında, atlandı: {article['title']} ~ {dup}")
             continue
         if not c.get("image"):
             # Gazete fotoğrafı kullanılamaz (telif), yapay zekâ görseli üretilmez: konuya birebir uyan arşiv fotoğrafı

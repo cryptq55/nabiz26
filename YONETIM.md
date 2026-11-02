@@ -1,5 +1,11 @@
 # Nabız 26 yönetim notları
 
+## 02.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Son haber 21:33 TSİ; son 24 saatte 38 haber (Gündem 9, Kültür-Sanat/Belediye 7, Eğitim 5, Asayiş 3, Spor/Türkiye 2, Ekonomi/Ulaşım/Sağlık 1; ilçe Merkez 24, Odunpazarı 7, Tepebaşı 4, Türkiye 3), `photo_pending` 0. Akış toparlandı. Instagram: log 16 (DAILY_CAP dolu), reel_log 6, reels kaydı 53. Aynı olay iki kez yayınlanmış: "ekimde aranan 582 şahıs/kişi" ve "Erdoğan Güney Kore ziyareti" (yayınlanmış haberlere dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı).
+**Düzeltilen/İyileştirme:** `newsbot.py` `find_duplicate`: `--save` son 36 saatteki başlıklarla karşılaştırır (ortak 3+ haneli sayı ya da yüksek ortak kelime oranı), yinelenen haberi atlar. Son 3 günün gerçek haberlerinde denendi: iki yineleme yakalandı, farklı olaylar (koro başladı/bitti, trafik/okul servisi) geçti.
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Spor/Eğitim kaynakları.
+SAHİBİNE: yok.
+
 ## 02.11.2026 09:50 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son haber 200. Derleme geçti (209 yayında / 294 kayıt, venv ile). Son haber 09:33 TSİ; son 24 saatte 25 haber (Kültür-Sanat 7, Gündem 6, Belediye 5, Spor 3, Ekonomi/Türkiye/Eğitim/Asayiş 1'er; ilçe Merkez 17, Odunpazarı 4, Tepebaşı 3, Türkiye 1). Akış dünkü 4 haberden toparlandı; bunların 12'si hâlâ `photo_pending` (yayın dışı, `foto.yml` bekliyor). Tekrar eden başlık yok. Instagram: son 24 saatte log 16 (DAILY_CAP dolu), 6 Reels. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Sağlık, Eğitim, Tepebaşı, Asayiş.
 **Düzeltilen:** yok.
