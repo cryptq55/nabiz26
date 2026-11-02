@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediyesinde yeni atamalar: Sibel Yeşildal başkan yardımcılığına getirildi
+
+**Belediye · Odunpazarı** · 2026-11-02 17:15 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/odunpazari-belediyesinde-yeni-atamalar-kazim-kurt-isimleri-acikladi)
+
+![](data/images/c6d55d7dcf43d1a4.jpg)
+
+> Başkan Kurt, atamaları belediye meclisinin bilgisine sundu.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, belediye meclisinde geçen ay yapılan bazı atamaları meclisin bilgisine sundu.
+
+Kurt'un aktardığına göre belediye meclis üyesi Sibel Yeşildal belediye başkan yardımcılığına atandı. Gençlik ve Spor Hizmetleri Müdürü Soner Onrat Engelli ve Yaşlı Hizmetleri Müdürlüğü'ne, İşletme ve İştirakler Müdürü Ahmet Boz ise Gelirler Müdürlüğü'ne getirildi.
+
+Müdür vekilliklerine Merve Sadıç (Gençlik ve Spor Hizmetleri), Alper Eseroğlu (İşletme ve İştirakler), İhsan Araz (Ruhsat ve Denetim), Ercan Temel (Afet İşleri ve Risk Yönetimi) ve İlker Ardıç (Bilgi İşlem) atandı. Kurt, atananların görevlerine başladığını söyledi.
+
+Kurt ayrıca belediyede yapılan denetimlere ilişkin raporları grup başkanvekillerine sunduklarını, raporları meclisin bilgisine de sunduklarını belirtti.
+
+---
+
 ## Eskişehir'de Karadeniz Festivali 13-15 Kasım'da: 1 ton hamsi ikram edilecek
 
 **Kültür-Sanat · Merkez** · 2026-11-02 15:56 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/eskisehirde-karadeniz-festivali-basliyor-1-ton-hamsi-ikram-edilecek)
@@ -451,23 +469,5 @@ Eskişehir Büyükşehir Spor Kulübü, kadın futbolunda oluşturduğu altyapı
 Takımın teknik sorumlusu Bahadır Aksin, Türkiye'de ilk kez düzenlenen organizasyonda Eskişehir'i temsil ederek ligi ikinci sırada tamamlamanın büyük gurur olduğunu söyledi. Aksin, "Bizim için başarı sadece kazanılan maçlardan ve elde edilen derecelerden ibaret değil. En büyük hedefimiz, kız çocuklarımızın sporla büyümesini sağlamak, onlara fırsat sunmak ve geleceğin başarılı kadın futbolcularını yetiştirmek" dedi.
 
 Aksin, U15'ten U17'ye, oradan A takım seviyesine uzanan bir futbol yapılanması oluşturmak istediklerini belirtti ve emeği geçenlere teşekkür etti.
-
----
-
-## Vali Yılmaz'ın duyurduğu "Vizyon Eskişehir 2036" çalışması televizyonda tartışıldı
-
-**Gündem · Merkez** · 2026-11-01 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/vizyon-eskisehir-2036-projesi-eskisehire-neler-katacak)
-
-![](data/images/vali-yilmazin-duyurdugu-vizyon-eskisehir-2036-c-arsiv.jpg)
-
-> Gazeteci Akif Yer, çalışmanın ilçelere yönelik yaklaşımını olumlu bulduğunu söyledi.
-
-Kanal 26'da yayınlanan Muhabirin Gözünden programında, Eskişehir Valisi Dr. Erdinç Yılmaz'ın duyurduğu "Vizyon Eskişehir 2036" çalışması ele alındı. Programın moderatörü Merve Esra Özer, açıklanan hedeflerin somut projelere dönüşmesi için gereken adımları sordu. Gazeteci Akif Yer, çalışmanın kentin önümüzdeki 10 yılı için önemli hedefler içerdiğini söyledi.
-
-Yer'in aktardığına göre tanıtım programına belediyeler, odalar, dernekler, vakıflar ve üniversiteler dahil çok sayıda kurum davet edildi ve yaklaşık 40-45 dakika sürdü. Yer, çalışmanın yeni fabrikalar kurulmasını, iş imkânlarının artırılmasını, tarımın geliştirilmesini, turizmin büyütülmesini ve gençlere fırsat sunulmasını hedeflediğini anlattı. Tanıtımda kullanılan şarkı ve klibin yapay zekâyla oluşturulduğunu belirten Yer, şarkıyı yetersiz bulduğunu söyledi.
-
-Yer, çalışmanın en beğendiği yönünün "Eskişehir sadece Odunpazarı ve Tepebaşı'ndan ibaret değildir" vurgusu olduğunu belirtti. Yaklaşık 920 bin kişilik nüfusun 820 bininin iki merkez ilçede yaşadığını, kalan nüfusun 12 kırsal ilçeye dağıldığını ve yatırımcıların ilçelere yönlendirilmesi gerektiğini söyledi. Eskişehir'in İstanbul ve Ankara'ya yakın konumu nedeniyle daha fazla yatırım alması gerektiğini ifade eden Yer, 2036'ya kadar yaşanacak gelişmeleri takip edeceklerini belirtti.
-
-Haberdeki değerlendirmeler Akif Yer'e aittir.
 
 ---
