@@ -2,9 +2,31 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 2 Kasım 2026: Gram altın 6.373,02 TL
+
+**Ekonomi · Merkez** · 2026-11-02 14:14 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261102.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.299,44 TL'den alınıyor, 6.373,02 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 17.14 itibarıyla verilerine göre gram altının satış fiyatı 6.373,02 TL, alış fiyatı 6.299,44 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,72 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.387 TL, yarım altın 20.768 TL, tam altın 41.384 TL, ata altın 42.490 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.952,73 TL, has altının gram fiyatı 6.353,96 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.942,60 dolardan işlem görürken, dolar/TL 49,99 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 17.14 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Eskişehir Şehir Hastanesi'nde Ürojinekoloji ve yeni Menopoz Polikliniği hizmet veriyor
 
 **Sağlık · Merkez** · 2026-11-02 12:40 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.saraymedya.com/haber/eskisehir-sehir-hastanesi-nde-kadin-sagligina-iki-yeni-hizmet_320098/)
+
+![](data/images/eskisehir-sehir-hastanesinde-urojinekoloji-ve-y-arsiv.jpg)
 
 > Hastanede kadın sağlığına yönelik iki poliklinik çalışıyor.
 
@@ -447,19 +469,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Kore Cumhuriyeti Devlet Başkanı Lee Jae
 Erdoğan'a eşi Emine Erdoğan, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Millî Savunma Bakanı Yaşar Güler ve Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır eşlik etti.
 
 1-4 Kasım tarihlerini kapsayan ziyaret kapsamında Erdoğan, 3 Kasım Salı günü Lee Jae Myung ile resmî görüşme yapacak. Görüşmelerde iki ülke arasındaki stratejik ortaklık ilişkileri tüm yönleriyle ele alınacak, güncel bölgesel ve küresel meseleler hakkında fikir alışverişinde bulunulacak ve ikili ilişkilerin zeminini güçlendirecek çeşitli belgeler imzalanacak.
-
----
-
-## Tepebaşı Pop & Caz Korosu için koristler aranıyor: başvuru 12 Kasım'a kadar
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-01 18:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/tepebasinda-pop-caz-korosu-icin-koristler-araniyor)
-
-> 17-35 yaş arası müzikseverler için seçmeler 13 Kasım'da Ferdi Zeyrek Yaşam Merkezi'nde.
-
-Tepebaşı Belediyesi, Pop & Caz Korosu'nda yer almak isteyen 17-35 yaş arasındaki müzikseverler için başvuru sürecini başlattı. Başvurular 22 Ekim-12 Kasım tarihleri arasında alınacak.
-
-Şef Derya İnanç yönetimindeki koroya başvuru formuna tepebasi.bel.tr adresinin Etkinlikler sayfasından ulaşılabilecek. Seçmeler 13 Kasım Cuma günü saat 19.00'da, Ferdi Zeyrek Yaşam Merkezi bünyesindeki İki Elin Sesi Var Çocuk ve Gençlik Senfoni Orkestrası ve Korosu'nda yapılacak.
-
-Seçmelerin yapılacağı adres Yeşiltepe Mahallesi, Kırca Sokak No: 1/A. Ayrıntılı bilgi için 0222 321 12 79 numaralı telefon aranabilir. Etkinlik ücretsiz.
 
 ---
