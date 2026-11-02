@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-02T07:36:37.309622+00:00",
+  "published_at": "2026-11-02T07:37:34.037246+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir'de okul servisleri ve çevrelerinde denetimler yapıldı - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-okul-servisleri-ve-cevrelerinde-denetimler-yapildi-119509819"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Valiliği"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehirde-ekimde-1308-okul-servisi-denetlendi-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eskisehirvaliligi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-02T07:37:09.875748+00:00",
+  "published_at": "2026-11-02T07:37:35.715809+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir asayiş",
     "title": "Eskişehir’de emniyet ve jandarmadan aranan şahıslara operasyon - Eskisehir.Net",
     "url": "https://www.eskisehir.net/eskisehirde-emniyet-ve-jandarmadan-aranan-sahislara-operasyon"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Valiliği"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehirde-ekimde-aranan-582-sahis-yakalandi-7-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eskisehirvaliligi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
