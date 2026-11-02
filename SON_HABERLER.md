@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Meclisi'nde Kurşunlu Külliyesi tartışması: Kurt ve Kepez farklı görüşte
+
+**Gündem · Odunpazarı** · 2026-11-02 18:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurt-sert-konustu-hic-kimseye-bir-sey-teslim-etmiyoruz)
+
+> Kurt belediyenin külliye giderlerini açıkladı, Kepez Vakıflar'ın mülk sahipliğini vurguladı.
+
+Odunpazarı Belediyesi kasım ayı meclis toplantısında Kurşunlu Külliyesi'nin tahliyesi gündeme geldi. Belediye Başkanı Kazım Kurt ve AK Parti Grup Başkanvekili Mehmet Kepez farklı görüşler dile getirdi.
+
+Kurt'un anlattığına göre külliye 2004'ten bu yana Odunpazarı Belediyesi tarafından kültür ve sanat hizmetlerine tahsis edilen bir alan. Belediyenin 1 Ocak-30 Ekim 2026 arasındaki külliye harcamalarını açıklayan Kurt, ortak alanların, müzenin ve işyerlerinin elektriği için 409 bin 523 lira, doğal gaz için 443 bin 366 lira, temizlik personeli için 794 bin 873 lira, güvenlik personeli için 3 milyon 238 bin 286 lira ve cam sanatları atölyesinin oksijen tesisatı ile diğer giderleri için yaklaşık 134 bin lira harcandığını, toplamın 6 milyon 26 bin liraya ulaştığını söyledi. Kurt, külliyede 18 kurs öğretmeni, teknisyen ve cam sanatçısının çalıştığını, 14 küçük işletmenin bulunduğunu belirtti.
+
+Kurt, kira sözleşmesinin beş yıl uzatılmasına olanak tanıyan düzenlemeye süresi içinde başvurduklarını, Vakıflar'ın yanıt vermemesi üzerine "zımnen ret" kabul ederek dava açtıklarını, yargılamanın sürdüğünü ve mahkemenin yürütmeyi durdurma kararı vermediğini söyledi. Kaymakamlığın 3 Kasım 2026'da külliyenin boşaltılmasını bildirdiğini, ortada mahkeme kararı bulunmadığını savundu.
+
+Kepez ise külliyenin boşaltılmasının AK Parti'yle ilgisi olmadığını söyledi. Külliye yargı kararıyla belediyeden alınsa bile AK Parti'nin orayı bir derneğe vermek gibi bir düşüncesi ve yetkisi bulunmadığını belirten Kepez, Vakıfların mülk sahibi olduğunu, kendi envanterini çıkararak kiraları tahsil etmeye çalıştığını, İl Tarım Müdürlüğü binasından ve bazı valiliklerden de kira istediğini ifade etti. Kepez, Vakıflarla kira konusunda uzlaşı sağlanamamasının belediyenin sorunu olduğunu ve bunun AK Parti'ye fatura edilmesinin doğru olmadığını söyledi.
+
+Haber meclis konuşmalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün ve Kaymakamlığın bu açıklamalara ilişkin görüşü kaynakta yer almıyor.
+
+---
+
+## ESKİ: Çankaya'daki hat çalışması nedeniyle 6 mahallede su kesintisi sürecek
+
+**Gündem · Merkez** · 2026-11-02 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eski-duyurdu-eskisehirde-6-mahallede-su-kesintisi-devam-edecek)
+
+![](data/images/6a574e4b0b8b5689.jpg)
+
+> Bağlantı tamamlanınca sisteme kademeli olarak su verilecek.
+
+Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğü (ESKİ), Çankaya Mahallesi Özlem Caddesi'nde yürütülen içme ve kullanma suyu isale hattı bağlantı çalışmalarının sürdüğünü bildirdi.
+
+ESKİ'nin yazılı açıklamasına göre çalışmalar nedeniyle Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde yaşanan su kesintisi ve basınç düşüklüğü bir süre daha devam edecek. Ekiplerin çalışmaları güvenli şekilde tamamlamak ve bölgeye yeniden su vermek için sahada aralıksız çalıştığı belirtildi.
+
+Bağlantı işlemleri tamamlandıktan sonra sisteme kademeli olarak su verilecek, şebeke basıncının dengelenmesine bağlı olarak su akışı aşamalı şekilde normal seviyesine ulaşacak. ESKİ, vatandaşlara anlayış ve sabırları için teşekkür etti. Açıklamada kesintinin ne zaman sona ereceğine dair bir saat verilmedi.
+
+---
+
 ## Eskişehir Uluslararası Polifonik Koro Şenliği İstanbul Avrupa Korosu konseriyle bitti
 
 **Kültür-Sanat · Merkez** · 2026-11-02 17:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/2-eskisehir-uluslararasi-polifonik-koro-senligi-ozel-konserle-sona-erdi-a838140a)
@@ -441,35 +475,5 @@ Eskişehir Osmangazi Üniversitesi'nin Ön Lisans ve Lisans Eğitim-Öğretim ve
 Yeni düzenlemeye göre öğrencinin eğitim planındaki mezuniyet grubunda yer alan eş değer derslerden FF, YZ veya DZ notu aldığı bir ders varsa, öğrenci yeni bir derse kayıt yaptırdığında bu yeni ders başarısız olduğu eş değer dersin yerine sayılacak.
 
 Akademik uyarısı bulunan öğrenciler için ayrı bir hüküm de yer aldı: bu öğrencilerin DC veya DD aldıkları eş değer derslerde de aynı uygulama geçerli olacak.
-
----
-
-## Eskişehir'de ekimde 117 bin araç denetlendi, bin 238 araç trafikten men edildi
-
-**Gündem · Merkez** · 2026-11-02 01:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-yollarinda-siki-denetim--bin-238-arac-trafikten-men-edildi-297362.html)
-
-> Emniyet ve jandarma verilerine göre 453 sürücünün ehliyetine el konuldu.
-
-Eskişehir İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı trafik ekipleri, 1-31 Ekim 2026 tarihleri arasında kent genelinde denetim yaptı. Bir ayda 117 bin 791 araç ve sürücü kontrol edildi.
-
-Denetimlerin 15 bin 608'i yük taşımacılığı, 2 bin 603'ü yolcu taşımacılığı, 11 bin 772'si alkol, 2 bin 886'sı motosiklet ve 26 bin 69'u emniyet kemeri kontrolünden oluştu. Diğer kontrol türlerinde 58 bin 853 denetim yapıldı.
-
-Kusurlu bulunan araç ve sürücülere toplam 25 bin 45 trafik cezası kesildi. Bin 238 araç trafikten men edildi, 453 sürücünün ehliyetine el konuldu.
-
-Aynı dönemde Eskişehir genelinde 3 ölümlü, 277 yaralanmalı ve 273 maddi hasarlı trafik kazası kayıtlara geçti.
-
----
-
-## Aşağıçağlan'daki 541 konutluk projenin ihalesi 23 Kasım'a ertelendi
-
-**Gündem · Odunpazarı** · 2026-11-02 00:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-541-konut-icin-beklenen-ihale-ertelendi)
-
-> İhale daha önce 10 Kasım olarak duyurulmuştu; erteleme gerekçesi açıklanmadı.
-
-Odunpazarı ilçesi Aşağıçağlan Mahallesi'nde planlanan 541 konut ve 4 dükkânlık projenin ihale tarihi ertelendi. Daha önce 10 Kasım 2026 olarak belirlenen ihale, takvim değişikliğiyle 23 Kasım 2026 Pazartesi günü saat 14.30'a alındı.
-
-Değişiklik, İlkevim Eskişehir ve İlkevim Arsa Eskişehir hesaplarından yapılan duyuruyla bildirildi. İhale, Aşağıçağlan Mahallesi 3. Etap kapsamındaki yapım işini kapsıyor. İhale kapsamında 541 konutla birlikte 4 dükkânın inşası ve altyapı ile çevre düzenlemesi işleri yer alıyor.
-
-İhale tarihindeki değişikliğin gerekçesine ilişkin bir açıklama yapılmadı.
 
 ---
