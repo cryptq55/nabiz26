@@ -20,10 +20,10 @@
     "title": "Erzurum’un Lezzetleri ve Kültürü Eskişehir’de Buluşacak - Erzurum Günebakış",
     "url": "https://erzurumgunebakis.com/amp/haber/erzurumun-lezzetleri-ve-kulturu-eskisehirde-bulusacak-141930"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Dede Korkut Parkı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
