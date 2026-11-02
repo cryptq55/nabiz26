@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Porsuk'taki Aşk Adası iskele, ahşap teras ve yeşil alanla yenilenecek
+
+**Belediye · Odunpazarı** · 2026-11-02 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-ask-adasina-yeni-duzenleme-yapilacak-iste-edinilen-bilgiler-2445126)
+
+> 13 bin 693 metrekarelik adada tehlikeli bitki örtüsü temizlendi, ağaçlara budama yapıldı.
+
+Eskişehir'de Odunpazarı ilçesi Gökmeydan Mahallesi'ndeki Aşk Adası için yeni bir düzenleme projesi hazırlandı. 19 Mayıs Caddesi üzerinde, Porsuk Çayı'nın yapay bir kanalla ayrılan bölümünde bulunan adada iskele, ahşap teraslar ve yeşil alan düzenlemeleri yapılması planlanıyor. Projeyle adanın mevcut yapısının korunarak vatandaşların daha fazla yararlanabileceği bir alana dönüştürülmesi hedefleniyor.
+
+13 bin 693 metrekarelik adaya ulaşım yalnızca yaya köprüsünden sağlanıyor. En az 20 yıllık geçmişi bulunan adaya araç girişi olmaması bitki örtüsüne yönelik bakım çalışmalarını zorlaştırmıştı. Yaşlı kavak ve söğüt ağaçlarının çürümesi ve dallarının kırılması nedeniyle güvenlik riski oluştuğu belirtildi.
+
+Aşk Adası İskele Projesi kapsamında Porsuk yatağı üzerinden araç girişine imkân veren bir yol oluşturuldu. Böylece adadaki kurumuş ve tehlike yaratan bitki örtüsü temizlendi, mevcut ağaçlar için dal budama çalışması yapıldı.
+
+Suyla bütünleşen bir tasarımın benimsendiği projede, teknelerin yanaşabilmesi için su içinde ahşap teraslar ve iskele alanları planlandı. Adanın doğal yükseklik farklarından yararlanılarak yeni kullanım alanları oluşturulması öngörülüyor.
+
+---
+
 ## Tepebaşı'nda emlak vergisi mobil vezne takvimi: 2-30 Kasım'da mahalle mahalle
 
 **Belediye · Tepebaşı** · 2026-11-02 04:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/eskisehirde-emlak-vergisi-odeyecekler-dikkat-mobil-vezne-mahalle-mahalle-dolasacak)
@@ -459,21 +475,5 @@ Odunpazarı Belediyesi'nin yaşlılara yönelik hizmet veren merkezlerinde Cumhu
 Gültepe Mahallesi Üniversite Evleri'ndeki Koca Çınar Yaşam Merkezi'nde hazırlanan programla Cumhuriyet'in anlamına dikkat çekildi, baloyla bayram sevinci paylaşıldı. Lütfü Yüksel Yaşlı Bakım Merkezi'nde ise merkezin kıdemli sakinleri Cumhuriyet'in 103. yıl dönümünü birlik, beraberlik ve Atatürk sevgisiyle karşıladı.
 
 Odunpazarı Belediyesi, sosyal belediyecilik anlayışıyla yaş almış yurttaşların sosyal yaşamın içinde yer almasını destekleyen çalışmalarını sürdürdüğünü belirtti.
-
----
-
-## Odunpazarı Belediyesi'nin Cumhuriyet programında müzik, tiyatro ve halk dansları
-
-**Kültür-Sanat · Odunpazarı** · 2026-10-30 12:57 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-cumhuriyet-coskusu-sanatla-sahneye-tasindi)
-
-![](data/images/da5d0e2b10023d02.jpg)
-
-> Programda Cumhuriyet'e iz bırakan isimler sahnede canlandırıldı; Başkan Kurt konuştu.
-
-Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü'nün düzenlediği Cumhuriyet Bayramı kutlama programında Cumhuriyet'in kazanımları müzik, tiyatro, şiir ve halk danslarıyla anlatıldı. Programa Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal, Tepebaşı Belediye Başkan Vekili Mehmet Baturay Özkan, Çağdaş Sen Eskişehir Şube Başkanı Deniz Kalkan ve çok sayıda Eskişehirli katıldı.
-
-Saygı duruşu ve İstiklal Marşı ile başlayan programda Hülya Düzbaş "Yüzüm Şen, Hatıram Şen", "Mehtaplı Bir Gecede" ve "Bir Pembe İncisin Sen" eserlerini seslendirdi. Odunpazarı Belediye Tiyatrosu'nun canlandırmalarında Semiha Berksoy, Afife Jale, Müzeyyen Senar, Cahide Sonku, Samiye Cahid Morkaya, Remziye Hisar, Ahmet Adnan Saygun, Cahit Arf, Hasan Âli Yücel, Yaşar Kemal ve Vecihi Hürkuş gibi isimler izleyiciyle buluştu.
-
-Utku Görkem Kırdemir, Attilâ İlhan'ın "Mustafa Kemal'in Sofrası" şiirini okudu; Serpil Mercan Vurucu "Ben Cumhuriyet Kadınıyım" şiirini seslendirdi. Odunpazarı Belediyesi Halk Dansları ekibi gösteri yaptı, tango gösterisi de programa renk kattı. Programın sonunda konuşan Başkan Kazım Kurt, Cumhuriyet'e ve kazanımlarına sahip çıkma çağrısı yaptı.
 
 ---
