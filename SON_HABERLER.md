@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir Şehir Hastanesi'nin yeni başhekimi Prof. Dr. Mustafa Cem Algın oldu
+
+**Sağlık · Merkez** · 2026-11-02 22:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sehir-hastanesinin-yeni-bashekimi-belli-oldu)
+
+> Algın, görevi Dr. Öğr. Üyesi Fatih Alper Ayyıldız'dan devraldı.
+
+Eskişehir Şehir Hastanesi'nde başhekimlik görevinde değişikliğe gidildi. Dr. Öğr. Üyesi Fatih Alper Ayyıldız'ın yürüttüğü başhekimlik görevine, Genel Cerrahi Uzmanı Prof. Dr. Mustafa Cem Algın atandı. Daha önce aynı hastanede genel cerrahi uzmanı olarak görev yapan Algın, Kasım 2026 itibarıyla hastanenin yeni başhekimi oldu.
+
+Kaynakta aktarılan özgeçmişine göre Algın, Eskişehir doğumlu. Hacettepe Üniversitesi Tıp Fakültesi'nden 1991'de mezun oldu, meslek hayatına Eskişehir Devlet Hastanesi'nde pratisyen hekim olarak başladı. Genel cerrahi uzmanlığını Eskişehir Osmangazi Üniversitesi Tıp Fakültesi'nde tamamladı, akademik kariyerine Dumlupınar Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesi'nde devam ederek profesörlük unvanını aldı. 2018-2023 arasında dekanlık yaptı, rektör yardımcılığı görevinde de bulundu. Sindirim sistemi, safra yolları, karaciğer, tiroid ve meme hastalıklarının cerrahi tedavisi üzerine çalıştı.
+
+---
+
 ## TFF 3. Lig 2. Grup'ta Eskişehir Anadolu Alanya'yı 5-1, Eskişehirspor Gaziemir'i 5-0 yendi
 
 **Spor · Merkez** · 2026-11-02 21:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.usakport.com.tr/usakin-yenildigi-haftanin-en-kazanclisi-eskisehirin-2-ekibi-oldu)
@@ -465,21 +477,5 @@ Eskişehir Büyükşehir Belediyesi'nin yapımını sürdürdüğü Kurtuluş Ka
 Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın alan desteği sağladığı proje, Büyükşehir Belediyesi'nin yaklaşık 500 milyon liralık yatırımıyla yapılıyor. Tesiste 54 tezgâh öbeği içinde toplam 216 tezgâh alanı, 27 balıkçı tezgâhı, 17 et, kasap ve şarküteri dükkânı ile 40'a yakın soğuk hava deposu yer alacak.
 
 Projede ayrıca toplam 150 araç kapasiteli kapalı otopark bulunacak. Otoparkın 137 araçlık bölümü normal araçlara, 6 araçlık bölümü engelli vatandaşlara ayrılacak.
-
----
-
-## 2. Eskişehir Uluslararası Polifonik Koro Şenliği başladı: 37 koro katılıyor
-
-**Kültür-Sanat · Merkez** · 2026-11-02 03:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/2-eskisehir-uluslararasi-koro-senligi-coskuyla-basladi)
-
-![](data/images/2-eskisehir-uluslararasi-polifonik-koro-senligi-arsiv.jpg)
-
-> Şenlik 30 Ekim-1 Kasım'da Büyükşehir Sanat ve Kültür Sarayı'nda yapılıyor.
-
-Eskişehir Büyükşehir Belediyesi ile Eskişehir Polifonik Korosu Derneği'nin iş birliğiyle ikincisi düzenlenen Eskişehir Uluslararası Polifonik Koro Şenliği, açılış programıyla başladı. Şenlik 30 Ekim-1 Kasım 2026 tarihlerinde Büyükşehir Sanat ve Kültür Sarayı'nda (Opera) yapılıyor ve toplam 37 koroyu bir araya getiriyor. Konserler, atölye çalışmaları ve ortak sahne performansları programda yer alıyor.
-
-Açılışta konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, geçen yıl ilki düzenlenen şenliğin ardından bu yıl da aynı heyecanı yaşadığını söyledi. Macaristan'dan katılan Scherzo Mixed Choir ile birlikte farklı şehir ve ülkelerden gelen konuk koroları selamlayan Ünlüce, şenliklerin uluslararası nitelik taşımasını önemsediklerini belirtti.
-
-Şenliğin sanat yönetmeni Ender Sakpınar da organizasyona destek verenlere teşekkür etti ve koro müziğinin birleştirici gücüne dikkat çekti. Organizasyonun amacı, farklı kültürlerden korolar arasında sanatsal etkileşimi artırmak ve müzik aracılığıyla kalıcı dostluklar kurmak olarak açıklandı.
 
 ---
