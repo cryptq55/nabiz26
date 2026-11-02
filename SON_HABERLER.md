@@ -2,9 +2,51 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de ekimde aranan 582 şahıs yakalandı: 794 uygulama noktası kuruldu
+
+**Asayiş · Merkez** · 2026-11-02 07:37 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehir.net/eskisehirde-emniyet-ve-jandarmadan-aranan-sahislara-operasyon)
+
+> Valilik koordinesinde emniyet ve jandarma ekipleri 1.978 personelle sahada görev aldı.
+
+Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekiplerinin Ekim ayı asayiş ve aranan şahıs operasyonlarının sonuçları açıklandı. 1-31 Ekim 2026 tarihleri arasında il genelinde 794 uygulama noktası kuruldu ve 1.978 personel sahada görev yaptı.
+
+Bir aylık çalışmada çeşitli suçlardan aranan 398 kişi dahil toplam 582 şahıs yakalandı. Yakalananlardan 146'sı 5 yıla kadar, 29'u 5 ile 10 yıl arasında, 9'u ise 10 yıl ve üzeri hapis cezasıyla aranıyordu. Emniyet ve jandarma birimlerinin denetimlere devam edeceği bildirildi.
+
+---
+
+## Eskişehir'de ekimde 1308 okul servisi denetlendi, 31 kusurlu araç tespit edildi
+
+**Eğitim · Merkez** · 2026-11-02 07:36 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-okul-servisleri-ve-cevrelerinde-denetimler-yapildi-119509819)
+
+> Valilik, okul çevrelerinde yüzlerce işletmenin de kontrol edildiğini açıkladı.
+
+Eskişehir Valiliği'nin açıklamasına göre İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri 1-31 Ekim tarihlerinde okul servisleri ve okul çevrelerinde denetim yaptı. 1308 okul servisi aracı ve şoförü denetlendi, 31 kusurlu servis aracı ve şoförü tespit edildi.
+
+Okul çevrelerinde 363 kahvehane, 237 market ve tekel bayisi, 7 oyun salonu ile 325 park ve bahçe kontrol edildi. Denetimlerde ayrıca 2 bin 639 kişinin sorgulaması yapıldı.
+
+---
+
+## Erdoğan Seul'de: Güney Kore ziyareti başladı, 3 Kasım'da resmî görüşme var
+
+**Türkiye · Türkiye** · 2026-11-02 07:36 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-guney-korede)
+
+![](data/images/7ebce1f83f76feaa.jpg)
+
+> Ziyaret 4 Kasım'a kadar sürecek.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine başkent Seul'e geldi. Erdoğan ve eşi Emine Erdoğan, Seul Seongnam Hava Üssü'nde Kore Ticaret Bakanı Park Jung-sung tarafından karşılandı. Türkiye'nin Seul Büyükelçisi Fatih Yıldız ve eşi Nesrin Yıldız da karşılamada hazır bulundu.
+
+Erdoğan'a ziyarette Dışişleri Bakanı Hakan Fidan, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Millî Savunma Bakanı Yaşar Güler, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, AK Parti Genel Başkan Yardımcısı Halit Yerebakan ve Savunma Sanayii Başkanı Haluk Görgün eşlik ediyor.
+
+4 Kasım'a kadar sürecek ziyaret kapsamında Erdoğan'ın 3 Kasım Salı günü Lee Jae Myung ile resmî görüşme yapması planlanıyor. Görüşmelerde iki ülke arasındaki stratejik ortaklık ilişkilerinin ele alınması ve ikili ilişkileri güçlendirecek anlaşmaların imzalanması hedefleniyor.
+
+---
+
 ## Başkan Ünlüce Eskişehir Kırkalılar Derneği'nin kadınlar kahvaltısına katıldı
 
-**Gündem · Merkez** · 2026-11-02 06:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/eskisehirde-baskan-unluce-kirkali-kadinlarla-kahvaltida-bulustu)
+**Gündem · Merkez** · 2026-11-02 06:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/eskisehirde-baskan-unluce-kirkali-kadinlarla-kahvaltida-bulustu)
+
+![](data/images/baskan-unluce-eskisehir-kirkalilar-derneginin-k-arsiv.jpg)
 
 > Etkinlikte Seyitgazi Belediye Başkanı Uğur Tepe de yer aldı.
 
@@ -427,53 +469,5 @@ Ziynet altınlarda çeyrek altın 10.236 TL, yarım altın 20.467 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,90 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 14.26 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Aile ve Sosyal Hizmetler İl Müdürlüğü'nde değerlendirme toplantısı: yatırımlar ele alındı
-
-**Gündem · Merkez** · 2026-10-30 18:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aile.gov.tr/eskisehir/haberler/il-mueduerlueguemuezde-degerlendirme-toplantisi-biz-bu-devletin-emanet-kasasiyiz/)
-
-![](data/images/4710be757d5148b5.jpg)
-
-> İl Müdürü Orhan Bayrak, bakım merkezleri ve yeni tesis projelerinin süreçlerinin titizlikle takip edilmesinin önemini vurguladı.
-
-Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde, İl Müdürü Orhan Bayrak başkanlığında koordinasyon toplantısı yapıldı. Toplantıya il müdürlüğüne bağlı kuruluşların idarecileri ve il müdür yardımcıları katıldı.
-
-Toplantıda 29 Ekim Cumhuriyet Bayramı kapsamında il genelinde düzenlenen resmî törenler ve kuruluş içi etkinlikler değerlendirildi. Bayrak, kuruluşlarda misafir edilen çocukların, engellilerin ve yaşlıların bayramı coşkuyla yaşamasını sağlayan organizasyonlar için idarecilere ve personele teşekkür etti. Bayrak, "Bizler bu devletin emanet kasasıyız. Bakım ve koruma, bizim birinci ve en temel vazifemizdir" dedi.
-
-İl genelinde yürütülen ve yapımına başlanması planlanan hizmet binaları, bakım merkezleri ve ek tesis projeleri de ele alındı; inşaat çalışmalarının fiziki gerçekleşme oranları gözden geçirildi. Bakanlık merkezindeki İl Müdürleri Toplantısı'nın çıktıları da görüşüldü. Sosyal dayanışma ağını güçlendirmeyi amaçlayan "İyilik Var" uygulamasının il genelinde daha etkin tanıtılması ve yaygınlaştırılması kararlaştırıldı. Dezavantajlı kesimlerin ihtiyaçlarını önceden tespit etmeyi amaçlayan "Sosyal Risk Haritası" çalışmalarının tamamlanması için birimler arası koordinasyonun artırılması gerektiği vurgulandı.
-
----
-
-## Odunpazarı'nda özel gereksinimli bireylerin annelerine ücretsiz psikolojik danışmanlık
-
-**Sağlık · Odunpazarı** · 2026-10-30 15:59 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-ndan-ozel-gereksinimli-bireylerin-annelerine-psikolojik-danismanlik-d-1)
-
-![](data/images/eed880842614ce26.jpg)
-
-> Hizmet Engelsiz Kültür ve Sanat Merkezi'nde Psikolojik Danışman Öznur Anılır tarafından yürütülüyor.
-
-Odunpazarı Belediyesi, Engelli ve Yaşlı Hizmetleri Müdürlüğü bünyesinde özel gereksinimli bireylerin aileleri için ücretsiz Psikolojik Danışmanlık Hizmeti sunuyor. Hizmetle ailelerin psikolojik açıdan desteklenmesi ve karşılaştıkları süreçlerde yalnız olmadıklarını hissetmeleri amaçlanıyor.
-
-Hizmet, Engelsiz Kültür ve Sanat Merkezi'nde Psikolojik Danışman Öznur Anılır tarafından yürütülüyor. Belediyenin aktardığına göre çalışmayla ailelerin yaşadıkları süreçleri daha sağlıklı yönetmelerine, duygusal ihtiyaçlarını ifade etmelerine ve güçlüklerle baş etme becerilerini geliştirmelerine destek olunması hedefleniyor.
-
-Ücretsiz Psikolojik Danışmanlık Hizmeti hakkında bilgi almak ve kayıt yaptırmak isteyenler Engelsiz Kültür ve Sanat Merkezi'ne başvurabilir. Ayrıntılı bilgi için Odunpazarı Belediyesi'nin 0222 227 86 38 numaralı telefonu aranabilir.
-
----
-
-## Odunpazarı Belediyesi pazarlarda tartı kontrol noktası kurdu: eksik gramaj çıkmadı
-
-**Belediye · Odunpazarı** · 2026-10-30 13:47 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-pazarlarda-elektronik-tarti-denetimi-2)
-
-![](data/images/082d7a58e3b9c021.jpg)
-
-> Zabıta Emek Mahallesi Kapalı Pazar Yeri'nde denetim yaptı.
-
-Odunpazarı Belediyesi Zabıta Müdürlüğü ekipleri, Pazar Uygulama Yönetmeliği kapsamında pazarlarda ölçü ve tartı aletlerinin hileli kullanımına karşı denetimlerini sürdürüyor. Ekipler son olarak Emek Mahallesi Kapalı Pazar Yeri'nde denetim yaptı.
-
-Denetim sırasında pazar alanında Odunpazarı Belediyesi Tartı Kontrol Noktası kuruldu. Alışveriş yapan vatandaşlar satın aldıkları ürünleri burada yeniden tarttırabildi. Belediyenin aktardığına göre yapılan denetimlerde eksik gramaja rastlanmadı.
-
-Zabıta Müdürlüğü yetkilileri, denetimlerin yalnızca kapalı pazar yerleriyle sınırlı kalmayacağını, ilçedeki diğer pazarlarda da düzenli olarak sürdürüleceğini açıkladı.
 
 ---
