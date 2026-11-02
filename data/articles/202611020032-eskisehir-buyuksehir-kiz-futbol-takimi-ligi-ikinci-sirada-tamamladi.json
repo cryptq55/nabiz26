@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-02T00:32:08.388714+00:00",
+  "published_at": "2026-11-02T00:34:09.556355+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir Büyükşehir Kız Futbol Takımı'ndan gururlandıran başarı - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehir-buyuksehir-kiz-futbol-takimindan-gururlandiran-basari"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Büyükşehir Belediyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehir-buyuksehir-kiz-futbol-takimi-ligi-iki-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_in_2012_1245.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
