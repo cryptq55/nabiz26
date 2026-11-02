@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de Karadeniz Festivali 13-15 Kasım'da: 1 ton hamsi ikram edilecek
+
+**Kültür-Sanat · Merkez** · 2026-11-02 15:56 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/eskisehirde-karadeniz-festivali-basliyor-1-ton-hamsi-ikram-edilecek)
+
+> Festivalde İsmail Türüt ve Onay Şahin sahne alacak.
+
+Eskişehir Karadenizliler Derneği öncülüğünde düzenlenecek Karadeniz Festivali, 13-14-15 Kasım 2026 tarihlerinde Vişnelik Mahallesi'ndeki Dede Korkut Parkı'nda yapılacak. Festival, Baş Fuar ve Organizasyon iş birliğiyle düzenleniyor.
+
+Üç gün sürecek etkinlikte İsmail Türüt, Onay Şahin, Mithat Körler, Hakan Köntek, Filiz Yıldırım, Efe Karagüzel, Hamit Çakıcı ve Mehmet Durak sahne alacak. Program şöyle: 13 Kasım Cuma İsmail Türüt ve Filiz Yıldırım; 14 Kasım Cumartesi Onay Şahin, Hamit Çakıcı ve Mithat Körler; 15 Kasım Pazar Hakan Köntek ve Efe Karagüzel.
+
+Ziyaretçilere 13 Kasım'da karalahana çorbası, 14 Kasım'da 1 ton hamsi, 15 Kasım'da kuymak ikram edilecek. Festival alanında horon, kemençe ve tulum gösterileri, Karadeniz'in yöresel ürünlerinin satıldığı stantlar ve çocuklar için oyun alanları da bulunacak.
+
+---
+
 ## Odunpazarı Belediye Meclisi Sağlıklı Kentler Birliği'nden ayrılma kararı aldı
 
 **Belediye · Odunpazarı** · 2026-11-02 14:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/odunpazari-belediyesinden-flas-ayrilik-karari-mecliste-karar-alindi)
@@ -455,19 +469,5 @@ Yer'in aktardığına göre tanıtım programına belediyeler, odalar, dernekler
 Yer, çalışmanın en beğendiği yönünün "Eskişehir sadece Odunpazarı ve Tepebaşı'ndan ibaret değildir" vurgusu olduğunu belirtti. Yaklaşık 920 bin kişilik nüfusun 820 bininin iki merkez ilçede yaşadığını, kalan nüfusun 12 kırsal ilçeye dağıldığını ve yatırımcıların ilçelere yönlendirilmesi gerektiğini söyledi. Eskişehir'in İstanbul ve Ankara'ya yakın konumu nedeniyle daha fazla yatırım alması gerektiğini ifade eden Yer, 2036'ya kadar yaşanacak gelişmeleri takip edeceklerini belirtti.
 
 Haberdeki değerlendirmeler Akif Yer'e aittir.
-
----
-
-## Eskişehirspor'da Hakan Şapcı'ya taraftardan destek: tribünler çağırdı, alkışladı
-
-**Spor · Merkez** · 2026-11-01 22:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporda-hakan-sapci-ve-ekibine-destek-artiyor)
-
-> Gaziemir galibiyetinin ardından teknik direktör tribünlere çağrıldı.
-
-Eskişehirspor'un İzmir'de Gaziemir'i 5-0 yendiği maçın ardından taraftarlar teknik direktör Hakan Şapcı'yı tribünlere çağırdı. Şapcı, taraftarları alkışlayarak teşekkür etti.
-
-Etimesgut ve Bursa Yıldırımspor maçlarındaki puan kayıpları nedeniyle eleştirilen Şapcı'ya yönelik tepkiler artmıştı. Bursa Yıldırımspor maçının son dakikalarında tribünlerden istifa tezahüratları yükselmişti. Takımın Türkiye Kupası'nda Iğdır FK'yı yenmesi bu süreçte önemli bir dönüm noktası olarak değerlendirildi.
-
-Üst üste alınan Iğdır FK ve Gaziemir galibiyetlerinin ardından Eskişehirspor gelecek cumartesi günü kendi sahasında Antalya Kepezspor'u konuk edecek.
 
 ---
