@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de ekim ayında aranan 582 kişi yakalandı
+
+**Asayiş · Merkez** · 2026-11-02 10:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://eskisehirdurum.com/eskisehir-asayis/eskisehirde-ekim-ayinda-aranan-582-sahis-polis-ve-jandarmaya-yakalandi/811057)
+
+> 794 uygulama noktasında bin 978 personelle yapılan denetimlerde 9 kişi 10 yıl ve üzeri kesinleşmiş cezayla aranıyordu.
+
+Eskişehir'de polis ve jandarma ekiplerinin ekim ayı boyunca yürüttüğü denetimlerde aranan toplam 582 kişi yakalandı. Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri, 1-31 Ekim 2026 tarihleri arasında il genelinde 794 farklı uygulama noktasında çalışma yaptı. Uygulamalara bin 978 polis ve jandarma personeli katıldı.
+
+Yakalanan kişilerden 146'sının 5 yıla kadar, 29'unun 5 ila 10 yıl arasında, 9'unun ise 10 yıl ve üzeri kesinleşmiş hapis cezasıyla arandığı belirlendi. Çeşitli suçlardan haklarında arama kaydı bulunan 398 kişi de yakalandı.
+
+Yakalanan şahıslar adli mercilere sevk edildi ve haklarında gerekli yasal işlemler yapıldı.
+
+---
+
 ## Ataç: Tepebaşı Belediyesi'nde personel giderleri yüzde 40 sınırına çekilecek
 
 **Belediye · Tepebaşı** · 2026-11-02 09:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.anadolugazetesi.com/tepebasi-belediyesinde-kac-kisi-isten-cikarilacak--atac-tan-aciklama-geldi-297396.html)
@@ -441,25 +455,5 @@ Eskişehir Büyükşehir Belediyesi ile Türkiye Yardımsevenler Derneği (TYSD)
 Tanıtıma Büyükşehir Belediye Başkanı Ayşe Ünlüce, YENİ Parti Eskişehir Milletvekili İbrahim Arslan, Tepebaşı Belediye Başkanı Ahmet Ataç, Eskişehir Baro Başkanı Barış Günaydın, TYSD Eskişehir Şube Başkanı Serpil Çamoğlu, Eskişehir Ticaret Odası Yönetim Kurulu Üyesi Yasin Bakılan ve meclis üyeleri katıldı. Ünlüce, 81 ilin yemek tariflerini içeren bir kitabın ardından Eskişehir'e özel bir çalışma fikrinin doğduğunu, 2026 Eskişehir Yılı'nda kente kalıcı bir eser kazandırmak istediklerini söyledi. Kitabı hazırlayan Serpil Uzoğlu, çalışmayı kitabın editörlüğünü yapan kızı İpek Eda Uça ile yürüttüklerini, tarifleri araştırıp kendi evlerinde hazırladıklarını anlattı.
 
 Etkinlik, kitaptaki geleneksel tariflerden hazırlanan yöresel yemeklerin ikramıyla sona erdi. Kitap; TYSD Eskişehir Şubesi, Hamam Müzesi, Masal Şatosu, ETİ Su Altı Dünyası Akvaryum Kafe ve Hediyelik Eşya Bölümü, Bilim Deney Merkezi Galaksi Kafe, Emek Kafe, Aktif Yaşam Parkı Yaşam Kafe, Sazova Bilim Kültür Sanat Parkı Elma Kafe ve Hayvanat Bahçesi Tropik Merkezi'nden alınabilecek.
-
----
-
-## Altın fiyatları 1 Kasım 2026: Gram altın 6.288,41 TL
-
-**Ekonomi · Merkez** · 2026-11-01 12:20 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261101.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.206,84 TL'den alınıyor, 6.288,41 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.20 itibarıyla verilerine göre gram altının satış fiyatı 6.288,41 TL, alış fiyatı 6.206,84 TL oldu. Gram altın, önceki kapanışa göre yüzde 3,03 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.250 TL, yarım altın 20.493 TL, tam altın 40.823 TL, ata altın 41.920 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.873,42 TL, has altının gram fiyatı 6.269,60 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,92 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.20 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
