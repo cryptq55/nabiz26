@@ -20,10 +20,10 @@
     "title": "Eskişehir yollarında sıkı denetim: Bin 238 araç trafikten men edildi - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/eskisehir-yollarinda-siki-denetim--bin-238-arac-trafikten-men-edildi-297362.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Emniyet Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

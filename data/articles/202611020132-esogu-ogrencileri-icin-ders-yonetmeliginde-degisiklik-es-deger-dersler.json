@@ -20,10 +20,10 @@
     "title": "Eskişehir Osmangazi Üniversitesi öğrencilerinin beklediği müjde geldi - Gzt26",
     "url": "https://www.gzt26.com/eskisehir-osmangazi-universitesi-ogrencilerinin-bekledigi-mujde-geldi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

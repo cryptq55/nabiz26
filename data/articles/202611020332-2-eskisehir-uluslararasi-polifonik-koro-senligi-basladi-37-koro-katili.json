@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-02T03:32:11.918468+00:00",
+  "published_at": "2026-11-02T03:33:22.136558+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "2. Eskişehir uluslararası koro şenliği coşkuyla başladı - Esgazete",
     "url": "https://www.esgazete.com/2-eskisehir-uluslararasi-koro-senligi-coskuyla-basladi"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/2-eskisehir-uluslararasi-polifonik-koro-senligi-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:AyseUnluce.jpg",
+    "archive": true,
+    "credit": "T.C. Eskişehir Büyükşehir Belediyesi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
