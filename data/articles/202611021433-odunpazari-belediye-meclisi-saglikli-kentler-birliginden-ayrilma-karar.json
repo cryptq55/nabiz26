@@ -19,10 +19,10 @@
     "title": "Odunpazarı Belediyesi'nden flaş ayrılık kararı; Mecliste karar alındı - www.gzt26.com",
     "url": "https://www.gzt26.com/odunpazari-belediyesinden-flas-ayrilik-karari-mecliste-karar-alindi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
