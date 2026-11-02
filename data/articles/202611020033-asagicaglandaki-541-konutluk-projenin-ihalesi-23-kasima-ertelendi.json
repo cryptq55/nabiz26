@@ -20,10 +20,10 @@
     "title": "Eskişehir'de 541 konut için beklenen ihale ertelendi - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/eskisehirde-541-konut-icin-beklenen-ihale-ertelendi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Aşağıçağlan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
