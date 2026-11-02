@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda emlak vergisi mobil vezne takvimi: 2-30 Kasım'da mahalle mahalle
+
+**Belediye · Tepebaşı** · 2026-11-02 04:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/eskisehirde-emlak-vergisi-odeyecekler-dikkat-mobil-vezne-mahalle-mahalle-dolasacak)
+
+![](data/images/69f21b0c6bf5c991.jpg)
+
+> Mobil vezne 09.00-12.00 ve 13.00-16.00 saatleri arasında hizmet verecek.
+
+Tepebaşı Belediyesi, kasım ayında emlak vergisi ödemeleri için mobil vezne uygulamasını sürdürecek. 2 Kasım'da başlayacak program kapsamında mobil vezne aracı, 30 Kasım'a kadar belirlenen takvime göre mahalleleri dolaşacak. Araç sabah 09.00-12.00, öğleden sonra 13.00-16.00 saatleri arasında hizmet verecek.
+
+Belediyenin paylaştığı takvime göre ilk günler şöyle: 2 Kasım Sakintepe, 3 Kasım Uluönder, 4 Kasım Batıkent, 5 Kasım Hayriye (Muhtarlığı önü), 6 Kasım Yeni Mahalle ve Şeker, 7 Kasım Ömerağa ve Güllük, 8 Kasım Bahçelievler Muhtarlığı önü, 9 Kasım Işıklar Muhtarlığı önü, 10 Kasım Şirintepe, 11 Kasım Bahçelievler, 12 Kasım Ertuğrulgazi, 13 Kasım Şarhöyük. Ayın kalan günleri için takvimde Zincirlikuyu, Yaşamkent, Söğütönü, Kumlubel, Çamlıca, Tunalı, Fevziçakmak, Zafer, Sazova, Sütlüce, Esentepe ve Yeşiltepe mahalleleri ile Metin Özöğüt Yaşam Merkezi yer alıyor; 28 ve 29 Kasım'da vezne merkez binada olacak, 30 Kasım'da Yeşiltepe'ye gidecek.
+
+Vatandaşlar emlak vergisini ayrıca Tepebaşı Belediyesi hizmet binası vezneleri (08.00-16.30), Odunpazarı Belediyesi hizmet binası veznesi (09.00-16.00) ve Tapu ve Kadastro 17. Bölge Müdürlüğü veznesinde (08.00-15.30) ödeyebilecek.
+
+---
+
+## İnönü'nde İsmetpaşa Mahallesi'ndeki bozulan yol onarılıp trafiğe açıldı
+
+**Belediye · Merkez** · 2026-11-02 04:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/inonudeki-yol-sorunu-cozume-kavustu-119509435)
+
+> İnönü Belediyesi, Çınarlı Park yanındaki sokakta bakım ve onarım çalışmasını tamamladı.
+
+Eskişehir'in İnönü ilçesi İsmetpaşa Mahallesi'nde, Çınarlı Park yanındaki sokakta meydana gelen yol bozulması belediye ekiplerince onarıldı ve yol yeniden araç trafiğine açıldı.
+
+İnönü Belediye Başkanı Serhat Hamamcı'nın talimatıyla harekete geçen ekipler, bakım ve onarım çalışmasını kısa sürede tamamladı. Mahalle sakinlerinin, yolun yeniden trafiğe açılmasından memnuniyet duyduğu ve Hamamcı ile belediye ekiplerine teşekkür ettiği bildirildi.
+
+---
+
 ## Kurtuluş Kapalı Pazar Yeri'nde sona yaklaşıldı: 216 tezgâh, 150 araçlık otopark
 
 **Belediye · Merkez** · 2026-11-02 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-500-milyonluk-projede-sona-dogru)
@@ -18,7 +46,9 @@ Projede ayrıca toplam 150 araç kapasiteli kapalı otopark bulunacak. Otoparkı
 
 ## 2. Eskişehir Uluslararası Polifonik Koro Şenliği başladı: 37 koro katılıyor
 
-**Kültür-Sanat · Merkez** · 2026-11-02 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/2-eskisehir-uluslararasi-koro-senligi-coskuyla-basladi)
+**Kültür-Sanat · Merkez** · 2026-11-02 03:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/2-eskisehir-uluslararasi-koro-senligi-coskuyla-basladi)
+
+![](data/images/2-eskisehir-uluslararasi-polifonik-koro-senligi-arsiv.jpg)
 
 > Şenlik 30 Ekim-1 Kasım'da Büyükşehir Sanat ve Kültür Sarayı'nda yapılıyor.
 
@@ -445,41 +475,5 @@ Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü'nün dü
 Saygı duruşu ve İstiklal Marşı ile başlayan programda Hülya Düzbaş "Yüzüm Şen, Hatıram Şen", "Mehtaplı Bir Gecede" ve "Bir Pembe İncisin Sen" eserlerini seslendirdi. Odunpazarı Belediye Tiyatrosu'nun canlandırmalarında Semiha Berksoy, Afife Jale, Müzeyyen Senar, Cahide Sonku, Samiye Cahid Morkaya, Remziye Hisar, Ahmet Adnan Saygun, Cahit Arf, Hasan Âli Yücel, Yaşar Kemal ve Vecihi Hürkuş gibi isimler izleyiciyle buluştu.
 
 Utku Görkem Kırdemir, Attilâ İlhan'ın "Mustafa Kemal'in Sofrası" şiirini okudu; Serpil Mercan Vurucu "Ben Cumhuriyet Kadınıyım" şiirini seslendirdi. Odunpazarı Belediyesi Halk Dansları ekibi gösteri yaptı, tango gösterisi de programa renk kattı. Programın sonunda konuşan Başkan Kazım Kurt, Cumhuriyet'e ve kazanımlarına sahip çıkma çağrısı yaptı.
-
----
-
-## Altın fiyatları 30 Ekim 2026: Gram altın 6.395,34 TL
-
-**Ekonomi · Merkez** · 2026-10-30 11:52 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261030.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.300,18 TL'den alınıyor, 6.395,34 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 14.52 itibarıyla verilerine göre gram altının satış fiyatı 6.395,34 TL, alış fiyatı 6.300,18 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,38 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.424 TL, yarım altın 20.841 TL, tam altın 41.548 TL, ata altın 42.645 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.973,64 TL, has altının gram fiyatı 6.376,21 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.968,30 dolardan işlem görürken, dolar/TL 49,79 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.52 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Tepebaşı'nda kazılan yol ve kaldırımlar mahalle mahalle yenileniyor
-
-**Belediye · Tepebaşı** · 2026-10-30 11:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndaustyapıatagı)
-
-![](data/images/1fe5126de7b6ccae.jpg)
-
-> Başkan Ataç, Yeni Mahalle'de tamamlanan, Işıklar ve Şeker'de süren çalışmaları inceledi.
-
-Tepebaşı Belediyesi, alt yapı hizmeti yürüten kurum ve kuruluşların çalışmaları sırasında kazılan yol ve kaldırımları mahalle mahalle yeniliyor. Başkan Dt. Ahmet Ataç, Fen İşleri Müdürlüğü ekiplerinin sürdürdüğü çalışmaları yerinde inceledi.
-
-Ataç, Yeni Mahalle'de çalışmaların tamamlandığını, Işıklar Mahallesi'nde yoğun biçimde sürdüğünü, Şeker Mahallesi'nde de bazı sokakların yenilendiğini söyledi. Fen İşleri Müdür Vekili Enes Akgün'den sahadaki çalışmalar hakkında bilgi alan Ataç, uygulamanın beş mahallede yürütüldüğünü belirtti.
-
-Temmuz ayının sonunda başlayan çalışmalarda kaldırım işlerinin tamamlanmak üzere olduğunu, asfalt yenilemelerinin ise sürdüğünü ifade eden Ataç, "Şimdi sokakları bitirerek bu mahallelerdeki yenileme çalışmalarını tamamlayacağız" dedi. Ataç, iklim koşullarının çalışmaları engellememesini dilediğini de söyledi.
 
 ---
