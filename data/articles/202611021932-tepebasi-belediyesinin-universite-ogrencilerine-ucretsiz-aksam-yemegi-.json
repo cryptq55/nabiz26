@@ -20,10 +20,10 @@
     "title": "Ahmet Ataç duyurdu: Üniversite öğrencilerine desteklerimiz devam ediyor - Gzt26",
     "url": "https://www.gzt26.com/ahmet-atac-duyurdu-universite-ogrencilerine-desteklerimiz-devam-ediyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
