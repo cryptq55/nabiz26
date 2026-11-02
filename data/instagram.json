@@ -266,7 +266,8 @@
   "202611021239-tepebasinin-ataturk-temali-kolektif-anitinin-adi-cumhuriyetin-cocuklar",
   "202611021240-eskisehir-sehir-hastanesinde-urojinekoloji-ve-yeni-menopoz-poliklinigi",
   "202611021414-altin-fiyatlari-2-kasim-2026-gram-altin-6-373-02-tl",
-  "202611021715-odunpazari-belediyesinde-yeni-atamalar-sibel-yesildal-baskan-yardimcil"
+  "202611021715-odunpazari-belediyesinde-yeni-atamalar-sibel-yesildal-baskan-yardimcil",
+  "202611021755-eskisehir-buyuksehir-8-yeni-tramvay-icin-ihaleye-cikti-ihale-6-kasimda"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -305,7 +306,9 @@
   "202611011646-eskisehir-lezzetleri-kitabi-tanitildi-37-tarif-12-lezzetin-oykusu",
   "202611012231-erdogan-guney-koreye-gitti-3-kasimda-lee-jae-myung-ile-gorusecek",
   "202611021239-tepebasinin-ataturk-temali-kolektif-anitinin-adi-cumhuriyetin-cocuklar",
-  "202611021132-talim-ve-terbiye-kurulunun-100-yil-ozel-oturumu-bakan-tekin-baskanligi"
+  "202611021132-talim-ve-terbiye-kurulunun-100-yil-ozel-oturumu-bakan-tekin-baskanligi",
+  "202611021032-eskisehirde-ekim-ayinda-aranan-582-kisi-yakalandi",
+  "202611020737-eskisehirde-ekimde-aranan-582-sahis-yakalandi-794-uygulama-noktasi-kur"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -359,13 +362,10 @@
   "202611012331-vali-yilmazin-duyurdugu-vizyon-eskisehir-2036-calismasi-televizyonda-t",
   "202611020032-eskisehirde-bugun-08-00-15-00-arasi-siren-kontrolu-yapilacak",
   "202611021132-kursunlu-kulliyesi-icin-kaymakamlik-yeni-yazi-gonderdi-teslim-3-kasimd",
-  "202611021414-altin-fiyatlari-2-kasim-2026-gram-altin-6-373-02-tl"
+  "202611021414-altin-fiyatlari-2-kasim-2026-gram-altin-6-373-02-tl",
+  "202611021755-eskisehir-buyuksehir-8-yeni-tramvay-icin-ihaleye-cikti-ihale-6-kasimda"
  ],
  "log": [
-  1793555548.3923645,
-  1793555566.0308373,
-  1793555582.7030437,
-  1793555597.1324518,
   1793558288.7080722,
   1793572667.5075076,
   1793572684.3333325,
@@ -377,14 +377,18 @@
   1793623595.8886123,
   1793623610.8683822,
   1793640096.9809794,
-  1793640122.9753234
+  1793640122.9753234,
+  1793642428.7541606,
+  1793642448.523154,
+  1793642469.2141407,
+  1793642486.896277
  ],
  "reel_log": [
-  1793555548.3923664,
   1793558288.7080746,
   1793576552.07483,
   1793580159.9304914,
   1793623595.888614,
-  1793640096.9809816
+  1793640096.9809816,
+  1793642428.754162
  ]
 }
