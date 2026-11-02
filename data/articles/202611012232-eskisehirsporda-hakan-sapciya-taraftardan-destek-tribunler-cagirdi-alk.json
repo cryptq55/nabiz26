@@ -19,10 +19,10 @@
     "title": "Eskişehirspor'da Hakan Şapcı ve ekibine destek artıyor - www.gzt26.com",
     "url": "https://www.gzt26.com/eskisehirsporda-hakan-sapci-ve-ekibine-destek-artiyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Hakan Şapcı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

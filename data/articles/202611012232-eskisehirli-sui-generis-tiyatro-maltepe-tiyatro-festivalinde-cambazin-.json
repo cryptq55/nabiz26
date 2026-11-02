@@ -19,10 +19,10 @@
     "title": "Eskişehirli tiyatro topluluğu İstanbul'da alkış topladı - Gzt26",
     "url": "https://www.gzt26.com/eskisehirli-tiyatro-toplulugu-istanbulda-alkis-topladi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Sui Generis Tiyatro"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
