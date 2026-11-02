@@ -2,9 +2,25 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı Belediyesi'nin üniversite öğrencilerine ücretsiz akşam yemeği bu yıl da sürüyor
+
+**Belediye · Tepebaşı** · 2026-11-02 19:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/ahmet-atac-duyurdu-universite-ogrencilerine-desteklerimiz-devam-ediyor)
+
+> Başkan Ataç öğrencilerle Ali Rıza Efendi Deneyimli Kafe'de yemek yedi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, üniversite öğrencilerine yönelik 2022'de başlatılan ücretsiz akşam yemeği uygulamasının bu yıl da devam ettiğini açıkladı. Ataç, Ali Rıza Efendi Deneyimli Kafe'de öğrencilerle bir araya geldi, eğitim hayatı ve günlük yaşam üzerine sohbet etti.
+
+Ataç, "Üniversite okumak bugünün Türkiye'sinde hiç kolay değil. Ekonomik zorluklar ortada. Gençlerimizin bir öğün yemeğini biz düşünelim, ailelerin bütçesine de bir nebze katkımız olsun istiyoruz" dedi. Öğrencilere seslenen Ataç, "Afiyet olsun gençler, soframız, kapımız sizlere daima açık" ifadelerini kullandı.
+
+Açıklamada uygulamadan bugüne kaç öğrencinin yararlandığına ve günlük dağıtılan yemek sayısına ilişkin bilgi verilmedi.
+
+---
+
 ## Odunpazarı Meclisi'nde Kurşunlu Külliyesi tartışması: Kurt ve Kepez farklı görüşte
 
-**Gündem · Odunpazarı** · 2026-11-02 18:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurt-sert-konustu-hic-kimseye-bir-sey-teslim-etmiyoruz)
+**Gündem · Odunpazarı** · 2026-11-02 18:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurt-sert-konustu-hic-kimseye-bir-sey-teslim-etmiyoruz)
+
+![](data/images/odunpazari-meclisinde-kursunlu-kulliyesi-tartis-arsiv.jpg)
 
 > Kurt belediyenin külliye giderlerini açıkladı, Kepez Vakıflar'ın mülk sahipliğini vurguladı.
 
@@ -461,19 +477,5 @@ Eskişehir Erzurumlular Derneği, Erzurum Gastronomi ve Cağ Kebabı Festivali'n
 Beş gün boyunca müzik etkinlikleri yapılacak. 5 Kasım Perşembe saat 18.00'de Adem Baysal, 19.00'da Rabia Yıldız; 6 Kasım Cuma saat 17.00'de Ceyhun Can, 19.00'da Elif Kayacan, 21.00'de Mustafa Özden; 7 Kasım Cumartesi saat 17.00'de Köksal Örs, 19.00'da Başak Kaya, 21.00'de İmera; 8 Kasım Pazar saat 19.00'da Apolas Lermi sahne alacak.
 
 Erzurum bar ekibinin gösterileriyle kentin halk oyunları geleneği de tanıtılacak. Dernek, festivalle hemşehriler arasındaki birlik ve beraberliğin güçlenmesini ve Erzurum kültürünün geniş kitlelere ulaşmasını hedefliyor.
-
----
-
-## ESOGÜ öğrencileri için ders yönetmeliğinde değişiklik: eş değer derslerde yeni kural
-
-**Eğitim · Merkez** · 2026-11-02 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-osmangazi-universitesi-ogrencilerinin-bekledigi-mujde-geldi)
-
-> Değişiklik 2 Kasım 2026 tarihli Resmî Gazete'de yayımlandı.
-
-Eskişehir Osmangazi Üniversitesi'nin Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği'nde yapılan değişiklik, 2 Kasım 2026 tarihli ve 33418 sayılı Resmî Gazete'de yayımlandı. Değişiklik, 14 Eylül 2019'da yayımlanan yönetmeliğin 23. maddesinin birinci fıkrasına yeni bir bent ekliyor.
-
-Yeni düzenlemeye göre öğrencinin eğitim planındaki mezuniyet grubunda yer alan eş değer derslerden FF, YZ veya DZ notu aldığı bir ders varsa, öğrenci yeni bir derse kayıt yaptırdığında bu yeni ders başarısız olduğu eş değer dersin yerine sayılacak.
-
-Akademik uyarısı bulunan öğrenciler için ayrı bir hüküm de yer aldı: bu öğrencilerin DC veya DD aldıkları eş değer derslerde de aynı uygulama geçerli olacak.
 
 ---
