@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurtuluş Kapalı Pazar Yeri'nde sona yaklaşıldı: 216 tezgâh, 150 araçlık otopark
+
+**Belediye · Merkez** · 2026-11-02 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-500-milyonluk-projede-sona-dogru)
+
+> Pazarcılar Odası Başkanı İsmail Oğuz, tesisin bahar aylarında tamamlanmasını bekliyor.
+
+Eskişehir Büyükşehir Belediyesi'nin yapımını sürdürdüğü Kurtuluş Kapalı Pazar Yeri projesinde sona yaklaşılıyor. Eskişehir Pazarcılar Odası Başkanı İsmail Oğuz, pazar yerinin bahar aylarında tamamlanmasını beklediklerini söyledi; tesisin planlanandan daha erken hizmete açılabileceği de gündeme geldi.
+
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın alan desteği sağladığı proje, Büyükşehir Belediyesi'nin yaklaşık 500 milyon liralık yatırımıyla yapılıyor. Tesiste 54 tezgâh öbeği içinde toplam 216 tezgâh alanı, 27 balıkçı tezgâhı, 17 et, kasap ve şarküteri dükkânı ile 40'a yakın soğuk hava deposu yer alacak.
+
+Projede ayrıca toplam 150 araç kapasiteli kapalı otopark bulunacak. Otoparkın 137 araçlık bölümü normal araçlara, 6 araçlık bölümü engelli vatandaşlara ayrılacak.
+
+---
+
+## 2. Eskişehir Uluslararası Polifonik Koro Şenliği başladı: 37 koro katılıyor
+
+**Kültür-Sanat · Merkez** · 2026-11-02 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/2-eskisehir-uluslararasi-koro-senligi-coskuyla-basladi)
+
+> Şenlik 30 Ekim-1 Kasım'da Büyükşehir Sanat ve Kültür Sarayı'nda yapılıyor.
+
+Eskişehir Büyükşehir Belediyesi ile Eskişehir Polifonik Korosu Derneği'nin iş birliğiyle ikincisi düzenlenen Eskişehir Uluslararası Polifonik Koro Şenliği, açılış programıyla başladı. Şenlik 30 Ekim-1 Kasım 2026 tarihlerinde Büyükşehir Sanat ve Kültür Sarayı'nda (Opera) yapılıyor ve toplam 37 koroyu bir araya getiriyor. Konserler, atölye çalışmaları ve ortak sahne performansları programda yer alıyor.
+
+Açılışta konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, geçen yıl ilki düzenlenen şenliğin ardından bu yıl da aynı heyecanı yaşadığını söyledi. Macaristan'dan katılan Scherzo Mixed Choir ile birlikte farklı şehir ve ülkelerden gelen konuk koroları selamlayan Ünlüce, şenliklerin uluslararası nitelik taşımasını önemsediklerini belirtti.
+
+Şenliğin sanat yönetmeni Ender Sakpınar da organizasyona destek verenlere teşekkür etti ve koro müziğinin birleştirici gücüne dikkat çekti. Organizasyonun amacı, farklı kültürlerden korolar arasında sanatsal etkileşimi artırmak ve müzik aracılığıyla kalıcı dostluklar kurmak olarak açıklandı.
+
+---
+
 ## Eskişehir'de ekimde uyuşturucu operasyonlarında 241 şüpheliye işlem, 36 tutuklama
 
 **Asayiş · Merkez** · 2026-11-02 02:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.milliirade.com/eskisehirde-uyusturucuya-gecit-yok-1-ayda-241-gozalti-36-tutuklama)
@@ -453,39 +481,5 @@ Tepebaşı Belediyesi, alt yapı hizmeti yürüten kurum ve kuruluşların çal�
 Ataç, Yeni Mahalle'de çalışmaların tamamlandığını, Işıklar Mahallesi'nde yoğun biçimde sürdüğünü, Şeker Mahallesi'nde de bazı sokakların yenilendiğini söyledi. Fen İşleri Müdür Vekili Enes Akgün'den sahadaki çalışmalar hakkında bilgi alan Ataç, uygulamanın beş mahallede yürütüldüğünü belirtti.
 
 Temmuz ayının sonunda başlayan çalışmalarda kaldırım işlerinin tamamlanmak üzere olduğunu, asfalt yenilemelerinin ise sürdüğünü ifade eden Ataç, "Şimdi sokakları bitirerek bu mahallelerdeki yenileme çalışmalarını tamamlayacağız" dedi. Ataç, iklim koşullarının çalışmaları engellememesini dilediğini de söyledi.
-
----
-
-## Odunpazarı'nda anneler ve çocuklar Cumhuriyet'i Alaaddin Parkı'nda kutladı
-
-**Gündem · Odunpazarı** · 2026-10-30 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/cumhuriyet-coskusu-anneler-ve-cocuklarla-alaaddin-parki-na-tasindi)
-
-![](data/images/9f96bd98e3429a8e.jpg)
-
-> Odunpazarı Belediyesi ve Eskişehir Anneleri Buluşuyor'un şenliğinde çocuklar hatıra afişine el izlerini bıraktı.
-
-Odunpazarı Belediyesi, Eskişehir Anneleri Buluşuyor iş birliğiyle Alaaddin Parkı'nda Cumhuriyet Şenliği düzenledi. Anneler ve çocuklar Cumhuriyet'in 103. yıl dönümünü birlikte kutladı.
-
-Atatürk ve Cumhuriyet temalı gösterimlerle başlayan şenlikte Cumhuriyet marşları söylendi, çocuklara Türk bayrağı dağıtıldı. Çocuklar ellerini kırmızı boyaya batırarak ortak hatıra afişine izlerini bıraktı. Etkinlik, her yaştan çocuğun katılımına açık ve ücretsizdi; belediye, Eskişehir'de bir ilk olarak çocuklara özel hazırlandığını aktardı.
-
-Şenliğe katılan Odunpazarı Belediye Başkanı Kazım Kurt, çocuklarla sohbet etti ve fotoğraf çektirdi. Kurt, konuşmasında "103 yıldır Türkiye'de kadın erkek eşitliğini sağlayan, demokrasiyi getiren, hukukun üstünlüğünü getiren bir cumhuriyetimiz var. Buna sonuna kadar sahip çıkmalıyız" dedi. Kurt ayrıca "Cumhuriyet ve çocuklar size emanet" ifadesini kullandı.
-
----
-
-## Kurşunlu Külliyesi'nde 3 Kasım tahliyesi durduruldu
-
-**Belediye · Odunpazarı** · 2026-10-30 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/eskisehirlilerin-tepkisi-karsilik-buldu-kursunlu-kulliyesi-nde-tahliye-durdurul)
-
-![](data/images/ce5834ce28135645.jpg)
-
-> Kaymakamlık, yürütmeyi durdurma talebine ilişkin mahkeme kararını bekleyecek.
-
-Odunpazarı Belediyesi'nin kullandığı alanların 3 Kasım'da boşaltılmasını öngören Kurşunlu Külliyesi tahliye işlemi durduruldu. Odunpazarı Kaymakamlığı, mahkemenin yürütmeyi durdurma talebiyle ilgili kararını bekleyecek.
-
-Odunpazarı Belediyesi'nin aktardığına göre, Odunpazarı Kaymakamlığı İlçe Hukuk İşleri Şefliği'nin 30 Ekim 2026'da belediyeye gönderdiği resmî yazıda, belediyenin tahliye işlemine karşı Eskişehir 1. İdare Mahkemesi'nde dava açtığı hatırlatıldı. Yazıda mahkemenin 26 Ekim 2026 tarihli ve 2026/1219 Esas sayılı kararına dikkat çekildi. Yürütmeyi durdurma talebiyle ilgili karar verilinceye kadar taşınmazın tahliyesinin durdurulmasına karar verildiği, mahkeme kararının ardından taraflardan talep gelmesi hâlinde konunun yeniden değerlendirileceği bildirildi.
-
-Belediye, tahliye durdurulduğu için külliyedeki mevcut faaliyetlerin şimdilik devam edeceğini belirtti. Odunpazarı Belediyesi, 2004'ten bu yana kira sözleşmeleri kapsamında kullandığı külliyede kapsamlı restorasyon ve düzenleme çalışmaları yaptığını, külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi'nin bulunduğunu aktardı. Belediyeye göre külliyede kadın girişimcilerin işlettiği işletmeler var, yaklaşık 30 kişi çalışıyor ve yüzlerce kursiyer sanat eğitimi alıyor. Belediye, kira sözleşmesinin beş yıl uzatılması talebine yanıt verilmemesi üzerine yargı yoluna başvurduğunu ifade etti.
-
-Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
 
 ---
