@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de ekimde uyuşturucu operasyonlarında 241 şüpheliye işlem, 36 tutuklama
+
+**Asayiş · Merkez** · 2026-11-02 02:33 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.milliirade.com/eskisehirde-uyusturucuya-gecit-yok-1-ayda-241-gozalti-36-tutuklama)
+
+![](data/images/8ecf08c2a23a226d.jpg)
+
+> Valilik, 183 olayda ele geçirilen madde ve silah dökümünü paylaştı.
+
+Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekiplerinin 1-31 Ekim 2026 tarihlerinde yürüttüğü uyuşturucu operasyonlarının aylık bilançosu paylaşıldı. Kent genelinde 183 olaya müdahale edildi.
+
+Haklarında adli işlem başlatılan 241 şüpheliden 36'sı tutuklandı, 205'i tutuksuz yargılanmak üzere serbest bırakıldı.
+
+Aramalarda 9 kilo 56 gram metamfetamin, 2 kilo 55 gram kokain, 39 bin 636 adet sentetik ecza hapı, 1.709,62 gram esrar, 728,81 gram bonzai, 74 gram bonzai hammaddesi, 24 kök hint keneviri, 22 adet ecstasy hap ve 5,31 gram afyon sakızı ele geçirildi. Ayrıca 9 hassas terazi, 3 uyuşturucu kullanma aparatı, 1 ruhsatsız tabanca, 1 tabanca şarjörü ve 64 fişek muhafaza altına alındı.
+
+Haklarında işlem yapılanların suçlu olduğu mahkeme kararıyla kesinleşmedikçe masum sayıldığı unutulmamalıdır.
+
+---
+
+## Erzurum Gastronomi ve Cağ Kebabı Festivali 4-8 Kasım'da Dede Korkut Parkı'nda
+
+**Kültür-Sanat · Merkez** · 2026-11-02 02:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://erzurumgunebakis.com/amp/haber/erzurumun-lezzetleri-ve-kulturu-eskisehirde-bulusacak-141930)
+
+> Eskişehir Erzurumlular Derneği festivalde beş gün konser ve bar gösterisi düzenleyecek.
+
+Eskişehir Erzurumlular Derneği, Erzurum Gastronomi ve Cağ Kebabı Festivali'ni 4-8 Kasım 2026 tarihleri arasında Dede Korkut Parkı'nda düzenleyecek. Festivalde cağ kebabı, İspir kuru fasulyesi ve diğer yöresel lezzetler ziyaretçilerin beğenisine sunulacak.
+
+Beş gün boyunca müzik etkinlikleri yapılacak. 5 Kasım Perşembe saat 18.00'de Adem Baysal, 19.00'da Rabia Yıldız; 6 Kasım Cuma saat 17.00'de Ceyhun Can, 19.00'da Elif Kayacan, 21.00'de Mustafa Özden; 7 Kasım Cumartesi saat 17.00'de Köksal Örs, 19.00'da Başak Kaya, 21.00'de İmera; 8 Kasım Pazar saat 19.00'da Apolas Lermi sahne alacak.
+
+Erzurum bar ekibinin gösterileriyle kentin halk oyunları geleneği de tanıtılacak. Dernek, festivalle hemşehriler arasındaki birlik ve beraberliğin güçlenmesini ve Erzurum kültürünün geniş kitlelere ulaşmasını hedefliyor.
+
+---
+
 ## ESOGÜ öğrencileri için ders yönetmeliğinde değişiklik: eş değer derslerde yeni kural
 
 **Eğitim · Merkez** · 2026-11-02 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-osmangazi-universitesi-ogrencilerinin-bekledigi-mujde-geldi)
@@ -455,43 +487,5 @@ Odunpazarı Belediyesi'nin aktardığına göre, Odunpazarı Kaymakamlığı İl
 Belediye, tahliye durdurulduğu için külliyedeki mevcut faaliyetlerin şimdilik devam edeceğini belirtti. Odunpazarı Belediyesi, 2004'ten bu yana kira sözleşmeleri kapsamında kullandığı külliyede kapsamlı restorasyon ve düzenleme çalışmaları yaptığını, külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi'nin bulunduğunu aktardı. Belediyeye göre külliyede kadın girişimcilerin işlettiği işletmeler var, yaklaşık 30 kişi çalışıyor ve yüzlerce kursiyer sanat eğitimi alıyor. Belediye, kira sözleşmesinin beş yıl uzatılması talebine yanıt verilmemesi üzerine yargı yoluna başvurduğunu ifade etti.
 
 Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
-
----
-
-## Erdoğan TDT Zirvesi'nde konuştu: Dönem başkanlığı Türkiye'ye geçti
-
-**Türkiye · Türkiye** · 2026-10-30 09:32 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-turk-devletleri-teskilati-devlet-baskanlari-konseyi-13-zirvesinde-konustu)
-
-![](data/images/f19e066c3c95ea3a.jpg)
-
-> Erdoğan, 13. Zirve'de Türkiye'nin dönem başkanlığı hedeflerini ve bölgesel gelişmelere ilişkin görüşlerini anlattı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Sergi Salonu'nda "Türk Yüzyılı: Dilde, Fikirde, İşte Birlik" temasıyla düzenlenen Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi'nde konuştu.
-
-Erdoğan, Teşkilat'ın dönem başkanlığını Azerbaycan'dan devraldıklarını söyledi ve Azerbaycan'a teşekkür etti. Dönem başkanlığında kurumsal birikimi daha somut kazanımlara dönüştürmeyi hedeflediklerini belirten Erdoğan, ortak dilin yaygınlaştırılması, spor başta olmak üzere kültürel etkinliklerin desteklenmesi ve ülkeler arasında seyahatlerin kolaylaştırılması gibi alanlarda ilerleme kaydetmek istediklerini ifade etti. Türkmenistan'ı en kısa zamanda tam üye olarak görmeyi temenni ettiğini de söyledi.
-
-Erdoğan, Azerbaycan'ın Ermenistan ile yürüttüğü temasları desteklediğini, kalıcı barış için katkı sunmaya devam edeceklerini belirtti. İran ile son dönemde artan tansiyonun diplomasiye dönüşmesini temenni ettiğini söyleyen Erdoğan, Filistin meselesinin adil çözümü için daha fazla çaba gösterilmesi gerektiğini, Gazze'ye insani yardımların ulaştırılması ve yeniden imar çalışmalarının başlatılması gerektiğini ifade etti.
-
-Ticaret, ulaştırma ve enerji alanına da değinen Erdoğan, Trans-Hazar-Doğu-Batı Orta Koridoru'nu "yarının ticaretine yön verecek stratejik bir hat" olarak niteledi. Siber güvenlik ve siber işbirliği mutabakatının en kısa sürede imzalanmasını beklediklerini, ortak uydu projesinin hızlandırılmasının öncelikleri arasında olduğunu, ortak dijital ticaret platformu ve büyük Türk dili modeli için çalışmalar yapılmasını beklediklerini söyledi.
-
-Erdoğan, 11-12 Kasım'da COP31 Liderler Zirvesi'ne Antalya'da ev sahipliği yapacaklarını hatırlattı ve üyeleri zirveye davet etti. Görev süresi sona eren TDT Genel Sekreteri Kubanıçbek Ömüraliyev'e teşekkür etti, yeni Genel Sekreter Mirvahid Azimov'a başarılar diledi.
-
----
-
-## Eskişehirspor, Iğdır FK'yı 90+7'de eledi: Türkiye Kupası'nda 4. tura çıktı
-
-**Spor · Merkez** · 2026-10-29 20:35 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirspor-907de-turu-kapti)
-
-![](data/images/89014870fa4ae4fa.jpg)
-
-> Kırmızı-siyahlılar Kerem Baykuş'un son dakika golüyle Ziraat Türkiye Kupası'nda tur atladı.
-
-Ziraat Türkiye Kupası 3. Eleme Turu'nda Alagöz Holding Iğdır FK'yı konuk eden Eskişehirspor, Kerem Baykuş'un 90+7. dakikada attığı golle rakibini 1-0 yendi ve 4. eleme turuna yükseldi.
-
-Karşılaşma, 29 Ekim Cumhuriyet Bayramı'nda Prof. Dr. Fethi Heper Stadyumu'nda oynandı. İlk yarı golsüz sona erdi, ikinci yarıda da uzun süre gol çıkmadı. Eskişehirspor'da Kerem Baykuş, duran toptan attığı golle takımına tur biletini getirdi.
-
-Maç öncesinde tribünlerde Cumhuriyet Bayramı coşkusu yaşandı. Türk bayraklarıyla donatılan tribünlerde taraftarlar, Bando Es Es'in çaldığı marşlarla Cumhuriyet'in 103. yılını kutladı.
-
-Maçın kadrosu: Eskişehirspor: Kaan Çinkaya, Ertuğrul Kurtuluş, İsmail Kulet, Emre Sarıkaya, Sarper Çağlar, Ozan İsmail Koç, Mert Başer, Emre Tangeldi, Fırat Sarı, Atalay Yıldırım, Osman Arslantaş. Hakemler Raşit Yorgancılar, Mehmet Şengül ve Mehmet Ali Vardar'dı. Eskişehirspor'da Emre Tangeldi, Fırat Sarı ve Sarper Çağlar; Iğdır FK'da Alperen Selvi, Devran Şenyurt ve Ahmet Köse sarı kart gördü.
 
 ---
