@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Ataç: Tepebaşı Belediyesi'nde personel giderleri yüzde 40 sınırına çekilecek
+
+**Belediye · Tepebaşı** · 2026-11-02 09:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.anadolugazetesi.com/tepebasi-belediyesinde-kac-kisi-isten-cikarilacak--atac-tan-aciklama-geldi-297396.html)
+
+> Başkan Ataç, kaç çalışanın ayrılacağına ilişkin henüz net sayı olmadığını söyledi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, belediyenin personel giderlerine ilişkin değerlendirmede bulundu. Ataç, personel harcamalarının bütçenin yüzde 40'ını aşmaması gerektiğini, bu sınır doğrultusunda çalışan sayısının yeniden düzenleneceğini ve bazı personelle yolların ayrılmasının gündemde olduğunu söyledi. Kaç çalışanın ayrılacağına ilişkin henüz net bir sayı bulunmadığını belirtti.
+
+Ataç, belediyenin sosyal belediyecilik kapsamında 24 belde evi, 11 deneyimli kafe, Ağız ve Diş Sağlığı Merkezi ve Yaşam Köyü gibi hizmet alanları yürüttüğünü anlattı. Yaşam Köyü'nde yaklaşık 200 kişinin çalıştığını ve bu hizmetlerin sürdürülebilmesi için yeterli sayıda personele ihtiyaç duyulduğunu ifade etti.
+
+Düzenlemede öncelikle emeklilik hakkı bulunan personelle görüşüleceğini belirten Ataç, emeklilik kararının çalışanların kendi tercihine bağlı olacağını, ayrılacak personelin kıdem tazminatlarının ödeneceğini söyledi.
+
+Ataç, personel düzenlemesinin bütçedeki yüzde 40 sınırı çerçevesinde yapılacağını kaydetti.
+
+---
+
 ## Eskişehir'de ruhsatlı silah sahiplerine tebligat: silahlar kilitli yerde saklanmalı
 
 **Gündem · Merkez** · 2026-11-02 08:41 UTC · Kaynak: [Google Haberler - Tepebaşı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/ruhsatli-silah-sahiplerine-kilitli-muhafaza-uyarisi-eskisehir-tepebasi-avcilik-aticilik-119509798)
@@ -445,25 +461,5 @@ Ziynet altınlarda çeyrek altın 10.250 TL, yarım altın 20.493 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.877,30 dolardan işlem görürken, dolar/TL 49,92 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 15.20 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Erdoğan, Zelenskiy ile Dolmabahçe'de görüştü: Karadeniz'de seyrüsefer vurgusu
-
-**Türkiye · Türkiye** · 2026-10-31 17:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenskiy-ile-ortak-basin-toplantisinda-konustu-31-10-26)
-
-![](data/images/9f5bdeb9591adcef.jpg)
-
-> Erdoğan, Ukrayna'da barış çabalarını ve Karadeniz'deki güvenlik durumunu ele aldıklarını söyledi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan ile Ukrayna Devlet Başkanı Volodimir Zelenskiy, Dolmabahçe Ofisi'nde yapılan ikili ve heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.
-
-Erdoğan, görüşmede Ukrayna'da barışın sağlanmasına yönelik son dönemde artan çabaları ve Karadeniz'deki güvenlik durumunu ele aldıklarını söyledi. Savaşın, özellikle ABD Başkanı Trump'ın çabalarıyla diplomatik yollarla sona erdirilmesine yönelik girişimlerin yeniden hız kazanmasından memnuniyet duyduklarını belirten Erdoğan, "Adil bir barışın kaybedeni olmaz" dedi ve barışa giden yolu açmak için gayret göstermeye hazır olduklarını ifade etti.
-
-Erdoğan, çatışmaların Karadeniz'e sıçradığını belirterek, sivil gemilere yönelik saldırıların kimden gelirse gelsin kabul edilemeyeceğini söyledi, tüm tarafları sorumlu davranmaya çağırdı ve Karadeniz'de seyrüsefer emniyetini yeniden tesis etmek için taraflarla görüşmelerini sürdüreceklerini belirtti.
-
-Ukrayna'nın toprak bütünlüğüne, egemenliğine ve bağımsızlığına bağlılıklarını teyit ettiklerini söyleyen Erdoğan, 2022'de imzalanan Serbest Ticaret Anlaşması'nın 1 Ekim itibarıyla yürürlüğe girmesinin 10 milyar dolar ticaret hacmi hedefine yaklaştırdığını ifade etti.
-
-Toplantıda Millî Savunma Bakanı Yaşar Güler, MİT Başkanı İbrahim Kalın, İletişim Başkanı Burhanettin Duran, Savunma Sanayii Başkanı Haluk Görgün ve diğer isimler yer aldı.
 
 ---
