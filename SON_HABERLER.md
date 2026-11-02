@@ -2,9 +2,53 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Aşağıçağlan'daki 541 konutluk projenin ihalesi 23 Kasım'a ertelendi
+
+**Gündem · Odunpazarı** · 2026-11-02 00:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-541-konut-icin-beklenen-ihale-ertelendi)
+
+> İhale daha önce 10 Kasım olarak duyurulmuştu; erteleme gerekçesi açıklanmadı.
+
+Odunpazarı ilçesi Aşağıçağlan Mahallesi'nde planlanan 541 konut ve 4 dükkânlık projenin ihale tarihi ertelendi. Daha önce 10 Kasım 2026 olarak belirlenen ihale, takvim değişikliğiyle 23 Kasım 2026 Pazartesi günü saat 14.30'a alındı.
+
+Değişiklik, İlkevim Eskişehir ve İlkevim Arsa Eskişehir hesaplarından yapılan duyuruyla bildirildi. İhale, Aşağıçağlan Mahallesi 3. Etap kapsamındaki yapım işini kapsıyor. İhale kapsamında 541 konutla birlikte 4 dükkânın inşası ve altyapı ile çevre düzenlemesi işleri yer alıyor.
+
+İhale tarihindeki değişikliğin gerekçesine ilişkin bir açıklama yapılmadı.
+
+---
+
+## Eskişehir'de bugün 08.00-15.00 arası siren kontrolü yapılacak
+
+**Gündem · Merkez** · 2026-11-02 00:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-pazartesi-sirenler-calacak)
+
+> Valilik, AFAD'ın kent genelindeki sirenleri test edeceğini duyurdu.
+
+Eskişehir Valiliği, İl Afet ve Acil Durum Müdürlüğü (AFAD) tarafından yapılacak siren kontrolü hakkında vatandaşları bilgilendirdi. Açıklamada, kent genelinde kurulu ve mevcut sirenlerin test edileceği belirtildi.
+
+Kontrol çalışmaları 2 Kasım 2026 Pazartesi günü saat 08.00 ile 15.00 arasında yapılacak. Bu saatler içinde sirenler, çalışır durumda olup olmadıklarının kontrol edilmesi amacıyla kısa süreli olarak çalınacak.
+
+Duyuru Eskişehir Valisi Dr. Erdinç Yılmaz imzasıyla yayımlandı.
+
+---
+
+## Eskişehir Büyükşehir Kız Futbol Takımı ligi ikinci sırada tamamladı
+
+**Spor · Merkez** · 2026-11-02 00:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-kiz-futbol-takimindan-gururlandiran-basari)
+
+> U15, U17 ve A takım kategorilerinde mücadele eden kulüp, kentin tek kız futbol takımı olarak öne çıkıyor.
+
+Eskişehir Büyükşehir Spor Kulübü, kadın futbolunda oluşturduğu altyapı yapılanmasıyla dikkat çekiyor. Kulüp, U15, U17 ve A takım kategorilerinde Eskişehir'i temsil eden tek kız futbol takımı olma özelliğini taşıyor.
+
+Takımın teknik sorumlusu Bahadır Aksin, Türkiye'de ilk kez düzenlenen organizasyonda Eskişehir'i temsil ederek ligi ikinci sırada tamamlamanın büyük gurur olduğunu söyledi. Aksin, "Bizim için başarı sadece kazanılan maçlardan ve elde edilen derecelerden ibaret değil. En büyük hedefimiz, kız çocuklarımızın sporla büyümesini sağlamak, onlara fırsat sunmak ve geleceğin başarılı kadın futbolcularını yetiştirmek" dedi.
+
+Aksin, U15'ten U17'ye, oradan A takım seviyesine uzanan bir futbol yapılanması oluşturmak istediklerini belirtti ve emeği geçenlere teşekkür etti.
+
+---
+
 ## Vali Yılmaz'ın duyurduğu "Vizyon Eskişehir 2036" çalışması televizyonda tartışıldı
 
-**Gündem · Merkez** · 2026-11-01 23:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/vizyon-eskisehir-2036-projesi-eskisehire-neler-katacak)
+**Gündem · Merkez** · 2026-11-01 23:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/vizyon-eskisehir-2036-projesi-eskisehire-neler-katacak)
+
+![](data/images/vali-yilmazin-duyurdugu-vizyon-eskisehir-2036-c-arsiv.jpg)
 
 > Gazeteci Akif Yer, çalışmanın ilçelere yönelik yaklaşımını olumlu bulduğunu söyledi.
 
@@ -453,63 +497,5 @@ Kutlamalar 28 Ekim Çarşamba günü saat 17.30'da Şarhöyük Mahallesi Cumhuri
 Kortejin ardından aynı alanda konserler yapıldı. Saat 19.00'da Özgenur Altaş, saat 20.00'de Soup Opera sahne aldı. Kutlamaların finali ise 29 Ekim Perşembe günü Espark AVM önünde gerçekleştirilen EKO-ŞOV gösterisi oldu.
 
 Başkan Ataç, etkinliklerin ardından yaptığı değerlendirmede, "Biz Cumhuriyet'in çocuklarıyız. Büyük Önderimiz Mustafa Kemal Atatürk'ün bizlere emanet ettiği Cumhuriyet, en büyük ortak değerimizdir" dedi. Etkinliklere katılan hemşerilerine teşekkür eden Ataç, "Tepebaşı, Cumhuriyetine, Atatürk'üne ve aydınlık yarınlarına yürekten sahip çıkıyor" ifadesini kullandı.
-
----
-
-## Altın fiyatları 29 Ekim 2026: Gram altın 6.488,18 TL
-
-**Ekonomi · Merkez** · 2026-10-29 11:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261029.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.398,52 TL'den alınıyor, 6.488,18 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 14.58 itibarıyla verilerine göre gram altının satış fiyatı 6.488,18 TL, alış fiyatı 6.398,52 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,05 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.575 TL, yarım altın 21.143 TL, tam altın 42.151 TL, ata altın 42.973 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.060,65 TL, has altının gram fiyatı 6.468,77 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.019,30 dolardan işlem görürken, dolar/TL 49,89 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 14.58 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Cumhuriyet'in 103. yılında devlet erkanı Anıtkabir'de
-
-**Türkiye · Türkiye** · 2026-10-29 09:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-baskanligindaki-devlet-erkani-anitkabiri-ziyaret-etti-29-10-26)
-
-![](data/images/2b9848b250408058.jpg)
-
-> Cumhurbaşkanı Erdoğan başkanlığındaki devlet erkanı Anıtkabir'i ziyaret etti, Özel Defter'e not yazdı.
-
-29 Ekim Cumhuriyet Bayramı ve Cumhuriyet'in ilanının 103. yıl dönümü kutlamalarının ilk töreni Anıtkabir'de düzenlendi. Tören, devlet erkanının Aslanlı Yol'da yürüyüşüyle başladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığındaki kortejde TBMM Başkanı Numan Kurtulmuş, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeni Parti Genel Başkanı Özgür Özel, MHP Genel Başkanı Devlet Bahçeli, CHP Genel Başkanı Kemal Kılıçdaroğlu, İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Kabine üyeleri, yüksek yargı organlarının başkanları, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, kuvvet komutanları, siyasi partilerin temsilcileri ve diğer devlet erkanı yer aldı.
-
-Erdoğan, üzerinde ay yıldız bulunan çelengi Atatürk'ün mozolesine bıraktı. Ardından saygı duruşunda bulunuldu ve İstiklal Marşı okundu. Erdoğan ve beraberindekiler daha sonra Misak-ı Millî Kulesi'ne geçti.
-
-Erdoğan, burada Anıtkabir Özel Defteri'ne yazdığı notta Atatürk'ü, silah arkadaşlarını ve şehitleri şükranla andı. Notunda "Türkiye Cumhuriyeti'ni, devleti ve milletiyle birlikte müreffeh ve muzaffer yarınlara ulaştırmak için farklı cephelerde yoğun bir mücadele içindeyiz" ifadesini kullanan Erdoğan, Türkiye Yüzyılı hedefine ulaşıncaya kadar kararlılıkla çalışmayı sürdüreceklerini yazdı.
-
----
-
-## Erdoğan'dan Cumhuriyet Bayramı video mesajı: "Türkiye bugün dünden daha güçlü"
-
-**Türkiye · Türkiye** · 2026-10-29 07:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-29-10-26)
-
-![](data/images/bc54be2e396113f6.jpg)
-
-> Cumhurbaşkanı Erdoğan, Cumhuriyet'in 103. yılında video mesaj yayımladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla video mesaj yayımladı. Cumhuriyet'in kuruluşunun 103. yıl dönümünün büyük bir gurur ve coşkuyla kutlandığını belirten Erdoğan, vatandaşların, Kıbrıs Türkü kardeşlerin ve dünyanın farklı yerlerinde yaşayan Türklerin bayramını tebrik etti.
-
-Erdoğan, Türkiye'nin yakın çevresinde ve dünyanın farklı yerlerinde savaşların, çatışmaların ve krizlerin yaşandığı zor bir dönemde istikrarını koruduğunu, anlaşmazlıkların çözümü için de sorumluluk aldığını söyledi.
-
-Cumhuriyet'i Türk milletinin bağımsızlık iradesinin ve hür yaşama kararlılığının en güçlü nişanesi olarak niteleyen Erdoğan, Gazi Mustafa Kemal önderliğindeki Millî Mücadele'nin, birlik ve beraberlik içinde kenetlenen bir milletin en zor şartlarda neleri başarabileceğini dünyaya gösterdiğini belirtti. Son 24 yılda savunma sanayisinden enerjiye, ulaştırmadan diplomasiye uzanan alanlarda katedilen mesafeyi "müessir ve müreffeh Türkiye'ye giden yolun kilometre taşları" olarak gördüklerini ifade etti.
-
-"Dünyada barış, bölgede barış ve yurtta barış" şiarıyla barış ve adalet için gayret göstermeye devam edeceklerini söyleyen Erdoğan, Türkiye Yüzyılı hedefini hayata geçireceklerini belirtti. Erdoğan, "Türkiye hamdolsun bugün dünden daha güçlüdür" ifadesini kullandı.
-
-Mesajın sonunda Atatürk'ü, silah arkadaşlarını, Millî Mücadele kahramanlarını ve şehitleri rahmetle andı, gazilere şükranlarını sundu.
 
 ---
