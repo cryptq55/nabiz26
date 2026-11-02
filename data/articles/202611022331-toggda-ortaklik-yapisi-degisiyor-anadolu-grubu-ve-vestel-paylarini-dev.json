@@ -14,17 +14,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-02T23:31:50.168650+00:00",
+  "published_at": "2026-11-02T23:32:22.730076+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Togg",
     "title": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor - Hürriyet",
     "url": "https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874"
   },
-  "photo_pending": {
-    "query": [
-      "Togg"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/toggda-ortaklik-yapisi-degisiyor-anadolu-grubu--arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Togg_T10X_IAA_2025_DSC_2141.jpg",
+    "archive": true,
+    "credit": "Alexander-93 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
