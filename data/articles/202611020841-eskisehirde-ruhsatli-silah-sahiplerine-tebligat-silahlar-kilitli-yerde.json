@@ -20,10 +20,10 @@
     "title": "Ruhsatlı silah sahiplerine kilitli muhafaza uyarısı Eskişehir Tepebaşı Avcılık Atıcılık Balıkçılık İhtisas Spor Kulübü Derneği Başkan Yardımcısı Sercan Gözlev: \"Halkımız tüfeklerini kilitli dolaplarda tutarsa istenmeyen olayların önüne geçilir\" - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/ruhsatli-silah-sahiplerine-kilitli-muhafaza-uyarisi-eskisehir-tepebasi-avcilik-aticilik-119509798"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Emniyet Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
