@@ -2,6 +2,58 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'ndaki Bahriye Üçok Eğitim Merkezi'nden 3 yılda 3 bin 688 öğrenci yararlandı
+
+**Eğitim · Tepebaşı** · 2026-11-02 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.cumhuriyet.com.tr/yerel-gundem/tepebasi-belediyesi-egitim-ve-gelisim-merkezi-nde-3-yilda-3-bin-688-ogrenci-egitim-gordu-2552494)
+
+![](data/images/fb6a5d56614437ea.jpg)
+
+> Güz döneminde 26 grupta 357 öğrenci ders desteği alıyor.
+
+Tepebaşı Belediyesi'nin çocukların okul derslerini desteklemek amacıyla 2023'te hizmete açtığı Bahriye Üçok Eğitim ve Gelişim Merkezi'nden bugüne kadar toplam 3 bin 688 öğrenci yararlandı. Ekimde başlayan yeni güz döneminde 26 grupta 357 öğrenci eğitim alıyor.
+
+Merkezde matematik, fen bilimleri, Türkçe, İngilizce ve sosyal bilgiler derslerinin yanı sıra rehberlik çalışmaları da yürütülüyor. Merkezin, çocukların eğitim olanaklarına erişiminin ailelerinin ekonomik koşullarına bağlı kalmaması hedefiyle çalıştığı belirtildi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, eğitime erişimin her çocuğun temel hakkı olduğunu vurgulayarak, "Tepebaşı'nda hiçbir çocuğun eğitim hakkından mahrum kalmaması için çalışmaya devam edeceğiz" dedi.
+
+---
+
+## Talim ve Terbiye Kurulu'nun 100. yıl özel oturumu Bakan Tekin başkanlığında yapıldı
+
+**Eğitim · Türkiye** · 2026-11-02 11:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quottalim-ve-terbiye-kurulu-100-yil-ozel-oturumuquot-bakan-tekin-baskanliginda-yapildi/haber/42382/tr)
+
+![](data/images/f584c866e2afeabc.jpg)
+
+> Kurul, 5 maddelik "100. Yıl Kararları"nı oy birliğiyle kabul etti.
+
+Millî Eğitim Bakanlığı'nın bilimsel danışma ve inceleme organı Talim ve Terbiye Kurulu Başkanlığı'nın kuruluşunun 100. yılında "100. Yıl Özel Oturumu" yapıldı. Oturum, Bakan Yusuf Tekin başkanlığında Kurul Toplantı Salonu'nda gerçekleştirildi. Kurul Başkanı Cem Gençoğlu oturumu açtı.
+
+"100. Yıl Kararları" taslağı okundu ve açık oylamada 5 maddeden oluşan kararlar Kurul üyelerinin oy birliğiyle kabul edilip imzalandı.
+
+Bakan Tekin konuşmasında, Kurulun kuruluşunun 1 Kasım 1926'da Mustafa Kemal Atatürk tarafından TBMM'de ilan edildiğini hatırlattı. Türkiye Yüzyılı Maarif Modeli'nin oluşturulmasında Kurulun önemli katkısı olduğunu söyleyen Tekin, modelin programları beceri temelli hale getirdiğini belirtti. Tekin, 2029'da yapılacak PISA döngüsünde modelin etkisiyle daha başarılı bir sonuç alınacağına inandığını söyledi.
+
+---
+
+## Kurşunlu Külliyesi için Kaymakamlık yeni yazı gönderdi: teslim 3 Kasım'da
+
+**Gündem · Odunpazarı** · 2026-11-02 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kursunlu-kulliyesi-nde-iki-gunde-ne-degisti-kaymakamlik-yeniden-tahliye-talim)
+
+![](data/images/a8975ecec9bb6112.jpg)
+
+> Odunpazarı Belediyesi, mahkeme süreci sürerken verilen yeni talimatı aktardı.
+
+Odunpazarı Belediyesi'nin açıklamasına göre Odunpazarı Kaymakamlığı, Kurşunlu Külliyesi'nin 3 Kasım Salı günü saat 11.00'de Kütahya Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istedi.
+
+Belediyenin aktardığına göre Kaymakamlık, 30 Ekim 2026 tarihli yazısında Odunpazarı Belediyesi'nin tahliyeye karşı Eskişehir 1. İdare Mahkemesi'nde dava açtığını belirtmiş ve yürütmeyi durdurma konusunda karar alınıncaya kadar tahliyenin durdurulduğunu bildirmişti. Mahkemenin 26 Ekim tarihli ara kararında, yürütmeyi durdurma talebinin idarenin savunması alındıktan sonra değerlendirilmesi öngörülmüştü.
+
+2 Kasım tarihli ikinci yazıda ise Vakıflar Bölge Müdürlüğü'nün tahliyenin önünde hukuki engel bulunmadığı yönündeki görüşüne yer verildi. Kaymakamlık, mevcut kiracıların ve kullanıcıların durumlarının korunarak külliyenin 3 Kasım'da saat 11.00 itibarıyla Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istedi.
+
+Odunpazarı Belediyesi, külliyeyi 2004 yılından bu yana kullandığını ve kira sözleşmesinin beş yıl uzatılması talebine yanıt alamadığı için yargı yoluna başvurduğunu belirtiyor. Külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi bulunuyor. Belediye, hukuki mücadelesini sürdüreceğini bildirdi.
+
+Haber, belediyenin açıklamasına dayanıyor. Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün konuya ilişkin ayrı bir açıklaması kaynakta yer almıyor.
+
+---
+
 ## Eskişehir'de ekim ayında aranan 582 kişi yakalandı
 
 **Asayiş · Merkez** · 2026-11-02 10:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://eskisehirdurum.com/eskisehir-asayis/eskisehirde-ekim-ayinda-aranan-582-sahis-polis-ve-jandarmaya-yakalandi/811057)
@@ -405,57 +457,5 @@ Eskişehir Kent Konseyi Hayvan Hakları Çalışma Grubu, Eskişehir Büyükşeh
 Çalışma grubu üyeleri, vatandaşları hayvan hakları konusunda bilgilendirdi ve hayvan satın almak yerine sahiplenmenin tercih edilmesi gerektiğini anlattı. Ülüğ, hayvanların sevgiye ve güvenli bir yuvaya ihtiyaç duyan yaşam arkadaşları olduğunu vurguladı.
 
 Kent Konseyi'nin açıklamasında, etkinlik kapsamında kaç hayvanın sahiplendirildiğine ilişkin bir sayı paylaşılmadı.
-
----
-
-## Eskişehirspor, Gaziemir'i deplasmanda 5-0 yenerek ikinci sıraya yükseldi
-
-**Spor · Merkez** · 2026-11-01 16:47 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.eskisehirekspres.net/eskisehirspordan-izmirde-rahat-galibiyet-5-0)
-
-![](data/images/d846229c0f0f94fc.jpg)
-
-> Kırmızı-siyahlılar Nesine 3. Lig'de ilk yarıda 5 gol buldu.
-
-Eskişehirspor, Nesine 3. Lig 2. Grup'un 9. haftasında İzmir Bornova Aziz Kocaoğlu Stadyumu'nda Gaziemir'i 5-0 yendi.
-
-İlk yarıda 11. dakikada Kerem Baykuş, Atalay Yıldırım'ın ortasıyla öne geçti. 16. dakikada Hasan Kaya'nın ortasında Beykan Şimşek skoru 2-0 yaptı. 28. dakikada Hasan Kaya, 29. dakikada İsmail Kulet ve 35. dakikada Atalay Yıldırım golleri attı. Eskişehirspor ilk yarıyı 5-0 önde tamamladı.
-
-İkinci yarıda tempo düştü. Teknik direktör Hakan Şapcı, Beykan Şimşek, Sarper Çağlar, Atalay Yıldırım ve Ertuğrul Kurtuluş'un yerine Mert Başer, Ahmet Kara, Fırat Sarı ve Emre Sarıkaya'yı oyuna aldı. 88. dakikada Hasan Kaya'nın şutunu Gaziemir'den Sedat Yahşi çizgi üzerinde çıkardı; başka gol olmadı.
-
-Bu galibiyetle puanını 18'e yükselten Eskişehirspor ikinci sıraya yerleşti. Takım, 10. haftada 7 Kasım Cumartesi günü saat 15.30'da sahasında Kepezspor'u konuk edecek.
-
----
-
-## Ayşe Kulin Odunpazarı'nı gezdi, Kurşunlu Külliyesi'ndeki müzeye dikkat çekti
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-01 17:46 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/amp/ayse-kulin-den-kursunlu-kulliyesi-icin-cagri--kulturu-lutfen-mahvetmeyiniz-beyler--297356.html)
-
-![](data/images/ayse-kulin-odunpazarini-gezdi-kursunlu-kulliyes-arsiv.jpg)
-
-> Yazar, Ahşap Eserler Müzesi'nin tahliye edilmek istenmesine tepki gösterdi.
-
-Odunpazarı Belediyesi'nin düzenlediği "Cumhuriyet ve Edebiyat" söyleşisi ve imza günü için Eskişehir'e gelen yazar Ayşe Kulin, Odunpazarı Tarihi Bölge'yi gezdi. Gezide Odunpazarı Belediye Başkanı Kazım Kurt eşlik etti.
-
-Kulin'in ilk durağı Mustafa Abdülcemil Kırımoğlu Kırım Tatar Müzesi oldu. Ardından Odunpazarı Şehrin Ateşi Seramik Galerisi'ni ve Kurşunlu Külliyesi'ndeki Ahşap Eserler Müzesi'ni gezdi. Müzede, Uluslararası Ahşap Heykel Festivali'ne katılan 55 ülkeden sanatçının 202 eseri sergileniyor.
-
-Kulin, Kurşunlu Külliyesi'nin tahliye edilmek istenmesine tepki gösterdi. "İçeride çok değerli eserler var. Burayı tahliye edip ne yapacaklar? Bina mı yok? Var olan bir şeyi yok etmek kolaydır, var olanını muhafaza etmek daha zordur" dedi. Kulin, "Kültürü lütfen mahvetmeyiniz beyler" ifadesini kullandı.
-
-Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
-
----
-
-## "Eskişehir Lezzetleri" kitabı tanıtıldı: 37 tarif, 12 lezzetin öyküsü
-
-**Kültür-Sanat · Merkez** · 2026-11-01 17:46 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.toplumsal.com.tr/haber/eskisehir-in-37-tarifli-mutfak-kitabi-tanitildi_32397/)
-
-![](data/images/eskisehir-lezzetleri-kitabi-tanitildi-37-tarif--arsiv.jpg)
-
-> Kitabı Büyükşehir ile TYSD Eskişehir Şubesi hazırladı.
-
-Eskişehir Büyükşehir Belediyesi ile Türkiye Yardımsevenler Derneği (TYSD) Eskişehir Şubesi'nin hazırladığı "Eskişehir Lezzetleri" kitabı, Porsuk Konukevi'nde düzenlenen programla tanıtıldı. Kitapta 37 özgün tarif ile kentle özdeşleşen 12 lezzetin tarihçesi, hikâyesi ve fotoğrafları yer alıyor.
-
-Tanıtıma Büyükşehir Belediye Başkanı Ayşe Ünlüce, YENİ Parti Eskişehir Milletvekili İbrahim Arslan, Tepebaşı Belediye Başkanı Ahmet Ataç, Eskişehir Baro Başkanı Barış Günaydın, TYSD Eskişehir Şube Başkanı Serpil Çamoğlu, Eskişehir Ticaret Odası Yönetim Kurulu Üyesi Yasin Bakılan ve meclis üyeleri katıldı. Ünlüce, 81 ilin yemek tariflerini içeren bir kitabın ardından Eskişehir'e özel bir çalışma fikrinin doğduğunu, 2026 Eskişehir Yılı'nda kente kalıcı bir eser kazandırmak istediklerini söyledi. Kitabı hazırlayan Serpil Uzoğlu, çalışmayı kitabın editörlüğünü yapan kızı İpek Eda Uça ile yürüttüklerini, tarifleri araştırıp kendi evlerinde hazırladıklarını anlattı.
-
-Etkinlik, kitaptaki geleneksel tariflerden hazırlanan yöresel yemeklerin ikramıyla sona erdi. Kitap; TYSD Eskişehir Şubesi, Hamam Müzesi, Masal Şatosu, ETİ Su Altı Dünyası Akvaryum Kafe ve Hediyelik Eşya Bölümü, Bilim Deney Merkezi Galaksi Kafe, Emek Kafe, Aktif Yaşam Parkı Yaşam Kafe, Sazova Bilim Kültür Sanat Parkı Elma Kafe ve Hayvanat Bahçesi Tropik Merkezi'nden alınabilecek.
 
 ---
