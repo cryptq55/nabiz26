@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir Şehir Hastanesi'nde Ürojinekoloji ve yeni Menopoz Polikliniği hizmet veriyor
+
+**Sağlık · Merkez** · 2026-11-02 12:40 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.saraymedya.com/haber/eskisehir-sehir-hastanesi-nde-kadin-sagligina-iki-yeni-hizmet_320098/)
+
+> Hastanede kadın sağlığına yönelik iki poliklinik çalışıyor.
+
+Eskişehir Şehir Hastanesi, kadın sağlığı hizmetlerini Ürojinekoloji Polikliniği ve yeni açılan Menopoz Polikliniği ile genişletti.
+
+Yaklaşık 1,5 yıldır hizmet veren Ürojinekoloji Polikliniği, idrar kaçırma ve organ sarkması şikâyetlerine multidisipliner yaklaşımla çözüm sunuyor. Kadın Hastalıkları ve Doğum Uzmanı Dr. Keziban Saylam Dönmez, kadınların yaklaşık yüzde 50'sinde idrar kaçağı görülebildiğini söyledi. Dönmez'e göre tedavi hasta eğitimi ve davranış tedavileriyle başlıyor; küçük sınıflarda fizik tedavi doktoru ve fizyoterapistle eğitimler veriliyor, gerektiğinde hastalar diyetisyene, obezite merkezine ve sigara bırakma birimlerine yönlendiriliyor. Fizyoterapist Emine Aşıcı, pelvik taban sağlığı için kuvvetlendirme, gevşetme ve stabilize etme programları uyguladıklarını belirtti.
+
+Yeni Menopoz Polikliniği ise menopoz dönemi şikâyetlerine hizmet veriyor. Op. Dr. Melike Yıldırım, polikliniğin beklentilerin üzerinde ilgi gördüğünü, erken menopoz ve perimenopoz dönemindeki kadınlara da hizmet verdiklerini ve hem hormonlu hem hormonsuz tedavi seçenekleri bulunduğunu söyledi.
+
+---
+
+## Tepebaşı'nın Atatürk temalı kolektif anıtının adı "Cumhuriyet'in Çocukları" oldu
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-02 12:39 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/eskisehirlilerkararverdicumhuriyet’incocukları)
+
+![](data/images/5dfcf19e1f0142b9.jpg)
+
+> Anıtın adı, 1.272 kişinin katıldığı ankette belirlendi.
+
+Tepebaşı Belediyesi'nin 18. Uluslararası Eskişehir Pişmiş Toprak Sempozyumu kapsamında kente kazandırdığı, Türkiye'nin ilk Atatürk temalı kolektif anıtının adı "Cumhuriyet'in Çocukları" oldu.
+
+Belediyenin aktardığına göre üç gün süren anketlere toplam 1.272 kişi katıldı. Adı "Cumhuriyet'in Çocukları" olan öneri ilk ankette yüzde 65, ikinci ankette yüzde 53 oyla öne çıktı. Belediyenin sosyal medya hesaplarına gelen yorumlarda da en çok önerilen isim buydu.
+
+Anıtın yapımında 6'sı Türk, 2'si yabancı 8 sanatçı, 4 konuk akademisyen, 24 stajyer ve 90 çocuk yer aldı; böylece eser 126 kişinin emeğiyle hazırlandı. Genel tasarımı Prof. Bilgehan Uzuner yaptı. Tasarımın merkezinde Atatürk'ün silueti bulunuyor, belirli saatlerde ışık eserin içinden yere yansıyor. Çocukların pişmiş topraktan ürettiği çiçekler esere eklendi. Anıt, sempozyum kapsamında hazırlanan dördüncü kolektif eser oldu.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, "Bu eser artık yalnızca onu yapanların değil, adını veren Eskişehirlilerin de anıtı" dedi.
+
+---
+
 ## Tepebaşı'ndaki Bahriye Üçok Eğitim Merkezi'nden 3 yılda 3 bin 688 öğrenci yararlandı
 
 **Eğitim · Tepebaşı** · 2026-11-02 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.cumhuriyet.com.tr/yerel-gundem/tepebasi-belediyesi-egitim-ve-gelisim-merkezi-nde-3-yilda-3-bin-688-ogrenci-egitim-gordu-2552494)
@@ -429,33 +461,5 @@ Tepebaşı Belediyesi, Pop & Caz Korosu'nda yer almak isteyen 17-35 yaş arasın
 Şef Derya İnanç yönetimindeki koroya başvuru formuna tepebasi.bel.tr adresinin Etkinlikler sayfasından ulaşılabilecek. Seçmeler 13 Kasım Cuma günü saat 19.00'da, Ferdi Zeyrek Yaşam Merkezi bünyesindeki İki Elin Sesi Var Çocuk ve Gençlik Senfoni Orkestrası ve Korosu'nda yapılacak.
 
 Seçmelerin yapılacağı adres Yeşiltepe Mahallesi, Kırca Sokak No: 1/A. Ayrıntılı bilgi için 0222 321 12 79 numaralı telefon aranabilir. Etkinlik ücretsiz.
-
----
-
-## Başkan Ataç pazar günü Baksan'daki yol çalışmalarını inceledi
-
-**Belediye · Tepebaşı** · 2026-11-01 17:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/baksanda-calismalar-devam-ediyor-ahmet-atac-aciklama-yapti)
-
-> Tepebaşı Belediyesi ekipleri Baksan'da yaz başından beri süren çalışmalara pazar günü de devam etti.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, Baksan bölgesindeki yol çalışmalarını yerinde inceledi. Belediye ekipleri pazar günü de sahada çalıştı.
-
-Ataç, çalışma alanlarını gezdi ve belediye personeliyle bir araya geldi. Çalışmaların hangi aşamada olduğu, ihtiyaç duyulan düzenlemeler ve önümüzdeki süreçte yapılacak işler ele alındı. Ataç incelemelerin ardından, "Baksan'da ekiplerimiz pazar mesaisinde. Çalışmaları yerinde inceleyip sahadaki mevcut durumu, ihtiyaçları ve planlamamızı değerlendirdik" dedi.
-
-Tepebaşı Belediyesi'nin yaz başından beri ilçenin farklı noktalarında yol düzenleme çalışmaları yürüttüğü belirtildi. Ataç, "Mevsim koşulları elverdiği sürece, şehrimizi güzelleştirmek için tüm ekiplerimizle sahada olacağız" ifadesini kullandı. Çalışma programının hava şartlarına göre sürdürüleceği bildirildi. Belediyenin açıklamasında Baksan'daki çalışmaların tamamlanacağı tarihe ilişkin bilgi verilmedi.
-
----
-
-## Kent Konseyi Arabasız Pazar'da "Satın Alma, Sahiplen" etkinliği düzenledi
-
-**Gündem · Merkez** · 2026-11-01 17:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/inci-ulugden-eskisehir-halkina-anlamli-cagri)
-
-> Başkan İnci Ülüğ hayvan sahiplenmenin önemine dikkat çekti.
-
-Eskişehir Kent Konseyi Hayvan Hakları Çalışma Grubu, Eskişehir Büyükşehir Belediyesi'nin Atatürk Bulvarı'nda düzenlediği Arabasız Pazar etkinliğinde "Satın Alma, Sahiplen" etkinliği yaptı. Etkinliğe Kent Konseyi Başkanı İnci Ülüğ de katıldı.
-
-Çalışma grubu üyeleri, vatandaşları hayvan hakları konusunda bilgilendirdi ve hayvan satın almak yerine sahiplenmenin tercih edilmesi gerektiğini anlattı. Ülüğ, hayvanların sevgiye ve güvenli bir yuvaya ihtiyaç duyan yaşam arkadaşları olduğunu vurguladı.
-
-Kent Konseyi'nin açıklamasında, etkinlik kapsamında kaç hayvanın sahiplendirildiğine ilişkin bir sayı paylaşılmadı.
 
 ---
