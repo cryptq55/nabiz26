@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## AK Partili meclis üyeleri: Kurşunlu Külliyesi kapanmıyor, belediye bilgi versin
+
+**Gündem · Odunpazarı** · 2026-11-02 20:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/ak-partiden-kursunlu-cikisi-belediye-gercekleri-aciklasin)
+
+![](data/images/315885d9534a7181.jpg)
+
+> Üyeler belediyeden gelir-gider tablosu ve Vakıflar'a verilen yanıtları açıklamasını istedi.
+
+Kurşunlu Külliyesi'nin tahliyesiyle ilgili tartışmalar sürerken AK Parti Odunpazarı Belediye Meclis Üyeleri yeni bir açıklama yaptı. Üyeler, külliyenin kapatılacağı ve müzelerin ortadan kaldırılacağı yönündeki iddiaları reddederek tartışmaların hukuki belgeler üzerinden yürütülmesi gerektiğini söyledi. Açıklamada "Kurşunlu Külliyesi kapanmıyor. Kapanan şey, kirada anlaşmayan ve sözleşme imzalamayan bir yönetimin 'mağduriyet siyaseti'dir" denildi.
+
+AK Partili üyeler, belediyenin yürütmeyi durdurma talebinin mahkeme tarafından reddedildiğini ve bu kararın istinaf aşamasında kesinleştiğini ileri sürdü; Kaymakamlığın keyfî bir işlem yapmadığını, yargı kararını uyguladığını savundu. Kira sözleşmesinin uzatılmasına ilişkin Geçici 15. maddeye değinen üyeler, bunun için Vakıflar'a borç bulunmaması, açılan davalardan vazgeçilmesi, belirlenen kira bedelinin kabul edilmesi ve süresi içinde başvuru yapılması gerektiğini, belediyenin bu şartları yerine getirmediğini öne sürdü.
+
+Üyeler, bazı kaynaklara göre belediyenin külliyedeki kiracılardan yıllık 419 bin lira kira toplayıp Vakıflar'a 123 bin lira ödediğini iddia etti. Tahliye sürecinin 2024 sonunda başladığını, belediyenin müzelerdeki eserler için alternatif plan hazırlamadığını savundular. Kaymakamlık yazısında mevcut kiracı ve kullanıcıların durumunun korunacağının belirtildiğini, esnafın ve sanatçıların faaliyetlerinin sürebileceğini ifade ettiler.
+
+AK Partili üyeler belediyeden üç konuda açıklama istedi: külliyenin gelir-gider tablosu, Vakıflar'ın gönderdiği ihtarlara verilen yanıtlar ve 2014'ten bu yana ecrimisil nedeniyle çıkarıldığı öne sürülen kiracıların listesi. Bu konuları Belediye Meclisi'ne yazılı soru önergesi olarak sunacaklarını belirttiler.
+
+Haber AK Partili meclis üyelerinin açıklamasına dayanıyor. Odunpazarı Belediyesi'nin bu iddialara yanıtı kaynakta yer almıyor; belediyenin görüşleri için bu sitedeki önceki haberlere bakılabilir.
+
+---
+
 ## Tepebaşı Belediyesi'nin üniversite öğrencilerine ücretsiz akşam yemeği bu yıl da sürüyor
 
 **Belediye · Tepebaşı** · 2026-11-02 19:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/ahmet-atac-duyurdu-universite-ogrencilerine-desteklerimiz-devam-ediyor)
@@ -463,19 +483,5 @@ Haklarında adli işlem başlatılan 241 şüpheliden 36'sı tutuklandı, 205'i 
 Aramalarda 9 kilo 56 gram metamfetamin, 2 kilo 55 gram kokain, 39 bin 636 adet sentetik ecza hapı, 1.709,62 gram esrar, 728,81 gram bonzai, 74 gram bonzai hammaddesi, 24 kök hint keneviri, 22 adet ecstasy hap ve 5,31 gram afyon sakızı ele geçirildi. Ayrıca 9 hassas terazi, 3 uyuşturucu kullanma aparatı, 1 ruhsatsız tabanca, 1 tabanca şarjörü ve 64 fişek muhafaza altına alındı.
 
 Haklarında işlem yapılanların suçlu olduğu mahkeme kararıyla kesinleşmedikçe masum sayıldığı unutulmamalıdır.
-
----
-
-## Erzurum Gastronomi ve Cağ Kebabı Festivali 4-8 Kasım'da Dede Korkut Parkı'nda
-
-**Kültür-Sanat · Merkez** · 2026-11-02 02:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://erzurumgunebakis.com/amp/haber/erzurumun-lezzetleri-ve-kulturu-eskisehirde-bulusacak-141930)
-
-> Eskişehir Erzurumlular Derneği festivalde beş gün konser ve bar gösterisi düzenleyecek.
-
-Eskişehir Erzurumlular Derneği, Erzurum Gastronomi ve Cağ Kebabı Festivali'ni 4-8 Kasım 2026 tarihleri arasında Dede Korkut Parkı'nda düzenleyecek. Festivalde cağ kebabı, İspir kuru fasulyesi ve diğer yöresel lezzetler ziyaretçilerin beğenisine sunulacak.
-
-Beş gün boyunca müzik etkinlikleri yapılacak. 5 Kasım Perşembe saat 18.00'de Adem Baysal, 19.00'da Rabia Yıldız; 6 Kasım Cuma saat 17.00'de Ceyhun Can, 19.00'da Elif Kayacan, 21.00'de Mustafa Özden; 7 Kasım Cumartesi saat 17.00'de Köksal Örs, 19.00'da Başak Kaya, 21.00'de İmera; 8 Kasım Pazar saat 19.00'da Apolas Lermi sahne alacak.
-
-Erzurum bar ekibinin gösterileriyle kentin halk oyunları geleneği de tanıtılacak. Dernek, festivalle hemşehriler arasındaki birlik ve beraberliğin güçlenmesini ve Erzurum kültürünün geniş kitlelere ulaşmasını hedefliyor.
 
 ---
