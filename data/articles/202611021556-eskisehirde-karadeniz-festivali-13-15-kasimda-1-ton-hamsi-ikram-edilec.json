@@ -19,10 +19,10 @@
     "title": "Eskişehir’de Karadeniz Festivali Başlıyor! 1 Ton Hamsi İkram Edilecek! - Eskişehir Haber",
     "url": "https://www.eskisehirhaber.com/eskisehirde-karadeniz-festivali-basliyor-1-ton-hamsi-ikram-edilecek"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Dede Korkut Parkı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
