@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESOGÜ öğrencileri için ders yönetmeliğinde değişiklik: eş değer derslerde yeni kural
+
+**Eğitim · Merkez** · 2026-11-02 01:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-osmangazi-universitesi-ogrencilerinin-bekledigi-mujde-geldi)
+
+> Değişiklik 2 Kasım 2026 tarihli Resmî Gazete'de yayımlandı.
+
+Eskişehir Osmangazi Üniversitesi'nin Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği'nde yapılan değişiklik, 2 Kasım 2026 tarihli ve 33418 sayılı Resmî Gazete'de yayımlandı. Değişiklik, 14 Eylül 2019'da yayımlanan yönetmeliğin 23. maddesinin birinci fıkrasına yeni bir bent ekliyor.
+
+Yeni düzenlemeye göre öğrencinin eğitim planındaki mezuniyet grubunda yer alan eş değer derslerden FF, YZ veya DZ notu aldığı bir ders varsa, öğrenci yeni bir derse kayıt yaptırdığında bu yeni ders başarısız olduğu eş değer dersin yerine sayılacak.
+
+Akademik uyarısı bulunan öğrenciler için ayrı bir hüküm de yer aldı: bu öğrencilerin DC veya DD aldıkları eş değer derslerde de aynı uygulama geçerli olacak.
+
+---
+
+## Eskişehir'de ekimde 117 bin araç denetlendi, bin 238 araç trafikten men edildi
+
+**Gündem · Merkez** · 2026-11-02 01:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-yollarinda-siki-denetim--bin-238-arac-trafikten-men-edildi-297362.html)
+
+> Emniyet ve jandarma verilerine göre 453 sürücünün ehliyetine el konuldu.
+
+Eskişehir İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı trafik ekipleri, 1-31 Ekim 2026 tarihleri arasında kent genelinde denetim yaptı. Bir ayda 117 bin 791 araç ve sürücü kontrol edildi.
+
+Denetimlerin 15 bin 608'i yük taşımacılığı, 2 bin 603'ü yolcu taşımacılığı, 11 bin 772'si alkol, 2 bin 886'sı motosiklet ve 26 bin 69'u emniyet kemeri kontrolünden oluştu. Diğer kontrol türlerinde 58 bin 853 denetim yapıldı.
+
+Kusurlu bulunan araç ve sürücülere toplam 25 bin 45 trafik cezası kesildi. Bin 238 araç trafikten men edildi, 453 sürücünün ehliyetine el konuldu.
+
+Aynı dönemde Eskişehir genelinde 3 ölümlü, 277 yaralanmalı ve 273 maddi hasarlı trafik kazası kayıtlara geçti.
+
+---
+
 ## Aşağıçağlan'daki 541 konutluk projenin ihalesi 23 Kasım'a ertelendi
 
 **Gündem · Odunpazarı** · 2026-11-02 00:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/eskisehirde-541-konut-icin-beklenen-ihale-ertelendi)
@@ -18,7 +48,9 @@ Değişiklik, İlkevim Eskişehir ve İlkevim Arsa Eskişehir hesaplarından yap
 
 ## Eskişehir'de bugün 08.00-15.00 arası siren kontrolü yapılacak
 
-**Gündem · Merkez** · 2026-11-02 00:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-pazartesi-sirenler-calacak)
+**Gündem · Merkez** · 2026-11-02 00:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sakaryagazetesi.com.tr/eskisehirde-pazartesi-sirenler-calacak)
+
+![](data/images/eskisehirde-bugun-08-00-15-00-arasi-siren-kontr-arsiv.jpg)
 
 > Valilik, AFAD'ın kent genelindeki sirenleri test edeceğini duyurdu.
 
@@ -32,7 +64,9 @@ Duyuru Eskişehir Valisi Dr. Erdinç Yılmaz imzasıyla yayımlandı.
 
 ## Eskişehir Büyükşehir Kız Futbol Takımı ligi ikinci sırada tamamladı
 
-**Spor · Merkez** · 2026-11-02 00:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-kiz-futbol-takimindan-gururlandiran-basari)
+**Spor · Merkez** · 2026-11-02 00:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-buyuksehir-kiz-futbol-takimindan-gururlandiran-basari)
+
+![](data/images/eskisehir-buyuksehir-kiz-futbol-takimi-ligi-iki-arsiv.jpg)
 
 > U15, U17 ve A takım kategorilerinde mücadele eden kulüp, kentin tek kız futbol takımı olarak öne çıkıyor.
 
@@ -459,43 +493,5 @@ Karşılaşma, 29 Ekim Cumhuriyet Bayramı'nda Prof. Dr. Fethi Heper Stadyumu'nd
 Maç öncesinde tribünlerde Cumhuriyet Bayramı coşkusu yaşandı. Türk bayraklarıyla donatılan tribünlerde taraftarlar, Bando Es Es'in çaldığı marşlarla Cumhuriyet'in 103. yılını kutladı.
 
 Maçın kadrosu: Eskişehirspor: Kaan Çinkaya, Ertuğrul Kurtuluş, İsmail Kulet, Emre Sarıkaya, Sarper Çağlar, Ozan İsmail Koç, Mert Başer, Emre Tangeldi, Fırat Sarı, Atalay Yıldırım, Osman Arslantaş. Hakemler Raşit Yorgancılar, Mehmet Şengül ve Mehmet Ali Vardar'dı. Eskişehirspor'da Emre Tangeldi, Fırat Sarı ve Sarper Çağlar; Iğdır FK'da Alperen Selvi, Devran Şenyurt ve Ahmet Köse sarı kart gördü.
-
----
-
-## Eskişehir'de Cumhuriyet'in 103. yıl dönümü töreni Atatürk Bulvarı'nda yapıldı
-
-**Gündem · Merkez** · 2026-10-29 13:45 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ve-esi-doc-dr-senay-yilmaz-hanimefendi-cumhuriyetimizin-103-yil-donumu-torenine-katildi)
-
-![](data/images/19591a9aeb6a19b4.jpg)
-
-> Vali Yılmaz, Eskişehir'in savunma, havacılık, raylı sistemler ve nadir toprak elementleri alanlarında yeni başarılara imza atacağını söyledi.
-
-Cumhuriyet'in kuruluşunun 103. yıl dönümü kutlamaları kapsamında Eskişehir'de Atatürk Bulvarı'nda resmî tören düzenlendi. Törene Vali Dr. Erdinç Yılmaz ve eşi Doç. Dr. Şenay Yılmaz da katıldı.
-
-Tören, Vali Yılmaz, Muharip Hava Kuvveti ve Garnizon Komutanı Hava Orgeneral Erdoğan Gür ve Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin askerî araçla törene katılanları ve vatandaşları selamlamasıyla başladı. Saygı duruşunun ve İstiklal Marşı'nın okunmasının ardından Cumhurbaşkanı Recep Tayyip Erdoğan'ın kutlama mesajı kendi sesinden dinlendi.
-
-Törende konuşan Vali Yılmaz, Cumhuriyet'in 103. yıl dönümünü Eskişehir'de kutlamanın gururunu yaşadıklarını söyledi; Atatürk'ü ve Millî Mücadele kahramanlarını andı. "Kurtuluş Savaşımız milletimizin var olma ülküsü, Cumhuriyetimiz ise yeniden dirilişimizin adıdır" diyen Yılmaz, Cumhuriyet'in Türk milletinin karakterine en çok yakışan idare olduğunu belirtti. Gençlere seslenen Yılmaz, Türkiye'nin geleceğinin gençlerin ellerinde yükseleceğine olan inancını dile getirdi.
-
-Vali Yılmaz, Eskişehir'in de savunma, havacılık, raylı sistemler ve nadir toprak elementleri alanlarında yeni başarılara imza atacağını ifade etti. Konuşmasını "Cumhuriyet Bayramımız kutlu olsun! Ne mutlu Cumhuriyetimize! Ne mutlu Türk'üm diyene!" sözleriyle tamamladı.
-
-Şiirlerin okunması ve öğrencilerin halk oyunları gösterilerinin ardından askerî bando eşliğinde tören geçişi gerçekleştirildi. Vatandaşlar geçişe alkışlarla eşlik etti.
-
----
-
-## Tepebaşı'nda Cumhuriyet coşkusu: kortej, konserler ve EKO-ŞOV
-
-**Gündem · Tepebaşı** · 2026-10-29 12:44 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacklasikaracıylacoskuyaortakoldu)
-
-![](data/images/52b1a034f85b1382.jpg)
-
-> Başkan Ataç klasik aracıyla kortejde yer aldı; Özgenur Altaş ve Soup Opera konser verdi.
-
-Tepebaşı Belediyesi'nin Cumhuriyet'in 103. yılı için düzenlediği etkinlikler büyük katılımla gerçekleşti. Başkan Ahmet Ataç, kendi kullandığı klasik otomobille Cumhuriyet Korteji'ne katılarak vatandaşları selamladı.
-
-Kutlamalar 28 Ekim Çarşamba günü saat 17.30'da Şarhöyük Mahallesi Cumhuriyet Meydanı'ndan hareket eden kortejle başladı. Tepebaşı Belediyesi yanındaki açık otoparkta sona eren korteje Eskişehir Motosiklet Grubu 26, MOSEF, Vosbağa Eskişehir, Vos 26 Eskişehir, Yol Savaşçıları Türkiye ve Demir Pençe 26 Eskişehir motosikletleri ve klasik araçlarıyla destek verdi.
-
-Kortejin ardından aynı alanda konserler yapıldı. Saat 19.00'da Özgenur Altaş, saat 20.00'de Soup Opera sahne aldı. Kutlamaların finali ise 29 Ekim Perşembe günü Espark AVM önünde gerçekleştirilen EKO-ŞOV gösterisi oldu.
-
-Başkan Ataç, etkinliklerin ardından yaptığı değerlendirmede, "Biz Cumhuriyet'in çocuklarıyız. Büyük Önderimiz Mustafa Kemal Atatürk'ün bizlere emanet ettiği Cumhuriyet, en büyük ortak değerimizdir" dedi. Etkinliklere katılan hemşerilerine teşekkür eden Ataç, "Tepebaşı, Cumhuriyetine, Atatürk'üne ve aydınlık yarınlarına yürekten sahip çıkıyor" ifadesini kullandı.
 
 ---
