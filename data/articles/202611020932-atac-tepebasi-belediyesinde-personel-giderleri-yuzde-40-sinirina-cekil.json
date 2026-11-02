@@ -20,10 +20,10 @@
     "title": "Tepebaşı Belediyesinde kaç kişi işten çıkarılacak? Ataç'tan açıklama geldi - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/tepebasi-belediyesinde-kac-kisi-isten-cikarilacak--atac-tan-aciklama-geldi-297396.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
