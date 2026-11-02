@@ -20,10 +20,10 @@
     "title": "Eskişehir'de 500 milyonluk projede sona doğru! - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/eskisehirde-500-milyonluk-projede-sona-dogru"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kurtuluş Kapalı Pazar Yeri"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
