@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Asayiş · Merkez** · 2026-11-02 10:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://eskisehirdurum.com/eskisehir-asayis/eskisehirde-ekim-ayinda-aranan-582-sahis-polis-ve-jandarmaya-yakalandi/811057)
 
+![](data/images/eskisehirde-ekim-ayinda-aranan-582-kisi-yakalan-arsiv.jpg)
+
 > 794 uygulama noktasında bin 978 personelle yapılan denetimlerde 9 kişi 10 yıl ve üzeri kesinleşmiş cezayla aranıyordu.
 
 Eskişehir'de polis ve jandarma ekiplerinin ekim ayı boyunca yürüttüğü denetimlerde aranan toplam 582 kişi yakalandı. Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri, 1-31 Ekim 2026 tarihleri arasında il genelinde 794 farklı uygulama noktasında çalışma yaptı. Uygulamalara bin 978 polis ve jandarma personeli katıldı.
