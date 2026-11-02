@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediye Meclisi Sağlıklı Kentler Birliği'nden ayrılma kararı aldı
+
+**Belediye · Odunpazarı** · 2026-11-02 14:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/odunpazari-belediyesinden-flas-ayrilik-karari-mecliste-karar-alindi)
+
+> Karar oy çokluğuyla kabul edildi; AK Parti grubu ret oyu kullanacağını açıkladı.
+
+Odunpazarı Belediye Meclisi, belediyenin Sağlıklı Kentler Birliği üyeliğinden ayrılmasına ilişkin gündem maddesini oy çokluğuyla kabul etti.
+
+Yeni Parti Grup Başkanvekili Emre Genç, birliğin bundan sonraki süreçte sağlıklı bir şekilde faaliyet sürdüremeyeceğini düşündüklerini söyledi. Genç, birçok belediyenin birlik toplantılarına katılmadığını ve ayrılma kararı aldığını belirterek maddeye kabul oyu vereceklerini açıkladı.
+
+AK Parti Grup Başkanvekili Mehmet Kepez ise maddenin siyasi bir tavır olarak gündeme geldiğini düşündüklerini belirtti. Kepez, birliğin başkanının siyasi parti değiştirerek önce bağımsız olmasına, ardından AK Parti'ye geçmesine tepki olarak karar getirildiğini savundu. Kepez, birlik başkanları farklı partiden olduğunda iyi çalışacağı, AK Partili olduğunda çalışamayacağı yönündeki anlayışı doğru bulmadıklarını söyleyerek AK Parti grubunun ret oyu kullanacağını ifade etti.
+
+Haber, Odunpazarı Belediye Meclisi'ndeki konuşmalara dayanıyor; birliğin görüşü kaynakta yer almıyor.
+
+---
+
+## ESOGÜ'de "Bilinçli Anneler, Güvende Nesiller" projesinin açılışı yapıldı
+
+**Eğitim · Merkez** · 2026-11-02 14:33 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2149)
+
+> Proje annelerin hukuki ve sosyal donanımını, çocukların güvenli yaşam farkındalığını hedefliyor.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ), Kadın ve Demokrasi Derneği (KADEM) Eskişehir Temsilciliği ve Eskişehir İl Milli Eğitim Müdürlüğü iş birliğinde yürütülen "Bilinçli Anneler, Güvende Nesiller" projesinin açılış programı ve ihtiyaç belirleme çalıştayı ESOGÜ ev sahipliğinde yapıldı. Etkinliğe Rektör Prof. Dr. Emine Gümüşsoy ile Rektör Yardımcısı Prof. Dr. Şerife Yücesoy Özkan katıldı. Kongre ve Kültür Merkezi'ndeki programda KADEM Eskişehir İl Temsilcisi Mehtap Özkaya ve İl Milli Eğitim Müdürü Sinan Aydın açılış konuşması yaptı.
+
+Rektör Gümüşsoy'un aktardığına göre proje, Eskişehir'in merkez dışındaki ilçelerinde yaşayan annelerin hukuki ve sosyal donanımını artırmayı, şiddetsiz ve sağlıklı iletişim becerilerini geliştirmeyi, çocukların ise kişisel sınırlarını, beden güvenliklerini ve duygusal becerilerini desteklemeyi amaçlıyor. Anne ve çocuk eş zamanlı bir güçlenme modeliyle ele alınıyor: Anneler hukuki haklar, KADES, ŞÖNİM ve olumlu ebeveynlik konularında bilinçlenirken çocuklar oyun temelli eğitimlerle güvenli yaşam farkındalığı kazanacak. Eğitimlerin ardından tematik sanat atölyeleri yapılacak.
+
+Gümüşsoy, ESOGÜ'nün akademisyen kadrosu ve gönüllü gençleriyle projenin bilimsel ve akademik paydaşı olduğunu söyledi.
+
+---
+
 ## Altın fiyatları 2 Kasım 2026: Gram altın 6.373,02 TL
 
 **Ekonomi · Merkez** · 2026-11-02 14:14 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -439,35 +469,5 @@ Eskişehirspor'un İzmir'de Gaziemir'i 5-0 yendiği maçın ardından taraftarla
 Etimesgut ve Bursa Yıldırımspor maçlarındaki puan kayıpları nedeniyle eleştirilen Şapcı'ya yönelik tepkiler artmıştı. Bursa Yıldırımspor maçının son dakikalarında tribünlerden istifa tezahüratları yükselmişti. Takımın Türkiye Kupası'nda Iğdır FK'yı yenmesi bu süreçte önemli bir dönüm noktası olarak değerlendirildi.
 
 Üst üste alınan Iğdır FK ve Gaziemir galibiyetlerinin ardından Eskişehirspor gelecek cumartesi günü kendi sahasında Antalya Kepezspor'u konuk edecek.
-
----
-
-## Eskişehirli Sui Generis Tiyatro Maltepe Tiyatro Festivali'nde "Cambazın Cenazesi"ni oynadı
-
-**Kültür-Sanat · Merkez** · 2026-11-01 22:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.gzt26.com/eskisehirli-tiyatro-toplulugu-istanbulda-alkis-topladi)
-
-> Oyun 27 Ekim'de Maltepe Belediyesi Türkan Saylan Kültür Merkezi'nde sahnelendi.
-
-Eskişehir'in tiyatro topluluklarından Sui Generis Tiyatro, İstanbul'da düzenlenen 8. Uluslararası Maltepe Tiyatro Festivali'ne katıldı. Topluluk, "Cambazın Cenazesi" oyununu 27 Ekim Salı akşamı Maltepe Belediyesi Türkan Saylan Kültür Merkezi'nde sahneledi ve izleyicilerden alkış aldı.
-
-2009'da Eskişehir'de kurulan topluluğun oyununun yazarı Firuze Engin, yönetmeni Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları sanatçısı Tolga Tümer. Oyunda Hüseyin Akçar, Tolga Tümer ve Eren Coşan rol aldı.
-
-Grup Koordinatörü Av. Hüseyin Akçar, İstanbul'da gördükleri ilgiden memnuniyet duyduklarını, topluluğun uzun yıllardır gönüllülük esasıyla çalıştığını söyledi.
-
----
-
-## Erdoğan Güney Kore'ye gitti: 3 Kasım'da Lee Jae Myung ile görüşecek
-
-**Türkiye · Türkiye** · 2026-11-01 22:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-guney-koreye-gitti-01.11.26)
-
-![](data/images/c11e91010c8a402e.jpg)
-
-> Ziyaret 1-4 Kasım tarihlerini kapsıyor.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Kore Cumhuriyeti Devlet Başkanı Lee Jae Myung'un davetiyle Seul'e hareket etti. Erdoğan'ı Atatürk Havalimanı Devlet Konukevi'nden Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, İstanbul Valisi Davut Gül ve AK Parti İstanbul İl Başkanı Abdullah Özdemir uğurladı.
-
-Erdoğan'a eşi Emine Erdoğan, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Millî Savunma Bakanı Yaşar Güler ve Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır eşlik etti.
-
-1-4 Kasım tarihlerini kapsayan ziyaret kapsamında Erdoğan, 3 Kasım Salı günü Lee Jae Myung ile resmî görüşme yapacak. Görüşmelerde iki ülke arasındaki stratejik ortaklık ilişkileri tüm yönleriyle ele alınacak, güncel bölgesel ve küresel meseleler hakkında fikir alışverişinde bulunulacak ve ikili ilişkilerin zeminini güçlendirecek çeşitli belgeler imzalanacak.
 
 ---
