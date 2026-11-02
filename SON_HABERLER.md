@@ -2,9 +2,27 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'da ortaklık yapısı değişiyor: Anadolu Grubu ve Vestel paylarını devrediyor
+
+**Ekonomi · Türkiye** · 2026-11-02 23:31 UTC · Kaynak: [Google Haberler - Togg](https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874)
+
+> Turkcell'in Togg'daki payı işlem tamamlanınca yüzde 34'e çıkacak.
+
+Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamalara göre Togg'un ortaklık yapısında değişiklik olacak.
+
+AG Anadolu Grubu Holding, Togg'daki yüzde 23'lük payının sermayenin yüzde 11'ine karşılık gelen bölümünü Turkcell'e, yüzde 12'sine karşılık gelen bölümünü Türkiye Varlık Fonu'na (TVF) devretmek üzere sözleşme imzaladı. Devir bedeli toplam 184 milyon avro olarak açıklandı ve kapanış tarihinde nakit ödenecek.
+
+Vestel Elektronik ise Togg'daki yüzde 23'lük payının tamamını 184 milyon avro karşılığında TVF'ye satacağını bildirdi. Vestel, satıştan elde edilecek tutarın en az yüzde 90'ının, elde edilme tarihinden itibaren 30 gün içinde nakdi banka kredilerine ilişkin vadesi gelmiş borçların ödenmesinde kullanılacağını açıkladı.
+
+Turkcell'in açıklamasına göre sözleşmedeki ön şartların tamamlanmasının ardından işlemin kapanışı planlanıyor; işlem tamamlandığında Turkcell'in Togg'daki payı yüzde 34'e yükselecek. Turkcell, yatırımın teknoloji altyapısı ve dijital hizmetler alanındaki yetkinlikleriyle stratejik uyum gösterdiğini belirtti.
+
+---
+
 ## Eskişehir Şehir Hastanesi'nin yeni başhekimi Prof. Dr. Mustafa Cem Algın oldu
 
-**Sağlık · Merkez** · 2026-11-02 22:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sehir-hastanesinin-yeni-bashekimi-belli-oldu)
+**Sağlık · Merkez** · 2026-11-02 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sehir-hastanesinin-yeni-bashekimi-belli-oldu)
+
+![](data/images/eskisehir-sehir-hastanesinin-yeni-bashekimi-pro-arsiv.jpg)
 
 > Algın, görevi Dr. Öğr. Üyesi Fatih Alper Ayyıldız'dan devraldı.
 
@@ -463,19 +481,5 @@ Vatandaşlar emlak vergisini ayrıca Tepebaşı Belediyesi hizmet binası veznel
 Eskişehir'in İnönü ilçesi İsmetpaşa Mahallesi'nde, Çınarlı Park yanındaki sokakta meydana gelen yol bozulması belediye ekiplerince onarıldı ve yol yeniden araç trafiğine açıldı.
 
 İnönü Belediye Başkanı Serhat Hamamcı'nın talimatıyla harekete geçen ekipler, bakım ve onarım çalışmasını kısa sürede tamamladı. Mahalle sakinlerinin, yolun yeniden trafiğe açılmasından memnuniyet duyduğu ve Hamamcı ile belediye ekiplerine teşekkür ettiği bildirildi.
-
----
-
-## Kurtuluş Kapalı Pazar Yeri'nde sona yaklaşıldı: 216 tezgâh, 150 araçlık otopark
-
-**Belediye · Merkez** · 2026-11-02 03:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-500-milyonluk-projede-sona-dogru)
-
-> Pazarcılar Odası Başkanı İsmail Oğuz, tesisin bahar aylarında tamamlanmasını bekliyor.
-
-Eskişehir Büyükşehir Belediyesi'nin yapımını sürdürdüğü Kurtuluş Kapalı Pazar Yeri projesinde sona yaklaşılıyor. Eskişehir Pazarcılar Odası Başkanı İsmail Oğuz, pazar yerinin bahar aylarında tamamlanmasını beklediklerini söyledi; tesisin planlanandan daha erken hizmete açılabileceği de gündeme geldi.
-
-Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın alan desteği sağladığı proje, Büyükşehir Belediyesi'nin yaklaşık 500 milyon liralık yatırımıyla yapılıyor. Tesiste 54 tezgâh öbeği içinde toplam 216 tezgâh alanı, 27 balıkçı tezgâhı, 17 et, kasap ve şarküteri dükkânı ile 40'a yakın soğuk hava deposu yer alacak.
-
-Projede ayrıca toplam 150 araç kapasiteli kapalı otopark bulunacak. Otoparkın 137 araçlık bölümü normal araçlara, 6 araçlık bölümü engelli vatandaşlara ayrılacak.
 
 ---
