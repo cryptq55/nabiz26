@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-02T06:32:25.281148+00:00",
+  "published_at": "2026-11-02T06:33:02.418570+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir etkinlik",
     "title": "Eskişehir’de Başkan Ünlüce Kırkalı Kadınlarla Kahvaltıda Buluştu - Milli İrade Gazetesi",
     "url": "https://www.milliirade.com/eskisehirde-baskan-unluce-kirkali-kadinlarla-kahvaltida-bulustu"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/baskan-unluce-eskisehir-kirkalilar-derneginin-k-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kaz%C4%B1m_Kurt,_Ay%C5%9Fe_%C3%9Cnl%C3%BCce,_Talat_Yalaz.jpg",
+    "archive": true,
+    "credit": "Erksahin / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

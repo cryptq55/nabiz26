@@ -20,10 +20,10 @@
     "title": "İnönü'deki yol sorunu çözüme kavuştu - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/inonudeki-yol-sorunu-cozume-kavustu-119509435"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Serhat Hamamcı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
