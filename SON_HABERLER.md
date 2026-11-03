@@ -4,7 +4,9 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 ## Tepebaşı Meclisi kıyafet bağış kutuları için Kızılay'la 3 yıllık iş birliğini kabul etti
 
-**Belediye · Tepebaşı** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi)
+**Belediye · Tepebaşı** · 2026-11-03 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi)
+
+![](data/images/tepebasi-meclisi-kiyafet-bagis-kutulari-icin-ki-arsiv.jpg)
 
 > Karar oy birliğiyle alındı; Ataç, mevcut firmanın işi bıraktığını söyledi.
 
