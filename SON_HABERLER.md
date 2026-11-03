@@ -2,9 +2,41 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor'un Türkiye Kupası 4. tur rakibi 4 Kasım'daki kurada belli olacak
+
+**Spor · Merkez** · 2026-11-03 09:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/ziraat-turkiye-kupasi-4-tur-kurasi-ne-zaman-saat-kacta-hangi-kanalda-eskisehirspor-rakibini-bekliyor-2447351)
+
+![](data/images/78489d749d15f6f8.jpg)
+
+> Kura 4 Kasım Çarşamba günü saat 15.30'da çekilecek.
+
+Ziraat Türkiye Kupası 4. eleme turu kura çekimi 4 Kasım 2026 Çarşamba günü yapılacak. Türkiye Futbol Federasyonu önce kuranın saat 14.00'te yapılacağını duyurmuştu; ertelenen Fethiyespor-Eyüpspor 3. tur maçının tamamlanması için düzenleme yapılması nedeniyle saat 15.30'a alındı.
+
+Kura, İstanbul Riva'daki TFF Hasan Doğan Millî Takımlar Kamp ve Eğitim Tesisleri'nde, Orhan Saka Konferans Salonu'nda kulüp temsilcilerinin katılımıyla yapılacak. Kaynakta, önceki turların kura çekimlerinin A Spor'dan canlı ve şifresiz yayınlandığı, yayın bilgisi için resmî yayın akışının kontrol edilmesi gerektiği belirtiliyor.
+
+Eskişehirspor, 3. turda Alagöz Holding Iğdır FK'yı Prof. Dr. Fethi Heper Stadı'nda 1-0 yenerek 4. tura çıktı. Golü 90+7. dakikada Kerem Baykuş attı. Eskişehirspor'un bir sonraki rakibi kurada belli olacak.
+
+---
+
+## Eskişehir'de Aile ve Sosyal Hizmetler personeline afet psikososyal destek eğitimi başladı
+
+**Gündem · Merkez** · 2026-11-03 09:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-sosyal-hizmet-personeline-afet-ve-acil-durumlarda-psikososyal-destek-egitimi-119510916)
+
+> Üç gün sürecek eğitimin açılışını İl Müdürü Orhan Bayrak yaptı.
+
+Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü personeline yönelik "Afet ve Acil Durumlarda Psikososyal Destek Eğitimi" başladı. Eğitim üç gün sürecek.
+
+Açılışta konuşan İl Müdürü Orhan Bayrak, Türkiye'nin deprem ve diğer afet riskleriyle karşı karşıya olduğunu, kurum personelinin afet bölgelerinde önemli görevler üstlendiğini söyledi. Bayrak, Gölcük ve Kahramanmaraş merkezli depremlerde ve Ağrı'daki trafik kazasında sahada edindiği tecrübeleri paylaştı.
+
+Afetlerde emniyet, jandarma ve sağlık ekipleri başta olmak üzere farklı kurumların görev yaptığını belirten Bayrak, sosyal hizmet personelinin engelli bireyler, kronik hastalar ve bebekli aileler gibi desteğe ihtiyaç duyan grupların belirlenmesi ve ihtiyaçlarının karşılanmasında rol aldığını anlattı. Bayrak, eğitimin interaktif bir çalışma olarak verimli geçmesini diledi.
+
+---
+
 ## Kurşunlu Külliyesi'nde kursiyerler tahliye öncesi eşyalarını toplamaya başladı
 
-**Gündem · Odunpazarı** · 2026-11-03 08:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/kursunlu-kulliyesinde-kursiyerler-esyalarini-toplamaya-basladi)
+**Gündem · Odunpazarı** · 2026-11-03 08:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/kursunlu-kulliyesinde-kursiyerler-esyalarini-toplamaya-basladi)
+
+![](data/images/kursunlu-kulliyesinde-kursiyerler-tahliye-onces-arsiv.jpg)
 
 > Odunpazarı Belediyesi tahliyeyi 3 Kasım saat 11.00'de yapacağını bildirdi.
 
@@ -16,7 +48,9 @@ Odunpazarı Kaymakamlığı, 30 Ekim'de mahkeme sürecini beklemek üzere durdur
 
 ## Ekim ayında en çok satan otomobil Togg T10X oldu: Togg iki modelle ilk dörtte
 
-**Ekonomi · Türkiye** · 2026-11-03 08:33 UTC · Kaynak: [Google Haberler - Togg](https://www.donanimhaber.com/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-oldu--212395)
+**Ekonomi · Türkiye** · 2026-11-03 08:34 UTC · Kaynak: [Google Haberler - Togg](https://www.donanimhaber.com/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-oldu--212395)
+
+![](data/images/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-old-arsiv.jpg)
 
 > Togg T10X 4.059, T10F 2.702 adetle ekimde elektrikli pazarın ilk iki sırasında.
 
@@ -449,33 +483,5 @@ Ataç, personel düzenlemesinin bütçedeki yüzde 40 sınırı çerçevesinde y
 Ruhsatlı silahların ve yivsiz av tüfeklerinin çocukların ve yetkisiz kişilerin ulaşamayacağı kilitli alanlarda saklanması için ülke genelinde bilgilendirme çalışması başlatıldı. Çalışmanın ilk aşamasında 7 ilde silah ruhsatı sahiplerine SMS gönderildi. Eskişehir, Bursa, Afyonkarahisar ve Erzurum'da ise yeni ruhsat başvurusu yapan ve ruhsatını yenileyen vatandaşlara yazılı tebligat yapılmaya başlandı. Uygulamanın diğer illerde de sürdüğü bildirildi.
 
 Eskişehir Tepebaşı Avcılık Atıcılık Balıkçılık İhtisas Spor Kulübü Derneği Başkan Yardımcısı Sercan Gözlev, konuya ilişkin değerlendirmesinde tüfeklerin yivli ve yivsiz olmak üzere ikiye ayrıldığını, her yivsiz tüfeğin av tüfeği olmadığını söyledi. Gözlev, "Halkımız tüfeklerini kilitli dolaplarda tutarsa istenmeyen olayların önüne geçilir" dedi. Gözlev, asayiş olaylarında kullanılan tüfeklerin çoğunun avda kullanılamayacağını, boyu kısa tüfeklerin avda kullanılmasının zaten yasak olduğunu belirtti.
-
----
-
-## Eskişehir'de ekimde aranan 582 şahıs yakalandı: 794 uygulama noktası kuruldu
-
-**Asayiş · Merkez** · 2026-11-02 07:37 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.eskisehir.net/eskisehirde-emniyet-ve-jandarmadan-aranan-sahislara-operasyon)
-
-![](data/images/eskisehirde-ekimde-aranan-582-sahis-yakalandi-7-arsiv.jpg)
-
-> Valilik koordinesinde emniyet ve jandarma ekipleri 1.978 personelle sahada görev aldı.
-
-Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekiplerinin Ekim ayı asayiş ve aranan şahıs operasyonlarının sonuçları açıklandı. 1-31 Ekim 2026 tarihleri arasında il genelinde 794 uygulama noktası kuruldu ve 1.978 personel sahada görev yaptı.
-
-Bir aylık çalışmada çeşitli suçlardan aranan 398 kişi dahil toplam 582 şahıs yakalandı. Yakalananlardan 146'sı 5 yıla kadar, 29'u 5 ile 10 yıl arasında, 9'u ise 10 yıl ve üzeri hapis cezasıyla aranıyordu. Emniyet ve jandarma birimlerinin denetimlere devam edeceği bildirildi.
-
----
-
-## Eskişehir'de ekimde 1308 okul servisi denetlendi, 31 kusurlu araç tespit edildi
-
-**Eğitim · Merkez** · 2026-11-02 07:37 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-okul-servisleri-ve-cevrelerinde-denetimler-yapildi-119509819)
-
-![](data/images/eskisehirde-ekimde-1308-okul-servisi-denetlendi-arsiv.jpg)
-
-> Valilik, okul çevrelerinde yüzlerce işletmenin de kontrol edildiğini açıkladı.
-
-Eskişehir Valiliği'nin açıklamasına göre İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri 1-31 Ekim tarihlerinde okul servisleri ve okul çevrelerinde denetim yaptı. 1308 okul servisi aracı ve şoförü denetlendi, 31 kusurlu servis aracı ve şoförü tespit edildi.
-
-Okul çevrelerinde 363 kahvehane, 237 market ve tekel bayisi, 7 oyun salonu ile 325 park ve bahçe kontrol edildi. Denetimlerde ayrıca 2 bin 639 kişinin sorgulaması yapıldı.
 
 ---
