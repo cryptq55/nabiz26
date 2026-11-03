@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 03.11.2026 21:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 2 haber 200. Derleme geçti (254 haber, venv ile). Son haber 21:32 TSİ; son 24 saatte 33 yayında haber (Gündem 7, Belediye 6, Ekonomi/Spor 5, Ulaşım/Eğitim 3, Tarım 2, Sağlık/Kültür-Sanat 1; ilçe Merkez 17, Tepebaşı 7, Odunpazarı 6, Türkiye 3), 5'inde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 8, reels kaydı 60. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Sağlık, Kültür-Sanat, Türkiye.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e nadir toprak, hentbol, Kepezspor, protokol, kuzu/hayvancılık, coğrafi işaret, tramvay seferleri, meclis üyeleri etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Spor/Sağlık kaynakları.
+SAHİBİNE: yok.
+
 ## 03.11.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200; yeni haberlerden biri 200, biri (Ali Güven Turizm Lisesi) 404: kaydında fotoğraf yok, sayfa üretilmiyor (beklenen). Derleme geçti (231 sayfa / 323 kayıt, venv ile). Son haber 08:32 TSİ; son 24 saatte 29 haber (Eğitim/Gündem 5, Belediye 4, Ulaşım/Ekonomi/Kültür-Sanat 3, Sağlık/Asayiş 2, Spor/Türkiye 1; ilçe Merkez 14, Tepebaşı 6, Odunpazarı 5, Türkiye 4), 7'sinde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 8. Yinelenen: "582 kişi/şahıs" ve "Kurşunlu Külliyesi" haberleri benzer (yayınlanmışlara dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Türkiye, Sağlık.
 **Düzeltilen:** yok.
