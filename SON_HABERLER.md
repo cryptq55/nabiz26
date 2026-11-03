@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 20. Eskişehir Uluslararası Film Festivali 16-24 Kasım'da, onur ödülleri açıklandı
+
+**Kültür-Sanat · Merkez** · 2026-11-03 23:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://m.haber7.com/kultur/haber/2737858-eskisehir-uluslararasi-film-festivali)
+
+> Onur ödülleri Itır Esen ve Macit Koper'e verilecek; festival bu yıl ilk kez iki yeni yarışma düzenleyecek.
+
+Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi (AÜ) ve AÜ İletişim Bilimleri Fakültesi tarafından bu yıl 20'ncisi düzenlenecek Eskişehir Uluslararası Film Festivali 16-24 Kasım'da yapılacak. Festivalin onur ödüllerini kazananlar açıklandı: ödüller oyuncular Itır Esen ve Macit Koper'e verilecek. Her iki oyuncu ödülünü festivalin açılış töreninde alacak.
+
+Türkiye'nin üniversite kimliği taşıyan uluslararası tek uzun metraj film festivali olarak tanıtılan etkinlik, bu yıl ilk kez "Kısa Film Yapım Destek" ve "Sinema Kültürüne Katkı" yarışmalarına yer verecek.
+
+Kaynakta Itır Esen'in 1975'ten itibaren Bizim Aile, Gülen Gözler, Aile Şerefi ve Cennetin Çocukları dahil toplam 8 filmde rol aldığı, Macit Koper'in ise sinemada hem oyuncu hem senarist olarak çalıştığı belirtiliyor.
+
+---
+
 ## Eskişehir'de Organ Bağışı Haftası kapsamında 5 Kasım'da yürüyüş düzenlenecek
 
 **Sağlık · Merkez** · 2026-11-03 22:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-organ-bagisi-icin-yuruyus-duzenlenecek)
@@ -431,19 +445,5 @@ Ziraat Türkiye Kupası 4. eleme turu kura çekimi 4 Kasım 2026 Çarşamba gün
 Kura, İstanbul Riva'daki TFF Hasan Doğan Millî Takımlar Kamp ve Eğitim Tesisleri'nde, Orhan Saka Konferans Salonu'nda kulüp temsilcilerinin katılımıyla yapılacak. Kaynakta, önceki turların kura çekimlerinin A Spor'dan canlı ve şifresiz yayınlandığı, yayın bilgisi için resmî yayın akışının kontrol edilmesi gerektiği belirtiliyor.
 
 Eskişehirspor, 3. turda Alagöz Holding Iğdır FK'yı Prof. Dr. Fethi Heper Stadı'nda 1-0 yenerek 4. tura çıktı. Golü 90+7. dakikada Kerem Baykuş attı. Eskişehirspor'un bir sonraki rakibi kurada belli olacak.
-
----
-
-## Eskişehir'de Aile ve Sosyal Hizmetler personeline afet psikososyal destek eğitimi başladı
-
-**Gündem · Merkez** · 2026-11-03 09:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-sosyal-hizmet-personeline-afet-ve-acil-durumlarda-psikososyal-destek-egitimi-119510916)
-
-> Üç gün sürecek eğitimin açılışını İl Müdürü Orhan Bayrak yaptı.
-
-Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü personeline yönelik "Afet ve Acil Durumlarda Psikososyal Destek Eğitimi" başladı. Eğitim üç gün sürecek.
-
-Açılışta konuşan İl Müdürü Orhan Bayrak, Türkiye'nin deprem ve diğer afet riskleriyle karşı karşıya olduğunu, kurum personelinin afet bölgelerinde önemli görevler üstlendiğini söyledi. Bayrak, Gölcük ve Kahramanmaraş merkezli depremlerde ve Ağrı'daki trafik kazasında sahada edindiği tecrübeleri paylaştı.
-
-Afetlerde emniyet, jandarma ve sağlık ekipleri başta olmak üzere farklı kurumların görev yaptığını belirten Bayrak, sosyal hizmet personelinin engelli bireyler, kronik hastalar ve bebekli aileler gibi desteğe ihtiyaç duyan grupların belirlenmesi ve ihtiyaçlarının karşılanmasında rol aldığını anlattı. Bayrak, eğitimin interaktif bir çalışma olarak verimli geçmesini diledi.
 
 ---
