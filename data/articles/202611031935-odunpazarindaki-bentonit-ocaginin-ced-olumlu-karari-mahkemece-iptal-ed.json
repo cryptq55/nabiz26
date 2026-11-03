@@ -21,10 +21,10 @@
     "title": "Eskişehir'de iki köyü ilgilendiren maden ocağı davasında karar çıktı! - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirde-iki-koyu-ilgilendiren-maden-ocagi-davasinda-karar-cikti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "TEMA Vakfı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
