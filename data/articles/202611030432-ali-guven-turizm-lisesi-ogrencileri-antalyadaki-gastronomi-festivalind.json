@@ -20,10 +20,10 @@
     "title": "Eskişehirli öğrenciler gastronomi festivalinde 15 madalya kazandı - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirli-ogrenciler-gastronomi-festivalinde-15-madalya-kazandi-119510006"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
