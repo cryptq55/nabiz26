@@ -2,6 +2,60 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kızılinler bal kabağı coğrafi işaret olarak tescillendi
+
+**Tarım · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirin-kizilinler-bal-kabagi-cografi-isaret-olarak-tescil-edildi-119511141)
+
+> Eskişehir'in tescilli coğrafi işaret sayısı 15'e çıktı, 5 ürünün başvurusu sürüyor.
+
+Eskişehir'in "Kızılinler bal kabağı", Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından coğrafi işaret olarak tescillendi. Eskişehir Ticaret Borsası'nda yapılan Coğrafi İşaret Tescil Belgesi Takdim Töreni'nde konuşan Vali Erdinç Yılmaz, coğrafi işaretin ürünün yetiştiği toprağı, iklimi, ustasının emeğini ve itibarını korumak olduğunu söyledi.
+
+Yılmaz, "Artık başka bir yerin kabağı 'Kızılinler' diye, başka bir yerin sucuğu 'Sivrihisar' diye satılamayacaktır" dedi. Eskişehir'in 15 tescilli coğrafi işareti bulunduğunu, 5 ürünün başvuru sürecinin ise devam ettiğini belirtti.
+
+TBMM Yapay Zeka Araştırma Komisyonu Başkanı ve AK Parti Eskişehir Milletvekili Fatih Dönmez, Türkiye'de 13 bin 700 bitki türü bulunduğunu, bunlardan 3 bin 700'ünün endemik olduğunu, Eskişehir'de bu sayının 221 olduğunu söyledi. Dönmez, tescil sürecinde emeği geçen Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz'a teşekkür etti. TÜRKPATENT Başkanı Muhammed Zeki Durak da Türkiye'nin coğrafi işaret sayısında dünyada ikinci sırada yer aldığını dile getirdi.
+
+---
+
+## Eskişehirspor-Kepezspor maçının biletleri satışta: fiyatlar 250 ile 1.200 TL arasında
+
+**Spor · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kepezspor-macinin-biletleri-satisa-cikti)
+
+![](data/images/8333c8f417680897.jpg)
+
+> Maç 7 Kasım Cumartesi saat 15.30'da oynanacak.
+
+Nesine 3. Lig'in 10. haftasında oynanacak Eskişehirspor-Kepezspor maçı 7 Kasım Cumartesi günü saat 15.30'da başlayacak. Biletler Espark AVM ve stadyum gişelerinden alınabilecek.
+
+Bilet fiyatları kale arkası 250 TL, maraton alt 350 TL, maraton üst 500 TL ve Batı VIP 1.200 TL olarak açıklandı. Satışlar 3-6 Kasım tarihlerinde Espark AVM'de 13.00-20.00 saatleri arasında yapılacak. Maç günü stadyum Passo gişelerinde saat 10.00'dan 15.30'a kadar satış sürecek. Hem Espark AVM'de hem stadyum gişelerinde yalnızca nakit ödeme kabul edilecek.
+
+---
+
+## "Bi' Fikirle Eskişehir" projesi: Porsuk Çayı ve köprüleri yeni aydınlatmaya kavuştu
+
+**Belediye · Merkez** · 2026-11-03 12:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-katilimci-butceyle-belirlenen-proje-tamamlandi-porsuk-cayi-ve-kopruler-aydinlatildi-2d53c6fa)
+
+> Vatandaş önerileriyle belirlenen 26 projeden biri tamamlandı.
+
+Eskişehir Büyükşehir Belediyesi'nin "Bi' Fikirle Eskişehir" projesi kapsamında vatandaşların önerileriyle belirlenen 26 proje etaplar halinde hayata geçiriliyor. Bunlardan "Porsuk Çayı ve Köprüleri Aydınlatma Projesi" tamamlandı. Proje, Strateji Geliştirme Dairesi Başkanlığı'nın geçen yıl yaptığı katılımcı bütçe uygulamasında vatandaşlardan gelen ve yine vatandaşlarca değerlendirilen önerilerden biri olarak "2026 Eskişehir Yılı" kapsamında yapıldı.
+
+Çalışmaları Yol Yapım Bakım ve Onarım Dairesi Başkanlığı elektrik ekipleri yürüttü. İlk etapta İki Eylül Caddesi Tramvay Köprüsü aydınlatıldı; ardından Şair Fuzuli Caddesi Araç Köprüsü, Atatürk Caddesi Araç Köprüsü ile Porsuk-1, Porsuk-2, Porsuk-3 ve Porsuk-4 yaya köprülerinde görsel aydınlatma uygulandı. Projeyle Porsuk Çayı'nın gece görünümünün iyileştirilmesi ve kent merkezinin akşam saatlerinde daha aydınlık olması hedefleniyor.
+
+---
+
+## 14. Uluslararası Eskişehir Şiir Buluşması 13 Kasım'da başlıyor: 13 şair katılacak
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-03 12:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/14-uluslararasi-eskisehir-siir-bulusmasi-icin-geri-sayim-basladi-3-ulkeden-13-sair-tepebasi-nda-bulusacak-0f5f2165)
+
+![](data/images/15a0035640582a57.jpg)
+
+> Etkinlik 13-15 Kasım'da Özdilek Sanat Merkezi ve Atila Özer Karikatürlü Ev'de yapılacak.
+
+Tepebaşı Belediyesi'nin bu yıl 14'üncüsünü düzenleyeceği Uluslararası Eskişehir Şiir Buluşması 13 Kasım Cuma günü başlayacak. Açılış töreni 13 Kasım'da saat 18.30'da Özdilek Sanat Merkezi'nde yapılacak. Üç gün sürecek buluşmaya Mısır ve Fransa'dan 2, Türkiye'den 11 şair katılacak; şiir okumaları, oturumlar ve müzik dinletileri yapılacak.
+
+Etkinlikler 13 ve 14 Kasım'da Özdilek Sanat Merkezi'nde, 15 Kasım'da Atila Özer Karikatürlü Ev'de düzenlenecek ve tüm Eskişehirlilere açık olacak. Belediye Başkanı Ahmet Ataç, kent sakinlerini etkinliklere davet etti. Ataç, şiirin farklı ülkelerden ve düşüncelerden insanları buluşturan güçlü bir dil olduğunu söyledi.
+
+---
+
 ## Tepebaşı'nın "Gel Beraber Olsun" yemek projesi yeni adresinde 2 bin 30 öğrenciye ulaştı
 
 **Belediye · Tepebaşı** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://gazetekalem.com.tr/tepebasi-belediyesinin-gel-beraber-olsun-projesi-yeni-adresinde-ogrencileri-agirliyor/)
@@ -18,7 +72,9 @@ Projeyi ziyaret eden Belediye Başkanı Ahmet Ataç, öğrencilerle yemek yedi, 
 
 ## Kurşunlu Külliyesi'nde tahliye bildirildi: Kurt "Kararı tanımıyoruz" dedi
 
-**Gündem · Odunpazarı** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.medyagazete.com/haber/kursunlu-kulliyesinde-tahliye-gerginligi)
+**Gündem · Odunpazarı** · 2026-11-03 11:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.medyagazete.com/haber/kursunlu-kulliyesinde-tahliye-gerginligi)
+
+![](data/images/kursunlu-kulliyesinde-tahliye-bildirildi-kurt-k-arsiv.jpg)
 
 > Odunpazarı Belediye Başkanı Kurt, külliyede basın açıklaması yaptı.
 
@@ -34,7 +90,9 @@ Haber Kurt'un açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge M
 
 ## Başkan Ünlüce Porsuk Barajı'nda inceleme yaptı: "Eskişehir'in suyuna sahip çıkacağız"
 
-**Gündem · Merkez** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-porsuk-baraji-nda-inceleme-710bfb95)
+**Gündem · Merkez** · 2026-11-03 11:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-porsuk-baraji-nda-inceleme-710bfb95)
+
+![](data/images/baskan-unluce-porsuk-barajinda-inceleme-yapti-e-arsiv.jpg)
 
 > Ünlüce, ESKİ yetkilileriyle barajdaki mevcut durumu değerlendirdi.
 
@@ -405,69 +463,5 @@ Kurt'un aktardığına göre belediye meclis üyesi Sibel Yeşildal belediye ba�
 Müdür vekilliklerine Merve Sadıç (Gençlik ve Spor Hizmetleri), Alper Eseroğlu (İşletme ve İştirakler), İhsan Araz (Ruhsat ve Denetim), Ercan Temel (Afet İşleri ve Risk Yönetimi) ve İlker Ardıç (Bilgi İşlem) atandı. Kurt, atananların görevlerine başladığını söyledi.
 
 Kurt ayrıca belediyede yapılan denetimlere ilişkin raporları grup başkanvekillerine sunduklarını, raporları meclisin bilgisine de sunduklarını belirtti.
-
----
-
-## Eskişehir'de Karadeniz Festivali 13-15 Kasım'da: 1 ton hamsi ikram edilecek
-
-**Kültür-Sanat · Merkez** · 2026-11-02 15:56 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/eskisehirde-karadeniz-festivali-basliyor-1-ton-hamsi-ikram-edilecek)
-
-> Festivalde İsmail Türüt ve Onay Şahin sahne alacak.
-
-Eskişehir Karadenizliler Derneği öncülüğünde düzenlenecek Karadeniz Festivali, 13-14-15 Kasım 2026 tarihlerinde Vişnelik Mahallesi'ndeki Dede Korkut Parkı'nda yapılacak. Festival, Baş Fuar ve Organizasyon iş birliğiyle düzenleniyor.
-
-Üç gün sürecek etkinlikte İsmail Türüt, Onay Şahin, Mithat Körler, Hakan Köntek, Filiz Yıldırım, Efe Karagüzel, Hamit Çakıcı ve Mehmet Durak sahne alacak. Program şöyle: 13 Kasım Cuma İsmail Türüt ve Filiz Yıldırım; 14 Kasım Cumartesi Onay Şahin, Hamit Çakıcı ve Mithat Körler; 15 Kasım Pazar Hakan Köntek ve Efe Karagüzel.
-
-Ziyaretçilere 13 Kasım'da karalahana çorbası, 14 Kasım'da 1 ton hamsi, 15 Kasım'da kuymak ikram edilecek. Festival alanında horon, kemençe ve tulum gösterileri, Karadeniz'in yöresel ürünlerinin satıldığı stantlar ve çocuklar için oyun alanları da bulunacak.
-
----
-
-## Odunpazarı Belediye Meclisi Sağlıklı Kentler Birliği'nden ayrılma kararı aldı
-
-**Belediye · Odunpazarı** · 2026-11-02 14:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/odunpazari-belediyesinden-flas-ayrilik-karari-mecliste-karar-alindi)
-
-> Karar oy çokluğuyla kabul edildi; AK Parti grubu ret oyu kullanacağını açıkladı.
-
-Odunpazarı Belediye Meclisi, belediyenin Sağlıklı Kentler Birliği üyeliğinden ayrılmasına ilişkin gündem maddesini oy çokluğuyla kabul etti.
-
-Yeni Parti Grup Başkanvekili Emre Genç, birliğin bundan sonraki süreçte sağlıklı bir şekilde faaliyet sürdüremeyeceğini düşündüklerini söyledi. Genç, birçok belediyenin birlik toplantılarına katılmadığını ve ayrılma kararı aldığını belirterek maddeye kabul oyu vereceklerini açıkladı.
-
-AK Parti Grup Başkanvekili Mehmet Kepez ise maddenin siyasi bir tavır olarak gündeme geldiğini düşündüklerini belirtti. Kepez, birliğin başkanının siyasi parti değiştirerek önce bağımsız olmasına, ardından AK Parti'ye geçmesine tepki olarak karar getirildiğini savundu. Kepez, birlik başkanları farklı partiden olduğunda iyi çalışacağı, AK Partili olduğunda çalışamayacağı yönündeki anlayışı doğru bulmadıklarını söyleyerek AK Parti grubunun ret oyu kullanacağını ifade etti.
-
-Haber, Odunpazarı Belediye Meclisi'ndeki konuşmalara dayanıyor; birliğin görüşü kaynakta yer almıyor.
-
----
-
-## ESOGÜ'de "Bilinçli Anneler, Güvende Nesiller" projesinin açılışı yapıldı
-
-**Eğitim · Merkez** · 2026-11-02 14:33 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2149)
-
-> Proje annelerin hukuki ve sosyal donanımını, çocukların güvenli yaşam farkındalığını hedefliyor.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ), Kadın ve Demokrasi Derneği (KADEM) Eskişehir Temsilciliği ve Eskişehir İl Milli Eğitim Müdürlüğü iş birliğinde yürütülen "Bilinçli Anneler, Güvende Nesiller" projesinin açılış programı ve ihtiyaç belirleme çalıştayı ESOGÜ ev sahipliğinde yapıldı. Etkinliğe Rektör Prof. Dr. Emine Gümüşsoy ile Rektör Yardımcısı Prof. Dr. Şerife Yücesoy Özkan katıldı. Kongre ve Kültür Merkezi'ndeki programda KADEM Eskişehir İl Temsilcisi Mehtap Özkaya ve İl Milli Eğitim Müdürü Sinan Aydın açılış konuşması yaptı.
-
-Rektör Gümüşsoy'un aktardığına göre proje, Eskişehir'in merkez dışındaki ilçelerinde yaşayan annelerin hukuki ve sosyal donanımını artırmayı, şiddetsiz ve sağlıklı iletişim becerilerini geliştirmeyi, çocukların ise kişisel sınırlarını, beden güvenliklerini ve duygusal becerilerini desteklemeyi amaçlıyor. Anne ve çocuk eş zamanlı bir güçlenme modeliyle ele alınıyor: Anneler hukuki haklar, KADES, ŞÖNİM ve olumlu ebeveynlik konularında bilinçlenirken çocuklar oyun temelli eğitimlerle güvenli yaşam farkındalığı kazanacak. Eğitimlerin ardından tematik sanat atölyeleri yapılacak.
-
-Gümüşsoy, ESOGÜ'nün akademisyen kadrosu ve gönüllü gençleriyle projenin bilimsel ve akademik paydaşı olduğunu söyledi.
-
----
-
-## Altın fiyatları 2 Kasım 2026: Gram altın 6.373,02 TL
-
-**Ekonomi · Merkez** · 2026-11-02 14:14 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261102.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.299,44 TL'den alınıyor, 6.373,02 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 17.14 itibarıyla verilerine göre gram altının satış fiyatı 6.373,02 TL, alış fiyatı 6.299,44 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,72 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.387 TL, yarım altın 20.768 TL, tam altın 41.384 TL, ata altın 42.490 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.952,73 TL, has altının gram fiyatı 6.353,96 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.942,60 dolardan işlem görürken, dolar/TL 49,99 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 17.14 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
