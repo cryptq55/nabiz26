@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T17:32:00.518013+00:00",
+  "published_at": "2026-11-03T17:33:26.991970+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Bakan Bayraktar, Eskişehir'deki nadir toprak elementleri için Güney Koreli şirketle görüştü - Cumhuriyet",
     "url": "https://www.cumhuriyet.com.tr/siyaset/bakan-bayraktar-eskisehir-deki-nadir-toprak-elementleri-icin-guney-koreli-sirketle-gorustu-2552995"
   },
-  "photo_pending": {
-    "query": [
-      "Alparslan Bayraktar"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/bayraktar-beylikovadaki-nadir-toprak-elementler-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Alparslan_Bayraktar_(cropped)_2.jpg",
+    "archive": true,
+    "credit": "T.C. Enerji ve Tabii Kaynaklar Bakanlığı / T.R. Ministry of  / Wikimedia Commons (CC BY 4.0)"
   }
 }
