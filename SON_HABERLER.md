@@ -2,6 +2,30 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Ali Güven Turizm Lisesi öğrencileri Antalya'daki gastronomi festivalinde 15 madalya aldı
+
+**Eğitim · Merkez** · 2026-11-03 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirli-ogrenciler-gastronomi-festivalinde-15-madalya-kazandi-119510006)
+
+> Öğrenciler 6 altın, 7 gümüş ve 2 bronz madalya aldı.
+
+Eskişehir'deki Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri, Antalya'da bu yıl 7'ncisi düzenlenen Game of Food Konyaaltı Uluslararası Gastronomi Festivali'nde 15 madalya kazandı.
+
+İl Milli Eğitim Müdürlüğü'nün açıklamasına göre farklı kategorilerde yarışan öğrenciler 6 altın, 7 gümüş ve 2 bronz madalya elde etti.
+
+---
+
+## Tepebaşı'nda Kırım Caddesi 3-4 Kasım'da asfalt çalışması için trafiğe kapanacak
+
+**Ulaşım · Tepebaşı** · 2026-11-03 04:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirin-islek-caddesi-2-gun-trafige-kapatilacak)
+
+> Kapatma saat 08.30-17.30 arasında uygulanacak, alternatif güzergah açıklandı.
+
+Eskişehir Büyükşehir Belediyesi, Tepebaşı ilçesindeki Kırım Caddesi'nde asfalt bakım ve onarım çalışması yapılacağını duyurdu. Caddenin Gazi Yakup Satar Caddesi ile Sakarya 1 Caddesi arasında kalan bölümü 3 Kasım Salı ve 4 Kasım Çarşamba günleri saat 08.30 ile 17.30 arasında araç trafiğine kapalı olacak.
+
+Çalışmayı Yol Yapım Bakım ve Onarım Dairesi Başkanlığı yürütecek. Belediye sürücülerden alternatif güzergah olarak İsmail Gaspıralı Caddesi üzerinden Hasan Polatkan Caddesi'ni kullanmalarını ve trafik işaret ve işaretçilerine uymalarını istedi. Yolun kapalı olduğu saatlerde acil durum araçlarının geçişi trafik güvenlik ekiplerince sağlanacak.
+
+---
+
 ## Bakan Kacır: Togg 2026'da 60 bine yakın teslimat hedefliyor, gelecek yıl kapasite 100 bin
 
 **Ekonomi · Türkiye** · 2026-11-03 02:32 UTC · Kaynak: [Google Haberler - Togg](https://www.toplumsal.com.tr/haber/togg-da-gelecek-yil-100-bin-kapasite-hedefleniyor_32622/)
@@ -455,37 +479,5 @@ Etkinliğe Odunpazarı Belediye Başkanı Kazım Kurt, Tepebaşı Belediye Başk
 Cumhuriyet'in 103. yıl dönümü dolayısıyla yapılan söyleşide Kulin, Cumhuriyet'in tarihsel önemini ve çocukluk anılarını anlattı. "İşgal altındaki bir ülkenin kazandığı Kurtuluş Savaşı, benim için bir mucizedir" diyen Kulin, "Biz onu tırnaklarımızla kazandık" ifadesini kullandı. Dedesinin Harf Devrimi'ne ilişkin tutumunu anlatan Kulin, edebiyatın yalnızca hikâye anlatmak olmadığını, toplumsal sorunlara dikkat çekme sorumluluğu taşıdığını söyledi. Kulin'in Kurşunlu Külliyesi'ndeki müzelerin tahliyesi tartışmasına ilişkin sözleri de söyleşinin dikkat çeken başlıklarından biri oldu.
 
 Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
-
----
-
-## Porsuk'taki Aşk Adası iskele, ahşap teras ve yeşil alanla yenilenecek
-
-**Belediye · Odunpazarı** · 2026-11-02 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-ask-adasina-yeni-duzenleme-yapilacak-iste-edinilen-bilgiler-2445126)
-
-> 13 bin 693 metrekarelik adada tehlikeli bitki örtüsü temizlendi, ağaçlara budama yapıldı.
-
-Eskişehir'de Odunpazarı ilçesi Gökmeydan Mahallesi'ndeki Aşk Adası için yeni bir düzenleme projesi hazırlandı. 19 Mayıs Caddesi üzerinde, Porsuk Çayı'nın yapay bir kanalla ayrılan bölümünde bulunan adada iskele, ahşap teraslar ve yeşil alan düzenlemeleri yapılması planlanıyor. Projeyle adanın mevcut yapısının korunarak vatandaşların daha fazla yararlanabileceği bir alana dönüştürülmesi hedefleniyor.
-
-13 bin 693 metrekarelik adaya ulaşım yalnızca yaya köprüsünden sağlanıyor. En az 20 yıllık geçmişi bulunan adaya araç girişi olmaması bitki örtüsüne yönelik bakım çalışmalarını zorlaştırmıştı. Yaşlı kavak ve söğüt ağaçlarının çürümesi ve dallarının kırılması nedeniyle güvenlik riski oluştuğu belirtildi.
-
-Aşk Adası İskele Projesi kapsamında Porsuk yatağı üzerinden araç girişine imkân veren bir yol oluşturuldu. Böylece adadaki kurumuş ve tehlike yaratan bitki örtüsü temizlendi, mevcut ağaçlar için dal budama çalışması yapıldı.
-
-Suyla bütünleşen bir tasarımın benimsendiği projede, teknelerin yanaşabilmesi için su içinde ahşap teraslar ve iskele alanları planlandı. Adanın doğal yükseklik farklarından yararlanılarak yeni kullanım alanları oluşturulması öngörülüyor.
-
----
-
-## Tepebaşı'nda emlak vergisi mobil vezne takvimi: 2-30 Kasım'da mahalle mahalle
-
-**Belediye · Tepebaşı** · 2026-11-02 04:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/eskisehirde-emlak-vergisi-odeyecekler-dikkat-mobil-vezne-mahalle-mahalle-dolasacak)
-
-![](data/images/69f21b0c6bf5c991.jpg)
-
-> Mobil vezne 09.00-12.00 ve 13.00-16.00 saatleri arasında hizmet verecek.
-
-Tepebaşı Belediyesi, kasım ayında emlak vergisi ödemeleri için mobil vezne uygulamasını sürdürecek. 2 Kasım'da başlayacak program kapsamında mobil vezne aracı, 30 Kasım'a kadar belirlenen takvime göre mahalleleri dolaşacak. Araç sabah 09.00-12.00, öğleden sonra 13.00-16.00 saatleri arasında hizmet verecek.
-
-Belediyenin paylaştığı takvime göre ilk günler şöyle: 2 Kasım Sakintepe, 3 Kasım Uluönder, 4 Kasım Batıkent, 5 Kasım Hayriye (Muhtarlığı önü), 6 Kasım Yeni Mahalle ve Şeker, 7 Kasım Ömerağa ve Güllük, 8 Kasım Bahçelievler Muhtarlığı önü, 9 Kasım Işıklar Muhtarlığı önü, 10 Kasım Şirintepe, 11 Kasım Bahçelievler, 12 Kasım Ertuğrulgazi, 13 Kasım Şarhöyük. Ayın kalan günleri için takvimde Zincirlikuyu, Yaşamkent, Söğütönü, Kumlubel, Çamlıca, Tunalı, Fevziçakmak, Zafer, Sazova, Sütlüce, Esentepe ve Yeşiltepe mahalleleri ile Metin Özöğüt Yaşam Merkezi yer alıyor; 28 ve 29 Kasım'da vezne merkez binada olacak, 30 Kasım'da Yeşiltepe'ye gidecek.
-
-Vatandaşlar emlak vergisini ayrıca Tepebaşı Belediyesi hizmet binası vezneleri (08.00-16.30), Odunpazarı Belediyesi hizmet binası veznesi (09.00-16.00) ve Tapu ve Kadastro 17. Bölge Müdürlüğü veznesinde (08.00-15.30) ödeyebilecek.
 
 ---
