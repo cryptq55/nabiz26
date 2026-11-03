@@ -2,6 +2,48 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı Meclisi kıyafet bağış kutuları için Kızılay'la 3 yıllık iş birliğini kabul etti
+
+**Belediye · Tepebaşı** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi)
+
+> Karar oy birliğiyle alındı; Ataç, mevcut firmanın işi bıraktığını söyledi.
+
+Tepebaşı Belediye Meclisi kasım ayı toplantısında, ilçedeki kıyafet bağış kutularına ilişkin Türk Kızılay ile üç yıllık iş birliği yapılmasını oy birliğiyle kabul etti. Konu, Türk Kızılay Eskişehir İl Başkanlığı'nın belediyeye gönderdiği yazı üzerine gündeme geldi. Kızılay'ın yürüttüğü "İkinci El Tekstil Projesi", kullanılabilir durumdaki kıyafetlerin yeniden değerlendirilmesini, atık miktarının azaltılmasını ve insani yardım faaliyetlerine düzenli kaynak oluşturulmasını amaçlıyor.
+
+Düzenlemeye göre belediyenin uygun göreceği noktalara Kızılay Kıyafet Bağış Kutuları yerleştirilecek; kutuların yerlerini belediye belirleyecek. Meclis, Belediye Başkanı Ahmet Ataç'a protokolü imzalaması için yetki verdi. Ataç, görüşme sırasında kıyafet toplama faaliyetlerini yürüten mevcut firmanın işi bıraktığını açıkladı.
+
+---
+
+## Kurşunlu Külliyesi'nde tahliye işlemleri başladı: kadın girişimciler kapıları açmadı
+
+**Gündem · Odunpazarı** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.birgun.net/haber/kapisina-kilit-vuruldu-744323)
+
+![](data/images/eb2ad55ff67d6903.jpg)
+
+> BirGün'e göre eserler kayıt altına alındı, külliyenin kapısına kilit vuruldu.
+
+BirGün'ün aktardığına göre Kurşunlu Külliyesi'nin 3 Kasım saat 11.00'e kadar boşaltılmasını isteyen tebligatın süresinin dolmasıyla tahliye işlemleri başladı. İlk olarak Ahşap Eserler Müzesi'nin bulunduğu binada işlem yapıldı, ardından diğer müze ve atölyelere geçildi. Eserlerin kayıt altına alınmasını isteyen belediye yetkilileri, sayım yapılmadan tahliye edilmek istenmesine itiraz etti; eserler cep telefonlarıyla görüntülenerek tutanak tutuldu. Bazı noktalarda esnafın tepkisi üzerine görevliler tutanak tuttu.
+
+Külliyede faaliyet gösteren kadın girişimciler, Lületaşı Müzesi'nin boşaltılmasına tepki göstererek Vakıflar Bölge Müdürlüğü ve Kaymakamlık yetkililerini içeri almadı. Yetkililerin polis çağırmak istemesi üzerine belediye görevlileri araya girdi. Osman Yaşar Tanaçan'ın kızı Vicdan Tanaçan, kendi atölyesinin fotoğraflarını çekerek kayıt altına aldığını ve anahtarı yetkililere teslim ettiğini söyledi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, tahliyenin hukuka aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen düzenlemeyle belediyeye beş yıl daha kiracı olma hakkı tanındığını, bu kapsamdaki başvurunun sonuçlandırılmadığını söyledi. Kurt, "Hiçbir şeyi imzalamayacağız, çünkü bu kararı tanımıyoruz" dedi; Vakıflar ve Kültür Bakanlığı'nın külliye için planının belli olmadığını belirtti. Külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi, Cam Sanatları Merkezi ve Canan Atasoy Müzesi ile kurs ve atölyeler bulunuyor.
+
+Haber BirGün'ün aktardığı bilgilere ve belediye yetkililerinin açıklamalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün ve Kaymakamlığın görüşü kaynakta yer almıyor.
+
+---
+
+## Eskişehir'de "Erken Tanı ile Kuzularım Ölmüyor" projesi için protokol imzalandı
+
+**Tarım · Merkez** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kuzu-olumlerini-azaltacak-protokol-imzalandi)
+
+> Proje 2027-2028'de 5 ilçede uygulanacak.
+
+Eskişehir İl Tarım ve Orman Müdürlüğü ile Eskişehir Bilecik Bölgesi Veteriner Hekimler Odası, kuzu ölümlerinin azaltılması ve hayvansal verimliliğin artırılması amacıyla iş birliği protokolü imzaladı. Protokol, "Erken Tanı ile Kuzularım Ölmüyor" projesi kapsamında imzalandı.
+
+2027-2028 yıllarında uygulanması planlanan proje Sivrihisar, Günyüzü, Çifteler, Seyitgazi ve Tepebaşı ilçelerini kapsayacak. Kuzularda doğum sonrası erken dönemde görülen hastalıkların hızlı teşhis edilmesi, uygun tedavi yöntemlerinin uygulanması ve koruyucu veteriner hekimlik hizmetlerinin yaygınlaştırılması hedefleniyor. Protokolle veteriner hekimlere akademisyenler ve uzmanlar tarafından eğitim verilecek, standart teşhis ve tedavi yöntemleri geliştirilecek. Projenin temel hedefi kuzu ölümlerini azaltmak, yetiştiricilerin ekonomik kayıplarını önlemek ve küçükbaş hayvancılığın sürdürülebilirliğine katkıda bulunmak.
+
+---
+
 ## Kırım Kavşağı'ndaki kaza tramvay seferlerini yaklaşık 40 dakika aksattı
 
 **Ulaşım · Merkez** · 2026-11-03 13:34 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.gzt26.com/eskisehirde-trafik-kazasi-tramvay-seferlerini-durdurdu)
@@ -18,7 +60,9 @@ ESTRAM, Şehir Hastanesi ile Otogar arasında tramvay seferlerini alternatif iş
 
 ## YENİ Partili meclis üyeleri Kurşunlu Külliyesi için uzlaşma çağrısı yaptı
 
-**Gündem · Odunpazarı** · 2026-11-03 13:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/yeni-partili-meclis-uyelerinden-kursunlu-kulliyesi-icin-uzlasma-cagrisi)
+**Gündem · Odunpazarı** · 2026-11-03 13:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/yeni-partili-meclis-uyelerinden-kursunlu-kulliyesi-icin-uzlasma-cagrisi)
+
+![](data/images/yeni-partili-meclis-uyeleri-kursunlu-kulliyesi--arsiv.jpg)
 
 > Üyeler külliyenin Odunpazarı Belediyesi'nde kalmasını talep etti.
 
@@ -415,55 +459,5 @@ AK Partili üyeler, belediyenin yürütmeyi durdurma talebinin mahkeme tarafınd
 AK Partili üyeler belediyeden üç konuda açıklama istedi: külliyenin gelir-gider tablosu, Vakıflar'ın gönderdiği ihtarlara verilen yanıtlar ve 2014'ten bu yana ecrimisil nedeniyle çıkarıldığı öne sürülen kiracıların listesi. Bu konuları Belediye Meclisi'ne yazılı soru önergesi olarak sunacaklarını belirttiler.
 
 Haber AK Partili meclis üyelerinin açıklamasına dayanıyor. Odunpazarı Belediyesi'nin bu iddialara yanıtı kaynakta yer almıyor; belediyenin görüşleri için bu sitedeki önceki haberlere bakılabilir.
-
----
-
-## Tepebaşı Belediyesi'nin üniversite öğrencilerine ücretsiz akşam yemeği bu yıl da sürüyor
-
-**Belediye · Tepebaşı** · 2026-11-02 19:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/ahmet-atac-duyurdu-universite-ogrencilerine-desteklerimiz-devam-ediyor)
-
-> Başkan Ataç öğrencilerle Ali Rıza Efendi Deneyimli Kafe'de yemek yedi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, üniversite öğrencilerine yönelik 2022'de başlatılan ücretsiz akşam yemeği uygulamasının bu yıl da devam ettiğini açıkladı. Ataç, Ali Rıza Efendi Deneyimli Kafe'de öğrencilerle bir araya geldi, eğitim hayatı ve günlük yaşam üzerine sohbet etti.
-
-Ataç, "Üniversite okumak bugünün Türkiye'sinde hiç kolay değil. Ekonomik zorluklar ortada. Gençlerimizin bir öğün yemeğini biz düşünelim, ailelerin bütçesine de bir nebze katkımız olsun istiyoruz" dedi. Öğrencilere seslenen Ataç, "Afiyet olsun gençler, soframız, kapımız sizlere daima açık" ifadelerini kullandı.
-
-Açıklamada uygulamadan bugüne kaç öğrencinin yararlandığına ve günlük dağıtılan yemek sayısına ilişkin bilgi verilmedi.
-
----
-
-## Odunpazarı Meclisi'nde Kurşunlu Külliyesi tartışması: Kurt ve Kepez farklı görüşte
-
-**Gündem · Odunpazarı** · 2026-11-02 18:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurt-sert-konustu-hic-kimseye-bir-sey-teslim-etmiyoruz)
-
-![](data/images/odunpazari-meclisinde-kursunlu-kulliyesi-tartis-arsiv.jpg)
-
-> Kurt belediyenin külliye giderlerini açıkladı, Kepez Vakıflar'ın mülk sahipliğini vurguladı.
-
-Odunpazarı Belediyesi kasım ayı meclis toplantısında Kurşunlu Külliyesi'nin tahliyesi gündeme geldi. Belediye Başkanı Kazım Kurt ve AK Parti Grup Başkanvekili Mehmet Kepez farklı görüşler dile getirdi.
-
-Kurt'un anlattığına göre külliye 2004'ten bu yana Odunpazarı Belediyesi tarafından kültür ve sanat hizmetlerine tahsis edilen bir alan. Belediyenin 1 Ocak-30 Ekim 2026 arasındaki külliye harcamalarını açıklayan Kurt, ortak alanların, müzenin ve işyerlerinin elektriği için 409 bin 523 lira, doğal gaz için 443 bin 366 lira, temizlik personeli için 794 bin 873 lira, güvenlik personeli için 3 milyon 238 bin 286 lira ve cam sanatları atölyesinin oksijen tesisatı ile diğer giderleri için yaklaşık 134 bin lira harcandığını, toplamın 6 milyon 26 bin liraya ulaştığını söyledi. Kurt, külliyede 18 kurs öğretmeni, teknisyen ve cam sanatçısının çalıştığını, 14 küçük işletmenin bulunduğunu belirtti.
-
-Kurt, kira sözleşmesinin beş yıl uzatılmasına olanak tanıyan düzenlemeye süresi içinde başvurduklarını, Vakıflar'ın yanıt vermemesi üzerine "zımnen ret" kabul ederek dava açtıklarını, yargılamanın sürdüğünü ve mahkemenin yürütmeyi durdurma kararı vermediğini söyledi. Kaymakamlığın 3 Kasım 2026'da külliyenin boşaltılmasını bildirdiğini, ortada mahkeme kararı bulunmadığını savundu.
-
-Kepez ise külliyenin boşaltılmasının AK Parti'yle ilgisi olmadığını söyledi. Külliye yargı kararıyla belediyeden alınsa bile AK Parti'nin orayı bir derneğe vermek gibi bir düşüncesi ve yetkisi bulunmadığını belirten Kepez, Vakıfların mülk sahibi olduğunu, kendi envanterini çıkararak kiraları tahsil etmeye çalıştığını, İl Tarım Müdürlüğü binasından ve bazı valiliklerden de kira istediğini ifade etti. Kepez, Vakıflarla kira konusunda uzlaşı sağlanamamasının belediyenin sorunu olduğunu ve bunun AK Parti'ye fatura edilmesinin doğru olmadığını söyledi.
-
-Haber meclis konuşmalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün ve Kaymakamlığın bu açıklamalara ilişkin görüşü kaynakta yer almıyor.
-
----
-
-## ESKİ: Çankaya'daki hat çalışması nedeniyle 6 mahallede su kesintisi sürecek
-
-**Gündem · Merkez** · 2026-11-02 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eski-duyurdu-eskisehirde-6-mahallede-su-kesintisi-devam-edecek)
-
-![](data/images/6a574e4b0b8b5689.jpg)
-
-> Bağlantı tamamlanınca sisteme kademeli olarak su verilecek.
-
-Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğü (ESKİ), Çankaya Mahallesi Özlem Caddesi'nde yürütülen içme ve kullanma suyu isale hattı bağlantı çalışmalarının sürdüğünü bildirdi.
-
-ESKİ'nin yazılı açıklamasına göre çalışmalar nedeniyle Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde yaşanan su kesintisi ve basınç düşüklüğü bir süre daha devam edecek. Ekiplerin çalışmaları güvenli şekilde tamamlamak ve bölgeye yeniden su vermek için sahada aralıksız çalıştığı belirtildi.
-
-Bağlantı işlemleri tamamlandıktan sonra sisteme kademeli olarak su verilecek, şebeke basıncının dengelenmesine bağlı olarak su akışı aşamalı şekilde normal seviyesine ulaşacak. ESKİ, vatandaşlara anlayış ve sabırları için teşekkür etti. Açıklamada kesintinin ne zaman sona ereceğine dair bir saat verilmedi.
 
 ---
