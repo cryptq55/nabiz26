@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kırım Kavşağı'ndaki kaza tramvay seferlerini yaklaşık 40 dakika aksattı
+
+**Ulaşım · Merkez** · 2026-11-03 13:34 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.gzt26.com/eskisehirde-trafik-kazasi-tramvay-seferlerini-durdurdu)
+
+![](data/images/44a8ba09bca39cf0.jpg)
+
+> ESTRAM alternatif işletim ve acil durum otobüsleri devreye aldı.
+
+Eskişehir'de Şehir Hastanesi yönündeki Kırım Kavşağı'nın ardından bir karayolu aracının kaza yapması tramvay ulaşımını aksattı. ESTRAM'ın duyurusuna göre Şehir Hastanesi-Kumlubel ile Otogar-Opera-OGÜ hatlarında işletim yapılamadı.
+
+ESTRAM, Şehir Hastanesi ile Otogar arasında tramvay seferlerini alternatif işletim düzeniyle sürdürdü, Kumlubel ile Es-Es arasında acil durum otobüslerini devreye aldı. Aksama yaklaşık 40 dakika sürdü ve seferler yeniden normal düzenine döndü. Kaynakta kazaya karışan aracın sürücüsünün durumu, yaralanan olup olmadığı ve kazanın nasıl meydana geldiği konusunda bilgi paylaşılmadığı belirtiliyor.
+
+---
+
+## YENİ Partili meclis üyeleri Kurşunlu Külliyesi için uzlaşma çağrısı yaptı
+
+**Gündem · Odunpazarı** · 2026-11-03 13:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/yeni-partili-meclis-uyelerinden-kursunlu-kulliyesi-icin-uzlasma-cagrisi)
+
+> Üyeler külliyenin Odunpazarı Belediyesi'nde kalmasını talep etti.
+
+Odunpazarı Belediye Meclisi'ndeki YENİ Parti üyeleri, Kurşunlu Külliyesi önünde basın açıklaması yaptı. Açıklamayı üyeler adına İnci Şentuna okudu. Üyeler külliyenin Odunpazarı Belediyesi'nde kalmasını talep etti ve tahliye kararını tanımadıklarını söyledi.
+
+Şentuna, belediyenin 2004'ten bu yana kira sözleşmeleri kapsamında kullandığı alanda Ahşap Eserler Müzesi, Lületaşı Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi ve Cam Sanatları Merkezi gibi kültürel değerleri kazandırdığını belirtti. Konunun sıradan bir kira veya tahliye meselesi olmadığını söyledi. Belediyenin hukuki hak arayışını ve Belediye Başkanı Kazım Kurt'un yaklaşımını desteklediklerini ifade eden Şentuna, müzelerin ve atölyelerin taşınmasının ciddi kamu maliyeti doğuracağını savundu.
+
+Üyeler, mülkiyet hakkını ortadan kaldırmayı değil, vakıf hukukuna saygılı bir çözümü istediklerini belirtti. Vakıflar Genel Müdürlüğü'nü, Kültür ve Turizm Bakanlığı'nı, Eskişehir Valiliği'ni ve ilgili kurumları uzlaşmaya davet ederek külliyenin Odunpazarı Belediyesi'nin kullanımında kalmasını sağlayacak, uzun vadeli, şeffaf ve denetlenebilir bir kira ve kullanım protokolü oluşturulmasını talep etti.
+
+Haber YENİ Parti meclis üyelerinin açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
+
+---
+
 ## Altın fiyatları 3 Kasım 2026: Gram altın 6.383,19 TL
 
 **Ekonomi · Merkez** · 2026-11-03 13:17 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -435,39 +465,5 @@ Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlü
 ESKİ'nin yazılı açıklamasına göre çalışmalar nedeniyle Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde yaşanan su kesintisi ve basınç düşüklüğü bir süre daha devam edecek. Ekiplerin çalışmaları güvenli şekilde tamamlamak ve bölgeye yeniden su vermek için sahada aralıksız çalıştığı belirtildi.
 
 Bağlantı işlemleri tamamlandıktan sonra sisteme kademeli olarak su verilecek, şebeke basıncının dengelenmesine bağlı olarak su akışı aşamalı şekilde normal seviyesine ulaşacak. ESKİ, vatandaşlara anlayış ve sabırları için teşekkür etti. Açıklamada kesintinin ne zaman sona ereceğine dair bir saat verilmedi.
-
----
-
-## Eskişehir Uluslararası Polifonik Koro Şenliği İstanbul Avrupa Korosu konseriyle bitti
-
-**Kültür-Sanat · Merkez** · 2026-11-02 17:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/2-eskisehir-uluslararasi-polifonik-koro-senligi-ozel-konserle-sona-erdi-a838140a)
-
-![](data/images/eskisehir-uluslararasi-polifonik-koro-senligi-i-arsiv.jpg)
-
-> Şenliğe 30 Ekim-1 Kasım'da 37 koro katıldı.
-
-Eskişehir Büyükşehir Belediyesi ve Eskişehir Polifonik Korosu Derneği iş birliğiyle düzenlenen 2. Eskişehir Uluslararası Polifonik Koro Şenliği, İstanbul Avrupa Korosu'nun özel konseriyle sona erdi. Kapanış konserine Eskişehir Büyükşehir Belediye Başkan Vekili Vural Yörük ile Tepebaşı Belediye Başkanı Ahmet Ataç katıldı.
-
-30 Ekim-1 Kasım tarihlerinde yapılan şenliğe farklı şehir ve ülkelerden toplam 37 koro katıldı. Konserlerin yanı sıra atölye çalışmaları ve ortak performanslar yapıldı. Koroların performansları uluslararası değerlendirme kurulu üyeleri tarafından sanatsal açıdan ele alındı; yarışma ve sıralama yerine gelişim ve paylaşım esas alındı, kurul üyeleri korolara repertuvar, yorum, teknik ve müzikal ifade konusunda görüş ve önerilerini aktardı.
-
-Şenliğin sanat yönetmenliğini Ender Sakpınar üstlendi. Uluslararası değerlendirme kurulunda Turgay Erdener, Francesco Di Mauro, Nikos Haliassas, Özlem Erdoğan, Mete Gökçe, Çiğdem Aytepe, Atilla Çağdaş Değer, Zeynep Göknur Yıldız ve Hakan Bağcı yer aldı.
-
----
-
-## Eskişehir Büyükşehir 8 yeni tramvay için ihaleye çıktı: ihale 6 Kasım'da
-
-**Ulaşım · Merkez** · 2026-11-02 17:55 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirhaberajansi.com/eskisehirde-tramvay-filosu-yenileniyor-ihale-tarihi-belli-oldu)
-
-![](data/images/8bdbfae49a842326.jpg)
-
-> Belediye ayrıca ESTÜ'ye tramvay bağlantısı için kurumlarla görüşüyor.
-
-Eskişehir Büyükşehir Belediyesi, toplu ulaşım hizmetlerini geliştirmek amacıyla 8 yeni tramvay aracı alımı için ihale sürecini başlattı. İhale 6 Kasım 2026'da yapılacak. Yeni araçlarla tramvay seferlerinin sıklığının artırılması, yolculuk konforunun iyileştirilmesi ve araç filosunun yaş ortalamasının düşürülmesi amaçlanıyor.
-
-Belediyenin açıklamasına göre 315 araçlık otobüs filosu 116 hatta hizmet veriyor. Okulların açık olduğu dönemde hafta içi günlük yaklaşık 105-110 bin yolcu otobüsleri kullanırken hafta sonu bu sayı 55-60 bin düzeyinde. Gece ulaşımında 00.00-05.00 arası hizmet veren araç sayısı Mayıs 2024'ten bu yana 3'ten 7'ye çıkarıldı. Ocak ayında 25 adet 8 metrelik otobüs filoya katıldı, Otobes26 Eskişehir Turistik Hattı oluşturuldu.
-
-Belediye, "Türkiye'nin Ulaşımda Net Sıfır Emisyon Yol Haritası Projesi" kapsamında 20 elektrikli otobüs alımına yönelik proje başvurusunun kazanıldığını, Bakanlık nezdindeki görüşmelerin sürdüğünü bildirdi.
-
-Opera-Kumlubel hattından Eskişehir Teknik Üniversitesi'ne tramvay bağlantısı için de çalışma başlatıldı. Projenin hava mania planı ve Karayolları Genel Müdürlüğü'nün sorumluluk alanında bulunması nedeniyle ilgili kurumlara yazı gönderildi; Büyükşehir, ESTÜ, Karayolları Genel Müdürlüğü ve Devlet Hava Meydanları İşletmesi ile irtibat halinde ve yanıtlar bekleniyor.
 
 ---
