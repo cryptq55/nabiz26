@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T16:33:24.468472+00:00",
+  "published_at": "2026-11-03T16:34:04.931177+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Tepebaşı",
     "title": "Ahmet Sivri’den SSK Blokları için acil dönüşüm çağrısı: 10 bin kişi risk altında! - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda"
   },
-  "photo_pending": {
-    "query": [
-      "Tepebaşı Belediyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/ak-partili-sivri-tepebasi-meclisinde-ssk-blokla-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tepeba%C5%9F%C4%B1_Belediyesi_binas%C4%B1.jpg",
+    "archive": true,
+    "credit": "Merhabaviki / Wikimedia Commons (CC0)"
   }
 }

@@ -20,10 +20,10 @@
     "title": "Eskişehir’de kuzu ölümlerini azaltacak protokol imzalandı - Esgazete",
     "url": "https://www.esgazete.com/eskisehirde-kuzu-olumlerini-azaltacak-protokol-imzalandi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Tarım ve Orman Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
