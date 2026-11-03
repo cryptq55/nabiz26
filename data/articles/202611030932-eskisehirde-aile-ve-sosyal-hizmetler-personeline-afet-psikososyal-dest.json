@@ -20,10 +20,10 @@
     "title": "Eskişehir'de sosyal hizmet personeline afet ve acil durumlarda psikososyal destek eğitimi - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-sosyal-hizmet-personeline-afet-ve-acil-durumlarda-psikososyal-destek-egitimi-119510916"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Aile ve Sosyal Hizmetler Bakanlığı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T11:32:06.793228+00:00",
+  "published_at": "2026-11-03T11:33:17.487165+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir Büyükşehir Belediye Başkanı Ünlüce'den Porsuk Barajı’nda inceleme - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-porsuk-baraji-nda-inceleme-710bfb95"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/baskan-unluce-porsuk-barajinda-inceleme-yapti-e-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ay%C5%9Fe_%C3%9Cnl%C3%BCce_Se%C3%A7im_Otob%C3%BCs%C3%BC.jpg",
+    "archive": true,
+    "credit": "Erksahin / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

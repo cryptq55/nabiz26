@@ -13,17 +13,17 @@
   ],
   "importance": 4,
   "reel": false,
-  "published_at": "2026-11-03T11:32:44.606618+00:00",
+  "published_at": "2026-11-03T11:33:25.540762+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "Kurşunlu Külliyesi’nde tahliye gerginliği - Medya Gazete",
     "url": "https://www.medyagazete.com/haber/kursunlu-kulliyesinde-tahliye-gerginligi"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kursunlu-kulliyesinde-tahliye-bildirildi-kurt-k-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi_1683.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
