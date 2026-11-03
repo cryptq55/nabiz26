@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir'de Organ Bağışı Haftası kapsamında 5 Kasım'da yürüyüş düzenlenecek
+
+**Sağlık · Merkez** · 2026-11-03 22:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-organ-bagisi-icin-yuruyus-duzenlenecek)
+
+> Yürüyüş İl Sağlık Müdürlüğü Ek Hizmet Binası önünden başlayacak.
+
+Eskişehir İl Sağlık Müdürlüğü, Organ Bağışı Haftası kapsamında organ bağışının önemine dikkat çekmek ve toplumsal farkındalığı artırmak amacıyla yürüyüş ve basın açıklaması düzenleyecek. Etkinlik 5 Kasım Perşembe günü saat 13.50'de başlayacak.
+
+Başlangıç noktası İl Sağlık Müdürlüğü Ek Hizmet Binası önü olacak; katılımcılar Doktorlar Caddesi güzergâhında yürüyecek. Etkinlikte İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici ile Sağlık Hizmetleri Başkanı Op. Dr. Ersin Işıldı organ bağışının önemi hakkında açıklama yapacak.
+
+---
+
 ## Eskişehir Anadolu SF-Eskişehirspor maçının saati 13.00'e alındı
 
 **Spor · Merkez** · 2026-11-03 20:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/anadolu-spor-faaliyetleri-eskisehirspor-macinin-saati-degisti)
@@ -433,19 +445,5 @@ Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü personeline yönelik "Afe
 Açılışta konuşan İl Müdürü Orhan Bayrak, Türkiye'nin deprem ve diğer afet riskleriyle karşı karşıya olduğunu, kurum personelinin afet bölgelerinde önemli görevler üstlendiğini söyledi. Bayrak, Gölcük ve Kahramanmaraş merkezli depremlerde ve Ağrı'daki trafik kazasında sahada edindiği tecrübeleri paylaştı.
 
 Afetlerde emniyet, jandarma ve sağlık ekipleri başta olmak üzere farklı kurumların görev yaptığını belirten Bayrak, sosyal hizmet personelinin engelli bireyler, kronik hastalar ve bebekli aileler gibi desteğe ihtiyaç duyan grupların belirlenmesi ve ihtiyaçlarının karşılanmasında rol aldığını anlattı. Bayrak, eğitimin interaktif bir çalışma olarak verimli geçmesini diledi.
-
----
-
-## Kurşunlu Külliyesi'nde kursiyerler tahliye öncesi eşyalarını toplamaya başladı
-
-**Gündem · Odunpazarı** · 2026-11-03 08:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/kursunlu-kulliyesinde-kursiyerler-esyalarini-toplamaya-basladi)
-
-![](data/images/kursunlu-kulliyesinde-kursiyerler-tahliye-onces-arsiv.jpg)
-
-> Odunpazarı Belediyesi tahliyeyi 3 Kasım saat 11.00'de yapacağını bildirdi.
-
-Eskişehir Odunpazarı'ndaki tarihi Kurşunlu Külliyesi'nin boşaltılmasına ilişkin süreç sürerken, külliyedeki atölyelerde sanat ve el emeği çalışmaları yapan kursiyerler eşyalarını toplamaya başladı. Kursiyerler, çalışmalarında kullandıkları malzemelerin yanı sıra el emeği ürünlerini ve kişisel eşyalarını bulundukları alanlardan çıkarıyor.
-
-Odunpazarı Kaymakamlığı, 30 Ekim'de mahkeme sürecini beklemek üzere durdurulan tahliye için iki gün sonra yeni bir yazı göndererek külliyenin 3 Kasım 2026 Salı günü saat 11.00'de Kütahya Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istemişti. Kaynakta, Odunpazarı Belediyesi'nin bu yazı üzerine belirtilen tarihte tahliye işlemini gerçekleştireceğini bildirdiği aktarılıyor.
 
 ---
