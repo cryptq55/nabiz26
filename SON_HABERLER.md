@@ -2,6 +2,64 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda belde evlerindeki oyun gruplarında 15 çocuk bir araya geliyor
+
+**Belediye · Tepebaşı** · 2026-11-03 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklaroyungruplarındabulusuyor)
+
+![](data/images/e9ab1560a5a1ae52.jpg)
+
+> Belde Evleri Eylül 2026 itibarıyla 35 hizmet noktasında 230 kursla sürüyor.
+
+Tepebaşı Belediyesi'nin belde evlerinde düzenlediği çocuk oyun grupları, yaşa uygun etkinliklerle çocukların gelişimine katkı sunuyor. Hasan Ali Yücel ve Hedef Batıkent belde evlerindeki iki grupta toplam 15 çocuk bir araya geliyor.
+
+Hasan Ali Yücel Belde Evi'nde 36-42 aylık 6 çocuk pazartesi ve çarşamba günleri saat 10.00-12.00 arasında, Hedef Batıkent Belde Evi'nde 42-46 aylık 9 çocuk yine pazartesi ve çarşamba günleri 13.00-15.00 arasında etkinliklere katılıyor. Buluşmaların çocukların akranlarıyla iletişim kurmasına, birlikte hareket etmesine ve oyunla öğrenmesine olanak sağladığı belirtildi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların gelişimini desteklemenin geleceğe yapılan yatırım olduğunu söyledi. Belediyeye göre Belde Evleri Eylül 2026 itibarıyla 35 hizmet noktasında, 29 branşta ve 230 kursta sürüyor; başvuruların toplamı 8 bin 151'e, aktif yararlanıcı sayısı 4 bin 466'ya ulaştı.
+
+---
+
+## Kurşunlu Külliyesi'nde Kaymakamlık yetkilileri inceleme yaptı: tutanak imzalanmadı
+
+**Gündem · Odunpazarı** · 2026-11-03 10:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/kursunlu-kulliyesi-odunpazari-belediyesinden-alindi-tutanak-imzalanmadi-eserler-kaydedildi)
+
+> Belediye yetkilileri tutanağı imzalamayacaklarını, 400 eserin kaydedilmesini istedi.
+
+Kurşunlu Külliyesi'nin 3 Kasım saat 11.00'de Vakıflar Bölge Müdürlüğü'ne teslimi istenmişti. İstikbal Gazetesi'nin aktardığına göre külliyeye gelen Odunpazarı Kaymakamlığı yetkilileri içeri girerek alanı incelemek istedi. Kaymakamlık Yazı İşleri Müdürü Muzaffer Kaptan'ı Odunpazarı Belediyesi Başkan Yardımcısı Emre Genç karşıladı.
+
+İncelemede tutanak tutulması konusunda bir kriz yaşandığı belirtildi. Genç ve belediye yetkilileri tutanağa imza atmayacaklarını, ancak bir örneğini istediklerini söyledi. Genç, külliyede 400 sanat eseri bulunduğunu belirterek eserlerin tek tek kayıt altına alınmasını talep etti. Bunun üzerine polis kameraları, belediye ve kaymakamlık görevlileri eserleri tek tek video çekimi eşliğinde kayıt altına aldı.
+
+Haber tek bir gazetenin aktardığı bilgilere dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün konuya ilişkin açıklaması kaynakta yer almıyor.
+
+---
+
+## Eskişehirli Murat Cırık Dünya Bilek Güreşi Şampiyonası'nda +80 kiloda dünya şampiyonu oldu
+
+**Spor · Merkez** · 2026-11-03 10:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/amp/haber-eskisehir-valisi-yilmaz-hindistan-da-80-kiloda-dun-20390059/)
+
+> Vali Yılmaz ve Gençlik ve Spor İl Müdürlüğü şampiyonu tebrik etti.
+
+Eskişehirli milli sporcu Murat Cırık, Hindistan'da düzenlenen 2026 Dünya Bilek Güreşi Şampiyonası'nda ayakta +80 kilogram kategorisinde dünya şampiyonu oldu.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz ve Eskişehir Gençlik ve Spor İl Müdürlüğü, Cırık için tebrik mesajı yayımladı. Gençlik ve Spor İl Müdürlüğü mesajında "Ay-yıldızlı bayrağımızı zirveye taşıyan sporcumuzu yürekten tebrik ediyor, başarılarının devamını diliyoruz. Gururumuzsun Murat Cırık" ifadelerini kullandı. Vali Yılmaz da Cırık'ın tüm rakiplerini geride bırakarak dünya şampiyonu olduğunu belirterek "Seninle gurur duyuyoruz Murat! Bileğin kavi, başarıların daim olsun" dedi.
+
+---
+
+## Eskişehir'de "Kale'm Ailem" projesi kapsamında öğrenciler arası üç yarışma yapılacak
+
+**Eğitim · Merkez** · 2026-11-03 10:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/quotkale039m-ailemquot-projesi-kapsaminda-ogrenciler-arasi-yarismalar-duzenlenecek/icerik/8699/tr)
+
+![](data/images/5d4704b80bac48e6.jpg)
+
+> Resim, şiir ve kısa film yarışmalarına son başvuru 23 Kasım.
+
+Eskişehir İl Millî Eğitim Müdürlüğü'nün hazırladığı "Kale'm Ailem" Projesi kapsamında öğrenciler arası yarışmalar düzenlenecek. Proje, 2026-2035 yıllarının "Aile ve Nüfus On Yılı" ilan edilmesi ve Millî Eğitim Bakanlığı'nın aile kurumunun korunması ve güçlendirilmesine yönelik hedefleri doğrultusunda hazırlandı. Eskişehir genelindeki resmî okul öncesi, ilkokul, ortaokul ve liselerde öğrenim gören öğrenciler, öğretmenler ve velileri kapsıyor. İstanbul Aile Vakfı, üniversiteler ve Eskişehir İl Müftülüğü gibi paydaşlar katkı sunuyor.
+
+Üç yarışma yapılacak: ilkokul öğrencileri arasında aile temalı resim yarışması, ortaokul öğrencileri arasında şiir yazma ve okuma yarışması, lise öğrencileri arasında kısa film yarışması.
+
+Takvim: başvuru ilanı 2 Kasım 2026, son başvuru 23 Kasım 2026, okul dereceleri 25 Kasım 2026, ilçe dereceleri 1 Aralık 2026, il dereceleri 10 Aralık 2026. Ödül töreni Nisan 2027'de yapılacak.
+
+---
+
 ## Eskişehirspor'un Türkiye Kupası 4. tur rakibi 4 Kasım'daki kurada belli olacak
 
 **Spor · Merkez** · 2026-11-03 09:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/ziraat-turkiye-kupasi-4-tur-kurasi-ne-zaman-saat-kacta-hangi-kanalda-eskisehirspor-rakibini-bekliyor-2447351)
@@ -419,69 +477,5 @@ Millî Eğitim Bakanlığı'nın bilimsel danışma ve inceleme organı Talim ve
 "100. Yıl Kararları" taslağı okundu ve açık oylamada 5 maddeden oluşan kararlar Kurul üyelerinin oy birliğiyle kabul edilip imzalandı.
 
 Bakan Tekin konuşmasında, Kurulun kuruluşunun 1 Kasım 1926'da Mustafa Kemal Atatürk tarafından TBMM'de ilan edildiğini hatırlattı. Türkiye Yüzyılı Maarif Modeli'nin oluşturulmasında Kurulun önemli katkısı olduğunu söyleyen Tekin, modelin programları beceri temelli hale getirdiğini belirtti. Tekin, 2029'da yapılacak PISA döngüsünde modelin etkisiyle daha başarılı bir sonuç alınacağına inandığını söyledi.
-
----
-
-## Kurşunlu Külliyesi için Kaymakamlık yeni yazı gönderdi: teslim 3 Kasım'da
-
-**Gündem · Odunpazarı** · 2026-11-02 11:32 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kursunlu-kulliyesi-nde-iki-gunde-ne-degisti-kaymakamlik-yeniden-tahliye-talim)
-
-![](data/images/a8975ecec9bb6112.jpg)
-
-> Odunpazarı Belediyesi, mahkeme süreci sürerken verilen yeni talimatı aktardı.
-
-Odunpazarı Belediyesi'nin açıklamasına göre Odunpazarı Kaymakamlığı, Kurşunlu Külliyesi'nin 3 Kasım Salı günü saat 11.00'de Kütahya Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istedi.
-
-Belediyenin aktardığına göre Kaymakamlık, 30 Ekim 2026 tarihli yazısında Odunpazarı Belediyesi'nin tahliyeye karşı Eskişehir 1. İdare Mahkemesi'nde dava açtığını belirtmiş ve yürütmeyi durdurma konusunda karar alınıncaya kadar tahliyenin durdurulduğunu bildirmişti. Mahkemenin 26 Ekim tarihli ara kararında, yürütmeyi durdurma talebinin idarenin savunması alındıktan sonra değerlendirilmesi öngörülmüştü.
-
-2 Kasım tarihli ikinci yazıda ise Vakıflar Bölge Müdürlüğü'nün tahliyenin önünde hukuki engel bulunmadığı yönündeki görüşüne yer verildi. Kaymakamlık, mevcut kiracıların ve kullanıcıların durumlarının korunarak külliyenin 3 Kasım'da saat 11.00 itibarıyla Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istedi.
-
-Odunpazarı Belediyesi, külliyeyi 2004 yılından bu yana kullandığını ve kira sözleşmesinin beş yıl uzatılması talebine yanıt alamadığı için yargı yoluna başvurduğunu belirtiyor. Külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi bulunuyor. Belediye, hukuki mücadelesini sürdüreceğini bildirdi.
-
-Haber, belediyenin açıklamasına dayanıyor. Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün konuya ilişkin ayrı bir açıklaması kaynakta yer almıyor.
-
----
-
-## Eskişehir'de ekim ayında aranan 582 kişi yakalandı
-
-**Asayiş · Merkez** · 2026-11-02 10:32 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://eskisehirdurum.com/eskisehir-asayis/eskisehirde-ekim-ayinda-aranan-582-sahis-polis-ve-jandarmaya-yakalandi/811057)
-
-![](data/images/eskisehirde-ekim-ayinda-aranan-582-kisi-yakalan-arsiv.jpg)
-
-> 794 uygulama noktasında bin 978 personelle yapılan denetimlerde 9 kişi 10 yıl ve üzeri kesinleşmiş cezayla aranıyordu.
-
-Eskişehir'de polis ve jandarma ekiplerinin ekim ayı boyunca yürüttüğü denetimlerde aranan toplam 582 kişi yakalandı. Eskişehir Valiliği koordinesinde İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri, 1-31 Ekim 2026 tarihleri arasında il genelinde 794 farklı uygulama noktasında çalışma yaptı. Uygulamalara bin 978 polis ve jandarma personeli katıldı.
-
-Yakalanan kişilerden 146'sının 5 yıla kadar, 29'unun 5 ila 10 yıl arasında, 9'unun ise 10 yıl ve üzeri kesinleşmiş hapis cezasıyla arandığı belirlendi. Çeşitli suçlardan haklarında arama kaydı bulunan 398 kişi de yakalandı.
-
-Yakalanan şahıslar adli mercilere sevk edildi ve haklarında gerekli yasal işlemler yapıldı.
-
----
-
-## Ataç: Tepebaşı Belediyesi'nde personel giderleri yüzde 40 sınırına çekilecek
-
-**Belediye · Tepebaşı** · 2026-11-02 09:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.anadolugazetesi.com/tepebasi-belediyesinde-kac-kisi-isten-cikarilacak--atac-tan-aciklama-geldi-297396.html)
-
-> Başkan Ataç, kaç çalışanın ayrılacağına ilişkin henüz net sayı olmadığını söyledi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, belediyenin personel giderlerine ilişkin değerlendirmede bulundu. Ataç, personel harcamalarının bütçenin yüzde 40'ını aşmaması gerektiğini, bu sınır doğrultusunda çalışan sayısının yeniden düzenleneceğini ve bazı personelle yolların ayrılmasının gündemde olduğunu söyledi. Kaç çalışanın ayrılacağına ilişkin henüz net bir sayı bulunmadığını belirtti.
-
-Ataç, belediyenin sosyal belediyecilik kapsamında 24 belde evi, 11 deneyimli kafe, Ağız ve Diş Sağlığı Merkezi ve Yaşam Köyü gibi hizmet alanları yürüttüğünü anlattı. Yaşam Köyü'nde yaklaşık 200 kişinin çalıştığını ve bu hizmetlerin sürdürülebilmesi için yeterli sayıda personele ihtiyaç duyulduğunu ifade etti.
-
-Düzenlemede öncelikle emeklilik hakkı bulunan personelle görüşüleceğini belirten Ataç, emeklilik kararının çalışanların kendi tercihine bağlı olacağını, ayrılacak personelin kıdem tazminatlarının ödeneceğini söyledi.
-
-Ataç, personel düzenlemesinin bütçedeki yüzde 40 sınırı çerçevesinde yapılacağını kaydetti.
-
----
-
-## Eskişehir'de ruhsatlı silah sahiplerine tebligat: silahlar kilitli yerde saklanmalı
-
-**Gündem · Merkez** · 2026-11-02 08:41 UTC · Kaynak: [Google Haberler - Tepebaşı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/ruhsatli-silah-sahiplerine-kilitli-muhafaza-uyarisi-eskisehir-tepebasi-avcilik-aticilik-119509798)
-
-> Eskişehir, silah ruhsatı başvuru ve yenilemelerinde yazılı tebligat yapılan dört il arasında.
-
-Ruhsatlı silahların ve yivsiz av tüfeklerinin çocukların ve yetkisiz kişilerin ulaşamayacağı kilitli alanlarda saklanması için ülke genelinde bilgilendirme çalışması başlatıldı. Çalışmanın ilk aşamasında 7 ilde silah ruhsatı sahiplerine SMS gönderildi. Eskişehir, Bursa, Afyonkarahisar ve Erzurum'da ise yeni ruhsat başvurusu yapan ve ruhsatını yenileyen vatandaşlara yazılı tebligat yapılmaya başlandı. Uygulamanın diğer illerde de sürdüğü bildirildi.
-
-Eskişehir Tepebaşı Avcılık Atıcılık Balıkçılık İhtisas Spor Kulübü Derneği Başkan Yardımcısı Sercan Gözlev, konuya ilişkin değerlendirmesinde tüfeklerin yivli ve yivsiz olmak üzere ikiye ayrıldığını, her yivsiz tüfeğin av tüfeği olmadığını söyledi. Gözlev, "Halkımız tüfeklerini kilitli dolaplarda tutarsa istenmeyen olayların önüne geçilir" dedi. Gözlev, asayiş olaylarında kullanılan tüfeklerin çoğunun avda kullanılamayacağını, boyu kısa tüfeklerin avda kullanılmasının zaten yasak olduğunu belirtti.
 
 ---
