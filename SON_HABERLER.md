@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Kacır: Togg 2026'da 60 bine yakın teslimat hedefliyor, gelecek yıl kapasite 100 bin
+
+**Ekonomi · Türkiye** · 2026-11-03 02:32 UTC · Kaynak: [Google Haberler - Togg](https://www.toplumsal.com.tr/haber/togg-da-gelecek-yil-100-bin-kapasite-hedefleniyor_32622/)
+
+> Kacır, Togg'un 2025'te 39 bin araç teslim ettiğini ve segmentinde yüzde 31 pazar payına sahip olduğunu söyledi.
+
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TBMM Plan ve Bütçe Komisyonu'nda milletvekillerinin sorularını yanıtlarken Togg'a ilişkin rakamlar paylaştı.
+
+Kacır, Togg'un 2026'da 60 bine yakın teslimat hedeflediğini, gelecek yıl piyasaya çıkacak yeni modelle kapasitenin 100 bin adede ulaşmasının planlandığını söyledi. Bakan, "Hep birlikte TOGG'a güçlü şekilde sahip çıkıyoruz" dedi.
+
+Kacır'ın aktardığına göre Togg 2023'te 19 bin 600, 2024'te 30 bin, 2025'te 39 bin araç teslim etti. Bakan, markanın kendi segmentinde yüzde 31 pazar payıyla en çok satan otomobil olduğunu belirtti. ÖTV iadesi dahil çeşitli teşviklerin Togg'a sunulduğunu, maliyetleri düşürme tedbirleri ve batarya teknolojilerindeki gelişmelerle şirketin kârlılığa yaklaştığını da ifade etti.
+
+---
+
 ## Togg'da ortaklık yapısı değişiyor: Anadolu Grubu ve Vestel paylarını devrediyor
 
 **Ekonomi · Türkiye** · 2026-11-02 23:32 UTC · Kaynak: [Google Haberler - Togg](https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874)
@@ -471,17 +485,5 @@ Tepebaşı Belediyesi, kasım ayında emlak vergisi ödemeleri için mobil vezne
 Belediyenin paylaştığı takvime göre ilk günler şöyle: 2 Kasım Sakintepe, 3 Kasım Uluönder, 4 Kasım Batıkent, 5 Kasım Hayriye (Muhtarlığı önü), 6 Kasım Yeni Mahalle ve Şeker, 7 Kasım Ömerağa ve Güllük, 8 Kasım Bahçelievler Muhtarlığı önü, 9 Kasım Işıklar Muhtarlığı önü, 10 Kasım Şirintepe, 11 Kasım Bahçelievler, 12 Kasım Ertuğrulgazi, 13 Kasım Şarhöyük. Ayın kalan günleri için takvimde Zincirlikuyu, Yaşamkent, Söğütönü, Kumlubel, Çamlıca, Tunalı, Fevziçakmak, Zafer, Sazova, Sütlüce, Esentepe ve Yeşiltepe mahalleleri ile Metin Özöğüt Yaşam Merkezi yer alıyor; 28 ve 29 Kasım'da vezne merkez binada olacak, 30 Kasım'da Yeşiltepe'ye gidecek.
 
 Vatandaşlar emlak vergisini ayrıca Tepebaşı Belediyesi hizmet binası vezneleri (08.00-16.30), Odunpazarı Belediyesi hizmet binası veznesi (09.00-16.00) ve Tapu ve Kadastro 17. Bölge Müdürlüğü veznesinde (08.00-15.30) ödeyebilecek.
-
----
-
-## İnönü'nde İsmetpaşa Mahallesi'ndeki bozulan yol onarılıp trafiğe açıldı
-
-**Belediye · Merkez** · 2026-11-02 04:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/inonudeki-yol-sorunu-cozume-kavustu-119509435)
-
-> İnönü Belediyesi, Çınarlı Park yanındaki sokakta bakım ve onarım çalışmasını tamamladı.
-
-Eskişehir'in İnönü ilçesi İsmetpaşa Mahallesi'nde, Çınarlı Park yanındaki sokakta meydana gelen yol bozulması belediye ekiplerince onarıldı ve yol yeniden araç trafiğine açıldı.
-
-İnönü Belediye Başkanı Serhat Hamamcı'nın talimatıyla harekete geçen ekipler, bakım ve onarım çalışmasını kısa sürede tamamladı. Mahalle sakinlerinin, yolun yeniden trafiğe açılmasından memnuniyet duyduğu ve Hamamcı ile belediye ekiplerine teşekkür ettiği bildirildi.
 
 ---
