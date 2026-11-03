@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-03T12:32:08.746660+00:00",
+  "published_at": "2026-11-03T12:33:44.263951+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir’de katılımcı bütçeyle belirlenen proje tamamlandı... Porsuk Çayı ve köprüler aydınlatıldı - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-de-katilimci-butceyle-belirlenen-proje-tamamlandi-porsuk-cayi-ve-kopruler-aydinlatildi-2d53c6fa"
   },
-  "photo_pending": {
-    "query": [
-      "Porsuk Çayı"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/bi-fikirle-eskisehir-projesi-porsuk-cayi-ve-kop-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Porsuk_River.JPG",
+    "archive": true,
+    "credit": "BigMert at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

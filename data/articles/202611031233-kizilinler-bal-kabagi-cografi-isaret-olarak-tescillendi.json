@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T12:33:01.998376+00:00",
+  "published_at": "2026-11-03T12:33:47.034377+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir'in \"Kızılinler bal kabağı\" coğrafi işaret olarak tescil edildi - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirin-kizilinler-bal-kabagi-cografi-isaret-olarak-tescil-edildi-119511141"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Valiliği"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kizilinler-bal-kabagi-cografi-isaret-olarak-tes-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eskisehirvaliligi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

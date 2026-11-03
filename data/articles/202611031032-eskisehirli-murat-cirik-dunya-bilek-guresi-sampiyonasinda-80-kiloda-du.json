@@ -20,10 +20,10 @@
     "title": "Eskişehir Valisi Yılmaz, Hindistan'da +80 kiloda dünya şampiyonu Cırık'ı kutladı - Son Dakika",
     "url": "https://www.sondakika.com/amp/haber-eskisehir-valisi-yilmaz-hindistan-da-80-kiloda-dun-20390059/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Murat Cırık"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
