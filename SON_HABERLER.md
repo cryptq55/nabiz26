@@ -2,6 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## AK Partili Sivri, Tepebaşı Meclisi'nde SSK Blokları'nda kentsel dönüşümü istedi
+
+**Belediye · Tepebaşı** · 2026-11-03 16:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda)
+
+> Bölgede yaklaşık 3 bin 600 hane ve 10 bin kişi yaşıyor.
+
+Tepebaşı Belediye Meclisi, Belediye Başkanı Ahmet Ataç başkanlığında toplandı. Gündem dışı söz alan AK Parti Meclis Üyesi Ahmet Sivri, ilçedeki SSK Blokları'nın kentsel dönüşüm sürecini gündeme getirdi.
+
+Sivri, SSK Blokları'nda yaklaşık 3 bin 600 hanenin yaşadığını, bölgenin yaklaşık 10 bin kişilik nüfusa sahip olduğunu ve yapıların yaklaşık 50 yıllık olduğunu belirtti. Türkiye'nin farklı bölgelerinden hemen her gün deprem haberleri geldiğine dikkat çeken Sivri, dönüşüm çalışmalarının bir an önce hızlandırılması gerektiğini söyledi. Ataç'a seslenen Sivri, Cumhur İttifakı meclis üyelerinin yapılacak çalışmalara destek vermeye hazır olduğunu, önceliklerinin vatandaşların can güvenliği olduğunu ifade etti. Hasta, yaşlı ve engelli vatandaşların da depreme dayanıklı ve konforlu konutlarda yaşamasını istediklerini söyledi.
+
+Haber meclis üyesinin konuşmasına dayanıyor; Tepebaşı Belediyesi'nin konuya ilişkin yanıtı kaynakta yer almıyor.
+
+---
+
+## Odunpazarıspor kadınlar hentbol liginde 8 Kasım'da Üsküdar Belediyesi'ne konuk olacak
+
+**Spor · Odunpazarı** · 2026-11-03 16:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-odunpazari-cikis-ariyor)
+
+> Eskişehir ekibi 8 haftada 2 galibiyetle 4 puanla altıncı sırada.
+
+Kadınlar Hentbol Süper Ligi'nde mücadele eden Eskişehir Odunpazarıspor, son maçında MC Sistem Yozgat GSK'ye 34-30 yenildi. Antrenör Mehmet Fatih Işık yönetimindeki takım, sekiz haftada 2 galibiyet ve 6 yenilgiyle 4 puanla altıncı sırada bulunuyor. Arkasındaki Göztepe 3 puanda, beşinci sıradaki Manisa Büyükşehir Belediyesi ile arasında 7 puan fark var.
+
+Odunpazarıspor, 8 Kasım Pazar günü saat 16.00'da Çamlıca Spor Salonu'nda 12 puanla ikinci sıradaki Üsküdar Belediyesi'ne konuk olacak. 14 Kasım Cumartesi günü saat 15.00'te ise sahasında Ortahisar Belediyesi ile karşılaşacak.
+
+---
+
 ## Tepebaşı Meclisi kıyafet bağış kutuları için Kızılay'la 3 yıllık iş birliğini kabul etti
 
 **Belediye · Tepebaşı** · 2026-11-03 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi)
@@ -425,41 +451,5 @@ Turkcell'in açıklamasına göre sözleşmedeki ön şartların tamamlanmasın�
 Eskişehir Şehir Hastanesi'nde başhekimlik görevinde değişikliğe gidildi. Dr. Öğr. Üyesi Fatih Alper Ayyıldız'ın yürüttüğü başhekimlik görevine, Genel Cerrahi Uzmanı Prof. Dr. Mustafa Cem Algın atandı. Daha önce aynı hastanede genel cerrahi uzmanı olarak görev yapan Algın, Kasım 2026 itibarıyla hastanenin yeni başhekimi oldu.
 
 Kaynakta aktarılan özgeçmişine göre Algın, Eskişehir doğumlu. Hacettepe Üniversitesi Tıp Fakültesi'nden 1991'de mezun oldu, meslek hayatına Eskişehir Devlet Hastanesi'nde pratisyen hekim olarak başladı. Genel cerrahi uzmanlığını Eskişehir Osmangazi Üniversitesi Tıp Fakültesi'nde tamamladı, akademik kariyerine Dumlupınar Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesi'nde devam ederek profesörlük unvanını aldı. 2018-2023 arasında dekanlık yaptı, rektör yardımcılığı görevinde de bulundu. Sindirim sistemi, safra yolları, karaciğer, tiroid ve meme hastalıklarının cerrahi tedavisi üzerine çalıştı.
-
----
-
-## TFF 3. Lig 2. Grup'ta Eskişehir Anadolu Alanya'yı 5-1, Eskişehirspor Gaziemir'i 5-0 yendi
-
-**Spor · Merkez** · 2026-11-02 21:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.usakport.com.tr/usakin-yenildigi-haftanin-en-kazanclisi-eskisehirin-2-ekibi-oldu)
-
-![](data/images/98ef4f2c579ce6f3.jpg)
-
-> Eskişehirspor 7 Kasım'da Kepezspor'u konuk edecek.
-
-TFF 3. Lig 2. Grup'un 9. haftasında Eskişehir'in iki takımı da farklı galibiyet aldı. Evinde Alanya 1221 FK'yı konuk eden Eskişehir Anadolu rakibini 5-1 yendi. Ligin ikincisi Eskişehirspor ise Gaziemir G.O.G.'yi deplasmanda 5-0 mağlup etti.
-
-Haftanın diğer sonuçları şöyle: Kepezspor-Uşakspor 2-0, Altay 1922-Akşehir Spor 1-1, Etimesgutspor 1-0 (rakibi kaynakta Bigaspor olarak geçiyor), Ayvalıkgücü Belediyespor-Bucaspor 1928 2-1, Bursa Yıldırımspor-Balıkesirspor 1-1, Denizli İdmanyurdu-Karşıyaka 0-6, Söke 1970-Gemlik Sümerbey 1-7.
-
-Gelecek hafta, 7 Kasım Cumartesi günü Eskişehirspor Kepezspor'u, Uşakspor ise Eskişehir Anadolu'yu konuk edecek.
-
----
-
-## AK Partili meclis üyeleri: Kurşunlu Külliyesi kapanmıyor, belediye bilgi versin
-
-**Gündem · Odunpazarı** · 2026-11-02 20:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/ak-partiden-kursunlu-cikisi-belediye-gercekleri-aciklasin)
-
-![](data/images/315885d9534a7181.jpg)
-
-> Üyeler belediyeden gelir-gider tablosu ve Vakıflar'a verilen yanıtları açıklamasını istedi.
-
-Kurşunlu Külliyesi'nin tahliyesiyle ilgili tartışmalar sürerken AK Parti Odunpazarı Belediye Meclis Üyeleri yeni bir açıklama yaptı. Üyeler, külliyenin kapatılacağı ve müzelerin ortadan kaldırılacağı yönündeki iddiaları reddederek tartışmaların hukuki belgeler üzerinden yürütülmesi gerektiğini söyledi. Açıklamada "Kurşunlu Külliyesi kapanmıyor. Kapanan şey, kirada anlaşmayan ve sözleşme imzalamayan bir yönetimin 'mağduriyet siyaseti'dir" denildi.
-
-AK Partili üyeler, belediyenin yürütmeyi durdurma talebinin mahkeme tarafından reddedildiğini ve bu kararın istinaf aşamasında kesinleştiğini ileri sürdü; Kaymakamlığın keyfî bir işlem yapmadığını, yargı kararını uyguladığını savundu. Kira sözleşmesinin uzatılmasına ilişkin Geçici 15. maddeye değinen üyeler, bunun için Vakıflar'a borç bulunmaması, açılan davalardan vazgeçilmesi, belirlenen kira bedelinin kabul edilmesi ve süresi içinde başvuru yapılması gerektiğini, belediyenin bu şartları yerine getirmediğini öne sürdü.
-
-Üyeler, bazı kaynaklara göre belediyenin külliyedeki kiracılardan yıllık 419 bin lira kira toplayıp Vakıflar'a 123 bin lira ödediğini iddia etti. Tahliye sürecinin 2024 sonunda başladığını, belediyenin müzelerdeki eserler için alternatif plan hazırlamadığını savundular. Kaymakamlık yazısında mevcut kiracı ve kullanıcıların durumunun korunacağının belirtildiğini, esnafın ve sanatçıların faaliyetlerinin sürebileceğini ifade ettiler.
-
-AK Partili üyeler belediyeden üç konuda açıklama istedi: külliyenin gelir-gider tablosu, Vakıflar'ın gönderdiği ihtarlara verilen yanıtlar ve 2014'ten bu yana ecrimisil nedeniyle çıkarıldığı öne sürülen kiracıların listesi. Bu konuları Belediye Meclisi'ne yazılı soru önergesi olarak sunacaklarını belirttiler.
-
-Haber AK Partili meclis üyelerinin açıklamasına dayanıyor. Odunpazarı Belediyesi'nin bu iddialara yanıtı kaynakta yer almıyor; belediyenin görüşleri için bu sitedeki önceki haberlere bakılabilir.
 
 ---
