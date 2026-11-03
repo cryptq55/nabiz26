@@ -4,7 +4,9 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 ## AK Partili Sivri, Tepebaşı Meclisi'nde SSK Blokları'nda kentsel dönüşümü istedi
 
-**Belediye · Tepebaşı** · 2026-11-03 16:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda)
+**Belediye · Tepebaşı** · 2026-11-03 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda)
+
+![](data/images/ak-partili-sivri-tepebasi-meclisinde-ssk-blokla-arsiv.jpg)
 
 > Bölgede yaklaşık 3 bin 600 hane ve 10 bin kişi yaşıyor.
 
