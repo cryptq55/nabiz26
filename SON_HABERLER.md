@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurşunlu Külliyesi'nde kursiyerler tahliye öncesi eşyalarını toplamaya başladı
+
+**Gündem · Odunpazarı** · 2026-11-03 08:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.eskisehir.net/kursunlu-kulliyesinde-kursiyerler-esyalarini-toplamaya-basladi)
+
+> Odunpazarı Belediyesi tahliyeyi 3 Kasım saat 11.00'de yapacağını bildirdi.
+
+Eskişehir Odunpazarı'ndaki tarihi Kurşunlu Külliyesi'nin boşaltılmasına ilişkin süreç sürerken, külliyedeki atölyelerde sanat ve el emeği çalışmaları yapan kursiyerler eşyalarını toplamaya başladı. Kursiyerler, çalışmalarında kullandıkları malzemelerin yanı sıra el emeği ürünlerini ve kişisel eşyalarını bulundukları alanlardan çıkarıyor.
+
+Odunpazarı Kaymakamlığı, 30 Ekim'de mahkeme sürecini beklemek üzere durdurulan tahliye için iki gün sonra yeni bir yazı göndererek külliyenin 3 Kasım 2026 Salı günü saat 11.00'de Kütahya Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istemişti. Kaynakta, Odunpazarı Belediyesi'nin bu yazı üzerine belirtilen tarihte tahliye işlemini gerçekleştireceğini bildirdiği aktarılıyor.
+
+---
+
+## Ekim ayında en çok satan otomobil Togg T10X oldu: Togg iki modelle ilk dörtte
+
+**Ekonomi · Türkiye** · 2026-11-03 08:33 UTC · Kaynak: [Google Haberler - Togg](https://www.donanimhaber.com/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-oldu--212395)
+
+> Togg T10X 4.059, T10F 2.702 adetle ekimde elektrikli pazarın ilk iki sırasında.
+
+Otomobil gazetecisi Emre Özpeynirci'nin paylaştığı verilere göre Togg T10X, ekim ayında 4.059 adetlik satışla en çok satan otomobil oldu. Volkswagen T-Roc 3.324 adetle ikinci, Renault Boreal 2.779 adetle üçüncü sırada yer aldı. Togg T10F ise 2.702 adetle dördüncü oldu. İki Togg modelinin toplam satışı 6.761 adede ulaştı.
+
+Türkiye otomobil ve hafif ticari araç pazarı ekimde yıllık bazda yüzde 30,84 azalarak 80 bin 334 adet oldu; otomobil satışları 64 bin 939, hafif ticari araç satışları 15 bin 395 adet olarak aktarıldı. Yılın ilk 10 ayında pazar geçen yılın aynı dönemine göre yüzde 15,33 daralarak 883 bin 799 adede geriledi.
+
+Ocak-ekim döneminde en çok satan otomobil 35.844 adetle Renault Clio oldu. Toyota Corolla 26.455 adetle ikinci, Togg T10X 26.079 adetle üçüncü sırada yer aldı; Togg T10F 18.108 adetle ilk 10'da dokuzuncu sırada. İki modelin 10 aylık toplam satışı 44.187 adet.
+
+Togg modelleri ekimde ve ocak-ekim döneminde elektrikli otomobil pazarında da ilk iki sırada yer aldı.
+
+---
+
 ## UKOME kararı: Tepebaşı'nda Akbal Sokak tek yön olacak, 4 araçlık park yeri yapılacak
 
 **Ulaşım · Tepebaşı** · 2026-11-03 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-sokak-tek-yon-oluyor-4-araclik-park-yeri-yapilacak-2446330)
@@ -449,35 +477,5 @@ Bir aylık çalışmada çeşitli suçlardan aranan 398 kişi dahil toplam 582 �
 Eskişehir Valiliği'nin açıklamasına göre İl Emniyet Müdürlüğü ve İl Jandarma Komutanlığı ekipleri 1-31 Ekim tarihlerinde okul servisleri ve okul çevrelerinde denetim yaptı. 1308 okul servisi aracı ve şoförü denetlendi, 31 kusurlu servis aracı ve şoförü tespit edildi.
 
 Okul çevrelerinde 363 kahvehane, 237 market ve tekel bayisi, 7 oyun salonu ile 325 park ve bahçe kontrol edildi. Denetimlerde ayrıca 2 bin 639 kişinin sorgulaması yapıldı.
-
----
-
-## Erdoğan Seul'de: Güney Kore ziyareti başladı, 3 Kasım'da resmî görüşme var
-
-**Türkiye · Türkiye** · 2026-11-02 07:36 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-guney-korede)
-
-![](data/images/7ebce1f83f76feaa.jpg)
-
-> Ziyaret 4 Kasım'a kadar sürecek.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine başkent Seul'e geldi. Erdoğan ve eşi Emine Erdoğan, Seul Seongnam Hava Üssü'nde Kore Ticaret Bakanı Park Jung-sung tarafından karşılandı. Türkiye'nin Seul Büyükelçisi Fatih Yıldız ve eşi Nesrin Yıldız da karşılamada hazır bulundu.
-
-Erdoğan'a ziyarette Dışişleri Bakanı Hakan Fidan, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Millî Savunma Bakanı Yaşar Güler, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, AK Parti Genel Başkan Yardımcısı Halit Yerebakan ve Savunma Sanayii Başkanı Haluk Görgün eşlik ediyor.
-
-4 Kasım'a kadar sürecek ziyaret kapsamında Erdoğan'ın 3 Kasım Salı günü Lee Jae Myung ile resmî görüşme yapması planlanıyor. Görüşmelerde iki ülke arasındaki stratejik ortaklık ilişkilerinin ele alınması ve ikili ilişkileri güçlendirecek anlaşmaların imzalanması hedefleniyor.
-
----
-
-## Başkan Ünlüce Eskişehir Kırkalılar Derneği'nin kadınlar kahvaltısına katıldı
-
-**Gündem · Merkez** · 2026-11-02 06:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/eskisehirde-baskan-unluce-kirkali-kadinlarla-kahvaltida-bulustu)
-
-![](data/images/baskan-unluce-eskisehir-kirkalilar-derneginin-k-arsiv.jpg)
-
-> Etkinlikte Seyitgazi Belediye Başkanı Uğur Tepe de yer aldı.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Eskişehir Kırkalılar Kültür, Dayanışma ve Yardımlaşma Derneği'nin kadınlar için düzenlediği buluşma kahvaltısına katıldı. Seyitgazi Belediye Başkanı Uğur Tepe de etkinlikte yer aldı.
-
-Kahvaltı, kadınların bir araya gelerek sohbet etmesi ve komşuluk ilişkilerini geliştirmesi amacıyla düzenlendi. Ünlüce, kadınların bir aradalığının toplumsal yapıya katkı sunduğunu söyledi ve organizasyonda emeği bulunan Dernek Başkanı Ayberk Akyıldız ile yönetimine teşekkür etti.
 
 ---
