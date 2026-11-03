@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T23:32:24.426241+00:00",
+  "published_at": "2026-11-03T23:32:53.510218+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir gündem",
     "title": "\"Eskişehir Uluslararası Film Festivali\" - Haber 7",
     "url": "https://m.haber7.com/kultur/haber/2737858-eskisehir-uluslararasi-film-festivali"
   },
-  "photo_pending": {
-    "query": [
-      "Anadolu Üniversitesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/20-eskisehir-uluslararasi-film-festivali-16-24--arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anadolu_%C3%9Cniversitesi_K%C3%BCt%C3%BCphanesi.JPG",
+    "archive": true,
+    "credit": "Originally created and uploaded to the Turkish Wikipedia by  / Wikimedia Commons (Public domain)"
   }
 }
