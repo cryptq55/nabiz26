@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T19:34:45.062901+00:00",
+  "published_at": "2026-11-03T19:36:16.888373+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir gündem",
     "title": "Eskişehir, Türkiye’nin En Güvenli Şehri Oldu - Ajans04",
     "url": "https://www.ajans04.net/eskisehir-turkiye-nin-en-guvenli-sehri-oldu"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/unluce-numbeo-guvenlik-endeksinde-eskisehir-tur-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ay%C5%9Fe_%C3%9Cnl%C3%BCce_Se%C3%A7im_Otob%C3%BCs%C3%BC.jpg",
+    "archive": true,
+    "credit": "Erksahin / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
