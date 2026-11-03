@@ -2,6 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor 9 günde 3 maç oynayacak: Kepezspor, Anadolu SF ve Ayvalıkgücü
+
+**Spor · Merkez** · 2026-11-03 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporda-zorlu-donemec-9-gunde-3-mac)
+
+![](data/images/b0b66b0e76d060f3.jpg)
+
+> Eskişehirspor 11 Kasım'da Eskişehir Anadolu SF'ye konuk olacak.
+
+Eskişehirspor, Gaziemir deplasmanında aldığı 5-0'lık galibiyetin ardından 9 günde üç maça çıkacak. 10. haftada 7 Kasım Cumartesi günü saat 15.30'da Kepezspor'u ağırlayacak. 11. haftada 11 Kasım Çarşamba günü saat 15.00'te zirve mücadelesi veren Eskişehir Anadolu SF'ye konuk olacak. 12. haftada ise 15 Kasım Pazar günü saat 15.00'te Ayvalıkgücü Belediyespor'u konuk edecek; İstikbal Gazetesi'ne göre rakip geçen sezon olduğu gibi bu sezon da grupta zirve mücadelesi veriyor.
+
+Teknik direktör Hakan Şapcı'nın öğrencilerinin üç maçı da kazanarak 9 puan almayı hedeflediği belirtildi. Aynı hafta Eskişehir Anadolu SF, 7 Kasım'da saat 15.00'te Uşakspor ile deplasmanda oynayacak.
+
+---
+
+## Bayraktar, Beylikova'daki nadir toprak elementleri için Güney Koreli şirketle görüştü
+
+**Ekonomi · Merkez** · 2026-11-03 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/siyaset/bakan-bayraktar-eskisehir-deki-nadir-toprak-elementleri-icin-guney-koreli-sirketle-gorustu-2552995)
+
+> Görüşme, cevherden nihai ürüne uzanan entegre değer zinciri üzerine yapıldı.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Güney Koreli kalıcı mıknatıs üreticisi JS Link'in Yönetim Kurulu Başkanı J.S. Park ve beraberindeki yetkililerle Güney Kore'de bir araya geldi. Bayraktar sosyal medya hesabından yaptığı açıklamada, görüşmede Eskişehir Beylikova'daki nadir toprak elementleri kaynağının cevherden nihai ürüne uzanan entegre bir değer zinciriyle ekonomiye kazandırılmasına yönelik iş birliği imkânlarının değerlendirildiğini söyledi.
+
+Bayraktar, nadir toprak elementlerinden yenilenebilir enerji teknolojilerine kadar enerjinin ve madenciliğin tüm alanlarında kaynak potansiyelini yüksek katma değerli üretime dönüştürecek yatırımlara ve uluslararası iş birliklerine açık olduklarını vurguladı. Açıklamada somut bir anlaşma veya yatırım tutarı yer almadı.
+
+---
+
 ## AK Partili Sivri, Tepebaşı Meclisi'nde SSK Blokları'nda kentsel dönüşümü istedi
 
 **Belediye · Tepebaşı** · 2026-11-03 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda)
@@ -421,37 +447,5 @@ Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TBMM Plan ve Bütçe Komisyonu'
 Kacır, Togg'un 2026'da 60 bine yakın teslimat hedeflediğini, gelecek yıl piyasaya çıkacak yeni modelle kapasitenin 100 bin adede ulaşmasının planlandığını söyledi. Bakan, "Hep birlikte TOGG'a güçlü şekilde sahip çıkıyoruz" dedi.
 
 Kacır'ın aktardığına göre Togg 2023'te 19 bin 600, 2024'te 30 bin, 2025'te 39 bin araç teslim etti. Bakan, markanın kendi segmentinde yüzde 31 pazar payıyla en çok satan otomobil olduğunu belirtti. ÖTV iadesi dahil çeşitli teşviklerin Togg'a sunulduğunu, maliyetleri düşürme tedbirleri ve batarya teknolojilerindeki gelişmelerle şirketin kârlılığa yaklaştığını da ifade etti.
-
----
-
-## Togg'da ortaklık yapısı değişiyor: Anadolu Grubu ve Vestel paylarını devrediyor
-
-**Ekonomi · Türkiye** · 2026-11-02 23:32 UTC · Kaynak: [Google Haberler - Togg](https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874)
-
-![](data/images/toggda-ortaklik-yapisi-degisiyor-anadolu-grubu--arsiv.jpg)
-
-> Turkcell'in Togg'daki payı işlem tamamlanınca yüzde 34'e çıkacak.
-
-Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamalara göre Togg'un ortaklık yapısında değişiklik olacak.
-
-AG Anadolu Grubu Holding, Togg'daki yüzde 23'lük payının sermayenin yüzde 11'ine karşılık gelen bölümünü Turkcell'e, yüzde 12'sine karşılık gelen bölümünü Türkiye Varlık Fonu'na (TVF) devretmek üzere sözleşme imzaladı. Devir bedeli toplam 184 milyon avro olarak açıklandı ve kapanış tarihinde nakit ödenecek.
-
-Vestel Elektronik ise Togg'daki yüzde 23'lük payının tamamını 184 milyon avro karşılığında TVF'ye satacağını bildirdi. Vestel, satıştan elde edilecek tutarın en az yüzde 90'ının, elde edilme tarihinden itibaren 30 gün içinde nakdi banka kredilerine ilişkin vadesi gelmiş borçların ödenmesinde kullanılacağını açıkladı.
-
-Turkcell'in açıklamasına göre sözleşmedeki ön şartların tamamlanmasının ardından işlemin kapanışı planlanıyor; işlem tamamlandığında Turkcell'in Togg'daki payı yüzde 34'e yükselecek. Turkcell, yatırımın teknoloji altyapısı ve dijital hizmetler alanındaki yetkinlikleriyle stratejik uyum gösterdiğini belirtti.
-
----
-
-## Eskişehir Şehir Hastanesi'nin yeni başhekimi Prof. Dr. Mustafa Cem Algın oldu
-
-**Sağlık · Merkez** · 2026-11-02 22:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehir-sehir-hastanesinin-yeni-bashekimi-belli-oldu)
-
-![](data/images/eskisehir-sehir-hastanesinin-yeni-bashekimi-pro-arsiv.jpg)
-
-> Algın, görevi Dr. Öğr. Üyesi Fatih Alper Ayyıldız'dan devraldı.
-
-Eskişehir Şehir Hastanesi'nde başhekimlik görevinde değişikliğe gidildi. Dr. Öğr. Üyesi Fatih Alper Ayyıldız'ın yürüttüğü başhekimlik görevine, Genel Cerrahi Uzmanı Prof. Dr. Mustafa Cem Algın atandı. Daha önce aynı hastanede genel cerrahi uzmanı olarak görev yapan Algın, Kasım 2026 itibarıyla hastanenin yeni başhekimi oldu.
-
-Kaynakta aktarılan özgeçmişine göre Algın, Eskişehir doğumlu. Hacettepe Üniversitesi Tıp Fakültesi'nden 1991'de mezun oldu, meslek hayatına Eskişehir Devlet Hastanesi'nde pratisyen hekim olarak başladı. Genel cerrahi uzmanlığını Eskişehir Osmangazi Üniversitesi Tıp Fakültesi'nde tamamladı, akademik kariyerine Dumlupınar Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesi'nde devam ederek profesörlük unvanını aldı. 2018-2023 arasında dekanlık yaptı, rektör yardımcılığı görevinde de bulundu. Sindirim sistemi, safra yolları, karaciğer, tiroid ve meme hastalıklarının cerrahi tedavisi üzerine çalıştı.
 
 ---
