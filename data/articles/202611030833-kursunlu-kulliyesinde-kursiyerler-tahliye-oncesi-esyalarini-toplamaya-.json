@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T08:33:44.345590+00:00",
+  "published_at": "2026-11-03T08:34:21.119798+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "Kurşunlu Külliyesi’nde kursiyerler eşyalarını toplamaya başladı - Eskisehir.Net",
     "url": "https://www.eskisehir.net/kursunlu-kulliyesinde-kursiyerler-esyalarini-toplamaya-basladi"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kursunlu-kulliyesinde-kursiyerler-tahliye-onces-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_school_in_2006_1724.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

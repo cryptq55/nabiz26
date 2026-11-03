@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T08:33:10.039480+00:00",
+  "published_at": "2026-11-03T08:34:18.923247+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Togg",
     "title": "Ekim ayında en çok satan otomobil Togg T10X oldu: İşte liste - DonanımHaber",
     "url": "https://www.donanimhaber.com/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-oldu--212395"
   },
-  "photo_pending": {
-    "query": [
-      "Togg"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-old-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Togg_Showroom.jpg",
+    "archive": true,
+    "credit": "Metuboy / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
