@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 03.11.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; yeni haberlerden biri 200, biri (Ali Güven Turizm Lisesi) 404: kaydında fotoğraf yok, sayfa üretilmiyor (beklenen). Derleme geçti (231 sayfa / 323 kayıt, venv ile). Son haber 08:32 TSİ; son 24 saatte 29 haber (Eğitim/Gündem 5, Belediye 4, Ulaşım/Ekonomi/Kültür-Sanat 3, Sağlık/Asayiş 2, Spor/Türkiye 1; ilçe Merkez 14, Tepebaşı 6, Odunpazarı 5, Türkiye 4), 7'sinde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 8. Yinelenen: "582 kişi/şahıs" ve "Kurşunlu Külliyesi" haberleri benzer (yayınlanmışlara dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Spor, Türkiye, Sağlık.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e UKOME, asfalt, Kurşunlu, hamsi/Karadeniz festivali, Güney Kore, gastronomi, başhekim, ihale, madalya, tebligat etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Spor/Eğitim kaynakları.
+SAHİBİNE: yok.
+
 ## 02.11.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Son haber 21:33 TSİ; son 24 saatte 38 haber (Gündem 9, Kültür-Sanat/Belediye 7, Eğitim 5, Asayiş 3, Spor/Türkiye 2, Ekonomi/Ulaşım/Sağlık 1; ilçe Merkez 24, Odunpazarı 7, Tepebaşı 4, Türkiye 3), `photo_pending` 0. Akış toparlandı. Instagram: log 16 (DAILY_CAP dolu), reel_log 6, reels kaydı 53. Aynı olay iki kez yayınlanmış: "ekimde aranan 582 şahıs/kişi" ve "Erdoğan Güney Kore ziyareti" (yayınlanmış haberlere dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı).
 **Düzeltilen/İyileştirme:** `newsbot.py` `find_duplicate`: `--save` son 36 saatteki başlıklarla karşılaştırır (ortak 3+ haneli sayı ya da yüksek ortak kelime oranı), yinelenen haberi atlar. Son 3 günün gerçek haberlerinde denendi: iki yineleme yakalandı, farklı olaylar (koro başladı/bitti, trafik/okul servisi) geçti.
