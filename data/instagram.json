@@ -296,7 +296,9 @@
   "202611031334-kirim-kavsagindaki-kaza-tramvay-seferlerini-yaklasik-40-dakika-aksatti",
   "202611031333-yeni-partili-meclis-uyeleri-kursunlu-kulliyesi-icin-uzlasma-cagrisi-ya",
   "202611031432-kursunlu-kulliyesinde-tahliye-islemleri-basladi-kadin-girisimciler-kap",
-  "202611031432-tepebasi-meclisi-kiyafet-bagis-kutulari-icin-kizilayla-3-yillik-is-bir"
+  "202611031432-tepebasi-meclisi-kiyafet-bagis-kutulari-icin-kizilayla-3-yillik-is-bir",
+  "202611031633-ak-partili-sivri-tepebasi-meclisinde-ssk-bloklarinda-kentsel-donusumu-",
+  "202611031732-eskisehirspor-9-gunde-3-mac-oynayacak-kepezspor-anadolu-sf-ve-ayvalikg"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -340,7 +342,8 @@
   "202611020737-eskisehirde-ekimde-aranan-582-sahis-yakalandi-794-uygulama-noktasi-kur",
   "202611022331-toggda-ortaklik-yapisi-degisiyor-anadolu-grubu-ve-vestel-paylarini-dev",
   "202611030232-bakan-kacir-togg-2026da-60-bine-yakin-teslimat-hedefliyor-gelecek-yil-",
-  "202611031032-kursunlu-kulliyesinde-kaymakamlik-yetkilileri-inceleme-yapti-tutanak-i"
+  "202611031032-kursunlu-kulliyesinde-kaymakamlik-yetkilileri-inceleme-yapti-tutanak-i",
+  "202611031633-ak-partili-sivri-tepebasi-meclisinde-ssk-bloklarinda-kentsel-donusumu-"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -401,11 +404,10 @@
   "202611022032-ak-partili-meclis-uyeleri-kursunlu-kulliyesi-kapanmiyor-belediye-bilgi",
   "202611021832-eski-cankayadaki-hat-calismasi-nedeniyle-6-mahallede-su-kesintisi-sure",
   "202611021239-tepebasinin-ataturk-temali-kolektif-anitinin-adi-cumhuriyetin-cocuklar",
-  "202611031132-kursunlu-kulliyesinde-tahliye-bildirildi-kurt-karari-tanimiyoruz-dedi"
+  "202611031132-kursunlu-kulliyesinde-tahliye-bildirildi-kurt-karari-tanimiyoruz-dedi",
+  "202611031432-kursunlu-kulliyesinde-tahliye-islemleri-basladi-kadin-girisimciler-kap"
  ],
  "log": [
-  1793640096.9809794,
-  1793640122.9753234,
   1793642428.7541606,
   1793642448.523154,
   1793642469.2141407,
@@ -419,16 +421,18 @@
   1793680690.8837004,
   1793680709.773092,
   1793712189.2595205,
-  1793712207.531777
+  1793712207.531777,
+  1793727492.4753652,
+  1793727510.5047312
  ],
  "reel_log": [
-  1793640096.9809816,
   1793642428.754162,
   1793648276.9744556,
   1793659395.713708,
   1793662713.1777956,
   1793673491.6522439,
   1793680690.8837025,
-  1793712189.2595222
+  1793712189.2595222,
+  1793727492.4753668
  ]
 }
