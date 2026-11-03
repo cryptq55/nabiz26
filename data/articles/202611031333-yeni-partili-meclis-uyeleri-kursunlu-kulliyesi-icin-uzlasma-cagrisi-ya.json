@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T13:33:54.635400+00:00",
+  "published_at": "2026-11-03T13:34:42.355362+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "YENİ Partili meclis üyelerinden Kurşunlu Külliyesi için uzlaşma çağrısı - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/yeni-partili-meclis-uyelerinden-kursunlu-kulliyesi-icin-uzlasma-cagrisi"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/yeni-partili-meclis-uyeleri-kursunlu-kulliyesi--arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi_1683.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
