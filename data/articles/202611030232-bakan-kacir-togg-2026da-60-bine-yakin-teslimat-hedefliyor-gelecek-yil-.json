@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T02:32:08.237690+00:00",
+  "published_at": "2026-11-03T02:32:44.988679+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Togg",
     "title": "TOGG'da gelecek yıl 100 bin kapasite hedefleniyor - Toplumsal Haber",
     "url": "https://www.toplumsal.com.tr/haber/togg-da-gelecek-yil-100-bin-kapasite-hedefleniyor_32622/"
   },
-  "photo_pending": {
-    "query": [
-      "Togg"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/bakan-kacir-togg-2026da-60-bine-yakin-teslimat--arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Togg_T10X_IAA_2025_DSC_2141.jpg",
+    "archive": true,
+    "credit": "Alexander-93 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
