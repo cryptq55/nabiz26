@@ -2,6 +2,62 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nın "Gel Beraber Olsun" yemek projesi yeni adresinde 2 bin 30 öğrenciye ulaştı
+
+**Belediye · Tepebaşı** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://gazetekalem.com.tr/tepebasi-belediyesinin-gel-beraber-olsun-projesi-yeni-adresinde-ogrencileri-agirliyor/)
+
+![](data/images/6958882cad4ce735.jpg)
+
+> Proje 19 Ekim'den bu yana Ali Rıza Efendi Deneyimli Kafe'de hizmet veriyor.
+
+Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik "Gel Beraber Olsun" projesi, 19 Ekim 2026'dan bu yana Ali Rıza Efendi Deneyimli Kafe'de hizmet veriyor. Hafta içi her gün saat 18.00-19.00 arasında sunulan akşam yemeği desteğinden yeni dönemin başlangıcından bu yana 2 bin 30 öğrenci yararlandı.
+
+Projeyi ziyaret eden Belediye Başkanı Ahmet Ataç, öğrencilerle yemek yedi, sohbet etti ve görüşlerini dinledi. Ataç, gençlerin barınma, ulaşım ve beslenme gibi ihtiyaçları için zorlandığını belirterek belediyenin öğrencilerin bir öğün yemeğini üstlenmek istediğini söyledi. Belediyenin 2022'den bu yana on binlerce öğrenciyle aynı sofrayı paylaştığını ifade eden Ataç, tüm üniversiteli gençleri sofraya davet etti.
+
+---
+
+## Kurşunlu Külliyesi'nde tahliye bildirildi: Kurt "Kararı tanımıyoruz" dedi
+
+**Gündem · Odunpazarı** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.medyagazete.com/haber/kursunlu-kulliyesinde-tahliye-gerginligi)
+
+> Odunpazarı Belediye Başkanı Kurt, külliyede basın açıklaması yaptı.
+
+Medya Gazete'nin aktardığına göre Kurşunlu Külliyesi'nin tahliyesi 3 Kasım'da saat 11.00 itibarıyla belediye ekiplerine tebliğ edildi. Külliyeye gelen Odunpazarı Belediye Başkanı Kazım Kurt basın açıklaması yaptı.
+
+Kurt, kararın kanuna aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen maddenin belediyeye 5 yıl daha kiracı olma hakkı verdiğini, bu başvurunun idare mahkemesinde beklediğini, iki gün önce yürütmeyi durdurma kararı verilinceye kadar beklenileceğinin bildirildiğini söyledi. Kurt, "Biz şu anda burada hiçbir şeyi imzalamayacağız, çünkü bu kararı tanımıyoruz" dedi.
+
+Külliyedeki müze ve sanat eserlerinin 400 sayfalık envanterle kayıtlı olduğunu belirten Kurt, eserlerden birine zarar gelirse hesabını soracaklarını söyledi. Külliyenin kapatılması halinde çalışanların işsiz kalacağını ve esnafın ticari yaşamının sıkıntıya düşeceğini ifade etti.
+
+Haber Kurt'un açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
+
+---
+
+## Başkan Ünlüce Porsuk Barajı'nda inceleme yaptı: "Eskişehir'in suyuna sahip çıkacağız"
+
+**Gündem · Merkez** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-porsuk-baraji-nda-inceleme-710bfb95)
+
+> Ünlüce, ESKİ yetkilileriyle barajdaki mevcut durumu değerlendirdi.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, ESKİ Genel Müdürü Niyazi Solak, Genel Müdür Yardımcısı Erdem Uslu ve Su Arıtma ve İşletme Dairesi Başkanı Eylem Sıla Özer ile birlikte Porsuk Barajı'nda inceleme yaptı. Ünlüce, kentin içme suyu ihtiyacının karşılanmasında önemli olan barajdaki mevcut durumu değerlendirdi ve su kaynaklarının korunması ile sürdürülebilir su yönetimi kapsamında yürütülen çalışmalar hakkında yetkililerden bilgi aldı.
+
+Ünlüce, "Eskişehir'imizin tek su kaynağı olan Porsuk Barajı'nda ekiplerimizle birlikte incelemelerde bulunduk" dedi. Önceliklerinin suyu kaynağından başlayarak korumak, sağlıklı ve güvenli biçimde kente ulaştırmak, kayıp ve kaçakları azaltmak, atık suyu doğru yönetmek ve gelecek kuşakların su hakkını gözetmek olduğunu söyledi.
+
+---
+
+## Harezmi Eğitim Modeli Eskişehir'de 16 okulda uygulanacak
+
+**Eğitim · Merkez** · 2026-11-03 11:31 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/harezmi-egitim-modeli-2026-2027-egitim-ogretim-yilinda-eskisehir039de-16-okulda-uygulanacak/icerik/8701/tr)
+
+![](data/images/da2c7685cab2aee6.jpg)
+
+> Model 3 ilçede, 17 ekiple ve 64 öğretmenle yürütülecek.
+
+Eskişehir İl Millî Eğitim Müdürlüğü'nün açıklamasına göre disiplinler arası öğrenmeyi, üretkenliği ve problem çözme becerilerini merkeze alan Harezmi Eğitim Modeli, 2026-2027 eğitim öğretim yılında Eskişehir'de 3 ilçede, 16 okulda ve 17 ekiple uygulanacak. Modelde 64 öğretmen görev alacak.
+
+Model kapsamında öğrenciler günlük yaşamla bağlantılı sorunları belirleyerek çözüm önerileri geliştirecek, tasarımlar yapacak ve ürünlerini uygulamaya dönüştürecek. Bilişim teknolojileri, matematik, fen bilimleri, sosyal bilimler ve sanat gibi farklı disiplinler bir araya getirilecek; öğrencilerin araştırma, sorgulama, eleştirel düşünme, iş birliği, tasarlama ve üretme becerilerinin geliştirilmesi hedefleniyor. Çalışmalar "Düşün, Tasarla, Üret ve Uygula" anlayışıyla yürütülecek.
+
+---
+
 ## Tepebaşı'nda belde evlerindeki oyun gruplarında 15 çocuk bir araya geliyor
 
 **Belediye · Tepebaşı** · 2026-11-03 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklaroyungruplarındabulusuyor)
@@ -20,7 +76,9 @@ Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların gelişimini desteklemeni
 
 ## Kurşunlu Külliyesi'nde Kaymakamlık yetkilileri inceleme yaptı: tutanak imzalanmadı
 
-**Gündem · Odunpazarı** · 2026-11-03 10:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/kursunlu-kulliyesi-odunpazari-belediyesinden-alindi-tutanak-imzalanmadi-eserler-kaydedildi)
+**Gündem · Odunpazarı** · 2026-11-03 10:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/kursunlu-kulliyesi-odunpazari-belediyesinden-alindi-tutanak-imzalanmadi-eserler-kaydedildi)
+
+![](data/images/kursunlu-kulliyesinde-kaymakamlik-yetkilileri-i-arsiv.jpg)
 
 > Belediye yetkilileri tutanağı imzalamayacaklarını, 400 eserin kaydedilmesini istedi.
 
@@ -411,71 +469,5 @@ Ziynet altınlarda çeyrek altın 10.387 TL, yarım altın 20.768 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.942,60 dolardan işlem görürken, dolar/TL 49,99 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 17.14 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Eskişehir Şehir Hastanesi'nde Ürojinekoloji ve yeni Menopoz Polikliniği hizmet veriyor
-
-**Sağlık · Merkez** · 2026-11-02 12:40 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.saraymedya.com/haber/eskisehir-sehir-hastanesi-nde-kadin-sagligina-iki-yeni-hizmet_320098/)
-
-![](data/images/eskisehir-sehir-hastanesinde-urojinekoloji-ve-y-arsiv.jpg)
-
-> Hastanede kadın sağlığına yönelik iki poliklinik çalışıyor.
-
-Eskişehir Şehir Hastanesi, kadın sağlığı hizmetlerini Ürojinekoloji Polikliniği ve yeni açılan Menopoz Polikliniği ile genişletti.
-
-Yaklaşık 1,5 yıldır hizmet veren Ürojinekoloji Polikliniği, idrar kaçırma ve organ sarkması şikâyetlerine multidisipliner yaklaşımla çözüm sunuyor. Kadın Hastalıkları ve Doğum Uzmanı Dr. Keziban Saylam Dönmez, kadınların yaklaşık yüzde 50'sinde idrar kaçağı görülebildiğini söyledi. Dönmez'e göre tedavi hasta eğitimi ve davranış tedavileriyle başlıyor; küçük sınıflarda fizik tedavi doktoru ve fizyoterapistle eğitimler veriliyor, gerektiğinde hastalar diyetisyene, obezite merkezine ve sigara bırakma birimlerine yönlendiriliyor. Fizyoterapist Emine Aşıcı, pelvik taban sağlığı için kuvvetlendirme, gevşetme ve stabilize etme programları uyguladıklarını belirtti.
-
-Yeni Menopoz Polikliniği ise menopoz dönemi şikâyetlerine hizmet veriyor. Op. Dr. Melike Yıldırım, polikliniğin beklentilerin üzerinde ilgi gördüğünü, erken menopoz ve perimenopoz dönemindeki kadınlara da hizmet verdiklerini ve hem hormonlu hem hormonsuz tedavi seçenekleri bulunduğunu söyledi.
-
----
-
-## Tepebaşı'nın Atatürk temalı kolektif anıtının adı "Cumhuriyet'in Çocukları" oldu
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-02 12:39 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/eskisehirlilerkararverdicumhuriyet’incocukları)
-
-![](data/images/5dfcf19e1f0142b9.jpg)
-
-> Anıtın adı, 1.272 kişinin katıldığı ankette belirlendi.
-
-Tepebaşı Belediyesi'nin 18. Uluslararası Eskişehir Pişmiş Toprak Sempozyumu kapsamında kente kazandırdığı, Türkiye'nin ilk Atatürk temalı kolektif anıtının adı "Cumhuriyet'in Çocukları" oldu.
-
-Belediyenin aktardığına göre üç gün süren anketlere toplam 1.272 kişi katıldı. Adı "Cumhuriyet'in Çocukları" olan öneri ilk ankette yüzde 65, ikinci ankette yüzde 53 oyla öne çıktı. Belediyenin sosyal medya hesaplarına gelen yorumlarda da en çok önerilen isim buydu.
-
-Anıtın yapımında 6'sı Türk, 2'si yabancı 8 sanatçı, 4 konuk akademisyen, 24 stajyer ve 90 çocuk yer aldı; böylece eser 126 kişinin emeğiyle hazırlandı. Genel tasarımı Prof. Bilgehan Uzuner yaptı. Tasarımın merkezinde Atatürk'ün silueti bulunuyor, belirli saatlerde ışık eserin içinden yere yansıyor. Çocukların pişmiş topraktan ürettiği çiçekler esere eklendi. Anıt, sempozyum kapsamında hazırlanan dördüncü kolektif eser oldu.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, "Bu eser artık yalnızca onu yapanların değil, adını veren Eskişehirlilerin de anıtı" dedi.
-
----
-
-## Tepebaşı'ndaki Bahriye Üçok Eğitim Merkezi'nden 3 yılda 3 bin 688 öğrenci yararlandı
-
-**Eğitim · Tepebaşı** · 2026-11-02 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.cumhuriyet.com.tr/yerel-gundem/tepebasi-belediyesi-egitim-ve-gelisim-merkezi-nde-3-yilda-3-bin-688-ogrenci-egitim-gordu-2552494)
-
-![](data/images/fb6a5d56614437ea.jpg)
-
-> Güz döneminde 26 grupta 357 öğrenci ders desteği alıyor.
-
-Tepebaşı Belediyesi'nin çocukların okul derslerini desteklemek amacıyla 2023'te hizmete açtığı Bahriye Üçok Eğitim ve Gelişim Merkezi'nden bugüne kadar toplam 3 bin 688 öğrenci yararlandı. Ekimde başlayan yeni güz döneminde 26 grupta 357 öğrenci eğitim alıyor.
-
-Merkezde matematik, fen bilimleri, Türkçe, İngilizce ve sosyal bilgiler derslerinin yanı sıra rehberlik çalışmaları da yürütülüyor. Merkezin, çocukların eğitim olanaklarına erişiminin ailelerinin ekonomik koşullarına bağlı kalmaması hedefiyle çalıştığı belirtildi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, eğitime erişimin her çocuğun temel hakkı olduğunu vurgulayarak, "Tepebaşı'nda hiçbir çocuğun eğitim hakkından mahrum kalmaması için çalışmaya devam edeceğiz" dedi.
-
----
-
-## Talim ve Terbiye Kurulu'nun 100. yıl özel oturumu Bakan Tekin başkanlığında yapıldı
-
-**Eğitim · Türkiye** · 2026-11-02 11:32 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quottalim-ve-terbiye-kurulu-100-yil-ozel-oturumuquot-bakan-tekin-baskanliginda-yapildi/haber/42382/tr)
-
-![](data/images/f584c866e2afeabc.jpg)
-
-> Kurul, 5 maddelik "100. Yıl Kararları"nı oy birliğiyle kabul etti.
-
-Millî Eğitim Bakanlığı'nın bilimsel danışma ve inceleme organı Talim ve Terbiye Kurulu Başkanlığı'nın kuruluşunun 100. yılında "100. Yıl Özel Oturumu" yapıldı. Oturum, Bakan Yusuf Tekin başkanlığında Kurul Toplantı Salonu'nda gerçekleştirildi. Kurul Başkanı Cem Gençoğlu oturumu açtı.
-
-"100. Yıl Kararları" taslağı okundu ve açık oylamada 5 maddeden oluşan kararlar Kurul üyelerinin oy birliğiyle kabul edilip imzalandı.
-
-Bakan Tekin konuşmasında, Kurulun kuruluşunun 1 Kasım 1926'da Mustafa Kemal Atatürk tarafından TBMM'de ilan edildiğini hatırlattı. Türkiye Yüzyılı Maarif Modeli'nin oluşturulmasında Kurulun önemli katkısı olduğunu söyleyen Tekin, modelin programları beceri temelli hale getirdiğini belirtti. Tekin, 2029'da yapılacak PISA döngüsünde modelin etkisiyle daha başarılı bir sonuç alınacağına inandığını söyledi.
 
 ---
