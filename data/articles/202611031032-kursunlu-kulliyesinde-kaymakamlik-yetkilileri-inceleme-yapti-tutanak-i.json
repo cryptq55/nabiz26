@@ -13,17 +13,17 @@
   ],
   "importance": 4,
   "reel": false,
-  "published_at": "2026-11-03T10:32:44.206559+00:00",
+  "published_at": "2026-11-03T10:33:20.561031+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "Kurşunlu Külliyesi Odunpazarı Belediyesi’nden alındı: Tutanak imzalanmadı, eserler kaydedildi - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/kursunlu-kulliyesi-odunpazari-belediyesinden-alindi-tutanak-imzalanmadi-eserler-kaydedildi"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kursunlu-kulliyesinde-kaymakamlik-yetkilileri-i-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi_1630.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
