@@ -4,7 +4,9 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 ## Togg'da ortaklık yapısı değişiyor: Anadolu Grubu ve Vestel paylarını devrediyor
 
-**Ekonomi · Türkiye** · 2026-11-02 23:31 UTC · Kaynak: [Google Haberler - Togg](https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874)
+**Ekonomi · Türkiye** · 2026-11-02 23:32 UTC · Kaynak: [Google Haberler - Togg](https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874)
+
+![](data/images/toggda-ortaklik-yapisi-degisiyor-anadolu-grubu--arsiv.jpg)
 
 > Turkcell'in Togg'daki payı işlem tamamlanınca yüzde 34'e çıkacak.
 
