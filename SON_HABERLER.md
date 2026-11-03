@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehir Anadolu SF-Eskişehirspor maçının saati 13.00'e alındı
+
+**Spor · Merkez** · 2026-11-03 20:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/anadolu-spor-faaliyetleri-eskisehirspor-macinin-saati-degisti)
+
+![](data/images/d6b6e778bcdd6892.jpg)
+
+> Saat değişikliği canlı yayın programı nedeniyle yapıldı; stat görüşmeleri sürüyor.
+
+11 Kasım Çarşamba günü saat 15.00'te oynanacağı duyurulan Eskişehir Anadolu Spor Faaliyetleri-Eskişehirspor karşılaşmasının başlama saati 13.00 olarak güncellendi. İstikbal Gazetesi'nin aktardığına göre TFF'nin Anadolu Spor Faaliyetleri kulübüne yaptığı bildirimde saat değişikliğinin canlı yayın programı nedeniyle yapıldığı belirtildi.
+
+Maçın ESOGÜ Stadyumu yerine Fethi Heper Stadyumu'nda oynanması için görüşmelerin sürdüğü bildirildi.
+
+---
+
 ## Odunpazarı'ndaki bentonit ocağının ÇED olumlu kararı mahkemece iptal edildi
 
 **Gündem · Odunpazarı** · 2026-11-03 19:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/eskisehirde-iki-koyu-ilgilendiren-maden-ocagi-davasinda-karar-cikti)
@@ -18,7 +32,9 @@ Haber TEMA Vakfı'nın açıklamasına dayanıyor; ocağı işleten firmanın ve
 
 ## Ünlüce: Numbeo güvenlik endeksinde Eskişehir Türkiye'de ilk sırada
 
-**Gündem · Merkez** · 2026-11-03 19:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ajans04.net/eskisehir-turkiye-nin-en-guvenli-sehri-oldu)
+**Gündem · Merkez** · 2026-11-03 19:36 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ajans04.net/eskisehir-turkiye-nin-en-guvenli-sehri-oldu)
+
+![](data/images/unluce-numbeo-guvenlik-endeksinde-eskisehir-tur-arsiv.jpg)
 
 > Numbeo verileri kitle kaynaklı; endeks 1 Kasım 2026'da güncellendi.
 
@@ -431,23 +447,5 @@ Afetlerde emniyet, jandarma ve sağlık ekipleri başta olmak üzere farklı kur
 Eskişehir Odunpazarı'ndaki tarihi Kurşunlu Külliyesi'nin boşaltılmasına ilişkin süreç sürerken, külliyedeki atölyelerde sanat ve el emeği çalışmaları yapan kursiyerler eşyalarını toplamaya başladı. Kursiyerler, çalışmalarında kullandıkları malzemelerin yanı sıra el emeği ürünlerini ve kişisel eşyalarını bulundukları alanlardan çıkarıyor.
 
 Odunpazarı Kaymakamlığı, 30 Ekim'de mahkeme sürecini beklemek üzere durdurulan tahliye için iki gün sonra yeni bir yazı göndererek külliyenin 3 Kasım 2026 Salı günü saat 11.00'de Kütahya Vakıflar Bölge Müdürlüğü'ne teslim edilmesini istemişti. Kaynakta, Odunpazarı Belediyesi'nin bu yazı üzerine belirtilen tarihte tahliye işlemini gerçekleştireceğini bildirdiği aktarılıyor.
-
----
-
-## Ekim ayında en çok satan otomobil Togg T10X oldu: Togg iki modelle ilk dörtte
-
-**Ekonomi · Türkiye** · 2026-11-03 08:34 UTC · Kaynak: [Google Haberler - Togg](https://www.donanimhaber.com/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-oldu--212395)
-
-![](data/images/ekim-ayinda-en-cok-satan-otomobil-togg-t10x-old-arsiv.jpg)
-
-> Togg T10X 4.059, T10F 2.702 adetle ekimde elektrikli pazarın ilk iki sırasında.
-
-Otomobil gazetecisi Emre Özpeynirci'nin paylaştığı verilere göre Togg T10X, ekim ayında 4.059 adetlik satışla en çok satan otomobil oldu. Volkswagen T-Roc 3.324 adetle ikinci, Renault Boreal 2.779 adetle üçüncü sırada yer aldı. Togg T10F ise 2.702 adetle dördüncü oldu. İki Togg modelinin toplam satışı 6.761 adede ulaştı.
-
-Türkiye otomobil ve hafif ticari araç pazarı ekimde yıllık bazda yüzde 30,84 azalarak 80 bin 334 adet oldu; otomobil satışları 64 bin 939, hafif ticari araç satışları 15 bin 395 adet olarak aktarıldı. Yılın ilk 10 ayında pazar geçen yılın aynı dönemine göre yüzde 15,33 daralarak 883 bin 799 adede geriledi.
-
-Ocak-ekim döneminde en çok satan otomobil 35.844 adetle Renault Clio oldu. Toyota Corolla 26.455 adetle ikinci, Togg T10X 26.079 adetle üçüncü sırada yer aldı; Togg T10F 18.108 adetle ilk 10'da dokuzuncu sırada. İki modelin 10 aylık toplam satışı 44.187 adet.
-
-Togg modelleri ekimde ve ocak-ekim döneminde elektrikli otomobil pazarında da ilk iki sırada yer aldı.
 
 ---
