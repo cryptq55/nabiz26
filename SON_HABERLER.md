@@ -2,9 +2,31 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 3 Kasım 2026: Gram altın 6.383,19 TL
+
+**Ekonomi · Merkez** · 2026-11-03 13:17 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261103.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.314,41 TL'den alınıyor, 6.383,19 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 16.17 itibarıyla verilerine göre gram altının satış fiyatı 6.383,19 TL, alış fiyatı 6.314,41 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,57 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.404 TL, yarım altın 20.802 TL, tam altın 41.450 TL, ata altın 42.558 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.962,82 TL, has altının gram fiyatı 6.364,70 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.935,80 dolardan işlem görürken, dolar/TL 50,12 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 16.17 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Kızılinler bal kabağı coğrafi işaret olarak tescillendi
 
 **Tarım · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirin-kizilinler-bal-kabagi-cografi-isaret-olarak-tescil-edildi-119511141)
+
+![](data/images/kizilinler-bal-kabagi-cografi-isaret-olarak-tes-arsiv.jpg)
 
 > Eskişehir'in tescilli coğrafi işaret sayısı 15'e çıktı, 5 ürünün başvurusu sürüyor.
 
@@ -32,7 +54,9 @@ Bilet fiyatları kale arkası 250 TL, maraton alt 350 TL, maraton üst 500 TL ve
 
 ## "Bi' Fikirle Eskişehir" projesi: Porsuk Çayı ve köprüleri yeni aydınlatmaya kavuştu
 
-**Belediye · Merkez** · 2026-11-03 12:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-katilimci-butceyle-belirlenen-proje-tamamlandi-porsuk-cayi-ve-kopruler-aydinlatildi-2d53c6fa)
+**Belediye · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-katilimci-butceyle-belirlenen-proje-tamamlandi-porsuk-cayi-ve-kopruler-aydinlatildi-2d53c6fa)
+
+![](data/images/bi-fikirle-eskisehir-projesi-porsuk-cayi-ve-kop-arsiv.jpg)
 
 > Vatandaş önerileriyle belirlenen 26 projeden biri tamamlandı.
 
@@ -445,23 +469,5 @@ Belediyenin açıklamasına göre 315 araçlık otobüs filosu 116 hatta hizmet 
 Belediye, "Türkiye'nin Ulaşımda Net Sıfır Emisyon Yol Haritası Projesi" kapsamında 20 elektrikli otobüs alımına yönelik proje başvurusunun kazanıldığını, Bakanlık nezdindeki görüşmelerin sürdüğünü bildirdi.
 
 Opera-Kumlubel hattından Eskişehir Teknik Üniversitesi'ne tramvay bağlantısı için de çalışma başlatıldı. Projenin hava mania planı ve Karayolları Genel Müdürlüğü'nün sorumluluk alanında bulunması nedeniyle ilgili kurumlara yazı gönderildi; Büyükşehir, ESTÜ, Karayolları Genel Müdürlüğü ve Devlet Hava Meydanları İşletmesi ile irtibat halinde ve yanıtlar bekleniyor.
-
----
-
-## Odunpazarı Belediyesinde yeni atamalar: Sibel Yeşildal başkan yardımcılığına getirildi
-
-**Belediye · Odunpazarı** · 2026-11-02 17:15 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/odunpazari-belediyesinde-yeni-atamalar-kazim-kurt-isimleri-acikladi)
-
-![](data/images/c6d55d7dcf43d1a4.jpg)
-
-> Başkan Kurt, atamaları belediye meclisinin bilgisine sundu.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, belediye meclisinde geçen ay yapılan bazı atamaları meclisin bilgisine sundu.
-
-Kurt'un aktardığına göre belediye meclis üyesi Sibel Yeşildal belediye başkan yardımcılığına atandı. Gençlik ve Spor Hizmetleri Müdürü Soner Onrat Engelli ve Yaşlı Hizmetleri Müdürlüğü'ne, İşletme ve İştirakler Müdürü Ahmet Boz ise Gelirler Müdürlüğü'ne getirildi.
-
-Müdür vekilliklerine Merve Sadıç (Gençlik ve Spor Hizmetleri), Alper Eseroğlu (İşletme ve İştirakler), İhsan Araz (Ruhsat ve Denetim), Ercan Temel (Afet İşleri ve Risk Yönetimi) ve İlker Ardıç (Bilgi İşlem) atandı. Kurt, atananların görevlerine başladığını söyledi.
-
-Kurt ayrıca belediyede yapılan denetimlere ilişkin raporları grup başkanvekillerine sunduklarını, raporları meclisin bilgisine de sunduklarını belirtti.
 
 ---
