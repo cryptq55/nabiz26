@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## UKOME kararı: Tepebaşı'nda Akbal Sokak tek yön olacak, 4 araçlık park yeri yapılacak
+
+**Ulaşım · Tepebaşı** · 2026-11-03 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-sokak-tek-yon-oluyor-4-araclik-park-yeri-yapilacak-2446330)
+
+![](data/images/25dc7eac2b8e164a.jpg)
+
+> Sokaktaki Şehit Aileleri ve Gazilere Yönelik Sosyal Tesis'in girişine yaya geçidi de yapılacak.
+
+Eskişehir Büyükşehir Belediyesi Ulaşım Koordinasyon Merkezi (UKOME), Tepebaşı ilçesi Şarhöyük Mahallesi'ndeki Akbal Sokak için trafik düzenlemesi kararı aldı. Karar toplantıda oy birliğiyle alındı.
+
+Karara göre Şehit Aileleri ve Gazilere Yönelik Sosyal Tesis'in bulunduğu sokak, Gazi Yakup Satar Caddesi'nden Özkan Sokak'a doğru tek yön olarak düzenlenecek. Tesise gelenlerin araçlarını park edebilmesi için giriş kapısının karşısına 4 araçlık park yeri ayrılacak, giriş kapısına yakın noktada yaya geçidi yapılacak. Düzenlemeyle şehit yakınları, gaziler ve diğer yayalar için trafik güvenliğinin artırılması amaçlanıyor.
+
+UKOME kararına göre yeni düzenleme, gerekli yatay ve düşey trafik işaretleri ile levhaların yapılmasının ardından uygulanmaya başlanacak.
+
+---
+
 ## Ali Güven Turizm Lisesi öğrencileri Antalya'daki gastronomi festivalinde 15 madalya aldı
 
 **Eğitim · Merkez** · 2026-11-03 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirli-ogrenciler-gastronomi-festivalinde-15-madalya-kazandi-119510006)
@@ -16,7 +32,9 @@ Eskişehir'deki Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri
 
 ## Tepebaşı'nda Kırım Caddesi 3-4 Kasım'da asfalt çalışması için trafiğe kapanacak
 
-**Ulaşım · Tepebaşı** · 2026-11-03 04:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirin-islek-caddesi-2-gun-trafige-kapatilacak)
+**Ulaşım · Tepebaşı** · 2026-11-03 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirin-islek-caddesi-2-gun-trafige-kapatilacak)
+
+![](data/images/tepebasinda-kirim-caddesi-3-4-kasimda-asfalt-ca-arsiv.jpg)
 
 > Kapatma saat 08.30-17.30 arasında uygulanacak, alternatif güzergah açıklandı.
 
@@ -461,23 +479,5 @@ Erdoğan'a ziyarette Dışişleri Bakanı Hakan Fidan, Enerji ve Tabii Kaynaklar
 Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Eskişehir Kırkalılar Kültür, Dayanışma ve Yardımlaşma Derneği'nin kadınlar için düzenlediği buluşma kahvaltısına katıldı. Seyitgazi Belediye Başkanı Uğur Tepe de etkinlikte yer aldı.
 
 Kahvaltı, kadınların bir araya gelerek sohbet etmesi ve komşuluk ilişkilerini geliştirmesi amacıyla düzenlendi. Ünlüce, kadınların bir aradalığının toplumsal yapıya katkı sunduğunu söyledi ve organizasyonda emeği bulunan Dernek Başkanı Ayberk Akyıldız ile yönetimine teşekkür etti.
-
----
-
-## Ayşe Kulin Eskişehir'de okurlarıyla buluştu: salon dolup taştı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-02 06:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/ayse-kulin-odunpazari-nda-eskisehirlilerle-bulustu-kurtulus-savasi-bir-mucizedi)
-
-![](data/images/90df3a1324f1c247.jpg)
-
-> Odunpazarı Belediyesi'nin söyleşisinde Kulin, Cumhuriyet'i ve edebiyatın toplumsal sorumluluğunu anlattı.
-
-Odunpazarı Belediyesi'nin düzenlediği söyleşi ve imza gününde yazar Ayşe Kulin, 31 Ekim'de Hasan Polatkan Kültür Merkezi'nde Eskişehirlilerle buluştu. Belediyenin aktardığına göre salon katılımcıları almadı, çok sayıda kişi söyleşiyi ayakta izledi.
-
-Etkinliğe Odunpazarı Belediye Başkanı Kazım Kurt, Tepebaşı Belediye Başkanı Ahmet Ataç ve Anadolu Üniversitesi eski rektörü Prof. Dr. Engin Ataç katıldı. Söyleşinin moderatörlüğünü ÇYDD Eskişehir Şube Başkanı Sevgi Akmen yaptı.
-
-Cumhuriyet'in 103. yıl dönümü dolayısıyla yapılan söyleşide Kulin, Cumhuriyet'in tarihsel önemini ve çocukluk anılarını anlattı. "İşgal altındaki bir ülkenin kazandığı Kurtuluş Savaşı, benim için bir mucizedir" diyen Kulin, "Biz onu tırnaklarımızla kazandık" ifadesini kullandı. Dedesinin Harf Devrimi'ne ilişkin tutumunu anlatan Kulin, edebiyatın yalnızca hikâye anlatmak olmadığını, toplumsal sorunlara dikkat çekme sorumluluğu taşıdığını söyledi. Kulin'in Kurşunlu Külliyesi'ndeki müzelerin tahliyesi tartışmasına ilişkin sözleri de söyleşinin dikkat çeken başlıklarından biri oldu.
-
-Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
 
 ---
