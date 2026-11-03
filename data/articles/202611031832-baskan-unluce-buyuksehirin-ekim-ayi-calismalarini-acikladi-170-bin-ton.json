@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-03T18:32:36.288870+00:00",
+  "published_at": "2026-11-03T18:34:01.790318+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Ayşe Ünlüce Eskişehir'de ekim ayında yapılan çalışmaları açıkladı - Gzt26",
     "url": "https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi"
   },
-  "photo_pending": {
-    "query": [
-      "Ayşe Ünlüce"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/baskan-unluce-buyuksehirin-ekim-ayi-calismalari-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:AyseUnluce.jpg",
+    "archive": true,
+    "credit": "T.C. Eskişehir Büyükşehir Belediyesi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

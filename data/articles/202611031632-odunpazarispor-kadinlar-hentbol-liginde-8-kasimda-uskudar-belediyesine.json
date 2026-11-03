@@ -19,10 +19,10 @@
     "title": "Eskişehir Odunpazarı çıkış arıyor - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehir-odunpazari-cikis-ariyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Odunpazarı Belediyespor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
