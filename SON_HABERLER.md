@@ -2,6 +2,46 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'ndaki bentonit ocağının ÇED olumlu kararı mahkemece iptal edildi
+
+**Gündem · Odunpazarı** · 2026-11-03 19:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/eskisehirde-iki-koyu-ilgilendiren-maden-ocagi-davasinda-karar-cikti)
+
+> TEMA Vakfı, bilirkişi raporuna dayanarak sahanın rehabilite edilmesini istedi.
+
+Eskişehir'in Odunpazarı ilçesine bağlı Demirli ve Seklice köylerindeki bentonit ocağında planlanan kapasite artışına ilişkin ÇED olumlu kararı, açılan dava sonucunda iptal edildi. Bilgi TEMA Vakfı'nın sosyal medya açıklamasına dayanıyor.
+
+TEMA Vakfı'na göre dava kapsamında hazırlanan bilirkişi raporu projenin çevresel etkilerine ilişkin önemli tespitler içeriyor. Vakfın aktardığına göre 8 Mayıs'taki bilirkişi keşfinde ocak sahasındaki pasa yığınlarının yağış nedeniyle çöktüğü görüldü. Bilirkişi raporunda ÇED raporundaki teknik hatalar ile projenin doğal ve kültürel varlıklar üzerinde olumsuz etkiler yaratabileceği belirtildi. TEMA Vakfı, ÇED kararının iptalinin ardından proje sahasının vakit kaybedilmeden rehabilite edilmesi ve yeniden doğaya kazandırılması gerektiğini vurguladı.
+
+Haber TEMA Vakfı'nın açıklamasına dayanıyor; ocağı işleten firmanın ve ilgili kurumların görüşü kaynakta yer almıyor.
+
+---
+
+## Ünlüce: Numbeo güvenlik endeksinde Eskişehir Türkiye'de ilk sırada
+
+**Gündem · Merkez** · 2026-11-03 19:34 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ajans04.net/eskisehir-turkiye-nin-en-guvenli-sehri-oldu)
+
+> Numbeo verileri kitle kaynaklı; endeks 1 Kasım 2026'da güncellendi.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, uluslararası kitle kaynaklı veri tabanı Numbeo'nun 1 Kasım 2026'da güncellenen güvenlik endeksinde Eskişehir'in Türkiye'de değerlendirilen şehirler arasında ilk sırada yer aldığını sosyal medya hesabından duyurdu.
+
+Ünlüce, Eskişehir'in yalnızca kültür, sanat ve çağdaş yaşamıyla değil, güvenli ve huzurlu kent kimliğiyle de öne çıktığını belirtti, sonucun kent adına sevindirici olduğunu söyledi. Başarıda emeği bulunan kurum ve kuruluşları kutlayan Ünlüce, Eskişehir'in huzuruna ve güvenliğine katkı sunan vatandaşlara teşekkür etti. Haber Ünlüce'nin paylaşımına dayanıyor; endeksin ayrıntıları ve puanları kaynakta yer almıyor.
+
+---
+
+## Perma grubu 15 Ocak 2027'de Eskişehir'de konser verecek
+
+**Kültür-Sanat · Merkez** · 2026-11-03 19:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/perma-eskisehire-geliyor)
+
+![](data/images/0440a71fab72dd13.jpg)
+
+> Konser Permaverse Tour kapsamında Holly Stone'da yapılacak.
+
+Perma grubu, "Permaverse Tour" turne takvimini duyurdu ve rotaya Eskişehir'i de ekledi. Yayımlanan resmî turne afişine göre grup 15 Ocak 2027'de Eskişehir'de, Holly Stone'da sahne alacak.
+
+Turne kasım ayının son günlerinde İstanbul'da başlayacak; Bursa, Ankara, İzmir, Antalya, Trabzon ve Adana gibi şehirler de rotada yer alıyor. Kaynağa göre biletler henüz satışa çıkmadı; bilet detayları ve etkinlik saatlerine ilişkin duyurular bilet satış platformlarından takip edilebilecek.
+
+---
+
 ## Başkan Ünlüce Büyükşehir'in ekim ayı çalışmalarını açıkladı: 170 bin ton asfalt üretildi
 
 **Belediye · Merkez** · 2026-11-03 18:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi)
@@ -409,47 +449,5 @@ Türkiye otomobil ve hafif ticari araç pazarı ekimde yıllık bazda yüzde 30,
 Ocak-ekim döneminde en çok satan otomobil 35.844 adetle Renault Clio oldu. Toyota Corolla 26.455 adetle ikinci, Togg T10X 26.079 adetle üçüncü sırada yer aldı; Togg T10F 18.108 adetle ilk 10'da dokuzuncu sırada. İki modelin 10 aylık toplam satışı 44.187 adet.
 
 Togg modelleri ekimde ve ocak-ekim döneminde elektrikli otomobil pazarında da ilk iki sırada yer aldı.
-
----
-
-## UKOME kararı: Tepebaşı'nda Akbal Sokak tek yön olacak, 4 araçlık park yeri yapılacak
-
-**Ulaşım · Tepebaşı** · 2026-11-03 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirdeki-sokak-tek-yon-oluyor-4-araclik-park-yeri-yapilacak-2446330)
-
-![](data/images/25dc7eac2b8e164a.jpg)
-
-> Sokaktaki Şehit Aileleri ve Gazilere Yönelik Sosyal Tesis'in girişine yaya geçidi de yapılacak.
-
-Eskişehir Büyükşehir Belediyesi Ulaşım Koordinasyon Merkezi (UKOME), Tepebaşı ilçesi Şarhöyük Mahallesi'ndeki Akbal Sokak için trafik düzenlemesi kararı aldı. Karar toplantıda oy birliğiyle alındı.
-
-Karara göre Şehit Aileleri ve Gazilere Yönelik Sosyal Tesis'in bulunduğu sokak, Gazi Yakup Satar Caddesi'nden Özkan Sokak'a doğru tek yön olarak düzenlenecek. Tesise gelenlerin araçlarını park edebilmesi için giriş kapısının karşısına 4 araçlık park yeri ayrılacak, giriş kapısına yakın noktada yaya geçidi yapılacak. Düzenlemeyle şehit yakınları, gaziler ve diğer yayalar için trafik güvenliğinin artırılması amaçlanıyor.
-
-UKOME kararına göre yeni düzenleme, gerekli yatay ve düşey trafik işaretleri ile levhaların yapılmasının ardından uygulanmaya başlanacak.
-
----
-
-## Ali Güven Turizm Lisesi öğrencileri Antalya'daki gastronomi festivalinde 15 madalya aldı
-
-**Eğitim · Merkez** · 2026-11-03 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirli-ogrenciler-gastronomi-festivalinde-15-madalya-kazandi-119510006)
-
-> Öğrenciler 6 altın, 7 gümüş ve 2 bronz madalya aldı.
-
-Eskişehir'deki Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri, Antalya'da bu yıl 7'ncisi düzenlenen Game of Food Konyaaltı Uluslararası Gastronomi Festivali'nde 15 madalya kazandı.
-
-İl Milli Eğitim Müdürlüğü'nün açıklamasına göre farklı kategorilerde yarışan öğrenciler 6 altın, 7 gümüş ve 2 bronz madalya elde etti.
-
----
-
-## Tepebaşı'nda Kırım Caddesi 3-4 Kasım'da asfalt çalışması için trafiğe kapanacak
-
-**Ulaşım · Tepebaşı** · 2026-11-03 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/eskisehirin-islek-caddesi-2-gun-trafige-kapatilacak)
-
-![](data/images/tepebasinda-kirim-caddesi-3-4-kasimda-asfalt-ca-arsiv.jpg)
-
-> Kapatma saat 08.30-17.30 arasında uygulanacak, alternatif güzergah açıklandı.
-
-Eskişehir Büyükşehir Belediyesi, Tepebaşı ilçesindeki Kırım Caddesi'nde asfalt bakım ve onarım çalışması yapılacağını duyurdu. Caddenin Gazi Yakup Satar Caddesi ile Sakarya 1 Caddesi arasında kalan bölümü 3 Kasım Salı ve 4 Kasım Çarşamba günleri saat 08.30 ile 17.30 arasında araç trafiğine kapalı olacak.
-
-Çalışmayı Yol Yapım Bakım ve Onarım Dairesi Başkanlığı yürütecek. Belediye sürücülerden alternatif güzergah olarak İsmail Gaspıralı Caddesi üzerinden Hasan Polatkan Caddesi'ni kullanmalarını ve trafik işaret ve işaretçilerine uymalarını istedi. Yolun kapalı olduğu saatlerde acil durum araçlarının geçişi trafik güvenlik ekiplerince sağlanacak.
 
 ---
