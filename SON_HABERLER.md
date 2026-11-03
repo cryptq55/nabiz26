@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Başkan Ünlüce Büyükşehir'in ekim ayı çalışmalarını açıkladı: 170 bin ton asfalt üretildi
+
+**Belediye · Merkez** · 2026-11-03 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi)
+
+> Ünlüce, yeni nesil su sayaçlarından Bilim Fest'e kadar ekim ayının öne çıkan işlerini sıraladı.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, belediyenin ekim ayındaki çalışmalarını açıkladı. Aşağıdaki bilgiler Ünlüce'nin kendi açıklamasına dayanıyor.
+
+Ünlüce, ekim ayına bu yıl ilk kez düzenlenen Uluslararası Eskişehir Yunus Emre Edebiyat Şenliği ile başladıklarını, dört gün süren şenlikte sanatçı, yazar ve şairleri "neşe" temasında buluşturduklarını söyledi. Kent Edebiyat Ödülü'nün özel ödülü Latife Tekin'e verildi. 15-17 Ekim'de Bilim Fest Eskişehir düzenlendi.
+
+26 Ekim'de tanıtılan yeni nesil su sayaçlarıyla cep telefonlarından su yüklenebilir hale geldi; başvuru yapan tüm abonelere yeni sayaç takılacak. Ünlüce, ekim sonuna kadar kent genelinde 170 bin ton asfalt üretildiğini, kırsalda yaklaşık 70 kilometrelik sathi kaplama yapıldığını ve yılbaşından ekim sonuna kadar kırsal ilçelerde yaklaşık 850 milyon TL'lik altyapı ve üstyapı yatırımı gerçekleştirildiğini belirtti. ESKİ, ekimde Sazova, 71 Evler ve Emek mahallelerinde toplam 160 milyon TL değerinde altyapı yatırımı yaptı.
+
+Ünlüce ayrıca 6 Şubat depremlerinin ardından Adıyaman'la kurulan dayanışma bağının Eskişehir Parkı ile kalıcı bir esere dönüştürüldüğünü, kaldırım ve yol işgalleri ile çevre kirliliğine yönelik denetimlerin artırıldığını, tiyatro, senfoni, müze ve Otobüs 26 biletlerinin ESBilet uygulamasından alınabildiğini söyledi. Halk Dansları Grubu ilk gösterisini yaptı; Şehir Tiyatroları ve Senfoni Orkestrası yeni sezona başladı.
+
+---
+
 ## Eskişehirspor 9 günde 3 maç oynayacak: Kepezspor, Anadolu SF ve Ayvalıkgücü
 
 **Spor · Merkez** · 2026-11-03 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporda-zorlu-donemec-9-gunde-3-mac)
@@ -18,7 +34,9 @@ Teknik direktör Hakan Şapcı'nın öğrencilerinin üç maçı da kazanarak 9 
 
 ## Bayraktar, Beylikova'daki nadir toprak elementleri için Güney Koreli şirketle görüştü
 
-**Ekonomi · Merkez** · 2026-11-03 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/siyaset/bakan-bayraktar-eskisehir-deki-nadir-toprak-elementleri-icin-guney-koreli-sirketle-gorustu-2552995)
+**Ekonomi · Merkez** · 2026-11-03 17:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/siyaset/bakan-bayraktar-eskisehir-deki-nadir-toprak-elementleri-icin-guney-koreli-sirketle-gorustu-2552995)
+
+![](data/images/bayraktar-beylikovadaki-nadir-toprak-elementler-arsiv.jpg)
 
 > Görüşme, cevherden nihai ürüne uzanan entegre değer zinciri üzerine yapıldı.
 
@@ -431,21 +449,5 @@ Eskişehir'deki Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi öğrencileri
 Eskişehir Büyükşehir Belediyesi, Tepebaşı ilçesindeki Kırım Caddesi'nde asfalt bakım ve onarım çalışması yapılacağını duyurdu. Caddenin Gazi Yakup Satar Caddesi ile Sakarya 1 Caddesi arasında kalan bölümü 3 Kasım Salı ve 4 Kasım Çarşamba günleri saat 08.30 ile 17.30 arasında araç trafiğine kapalı olacak.
 
 Çalışmayı Yol Yapım Bakım ve Onarım Dairesi Başkanlığı yürütecek. Belediye sürücülerden alternatif güzergah olarak İsmail Gaspıralı Caddesi üzerinden Hasan Polatkan Caddesi'ni kullanmalarını ve trafik işaret ve işaretçilerine uymalarını istedi. Yolun kapalı olduğu saatlerde acil durum araçlarının geçişi trafik güvenlik ekiplerince sağlanacak.
-
----
-
-## Bakan Kacır: Togg 2026'da 60 bine yakın teslimat hedefliyor, gelecek yıl kapasite 100 bin
-
-**Ekonomi · Türkiye** · 2026-11-03 02:32 UTC · Kaynak: [Google Haberler - Togg](https://www.toplumsal.com.tr/haber/togg-da-gelecek-yil-100-bin-kapasite-hedefleniyor_32622/)
-
-![](data/images/bakan-kacir-togg-2026da-60-bine-yakin-teslimat--arsiv.jpg)
-
-> Kacır, Togg'un 2025'te 39 bin araç teslim ettiğini ve segmentinde yüzde 31 pazar payına sahip olduğunu söyledi.
-
-Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TBMM Plan ve Bütçe Komisyonu'nda milletvekillerinin sorularını yanıtlarken Togg'a ilişkin rakamlar paylaştı.
-
-Kacır, Togg'un 2026'da 60 bine yakın teslimat hedeflediğini, gelecek yıl piyasaya çıkacak yeni modelle kapasitenin 100 bin adede ulaşmasının planlandığını söyledi. Bakan, "Hep birlikte TOGG'a güçlü şekilde sahip çıkıyoruz" dedi.
-
-Kacır'ın aktardığına göre Togg 2023'te 19 bin 600, 2024'te 30 bin, 2025'te 39 bin araç teslim etti. Bakan, markanın kendi segmentinde yüzde 31 pazar payıyla en çok satan otomobil olduğunu belirtti. ÖTV iadesi dahil çeşitli teşviklerin Togg'a sunulduğunu, maliyetleri düşürme tedbirleri ve batarya teknolojilerindeki gelişmelerle şirketin kârlılığa yaklaştığını da ifade etti.
 
 ---
