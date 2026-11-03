@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Ekonomi · Türkiye** · 2026-11-03 02:32 UTC · Kaynak: [Google Haberler - Togg](https://www.toplumsal.com.tr/haber/togg-da-gelecek-yil-100-bin-kapasite-hedefleniyor_32622/)
 
+![](data/images/bakan-kacir-togg-2026da-60-bine-yakin-teslimat--arsiv.jpg)
+
 > Kacır, Togg'un 2025'te 39 bin araç teslim ettiğini ve segmentinde yüzde 31 pazar payına sahip olduğunu söyledi.
 
 Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, TBMM Plan ve Bütçe Komisyonu'nda milletvekillerinin sorularını yanıtlarken Togg'a ilişkin rakamlar paylaştı.
