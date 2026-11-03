@@ -4,7 +4,9 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 ## Başkan Ünlüce Büyükşehir'in ekim ayı çalışmalarını açıkladı: 170 bin ton asfalt üretildi
 
-**Belediye · Merkez** · 2026-11-03 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi)
+**Belediye · Merkez** · 2026-11-03 18:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi)
+
+![](data/images/baskan-unluce-buyuksehirin-ekim-ayi-calismalari-arsiv.jpg)
 
 > Ünlüce, yeni nesil su sayaçlarından Bilim Fest'e kadar ekim ayının öne çıkan işlerini sıraladı.
 
