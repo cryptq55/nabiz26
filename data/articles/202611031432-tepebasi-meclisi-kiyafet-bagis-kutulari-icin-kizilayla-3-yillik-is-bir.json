@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-03T14:32:56.881303+00:00",
+  "published_at": "2026-11-03T14:33:32.774990+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Tepebaşı",
     "title": "Tepebaşı'nda kıyafet bağış kutuları için yeni karar alındı - www.gzt26.com",
     "url": "https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi"
   },
-  "photo_pending": {
-    "query": [
-      "Tepebaşı Belediyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/tepebasi-meclisi-kiyafet-bagis-kutulari-icin-ki-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tepeba%C5%9F%C4%B1_Belediyesi_binas%C4%B1.jpg",
+    "archive": true,
+    "credit": "Merhabaviki / Wikimedia Commons (CC0)"
   }
 }
