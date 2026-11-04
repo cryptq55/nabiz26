@@ -12,17 +12,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-04T06:33:34.505205+00:00",
+  "published_at": "2026-11-04T06:34:42.470287+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Tepebaşı",
     "title": "Sivrihisar-2 Caddesi’nin bir bölümü trafiğe kapanıyor - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/sivrihisar-2-caddesinin-bir-bolumu-trafige-kapaniyor"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Büyükşehir Belediyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/sivrihisar-2-caddesinin-bir-bolumu-4-kasimda-as-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi_in_2012_1245.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

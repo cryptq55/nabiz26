@@ -12,17 +12,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-04T06:34:07.599591+00:00",
+  "published_at": "2026-11-04T06:34:50.497386+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehirspor",
     "title": "Eskişehirspor Kadın Futbol Takımı'nda yürekleri burkan tablo - Gzt26",
     "url": "https://www.gzt26.com/eskisehirspor-kadin-futbol-takiminda-yurekleri-burkan-tablo"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehirspor"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehirspor-kadin-futbol-takimi-istanbul-depl-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9FehirsporClubBus.JPG",
+    "archive": true,
+    "credit": "CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
