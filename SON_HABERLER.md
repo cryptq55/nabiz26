@@ -2,9 +2,25 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Hakan Şapçı: Kepez, Anadolu ve Ayvalıkgücü maçlarını kazanıp liderliği hedefliyoruz
+
+**Spor · Merkez** · 2026-11-04 16:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz)
+
+> Şapçı, Kepezspor'un son iki maçını kazanarak form yakaladığını hatırlattı.
+
+Eskişehirspor Teknik Direktörü Hakan Şapçı, takımın Kepezspor, Eskişehir Anadolu SF ve Ayvalıkgücü maçlarının Eskişehir'de oynanacak olmasını önemli bir fırsat olarak gördüklerini söyledi. Şapçı, "Bir an önce üst üste galibiyetler alarak zirveyi yakalamayı, ilk devreyi lider tamamlamayı ve liderliği sezon sonuna kadar sürdürmeyi hedefliyoruz" dedi.
+
+Kepezspor'un son iki maçını kazanarak form yakaladığını hatırlatan Şapçı, rakibin hafife alınmaması gerektiğini vurguladı: "Kepez kesinlikle çantada keklik bir rakip değil." Ahmet Dereli'nin sakatlığının ardından hücum hattında değişikliğe gittiklerini belirten Şapçı, Kerem, Hasan Kaya, Mehmet ve Sarper'in durumunun takip edildiğini, Ahmet Dereli ve Mustafa Eren dışındaki oyuncuları Kepez maçına yetiştirmeyi hedeflediklerini söyledi.
+
+Şapçı, hedefinin nisan ayında Eskişehirspor'la şampiyonluk yaşamak olduğunu, ligde ilk dokuz takımın şampiyonluk yarışında olduğunu ve grubun geçen yıla göre daha güçlü olduğunu ifade etti. Haber Şapçı'nın açıklamalarına dayanıyor.
+
+---
+
 ## Yerdeki Türk bayraklarını kaldıran trafik polisi Vali Yılmaz'dan plaket aldı
 
 **Gündem · Tepebaşı** · 2026-11-04 15:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yerde-gordugu-turk-bayraklarini-kaldiran-polis-plaketle-odullendirildi-119512487)
+
+![](data/images/yerdeki-turk-bayraklarini-kaldiran-trafik-polis-arsiv.jpg)
 
 > Polis memuru Osman Özbakır'a Vali Erdinç Yılmaz plaket ve başarı belgesi verdi.
 
@@ -413,23 +429,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, uluslararası kitle 
 Perma grubu, "Permaverse Tour" turne takvimini duyurdu ve rotaya Eskişehir'i de ekledi. Yayımlanan resmî turne afişine göre grup 15 Ocak 2027'de Eskişehir'de, Holly Stone'da sahne alacak.
 
 Turne kasım ayının son günlerinde İstanbul'da başlayacak; Bursa, Ankara, İzmir, Antalya, Trabzon ve Adana gibi şehirler de rotada yer alıyor. Kaynağa göre biletler henüz satışa çıkmadı; bilet detayları ve etkinlik saatlerine ilişkin duyurular bilet satış platformlarından takip edilebilecek.
-
----
-
-## Başkan Ünlüce Büyükşehir'in ekim ayı çalışmalarını açıkladı: 170 bin ton asfalt üretildi
-
-**Belediye · Merkez** · 2026-11-03 18:34 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/ayse-unluce-eskisehirde-ekim-ayinda-yapilan-calismalari-acikladi)
-
-![](data/images/baskan-unluce-buyuksehirin-ekim-ayi-calismalari-arsiv.jpg)
-
-> Ünlüce, yeni nesil su sayaçlarından Bilim Fest'e kadar ekim ayının öne çıkan işlerini sıraladı.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, belediyenin ekim ayındaki çalışmalarını açıkladı. Aşağıdaki bilgiler Ünlüce'nin kendi açıklamasına dayanıyor.
-
-Ünlüce, ekim ayına bu yıl ilk kez düzenlenen Uluslararası Eskişehir Yunus Emre Edebiyat Şenliği ile başladıklarını, dört gün süren şenlikte sanatçı, yazar ve şairleri "neşe" temasında buluşturduklarını söyledi. Kent Edebiyat Ödülü'nün özel ödülü Latife Tekin'e verildi. 15-17 Ekim'de Bilim Fest Eskişehir düzenlendi.
-
-26 Ekim'de tanıtılan yeni nesil su sayaçlarıyla cep telefonlarından su yüklenebilir hale geldi; başvuru yapan tüm abonelere yeni sayaç takılacak. Ünlüce, ekim sonuna kadar kent genelinde 170 bin ton asfalt üretildiğini, kırsalda yaklaşık 70 kilometrelik sathi kaplama yapıldığını ve yılbaşından ekim sonuna kadar kırsal ilçelerde yaklaşık 850 milyon TL'lik altyapı ve üstyapı yatırımı gerçekleştirildiğini belirtti. ESKİ, ekimde Sazova, 71 Evler ve Emek mahallelerinde toplam 160 milyon TL değerinde altyapı yatırımı yaptı.
-
-Ünlüce ayrıca 6 Şubat depremlerinin ardından Adıyaman'la kurulan dayanışma bağının Eskişehir Parkı ile kalıcı bir esere dönüştürüldüğünü, kaldırım ve yol işgalleri ile çevre kirliliğine yönelik denetimlerin artırıldığını, tiyatro, senfoni, müze ve Otobüs 26 biletlerinin ESBilet uygulamasından alınabildiğini söyledi. Halk Dansları Grubu ilk gösterisini yaptı; Şehir Tiyatroları ve Senfoni Orkestrası yeni sezona başladı.
 
 ---
