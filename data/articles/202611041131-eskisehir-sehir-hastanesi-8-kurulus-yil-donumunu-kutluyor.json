@@ -12,17 +12,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-04T11:31:59.251025+00:00",
+  "published_at": "2026-11-04T11:32:33.331336+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehir-sehir-hastanesi-8-kurulus-yil-donumunu-kutluyor-119512196"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Şehir Hastanesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehir-sehir-hastanesi-8-kurulus-yil-donumun-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_%C5%9Eehir_Hastanesi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC0)"
   }
 }

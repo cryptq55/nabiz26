@@ -19,10 +19,10 @@
     "title": "Osmangazi Üniversitesi havuzu yenilendi - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/osmangazi-universitesi-havuzu-yenilendi-297492.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
