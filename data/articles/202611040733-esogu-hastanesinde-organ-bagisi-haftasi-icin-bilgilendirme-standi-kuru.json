@@ -20,10 +20,10 @@
     "title": "ESOGÜ Hastanesi'nden Organ Bağışı İçin Anlamlı Etkinlik! - Eskişehir Haber",
     "url": "https://www.eskisehirhaber.com/esogu-hastanesinden-organ-bagisi-icin-anlamli-etkinlik"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
