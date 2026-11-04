@@ -13,17 +13,17 @@
   ],
   "importance": 4,
   "reel": false,
-  "published_at": "2026-11-04T09:34:14.087203+00:00",
+  "published_at": "2026-11-04T09:34:49.414261+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Odunpazarı",
     "title": "Kazım Kurt ve Yeni Parti’den Kurşunlu Külliyesi tepkisi: “Mührü de sansürü de kabul etmiyoruz” - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/amp/kazim-kurt-ve-yeni-parti-den-kursunlu-kulliyesi-tepkisi---muhru-de-sansuru-de-kabul-etmiyoruz--297512.html"
   },
-  "photo_pending": {
-    "query": [
-      "Kurşunlu Külliyesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kursunlu-kulliyesi-muhurlendi-iki-habere-erisim-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_Kur%C5%9Funlu_K%C3%BClliyesi_1628.jpg",
+    "archive": true,
+    "credit": "Dosseman / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
