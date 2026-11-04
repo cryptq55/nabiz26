@@ -19,10 +19,10 @@
     "title": "Eskişehir'de çiftçilere tohumluk buğday desteği - 2Eylül Haber",
     "url": "https://www.2eylul.com.tr/eskisehirde-ciftcilere-tohumluk-bugday-destegi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

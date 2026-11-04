@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-04T03:32:01.512953+00:00",
+  "published_at": "2026-11-04T03:32:30.425763+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir etkinlik",
     "title": "Eskişehir'den Mezun Selin Toprak, Altın Portakal Film Festivali'nde Jüri Özel Ödülü Aldı - Mersin Haber",
     "url": "https://www.mersinhaber.com/amp/haber/834997"
   },
-  "photo_pending": {
-    "query": [
-      "Anadolu Üniversitesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/anadolu-universitesi-mezunu-selin-topraka-altin-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anadolu_%C3%9Cniversitesi_K%C3%BCt%C3%BCphanesi.JPG",
+    "archive": true,
+    "credit": "Originally created and uploaded to the Turkish Wikipedia by  / Wikimedia Commons (Public domain)"
   }
 }
