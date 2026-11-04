@@ -2,6 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı Belediyesi zimmet davasında ilk duruşma: 12 tutuklu sanıktan 5'i tahliye edildi
+
+**Gündem · Tepebaşı** · 2026-11-04 19:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/tepebasi-belediyesinde-zimmet-davasi-5-saniga-tahliye-119512564)
+
+> Sanıklar suçlamaları kabul etmedi; mahkeme bir tutuksuz sanığın tutuklanmasına karar verdi.
+
+Tepebaşı Belediyesi'ne yönelik zimmet soruşturması kapsamında açılan davanın ilk duruşması Eskişehir 4. Ağır Ceza Mahkemesi'nde yapıldı. Dava, aralarında kamu görevlilerinin de bulunduğu 22 sanığı kapsıyor; sanıkların 12'si tutuklu.
+
+İddianameye göre, geçen mayıs ayında düzenlenen operasyonda gözaltına alınan 22 şüpheliden 7'si kamu görevlisi 12 kişi tutuklanmış, 10 kişi adli kontrolle serbest bırakılmıştı. İddianamede 15 kamu görevlisi için zimmet suçundan 5 yıldan 12 yıla kadar, diğer 7 sanık için suça iştirak veya yardım iddiasıyla 2 yıl 6 aydan 6 yıla kadar hapis cezası talep ediliyor. İddianame, aralarında özel kalem müdürü ve başkan yardımcısının da bulunduğu kamu görevlilerinin, iki organizasyon firması sahibi üzerinden belediye bütçesinden yapılan ödemeleri zimmetlerine geçirdiklerini öne sürüyor.
+
+DHA'nın aktardığına göre yaklaşık 11 saat süren savunmalarda sanıklar suçlamaları kabul etmedi ve iddiaların "iftira" olduğunu öne sürdü. Mahkeme heyeti, tutuklu sanıklardan 5'inin tahliyesine, tutuksuz sanıklardan birinin ise tutuklanmasına karar verdi. Yargılama sürüyor; sanıklar hakkında kesinleşmiş bir hüküm bulunmuyor.
+
+---
+
+## ESTÜ meslek yüksekokullarının 10 programında MEDEK akreditasyon saha ziyareti yapıldı
+
+**Eğitim · Merkez** · 2026-11-04 19:32 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-meslek-yuksekokullarinin-medek-program-akreditasyonu-degerlendirme-sureci-kapsaminda-saha-ziyareti-gerceklestirildi-)
+
+> Akreditasyon kararını MEDEK Yönetim Kurulu verecek.
+
+Eskişehir Teknik Üniversitesi'ne (ESTÜ) bağlı Bilişim Teknolojileri, Porsuk ve Ulaştırma Meslek Yüksekokullarının 10 programında, Mesleki Eğitim Değerlendirme ve Akreditasyon Derneği (MEDEK) tarafından 2-4 Kasım 2026'da saha ziyaretleri yapıldı.
+
+3 Kasım'da Bilgisayar Programcılığı, Mekatronik, Makine Resim ve Konstrüksiyonu ile Lojistik programlarının ara değerlendirmeleri tamamlandı. Son gün olan 4 Kasım'da Bilişim Teknolojileri Meslek Yüksekokulu İnsansız Hava Aracı Teknolojisi ve Operatörlüğü Programı yeni akreditasyon başvurusu kapsamında değerlendirildi; Porsuk Meslek Yüksekokulu'nun Basım ve Yayım Teknolojileri, Grafik Tasarımı ve Yapı Denetimi programları ile Ulaştırma Meslek Yüksekokulu'nun Sivil Havacılık Kabin Hizmetleri ve Raylı Sistemler Yol Teknolojisi programlarının değerlendirmeleri de bitti. Rektörlük Toplantı Salonu'nda çıkış bildirileri okundu. Program akreditasyon kararını MEDEK Yönetim Kurulu verecek.
+
+---
+
 ## Hakan Şapçı: Kepez, Anadolu ve Ayvalıkgücü maçlarını kazanıp liderliği hedefliyoruz
 
 **Spor · Merkez** · 2026-11-04 16:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz)
@@ -403,33 +429,5 @@ Eskişehir'in Odunpazarı ilçesine bağlı Demirli ve Seklice köylerindeki ben
 TEMA Vakfı'na göre dava kapsamında hazırlanan bilirkişi raporu projenin çevresel etkilerine ilişkin önemli tespitler içeriyor. Vakfın aktardığına göre 8 Mayıs'taki bilirkişi keşfinde ocak sahasındaki pasa yığınlarının yağış nedeniyle çöktüğü görüldü. Bilirkişi raporunda ÇED raporundaki teknik hatalar ile projenin doğal ve kültürel varlıklar üzerinde olumsuz etkiler yaratabileceği belirtildi. TEMA Vakfı, ÇED kararının iptalinin ardından proje sahasının vakit kaybedilmeden rehabilite edilmesi ve yeniden doğaya kazandırılması gerektiğini vurguladı.
 
 Haber TEMA Vakfı'nın açıklamasına dayanıyor; ocağı işleten firmanın ve ilgili kurumların görüşü kaynakta yer almıyor.
-
----
-
-## Ünlüce: Numbeo güvenlik endeksinde Eskişehir Türkiye'de ilk sırada
-
-**Gündem · Merkez** · 2026-11-03 19:36 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.ajans04.net/eskisehir-turkiye-nin-en-guvenli-sehri-oldu)
-
-![](data/images/unluce-numbeo-guvenlik-endeksinde-eskisehir-tur-arsiv.jpg)
-
-> Numbeo verileri kitle kaynaklı; endeks 1 Kasım 2026'da güncellendi.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, uluslararası kitle kaynaklı veri tabanı Numbeo'nun 1 Kasım 2026'da güncellenen güvenlik endeksinde Eskişehir'in Türkiye'de değerlendirilen şehirler arasında ilk sırada yer aldığını sosyal medya hesabından duyurdu.
-
-Ünlüce, Eskişehir'in yalnızca kültür, sanat ve çağdaş yaşamıyla değil, güvenli ve huzurlu kent kimliğiyle de öne çıktığını belirtti, sonucun kent adına sevindirici olduğunu söyledi. Başarıda emeği bulunan kurum ve kuruluşları kutlayan Ünlüce, Eskişehir'in huzuruna ve güvenliğine katkı sunan vatandaşlara teşekkür etti. Haber Ünlüce'nin paylaşımına dayanıyor; endeksin ayrıntıları ve puanları kaynakta yer almıyor.
-
----
-
-## Perma grubu 15 Ocak 2027'de Eskişehir'de konser verecek
-
-**Kültür-Sanat · Merkez** · 2026-11-03 19:34 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/perma-eskisehire-geliyor)
-
-![](data/images/0440a71fab72dd13.jpg)
-
-> Konser Permaverse Tour kapsamında Holly Stone'da yapılacak.
-
-Perma grubu, "Permaverse Tour" turne takvimini duyurdu ve rotaya Eskişehir'i de ekledi. Yayımlanan resmî turne afişine göre grup 15 Ocak 2027'de Eskişehir'de, Holly Stone'da sahne alacak.
-
-Turne kasım ayının son günlerinde İstanbul'da başlayacak; Bursa, Ankara, İzmir, Antalya, Trabzon ve Adana gibi şehirler de rotada yer alıyor. Kaynağa göre biletler henüz satışa çıkmadı; bilet detayları ve etkinlik saatlerine ilişkin duyurular bilet satış platformlarından takip edilebilecek.
 
 ---
