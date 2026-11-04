@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 04.11.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son haberlerden ikisi (Sivrihisar asfalt, Eskişehirspor kadın futbol) 404: 06:33 UTC'de yayınlandı, derleme bekleniyor (beklenen). Derleme geçti (264 sayfa, venv ile). Son haber 09:34 TSİ; son 24 saatte 40 haber (Gündem 12, Spor 7, Belediye 6, Kültür-Sanat 4, Ekonomi/Tarım 3, Eğitim/Ulaşım 2, Sağlık 1; ilçe Merkez 25, Odunpazarı 8, Tepebaşı 6, Türkiye 1), 26 kayıtta `photo_failed`. Instagram: log 14 (son paylaşım ~1 saat önce), reel_log 8, reels kaydı 66. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Sağlık, Eğitim, Türkiye, Asayiş.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e kadın futbol, içme suyu/isale hattı, Sivrihisar, Alanyaspor, şehir hastanesi, yol çalışması, kapatılan yol etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Sağlık/Eğitim kaynakları.
+SAHİBİNE: yok.
+
 ## 03.11.2026 21:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 2 haber 200. Derleme geçti (254 haber, venv ile). Son haber 21:32 TSİ; son 24 saatte 33 yayında haber (Gündem 7, Belediye 6, Ekonomi/Spor 5, Ulaşım/Eğitim 3, Tarım 2, Sağlık/Kültür-Sanat 1; ilçe Merkez 17, Tepebaşı 7, Odunpazarı 6, Türkiye 3), 5'inde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 8, reels kaydı 60. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Sağlık, Kültür-Sanat, Türkiye.
 **Düzeltilen:** yok.
