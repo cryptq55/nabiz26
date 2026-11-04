@@ -20,10 +20,10 @@
     "title": "Tepebaşı Belediyesi'nde zimmet davası; 5 sanığa tahliye - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/tepebasi-belediyesinde-zimmet-davasi-5-saniga-tahliye-119512564"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Tepebaşı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
