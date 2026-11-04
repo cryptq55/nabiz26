@@ -145,6 +145,25 @@ def brand(draw, x, y, size, backing=False):
     return bx + bw, base
 
 
+MONTHS = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
+
+
+def when(a):
+    """Haberin yayın zamanı, Türkiye saatiyle: "4 Kasım · 09:34". Yoksa boş döner."""
+    from datetime import datetime, timedelta, timezone
+    try:
+        t = datetime.fromisoformat(a["published_at"]).astimezone(timezone(timedelta(hours=3)))
+    except Exception:
+        return ""
+    return f"{t.day} {MONTHS[t.month - 1]} · {t:%H:%M}"
+
+
+def place_line(a):
+    place = a["district"] if a["district"] != "Merkez" else "Eskişehir"
+    w = when(a)
+    return f"{place} · {w}" if w else place
+
+
 def pill(draw, x, y, text, color, size=34):
     f = font("Inter.ttf", size, 800)
     tw = draw.textlength(text, font=f)
@@ -204,8 +223,7 @@ def make_post(a, image_path, out, site="nabiz26.com"):
     cat = a["category"].upper()
     pw = d.textlength(cat, font=font("Inter.ttf", 28, 800)) + 28 * 1.1
     pill(d, W - M - pw, base - 46, cat, hex_rgb(a["color"]), 28)
-    place = a["district"] if a["district"] != "Merkez" else "Eskişehir"
-    d.text((W - M - pw - 18, base - 22), place, font=font("Inter.ttf", 28, 600), fill=MUTED, anchor="rm")
+    d.text((W - M - pw - 18, base - 22), place_line(a), font=font("Inter.ttf", 28, 600), fill=MUTED, anchor="rm")
     f, lines, size = fit_headline(d, a["title"], W - 2 * M, 3, [80, 74, 68, 62, 56])
     lh = int(size * 1.08)
     if (a.get("image") or {}).get("credit") == "Nabız 26":
@@ -235,9 +253,8 @@ def make_story(a, image_path, out, site="nabiz26.com"):
     cf = font("Inter.ttf", 30, 800)
     pw = d.textlength(cat, font=cf) + 30 * 1.1
     pill(d, x - pw, base - 50, cat, hex_rgb(a["color"]), 30)
-    place = a["district"] if a["district"] != "Merkez" else "Eskişehir"
     pf = font("Inter.ttf", 30, 600)
-    d.text((x - pw - 20, base - 24), place, font=pf, fill=MUTED, anchor="rm")
+    d.text((x - pw - 20, base - 24), place_line(a), font=pf, fill=MUTED, anchor="rm")
 
     cta_top = H - 330
     f, lines, size = fit_headline(d, a["title"], W - 2 * M, 4, [96, 90, 84, 78, 72, 66])

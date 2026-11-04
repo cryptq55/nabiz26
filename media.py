@@ -44,6 +44,7 @@ TOO_GENERIC = {"eskisehir", "turkiye", "turkey", "ankara", "istanbul", "odunpaza
                "sivrihisar", "eskisehir merkez", "eskisehir turkey", "eskisehir city"}
 USED = Path(__file__).parent / "data" / "media_used.json"
 REUSE_DAYS, REUSE_MAX = 10, 2  # aynı fotoğraf 10 günde en fazla 2 haberde
+REUSE_HARD = 4  # başka uygun fotoğraf yoksa bile 10 günde en fazla 4 haberde (eskiden sınırsızdı: aynı bina 9 haberde göründü)
 
 
 def _used():
@@ -210,7 +211,8 @@ def find_image(query, images_dir, key):
             if not _looks_ok(im):
                 continue
             if len(used.get(c["title"], [])) >= REUSE_MAX:  # çok kullanıldı: başka uygun fotoğraf yoksa son çare
-                spare.append((len(used[c["title"]]), c, im))
+                if len(used[c["title"]]) < REUSE_HARD:
+                    spare.append((len(used[c["title"]]), c, im))
                 continue
             return _save(c, im, images_dir, key)
         except Exception:
