@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediyesi çiftçilere Yunus çeşidi tohumluk buğday dağıtacak
+
+**Tarım · Odunpazarı** · 2026-11-04 01:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/eskisehirde-ciftcilere-tohumluk-bugday-destegi)
+
+> Dağıtım 5 Kasım Perşembe günü Emek Kapalı Pazar Yeri'nde yapılacak.
+
+Odunpazarı Belediyesi, tarımsal üretimi desteklemek ve verimliliği artırmak amacıyla çiftçilere tohumluk buğday dağıtımı yapacak. Belediyenin duyurusuna göre üreticilere Yunus çeşidi tohumluk buğday verilecek.
+
+Dağıtım programı 5 Kasım 2026 Perşembe günü saat 12.30'da Emek Kapalı Pazar Yeri'nde yapılacak. Belediye tüm üreticileri programa davet etti.
+
+---
+
 ## Özel gereksinimli bireyler ÇİDEM'de domates hasadına katıldı
 
 **Gündem · Merkez** · 2026-11-04 00:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://baskentpostasi.com/eskisehirde-ozel-gereksinimli-bireyler-cidemde-domates-hasadina-katilarak-tarimsal-uretimi-deneyimledi)
@@ -429,21 +441,5 @@ Haber tek bir gazetenin aktardığı bilgilere dayanıyor; Kaymakamlığın ve V
 Eskişehirli milli sporcu Murat Cırık, Hindistan'da düzenlenen 2026 Dünya Bilek Güreşi Şampiyonası'nda ayakta +80 kilogram kategorisinde dünya şampiyonu oldu.
 
 Eskişehir Valisi Dr. Erdinç Yılmaz ve Eskişehir Gençlik ve Spor İl Müdürlüğü, Cırık için tebrik mesajı yayımladı. Gençlik ve Spor İl Müdürlüğü mesajında "Ay-yıldızlı bayrağımızı zirveye taşıyan sporcumuzu yürekten tebrik ediyor, başarılarının devamını diliyoruz. Gururumuzsun Murat Cırık" ifadelerini kullandı. Vali Yılmaz da Cırık'ın tüm rakiplerini geride bırakarak dünya şampiyonu olduğunu belirterek "Seninle gurur duyuyoruz Murat! Bileğin kavi, başarıların daim olsun" dedi.
-
----
-
-## Eskişehir'de "Kale'm Ailem" projesi kapsamında öğrenciler arası üç yarışma yapılacak
-
-**Eğitim · Merkez** · 2026-11-03 10:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/quotkale039m-ailemquot-projesi-kapsaminda-ogrenciler-arasi-yarismalar-duzenlenecek/icerik/8699/tr)
-
-![](data/images/5d4704b80bac48e6.jpg)
-
-> Resim, şiir ve kısa film yarışmalarına son başvuru 23 Kasım.
-
-Eskişehir İl Millî Eğitim Müdürlüğü'nün hazırladığı "Kale'm Ailem" Projesi kapsamında öğrenciler arası yarışmalar düzenlenecek. Proje, 2026-2035 yıllarının "Aile ve Nüfus On Yılı" ilan edilmesi ve Millî Eğitim Bakanlığı'nın aile kurumunun korunması ve güçlendirilmesine yönelik hedefleri doğrultusunda hazırlandı. Eskişehir genelindeki resmî okul öncesi, ilkokul, ortaokul ve liselerde öğrenim gören öğrenciler, öğretmenler ve velileri kapsıyor. İstanbul Aile Vakfı, üniversiteler ve Eskişehir İl Müftülüğü gibi paydaşlar katkı sunuyor.
-
-Üç yarışma yapılacak: ilkokul öğrencileri arasında aile temalı resim yarışması, ortaokul öğrencileri arasında şiir yazma ve okuma yarışması, lise öğrencileri arasında kısa film yarışması.
-
-Takvim: başvuru ilanı 2 Kasım 2026, son başvuru 23 Kasım 2026, okul dereceleri 25 Kasım 2026, ilçe dereceleri 1 Aralık 2026, il dereceleri 10 Aralık 2026. Ödül töreni Nisan 2027'de yapılacak.
 
 ---
