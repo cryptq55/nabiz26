@@ -20,10 +20,10 @@
     "title": "Hampton by Hılton, Eskişehir’in cazibesini artıracak - Esgazete",
     "url": "https://www.esgazete.com/hampton-by-hilton-eskisehirin-cazibesini-artiracak"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Hampton by Hilton Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
