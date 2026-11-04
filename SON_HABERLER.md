@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Spor · Merkez** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-kadin-futbol-takiminda-yurekleri-burkan-tablo)
 
+![](data/images/eskisehirspor-kadin-futbol-takimi-istanbul-depl-arsiv.jpg)
+
 > Antrenör Konca, otobüs ücretini borçlanarak günübirlik gittiklerini söyledi.
 
 TFF Kadınlar Futbol 2. Ligi A Grubu'nda mücadele eden Eskişehirspor Kadın Futbol Takımı, İstanbul deplasmanında Büyükçekmece Karadeniz İdman Ocağı'na 2-1 yenildi. Sabah saat 06.00'da Eskişehir'den yola çıkan takım konaklama yapmadan günübirlik gitti. Eskişehirspor, 2. dakikada Esin Demirtürk'ün golüyle öne geçti ancak üstünlüğünü koruyamadı.
@@ -18,7 +20,9 @@ Haber Konca'nın açıklamalarına dayanıyor; kulüp yönetiminin konuya ilişk
 
 ## Sivrihisar-2 Caddesi'nin bir bölümü 4 Kasım'da asfalt çalışması için kapatılıyor
 
-**Ulaşım · Tepebaşı** · 2026-11-04 06:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/sivrihisar-2-caddesinin-bir-bolumu-trafige-kapaniyor)
+**Ulaşım · Tepebaşı** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/sivrihisar-2-caddesinin-bir-bolumu-trafige-kapaniyor)
+
+![](data/images/sivrihisar-2-caddesinin-bir-bolumu-4-kasimda-as-arsiv.jpg)
 
 > Kapatma saat 08.30-17.30 arasında uygulanacak.
 
