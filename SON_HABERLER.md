@@ -2,6 +2,60 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı belde evlerinde toplumsal cinsiyet eşitliği ve şiddet semineri sürüyor
+
+**Belediye · Tepebaşı** · 2026-11-04 11:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/esitlikvesiddetekarsıfarkındalıkbeldeevlerinde)
+
+![](data/images/f96eda83aad99efd.jpg)
+
+> Bahçelievler Belde Evi'ndeki seminere 40 kişi katıldı.
+
+Tepebaşı Belediyesi toplumsal cinsiyet eşitliği ve şiddete karşı farkındalık seminerlerine Bahçelievler Belde Evi'nde devam etti. Seminerde Sağlık İşleri Müdürlüğü psikoloğu Ecem Kumaş katılımcılarla bir araya geldi; belde evindeki örgü grubundan 23, giyim grubundan 17 olmak üzere toplam 40 kişi katıldı.
+
+Belediyeye göre eğitimler ay boyunca tüm belde evlerinde ve deneyimli kafelerde sürecek.
+
+---
+
+## Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor
+
+**Sağlık · Merkez** · 2026-11-04 11:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehir-sehir-hastanesi-8-kurulus-yil-donumunu-kutluyor-119512196)
+
+> İl Sağlık Müdürlüğü, hastanenin 8 yıldır hizmet verdiğini açıkladı.
+
+Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor. Eskişehir İl Sağlık Müdürlüğü'nün açıklamasına göre hastane modern sağlık altyapısı, tanı ve tedavi birimleri ve sağlık kadrosuyla 8 yıldır Eskişehir'e ve bölgeye hizmet veriyor.
+
+Açıklamada hastanenin her geçen yıl hizmet kapasitesini geliştirdiği, sağlık çalışanlarının bilgi, tecrübe ve özverileriyle binlerce hastaya hizmet verdiği belirtildi; "gece gündüz" demeden görev yapan sağlık çalışanlarına teşekkür edildi.
+
+---
+
+## Başkan Kurt kahveci esnafıyla bir araya geldi: Emek Mahallesi'ndeki işgaliyeler görüşüldü
+
+**Belediye · Odunpazarı** · 2026-11-04 11:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kazim-kurt-kahveci-esnafiyla-isgaliye-konusunu-gorustu)
+
+![](data/images/7f3a0751972bd0c9.jpg)
+
+> Buluşma Emirdağlılar Derneği'nde kahvaltı programıyla yapıldı.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir Esnaf ve Sanatkarlar Odaları Birliği Başkanı Adnan Karamanlı, Eskişehir Kahveciler Odası Başkanı Mehmet Karatay ve kahveci esnafıyla Emirdağlılar Derneği'nde düzenlenen kahvaltıda bir araya geldi. Buluşmada kahvehanelerin işgaliye uygulamaları ele alındı.
+
+Belediyenin aktardığına göre Kurt, Emek Mahallesi'ndeki kahvehanelerin işgaliye durumunu fotoğraflar üzerinden esnafa anlattı, esnafın görüş ve taleplerini dinleyip notlar aldı. Kurt, "Esnafımızın yaşadığı sorunları yerinde görmek, taleplerini dinlemek ve çözüm yollarını birlikte değerlendirmek bizim için önemli" dedi. Kaynakta işgaliye ücretlerine veya alınan bir karara dair ayrıntı yer almıyor.
+
+---
+
+## Başkan Ataç LÖSEV heyetini ağırladı: 2-8 Kasım Lösemili Çocuklar Haftası
+
+**Sağlık · Tepebaşı** · 2026-11-04 11:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatac’tanlosemilicocuklaradayanısmamesajıcocuklarımızınyanındaolmakhepimizinsorumlulugu)
+
+![](data/images/b50a9ea9391b2f8d.jpg)
+
+> Ataç, lösemiyle mücadele eden çocuklara dayanışma mesajı verdi.
+
+2-8 Kasım Lösemili Çocuklar Haftası dolayısıyla LÖSEV İl Koordinatörü Yelda İlker ve Kurumsal İletişim Müdürü İrem Dabanlı, Tepebaşı Belediye Başkanı Ahmet Ataç'ı ziyaret etti. Heyetteki çocuklar Çınar, Deniz ve Su, Ataç'a turuncu karanfil taktı.
+
+Ataç, lösemiyle mücadele eden çocukların tedavi sürecinde eğitimden ve çocukluklarından kopmamasının önemini vurguladı. "Çocuklarımızın yanında olmak ve aileleriyle dayanışma göstermek hepimizin sorumluluğu" diyen Ataç, turuncu karanfilin dayanışmanın simgesi olduğunu söyledi, LÖSEV'e ve alanda emek veren sağlık çalışanlarına teşekkür etti.
+
+---
+
 ## Kurşunlu Külliyesi mühürlendi, iki habere erişim engeli geldi; Kurt tepki gösterdi
 
 **Gündem · Odunpazarı** · 2026-11-04 09:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/kazim-kurt-ve-yeni-parti-den-kursunlu-kulliyesi-tepkisi---muhru-de-sansuru-de-kabul-etmiyoruz--297512.html)
@@ -369,73 +423,5 @@ Haber BirGün'ün aktardığı bilgilere ve belediye yetkililerinin açıklamala
 Eskişehir İl Tarım ve Orman Müdürlüğü ile Eskişehir Bilecik Bölgesi Veteriner Hekimler Odası, kuzu ölümlerinin azaltılması ve hayvansal verimliliğin artırılması amacıyla iş birliği protokolü imzaladı. Protokol, "Erken Tanı ile Kuzularım Ölmüyor" projesi kapsamında imzalandı.
 
 2027-2028 yıllarında uygulanması planlanan proje Sivrihisar, Günyüzü, Çifteler, Seyitgazi ve Tepebaşı ilçelerini kapsayacak. Kuzularda doğum sonrası erken dönemde görülen hastalıkların hızlı teşhis edilmesi, uygun tedavi yöntemlerinin uygulanması ve koruyucu veteriner hekimlik hizmetlerinin yaygınlaştırılması hedefleniyor. Protokolle veteriner hekimlere akademisyenler ve uzmanlar tarafından eğitim verilecek, standart teşhis ve tedavi yöntemleri geliştirilecek. Projenin temel hedefi kuzu ölümlerini azaltmak, yetiştiricilerin ekonomik kayıplarını önlemek ve küçükbaş hayvancılığın sürdürülebilirliğine katkıda bulunmak.
-
----
-
-## Kırım Kavşağı'ndaki kaza tramvay seferlerini yaklaşık 40 dakika aksattı
-
-**Ulaşım · Merkez** · 2026-11-03 13:34 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.gzt26.com/eskisehirde-trafik-kazasi-tramvay-seferlerini-durdurdu)
-
-![](data/images/44a8ba09bca39cf0.jpg)
-
-> ESTRAM alternatif işletim ve acil durum otobüsleri devreye aldı.
-
-Eskişehir'de Şehir Hastanesi yönündeki Kırım Kavşağı'nın ardından bir karayolu aracının kaza yapması tramvay ulaşımını aksattı. ESTRAM'ın duyurusuna göre Şehir Hastanesi-Kumlubel ile Otogar-Opera-OGÜ hatlarında işletim yapılamadı.
-
-ESTRAM, Şehir Hastanesi ile Otogar arasında tramvay seferlerini alternatif işletim düzeniyle sürdürdü, Kumlubel ile Es-Es arasında acil durum otobüslerini devreye aldı. Aksama yaklaşık 40 dakika sürdü ve seferler yeniden normal düzenine döndü. Kaynakta kazaya karışan aracın sürücüsünün durumu, yaralanan olup olmadığı ve kazanın nasıl meydana geldiği konusunda bilgi paylaşılmadığı belirtiliyor.
-
----
-
-## YENİ Partili meclis üyeleri Kurşunlu Külliyesi için uzlaşma çağrısı yaptı
-
-**Gündem · Odunpazarı** · 2026-11-03 13:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/yeni-partili-meclis-uyelerinden-kursunlu-kulliyesi-icin-uzlasma-cagrisi)
-
-![](data/images/yeni-partili-meclis-uyeleri-kursunlu-kulliyesi--arsiv.jpg)
-
-> Üyeler külliyenin Odunpazarı Belediyesi'nde kalmasını talep etti.
-
-Odunpazarı Belediye Meclisi'ndeki YENİ Parti üyeleri, Kurşunlu Külliyesi önünde basın açıklaması yaptı. Açıklamayı üyeler adına İnci Şentuna okudu. Üyeler külliyenin Odunpazarı Belediyesi'nde kalmasını talep etti ve tahliye kararını tanımadıklarını söyledi.
-
-Şentuna, belediyenin 2004'ten bu yana kira sözleşmeleri kapsamında kullandığı alanda Ahşap Eserler Müzesi, Lületaşı Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi ve Cam Sanatları Merkezi gibi kültürel değerleri kazandırdığını belirtti. Konunun sıradan bir kira veya tahliye meselesi olmadığını söyledi. Belediyenin hukuki hak arayışını ve Belediye Başkanı Kazım Kurt'un yaklaşımını desteklediklerini ifade eden Şentuna, müzelerin ve atölyelerin taşınmasının ciddi kamu maliyeti doğuracağını savundu.
-
-Üyeler, mülkiyet hakkını ortadan kaldırmayı değil, vakıf hukukuna saygılı bir çözümü istediklerini belirtti. Vakıflar Genel Müdürlüğü'nü, Kültür ve Turizm Bakanlığı'nı, Eskişehir Valiliği'ni ve ilgili kurumları uzlaşmaya davet ederek külliyenin Odunpazarı Belediyesi'nin kullanımında kalmasını sağlayacak, uzun vadeli, şeffaf ve denetlenebilir bir kira ve kullanım protokolü oluşturulmasını talep etti.
-
-Haber YENİ Parti meclis üyelerinin açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
-
----
-
-## Altın fiyatları 3 Kasım 2026: Gram altın 6.383,19 TL
-
-**Ekonomi · Merkez** · 2026-11-03 13:17 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261103.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.314,41 TL'den alınıyor, 6.383,19 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 16.17 itibarıyla verilerine göre gram altının satış fiyatı 6.383,19 TL, alış fiyatı 6.314,41 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,57 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.404 TL, yarım altın 20.802 TL, tam altın 41.450 TL, ata altın 42.558 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.962,82 TL, has altının gram fiyatı 6.364,70 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.935,80 dolardan işlem görürken, dolar/TL 50,12 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 16.17 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Kızılinler bal kabağı coğrafi işaret olarak tescillendi
-
-**Tarım · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirin-kizilinler-bal-kabagi-cografi-isaret-olarak-tescil-edildi-119511141)
-
-![](data/images/kizilinler-bal-kabagi-cografi-isaret-olarak-tes-arsiv.jpg)
-
-> Eskişehir'in tescilli coğrafi işaret sayısı 15'e çıktı, 5 ürünün başvurusu sürüyor.
-
-Eskişehir'in "Kızılinler bal kabağı", Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından coğrafi işaret olarak tescillendi. Eskişehir Ticaret Borsası'nda yapılan Coğrafi İşaret Tescil Belgesi Takdim Töreni'nde konuşan Vali Erdinç Yılmaz, coğrafi işaretin ürünün yetiştiği toprağı, iklimi, ustasının emeğini ve itibarını korumak olduğunu söyledi.
-
-Yılmaz, "Artık başka bir yerin kabağı 'Kızılinler' diye, başka bir yerin sucuğu 'Sivrihisar' diye satılamayacaktır" dedi. Eskişehir'in 15 tescilli coğrafi işareti bulunduğunu, 5 ürünün başvuru sürecinin ise devam ettiğini belirtti.
-
-TBMM Yapay Zeka Araştırma Komisyonu Başkanı ve AK Parti Eskişehir Milletvekili Fatih Dönmez, Türkiye'de 13 bin 700 bitki türü bulunduğunu, bunlardan 3 bin 700'ünün endemik olduğunu, Eskişehir'de bu sayının 221 olduğunu söyledi. Dönmez, tescil sürecinde emeği geçen Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz'a teşekkür etti. TÜRKPATENT Başkanı Muhammed Zeki Durak da Türkiye'nin coğrafi işaret sayısında dünyada ikinci sırada yer aldığını dile getirdi.
 
 ---
