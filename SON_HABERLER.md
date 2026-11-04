@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da "90. Yaşa Saygıyla" programıyla kutlanacak
+
+**Gündem · Merkez** · 2026-11-04 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/yilmaz-buyukersenin-90-yas-gunu-eskisehirde-ozel-bir-programla-kutlanacak)
+
+> Kutlama programı saat 18.30'da başlayacak ve dostları tarafından düzenleniyor.
+
+Eskişehir Büyükşehir Belediyesi'nde 1999-2024 arasında kesintisiz 25 yıl belediye başkanlığı yapan Yılmaz Büyükerşen, 8 Kasım Pazar günü 90. yaş gününü kutlayacak. Dostları tarafından hazırlanan "90. Yaşa Saygıyla" programı 8 Kasım 2026 Pazar günü saat 18.30'da Eskişehir'de bir davet salonunda yapılacak. Kaynakta salonun adı belirtilmiyor.
+
+Programa Büyükerşen'in yakın dostlarının yanı sıra şehrin önde gelen isimlerinin de katılması ve Büyükerşen'in farklı dönemlerde birlikte çalıştığı isimlerle bir araya gelmesi bekleniyor. Büyükerşen 1999'da Eskişehir Büyükşehir Belediye Başkanı seçildi, beş dönem görev yaptı ve 2024'te görevinden ayrıldı.
+
+---
+
 ## Tepebaşı Belediyesi zimmet davasında ilk duruşma: 12 tutuklu sanıktan 5'i tahliye edildi
 
 **Gündem · Tepebaşı** · 2026-11-04 19:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/tepebasi-belediyesinde-zimmet-davasi-5-saniga-tahliye-119512564)
@@ -415,19 +427,5 @@ Başlangıç noktası İl Sağlık Müdürlüğü Ek Hizmet Binası önü olacak
 11 Kasım Çarşamba günü saat 15.00'te oynanacağı duyurulan Eskişehir Anadolu Spor Faaliyetleri-Eskişehirspor karşılaşmasının başlama saati 13.00 olarak güncellendi. İstikbal Gazetesi'nin aktardığına göre TFF'nin Anadolu Spor Faaliyetleri kulübüne yaptığı bildirimde saat değişikliğinin canlı yayın programı nedeniyle yapıldığı belirtildi.
 
 Maçın ESOGÜ Stadyumu yerine Fethi Heper Stadyumu'nda oynanması için görüşmelerin sürdüğü bildirildi.
-
----
-
-## Odunpazarı'ndaki bentonit ocağının ÇED olumlu kararı mahkemece iptal edildi
-
-**Gündem · Odunpazarı** · 2026-11-03 19:35 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/eskisehirde-iki-koyu-ilgilendiren-maden-ocagi-davasinda-karar-cikti)
-
-> TEMA Vakfı, bilirkişi raporuna dayanarak sahanın rehabilite edilmesini istedi.
-
-Eskişehir'in Odunpazarı ilçesine bağlı Demirli ve Seklice köylerindeki bentonit ocağında planlanan kapasite artışına ilişkin ÇED olumlu kararı, açılan dava sonucunda iptal edildi. Bilgi TEMA Vakfı'nın sosyal medya açıklamasına dayanıyor.
-
-TEMA Vakfı'na göre dava kapsamında hazırlanan bilirkişi raporu projenin çevresel etkilerine ilişkin önemli tespitler içeriyor. Vakfın aktardığına göre 8 Mayıs'taki bilirkişi keşfinde ocak sahasındaki pasa yığınlarının yağış nedeniyle çöktüğü görüldü. Bilirkişi raporunda ÇED raporundaki teknik hatalar ile projenin doğal ve kültürel varlıklar üzerinde olumsuz etkiler yaratabileceği belirtildi. TEMA Vakfı, ÇED kararının iptalinin ardından proje sahasının vakit kaybedilmeden rehabilite edilmesi ve yeniden doğaya kazandırılması gerektiğini vurguladı.
-
-Haber TEMA Vakfı'nın açıklamasına dayanıyor; ocağı işleten firmanın ve ilgili kurumların görüşü kaynakta yer almıyor.
 
 ---
