@@ -12,17 +12,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-04T20:32:04.312579+00:00",
+  "published_at": "2026-11-04T20:32:41.893775+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Yılmaz Büyükerşen'in 90. yaş günü Eskişehir'de özel bir programla kutlanacak - Gzt26",
     "url": "https://www.gzt26.com/yilmaz-buyukersenin-90-yas-gunu-eskisehirde-ozel-bir-programla-kutlanacak"
   },
-  "photo_pending": {
-    "query": [
-      "Yılmaz Büyükerşen"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/yilmaz-buyukersenin-90-yas-gunu-8-kasimda-90-ya-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen.jpg",
+    "archive": true,
+    "credit": "Sabri76 / Wikimedia Commons (CC0)"
   }
 }
