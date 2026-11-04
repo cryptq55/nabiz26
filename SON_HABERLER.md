@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Gündem · Odunpazarı** · 2026-11-04 09:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/kazim-kurt-ve-yeni-parti-den-kursunlu-kulliyesi-tepkisi---muhru-de-sansuru-de-kabul-etmiyoruz--297512.html)
 
+![](data/images/kursunlu-kulliyesi-muhurlendi-iki-habere-erisim-arsiv.jpg)
+
 > Haberes'te yayımlanan iki habere Sulh Ceza Hâkimliği kararıyla erişim engeli getirildi.
 
 Odunpazarı Belediye Başkanı Kazım Kurt ve YENİ Parti Odunpazarı İlçe Yönetimi, Kurşunlu Külliyesi'nin mühürlenmesine ve Haberes'in Genel Yayın Yönetmeni Ayhan Aydıner'in külliyeyle ilgili iki haberine erişim engeli getirilmesine tepki gösterdi. Anadolu Gazetesi'nin aktardığına göre YENİ Parti açıklamasında külliyenin Vakıflar Bölge Müdürlüğü ve Odunpazarı Kaymakamlığı nezaretinde mühürlendiği, işlemin mahkeme kararı beklenmeden yapıldığı öne sürüldü.
