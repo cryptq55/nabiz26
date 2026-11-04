@@ -2,9 +2,25 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz Mihalıççık'ta Yunus Emre Mezarı ve Külliyesi'ni ziyaret etti
+
+**Kültür-Sanat · Merkez** · 2026-11-04 21:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yunus-emre-mezar-ve-kulliyesini-ziyaret-etti)
+
+![](data/images/3ff7c73887ffbad7.jpg)
+
+> Vali, külliyede yürütülen çalışmalar hakkında yetkililerden bilgi aldı.
+
+Vali Dr. Erdinç Yılmaz, hayırsever iş insanı Tayfur Bayar, Mihalıççık Kaymakamı Fahrettin Çırak ve Mihalıççık Belediye Başkanı Haydar Çorum ile birlikte Mihalıççık ilçesine bağlı Yunus Emre Mahallesi'ndeki Yunus Emre'nin mezarını ve külliyesini ziyaret etti.
+
+Yılmaz, Yunus Emre'nin kabri başında dua etti, külliye alanında incelemelerde bulundu; yürütülen çalışmalar ve bölgenin tarihi ve kültürel önemi hakkında yetkililerden bilgi aldı. Ziyarette Yunus Emre'nin sevgi, hoşgörü, kardeşlik ve insanlık anlayışını merkeze alan düşünce mirasının önemine ve bu mirasın gelecek nesillere aktarılmasına dikkat çekildi.
+
+---
+
 ## Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da "90. Yaşa Saygıyla" programıyla kutlanacak
 
 **Gündem · Merkez** · 2026-11-04 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/yilmaz-buyukersenin-90-yas-gunu-eskisehirde-ozel-bir-programla-kutlanacak)
+
+![](data/images/yilmaz-buyukersenin-90-yas-gunu-8-kasimda-90-ya-arsiv.jpg)
 
 > Kutlama programı saat 18.30'da başlayacak ve dostları tarafından düzenleniyor.
 
@@ -413,19 +429,5 @@ Kaynakta Itır Esen'in 1975'ten itibaren Bizim Aile, Gülen Gözler, Aile Şeref
 Eskişehir İl Sağlık Müdürlüğü, Organ Bağışı Haftası kapsamında organ bağışının önemine dikkat çekmek ve toplumsal farkındalığı artırmak amacıyla yürüyüş ve basın açıklaması düzenleyecek. Etkinlik 5 Kasım Perşembe günü saat 13.50'de başlayacak.
 
 Başlangıç noktası İl Sağlık Müdürlüğü Ek Hizmet Binası önü olacak; katılımcılar Doktorlar Caddesi güzergâhında yürüyecek. Etkinlikte İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici ile Sağlık Hizmetleri Başkanı Op. Dr. Ersin Işıldı organ bağışının önemi hakkında açıklama yapacak.
-
----
-
-## Eskişehir Anadolu SF-Eskişehirspor maçının saati 13.00'e alındı
-
-**Spor · Merkez** · 2026-11-03 20:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/anadolu-spor-faaliyetleri-eskisehirspor-macinin-saati-degisti)
-
-![](data/images/d6b6e778bcdd6892.jpg)
-
-> Saat değişikliği canlı yayın programı nedeniyle yapıldı; stat görüşmeleri sürüyor.
-
-11 Kasım Çarşamba günü saat 15.00'te oynanacağı duyurulan Eskişehir Anadolu Spor Faaliyetleri-Eskişehirspor karşılaşmasının başlama saati 13.00 olarak güncellendi. İstikbal Gazetesi'nin aktardığına göre TFF'nin Anadolu Spor Faaliyetleri kulübüne yaptığı bildirimde saat değişikliğinin canlı yayın programı nedeniyle yapıldığı belirtildi.
-
-Maçın ESOGÜ Stadyumu yerine Fethi Heper Stadyumu'nda oynanması için görüşmelerin sürdüğü bildirildi.
 
 ---
