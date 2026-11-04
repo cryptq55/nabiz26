@@ -2,9 +2,37 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor Kadın Futbol Takımı İstanbul deplasmanında 2-1 yenildi
+
+**Spor · Merkez** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-kadin-futbol-takiminda-yurekleri-burkan-tablo)
+
+> Antrenör Konca, otobüs ücretini borçlanarak günübirlik gittiklerini söyledi.
+
+TFF Kadınlar Futbol 2. Ligi A Grubu'nda mücadele eden Eskişehirspor Kadın Futbol Takımı, İstanbul deplasmanında Büyükçekmece Karadeniz İdman Ocağı'na 2-1 yenildi. Sabah saat 06.00'da Eskişehir'den yola çıkan takım konaklama yapmadan günübirlik gitti. Eskişehirspor, 2. dakikada Esin Demirtürk'ün golüyle öne geçti ancak üstünlüğünü koruyamadı.
+
+Maçın ardından konuşan Antrenör Pınar Konca, kulübün maddi sıkıntı yaşadığını, deplasman yolculuğunda kullanılan otobüsün ücretini sonradan ödemek üzere borçlandıklarını söyledi. Konca, futbolcularının performansından memnun olduğunu, takımın mücadeleden vazgeçmeyeceğini belirtti; kentte kadın futboluna ve amatör kulüplere verilen desteği değerlendirirken duyarsızlığın arttığını dile getirdi ve maddi sorunların yalnızca kendi takımlarına özgü olmadığını söyledi.
+
+Haber Konca'nın açıklamalarına dayanıyor; kulüp yönetiminin konuya ilişkin görüşü kaynakta yer almıyor.
+
+---
+
+## Sivrihisar-2 Caddesi'nin bir bölümü 4 Kasım'da asfalt çalışması için kapatılıyor
+
+**Ulaşım · Tepebaşı** · 2026-11-04 06:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/sivrihisar-2-caddesinin-bir-bolumu-trafige-kapaniyor)
+
+> Kapatma saat 08.30-17.30 arasında uygulanacak.
+
+Eskişehir Büyükşehir Belediyesi, Tepebaşı ilçesindeki Sivrihisar-2 Caddesi'nin Abdülhamid Dedelek Caddesi ile Kırım Caddesi arasında kalan bölümünü 4 Kasım 2026 Çarşamba günü saat 08.30 ile 17.30 arasında araç trafiğine kapatacak. Neden, Yol Yapım Bakım ve Onarım Dairesi Başkanlığı'nın yürüteceği asfalt bakım ve onarım çalışması.
+
+Belediye sürücülerden alternatif güzergahları kullanmalarını ve trafik işaretleri ile işaretçilerine dikkat etmelerini istedi. Acil durumlarda ulaşım trafik güvenlik ekiplerince sağlanacak.
+
+---
+
 ## ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı
 
-**Gündem · Merkez** · 2026-11-04 05:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-in-icme-suyu-altyapisi-gucleniyor-77804)
+**Gündem · Merkez** · 2026-11-04 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-in-icme-suyu-altyapisi-gucleniyor-77804)
+
+![](data/images/eski-cankayada-yenilenen-1-400-metrelik-icme-su-arsiv.jpg)
 
 > Bağlantı çalışması gece boyunca sürdü; iletim sistemi normal işletme düzenine döndü.
 
@@ -411,33 +439,5 @@ Kurt, kararın kanuna aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen ma
 Külliyedeki müze ve sanat eserlerinin 400 sayfalık envanterle kayıtlı olduğunu belirten Kurt, eserlerden birine zarar gelirse hesabını soracaklarını söyledi. Külliyenin kapatılması halinde çalışanların işsiz kalacağını ve esnafın ticari yaşamının sıkıntıya düşeceğini ifade etti.
 
 Haber Kurt'un açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
-
----
-
-## Başkan Ünlüce Porsuk Barajı'nda inceleme yaptı: "Eskişehir'in suyuna sahip çıkacağız"
-
-**Gündem · Merkez** · 2026-11-03 11:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-porsuk-baraji-nda-inceleme-710bfb95)
-
-![](data/images/baskan-unluce-porsuk-barajinda-inceleme-yapti-e-arsiv.jpg)
-
-> Ünlüce, ESKİ yetkilileriyle barajdaki mevcut durumu değerlendirdi.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, ESKİ Genel Müdürü Niyazi Solak, Genel Müdür Yardımcısı Erdem Uslu ve Su Arıtma ve İşletme Dairesi Başkanı Eylem Sıla Özer ile birlikte Porsuk Barajı'nda inceleme yaptı. Ünlüce, kentin içme suyu ihtiyacının karşılanmasında önemli olan barajdaki mevcut durumu değerlendirdi ve su kaynaklarının korunması ile sürdürülebilir su yönetimi kapsamında yürütülen çalışmalar hakkında yetkililerden bilgi aldı.
-
-Ünlüce, "Eskişehir'imizin tek su kaynağı olan Porsuk Barajı'nda ekiplerimizle birlikte incelemelerde bulunduk" dedi. Önceliklerinin suyu kaynağından başlayarak korumak, sağlıklı ve güvenli biçimde kente ulaştırmak, kayıp ve kaçakları azaltmak, atık suyu doğru yönetmek ve gelecek kuşakların su hakkını gözetmek olduğunu söyledi.
-
----
-
-## Harezmi Eğitim Modeli Eskişehir'de 16 okulda uygulanacak
-
-**Eğitim · Merkez** · 2026-11-03 11:31 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/harezmi-egitim-modeli-2026-2027-egitim-ogretim-yilinda-eskisehir039de-16-okulda-uygulanacak/icerik/8701/tr)
-
-![](data/images/da2c7685cab2aee6.jpg)
-
-> Model 3 ilçede, 17 ekiple ve 64 öğretmenle yürütülecek.
-
-Eskişehir İl Millî Eğitim Müdürlüğü'nün açıklamasına göre disiplinler arası öğrenmeyi, üretkenliği ve problem çözme becerilerini merkeze alan Harezmi Eğitim Modeli, 2026-2027 eğitim öğretim yılında Eskişehir'de 3 ilçede, 16 okulda ve 17 ekiple uygulanacak. Modelde 64 öğretmen görev alacak.
-
-Model kapsamında öğrenciler günlük yaşamla bağlantılı sorunları belirleyerek çözüm önerileri geliştirecek, tasarımlar yapacak ve ürünlerini uygulamaya dönüştürecek. Bilişim teknolojileri, matematik, fen bilimleri, sosyal bilimler ve sanat gibi farklı disiplinler bir araya getirilecek; öğrencilerin araştırma, sorgulama, eleştirel düşünme, iş birliği, tasarlama ve üretme becerilerinin geliştirilmesi hedefleniyor. Çalışmalar "Düşün, Tasarla, Üret ve Uygula" anlayışıyla yürütülecek.
 
 ---
