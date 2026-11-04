@@ -20,10 +20,10 @@
     "title": "Sibel Köse Quintet’ten Eskişehir’de Caz Dolu Unutulmaz Bir Gece - Milli İrade Gazetesi",
     "url": "https://www.milliirade.com/sibel-kose-quintetten-eskisehirde-caz-dolu-unutulmaz-bir-gece"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Sibel Köse"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
