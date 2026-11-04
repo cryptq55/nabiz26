@@ -462,7 +462,7 @@ def main():
                 tags += [t for t in kt if t not in tags]
         tags = tags[:15]  # Instagram en çok 30 etiket izin verir; konuya özgü olanlar sonda, kesilmesin diye 15
         caption = (f"{a['title']}\n\n{a['spot']}\n\n"
-                   f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n\n" + " ".join(tags))
+                   f"📲 Haberin tamamı profildeki bağlantıda: nabiz26.com\n➕ Eskişehir'de olanları kaçırmamak için @nabiz26haber'i takip et\n\n" + " ".join(tags))
         feed.append({"slug": a["slug"], "url": a["url"], "has_photo": bool(a.get("image")),
                      "importance": int(a.get("importance") or 3),
                      "reel": bool(a.get("reel", int(a.get("importance") or 3) >= 4)),

@@ -32,9 +32,9 @@ MAX_STORIES = 2   # tur başına
 DAILY_CAP = 16    # 24 saatte en fazla paylaşım: Instagram bu hesapta fiilen ~25 izin veriyor (API 50 dese de);
                   # günlük iki video bülten ve yedek için hak boş kalır
 MAX_POSTS = 2     # tur başına; yalnızca Reels'e dönüştürülemeyen haberler için (R2 yoksa)
-MAX_REELS = 1     # tur başına
-REELS_PER_DAY = 8  # 24 saatte en fazla Reels (videolu haber > editörün "izlenecek" dedikleri > önemli yerel haberler)
-POST_MIN = 3      # fotoğraf gönderisi için en düşük önem puanı
+MAX_REELS = 2     # tur başına (Reels ortalama 517 erişim, fotoğraf gönderisi 6: BUYUME.md, 04.11.2026)
+REELS_PER_DAY = 12  # 24 saatte en fazla Reels (videolu haber > editörün "izlenecek" dedikleri > önemli yerel haberler)
+POST_MIN = 4      # fotoğraf gönderisi için en düşük önem puanı (erişimi çok düşük, kotayı Reels'e bırak)
 DUP_RATIO = 0.7   # iki başlık bu oranda benziyorsa aynı olay sayılır, ikinci kez paylaşılmaz
 
 

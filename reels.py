@@ -256,12 +256,14 @@ def end_card(site="nabiz26.com"):
     right, _ = brand(ImageDraw.Draw(Image.new("RGB", (W, 300))), 0, 0, 150)  # genişliği ölç
     brand(d, (W - right) / 2, 640, 150)
     beat_line(d, 960, W, width=8)
-    cf = font("Bricolage.ttf", 58, 800)
-    t = f"Haberin tamamı → {site}"
+    # Reels çok kişiye ulaşıyor ama izleyenlerin çok azı takip ediyordu (20 bin erişim, 69 takipçi): ana çağrı takip
+    cf = font("Bricolage.ttf", 64, 800)
+    t = "Takip et → @nabiz26haber"
     cw = d.textlength(t, font=cf)
-    d.rounded_rectangle(((W - cw) / 2 - 46, 1120, (W + cw) / 2 + 46, 1230), radius=55, fill="white")
-    d.text((W / 2, 1175), t, font=cf, fill=NIGHT, anchor="mm")
-    d.text((W / 2, 1300), "Bağlantı profilde: @nabiz26haber", font=font("Inter.ttf", 36, 500), fill=MUTED, anchor="mm")
+    d.rounded_rectangle(((W - cw) / 2 - 50, 1100, (W + cw) / 2 + 50, 1220), radius=60, fill=RED)
+    d.text((W / 2, 1160), t, font=cf, fill="white", anchor="mm")
+    d.text((W / 2, 1310), "Eskişehir'de olanları kaçırma", font=font("Inter.ttf", 44, 700), fill=PAPER, anchor="mm")
+    d.text((W / 2, 1380), f"Haberin tamamı: {site} (profildeki bağlantı)", font=font("Inter.ttf", 34, 500), fill=MUTED, anchor="mm")
     return im
 
 
