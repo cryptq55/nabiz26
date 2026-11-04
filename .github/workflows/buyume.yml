@@ -1,0 +1,41 @@
+name: Instagram büyüme ölçümü
+
+# Günde iki kez @nabiz26haber'in takipçi sayısını ve son paylaşımların erişim/beğeni/kaydetme değerlerini okur,
+# data/growth.json ve BUYUME.md dosyalarına yazar. Yalnızca okur; IG_ACCESS_TOKEN yoksa atlar.
+on:
+  schedule:
+    - cron: "23 6,18 * * *"   # 09:23 ve 21:23 (TR)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buyume
+  cancel-in-progress: false
+
+jobs:
+  olc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ölç
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: python3 growth.py
+      - name: Kaydet
+        run: |
+          git config user.name "nabiz26-bot"
+          git config user.email "bot@nabiz26.com"
+          git add data/growth.json BUYUME.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Instagram büyüme ölçümü"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          fi
+      - name: Özet
+        if: always()
+        run: '[ -f BUYUME.md ] && cat BUYUME.md >> "$GITHUB_STEP_SUMMARY" || true'
