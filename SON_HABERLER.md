@@ -2,9 +2,23 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Büyükşehir Caz Günleri'nde Sibel Köse Quintet sahne aldı, sonraki konser 17 Kasım'da
+
+**Kültür-Sanat · Merkez** · 2026-11-04 14:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/sibel-kose-quintetten-eskisehirde-caz-dolu-unutulmaz-bir-gece)
+
+> Bir sonraki konserde Duygu Soylu Jazz Band sahne alacak.
+
+Eskişehir Büyükşehir Belediyesi'nin düzenlediği Caz Günleri kapsamında Sibel Köse Quintet sahne aldı. Vokalde Sibel Köse, piyanoda Kürşad Deniz, kontrabasta Kağan Yıldız, tenor saksafonda Engin Recepoğulları ve davulda Berke Özgümüş'ün yer aldığı grup, Cole Porter, Milton Nascimento ve Sonny Burke gibi bestecilerin eserlerini seslendirdi. Gecenin öne çıkan parçası Kürşad Deniz'in özel düzenlemesiyle yorumlanan Cole Porter imzalı "So in Love" oldu; konserde Sibel Köse Septet'in "In Good Company" albümünden parçalar da yer aldı. Konserin ardından Köse, sanatseverlerle bir araya gelerek plaklarını imzaladı.
+
+Caz Günleri'nin bir sonraki konserinde Duygu Soylu Jazz Band 17 Kasım 2026'da Büyükşehir Belediyesi Sanat ve Kültür Merkezi (EBSKM) Opera Sahnesi'nde sahne alacak.
+
+---
+
 ## Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak
 
-**Spor · Merkez** · 2026-11-04 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/eskisehirspor-ve-anadolu-sfnin-4-tur-rakipleri-belli-oldu)
+**Spor · Merkez** · 2026-11-04 13:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/eskisehirspor-ve-anadolu-sfnin-4-tur-rakipleri-belli-oldu)
+
+![](data/images/kupada-eskisehirspor-bodrum-fkya-konuk-olacak-a-arsiv.jpg)
 
 > Tek maç eleme usulüyle oynanacak karşılaşmaların tarihleri sonra açıklanacak.
 
@@ -16,7 +30,9 @@ Tek maç eleme usulüyle oynanacak karşılaşmaların kesin gün ve saatlerini 
 
 ## Eskişehirspor kaptanı Beykan Şimşek: Dört haftalık dönemlerle ilerliyoruz, takım çıkışta
 
-**Spor · Merkez** · 2026-11-04 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-takim-kaptani-beykan-simsek-taraftara-mesaji-verdi)
+**Spor · Merkez** · 2026-11-04 13:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-takim-kaptani-beykan-simsek-taraftara-mesaji-verdi)
+
+![](data/images/eskisehirspor-kaptani-beykan-simsek-dort-haftal-arsiv.jpg)
 
 > Şimşek, bir haftada oynanacak üç maça ve taraftara seslendi.
 
@@ -415,19 +431,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, belediyenin ekim ay�
 Eskişehirspor, Gaziemir deplasmanında aldığı 5-0'lık galibiyetin ardından 9 günde üç maça çıkacak. 10. haftada 7 Kasım Cumartesi günü saat 15.30'da Kepezspor'u ağırlayacak. 11. haftada 11 Kasım Çarşamba günü saat 15.00'te zirve mücadelesi veren Eskişehir Anadolu SF'ye konuk olacak. 12. haftada ise 15 Kasım Pazar günü saat 15.00'te Ayvalıkgücü Belediyespor'u konuk edecek; İstikbal Gazetesi'ne göre rakip geçen sezon olduğu gibi bu sezon da grupta zirve mücadelesi veriyor.
 
 Teknik direktör Hakan Şapcı'nın öğrencilerinin üç maçı da kazanarak 9 puan almayı hedeflediği belirtildi. Aynı hafta Eskişehir Anadolu SF, 7 Kasım'da saat 15.00'te Uşakspor ile deplasmanda oynayacak.
-
----
-
-## Bayraktar, Beylikova'daki nadir toprak elementleri için Güney Koreli şirketle görüştü
-
-**Ekonomi · Merkez** · 2026-11-03 17:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/siyaset/bakan-bayraktar-eskisehir-deki-nadir-toprak-elementleri-icin-guney-koreli-sirketle-gorustu-2552995)
-
-![](data/images/bayraktar-beylikovadaki-nadir-toprak-elementler-arsiv.jpg)
-
-> Görüşme, cevherden nihai ürüne uzanan entegre değer zinciri üzerine yapıldı.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Güney Koreli kalıcı mıknatıs üreticisi JS Link'in Yönetim Kurulu Başkanı J.S. Park ve beraberindeki yetkililerle Güney Kore'de bir araya geldi. Bayraktar sosyal medya hesabından yaptığı açıklamada, görüşmede Eskişehir Beylikova'daki nadir toprak elementleri kaynağının cevherden nihai ürüne uzanan entegre bir değer zinciriyle ekonomiye kazandırılmasına yönelik iş birliği imkânlarının değerlendirildiğini söyledi.
-
-Bayraktar, nadir toprak elementlerinden yenilenebilir enerji teknolojilerine kadar enerjinin ve madenciliğin tüm alanlarında kaynak potansiyelini yüksek katma değerli üretime dönüştürecek yatırımlara ve uluslararası iş birliklerine açık olduklarını vurguladı. Açıklamada somut bir anlaşma veya yatırım tutarı yer almadı.
 
 ---
