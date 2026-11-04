@@ -4,7 +4,9 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 ## Hakan Şapçı: Kepez, Anadolu ve Ayvalıkgücü maçlarını kazanıp liderliği hedefliyoruz
 
-**Spor · Merkez** · 2026-11-04 16:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz)
+**Spor · Merkez** · 2026-11-04 16:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz)
+
+![](data/images/hakan-sapci-kepez-anadolu-ve-ayvalikgucu-maclar-arsiv.jpg)
 
 > Şapçı, Kepezspor'un son iki maçını kazanarak form yakaladığını hatırlattı.
 
