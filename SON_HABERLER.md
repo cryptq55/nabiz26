@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 4 Kasım 2026: Gram altın 6.548,93 TL
+
+**Ekonomi · Merkez** · 2026-11-04 13:29 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261104.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.480,82 TL'den alınıyor, 6.548,93 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 16.29 itibarıyla verilerine göre gram altının satış fiyatı 6.548,93 TL, alış fiyatı 6.480,82 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,99 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.674 TL, yarım altın 21.341 TL, tam altın 42.526 TL, ata altın 43.669 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.117,65 TL, has altının gram fiyatı 6.529,42 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.040,50 dolardan işlem görürken, dolar/TL 50,13 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 16.29 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Tepebaşı'ndaki Atatürk Spor Tesisleri Su Sporları Merkezi yenilendi
 
 **Spor · Tepebaşı** · 2026-11-04 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenilenensusporlarımerkeziyenidonemehazır)
@@ -411,23 +431,5 @@ Odunpazarıspor, 8 Kasım Pazar günü saat 16.00'da Çamlıca Spor Salonu'nda 1
 Tepebaşı Belediye Meclisi kasım ayı toplantısında, ilçedeki kıyafet bağış kutularına ilişkin Türk Kızılay ile üç yıllık iş birliği yapılmasını oy birliğiyle kabul etti. Konu, Türk Kızılay Eskişehir İl Başkanlığı'nın belediyeye gönderdiği yazı üzerine gündeme geldi. Kızılay'ın yürüttüğü "İkinci El Tekstil Projesi", kullanılabilir durumdaki kıyafetlerin yeniden değerlendirilmesini, atık miktarının azaltılmasını ve insani yardım faaliyetlerine düzenli kaynak oluşturulmasını amaçlıyor.
 
 Düzenlemeye göre belediyenin uygun göreceği noktalara Kızılay Kıyafet Bağış Kutuları yerleştirilecek; kutuların yerlerini belediye belirleyecek. Meclis, Belediye Başkanı Ahmet Ataç'a protokolü imzalaması için yetki verdi. Ataç, görüşme sırasında kıyafet toplama faaliyetlerini yürüten mevcut firmanın işi bıraktığını açıkladı.
-
----
-
-## Kurşunlu Külliyesi'nde tahliye işlemleri başladı: kadın girişimciler kapıları açmadı
-
-**Gündem · Odunpazarı** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.birgun.net/haber/kapisina-kilit-vuruldu-744323)
-
-![](data/images/eb2ad55ff67d6903.jpg)
-
-> BirGün'e göre eserler kayıt altına alındı, külliyenin kapısına kilit vuruldu.
-
-BirGün'ün aktardığına göre Kurşunlu Külliyesi'nin 3 Kasım saat 11.00'e kadar boşaltılmasını isteyen tebligatın süresinin dolmasıyla tahliye işlemleri başladı. İlk olarak Ahşap Eserler Müzesi'nin bulunduğu binada işlem yapıldı, ardından diğer müze ve atölyelere geçildi. Eserlerin kayıt altına alınmasını isteyen belediye yetkilileri, sayım yapılmadan tahliye edilmek istenmesine itiraz etti; eserler cep telefonlarıyla görüntülenerek tutanak tutuldu. Bazı noktalarda esnafın tepkisi üzerine görevliler tutanak tuttu.
-
-Külliyede faaliyet gösteren kadın girişimciler, Lületaşı Müzesi'nin boşaltılmasına tepki göstererek Vakıflar Bölge Müdürlüğü ve Kaymakamlık yetkililerini içeri almadı. Yetkililerin polis çağırmak istemesi üzerine belediye görevlileri araya girdi. Osman Yaşar Tanaçan'ın kızı Vicdan Tanaçan, kendi atölyesinin fotoğraflarını çekerek kayıt altına aldığını ve anahtarı yetkililere teslim ettiğini söyledi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, tahliyenin hukuka aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen düzenlemeyle belediyeye beş yıl daha kiracı olma hakkı tanındığını, bu kapsamdaki başvurunun sonuçlandırılmadığını söyledi. Kurt, "Hiçbir şeyi imzalamayacağız, çünkü bu kararı tanımıyoruz" dedi; Vakıflar ve Kültür Bakanlığı'nın külliye için planının belli olmadığını belirtti. Külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi, Cam Sanatları Merkezi ve Canan Atasoy Müzesi ile kurs ve atölyeler bulunuyor.
-
-Haber BirGün'ün aktardığı bilgilere ve belediye yetkililerinin açıklamalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün ve Kaymakamlığın görüşü kaynakta yer almıyor.
 
 ---
