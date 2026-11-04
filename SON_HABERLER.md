@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurşunlu Külliyesi mühürlendi, iki habere erişim engeli geldi; Kurt tepki gösterdi
+
+**Gündem · Odunpazarı** · 2026-11-04 09:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/kazim-kurt-ve-yeni-parti-den-kursunlu-kulliyesi-tepkisi---muhru-de-sansuru-de-kabul-etmiyoruz--297512.html)
+
+> Haberes'te yayımlanan iki habere Sulh Ceza Hâkimliği kararıyla erişim engeli getirildi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt ve YENİ Parti Odunpazarı İlçe Yönetimi, Kurşunlu Külliyesi'nin mühürlenmesine ve Haberes'in Genel Yayın Yönetmeni Ayhan Aydıner'in külliyeyle ilgili iki haberine erişim engeli getirilmesine tepki gösterdi. Anadolu Gazetesi'nin aktardığına göre YENİ Parti açıklamasında külliyenin Vakıflar Bölge Müdürlüğü ve Odunpazarı Kaymakamlığı nezaretinde mühürlendiği, işlemin mahkeme kararı beklenmeden yapıldığı öne sürüldü.
+
+Aydıner'in 30 Ekim ve 1 Kasım'da Haberes'te yayımlanan "Külliye Olayının Gölgesindeki Rant Çarkı: Vakıflar'dan Adrese Teslim İhaleler!" ve "Yurt İçin Vakıflar'a Bağışlanan Bina Nasıl Lüks Otel Oldu?" başlıklı iki haberi, Eskişehir 3. Sulh Ceza Hâkimliği kararıyla erişime engellendi.
+
+Kurt, gazetecilerin kamu adına soru sorma ve haber yapma hakkının engellenemeyeceğini söyledi: "Gazetecilik suç değildir. Kamu adına soru sormak suç değildir." YENİ Parti ilçe yönetimi de külliyenin mühürlenmesine ve habere getirilen erişim engeline tepki gösterdi, "Gazetecilik suç değildir" dedi.
+
+Haber Kurt'un ve YENİ Parti'nin açıklamalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün, Kaymakamlığın ve erişim engelini talep edenlerin görüşü kaynakta yer almıyor. Erişim engeline konu haberlerdeki iddiaları bu site doğrulamamıştır.
+
+---
+
+## EOSB heyeti yeni açılan Hampton by Hilton Eskişehir'i ziyaret etti
+
+**Ekonomi · Merkez** · 2026-11-04 09:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/hampton-by-hilton-eskisehirin-cazibesini-artiracak)
+
+> Eskişehir OSB ile Köksal Şirketler Grubu arasında iş birliği protokolü de imzalanmıştı.
+
+Eskişehir Organize Sanayi Bölgesi (EOSB) Yönetim Kurulu Başkanı Nadir Küpeli ve yönetim kurulu üyeleri, Köksal Şirketler Grubu bünyesinde faaliyet gösteren ve kısa süre önce hizmete açılan Hampton by Hilton Eskişehir'i ziyaret etti. Heyeti Köksal Şirketler Grubu Yönetim Kurulu Başkanı Orhan Köksal ve Yönetim Kurulu Üyesi İlhan Köksal ağırladı; görüşmede otelin fiziki imkânları, konaklama hizmetleri ile toplantı ve organizasyon alanları hakkında bilgi verildi.
+
+Küpeli, otelin şehre gelen iş insanlarının, yatırımcıların ve misafirlerin konaklama ihtiyacına katkı sunacağını, toplantı ve seminer imkânlarıyla iş ve organizasyon turizmine değer katacağını söyledi. Eskişehir OSB ile Köksal Şirketler Grubu arasında geçtiğimiz günlerde imzalanan iş birliği protokolünün de bölgedeki sanayi kuruluşlarının çalışanları ve misafirlerine yönelik olduğunu belirtti.
+
+---
+
 ## ESOGÜ Yüzme Havuzu'ndaki bakım ve onarım çalışmaları tamamlandı
 
 **Spor · Merkez** · 2026-11-04 08:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.anadolugazetesi.com/osmangazi-universitesi-havuzu-yenilendi-297492.html)
@@ -407,33 +435,5 @@ Eskişehir'in "Kızılinler bal kabağı", Türk Patent ve Marka Kurumu (TÜRKPA
 Yılmaz, "Artık başka bir yerin kabağı 'Kızılinler' diye, başka bir yerin sucuğu 'Sivrihisar' diye satılamayacaktır" dedi. Eskişehir'in 15 tescilli coğrafi işareti bulunduğunu, 5 ürünün başvuru sürecinin ise devam ettiğini belirtti.
 
 TBMM Yapay Zeka Araştırma Komisyonu Başkanı ve AK Parti Eskişehir Milletvekili Fatih Dönmez, Türkiye'de 13 bin 700 bitki türü bulunduğunu, bunlardan 3 bin 700'ünün endemik olduğunu, Eskişehir'de bu sayının 221 olduğunu söyledi. Dönmez, tescil sürecinde emeği geçen Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz'a teşekkür etti. TÜRKPATENT Başkanı Muhammed Zeki Durak da Türkiye'nin coğrafi işaret sayısında dünyada ikinci sırada yer aldığını dile getirdi.
-
----
-
-## Eskişehirspor-Kepezspor maçının biletleri satışta: fiyatlar 250 ile 1.200 TL arasında
-
-**Spor · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kepezspor-macinin-biletleri-satisa-cikti)
-
-![](data/images/8333c8f417680897.jpg)
-
-> Maç 7 Kasım Cumartesi saat 15.30'da oynanacak.
-
-Nesine 3. Lig'in 10. haftasında oynanacak Eskişehirspor-Kepezspor maçı 7 Kasım Cumartesi günü saat 15.30'da başlayacak. Biletler Espark AVM ve stadyum gişelerinden alınabilecek.
-
-Bilet fiyatları kale arkası 250 TL, maraton alt 350 TL, maraton üst 500 TL ve Batı VIP 1.200 TL olarak açıklandı. Satışlar 3-6 Kasım tarihlerinde Espark AVM'de 13.00-20.00 saatleri arasında yapılacak. Maç günü stadyum Passo gişelerinde saat 10.00'dan 15.30'a kadar satış sürecek. Hem Espark AVM'de hem stadyum gişelerinde yalnızca nakit ödeme kabul edilecek.
-
----
-
-## "Bi' Fikirle Eskişehir" projesi: Porsuk Çayı ve köprüleri yeni aydınlatmaya kavuştu
-
-**Belediye · Merkez** · 2026-11-03 12:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-katilimci-butceyle-belirlenen-proje-tamamlandi-porsuk-cayi-ve-kopruler-aydinlatildi-2d53c6fa)
-
-![](data/images/bi-fikirle-eskisehir-projesi-porsuk-cayi-ve-kop-arsiv.jpg)
-
-> Vatandaş önerileriyle belirlenen 26 projeden biri tamamlandı.
-
-Eskişehir Büyükşehir Belediyesi'nin "Bi' Fikirle Eskişehir" projesi kapsamında vatandaşların önerileriyle belirlenen 26 proje etaplar halinde hayata geçiriliyor. Bunlardan "Porsuk Çayı ve Köprüleri Aydınlatma Projesi" tamamlandı. Proje, Strateji Geliştirme Dairesi Başkanlığı'nın geçen yıl yaptığı katılımcı bütçe uygulamasında vatandaşlardan gelen ve yine vatandaşlarca değerlendirilen önerilerden biri olarak "2026 Eskişehir Yılı" kapsamında yapıldı.
-
-Çalışmaları Yol Yapım Bakım ve Onarım Dairesi Başkanlığı elektrik ekipleri yürüttü. İlk etapta İki Eylül Caddesi Tramvay Köprüsü aydınlatıldı; ardından Şair Fuzuli Caddesi Araç Köprüsü, Atatürk Caddesi Araç Köprüsü ile Porsuk-1, Porsuk-2, Porsuk-3 ve Porsuk-4 yaya köprülerinde görsel aydınlatma uygulandı. Projeyle Porsuk Çayı'nın gece görünümünün iyileştirilmesi ve kent merkezinin akşam saatlerinde daha aydınlık olması hedefleniyor.
 
 ---
