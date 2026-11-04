@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'ndaki Atatürk Spor Tesisleri Su Sporları Merkezi yenilendi
+
+**Spor · Tepebaşı** · 2026-11-04 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenilenensusporlarımerkeziyenidonemehazır)
+
+![](data/images/b82e71eccf2022e5.jpg)
+
+> Merkezde yeni fitness salonu hizmete girdi; yeni dönem kayıtları 16-22 Kasım'da.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, fiziki şartları yenilenen Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi'ni ziyaret ederek incelemelerde bulundu. Ataç, Gençlik ve Spor Hizmetleri Müdür Vekili Suat Arslanboğa'dan yürütülen çalışmalar ve yeni dönem programları hakkında bilgi aldı.
+
+Merkezde yeni bir fitness salonu hizmete girdi; salon sporlarının yapıldığı alanlarda ve yetişkin kurslarının yapılabileceği yeni salonlarda zemin çalışmaları yapıldı. Ataç, "Burayla ilgili hayallerimi gerçekleştirdim, inanın" dedi ve erişilebilir spor yapmanın herkes için bir hak olduğunu söyledi.
+
+Yeni dönemde 6-17 yaş grubundaki çocuk ve gençlere temel, orta ve ileri seviyelerde yüzme eğitimi veriliyor; yetişkinler için yüzme eğitimi ve serbest yüzme, kadınlar için su grupları ve su içi egzersiz programları bulunuyor. Özel gereksinimli bireyler için uygun havuz ve zaman planlaması yapılıyor. Salonlarda çocuklara modern dans ve taekwondo, yetişkinlere pilates, zumba, tabata ve fonksiyonel antrenman sunuluyor. Yüzme ve salon sporları kursları 20 Ekim'de başlamıştı; yeni dönem kayıtları 16-22 Kasım'da başlayacak.
+
+---
+
 ## Tepebaşı belde evlerinde toplumsal cinsiyet eşitliği ve şiddet semineri sürüyor
 
 **Belediye · Tepebaşı** · 2026-11-04 11:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/esitlikvesiddetekarsıfarkındalıkbeldeevlerinde)
@@ -18,7 +34,9 @@ Belediyeye göre eğitimler ay boyunca tüm belde evlerinde ve deneyimli kafeler
 
 ## Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor
 
-**Sağlık · Merkez** · 2026-11-04 11:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehir-sehir-hastanesi-8-kurulus-yil-donumunu-kutluyor-119512196)
+**Sağlık · Merkez** · 2026-11-04 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehir-sehir-hastanesi-8-kurulus-yil-donumunu-kutluyor-119512196)
+
+![](data/images/eskisehir-sehir-hastanesi-8-kurulus-yil-donumun-arsiv.jpg)
 
 > İl Sağlık Müdürlüğü, hastanenin 8 yıldır hizmet verdiğini açıkladı.
 
@@ -411,17 +429,5 @@ Külliyede faaliyet gösteren kadın girişimciler, Lületaşı Müzesi'nin boş
 Odunpazarı Belediye Başkanı Kazım Kurt, tahliyenin hukuka aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen düzenlemeyle belediyeye beş yıl daha kiracı olma hakkı tanındığını, bu kapsamdaki başvurunun sonuçlandırılmadığını söyledi. Kurt, "Hiçbir şeyi imzalamayacağız, çünkü bu kararı tanımıyoruz" dedi; Vakıflar ve Kültür Bakanlığı'nın külliye için planının belli olmadığını belirtti. Külliyede Ahşap Eserler Müzesi, Osman Yaşar Tanaçan Fotoğraf Müzesi, Lületaşı Müzesi, Cam Sanatları Merkezi ve Canan Atasoy Müzesi ile kurs ve atölyeler bulunuyor.
 
 Haber BirGün'ün aktardığı bilgilere ve belediye yetkililerinin açıklamalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün ve Kaymakamlığın görüşü kaynakta yer almıyor.
-
----
-
-## Eskişehir'de "Erken Tanı ile Kuzularım Ölmüyor" projesi için protokol imzalandı
-
-**Tarım · Merkez** · 2026-11-03 14:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-kuzu-olumlerini-azaltacak-protokol-imzalandi)
-
-> Proje 2027-2028'de 5 ilçede uygulanacak.
-
-Eskişehir İl Tarım ve Orman Müdürlüğü ile Eskişehir Bilecik Bölgesi Veteriner Hekimler Odası, kuzu ölümlerinin azaltılması ve hayvansal verimliliğin artırılması amacıyla iş birliği protokolü imzaladı. Protokol, "Erken Tanı ile Kuzularım Ölmüyor" projesi kapsamında imzalandı.
-
-2027-2028 yıllarında uygulanması planlanan proje Sivrihisar, Günyüzü, Çifteler, Seyitgazi ve Tepebaşı ilçelerini kapsayacak. Kuzularda doğum sonrası erken dönemde görülen hastalıkların hızlı teşhis edilmesi, uygun tedavi yöntemlerinin uygulanması ve koruyucu veteriner hekimlik hizmetlerinin yaygınlaştırılması hedefleniyor. Protokolle veteriner hekimlere akademisyenler ve uzmanlar tarafından eğitim verilecek, standart teşhis ve tedavi yöntemleri geliştirilecek. Projenin temel hedefi kuzu ölümlerini azaltmak, yetiştiricilerin ekonomik kayıplarını önlemek ve küçükbaş hayvancılığın sürdürülebilirliğine katkıda bulunmak.
 
 ---
