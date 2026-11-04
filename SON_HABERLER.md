@@ -2,6 +2,46 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak
+
+**Spor · Merkez** · 2026-11-04 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/eskisehirspor-ve-anadolu-sfnin-4-tur-rakipleri-belli-oldu)
+
+> Tek maç eleme usulüyle oynanacak karşılaşmaların tarihleri sonra açıklanacak.
+
+Ziraat Türkiye Kupası 4. Eleme Turu kura çekimi 4 Kasım'da saat 15.30'da yapıldı. Kura sonucunda Eskişehirspor, 1. Lig ekibi Bodrum FK ile deplasmanda karşılaşacak. Kentin diğer temsilcisi Eskişehir Anadolu Spor Faaliyetleri ise Karadeniz ekibi Samsunspor'u Eskişehir'de konuk edecek.
+
+Tek maç eleme usulüyle oynanacak karşılaşmaların kesin gün ve saatlerini TFF önümüzdeki günlerde duyuracak.
+
+---
+
+## Eskişehirspor kaptanı Beykan Şimşek: Dört haftalık dönemlerle ilerliyoruz, takım çıkışta
+
+**Spor · Merkez** · 2026-11-04 13:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-takim-kaptani-beykan-simsek-taraftara-mesaji-verdi)
+
+> Şimşek, bir haftada oynanacak üç maça ve taraftara seslendi.
+
+Eskişehirspor Takım Kaptanı Beykan Şimşek, 9 haftayı geride bırakan takımın durumunu değerlendirdi. Şimşek, sezon başında ligi dörder haftalık dönemler halinde ele almayı planladıklarını söyledi. İlk dört haftada 7, ikinci dört haftada 8 puan topladıklarını belirten Şimşek, 9. hafta maçıyla üçüncü dönemin galibiyetle başladığını ifade etti.
+
+Bursa Yıldırım Spor maçıyla başlayan, Altay karşılaşmasıyla süren ve Gaziemir maçına uzanan süreçte takımın temposunda ve kazanma isteğinde artış gördüğünü söyleyen Şimşek, bu dönemde Kepez'i sahalarında ağırlayacaklarını, bir haftada üç maç oynayacaklarını belirtti ve fiziksel hazırlığın önemini vurguladı. Takımın galibiyetlerle yeniden ligin ikinci sırasına yükseldiğini ifade eden Şimşek, taraftarın da tribünlerdeki yerini alacağını söyledi.
+
+Haber Şimşek'in açıklamalarına dayanıyor.
+
+---
+
+## Mesleki ve Teknik Eğitim Genel Müdürü Kaygusuz Eskişehir'de değerlendirme yaptı
+
+**Eğitim · Merkez** · 2026-11-04 13:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/mesleki-ve-teknik-egitimde-eskisehir039in-birikimi-ve-gelecek-vizyonu-degerlendirildi/icerik/8703/tr)
+
+![](data/images/0fd318e4fc89121e.jpg)
+
+> Toplantı Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi'nde yapıldı.
+
+Mesleki ve Teknik Eğitim Genel Müdürü Salih Kaygusuz'un katılımıyla Eskişehir'de Mesleki ve Teknik Eğitim Değerlendirme Toplantısı yapıldı. Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi'nde düzenlenen toplantıya Genel Müdür Yardımcısı Murat Nedirli, Daire Başkanları Mehmet Faideci ve Mustafa Günay, İl Millî Eğitim Müdürü Sinan Aydın ile il ve ilçe millî eğitim yöneticileri katıldı.
+
+Toplantıda Eskişehir'de mesleki ve teknik eğitimin mevcut durumu, gelişim alanları, fiziki ve akademik altyapı, okul-sanayi iş birlikleri ve kalite geliştirme faaliyetleri ele alındı. Kaygusuz, Eskişehir'de mesleki eğitimin niteliğinin oldukça yüksek olduğunu söyledi. Toplantının ardından Kaygusuz ve Aydın, Firuz Kanatlı Mesleki ve Teknik Anadolu Lisesi'ni ziyaret ederek öğretmen ve öğrencilerle bir araya geldi.
+
+---
+
 ## Altın fiyatları 4 Kasım 2026: Gram altın 6.548,93 TL
 
 **Ekonomi · Merkez** · 2026-11-04 13:29 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -389,47 +429,5 @@ Teknik direktör Hakan Şapcı'nın öğrencilerinin üç maçı da kazanarak 9 
 Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Güney Koreli kalıcı mıknatıs üreticisi JS Link'in Yönetim Kurulu Başkanı J.S. Park ve beraberindeki yetkililerle Güney Kore'de bir araya geldi. Bayraktar sosyal medya hesabından yaptığı açıklamada, görüşmede Eskişehir Beylikova'daki nadir toprak elementleri kaynağının cevherden nihai ürüne uzanan entegre bir değer zinciriyle ekonomiye kazandırılmasına yönelik iş birliği imkânlarının değerlendirildiğini söyledi.
 
 Bayraktar, nadir toprak elementlerinden yenilenebilir enerji teknolojilerine kadar enerjinin ve madenciliğin tüm alanlarında kaynak potansiyelini yüksek katma değerli üretime dönüştürecek yatırımlara ve uluslararası iş birliklerine açık olduklarını vurguladı. Açıklamada somut bir anlaşma veya yatırım tutarı yer almadı.
-
----
-
-## AK Partili Sivri, Tepebaşı Meclisi'nde SSK Blokları'nda kentsel dönüşümü istedi
-
-**Belediye · Tepebaşı** · 2026-11-03 16:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/ahmet-sivriden-ssk-bloklari-icin-acil-donusum-cagrisi-10-bin-kisi-risk-altinda)
-
-![](data/images/ak-partili-sivri-tepebasi-meclisinde-ssk-blokla-arsiv.jpg)
-
-> Bölgede yaklaşık 3 bin 600 hane ve 10 bin kişi yaşıyor.
-
-Tepebaşı Belediye Meclisi, Belediye Başkanı Ahmet Ataç başkanlığında toplandı. Gündem dışı söz alan AK Parti Meclis Üyesi Ahmet Sivri, ilçedeki SSK Blokları'nın kentsel dönüşüm sürecini gündeme getirdi.
-
-Sivri, SSK Blokları'nda yaklaşık 3 bin 600 hanenin yaşadığını, bölgenin yaklaşık 10 bin kişilik nüfusa sahip olduğunu ve yapıların yaklaşık 50 yıllık olduğunu belirtti. Türkiye'nin farklı bölgelerinden hemen her gün deprem haberleri geldiğine dikkat çeken Sivri, dönüşüm çalışmalarının bir an önce hızlandırılması gerektiğini söyledi. Ataç'a seslenen Sivri, Cumhur İttifakı meclis üyelerinin yapılacak çalışmalara destek vermeye hazır olduğunu, önceliklerinin vatandaşların can güvenliği olduğunu ifade etti. Hasta, yaşlı ve engelli vatandaşların da depreme dayanıklı ve konforlu konutlarda yaşamasını istediklerini söyledi.
-
-Haber meclis üyesinin konuşmasına dayanıyor; Tepebaşı Belediyesi'nin konuya ilişkin yanıtı kaynakta yer almıyor.
-
----
-
-## Odunpazarıspor kadınlar hentbol liginde 8 Kasım'da Üsküdar Belediyesi'ne konuk olacak
-
-**Spor · Odunpazarı** · 2026-11-03 16:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.istikbalgazetesi.com/eskisehir-odunpazari-cikis-ariyor)
-
-> Eskişehir ekibi 8 haftada 2 galibiyetle 4 puanla altıncı sırada.
-
-Kadınlar Hentbol Süper Ligi'nde mücadele eden Eskişehir Odunpazarıspor, son maçında MC Sistem Yozgat GSK'ye 34-30 yenildi. Antrenör Mehmet Fatih Işık yönetimindeki takım, sekiz haftada 2 galibiyet ve 6 yenilgiyle 4 puanla altıncı sırada bulunuyor. Arkasındaki Göztepe 3 puanda, beşinci sıradaki Manisa Büyükşehir Belediyesi ile arasında 7 puan fark var.
-
-Odunpazarıspor, 8 Kasım Pazar günü saat 16.00'da Çamlıca Spor Salonu'nda 12 puanla ikinci sıradaki Üsküdar Belediyesi'ne konuk olacak. 14 Kasım Cumartesi günü saat 15.00'te ise sahasında Ortahisar Belediyesi ile karşılaşacak.
-
----
-
-## Tepebaşı Meclisi kıyafet bağış kutuları için Kızılay'la 3 yıllık iş birliğini kabul etti
-
-**Belediye · Tepebaşı** · 2026-11-03 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasinda-kiyafet-bagis-kutulari-icin-yeni-karar-alindi)
-
-![](data/images/tepebasi-meclisi-kiyafet-bagis-kutulari-icin-ki-arsiv.jpg)
-
-> Karar oy birliğiyle alındı; Ataç, mevcut firmanın işi bıraktığını söyledi.
-
-Tepebaşı Belediye Meclisi kasım ayı toplantısında, ilçedeki kıyafet bağış kutularına ilişkin Türk Kızılay ile üç yıllık iş birliği yapılmasını oy birliğiyle kabul etti. Konu, Türk Kızılay Eskişehir İl Başkanlığı'nın belediyeye gönderdiği yazı üzerine gündeme geldi. Kızılay'ın yürüttüğü "İkinci El Tekstil Projesi", kullanılabilir durumdaki kıyafetlerin yeniden değerlendirilmesini, atık miktarının azaltılmasını ve insani yardım faaliyetlerine düzenli kaynak oluşturulmasını amaçlıyor.
-
-Düzenlemeye göre belediyenin uygun göreceği noktalara Kızılay Kıyafet Bağış Kutuları yerleştirilecek; kutuların yerlerini belediye belirleyecek. Meclis, Belediye Başkanı Ahmet Ataç'a protokolü imzalaması için yetki verdi. Ataç, görüşme sırasında kıyafet toplama faaliyetlerini yürüten mevcut firmanın işi bıraktığını açıkladı.
 
 ---
