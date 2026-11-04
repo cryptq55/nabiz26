@@ -12,17 +12,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-04T13:33:09.183082+00:00",
+  "published_at": "2026-11-04T13:34:11.211026+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehirspor",
     "title": "Eskişehirspor Takım Kaptanı Beykan Şimşek taraftara mesajı verdi - Gzt26",
     "url": "https://www.gzt26.com/eskisehirspor-takim-kaptani-beykan-simsek-taraftara-mesaji-verdi"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehirspor"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/eskisehirspor-kaptani-beykan-simsek-dort-haftal-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehirspor-Hacettepe1.JPG",
+    "archive": true,
+    "credit": "Aycan at Turkish Wikipedia / Wikimedia Commons (CC BY-SA 2.5)"
   }
 }

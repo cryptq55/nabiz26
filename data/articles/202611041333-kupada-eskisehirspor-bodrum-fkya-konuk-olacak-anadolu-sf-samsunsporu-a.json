@@ -14,17 +14,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-04T13:33:41.268096+00:00",
+  "published_at": "2026-11-04T13:34:16.080387+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehirspor",
     "title": "Eskişehirspor Ve Anadolu SF'nin 4. Tur Rakipleri Belli Oldu - Haber 26",
     "url": "https://www.haber26.com.tr/spor/eskisehirspor-ve-anadolu-sfnin-4-tur-rakipleri-belli-oldu"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehirspor"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/kupada-eskisehirspor-bodrum-fkya-konuk-olacak-a-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehirspor-Bursaspor_TK1.JPG",
+    "archive": true,
+    "credit": "Aycan / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
