@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı
+
+**Gündem · Merkez** · 2026-11-04 05:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-in-icme-suyu-altyapisi-gucleniyor-77804)
+
+> Bağlantı çalışması gece boyunca sürdü; iletim sistemi normal işletme düzenine döndü.
+
+Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ), Çankaya Mahallesi Özlem Caddesi güzergâhında ekonomik ömrünü tamamlayan içme suyu isale hattını yenileyerek devreye aldı. Yaklaşık 1.400 metre uzunluğundaki yeni hat, Çankaya Mahallesi'ndeki D21 su deposundan çıkıyor ve Özlem Caddesi boyunca uzanıyor.
+
+ESKİ'nin açıklamasına göre hat, dayanıklılığı yüksek spiral çelik borularla yeniden inşa edildi; yapımda kazı, boru yerleştirme, kaynak ve izolasyon işlemleri yapıldı. Yeni hattın mevcut içme suyu iletim sistemine bağlanması için ekipler gece boyunca aralıksız çalıştı. Bağlantıların tamamlanmasının ardından hatta kademeli olarak su verildi, şebeke basıncı dengelendi ve iletim sistemi yeniden normal işletme düzenine kavuştu.
+
+Çalışma sırasında Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde su kesintisi ve basınç düşüklüğü yaşanmıştı. ESKİ, yatırımla olası arıza risklerinin azaltılmasını ve su iletiminde sürekliliğin sağlanmasını amaçladığını belirtti.
+
+---
+
 ## Anadolu Üniversitesi mezunu Selin Toprak'a Altın Portakal'da Jüri Özel Ödülü
 
 **Kültür-Sanat · Merkez** · 2026-11-04 03:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.mersinhaber.com/amp/haber/834997)
@@ -425,21 +439,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, ESKİ Genel Müdür�
 Eskişehir İl Millî Eğitim Müdürlüğü'nün açıklamasına göre disiplinler arası öğrenmeyi, üretkenliği ve problem çözme becerilerini merkeze alan Harezmi Eğitim Modeli, 2026-2027 eğitim öğretim yılında Eskişehir'de 3 ilçede, 16 okulda ve 17 ekiple uygulanacak. Modelde 64 öğretmen görev alacak.
 
 Model kapsamında öğrenciler günlük yaşamla bağlantılı sorunları belirleyerek çözüm önerileri geliştirecek, tasarımlar yapacak ve ürünlerini uygulamaya dönüştürecek. Bilişim teknolojileri, matematik, fen bilimleri, sosyal bilimler ve sanat gibi farklı disiplinler bir araya getirilecek; öğrencilerin araştırma, sorgulama, eleştirel düşünme, iş birliği, tasarlama ve üretme becerilerinin geliştirilmesi hedefleniyor. Çalışmalar "Düşün, Tasarla, Üret ve Uygula" anlayışıyla yürütülecek.
-
----
-
-## Tepebaşı'nda belde evlerindeki oyun gruplarında 15 çocuk bir araya geliyor
-
-**Belediye · Tepebaşı** · 2026-11-03 10:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklaroyungruplarındabulusuyor)
-
-![](data/images/e9ab1560a5a1ae52.jpg)
-
-> Belde Evleri Eylül 2026 itibarıyla 35 hizmet noktasında 230 kursla sürüyor.
-
-Tepebaşı Belediyesi'nin belde evlerinde düzenlediği çocuk oyun grupları, yaşa uygun etkinliklerle çocukların gelişimine katkı sunuyor. Hasan Ali Yücel ve Hedef Batıkent belde evlerindeki iki grupta toplam 15 çocuk bir araya geliyor.
-
-Hasan Ali Yücel Belde Evi'nde 36-42 aylık 6 çocuk pazartesi ve çarşamba günleri saat 10.00-12.00 arasında, Hedef Batıkent Belde Evi'nde 42-46 aylık 9 çocuk yine pazartesi ve çarşamba günleri 13.00-15.00 arasında etkinliklere katılıyor. Buluşmaların çocukların akranlarıyla iletişim kurmasına, birlikte hareket etmesine ve oyunla öğrenmesine olanak sağladığı belirtildi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların gelişimini desteklemenin geleceğe yapılan yatırım olduğunu söyledi. Belediyeye göre Belde Evleri Eylül 2026 itibarıyla 35 hizmet noktasında, 29 branşta ve 230 kursta sürüyor; başvuruların toplamı 8 bin 151'e, aktif yararlanıcı sayısı 4 bin 466'ya ulaştı.
 
 ---
