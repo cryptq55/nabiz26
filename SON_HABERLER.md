@@ -6,6 +6,8 @@ Ajanın yazdığı son haberler (otomatik güncellenir).
 
 **Kültür-Sanat · Merkez** · 2026-11-04 03:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.mersinhaber.com/amp/haber/834997)
 
+![](data/images/anadolu-universitesi-mezunu-selin-topraka-altin-arsiv.jpg)
+
 > Ödüllü film, Anadolu Üniversitesi'nde mezuniyet projesi olarak hazırlandı.
 
 Anadolu Üniversitesi Güzel Sanatlar Fakültesi mezunu Selin Toprak, "Dünya Günü Kutlu Olsun (Happy Earth Day)" adlı kısa animasyon filmiyle 63. Uluslararası Antalya Altın Portakal Film Festivali'nde Sinema Okulları Öğrenci Filmleri Yarışması kapsamında Jüri Özel Ödülü'nü kazandı. Festival 24-31 Ekim 2026 tarihlerinde yapıldı.
