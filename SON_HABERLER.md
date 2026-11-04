@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESOGÜ Yüzme Havuzu'ndaki bakım ve onarım çalışmaları tamamlandı
+
+**Spor · Merkez** · 2026-11-04 08:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.anadolugazetesi.com/osmangazi-universitesi-havuzu-yenilendi-297492.html)
+
+> Üniversite, tesislerin yenilenmesine ve geliştirilmesine devam edileceğini açıkladı.
+
+Eskişehir Osmangazi Üniversitesi Yüzme Havuzu'nda bir süredir sürdürülen bakım ve onarım çalışmaları sona erdi. Yenileme çalışmalarıyla tesisin kullanım koşulları iyileştirildi.
+
+Üniversitenin açıklamasında, sporculara ve vatandaşlara daha kaliteli hizmet sunabilmek amacıyla tesislerin yenilenmesine ve geliştirilmesine devam edileceği belirtildi. Kaynakta çalışmaların kapsamı, maliyeti ve havuzun yeniden açılış tarihi konusunda ayrıntı yer almıyor.
+
+---
+
 ## ESOGÜ Hastanesi'nde Organ Bağışı Haftası için bilgilendirme standı kuruldu
 
 **Sağlık · Merkez** · 2026-11-04 07:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/esogu-hastanesinden-organ-bagisi-icin-anlamli-etkinlik)
@@ -423,19 +435,5 @@ Bilet fiyatları kale arkası 250 TL, maraton alt 350 TL, maraton üst 500 TL ve
 Eskişehir Büyükşehir Belediyesi'nin "Bi' Fikirle Eskişehir" projesi kapsamında vatandaşların önerileriyle belirlenen 26 proje etaplar halinde hayata geçiriliyor. Bunlardan "Porsuk Çayı ve Köprüleri Aydınlatma Projesi" tamamlandı. Proje, Strateji Geliştirme Dairesi Başkanlığı'nın geçen yıl yaptığı katılımcı bütçe uygulamasında vatandaşlardan gelen ve yine vatandaşlarca değerlendirilen önerilerden biri olarak "2026 Eskişehir Yılı" kapsamında yapıldı.
 
 Çalışmaları Yol Yapım Bakım ve Onarım Dairesi Başkanlığı elektrik ekipleri yürüttü. İlk etapta İki Eylül Caddesi Tramvay Köprüsü aydınlatıldı; ardından Şair Fuzuli Caddesi Araç Köprüsü, Atatürk Caddesi Araç Köprüsü ile Porsuk-1, Porsuk-2, Porsuk-3 ve Porsuk-4 yaya köprülerinde görsel aydınlatma uygulandı. Projeyle Porsuk Çayı'nın gece görünümünün iyileştirilmesi ve kent merkezinin akşam saatlerinde daha aydınlık olması hedefleniyor.
-
----
-
-## 14. Uluslararası Eskişehir Şiir Buluşması 13 Kasım'da başlıyor: 13 şair katılacak
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-03 12:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/14-uluslararasi-eskisehir-siir-bulusmasi-icin-geri-sayim-basladi-3-ulkeden-13-sair-tepebasi-nda-bulusacak-0f5f2165)
-
-![](data/images/15a0035640582a57.jpg)
-
-> Etkinlik 13-15 Kasım'da Özdilek Sanat Merkezi ve Atila Özer Karikatürlü Ev'de yapılacak.
-
-Tepebaşı Belediyesi'nin bu yıl 14'üncüsünü düzenleyeceği Uluslararası Eskişehir Şiir Buluşması 13 Kasım Cuma günü başlayacak. Açılış töreni 13 Kasım'da saat 18.30'da Özdilek Sanat Merkezi'nde yapılacak. Üç gün sürecek buluşmaya Mısır ve Fransa'dan 2, Türkiye'den 11 şair katılacak; şiir okumaları, oturumlar ve müzik dinletileri yapılacak.
-
-Etkinlikler 13 ve 14 Kasım'da Özdilek Sanat Merkezi'nde, 15 Kasım'da Atila Özer Karikatürlü Ev'de düzenlenecek ve tüm Eskişehirlilere açık olacak. Belediye Başkanı Ahmet Ataç, kent sakinlerini etkinliklere davet etti. Ataç, şiirin farklı ülkelerden ve düşüncelerden insanları buluşturan güçlü bir dil olduğunu söyledi.
 
 ---
