@@ -2,6 +2,18 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## KYK erkek öğrenci yurtlarında AFAD eğitmenleri afet bilinci eğitimi verdi
+
+**Gündem · Merkez** · 2026-11-04 02:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/yerel/haber-eskisehir-de-kyk-erkek-yurtlarinda-afad-egitmenler-20392025/)
+
+![](data/images/09603d3e7483e107.jpg)
+
+> Eğitimler Sivrihisar ve Tepebaşı Gündüzalp yurtlarında verildi.
+
+Eskişehir'de Kredi ve Yurtlar Kurumu'na (KYK) bağlı erkek öğrenci yurtlarında İl Afet ve Acil Durum (AFAD) Müdürlüğü eğitmenleri afet bilinci eğitimi verdi. Eğitimler 30 Ekim'de Sivrihisar Erkek Öğrenci Yurdu'nda başladı, 2 Kasım'da Tepebaşı Gündüzalp Erkek Öğrenci Yurdu'nda devam etti.
+
+---
+
 ## Odunpazarı Belediyesi çiftçilere Yunus çeşidi tohumluk buğday dağıtacak
 
 **Tarım · Odunpazarı** · 2026-11-04 01:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/eskisehirde-ciftcilere-tohumluk-bugday-destegi)
@@ -429,17 +441,5 @@ Kurşunlu Külliyesi'nin 3 Kasım saat 11.00'de Vakıflar Bölge Müdürlüğü'
 İncelemede tutanak tutulması konusunda bir kriz yaşandığı belirtildi. Genç ve belediye yetkilileri tutanağa imza atmayacaklarını, ancak bir örneğini istediklerini söyledi. Genç, külliyede 400 sanat eseri bulunduğunu belirterek eserlerin tek tek kayıt altına alınmasını talep etti. Bunun üzerine polis kameraları, belediye ve kaymakamlık görevlileri eserleri tek tek video çekimi eşliğinde kayıt altına aldı.
 
 Haber tek bir gazetenin aktardığı bilgilere dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün konuya ilişkin açıklaması kaynakta yer almıyor.
-
----
-
-## Eskişehirli Murat Cırık Dünya Bilek Güreşi Şampiyonası'nda +80 kiloda dünya şampiyonu oldu
-
-**Spor · Merkez** · 2026-11-03 10:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/amp/haber-eskisehir-valisi-yilmaz-hindistan-da-80-kiloda-dun-20390059/)
-
-> Vali Yılmaz ve Gençlik ve Spor İl Müdürlüğü şampiyonu tebrik etti.
-
-Eskişehirli milli sporcu Murat Cırık, Hindistan'da düzenlenen 2026 Dünya Bilek Güreşi Şampiyonası'nda ayakta +80 kilogram kategorisinde dünya şampiyonu oldu.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz ve Eskişehir Gençlik ve Spor İl Müdürlüğü, Cırık için tebrik mesajı yayımladı. Gençlik ve Spor İl Müdürlüğü mesajında "Ay-yıldızlı bayrağımızı zirveye taşıyan sporcumuzu yürekten tebrik ediyor, başarılarının devamını diliyoruz. Gururumuzsun Murat Cırık" ifadelerini kullandı. Vali Yılmaz da Cırık'ın tüm rakiplerini geride bırakarak dünya şampiyonu olduğunu belirterek "Seninle gurur duyuyoruz Murat! Bileğin kavi, başarıların daim olsun" dedi.
 
 ---
