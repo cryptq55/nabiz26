@@ -13,17 +13,17 @@
   ],
   "importance": 2,
   "reel": false,
-  "published_at": "2026-11-04T16:32:43.254719+00:00",
+  "published_at": "2026-11-04T16:33:17.623449+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehirspor",
     "title": "Hakan Şapcı: 3 maçı da kazanmak istiyoruz - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehirspor"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/hakan-sapci-kepez-anadolu-ve-ayvalikgucu-maclar-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9FehirsporClubBus.JPG",
+    "archive": true,
+    "credit": "CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
