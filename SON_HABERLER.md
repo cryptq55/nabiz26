@@ -2,9 +2,25 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Özel gereksinimli bireyler ÇİDEM'de domates hasadına katıldı
+
+**Gündem · Merkez** · 2026-11-04 00:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://baskentpostasi.com/eskisehirde-ozel-gereksinimli-bireyler-cidemde-domates-hasadina-katilarak-tarimsal-uretimi-deneyimledi)
+
+![](data/images/e7e6676d7511703b.jpg)
+
+> Etkinliği Büyükşehir Sosyal Hizmetler Dairesi Başkanlığı düzenledi.
+
+Eskişehir Büyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı Özel Gereksinimliler Şube Müdürlüğü'nün düzenlediği etkinlikte, Zihinsel Engelli Gündüz Yaşam Merkezi'nden hizmet alan özel gereksinimli bireyler Seyitgazi ilçesi Taşlık Mahallesi'ndeki Çiftçi Destekleme ve Eğitim Merkezi'ni (ÇİDEM) ziyaret etti.
+
+Katılımcılar domates hasadına katılarak tarımsal üretim sürecini yerinde deneyimledi. Etkinlikle özel gereksinimli bireylerin sosyal yaşama katılımlarının desteklenmesi ve yeni deneyimler kazanmaları amaçlandı.
+
+---
+
 ## 20. Eskişehir Uluslararası Film Festivali 16-24 Kasım'da, onur ödülleri açıklandı
 
 **Kültür-Sanat · Merkez** · 2026-11-03 23:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://m.haber7.com/kultur/haber/2737858-eskisehir-uluslararasi-film-festivali)
+
+![](data/images/20-eskisehir-uluslararasi-film-festivali-16-24--arsiv.jpg)
 
 > Onur ödülleri Itır Esen ve Macit Koper'e verilecek; festival bu yıl ilk kez iki yeni yarışma düzenleyecek.
 
@@ -429,21 +445,5 @@ Eskişehir İl Millî Eğitim Müdürlüğü'nün hazırladığı "Kale'm Ailem"
 Üç yarışma yapılacak: ilkokul öğrencileri arasında aile temalı resim yarışması, ortaokul öğrencileri arasında şiir yazma ve okuma yarışması, lise öğrencileri arasında kısa film yarışması.
 
 Takvim: başvuru ilanı 2 Kasım 2026, son başvuru 23 Kasım 2026, okul dereceleri 25 Kasım 2026, ilçe dereceleri 1 Aralık 2026, il dereceleri 10 Aralık 2026. Ödül töreni Nisan 2027'de yapılacak.
-
----
-
-## Eskişehirspor'un Türkiye Kupası 4. tur rakibi 4 Kasım'daki kurada belli olacak
-
-**Spor · Merkez** · 2026-11-03 09:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/ziraat-turkiye-kupasi-4-tur-kurasi-ne-zaman-saat-kacta-hangi-kanalda-eskisehirspor-rakibini-bekliyor-2447351)
-
-![](data/images/78489d749d15f6f8.jpg)
-
-> Kura 4 Kasım Çarşamba günü saat 15.30'da çekilecek.
-
-Ziraat Türkiye Kupası 4. eleme turu kura çekimi 4 Kasım 2026 Çarşamba günü yapılacak. Türkiye Futbol Federasyonu önce kuranın saat 14.00'te yapılacağını duyurmuştu; ertelenen Fethiyespor-Eyüpspor 3. tur maçının tamamlanması için düzenleme yapılması nedeniyle saat 15.30'a alındı.
-
-Kura, İstanbul Riva'daki TFF Hasan Doğan Millî Takımlar Kamp ve Eğitim Tesisleri'nde, Orhan Saka Konferans Salonu'nda kulüp temsilcilerinin katılımıyla yapılacak. Kaynakta, önceki turların kura çekimlerinin A Spor'dan canlı ve şifresiz yayınlandığı, yayın bilgisi için resmî yayın akışının kontrol edilmesi gerektiği belirtiliyor.
-
-Eskişehirspor, 3. turda Alagöz Holding Iğdır FK'yı Prof. Dr. Fethi Heper Stadı'nda 1-0 yenerek 4. tura çıktı. Golü 90+7. dakikada Kerem Baykuş attı. Eskişehirspor'un bir sonraki rakibi kurada belli olacak.
 
 ---
