@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 04.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son haber 200. Derleme geçti (276 haber, venv ile). Son haber 19:33 TSİ; son 24 saatte 30 haber (Gündem/Spor 7, Kültür-Sanat/Sağlık 4, Tarım/Ekonomi/Belediye 2, Ulaşım/Eğitim 1; ilçe Merkez 21, Tepebaşı 5, Odunpazarı 4), 8'inde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 9, reels kaydı 68. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Asayiş, Eğitim, Ulaşım, Odunpazarı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e lösemi/LÖSEV, caz, Altın Portakal, Türkiye Kupası, yüzme, tohumluk, toplumsal cinsiyet, organ bağışı etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Eğitim/Asayiş kaynakları.
+SAHİBİNE: yok.
+
 ## 04.11.2026 (müdür) İlk gerçek büyüme verisi
 `growth.py` + `buyume.yml` (günde 2 kez, yalnız okur) ilk kez çalıştı, `BUYUME.md` ve `data/growth.json` üretiyor. **Bugünkü başlangıç:** 69 takipçi, 191 paylaşım, son 7 günde 20.044 erişim. **Bulgu 1:** Reels ortalama 517 erişim, fotoğraf gönderisi 6 erişim (80 kat fark). **Bulgu 2:** 20 bin erişime karşı yalnız 69 takipçi: izleyen takip etmiyor. **Bulgu 3:** Kurşunlu tahliye Reels'i iki kez paylaşılmış (1042 ve 640 erişim); tekrar önleme düzeltmesi (e392e6c) bunu kapatır.
 **Yapılan:** Reels sınırı 8 -> 12/gün, tur başına 2; fotoğraf gönderisi için önem 3 -> 4 (kota Reels'e); Reels kapanış kartının ana çağrısı "Takip et → @nabiz26haber"; tüm açıklamalara takip satırı. **Hedef (ölçülebilir):** 7 gün içinde günlük net +10 takipçi; 30 günde 69 -> 400. Her tur `BUYUME.md` okunup takipçi/erişim oranı (şu an %0,3) izlenecek.
