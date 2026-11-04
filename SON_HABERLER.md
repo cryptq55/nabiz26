@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yerdeki Türk bayraklarını kaldıran trafik polisi Vali Yılmaz'dan plaket aldı
+
+**Gündem · Tepebaşı** · 2026-11-04 15:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yerde-gordugu-turk-bayraklarini-kaldiran-polis-plaketle-odullendirildi-119512487)
+
+> Polis memuru Osman Özbakır'a Vali Erdinç Yılmaz plaket ve başarı belgesi verdi.
+
+Eskişehir Emniyet Müdürlüğü Trafik Şube Müdürlüğü'nde görevli polis memuru Osman Özbakır, önceki gün ekip aracıyla Tepebaşı ilçesi Uluönder Mahallesi'nde seyir halindeyken çevre yolunda refüjde yerde Türk bayrakları olduğunu fark etti. Özbakır, yoğun trafiğe rağmen yolun karşısına geçerek bayrakları yerden aldı. Bir kişinin cep telefonu kamerasıyla kaydettiği görüntülerde Özbakır'ın bayrakları katlayıp öptüğü görüldü.
+
+Görüntülerin sosyal medyada paylaşılmasının ardından Vali Erdinç Yılmaz, Özbakır'ı Emniyet Müdür Vekili Kadir Murat Meral ve Trafik Denetleme Şube Müdürü Hakan Solak'la birlikte makamında ağırladı; Özbakır'a plaket ve başarı belgesi verdi. Yılmaz, "Senin o hassasiyetin bütün Türkiye'de çok güzel karşılandı" dedi.
+
+Özbakır, ekip aracını trafik güvenliğini tehlikeye düşürmeyecek bir noktada durdurup bayrakları koşarak yerden kaldırdığını, trafik polisinin görevinin yalnızca trafik güvenliğini sağlamak değil, Türk bayrağına da sahip çıkmak olduğunu söyledi.
+
+---
+
 ## Büyükşehir Caz Günleri'nde Sibel Köse Quintet sahne aldı, sonraki konser 17 Kasım'da
 
 **Kültür-Sanat · Merkez** · 2026-11-04 14:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/sibel-kose-quintetten-eskisehirde-caz-dolu-unutulmaz-bir-gece)
@@ -417,19 +431,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, belediyenin ekim ay�
 26 Ekim'de tanıtılan yeni nesil su sayaçlarıyla cep telefonlarından su yüklenebilir hale geldi; başvuru yapan tüm abonelere yeni sayaç takılacak. Ünlüce, ekim sonuna kadar kent genelinde 170 bin ton asfalt üretildiğini, kırsalda yaklaşık 70 kilometrelik sathi kaplama yapıldığını ve yılbaşından ekim sonuna kadar kırsal ilçelerde yaklaşık 850 milyon TL'lik altyapı ve üstyapı yatırımı gerçekleştirildiğini belirtti. ESKİ, ekimde Sazova, 71 Evler ve Emek mahallelerinde toplam 160 milyon TL değerinde altyapı yatırımı yaptı.
 
 Ünlüce ayrıca 6 Şubat depremlerinin ardından Adıyaman'la kurulan dayanışma bağının Eskişehir Parkı ile kalıcı bir esere dönüştürüldüğünü, kaldırım ve yol işgalleri ile çevre kirliliğine yönelik denetimlerin artırıldığını, tiyatro, senfoni, müze ve Otobüs 26 biletlerinin ESBilet uygulamasından alınabildiğini söyledi. Halk Dansları Grubu ilk gösterisini yaptı; Şehir Tiyatroları ve Senfoni Orkestrası yeni sezona başladı.
-
----
-
-## Eskişehirspor 9 günde 3 maç oynayacak: Kepezspor, Anadolu SF ve Ayvalıkgücü
-
-**Spor · Merkez** · 2026-11-03 17:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporda-zorlu-donemec-9-gunde-3-mac)
-
-![](data/images/b0b66b0e76d060f3.jpg)
-
-> Eskişehirspor 11 Kasım'da Eskişehir Anadolu SF'ye konuk olacak.
-
-Eskişehirspor, Gaziemir deplasmanında aldığı 5-0'lık galibiyetin ardından 9 günde üç maça çıkacak. 10. haftada 7 Kasım Cumartesi günü saat 15.30'da Kepezspor'u ağırlayacak. 11. haftada 11 Kasım Çarşamba günü saat 15.00'te zirve mücadelesi veren Eskişehir Anadolu SF'ye konuk olacak. 12. haftada ise 15 Kasım Pazar günü saat 15.00'te Ayvalıkgücü Belediyespor'u konuk edecek; İstikbal Gazetesi'ne göre rakip geçen sezon olduğu gibi bu sezon da grupta zirve mücadelesi veriyor.
-
-Teknik direktör Hakan Şapcı'nın öğrencilerinin üç maçı da kazanarak 9 puan almayı hedeflediği belirtildi. Aynı hafta Eskişehir Anadolu SF, 7 Kasım'da saat 15.00'te Uşakspor ile deplasmanda oynayacak.
 
 ---
