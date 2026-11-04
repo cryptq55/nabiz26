@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Anadolu Üniversitesi mezunu Selin Toprak'a Altın Portakal'da Jüri Özel Ödülü
+
+**Kültür-Sanat · Merkez** · 2026-11-04 03:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.mersinhaber.com/amp/haber/834997)
+
+> Ödüllü film, Anadolu Üniversitesi'nde mezuniyet projesi olarak hazırlandı.
+
+Anadolu Üniversitesi Güzel Sanatlar Fakültesi mezunu Selin Toprak, "Dünya Günü Kutlu Olsun (Happy Earth Day)" adlı kısa animasyon filmiyle 63. Uluslararası Antalya Altın Portakal Film Festivali'nde Sinema Okulları Öğrenci Filmleri Yarışması kapsamında Jüri Özel Ödülü'nü kazandı. Festival 24-31 Ekim 2026 tarihlerinde yapıldı.
+
+Yedi dakikalık iki boyutlu bilim kurgu animasyonu, Dünya'daki yaşam koşullarının kötüleşmesinin ardından bir uzay gemisine yerleşen insanların hikâyesini anlatıyor; Ivy ve Willow karakterleri üzerinden ortak yaşam, kayıp ve nostalji temalarını işliyor.
+
+Film, Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon Bölümü'nde ANİ473 Çizgi Film Proje I dersi kapsamında mezuniyet projesi olarak hazırlandı. Danışmanlığını fakültenin öğretim üyeleri Prof. Fethi Kaba, Prof. Hikmet Sofuoğlu ve Doç. Sabahattin Çalışkan üstlendi.
+
+---
+
 ## KYK erkek öğrenci yurtlarında AFAD eğitmenleri afet bilinci eğitimi verdi
 
 **Gündem · Merkez** · 2026-11-04 02:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/yerel/haber-eskisehir-de-kyk-erkek-yurtlarinda-afad-egitmenler-20392025/)
@@ -425,21 +439,5 @@ Tepebaşı Belediyesi'nin belde evlerinde düzenlediği çocuk oyun grupları, y
 Hasan Ali Yücel Belde Evi'nde 36-42 aylık 6 çocuk pazartesi ve çarşamba günleri saat 10.00-12.00 arasında, Hedef Batıkent Belde Evi'nde 42-46 aylık 9 çocuk yine pazartesi ve çarşamba günleri 13.00-15.00 arasında etkinliklere katılıyor. Buluşmaların çocukların akranlarıyla iletişim kurmasına, birlikte hareket etmesine ve oyunla öğrenmesine olanak sağladığı belirtildi.
 
 Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların gelişimini desteklemenin geleceğe yapılan yatırım olduğunu söyledi. Belediyeye göre Belde Evleri Eylül 2026 itibarıyla 35 hizmet noktasında, 29 branşta ve 230 kursta sürüyor; başvuruların toplamı 8 bin 151'e, aktif yararlanıcı sayısı 4 bin 466'ya ulaştı.
-
----
-
-## Kurşunlu Külliyesi'nde Kaymakamlık yetkilileri inceleme yaptı: tutanak imzalanmadı
-
-**Gündem · Odunpazarı** · 2026-11-03 10:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/kursunlu-kulliyesi-odunpazari-belediyesinden-alindi-tutanak-imzalanmadi-eserler-kaydedildi)
-
-![](data/images/kursunlu-kulliyesinde-kaymakamlik-yetkilileri-i-arsiv.jpg)
-
-> Belediye yetkilileri tutanağı imzalamayacaklarını, 400 eserin kaydedilmesini istedi.
-
-Kurşunlu Külliyesi'nin 3 Kasım saat 11.00'de Vakıflar Bölge Müdürlüğü'ne teslimi istenmişti. İstikbal Gazetesi'nin aktardığına göre külliyeye gelen Odunpazarı Kaymakamlığı yetkilileri içeri girerek alanı incelemek istedi. Kaymakamlık Yazı İşleri Müdürü Muzaffer Kaptan'ı Odunpazarı Belediyesi Başkan Yardımcısı Emre Genç karşıladı.
-
-İncelemede tutanak tutulması konusunda bir kriz yaşandığı belirtildi. Genç ve belediye yetkilileri tutanağa imza atmayacaklarını, ancak bir örneğini istediklerini söyledi. Genç, külliyede 400 sanat eseri bulunduğunu belirterek eserlerin tek tek kayıt altına alınmasını talep etti. Bunun üzerine polis kameraları, belediye ve kaymakamlık görevlileri eserleri tek tek video çekimi eşliğinde kayıt altına aldı.
-
-Haber tek bir gazetenin aktardığı bilgilere dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün konuya ilişkin açıklaması kaynakta yer almıyor.
 
 ---
