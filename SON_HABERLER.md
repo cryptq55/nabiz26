@@ -2,6 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESOGÜ Hastanesi'nde Organ Bağışı Haftası için bilgilendirme standı kuruldu
+
+**Sağlık · Merkez** · 2026-11-04 07:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/esogu-hastanesinden-organ-bagisi-icin-anlamli-etkinlik)
+
+> ESOGÜ Hastanesi'nde 2017'den bu yana karaciğer ve böbrek nakli yapılıyor.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Sağlık Uygulama ve Araştırma Hastanesi'nde 3-9 Kasım Organ Bağışı Haftası dolayısıyla farkındalık etkinliği düzenlendi. ESOGÜ Tıp Fakültesi Genel Cerrahi Ana Bilim Dalı Transplantasyon Ünitesi'nin kurduğu standda organ bağışının önemi anlatıldı, vatandaşların soruları yanıtlandı. Hasta ve hasta yakınlarına süreç hakkında bilgi verildi, broşür dağıtıldı, bağış yapmak isteyenlere başvuru işlemlerinde yardımcı olundu.
+
+Etkinlikte yapılan açıklamaya göre ESOGÜ Hastanesi'nde 2017'den bu yana karaciğer ve böbrek nakilleri yapılıyor; nakil sonrası taburcu edilen hastalar düzenli kontrollerle izleniyor. Etkinliğe Dr. Öğr. Üyesi Yavuz Selim Angın, Hastane Başmüdürü Ayşe Kırcı, Halkla İlişkiler Sorumlusu Esin Gökalp ile organ nakli koordinatörleri Tarık Uca ve Elif Hiçyılmaz katıldı.
+
+---
+
+## AB destekli projede gençler geleneksel tarım bilgisini dijital hikayeye çeviriyor
+
+**Tarım · Merkez** · 2026-11-04 07:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-gencler-geleneksel-tarim-bilgilerini-dijital-hikayelere-donusturmeye-119511755)
+
+> Proje 20 genci Yunus Emre ve Yörük Kırka mahallelerindeki çiftçi ailelerle buluşturdu.
+
+Avrupa Birliği Sivil Düşün Programı finansmanıyla yürütülen "Kadim Tarım Bilgisinin Dijital Hikaye Anlatıcılığı Yoluyla Kuşaklararası Aktarımı" projesi kapsamında, Eskişehir Teknik Üniversitesi, Anadolu Üniversitesi ve Eskişehir Osmangazi Üniversitesi öğrencilerinin de aralarında bulunduğu 20 genç, kırsalda yaşayan deneyimli çiftçilerden geleneksel tarım bilgilerini öğreniyor.
+
+Proje yürütücüsü İhsan Tarık Çelik, 24-25 Ekim'de Eskişehir Teknik Üniversitesi TÜBİTAK Milli Teknoloji Atölyesi'nde dijital hikaye anlatıcılığı, röportaj teknikleri, mobil gazetecilik, görsel anlatım ve dijital içerik üretimi eğitimi verdi. 31 Ekim ve 1 Kasım'da gençler Yunus Emre ve Yörük Kırka mahallelerinde çiftçi ailelerle günlük üretim faaliyetlerine katıldı; hayvan bakımı, süt sağımı, ekşi maya ve bazlama yapımı ile hasat çalışmalarını gözlemleyip görüntü ve ses kaydı aldı.
+
+Saha çalışmasının ardından kurgu ve montaj aşamasına geçildi. Görüntüler farklı temalarda dijital hikayelere dönüştürülecek; yatay ve dikey formatlı filmlerin YouTube'da ve projenin internet sitesinde, kısa videoların sosyal medyada yayımlanması planlanıyor.
+
+---
+
 ## Eskişehirspor Kadın Futbol Takımı İstanbul deplasmanında 2-1 yenildi
 
 **Spor · Merkez** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-kadin-futbol-takiminda-yurekleri-burkan-tablo)
@@ -411,37 +437,5 @@ Eskişehir Büyükşehir Belediyesi'nin "Bi' Fikirle Eskişehir" projesi kapsam�
 Tepebaşı Belediyesi'nin bu yıl 14'üncüsünü düzenleyeceği Uluslararası Eskişehir Şiir Buluşması 13 Kasım Cuma günü başlayacak. Açılış töreni 13 Kasım'da saat 18.30'da Özdilek Sanat Merkezi'nde yapılacak. Üç gün sürecek buluşmaya Mısır ve Fransa'dan 2, Türkiye'den 11 şair katılacak; şiir okumaları, oturumlar ve müzik dinletileri yapılacak.
 
 Etkinlikler 13 ve 14 Kasım'da Özdilek Sanat Merkezi'nde, 15 Kasım'da Atila Özer Karikatürlü Ev'de düzenlenecek ve tüm Eskişehirlilere açık olacak. Belediye Başkanı Ahmet Ataç, kent sakinlerini etkinliklere davet etti. Ataç, şiirin farklı ülkelerden ve düşüncelerden insanları buluşturan güçlü bir dil olduğunu söyledi.
-
----
-
-## Tepebaşı'nın "Gel Beraber Olsun" yemek projesi yeni adresinde 2 bin 30 öğrenciye ulaştı
-
-**Belediye · Tepebaşı** · 2026-11-03 11:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://gazetekalem.com.tr/tepebasi-belediyesinin-gel-beraber-olsun-projesi-yeni-adresinde-ogrencileri-agirliyor/)
-
-![](data/images/6958882cad4ce735.jpg)
-
-> Proje 19 Ekim'den bu yana Ali Rıza Efendi Deneyimli Kafe'de hizmet veriyor.
-
-Tepebaşı Belediyesi'nin üniversite öğrencilerine yönelik "Gel Beraber Olsun" projesi, 19 Ekim 2026'dan bu yana Ali Rıza Efendi Deneyimli Kafe'de hizmet veriyor. Hafta içi her gün saat 18.00-19.00 arasında sunulan akşam yemeği desteğinden yeni dönemin başlangıcından bu yana 2 bin 30 öğrenci yararlandı.
-
-Projeyi ziyaret eden Belediye Başkanı Ahmet Ataç, öğrencilerle yemek yedi, sohbet etti ve görüşlerini dinledi. Ataç, gençlerin barınma, ulaşım ve beslenme gibi ihtiyaçları için zorlandığını belirterek belediyenin öğrencilerin bir öğün yemeğini üstlenmek istediğini söyledi. Belediyenin 2022'den bu yana on binlerce öğrenciyle aynı sofrayı paylaştığını ifade eden Ataç, tüm üniversiteli gençleri sofraya davet etti.
-
----
-
-## Kurşunlu Külliyesi'nde tahliye bildirildi: Kurt "Kararı tanımıyoruz" dedi
-
-**Gündem · Odunpazarı** · 2026-11-03 11:33 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.medyagazete.com/haber/kursunlu-kulliyesinde-tahliye-gerginligi)
-
-![](data/images/kursunlu-kulliyesinde-tahliye-bildirildi-kurt-k-arsiv.jpg)
-
-> Odunpazarı Belediye Başkanı Kurt, külliyede basın açıklaması yaptı.
-
-Medya Gazete'nin aktardığına göre Kurşunlu Külliyesi'nin tahliyesi 3 Kasım'da saat 11.00 itibarıyla belediye ekiplerine tebliğ edildi. Külliyeye gelen Odunpazarı Belediye Başkanı Kazım Kurt basın açıklaması yaptı.
-
-Kurt, kararın kanuna aykırı olduğunu savundu. Vakıflar Kanunu'na eklenen maddenin belediyeye 5 yıl daha kiracı olma hakkı verdiğini, bu başvurunun idare mahkemesinde beklediğini, iki gün önce yürütmeyi durdurma kararı verilinceye kadar beklenileceğinin bildirildiğini söyledi. Kurt, "Biz şu anda burada hiçbir şeyi imzalamayacağız, çünkü bu kararı tanımıyoruz" dedi.
-
-Külliyedeki müze ve sanat eserlerinin 400 sayfalık envanterle kayıtlı olduğunu belirten Kurt, eserlerden birine zarar gelirse hesabını soracaklarını söyledi. Külliyenin kapatılması halinde çalışanların işsiz kalacağını ve esnafın ticari yaşamının sıkıntıya düşeceğini ifade etti.
-
-Haber Kurt'un açıklamasına dayanıyor; Kaymakamlığın ve Vakıflar Bölge Müdürlüğü'nün görüşü kaynakta yer almıyor.
 
 ---
