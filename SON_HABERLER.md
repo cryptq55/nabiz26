@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor-Kepezspor maçı Tivibu 1'den canlı yayınlanacak: 7 Kasım, 15.30
+
+**Spor · Merkez** · 2026-11-05 00:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.esyenigun.com/eskisehirspor-maci-ne-zaman-hangi-kanalda)
+
+![](data/images/c8eb28fa90d7b711.jpg)
+
+> Eskişehirspor 18 puanla liderin 3 puan gerisinde ikinci sırada.
+
+Eskişehirspor ile Kepezspor arasındaki karşılaşma 7 Kasım 2026 Cumartesi günü saat 15.30'da Fethi Heper Stadyumu'nda oynanacak. Maç Tivibu 1 ekranlarından canlı yayınlanacak.
+
+Eskişehirspor ligde 9 haftada topladığı 18 puanla, 5 galibiyet, 3 beraberlik ve 1 yenilgiyle, 21 puanlı lider Gemlik Sümerbey'in 3 puan gerisinde ikinci sırada. Anadolu SF ve Ayvalıkgücü de aynı puanda; Eskişehirspor averaj sıralamasıyla ikinci basamakta yer alıyor. Takım, Gaziemirspor'u 5-0 yendikten sonra Kepezspor maçına da 3 puan hedefiyle hazırlanıyor.
+
+---
+
 ## Vali Yılmaz Mihalıççık'ta Yunus Emre Mezarı ve Külliyesi'ni ziyaret etti
 
 **Kültür-Sanat · Merkez** · 2026-11-04 21:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yunus-emre-mezar-ve-kulliyesini-ziyaret-etti)
@@ -417,17 +431,5 @@ Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu 
 Türkiye'nin üniversite kimliği taşıyan uluslararası tek uzun metraj film festivali olarak tanıtılan etkinlik, bu yıl ilk kez "Kısa Film Yapım Destek" ve "Sinema Kültürüne Katkı" yarışmalarına yer verecek.
 
 Kaynakta Itır Esen'in 1975'ten itibaren Bizim Aile, Gülen Gözler, Aile Şerefi ve Cennetin Çocukları dahil toplam 8 filmde rol aldığı, Macit Koper'in ise sinemada hem oyuncu hem senarist olarak çalıştığı belirtiliyor.
-
----
-
-## Eskişehir'de Organ Bağışı Haftası kapsamında 5 Kasım'da yürüyüş düzenlenecek
-
-**Sağlık · Merkez** · 2026-11-03 22:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-organ-bagisi-icin-yuruyus-duzenlenecek)
-
-> Yürüyüş İl Sağlık Müdürlüğü Ek Hizmet Binası önünden başlayacak.
-
-Eskişehir İl Sağlık Müdürlüğü, Organ Bağışı Haftası kapsamında organ bağışının önemine dikkat çekmek ve toplumsal farkındalığı artırmak amacıyla yürüyüş ve basın açıklaması düzenleyecek. Etkinlik 5 Kasım Perşembe günü saat 13.50'de başlayacak.
-
-Başlangıç noktası İl Sağlık Müdürlüğü Ek Hizmet Binası önü olacak; katılımcılar Doktorlar Caddesi güzergâhında yürüyecek. Etkinlikte İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici ile Sağlık Hizmetleri Başkanı Op. Dr. Ersin Işıldı organ bağışının önemi hakkında açıklama yapacak.
 
 ---
