@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Şehir Hastanesi'nde organ bağışı etkinliği: kentte 125 hasta böbrek nakli bekliyor
+
+**Sağlık · Merkez** · 2026-11-05 09:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-organ-bagisi-farkindaligi--hastalar-umut-bekliyor-297532.html)
+
+> İl Müftüsü Gül ve Başhekim Algın vatandaşları gönüllü organ bağışına çağırdı.
+
+Eskişehir Şehir Hastanesi'nde, 3-9 Kasım Organ Bağışı Haftası kapsamında farkındalık etkinliği düzenlendi. Etkinlikte nakil bekleyen hastaların yaşadığı zorluklar gündeme getirildi.
+
+Eskişehir İl Müftüsü Muharrem Gül, organ bağışının toplumsal ve insani açıdan büyük bir hayır olduğunu söyledi. Gül, kentte acil böbrek nakli bekleyen yaklaşık 125 hasta bulunduğunu belirtti. Diyanet İşleri Başkanlığı ve Din İşleri Yüksek Kurulunun organ bağışının caiz olduğuna ve teşvik edildiğine ilişkin fetvaları olduğunu hatırlatan Gül, vatandaşları gönüllü bağışa davet etti.
+
+Şehir Hastanesi Başhekimi Prof. Dr. Mustafa Cem Algın da her yıl 3-9 Kasım'da farkındalık etkinlikleri yapıldığını anlattı. Algın, organ bağışının Sağlık Bakanlığı çalışmalarıyla artık e-Devlet üzerinden de kolayca yapılabildiğini belirterek vatandaşları bağışa destek olmaya çağırdı.
+
+Etkinlikte, yaklaşık 20 yıl önce de organlarını bağışladığını söyleyen 58 yaşındaki Hatice Efe de deneyimini paylaştı. Efe, hastaneye tesadüfen geldiğinde yeniden bağışta bulunduğunu anlattı.
+
+---
+
 ## Seyitgazi'de 4. Pekmez Kaynatma Şenliği 7 Kasım'da, ücretsiz otobüs seferleri olacak
 
 **Kültür-Sanat · Merkez** · 2026-11-05 08:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/pekmez-kaynatma-senligi-icin-ucretsiz-ulasim-imkani-servis-duraklari-aciklandi)
@@ -430,21 +446,5 @@ Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ), Çankay
 ESKİ'nin açıklamasına göre hat, dayanıklılığı yüksek spiral çelik borularla yeniden inşa edildi; yapımda kazı, boru yerleştirme, kaynak ve izolasyon işlemleri yapıldı. Yeni hattın mevcut içme suyu iletim sistemine bağlanması için ekipler gece boyunca aralıksız çalıştı. Bağlantıların tamamlanmasının ardından hatta kademeli olarak su verildi, şebeke basıncı dengelendi ve iletim sistemi yeniden normal işletme düzenine kavuştu.
 
 Çalışma sırasında Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde su kesintisi ve basınç düşüklüğü yaşanmıştı. ESKİ, yatırımla olası arıza risklerinin azaltılmasını ve su iletiminde sürekliliğin sağlanmasını amaçladığını belirtti.
-
----
-
-## Anadolu Üniversitesi mezunu Selin Toprak'a Altın Portakal'da Jüri Özel Ödülü
-
-**Kültür-Sanat · Merkez** · 2026-11-04 03:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.mersinhaber.com/amp/haber/834997)
-
-![](data/images/anadolu-universitesi-mezunu-selin-topraka-altin-arsiv.jpg)
-
-> Ödüllü film, Anadolu Üniversitesi'nde mezuniyet projesi olarak hazırlandı.
-
-Anadolu Üniversitesi Güzel Sanatlar Fakültesi mezunu Selin Toprak, "Dünya Günü Kutlu Olsun (Happy Earth Day)" adlı kısa animasyon filmiyle 63. Uluslararası Antalya Altın Portakal Film Festivali'nde Sinema Okulları Öğrenci Filmleri Yarışması kapsamında Jüri Özel Ödülü'nü kazandı. Festival 24-31 Ekim 2026 tarihlerinde yapıldı.
-
-Yedi dakikalık iki boyutlu bilim kurgu animasyonu, Dünya'daki yaşam koşullarının kötüleşmesinin ardından bir uzay gemisine yerleşen insanların hikâyesini anlatıyor; Ivy ve Willow karakterleri üzerinden ortak yaşam, kayıp ve nostalji temalarını işliyor.
-
-Film, Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon Bölümü'nde ANİ473 Çizgi Film Proje I dersi kapsamında mezuniyet projesi olarak hazırlandı. Danışmanlığını fakültenin öğretim üyeleri Prof. Fethi Kaba, Prof. Hikmet Sofuoğlu ve Doç. Sabahattin Çalışkan üstlendi.
 
 ---
