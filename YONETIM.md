@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 05.11.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden biri (Olcay-Kaya ralli) 404: kaydında fotoğraf yok, sayfa üretilmiyor (beklenen). Derleme geçti (280 sayfa, venv ile). Son haber 09:31 TSİ; son 24 saatte 19 yayında haber (Spor 6, Gündem 3, Belediye/Sağlık/Ekonomi/Eğitim/Kültür-Sanat 2; ilçe Merkez 12, Tepebaşı 5, Odunpazarı 1, Türkiye 1), 4'ünde fotoğraf yok. Akış dünden yavaş (19, dün 30-40). Instagram: log 13, reel_log 7 (DAILY_CAP=16 dolmadı); BUYUME.md: 72 takipçi (+3), 7 gün erişim 24.282, Reels ort. 451 erişim, fotoğraf gönderisi 9. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Asayiş, Ulaşım, Odunpazarı, Türkiye.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e zimmet davası, Büyükerşen, ralli, canlı yayın, mesleki eğitim, akreditasyon, Yunus Emre, Bodrum FK etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Asayiş/Ulaşım/Odunpazarı kaynakları.
+SAHİBİNE: yok.
+
 ## 04.11.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son haber 200. Derleme geçti (276 haber, venv ile). Son haber 19:33 TSİ; son 24 saatte 30 haber (Gündem/Spor 7, Kültür-Sanat/Sağlık 4, Tarım/Ekonomi/Belediye 2, Ulaşım/Eğitim 1; ilçe Merkez 21, Tepebaşı 5, Odunpazarı 4), 8'inde fotoğraf yok. Instagram: log 16 (DAILY_CAP dolu), reel_log 9, reels kaydı 68. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Asayiş, Eğitim, Ulaşım, Odunpazarı.
 **Düzeltilen:** yok.
