@@ -20,10 +20,10 @@
     "title": "Tepebaşı Belediyesi asfalt çalışmalarını kendi imkanlarıyla yapacak: Meclisten oy birliğiyle geçti - Gzt26",
     "url": "https://www.gzt26.com/tepebasi-belediyesi-asfalt-calismalarini-kendi-imkanlariyla-yapacak-meclisten-oy-birligiyle-gecti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Asfalt serme makinesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
