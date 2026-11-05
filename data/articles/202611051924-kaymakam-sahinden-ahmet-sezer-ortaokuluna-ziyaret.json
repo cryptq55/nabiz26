@@ -21,11 +21,11 @@
     "title": "Odunpazarı Kaymakamı Şahin'den Ahmet Sezer Ortaokuluna Ziyaret - Haberes",
     "url": "https://www.haberes.com.tr/odunpazari-kaymakami-sahinden-ahmet-sezer-ortaokuluna-ziyaret"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Sezer Ortaokulu",
       "Eskişehir okul"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
