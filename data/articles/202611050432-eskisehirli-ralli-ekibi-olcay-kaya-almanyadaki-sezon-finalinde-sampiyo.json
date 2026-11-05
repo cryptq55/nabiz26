@@ -20,10 +20,10 @@
     "title": "Şampiyonluğa bir adım kaldı! Son durak Almanya - Esgazete",
     "url": "https://www.esgazete.com/sampiyonluga-bir-adim-kaldi-son-durak-almanya"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Evren Olcay"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-05T07:31:10.593240+00:00",
+  "published_at": "2026-11-05T07:31:40.140072+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Havaist, Eskişehir’den Sabiha Gökçen’e yeni hat hazırlığında - Ekonomi Gazetesi",
     "url": "https://www.ekonomigazetesi.com/sehirler/havaist-eskisehirden-sabiha-gokcene-yeni-hat-hazirliginda-91425"
   },
-  "photo_pending": {
-    "query": [
-      "Havaist"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/havaist-eskisehirden-sabiha-gokcen-havalimanina-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Havaist,_Arnavutk%C3%B6y_(LRM_20240329_200651-RR).jpg",
+    "archive": true,
+    "credit": "Matti Blume / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
