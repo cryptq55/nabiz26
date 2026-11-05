@@ -55,13 +55,26 @@ jobs:
           r = s.get(base + '/workers/scripts', timeout=30)
           r.raise_for_status()
           worker = next(x for x in r.json()['result'] if x['id'] == 'nabiz26')
-          r = s.get(base + '/builds/workers/' + worker['tag'] + '/builds', timeout=30)
-          r.raise_for_status()
-          for b in r.json()['result']:
-              if b.get('status') not in ('queued', 'initializing', 'running'):
-                  continue
+          builds, page = [], 1
+          while True:
+              r = s.get(base + '/builds/workers/' + worker['tag'] + '/builds',
+                        params={'page': page, 'per_page': 200}, timeout=30)
+              r.raise_for_status()
+              data = r.json()
+              if not data.get('success'):
+                  raise RuntimeError('Cloudflare derleme listesi alınamadı')
+              batch = data['result']
+              builds.extend(batch)
+              if page >= data.get('result_info', {}).get('total_pages', page) or len(batch) < 200:
+                  break
+              page += 1
+          active = [b for b in builds if b.get('status') in ('queued', 'initializing', 'running')]
+          print('Kontrol edilen derleme:', len(builds), 'Aktif eski derleme:', len(active))
+          for b in active:
               r = s.put(base + '/builds/builds/' + b['build_uuid'] + '/cancel', timeout=30)
               r.raise_for_status()
+              if not r.json().get('success'):
+                  raise RuntimeError('Eski Cloudflare derlemesi iptal edilemedi')
               print('Eski Cloudflare derlemesi iptal edildi:', b['build_uuid'])
           PY
           npx --yes wrangler@4.158.0 deploy --config wrangler.jsonc
