@@ -22,10 +22,10 @@
     "title": "Ölü sayısı 7'ye yükseldi: Afyon'daki kanlı olay sonrası Eskişehir'de alarma geçildi - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/olu-sayisi-7ye-yukseldi-afyondaki-kanli-olay-sonrasi-eskisehirde-alarma-gecildi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Emniyet Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
