@@ -13,17 +13,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-05T13:33:07.118815+00:00",
+  "published_at": "2026-11-05T13:33:42.056610+00:00",
   "status": "published",
   "source": {
     "name": "Eskişehir İl Tarım ve Orman Müdürlüğü",
     "title": "“BİR SÜRÜ OLSUN” PROJESİ KAPSAMINDA ETÇİ IRK SIĞIR BAŞVURULARI BAŞLADI",
     "url": "https://eskisehir.tarimorman.gov.tr/Haber/1758/Bir-Suru-Olsun-Projesi-Kapsaminda-Etci-Irk-Sigir-Basvurulari-Basladi"
   },
-  "photo_pending": {
-    "query": [
-      "Etçi sığır"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/bir-suru-olsun-projesinde-etci-irk-sigir-basvur-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Beef_cattle_-_geograph.org.uk_-_7744676.jpg",
+    "archive": true,
+    "credit": "N Chadwick / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

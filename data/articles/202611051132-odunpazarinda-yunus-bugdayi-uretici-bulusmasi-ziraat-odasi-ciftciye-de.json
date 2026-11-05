@@ -20,10 +20,10 @@
     "title": "Eskişehir'de Yunus Buğdayı için Üretici Buluşması - Eskişehir Durum",
     "url": "https://eskisehirdurum.com/eskisehir-gundem/eskisehirde-yunus-bugdayi-icin-uretici-bulusmasi/811471"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Emek Kapalı Pazar Yeri"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

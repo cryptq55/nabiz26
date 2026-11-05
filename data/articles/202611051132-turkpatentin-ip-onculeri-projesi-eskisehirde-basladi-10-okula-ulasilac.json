@@ -20,10 +20,10 @@
     "title": "TÜRKPATENT’in IP Öncüleri Projesi Eskişehir’de 10 Okula Ulaşacak - Alomaliye",
     "url": "https://www.alomaliye.com/2026/11/05/turkpatentin-ip-onculeri-projesi-eskisehirde-10-okula-ulasacak/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Anadolu Üniversitesi Yunus Emre Kampüsü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
