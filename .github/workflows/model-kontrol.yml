@@ -1,0 +1,41 @@
+name: Bulut model kontrolü (yayınsız)
+
+on: workflow_dispatch
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - name: Ücretsiz model bağlantısını kontrol et
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - <<'PY'
+          import os, requests
+          key = os.environ['GEMINI_API_KEY']
+          ok = False
+          for model in ['gemini-3.8-flash', 'gemini-3.5-flash-lite', 'gemini-3.6-flash']:
+              r = requests.post(
+                  f'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent',
+                  headers={'x-goog-api-key': key},
+                  json={'contents': [{'parts': [{'text': 'Sadece TAMAM yaz.'}]}]}, timeout=60)
+              print(model, 'HTTP', r.status_code, flush=True)
+              if r.ok:
+                  print('Üretim başarılı', flush=True)
+                  ok = True
+              else:
+                  print(r.text[:1000].replace(key, '[secret]'), flush=True)
+          if not ok:
+              raise SystemExit('Ücretsiz model bağlantısı doğrulanamadı')
+          PY
