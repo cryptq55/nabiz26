@@ -3,6 +3,15 @@
 Eskişehir yerel haber sitesi **nabiz26.com**. Haberleri yapay zekâ yazar, site statik üretilir.
 Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım olmalı.
 
+## Güncel bulut işletimi (05.11.2026)
+Sahibi tüm düzenli işlerin bulutta çalışmasını istedi; yerel Codex zamanlaması kapalı.
+`masa.yml` ücretsiz Gemini 3.5 Flash-Lite ile yazar, `foto.yml` görselleri tamamlar,
+`haber.yml` siteyi GitHub sunucusunda derleyip Wrangler ile doğrudan Cloudflare'a yayınlar.
+`GEMINI_API_KEY` ve `CLOUDFLARE_API_TOKEN` depo Secrets alanındadır; değerlerini yazdırma.
+Doğrudan yayın, yalnızca NABIZ26'nın gecikmiş eski Cloudflare derlemelerini iptal eder.
+Eski GitHub–Cloudflare derleme bağlantısı da durur; 05.11.2026'da uzun kuyruk yaşandığı için
+haber yayını bu bağlantıyı beklemeden yapılır. Ücretli Gemini faturalandırması açılmadı.
+
 ## Nasıl çalışıyor
 - **Haber masası:** "Nabız 26 haber masası" adlı Claude bulut oturumu, zamanlanmış görevle 2 saatte bir
   uyanır ve `OTURUM.md` talimatını uygular: `newsbot.py --collect` → haberleri yazar → `--save` → `main`'e push.

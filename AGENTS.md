@@ -9,6 +9,10 @@ Sahibi tüm düzenli işlerin bulutta çalışmasını istedi. Yerel Codex zaman
 Haber yazımı GitHub Actions `masa.yml` üzerinden Gemini ile yürür; `GEMINI_API_KEY` depo secret'ıdır.
 Ücretli faturalandırma açılmadan ayrı NABIZ26 Google projesi kullanılır. Anahtarı yazdırma.
 Yerel bilgisayara bağlı yeni bir düzenli görev kurma. Aşağıdaki oturum adımları elle müdahale içindir.
+Yayın `haber.yml` içinde doğrudan Cloudflare'a yapılır (`CLOUDFLARE_API_TOKEN` depo secret'ı).
+Bu adım yalnızca `nabiz26` Worker'ının eski derlemelerini iptal eder; başka Worker'lara dokunma.
+Gemini yoğunluk hataları sınırlı sayıda yeniden denenir; işlenmeyen kaynaklar görüldü sayılmaz.
+Arşiv sorgusu genel konu adı olamaz ve özel ad haberde birebir geçmelidir (`media.subject_queries`).
 
 ## Önce oku
 1. `CLAUDE.md`: mimari, kurallar, hesaplar, açık işler (hepsi senin için de geçerli).
