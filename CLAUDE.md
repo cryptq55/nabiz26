@@ -9,7 +9,7 @@ Sahibi tüm düzenli işlerin bulutta çalışmasını istedi; yerel Codex zaman
 `haber.yml` siteyi GitHub sunucusunda derleyip Wrangler ile doğrudan Cloudflare'a yayınlar.
 `GEMINI_API_KEY` ve `CLOUDFLARE_API_TOKEN` depo Secrets alanındadır; değerlerini yazdırma.
 Doğrudan yayın, yalnızca NABIZ26'nın gecikmiş eski Cloudflare derlemelerini iptal eder.
-Eski GitHub–Cloudflare derleme bağlantısı da durur; 05.11.2026'da uzun kuyruk yaşandığı için
+Eski GitHub–Cloudflare derleme bağlantısı hâlâ etkindir; 05.11.2026'da uzun kuyruk yaşandığı için
 haber yayını bu bağlantıyı beklemeden yapılır. Ücretli Gemini faturalandırması açılmadı.
 
 ## Nasıl çalışıyor
