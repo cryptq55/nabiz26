@@ -2,6 +2,42 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti
+
+**Belediye · Tepebaşı** · 2026-11-05 15:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-cop-ucretlerine-zam-2027-tarifesi-belli-oldu)
+
+![](data/images/4b7893b804d8af2d.jpg)
+
+> Tepebaşı'nda konut başına yıllık 970 TL, Odunpazarı'nda 973,40 TL alınacak.
+
+Tepebaşı ve Odunpazarı belediye meclisleri, 2027 Yılı Evsel Katı Atık Tarife Raporu'nu kasım ayı toplantılarında oy çokluğuyla kabul etti.
+
+Tepebaşı'nda kabul edilen tarifeye göre konutlardan yıllık 970 TL evsel katı atık bedeli alınacak. Aynı tarifede eğitim kurumlarında öğrenci başına yıllık 128 TL 10 kuruş, kamu binalarında personel başına 600 TL, hastane ve yataklı sağlık kuruluşlarında yatak başına 1.400 TL, otel ve pansiyonlarda yatak başına 1.000 TL, restoran ve kafelerde metrekare başına 115 TL 54 kuruş, sanayi kuruluşlarında iş yeri başına 3.600 TL, pazarlarda tezgâh başına 1.750 TL öngörülüyor. Tepebaşı'nda 2025 yılında toplam 142 bin 408 ton çöp oluştuğu meclis verilerinde yer aldı.
+
+Odunpazarı'nda ise konutlardan 2027'de yıllık 973,40 lira evsel katı atık bedeli alınacak. Rapor, AK Parti meclis üyelerinin karşı oyuyla oy çokluğuyla kabul edildi.
+
+AK Parti Odunpazarı Meclis Üyesi Berke Akyel, Tepebaşı'nın toplam katı atık maliyetinin 2026'da 272 milyon liradan 2027'de 365 milyona (yüzde 34), Odunpazarı'nınkinin ise 271 milyon liradan 435 milyona (yüzde 61) çıktığını öne sürdü. Akyel, temizlik kadrosunda görünüp başka birimlerde çalışan personelin maaşlarının bedele yansıtılıp yansıtılmadığını sordu.
+
+Tepebaşı'nda AK Parti Meclis Üyesi Ali Semih Ünlü, başka müdürlüklerde çalışan personelin 19 milyon 542 bin 687 liralık maliyetinin Plan ve Bütçe Komisyonunda yeni tarife hesabından çıkarıldığını söyledi ve önceki yıllarda fazla ücret alınmış olabileceğini gündeme getirdi.
+
+İki belediye yönetiminin bu iddialara yanıtı kaynak metinlerde yer almıyor.
+
+---
+
+## Anadolu Üniversitesi e-Sertifika programı başvuruları 8 Kasım'a uzatıldı
+
+**Eğitim · Tepebaşı** · 2026-11-05 15:31 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/eskisehir-anadolu-universitesinde-e-sertifika-basvurulari-uzatildi-iste-son-basvuru-tarihi)
+
+> Güz dönemi dersleri 9 Kasım'da başlayacak; başvurular sinavbasvuru.anadolu.edu.tr üzerinden yapılıyor.
+
+Anadolu Üniversitesi Sürekli Eğitim Merkezi (ANADOLUSEM) tarafından yürütülen e-Sertifika Programları'na başvurular 8 Kasım 2026'ya kadar uzatıldı. Başvurular sinavbasvuru.anadolu.edu.tr adresi üzerinden yapılabiliyor.
+
+Herkesin başvurusuna açık programlar uzaktan eğitim olarak sunuluyor. Katılımcılar, Anadolum eKampüs Sistemi üzerinden dijital ders materyallerinden yararlanıyor. Sağlıktan iletişime, işletmeden turizme, siyasetten çocuk gelişimine, yabancı dillerden bilişim teknolojilerine kadar geniş bir yelpazede sunulan programlarda bir ila üç arasında ders bulunuyor ve ders kitapları dijital ortamda veriliyor.
+
+2026 Güz Dönemi e-Sertifika Programlarının dersleri 9 Kasım 2026'da başlayacak. Ayrıntılı bilgiler esertifika.anadolu.edu.tr adresinde yer alıyor.
+
+---
+
 ## Tepebaşı Belediyesi asfaltı kendi imkânlarıyla yapacak: meclis makine alımını kabul etti
 
 **Belediye · Tepebaşı** · 2026-11-05 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasi-belediyesi-asfalt-calismalarini-kendi-imkanlariyla-yapacak-meclisten-oy-birligiyle-gecti)
@@ -440,41 +476,5 @@ Haber Şimşek'in açıklamalarına dayanıyor.
 Mesleki ve Teknik Eğitim Genel Müdürü Salih Kaygusuz'un katılımıyla Eskişehir'de Mesleki ve Teknik Eğitim Değerlendirme Toplantısı yapıldı. Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi'nde düzenlenen toplantıya Genel Müdür Yardımcısı Murat Nedirli, Daire Başkanları Mehmet Faideci ve Mustafa Günay, İl Millî Eğitim Müdürü Sinan Aydın ile il ve ilçe millî eğitim yöneticileri katıldı.
 
 Toplantıda Eskişehir'de mesleki ve teknik eğitimin mevcut durumu, gelişim alanları, fiziki ve akademik altyapı, okul-sanayi iş birlikleri ve kalite geliştirme faaliyetleri ele alındı. Kaygusuz, Eskişehir'de mesleki eğitimin niteliğinin oldukça yüksek olduğunu söyledi. Toplantının ardından Kaygusuz ve Aydın, Firuz Kanatlı Mesleki ve Teknik Anadolu Lisesi'ni ziyaret ederek öğretmen ve öğrencilerle bir araya geldi.
-
----
-
-## Altın fiyatları 4 Kasım 2026: Gram altın 6.548,93 TL
-
-**Ekonomi · Merkez** · 2026-11-04 13:29 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261104.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.480,82 TL'den alınıyor, 6.548,93 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 16.29 itibarıyla verilerine göre gram altının satış fiyatı 6.548,93 TL, alış fiyatı 6.480,82 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,99 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.674 TL, yarım altın 21.341 TL, tam altın 42.526 TL, ata altın 43.669 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.117,65 TL, has altının gram fiyatı 6.529,42 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.040,50 dolardan işlem görürken, dolar/TL 50,13 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 16.29 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Tepebaşı'ndaki Atatürk Spor Tesisleri Su Sporları Merkezi yenilendi
-
-**Spor · Tepebaşı** · 2026-11-04 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yenilenensusporlarımerkeziyenidonemehazır)
-
-![](data/images/b82e71eccf2022e5.jpg)
-
-> Merkezde yeni fitness salonu hizmete girdi; yeni dönem kayıtları 16-22 Kasım'da.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, fiziki şartları yenilenen Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi'ni ziyaret ederek incelemelerde bulundu. Ataç, Gençlik ve Spor Hizmetleri Müdür Vekili Suat Arslanboğa'dan yürütülen çalışmalar ve yeni dönem programları hakkında bilgi aldı.
-
-Merkezde yeni bir fitness salonu hizmete girdi; salon sporlarının yapıldığı alanlarda ve yetişkin kurslarının yapılabileceği yeni salonlarda zemin çalışmaları yapıldı. Ataç, "Burayla ilgili hayallerimi gerçekleştirdim, inanın" dedi ve erişilebilir spor yapmanın herkes için bir hak olduğunu söyledi.
-
-Yeni dönemde 6-17 yaş grubundaki çocuk ve gençlere temel, orta ve ileri seviyelerde yüzme eğitimi veriliyor; yetişkinler için yüzme eğitimi ve serbest yüzme, kadınlar için su grupları ve su içi egzersiz programları bulunuyor. Özel gereksinimli bireyler için uygun havuz ve zaman planlaması yapılıyor. Salonlarda çocuklara modern dans ve taekwondo, yetişkinlere pilates, zumba, tabata ve fonksiyonel antrenman sunuluyor. Yüzme ve salon sporları kursları 20 Ekim'de başlamıştı; yeni dönem kayıtları 16-22 Kasım'da başlayacak.
 
 ---
