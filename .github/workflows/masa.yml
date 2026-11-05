@@ -1,0 +1,47 @@
+name: Haber masası (otomatik)
+
+# Claude bulut masası kapandı (05.11.2026). Haberleri 2 saatte bir burada ücretsiz Gemini (GEMINI_API_KEY) yazar;
+# ANTHROPIC_API_KEY'de kredi varsa önce o denenir. Kararlar oturum moduyla aynı doğrulamadan geçer (newsbot --auto).
+on:
+  schedule:
+    - cron: "13 5-21/2 * * *"   # 08.13-00.13 TSİ arası 2 saatte bir
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: masa
+  cancel-in-progress: false
+
+jobs:
+  tur:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - name: Haber turu
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python newsbot.py --auto --max 10 2>&1 | tee masa.log | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Kaydet, fotoğraf ve paylaşım
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "nabiz26-bot"
+          git config user.email "nabiz26-bot@users.noreply.github.com"
+          git add data SON_HABERLER.md
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Haber turu (otomatik masa)"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+            # GITHUB_TOKEN ile gönderim başka iş akışını tetiklemez: fotoğraf ve paylaşımı elle başlat
+            if grep -q "\[fotoğraf bekliyor\]" masa.log; then gh workflow run foto.yml; fi
+            if grep -q "\[yazıldı\]" masa.log; then gh workflow run haber.yml; fi
+          fi

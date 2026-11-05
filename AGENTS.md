@@ -34,4 +34,4 @@ Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım.
 
 ## Kendiliğinden çalışanlar (GitHub Actions; karışma)
 `foto.yml` (fotoğraf), `haber.yml` (Instagram + IndexNow), `altin.yml` (09.00 altın haberi), `saglik.yml`,
-`servis.yml` (hava/namaz), `bulten.yml`. Claude'un bulut haber masası ve yönetici rutinleri kapalı.
+`servis.yml` (hava/namaz), `bulten.yml`, `masa.yml` (2 saatte bir otomatik haber turu, Gemini). Claude'un bulut haber masası ve yönetici rutinleri kapalı.
