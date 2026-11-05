@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'da hisse devri anlaşması: Türkiye Varlık Fonu yüzde 35 ile en büyük ortak olacak
+
+**Ekonomi · Türkiye** · 2026-11-05 06:31 UTC · Kaynak: [Google Haberler - Togg](https://haberkocaeli.com/toggda-ortaklik-yapisi-degisiyor-turkiye-varlik-fonu-en-buyuk-hissedar-olacak)
+
+![](data/images/072f5ab353290eae.jpg)
+
+> Anlaşmalar 2 Kasım'da imzalandı; devirler kurum onaylarına ve kapanış koşullarına bağlı.
+
+Anadolu Grubu ve Vestel, Togg'daki toplam yüzde 46'lık paylarını Türkiye Varlık Fonu ve Turkcell'e devretmek üzere anlaşma imzaladı. Anlaşmaların 2 Kasım'da imzalandığı, 3 Kasım 2026'da Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamalarla bildirildi.
+
+Toplam 368 milyon avroluk işlemde Vestel, yüzde 23'lük payını 184 milyon avroya Türkiye Varlık Fonu'na satacak. Anadolu Grubu da yüzde 23'lük payını 184 milyon avro bedelle Türkiye Varlık Fonu ve Turkcell'e devredecek. Turkcell'in payı yüzde 23'ten yüzde 34'e çıkacak.
+
+Devirler tamamlandığında ortaklık yapısının şöyle olması bekleniyor: Türkiye Varlık Fonu yüzde 35, Turkcell yüzde 34, BMC yüzde 23 ve TOBB yüzde 8. Vestel, satıştan elde edeceği gelirin en az yüzde 90'ını, tahsilattan sonraki 30 gün içinde vadesi gelmiş nakdi banka kredisi borçlarının ödenmesinde kullanacağını açıkladı.
+
+KAP açıklamalarına göre hisse devirleri henüz tamamlanmadı. İşlemin sonuçlanması için gerekli kurum onaylarının alınması, kapanış koşullarının yerine getirilmesi ve satış bedellerinin ödenmesi gerekiyor.
+
+---
+
 ## Eskişehirli ralli ekibi Olcay-Kaya Almanya'daki sezon finalinde şampiyonluk için yarışacak
 
 **Spor · Merkez** · 2026-11-05 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/sampiyonluga-bir-adim-kaldi-son-durak-almanya)
@@ -415,19 +433,5 @@ Eskişehir'de Kredi ve Yurtlar Kurumu'na (KYK) bağlı erkek öğrenci yurtları
 Odunpazarı Belediyesi, tarımsal üretimi desteklemek ve verimliliği artırmak amacıyla çiftçilere tohumluk buğday dağıtımı yapacak. Belediyenin duyurusuna göre üreticilere Yunus çeşidi tohumluk buğday verilecek.
 
 Dağıtım programı 5 Kasım 2026 Perşembe günü saat 12.30'da Emek Kapalı Pazar Yeri'nde yapılacak. Belediye tüm üreticileri programa davet etti.
-
----
-
-## Özel gereksinimli bireyler ÇİDEM'de domates hasadına katıldı
-
-**Gündem · Merkez** · 2026-11-04 00:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://baskentpostasi.com/eskisehirde-ozel-gereksinimli-bireyler-cidemde-domates-hasadina-katilarak-tarimsal-uretimi-deneyimledi)
-
-![](data/images/e7e6676d7511703b.jpg)
-
-> Etkinliği Büyükşehir Sosyal Hizmetler Dairesi Başkanlığı düzenledi.
-
-Eskişehir Büyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı Özel Gereksinimliler Şube Müdürlüğü'nün düzenlediği etkinlikte, Zihinsel Engelli Gündüz Yaşam Merkezi'nden hizmet alan özel gereksinimli bireyler Seyitgazi ilçesi Taşlık Mahallesi'ndeki Çiftçi Destekleme ve Eğitim Merkezi'ni (ÇİDEM) ziyaret etti.
-
-Katılımcılar domates hasadına katılarak tarımsal üretim sürecini yerinde deneyimledi. Etkinlikle özel gereksinimli bireylerin sosyal yaşama katılımlarının desteklenmesi ve yeni deneyimler kazanmaları amaçlandı.
 
 ---
