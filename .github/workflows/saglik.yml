@@ -51,6 +51,7 @@ jobs:
           python-version: "3.12"
           cache: pip
       - name: Yedek haber masası
+        shell: bash
         if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

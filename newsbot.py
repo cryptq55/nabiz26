@@ -615,12 +615,12 @@ def write_article_gemini(candidate, source_text, recent):
         f"\n\n<kaynak ad=\"{candidate['source_name']}\">\nBaşlık: {candidate['title']}\n\n{source_text[:12000]}\n</kaynak>"
         "\n\nYanıtı yalnızca şu JSON şemasına uyan tek bir nesne olarak ver:\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False)
     )
-    model = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash"
+    model = os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash"
     body = {"systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
             "contents": [{"role": "user", "parts": [{"text": user_msg}]}],
             "generationConfig": {"temperature": 0.3, "responseMimeType": "application/json"}}
     r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                      params={"key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
+                      headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
     if r.status_code == 429:
         raise RuntimeError("Gemini hız sınırı")
     r.raise_for_status()
@@ -634,6 +634,8 @@ def write_article_gemini(candidate, source_text, recent):
 def auto_run(max_items):
     """Yedek haber masası (GitHub Actions): oturum modunun aynısını Claude API ile yapar.
     Toplar, her kaynak için editör kararını API'den alır, kararları aynı doğrulamayla kaydeder."""
+    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("GEMINI_API_KEY")):
+        raise RuntimeError("Haber masası için ANTHROPIC_API_KEY veya GEMINI_API_KEY gerekli")
     import tempfile
     tmp = Path(tempfile.mkdtemp())
     qpath, dpath = tmp / "kuyruk.json", tmp / "kararlar.json"
@@ -668,7 +670,15 @@ def auto_run(max_items):
         if art:
             decisions[c["key"]] = art
     dpath.write_text(json.dumps(decisions, ensure_ascii=False), encoding="utf-8")
-    save_decisions(qpath, dpath)
+    # Model hatasında değerlendirilmeyen kaynaklar bir sonraki tura kalmalı.
+    # save_decisions kuyruğun tamamını görüldü saydığı için yalnızca karar verilenleri aktar.
+    total = len(q["queue"])
+    q["queue"] = [c for c in q["queue"] if c["key"] in decisions]
+    qpath.write_text(json.dumps(q, ensure_ascii=False), encoding="utf-8")
+    if decisions:
+        save_decisions(qpath, dpath)
+    if len(decisions) < total:
+        raise RuntimeError("Model hatası nedeniyle haber turu eksik kaldı; işlenmeyen kaynaklar korunuyor")
 
 
 def save_decisions(queue_path, decisions_path):

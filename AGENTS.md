@@ -4,6 +4,12 @@ Bu depo nabiz26.com (Eskişehir yerel haber sitesi). Haberleri yapay zekâ yazar
 `main` push'unda Cloudflare tarafından yayınlanır. 05.11.2026'dan itibaren haber masası sensin (önceki: Claude).
 Sahibi Türkçe konuşur; yanıtlar Türkçe, kısa ve adım adım.
 
+## Çalışma yeri (05.11.2026)
+Sahibi tüm düzenli işlerin bulutta çalışmasını istedi. Yerel Codex zamanlaması kapalıdır.
+Haber yazımı GitHub Actions `masa.yml` üzerinden Gemini ile yürür; `GEMINI_API_KEY` depo secret'ıdır.
+Ücretli faturalandırma açılmadan ayrı NABIZ26 Google projesi kullanılır. Anahtarı yazdırma.
+Yerel bilgisayara bağlı yeni bir düzenli görev kurma. Aşağıdaki oturum adımları elle müdahale içindir.
+
 ## Önce oku
 1. `CLAUDE.md`: mimari, kurallar, hesaplar, açık işler (hepsi senin için de geçerli).
 2. `OTURUM.md`: haber turu talimatı (asıl görevin).
