@@ -13,16 +13,67 @@
    "takip": 0,
    "paylasim": 209,
    "erisim_7g": 25289
+  },
+  {
+   "gun": "2026-11-06",
+   "takipci": 75,
+   "takip": 0,
+   "paylasim": 212,
+   "erisim_7g": 27440
   }
  ],
  "paylasimlar": {
+  "17910076920569769": {
+   "tur": "REELS",
+   "zaman": "2026-11-05T22:38:47+0000",
+   "link": "https://www.instagram.com/reel/DfYH3P0CYMh/",
+   "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 103,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 111
+  },
+  "18112241720190018": {
+   "tur": "REELS",
+   "zaman": "2026-11-05T19:54:38+0000",
+   "link": "https://www.instagram.com/reel/DfX1FLJjX14/",
+   "baslik": "Eskişehirspor'da sakatlıkları süren oyuncuların durumu netleşiyor",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 1064,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "views": 1130
+  },
+  "17994424275025311": {
+   "tur": "REELS",
+   "zaman": "2026-11-05T19:53:09+0000",
+   "link": "https://www.instagram.com/reel/DfX06S0DU64/",
+   "baslik": "Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 108,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 116
+  },
   "17937267279405496": {
    "tur": "REELS",
    "zaman": "2026-11-05T13:52:14+0000",
    "link": "https://www.instagram.com/reel/DfXLlHfj_XL/",
    "baslik": "Altın fiyatları 5 Kasım 2026: Gram altın 6.675,49 TL",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 5,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 5
   },
   "17934286143419396": {
    "tur": "REELS",
@@ -30,7 +81,12 @@
    "link": "https://www.instagram.com/reel/DfXK6Idkraf/",
    "baslik": "Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı",
    "begeni": 1,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 112,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 120
   },
   "18475248736137567": {
    "tur": "REELS",
@@ -39,11 +95,11 @@
    "baslik": "\"Bir Sürü Olsun\" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek",
    "begeni": 0,
    "yorum": 0,
-   "reach": 38,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 45
+   "views": 123
   },
   "17919403866462853": {
    "tur": "REELS",
@@ -52,24 +108,24 @@
    "baslik": "Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 28,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 56
+   "views": 121
   },
   "18095152823669358": {
    "tur": "REELS",
    "zaman": "2026-11-05T12:51:40+0000",
    "link": "https://www.instagram.com/reel/DfXErFbDDBT/",
    "baslik": "🌙 Eskişehir'de bugün · 5 Kasım Perşembe",
-   "begeni": 0,
+   "begeni": 2,
    "yorum": 0,
-   "reach": 3,
+   "reach": 158,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 3
+   "total_interactions": 2,
+   "views": 169
   },
   "17932094913421391": {
    "tur": "REELS",
@@ -78,11 +134,11 @@
    "baslik": "Şehir Hastanesi'nde organ bağışı etkinliği: kentte 125 hasta böbrek nakli bekliyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 109,
+   "reach": 112,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 115
+   "views": 118
   },
   "18650681026002234": {
    "tur": "REELS",
@@ -104,11 +160,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 5 Kasım Perşembe",
    "begeni": 0,
    "yorum": 0,
-   "reach": 118,
+   "reach": 119,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 137
+   "views": 138
   },
   "18119282689789229": {
    "tur": "REELS",
@@ -128,13 +184,13 @@
    "zaman": "2026-11-04T20:43:53+0000",
    "link": "https://www.instagram.com/reel/DfVV6pDjmtO/",
    "baslik": "Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da \"90. Yaşa Saygıyla\" programıyla kutlanacak",
-   "begeni": 19,
+   "begeni": 20,
    "yorum": 0,
-   "reach": 1418,
+   "reach": 1439,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 20,
-   "views": 1523
+   "total_interactions": 21,
+   "views": 1542
   },
   "18137692927662681": {
    "tur": "REELS",
@@ -143,11 +199,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 278,
+   "reach": 772,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 309
+   "views": 843
   },
   "18112690319616432": {
    "tur": "REELS",
@@ -156,24 +212,24 @@
    "baslik": "Eskişehirspor Kadın Futbol Takımı İstanbul deplasmanında 2-1 yenildi",
    "begeni": 1,
    "yorum": 0,
-   "reach": 115,
+   "reach": 117,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "views": 134
+   "views": 135
   },
   "18101020979085983": {
    "tur": "REELS",
    "zaman": "2026-11-04T19:38:26+0000",
    "link": "https://www.instagram.com/reel/DfVObesFTFP/",
    "baslik": "Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak",
-   "begeni": 1,
+   "begeni": 2,
    "yorum": 0,
-   "reach": 140,
+   "reach": 173,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "views": 149
+   "shares": 1,
+   "total_interactions": 3,
+   "views": 184
   },
   "18116130545172101": {
    "tur": "REELS",
@@ -182,11 +238,11 @@
    "baslik": "Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak",
    "begeni": 4,
    "yorum": 0,
-   "reach": 1143,
+   "reach": 1147,
    "saved": 0,
    "shares": 14,
    "total_interactions": 18,
-   "views": 1245
+   "views": 1249
   },
   "18124957546899163": {
    "tur": "REELS",
@@ -247,11 +303,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 19
+   "views": 21
   },
   "17978284787937249": {
    "tur": "FEED",
@@ -273,11 +329,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 11,
+   "reach": 12,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 11
+   "views": 12
   },
   "18080974058403606": {
    "tur": "FEED",
@@ -299,11 +355,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 616,
+   "reach": 618,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 644
+   "views": 646
   },
   "17939181228127552": {
    "tur": "REELS",
@@ -312,11 +368,11 @@
    "baslik": "Anadolu Üniversitesi mezunu Selin Toprak'a Altın Portakal'da Jüri Özel Ödülü",
    "begeni": 1,
    "yorum": 0,
-   "reach": 580,
+   "reach": 581,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 611
+   "views": 612
   },
   "17916577152537550": {
    "tur": "REELS",
