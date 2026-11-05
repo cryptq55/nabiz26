@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı Belediyesi asfaltı kendi imkânlarıyla yapacak: meclis makine alımını kabul etti
+
+**Belediye · Tepebaşı** · 2026-11-05 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasi-belediyesi-asfalt-calismalarini-kendi-imkanlariyla-yapacak-meclisten-oy-birligiyle-gecti)
+
+> Meclis, asfalt serme makinesi, silindir ve dorse alımını oy birliğiyle onayladı.
+
+Tepebaşı Belediyesi, asfalt kaplama ve yol bakım çalışmalarını kendi imkânlarıyla yapabilmek için yeni iş makineleri alacak. Fen İşleri Müdürlüğünün hazırladığı teklif, belediye meclisinin ikinci toplantısında oy birliğiyle kabul edildi.
+
+Müdürlüğün yazısında, mevcut makine parkında asfalt serme makinesi, lastik tekerlekli silindir ve havuz tipi dorse bulunmadığı, bu nedenle asfalt kaplama ve yama çalışmalarının ihaleyle yüklenici firmalara yaptırıldığı belirtildi. Dışarıdan hizmet alınmasının maliyetleri artırdığı, piyasa fiyatlarındaki yükselişin yol yapım, bakım ve onarım bütçesini olumsuz etkileyebileceği kaydedildi.
+
+Kabul edilen teklifle bir asfalt serme makinesi, bir lastik tekerlekli silindir ve bir havuz tipi dorse alınması planlanıyor. Araçların mevcut bütçe ödeneğiyle alınması öngörülüyor. Belediye, dışarıdan hizmet alma ihtiyacını azaltmayı, yol onarımlarına daha kısa sürede müdahale etmeyi ve uzun vadede tasarruf sağlamayı hedefliyor.
+
+---
+
+## Kahveciler Odası Başkanı Karatay: Kahvehanelerde çay yılbaşından itibaren 20 lira olacak
+
+**Ekonomi · Odunpazarı** · 2026-11-05 14:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/karatay-acikladi-kahvehanelerde-caya-zam-geliyor)
+
+![](data/images/39aba367c1cd620d.jpg)
+
+> Karatay, çayın 15 liradan 20 liraya çıkacağını söyledi.
+
+Eskişehir Kahveciler Odası Başkanı Mehmet Karatay, kahvehane esnafının sorunları ve yeni fiyat tarifesi hakkında açıklama yaptı. Karatay'a göre her yıl ekim ayında belirlenen fiyat tarifesi bu yıl ertelendi; yeni tarife için üst birliğe başvurdular ancak bir süre beklemeleri istendi ve mevcut tarifenin süresi uzatıldı.
+
+Yönetim olarak yeni fiyat konusunda karar aldıklarını söyleyen Karatay, şu anda işletmelerde 15 liraya satılan çayın fiyatını 20 liraya güncelleyeceklerini belirtti. Karatay, yeni tarifenin yılbaşından itibaren uygulanmaya başlayacağını söyledi. Kahvehane esnafının artan maliyetler nedeniyle zor bir dönemden geçtiğini de kaydetti.
+
+Karatay ayrıca Odunpazarı'nda Emek Mahallesi'ndeki muhtarlığın bulunduğu parkın arkasında sıralanan yaklaşık 9 kahvehanenin işgaliye sorununu Odunpazarı Belediye Başkanı Kazım Kurt ile görüştüklerini anlattı. İşletmelerin daha düzenli bir görünüme kavuşması için yeni bir çalışma yapılacağını, düzenlemenin yaya geçişini engellemeyecek şekilde olacağını ve geçici işgaliye izinlerinin bu yıl da uzatıldığını söyledi.
+
+---
+
 ## Altın fiyatları 5 Kasım 2026: Gram altın 6.675,49 TL
 
 **Ekonomi · Merkez** · 2026-11-05 13:44 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -446,33 +476,5 @@ Tepebaşı Belediye Başkanı Ahmet Ataç, fiziki şartları yenilenen Mustafa K
 Merkezde yeni bir fitness salonu hizmete girdi; salon sporlarının yapıldığı alanlarda ve yetişkin kurslarının yapılabileceği yeni salonlarda zemin çalışmaları yapıldı. Ataç, "Burayla ilgili hayallerimi gerçekleştirdim, inanın" dedi ve erişilebilir spor yapmanın herkes için bir hak olduğunu söyledi.
 
 Yeni dönemde 6-17 yaş grubundaki çocuk ve gençlere temel, orta ve ileri seviyelerde yüzme eğitimi veriliyor; yetişkinler için yüzme eğitimi ve serbest yüzme, kadınlar için su grupları ve su içi egzersiz programları bulunuyor. Özel gereksinimli bireyler için uygun havuz ve zaman planlaması yapılıyor. Salonlarda çocuklara modern dans ve taekwondo, yetişkinlere pilates, zumba, tabata ve fonksiyonel antrenman sunuluyor. Yüzme ve salon sporları kursları 20 Ekim'de başlamıştı; yeni dönem kayıtları 16-22 Kasım'da başlayacak.
-
----
-
-## Tepebaşı belde evlerinde toplumsal cinsiyet eşitliği ve şiddet semineri sürüyor
-
-**Belediye · Tepebaşı** · 2026-11-04 11:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/esitlikvesiddetekarsıfarkındalıkbeldeevlerinde)
-
-![](data/images/f96eda83aad99efd.jpg)
-
-> Bahçelievler Belde Evi'ndeki seminere 40 kişi katıldı.
-
-Tepebaşı Belediyesi toplumsal cinsiyet eşitliği ve şiddete karşı farkındalık seminerlerine Bahçelievler Belde Evi'nde devam etti. Seminerde Sağlık İşleri Müdürlüğü psikoloğu Ecem Kumaş katılımcılarla bir araya geldi; belde evindeki örgü grubundan 23, giyim grubundan 17 olmak üzere toplam 40 kişi katıldı.
-
-Belediyeye göre eğitimler ay boyunca tüm belde evlerinde ve deneyimli kafelerde sürecek.
-
----
-
-## Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor
-
-**Sağlık · Merkez** · 2026-11-04 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehir-sehir-hastanesi-8-kurulus-yil-donumunu-kutluyor-119512196)
-
-![](data/images/eskisehir-sehir-hastanesi-8-kurulus-yil-donumun-arsiv.jpg)
-
-> İl Sağlık Müdürlüğü, hastanenin 8 yıldır hizmet verdiğini açıkladı.
-
-Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor. Eskişehir İl Sağlık Müdürlüğü'nün açıklamasına göre hastane modern sağlık altyapısı, tanı ve tedavi birimleri ve sağlık kadrosuyla 8 yıldır Eskişehir'e ve bölgeye hizmet veriyor.
-
-Açıklamada hastanenin her geçen yıl hizmet kapasitesini geliştirdiği, sağlık çalışanlarının bilgi, tecrübe ve özverileriyle binlerce hastaya hizmet verdiği belirtildi; "gece gündüz" demeden görev yapan sağlık çalışanlarına teşekkür edildi.
 
 ---
