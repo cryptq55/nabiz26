@@ -15,7 +15,7 @@
   "importance": 5,
   "reel": true,
   "published_at": "2026-11-05T19:24:41.198955+00:00",
-  "status": "published",
+  "status": "draft",
   "source": {
     "name": "Google Haberler - Eskişehir",
     "title": "Eskişehir’de Can Pazarı: İşçi Servisi Devrildi, 18 Yaralı! - Akdeniz Gerçek",
@@ -26,5 +26,6 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Indonesian_fire_fighters_during_a_traffic_accident.jpg",
     "archive": true,
     "credit": "Gitoyo aryo / Wikimedia Commons (CC BY-SA 4.0)"
-  }
+  },
+  "hold_reason": "Otomatik seçilen arşiv fotoğrafı Endonezya’daki başka bir kazaya ait; olayla eşleşmediği için yayın durduruldu."
 }

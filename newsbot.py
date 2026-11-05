@@ -549,7 +549,7 @@ def fill_photos(max_tries=3):
         p = a.get("photo_pending")
         if not p or a.get("image"):
             continue
-        img = archive_image({"image_query": p["query"]}, a["slug"][13:60] + "-arsiv")
+        img = archive_image({**a, "image_query": p["query"]}, a["slug"][13:60] + "-arsiv")
         if img:
             a["image"] = img
             a["published_at"] = datetime.now(timezone.utc).isoformat()  # yayına girdiği an
@@ -602,7 +602,9 @@ def archive_image(article, key):
     """Resmî fotoğrafı olmayan habere editörün image_query'sine birebir uyan Wikimedia Commons fotoğrafı (media.py)."""
     try:
         import media
-        return media.find_image(article.get("image_query") or [], IMAGES_DIR, key)
+        text = " ".join(article.get(field) or "" for field in ("title", "spot", "body"))
+        queries = media.subject_queries(article.get("image_query"), text)
+        return media.find_image(queries, IMAGES_DIR, key)
     except Exception as e:
         log(f"[uyarı] Commons fotoğrafı alınamadı: {str(e)[:150]}")
         return None

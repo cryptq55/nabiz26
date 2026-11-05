@@ -42,6 +42,11 @@ MEETING_WORDS = ("meets", "meeting", "met with", "with", "and", "talks", "visit"
 TOO_GENERIC = {"eskisehir", "turkiye", "turkey", "ankara", "istanbul", "odunpazari", "tepebasi", "alpu", "beylikova",
                "cifteler", "gunyuzu", "han", "inonu", "mahmudiye", "mihalgazi", "mihaliccik", "saricakaya", "seyitgazi",
                "sivrihisar", "eskisehir merkez", "eskisehir turkey", "eskisehir city"}
+TOO_GENERIC.update({"kaza", "trafik kazasi", "trafik kazalari", "traffic accident", "traffic accidents",
+                    "road accident", "car accident", "bus accident", "traffic collision", "accident",
+                    "polis", "police", "jandarma", "gendarmerie", "itfaiye", "firefighter", "firefighters",
+                    "fire fighters", "ambulans", "ambulance", "yangin", "fire", "okul", "school",
+                    "eskisehir okul", "eskisehir okullari", "otobus", "bus"})
 USED = Path(__file__).parent / "data" / "media_used.json"
 REUSE_DAYS, REUSE_MAX = 10, 2  # aynı fotoğraf 10 günde en fazla 2 haberde
 REUSE_HARD = 4  # başka uygun fotoğraf yoksa bile 10 günde en fazla 4 haberde (eskiden sınırsızdı: aynı bina 9 haberde göründü)
@@ -73,6 +78,15 @@ def _looks_ok(im):
 def _norm(s):
     s = unicodedata.normalize("NFKD", s.lower().replace("ı", "i")).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", " ", s).strip()
+
+
+def subject_queries(query, text=None):
+    """Genel konu adlarını reddet; haber verilmişse sorgu haberde birebir geçmeli."""
+    context = f" {_norm(text)} " if text is not None else None
+    queries = [query] if isinstance(query, str) else (query or [])
+    return [q.strip() for q in queries if isinstance(q, str) and _norm(q)
+            and _norm(q) not in TOO_GENERIC
+            and (context is None or f" {_norm(q)} " in context)]
 
 
 def _get(params, tries=3):
@@ -191,8 +205,7 @@ def find_image(query, images_dir, key):
 
     query bir metin ya da en özelden en genele sıralı metin listesi olabilir:
     ["Recep Tayyip Erdoğan Mark Carney", "Recep Tayyip Erdoğan"]."""
-    queries = [q.strip() for q in ([query] if isinstance(query, str) else (query or []))
-               if q and q.strip() and _norm(q) not in TOO_GENERIC]
+    queries = subject_queries(query)
     if not queries:
         return None
     used = _used()
