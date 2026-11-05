@@ -13,6 +13,10 @@ Yayın `haber.yml` içinde doğrudan Cloudflare'a yapılır (`CLOUDFLARE_API_TOK
 Bu adım yalnızca `nabiz26` Worker'ının eski derlemelerini iptal eder; başka Worker'lara dokunma.
 Gemini yoğunluk hataları sınırlı sayıda yeniden denenir; işlenmeyen kaynaklar görüldü sayılmaz.
 Arşiv sorgusu genel konu adı olamaz ve özel ad haberde birebir geçmelidir (`media.subject_queries`).
+CLIProxy desteği: `NEWS_API_BASE` ayarlanırsa haberler `NEWS_API_KEY` secret'ı ve
+`NEWS_API_MODEL` ile özel sunucuda yazılır; otomatik Gemini geri dönüşü yapılmaz.
+Özel ağa GitHub OIDC kimliği ve Tailscale `tag:nabiz26-ci` ile bağlanılır.
+Bağlantı `proxy-kontrol.yml` ile yayın yapmadan doğrulanmadan `NEWS_API_BASE` etkinleştirilmez.
 
 ## Önce oku
 1. `CLAUDE.md`: mimari, kurallar, hesaplar, açık işler (hepsi senin için de geçerli).

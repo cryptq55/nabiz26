@@ -610,6 +610,35 @@ def archive_image(article, key):
         return None
 
 
+def write_article_proxy(candidate, source_text, recent):
+    """Kullanıcının OpenAI uyumlu CLIProxy sunucusunda haber yazar."""
+    base = os.environ['NEWS_API_BASE'].rstrip('/')
+    prompt = (
+        'Son yayınlanan başlıklar:\n- ' + '\n- '.join(recent or ['(henüz yok)']) +
+        f'\n\n<kaynak ad="{candidate["source_name"]}">\nBaşlık: {candidate["title"]}\n\n'
+        + source_text[:12000] + '\n</kaynak>\n\n'
+        + 'Yalnızca bu şemaya uyan tek JSON nesnesi döndür:\n'
+        + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False)
+    )
+    for attempt in range(3):
+        r = requests.post(base + '/chat/completions',
+                          headers={'Authorization': 'Bearer ' + os.environ['NEWS_API_KEY']},
+                          json={'model': os.environ.get('NEWS_API_MODEL') or 'gpt-6.1-sol',
+                                'messages': [{'role': 'system', 'content': SYSTEM_PROMPT},
+                                             {'role': 'user', 'content': prompt}],
+                                'response_format': {'type': 'json_object'}, 'stream': False},
+                          timeout=(15, 180))
+        if r.status_code not in (429, 500, 502, 503, 504) or attempt == 2:
+            break
+        time.sleep(5 * (attempt + 1))
+    r.raise_for_status()
+    article = json.loads(r.json()['choices'][0]['message']['content'])
+    missing = [k for k in ARTICLE_SCHEMA['required'] if k not in article]
+    if missing:
+        raise RuntimeError(f'CLIProxy eksik alan döndürdü: {missing}')
+    return article
+
+
 def write_article_gemini(candidate, source_text, recent):
     """Yedek yazar: Google Gemini (ücretsiz kota, GEMINI_API_KEY). Anthropic kredisi yokken devreye girer."""
     user_msg = (
@@ -643,7 +672,10 @@ def write_article_gemini(candidate, source_text, recent):
 def auto_run(max_items):
     """Yedek haber masası (GitHub Actions): oturum modunun aynısını Claude API ile yapar.
     Toplar, her kaynak için editör kararını API'den alır, kararları aynı doğrulamayla kaydeder."""
-    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("GEMINI_API_KEY")):
+    use_proxy = bool(os.environ.get('NEWS_API_BASE'))
+    if use_proxy and not os.environ.get('NEWS_API_KEY'):
+        raise RuntimeError('CLIProxy için NEWS_API_KEY gerekli')
+    if not (use_proxy or os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("GEMINI_API_KEY")):
         raise RuntimeError("Haber masası için ANTHROPIC_API_KEY veya GEMINI_API_KEY gerekli")
     import tempfile
     tmp = Path(tempfile.mkdtemp())
@@ -659,6 +691,14 @@ def auto_run(max_items):
     for c in q["queue"]:
         text = f"(Bugünün tarihi: {q['today']})\n\n{c['text']}"
         art = None
+        if use_proxy:
+            try:
+                art = write_article_proxy(c, text, q['recent_titles'])
+            except Exception as e:
+                log(f'[hata] CLIProxy: {type(e).__name__}; kaynak sonraki tura bırakıldı')
+                continue
+            decisions[c['key']] = art
+            continue
         if not use_backup:
             try:
                 art = write_article(client, c, text, q["recent_titles"])

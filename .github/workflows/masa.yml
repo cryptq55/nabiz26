@@ -10,6 +10,7 @@ on:
 permissions:
   contents: write
   actions: write
+  id-token: write
 
 concurrency:
   group: masa
@@ -27,11 +28,21 @@ jobs:
           cache: pip
       - run: pip install -q -r requirements.txt
       - run: python -m unittest discover -s tests -v
+      - name: CLIProxy özel ağına bağlan
+        if: vars.TS_CLIENT_ID != ''
+        uses: tailscale/github-action@v4
+        with:
+          oauth-client-id: ${{ vars.TS_CLIENT_ID }}
+          audience: ${{ vars.TS_AUDIENCE }}
+          tags: tag:nabiz26-ci
       - name: Haber turu
         shell: bash
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NEWS_API_BASE: ${{ vars.NEWS_API_BASE }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          NEWS_API_MODEL: ${{ vars.NEWS_API_MODEL }}
         run: python newsbot.py --auto --max 10 2>&1 | tee masa.log | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Kaydet, fotoğraf ve paylaşım
         env:
