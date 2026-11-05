@@ -19,10 +19,10 @@
     "title": "Kurtuluş Kapalı Pazar Yeri'nde yüzde 80'lik bölüm tamamlandı: Ünlüce'den yerinde inceleme - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/kurtulus-kapali-pazar-yerinde-yuzde-80lik-bolum-tamamlandi-unluceden-yerinde-inceleme"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kurtuluş Kapalı Pazar Yeri"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
