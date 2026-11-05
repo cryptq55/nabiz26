@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## TÜRKPATENT'in IP Öncüleri Projesi Eskişehir'de başladı, 10 okula ulaşılacak
+
+**Eğitim · Odunpazarı** · 2026-11-05 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.alomaliye.com/2026/11/05/turkpatentin-ip-onculeri-projesi-eskisehirde-10-okula-ulasacak/)
+
+> Anadolu, Osmangazi ve Teknik Üniversite öğrencileri sınai mülkiyet bilincini okullara aktaracak.
+
+Türk Patent ve Marka Kurumu (TÜRKPATENT) ile Avrupa Patent Ofisi iş birliğinde geliştirilen IP Öncüleri Projesi'nin Eskişehir programı, Anadolu Üniversitesi Yunus Emre Kampüsü'nde düzenlenen törenle başladı. Açılışa TÜRKPATENT ve üniversite yöneticileri, akademisyenler ve öğrenciler katıldı.
+
+Eskişehir'deki uygulamada Anadolu Üniversitesi, Eskişehir Osmangazi Üniversitesi ve Eskişehir Teknik Üniversitesi öğrencileri "IP Öncüsü" olarak görev yapacak. Sınai mülkiyet eğitimi alan üniversite öğrencileri, edindikleri bilgileri Millî Eğitim Bakanlığına bağlı 10 okuldaki ortaokul ve lise öğrencilerine aktaracak. Projeyle gençlerin yenilikçi düşünme, üretme ve buluş geliştirme süreçlerine erken yaşta katılması hedefleniyor.
+
+Programda sunum yapan TÜRKPATENT Başkanı, üniversitelerdeki bilimsel çalışmaların patentlere dönüşmesinin önemine dikkat çekti. Sunumda Türkiye'nin yerli patent başvurularında dünyada 10'uncu, yerli marka başvurularında 6'ncı ve yerli tasarım başvurularında 3'üncü sırada olduğu belirtildi.
+
+Proje geçen yıl Ankara'da 12 üniversitenin katılımıyla yürütülmüş; 21 okulda 5 bin öğrenciye sınai mülkiyet farkındalığı eğitimi verilmişti. Eskişehir programının sonunda katılımcılara sertifikaları verildi; patent ve faydalı model tescili bulunan akademisyenlere de teşekkür belgesi sunuldu.
+
+---
+
+## Odunpazarı'nda Yunus buğdayı üretici buluşması: Ziraat Odası çiftçiye destek çağrısı yaptı
+
+**Tarım · Odunpazarı** · 2026-11-05 11:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://eskisehirdurum.com/eskisehir-gundem/eskisehirde-yunus-bugdayi-icin-uretici-bulusmasi/811471)
+
+> Etkinlikte Yunus çeşidinin özellikleri ve çiftçilere verilen destekler konuşuldu.
+
+Odunpazarı Belediyesi'nin düzenlediği "Kalkanlı'dan Tarlalara Yunus Çeşidi Tohumluk Buğday Üretici Buluşması", Emek Kapalı Pazar Yeri'nde yapıldı. Buluşmaya üreticiler, tarım uzmanları ve ilgili kurumların temsilcileri katıldı; Yunus çeşidi tohumluk buğdayın özellikleri ve çiftçilerin desteklenmesi ele alındı.
+
+Odunpazarı Ziraat Odası Başkanı Burhan Çelikoğlu, belediyenin sağladığı destek için Belediye Başkanı Kazım Kurt'a teşekkür etti. Çelikoğlu, çiftçilerin ekip biçmesine rağmen yeterli kazanç elde edemediğini ve sorunlarının fazla olduğunu söyledi; belediyenin desteğinin sınırlı olsa da değerli olduğunu belirterek desteklerin artarak sürmesini istedi.
+
+Eskişehir Genç Rençberler Derneği Başkan Vekili Görkem Alçın ise girdi maliyetlerinin her geçen gün arttığını belirtti ve belediyelerin çiftçiye destek olmasını değerli bulduklarını söyledi.
+
+NBC Tarım adına konuşan Necmettin Bolat, Yunus çeşidinin geliştirilme ve tescil sürecini anlattı. Bolat'a göre çeşit sulu alanlar için ıslah edildi, tescili oy birliğiyle kabul edildi ve adını kendisi önerdi. Bolat, çeşidin kırmızı sert ekmeklik buğday grubunda olduğunu, protein oranının yüzde 12 ile 14 arasında, ortalama hektolitre ağırlığının ise 80 kilogram olduğunu söyledi.
+
+---
+
 ## MEB COP31'de eğitim bakanlarını ağırlayacak, Türkiye İklim Okulu 9 Kasım'da açılıyor
 
 **Eğitim · Türkiye** · 2026-11-05 10:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/milli-egitim-bakanligi-cop31039de-gerceklestirecegi-uluslararasi-etkinliklere-hazir/haber/42416/tr)
@@ -422,35 +454,5 @@ Eskişehir Osmangazi Üniversitesi Yüzme Havuzu'nda bir süredir sürdürülen 
 Eskişehir Osmangazi Üniversitesi (ESOGÜ) Sağlık Uygulama ve Araştırma Hastanesi'nde 3-9 Kasım Organ Bağışı Haftası dolayısıyla farkındalık etkinliği düzenlendi. ESOGÜ Tıp Fakültesi Genel Cerrahi Ana Bilim Dalı Transplantasyon Ünitesi'nin kurduğu standda organ bağışının önemi anlatıldı, vatandaşların soruları yanıtlandı. Hasta ve hasta yakınlarına süreç hakkında bilgi verildi, broşür dağıtıldı, bağış yapmak isteyenlere başvuru işlemlerinde yardımcı olundu.
 
 Etkinlikte yapılan açıklamaya göre ESOGÜ Hastanesi'nde 2017'den bu yana karaciğer ve böbrek nakilleri yapılıyor; nakil sonrası taburcu edilen hastalar düzenli kontrollerle izleniyor. Etkinliğe Dr. Öğr. Üyesi Yavuz Selim Angın, Hastane Başmüdürü Ayşe Kırcı, Halkla İlişkiler Sorumlusu Esin Gökalp ile organ nakli koordinatörleri Tarık Uca ve Elif Hiçyılmaz katıldı.
-
----
-
-## AB destekli projede gençler geleneksel tarım bilgisini dijital hikayeye çeviriyor
-
-**Tarım · Merkez** · 2026-11-04 07:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-gencler-geleneksel-tarim-bilgilerini-dijital-hikayelere-donusturmeye-119511755)
-
-> Proje 20 genci Yunus Emre ve Yörük Kırka mahallelerindeki çiftçi ailelerle buluşturdu.
-
-Avrupa Birliği Sivil Düşün Programı finansmanıyla yürütülen "Kadim Tarım Bilgisinin Dijital Hikaye Anlatıcılığı Yoluyla Kuşaklararası Aktarımı" projesi kapsamında, Eskişehir Teknik Üniversitesi, Anadolu Üniversitesi ve Eskişehir Osmangazi Üniversitesi öğrencilerinin de aralarında bulunduğu 20 genç, kırsalda yaşayan deneyimli çiftçilerden geleneksel tarım bilgilerini öğreniyor.
-
-Proje yürütücüsü İhsan Tarık Çelik, 24-25 Ekim'de Eskişehir Teknik Üniversitesi TÜBİTAK Milli Teknoloji Atölyesi'nde dijital hikaye anlatıcılığı, röportaj teknikleri, mobil gazetecilik, görsel anlatım ve dijital içerik üretimi eğitimi verdi. 31 Ekim ve 1 Kasım'da gençler Yunus Emre ve Yörük Kırka mahallelerinde çiftçi ailelerle günlük üretim faaliyetlerine katıldı; hayvan bakımı, süt sağımı, ekşi maya ve bazlama yapımı ile hasat çalışmalarını gözlemleyip görüntü ve ses kaydı aldı.
-
-Saha çalışmasının ardından kurgu ve montaj aşamasına geçildi. Görüntüler farklı temalarda dijital hikayelere dönüştürülecek; yatay ve dikey formatlı filmlerin YouTube'da ve projenin internet sitesinde, kısa videoların sosyal medyada yayımlanması planlanıyor.
-
----
-
-## Eskişehirspor Kadın Futbol Takımı İstanbul deplasmanında 2-1 yenildi
-
-**Spor · Merkez** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-kadin-futbol-takiminda-yurekleri-burkan-tablo)
-
-![](data/images/eskisehirspor-kadin-futbol-takimi-istanbul-depl-arsiv.jpg)
-
-> Antrenör Konca, otobüs ücretini borçlanarak günübirlik gittiklerini söyledi.
-
-TFF Kadınlar Futbol 2. Ligi A Grubu'nda mücadele eden Eskişehirspor Kadın Futbol Takımı, İstanbul deplasmanında Büyükçekmece Karadeniz İdman Ocağı'na 2-1 yenildi. Sabah saat 06.00'da Eskişehir'den yola çıkan takım konaklama yapmadan günübirlik gitti. Eskişehirspor, 2. dakikada Esin Demirtürk'ün golüyle öne geçti ancak üstünlüğünü koruyamadı.
-
-Maçın ardından konuşan Antrenör Pınar Konca, kulübün maddi sıkıntı yaşadığını, deplasman yolculuğunda kullanılan otobüsün ücretini sonradan ödemek üzere borçlandıklarını söyledi. Konca, futbolcularının performansından memnun olduğunu, takımın mücadeleden vazgeçmeyeceğini belirtti; kentte kadın futboluna ve amatör kulüplere verilen desteği değerlendirirken duyarsızlığın arttığını dile getirdi ve maddi sorunların yalnızca kendi takımlarına özgü olmadığını söyledi.
-
-Haber Konca'nın açıklamalarına dayanıyor; kulüp yönetiminin konuya ilişkin görüşü kaynakta yer almıyor.
 
 ---
