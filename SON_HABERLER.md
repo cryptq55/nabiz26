@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi
+
+**Siyaset · Türkiye** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - CHP](https://www.dha.com.tr/politika/ozgur-ozel-bulent-ecevitin-kabrini-ziyaret-etti-2975595)
+
+![](data/images/e9b4a00892330b29.jpg)
+
+> Yeni Parti Genel Başkanı Özgür Özel, vefatının 20'nci yıl dönümünde Bülent Ecevit'in kabrini ziyaret ederek anma törenine katıldı. Ziyaretin ardından açıklamalarda bulunan Özel, fon soruşturması ve hukuk sistemine ilişkin değerlendirmeler yaptı.
+
+Yeni Parti Genel Başkanı Özgür Özel, vefatının 20'nci yıl dönümünde eski Başbakan Bülent Ecevit'in Devlet Mezarlığı'ndaki kabrini ziyaret etti. Töhrene Genel Sekreter Yunus Emre, Grup Başkanvekili Murat Emir, Kadın Kolları Genel Başkanı Asu Kaya, Gençlik Kolları Genel Başkanı Cem Aydın, Genel Başkan Yardımcısı Utku Çakırözer, milletvekilleri, Mamak Belediye Başkanı Veli Gündüz Şahin, eski CHP Genel Sekreteri Önder Sav ve partililer katıldı. Kur'an-ı Kerim tilaveti okunup dua edilmesinin ardından kabre çelenk ve karanfiller bırakıldı. Heyet daha sonra eski TBMM Başkanı Deniz Baykal’ın kabrini de ziyaret etti.
+
+Törenin ardından basına açıklamalarda bulunan Özgür Özel, Ecevit'in siyasi kariyerine ve emekçi dostu kimliğine vurgu yaparak, "Genel Sekreterimizi, Bakanımızı, Başbakanımızı, Genel Başkanımızı bir kez daha rahmetle ve minnetle anıyorum" ifadelerini kullandı. 
+
+Açıklamasında fon soruşturmasına da değinen Özel, hukuk sisteminde çifte standart uygulandığını öne sürdü. Fatma Betül Sayan Kaya'nın ifadeye davet usulüyle çağrılmasını eleştiren Özel, "Eğer bu ülkede hukuk varsa herkese eşit işlemeli. Böyle bir ikili hukuk sisteminin ne kadar haksızca olduğunu, ne kadar partizanlık yapıldığını milletimizin vicdanlarına havale ediyorum" dedi.
+
+Adalet Bakanı Akın Gürlek’in fon soruşturmasına yönelik açıklamalarının Cumhurbaşkanı Recep Tayyip Erdoğan'a sorulması gerektiğini belirten Özel, soruşturmadaki örgüt tanımlaması üzerinden iktidara eleştiriler yöneltti. Özel ayrıca ABD'deki ara seçim sonuçlarına ilişkin değerlendirmelerde de bulundu.
+
+---
+
+## Kaymakam Şahin’den Ahmet Sezer Ortaokulu’na ziyaret
+
+**Eğitim · Odunpazarı** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haberes.com.tr/odunpazari-kaymakami-sahinden-ahmet-sezer-ortaokuluna-ziyaret)
+
+> Odunpazarı Kaymakamı Ahmet Hikmet Şahin ve İlçe Millî Eğitim Müdürü Barış Hancı, Ahmet Sezer Ortaokulu’nu ziyaret ederek eğitim faaliyetlerini inceledi.
+
+Odunpazarı Kaymakamı Ahmet Hikmet Şahin ile İlçe Millî Eğitim Müdürü Barış Hancı, Ahmet Sezer Ortaokulu'nu ziyaret etti. Ziyaret sırasında okulun genel durumu ve yürütülen eğitim öğretim faaliyetleri yerinde incelendi.
+
+Okul yönetimi ve öğretmenlerle bir araya gelen Kaymakam Şahin ve İlçe Millî Eğitim Müdürü Hancı, eğitim ortamları ile öğrencilerin akademik, sosyal ve kültürel gelişimlerini desteklemeye yönelik çalışmalar hakkında bilgi aldı.
+
+---
+
+## Eskişehirspor'da sakatlıkları süren oyuncuların durumu netleşiyor
+
+**Spor · Merkez** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hasan-antrenmanda-kerem-ve-bagli-tedavide)
+
+![](data/images/15bea1645022aef4.jpg)
+
+> Kırmızı-siyahlı ekipte Ahmet Dereli ve Mustafa Eren Damar forma giyemezken, Hasan Kaya takımla çalışmalara başladı.
+
+TFF 3. Lig mücadelesine hazırlanan Eskişehirspor'da zorlu karşılaşma öncesi sakat oyuncuların son durumu netlik kazanıyor. Karşılaşmada favori gösterilen kırmızı-siyahlılar, sürprize izin vermeden galibiyet hedefliyor.
+
+Takımda sportif sakatlıkları bulunan Ahmet Dereli ve Mustafa Eren Damar bu maçta forma giyemeyecek. Tedavileri süren Mehmet Bağlı ile Kerem Baykuş'un durumları ise maç günü yapılacak son kontrollerin ardından kesinleşecek.
+
+Öte yandan sakatlığını atlatan Hasan Kaya'nın takımla birlikte antrenmanlarda yer aldığı bildirildi. Teknik heyet, eksik oyuncuların yerini doldurmak ve maça en iyi şekilde hazırlanmak için çalışmalarını sürdürüyor.
+
+---
+
+## Eskişehir'de işçi servisi devrildi: 18 yaralı
+
+**Asayiş · Sivrihisar** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.akdenizgercek.com.tr/gundem/eskisehirde-can-pazari-isci-servisi-devrildi-18-yarali/388727)
+
+![](data/images/510bb95b6fcbf1ac.jpg)
+
+> Eskişehir-Sivrihisar kara yolunda kontrolden çıkan işçi servisinin devrilmesi sonucu 18 kişi yaralandı.
+
+Eskişehir'den Sivrihisar istikametine seyir halindeki işçi servisi, ilçe merkezine yaklaşık 20 kilometre kala sürücüsünün direksiyon hakimiyetini yitirmesiyle kontrolden çıktı. Savrulan araç devrilirken, içerideki 18 yolcu yaralandı.
+
+Çevredeki sürücülerin ihbarı üzerine kaza mahalline çok sayıda sağlık, jandarma ve polis ekibi yönlendirildi. Sağlık personeli, yaralılara ilk müdahaleyi olay yerinde gerçekleştirdi.
+
+İlk müdahalelerinin ardından ambulanslarla bölgedeki hastanelere sevk edilen yaralıların tedavisine başlandı. Güvenlik güçleri kazayla ilgili soruşturma başlattı.
+
+---
+
 ## Vali Yılmaz ve heyeti, Görgün ile Eskişehir’in sanayi potansiyelini görüştü
 
 **Ekonomi · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/267823/gorgun-eskisehirin-sanayi-ve-teknoloji-potansiyelini-degerlendirdi.html)
@@ -419,78 +481,5 @@ Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı yaşlı 
 Göktaş, kasım ayında 735 bin 763 vatandaşa 5 milyar 435 milyon lira tutarında yaşlı aylığı, 557 bin 771 vatandaşa ise 4 milyar 185 milyon lira tutarında engelli aylığı ödeneceğini söyledi.
 
 Bakan Göktaş, engelli ve yaşlı bireylerin hayatın her alanına tam katılımını sağlamak ve bağımsız yaşam sürmelerine destek olmak için çalıştıklarını belirtti. Ödemelerin vatandaşlara hayırlı olmasını diledi.
-
----
-
-## Şehir Hastanesi'nde organ bağışı etkinliği: kentte 125 hasta böbrek nakli bekliyor
-
-**Sağlık · Merkez** · 2026-11-05 09:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-organ-bagisi-farkindaligi--hastalar-umut-bekliyor-297532.html)
-
-![](data/images/sehir-hastanesinde-organ-bagisi-etkinligi-kentt-arsiv.jpg)
-
-> İl Müftüsü Gül ve Başhekim Algın vatandaşları gönüllü organ bağışına çağırdı.
-
-Eskişehir Şehir Hastanesi'nde, 3-9 Kasım Organ Bağışı Haftası kapsamında farkındalık etkinliği düzenlendi. Etkinlikte nakil bekleyen hastaların yaşadığı zorluklar gündeme getirildi.
-
-Eskişehir İl Müftüsü Muharrem Gül, organ bağışının toplumsal ve insani açıdan büyük bir hayır olduğunu söyledi. Gül, kentte acil böbrek nakli bekleyen yaklaşık 125 hasta bulunduğunu belirtti. Diyanet İşleri Başkanlığı ve Din İşleri Yüksek Kurulunun organ bağışının caiz olduğuna ve teşvik edildiğine ilişkin fetvaları olduğunu hatırlatan Gül, vatandaşları gönüllü bağışa davet etti.
-
-Şehir Hastanesi Başhekimi Prof. Dr. Mustafa Cem Algın da her yıl 3-9 Kasım'da farkındalık etkinlikleri yapıldığını anlattı. Algın, organ bağışının Sağlık Bakanlığı çalışmalarıyla artık e-Devlet üzerinden de kolayca yapılabildiğini belirterek vatandaşları bağışa destek olmaya çağırdı.
-
-Etkinlikte, yaklaşık 20 yıl önce de organlarını bağışladığını söyleyen 58 yaşındaki Hatice Efe de deneyimini paylaştı. Efe, hastaneye tesadüfen geldiğinde yeniden bağışta bulunduğunu anlattı.
-
----
-
-## Seyitgazi'de 4. Pekmez Kaynatma Şenliği 7 Kasım'da, ücretsiz otobüs seferleri olacak
-
-**Kültür-Sanat · Merkez** · 2026-11-05 08:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/pekmez-kaynatma-senligi-icin-ucretsiz-ulasim-imkani-servis-duraklari-aciklandi)
-
-> Şenlik 12.00-17.00 arasında Taşlık Çiftlikköy'deki ÇİDEM alanında yapılacak.
-
-Seyitgazi Belediyesi'nin düzenlediği 4. Geleneksel Pekmez Kaynatma Şenliği, 7 Kasım 2026 Cumartesi günü saat 12.00-17.00 arasında Taşlık Çiftlikköy'deki ÇİDEM (Çiftçi Destekleme ve Eğitim Merkezi) alanında yapılacak.
-
-Şenlikte katılımcılar geleneksel yöntemlerle pekmez kaynatma sürecini yakından izleyebilecek. Etkinlik alanında köy ekmeği yapımının yanı sıra patates, pancar, katmer, pide, kumpir ve kabak gibi yöresel lezzetler sunulacak; gün boyu canlı müzik dinletileri olacak.
-
-Belediye, şenliğe ulaşım için 7 Kasım'da ücretsiz otobüs seferleri planladı:
-- Odunpazarı kalkışlı (saat 11.00): Odunpazarı, Yıldıztepe, Yenikent üzerinden Taşlık.
-- Atatürk Bulvarı kalkışlı (saat 11.00): Migros önü ve Cemevi üzerinden Taşlık.
-- Kırka Ek Hizmet Binası: saat 11.00.
-- Doğançayır Ek Hizmet Binası: saat 11.30.
-- Seyitgazi Belediye Binası önü: saat 11.30.
-
-Dönüş otobüsleri saat 17.00'de Taşlık Çiftlikköy'den hareket edecek. Seyitgazi Belediye Başkanı Uğur Tepe, bütün Eskişehir halkını şenliğe davet etti.
-
----
-
-## Havaist, Eskişehir'den Sabiha Gökçen Havalimanı'na yeni hat hazırlığında
-
-**Ulaşım · Merkez** · 2026-11-05 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.ekonomigazetesi.com/sehirler/havaist-eskisehirden-sabiha-gokcene-yeni-hat-hazirliginda-91425)
-
-![](data/images/havaist-eskisehirden-sabiha-gokcen-havalimanina-arsiv.jpg)
-
-> Hattın tarihi, sefer saatleri ve bilet ücretleri henüz açıklanmadı.
-
-Havalimanı yolcu taşımacılığı şirketi Havaist, Eskişehir'den İstanbul Sabiha Gökçen Havalimanı'na ulaşım sağlayacak yeni bir hat açmaya hazırlanıyor. Şirket güzergâhı sosyal medya hesabından duyurdu.
-
-Havaist'in açıklamasında "Eskişehir'den dünyaya uzanan yolculuklarınız, çok yakında Havaist konforuyla başlayacak! Eskişehir'i, Bozüyük ve Bursa bağlantılarıyla Sabiha Gökçen Havalimanı'na ulaştırmaya hazırlanıyoruz" ifadeleri yer aldı.
-
-Hattın hangi tarihte hizmete gireceği, sefer sıklığı, hareket saatleri ve bilet ücretleri henüz açıklanmadı. Havaist, ayrıntıların önümüzdeki günlerde duyurulacağını bildirdi.
-
----
-
-## Togg'da hisse devri anlaşması: Türkiye Varlık Fonu yüzde 35 ile en büyük ortak olacak
-
-**Ekonomi · Türkiye** · 2026-11-05 06:31 UTC · Kaynak: [Google Haberler - Togg](https://haberkocaeli.com/toggda-ortaklik-yapisi-degisiyor-turkiye-varlik-fonu-en-buyuk-hissedar-olacak)
-
-![](data/images/072f5ab353290eae.jpg)
-
-> Anlaşmalar 2 Kasım'da imzalandı; devirler kurum onaylarına ve kapanış koşullarına bağlı.
-
-Anadolu Grubu ve Vestel, Togg'daki toplam yüzde 46'lık paylarını Türkiye Varlık Fonu ve Turkcell'e devretmek üzere anlaşma imzaladı. Anlaşmaların 2 Kasım'da imzalandığı, 3 Kasım 2026'da Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamalarla bildirildi.
-
-Toplam 368 milyon avroluk işlemde Vestel, yüzde 23'lük payını 184 milyon avroya Türkiye Varlık Fonu'na satacak. Anadolu Grubu da yüzde 23'lük payını 184 milyon avro bedelle Türkiye Varlık Fonu ve Turkcell'e devredecek. Turkcell'in payı yüzde 23'ten yüzde 34'e çıkacak.
-
-Devirler tamamlandığında ortaklık yapısının şöyle olması bekleniyor: Türkiye Varlık Fonu yüzde 35, Turkcell yüzde 34, BMC yüzde 23 ve TOBB yüzde 8. Vestel, satıştan elde edeceği gelirin en az yüzde 90'ını, tahsilattan sonraki 30 gün içinde vadesi gelmiş nakdi banka kredisi borçlarının ödenmesinde kullanacağını açıkladı.
-
-KAP açıklamalarına göre hisse devirleri henüz tamamlanmadı. İşlemin sonuçlanması için gerekli kurum onaylarının alınması, kapanış koşullarının yerine getirilmesi ve satış bedellerinin ödenmesi gerekiyor.
 
 ---
