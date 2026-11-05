@@ -65,7 +65,8 @@ jobs:
                   raise RuntimeError('Cloudflare derleme listesi alınamadı')
               batch = data['result']
               builds.extend(batch)
-              if page >= data.get('result_info', {}).get('total_pages', page) or len(batch) < 200:
+              total_pages = data.get('result_info', {}).get('total_pages')
+              if (total_pages is not None and page >= total_pages) or len(batch) < 200:
                   break
               page += 1
           active = [b for b in builds if b.get('status') in ('queued', 'initializing', 'running')]
