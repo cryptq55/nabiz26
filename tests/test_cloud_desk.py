@@ -39,8 +39,7 @@ class CloudDeskTests(unittest.TestCase):
                     patch.object(newsbot, "collect_queue", side_effect=collect), \
                     patch.object(newsbot, "write_article_gemini",
                                  side_effect=[decision, RuntimeError("Gemini hız sınırı")]):
-                with self.assertRaisesRegex(RuntimeError, "eksik"):
-                    newsbot.auto_run(2)
+                newsbot.auto_run(2)
                 seen = json.loads((root / "seen.json").read_text())
                 self.assertIn("first", seen)
                 self.assertNotIn("second", seen)
@@ -64,6 +63,32 @@ class CloudDeskTests(unittest.TestCase):
             self.assertNotIn(key, str(error.exception))
             self.assertNotIn(key, error.exception.request.url)
             self.assertEqual(error.exception.request.headers["x-goog-api-key"], key)
+
+    def test_temporary_overload_is_retried_before_giving_up(self):
+        failed = requests.Response()
+        failed.status_code = 503
+        success = requests.Response()
+        success.status_code = 200
+        decision = {field: None for field in newsbot.ARTICLE_SCHEMA['required']}
+        success._content = json.dumps({'candidates': [{'content': {'parts': [
+            {'text': json.dumps(decision)}]}}]}).encode()
+        with patch.dict(os.environ, {'GEMINI_API_KEY': 'test-only'}), \
+                patch.object(newsbot.requests, 'post', side_effect=[failed, failed, success]), \
+                patch.object(newsbot.time, 'sleep'):
+            result = newsbot.write_article_gemini({'source_name': 'test', 'title': 'test'}, 'text', [])
+            self.assertEqual(result, decision)
+
+    def test_total_model_outage_fails_without_saving_decisions(self):
+        def collect(_, path):
+            Path(path).write_text(json.dumps({'today': '05.11.2026', 'recent_titles': [],
+                'queue': [{'key': 'unseen', 'source_name': 'test', 'title': 'test', 'text': 'text'}]}))
+        with patch.dict(os.environ, {'GEMINI_API_KEY': 'test-only'}, clear=True), \
+                patch.object(newsbot, 'collect_queue', side_effect=collect), \
+                patch.object(newsbot, 'write_article_gemini', side_effect=RuntimeError('Gemini hız sınırı')), \
+                patch.object(newsbot, 'save_decisions') as save:
+            with self.assertRaisesRegex(RuntimeError, 'hiçbir kaynağı'):
+                newsbot.auto_run(1)
+            save.assert_not_called()
 
 
 if __name__ == "__main__":

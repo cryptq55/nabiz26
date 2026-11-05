@@ -619,8 +619,15 @@ def write_article_gemini(candidate, source_text, recent):
     body = {"systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
             "contents": [{"role": "user", "parts": [{"text": user_msg}]}],
             "generationConfig": {"temperature": 0.3, "responseMimeType": "application/json"}}
-    r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                      headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
+    for attempt in range(3):
+        r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                          headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
+        if r.status_code not in (429, 500, 502, 503, 504) or attempt == 2:
+            break
+        retry_after = r.headers.get("Retry-After", "")
+        delay = min(int(retry_after), 30) if retry_after.isdigit() else 5 * (attempt + 1)
+        log(f"[uyarı] Gemini HTTP {r.status_code}; {delay} saniye sonra yeniden denenecek")
+        time.sleep(delay)
     if r.status_code == 429:
         raise RuntimeError("Gemini hız sınırı")
     r.raise_for_status()
@@ -678,7 +685,9 @@ def auto_run(max_items):
     if decisions:
         save_decisions(qpath, dpath)
     if len(decisions) < total:
-        raise RuntimeError("Model hatası nedeniyle haber turu eksik kaldı; işlenmeyen kaynaklar korunuyor")
+        log(f"[uyarı] {total - len(decisions)} kaynak model hatası nedeniyle sonraki tura bırakıldı")
+        if not decisions:
+            raise RuntimeError("Model hiçbir kaynağı işleyemedi; kaynaklar sonraki tur için korunuyor")
 
 
 def save_decisions(queue_path, decisions_path):
