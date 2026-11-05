@@ -19,10 +19,10 @@
     "title": "Proje okulları Eskişehir'de bir araya geldi: eğitim süreçleri değerlendirildi - Aksiyon.com.TR",
     "url": "https://www.aksiyon.com.tr/proje-okullari-eskisehir-de-bir-araya-geldi-egitim-surecleri-degerlendirildi-388700"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Fatih Fen Lisesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

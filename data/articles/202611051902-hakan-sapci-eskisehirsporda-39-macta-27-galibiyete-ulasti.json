@@ -18,10 +18,10 @@
     "title": "Şapcı son 10 sezonda zirvede - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/sapci-son-10-sezonda-zirvede"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Hakan Şapcı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
