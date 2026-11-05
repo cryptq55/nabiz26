@@ -2,9 +2,31 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 5 Kasım 2026: Gram altın 6.675,49 TL
+
+**Ekonomi · Merkez** · 2026-11-05 13:44 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261105.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.604,75 TL'den alınıyor, 6.675,49 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 16.44 itibarıyla verilerine göre gram altının satış fiyatı 6.675,49 TL, alış fiyatı 6.604,75 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,32 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.880 TL, yarım altın 21.754 TL, tam altın 43.347 TL, ata altın 44.512 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.235,94 TL, has altının gram fiyatı 6.655,26 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.121,40 dolardan işlem görürken, dolar/TL 50,10 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 16.44 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## "Bir Sürü Olsun" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek
 
 **Tarım · Merkez** · 2026-11-05 13:33 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1758/Bir-Suru-Olsun-Projesi-Kapsaminda-Etci-Irk-Sigir-Basvurulari-Basladi)
+
+![](data/images/bir-suru-olsun-projesinde-etci-irk-sigir-basvur-arsiv.jpg)
 
 > Başvurular il veya ilçe tarım müdürlüklerine yapılacak; liste 30 Kasım'da açıklanacak.
 
@@ -452,19 +474,5 @@ Belediyeye göre eğitimler ay boyunca tüm belde evlerinde ve deneyimli kafeler
 Eskişehir Şehir Hastanesi 8. kuruluş yıl dönümünü kutluyor. Eskişehir İl Sağlık Müdürlüğü'nün açıklamasına göre hastane modern sağlık altyapısı, tanı ve tedavi birimleri ve sağlık kadrosuyla 8 yıldır Eskişehir'e ve bölgeye hizmet veriyor.
 
 Açıklamada hastanenin her geçen yıl hizmet kapasitesini geliştirdiği, sağlık çalışanlarının bilgi, tecrübe ve özverileriyle binlerce hastaya hizmet verdiği belirtildi; "gece gündüz" demeden görev yapan sağlık çalışanlarına teşekkür edildi.
-
----
-
-## Başkan Kurt kahveci esnafıyla bir araya geldi: Emek Mahallesi'ndeki işgaliyeler görüşüldü
-
-**Belediye · Odunpazarı** · 2026-11-04 11:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kazim-kurt-kahveci-esnafiyla-isgaliye-konusunu-gorustu)
-
-![](data/images/7f3a0751972bd0c9.jpg)
-
-> Buluşma Emirdağlılar Derneği'nde kahvaltı programıyla yapıldı.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir Esnaf ve Sanatkarlar Odaları Birliği Başkanı Adnan Karamanlı, Eskişehir Kahveciler Odası Başkanı Mehmet Karatay ve kahveci esnafıyla Emirdağlılar Derneği'nde düzenlenen kahvaltıda bir araya geldi. Buluşmada kahvehanelerin işgaliye uygulamaları ele alındı.
-
-Belediyenin aktardığına göre Kurt, Emek Mahallesi'ndeki kahvehanelerin işgaliye durumunu fotoğraflar üzerinden esnafa anlattı, esnafın görüş ve taleplerini dinleyip notlar aldı. Kurt, "Esnafımızın yaşadığı sorunları yerinde görmek, taleplerini dinlemek ve çözüm yollarını birlikte değerlendirmek bizim için önemli" dedi. Kaynakta işgaliye ücretlerine veya alınan bir karara dair ayrıntı yer almıyor.
 
 ---
