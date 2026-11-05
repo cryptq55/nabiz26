@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Afyon'daki saldırıların şüphelisi Seyitgazi'de yakalandı, 2 jandarma hafif yaralandı
+
+**Asayiş · Merkez** · 2026-11-05 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-8-kisiyi-olduren-1-kisiyi-agir-yaralayan-zanli-eskisehirde-yakalandi/4113099)
+
+> Valilik, failin Eskişehir sınırlarında jandarma ve emniyetin ortak çalışmasıyla yakalandığını açıkladı.
+
+Afyonkarahisar'da silahlı saldırılarda 8 kişinin ölümüne, 1 kişinin ağır yaralanmasına yol açan şüpheli Eskişehir'de yakalandı. Eskişehir Valiliği, saldırıları gerçekleştiren kişinin İl Jandarma Komutanlığı ve İl Emniyet Müdürlüğü ekiplerinin ortak çalışmasıyla "sağ olarak yakalandığını" duyurdu.
+
+Yerel haberlere göre şüpheli, gasp ettiği aracı Seyitgazi'nin Taşlık Mahallesi'nde çamura saplanınca bırakarak yaya kaçmaya devam etti. Jandarma ekipleri şüphelinin Seyitgazi'ye bağlı Kuyucak Mahallesi'ndeki bir maden ocağı yakınlarında olduğunu belirledi. Haberlerde şüphelinin adı Ali Sefa Ö. olarak geçti. Bölgeyi çevreleyen ekiplerin "teslim ol" ihtarına şüphelinin tüfekle ateş ederek karşılık verdiği, çıkan çatışmada 2 jandarma personelinin hafif yaralandığı bildirildi. Şüpheli gözaltına alınarak karakola götürüldü.
+
+Anadolu Ajansı'nın aktardığına göre Afyonkarahisar Cumhuriyet Başsavcılığı soruşturma başlattı ve 1 başsavcıvekili ile 3 cumhuriyet savcısı görevlendirdi. Hayatını kaybedenler arasında Yukarıtandır Ortaokulu'nda görevli iki öğretmen de bulunuyor; İl Milli Eğitim Müdürlüğü başsağlığı diledi.
+
+Şüpheli hakkındaki yargı süreci sürüyor; haber, resmî açıklamalara ve yayımlandığı sıradaki haberlere dayanıyor.
+
+---
+
 ## Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor
 
 **Belediye · Odunpazarı** · 2026-11-05 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazari-belediyesi-haksiz-yere-hicbir-seyden-para-almaz)
@@ -466,19 +482,5 @@ Görüntülerin sosyal medyada paylaşılmasının ardından Vali Erdinç Yılma
 Eskişehir Büyükşehir Belediyesi'nin düzenlediği Caz Günleri kapsamında Sibel Köse Quintet sahne aldı. Vokalde Sibel Köse, piyanoda Kürşad Deniz, kontrabasta Kağan Yıldız, tenor saksafonda Engin Recepoğulları ve davulda Berke Özgümüş'ün yer aldığı grup, Cole Porter, Milton Nascimento ve Sonny Burke gibi bestecilerin eserlerini seslendirdi. Gecenin öne çıkan parçası Kürşad Deniz'in özel düzenlemesiyle yorumlanan Cole Porter imzalı "So in Love" oldu; konserde Sibel Köse Septet'in "In Good Company" albümünden parçalar da yer aldı. Konserin ardından Köse, sanatseverlerle bir araya gelerek plaklarını imzaladı.
 
 Caz Günleri'nin bir sonraki konserinde Duygu Soylu Jazz Band 17 Kasım 2026'da Büyükşehir Belediyesi Sanat ve Kültür Merkezi (EBSKM) Opera Sahnesi'nde sahne alacak.
-
----
-
-## Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak
-
-**Spor · Merkez** · 2026-11-04 13:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/eskisehirspor-ve-anadolu-sfnin-4-tur-rakipleri-belli-oldu)
-
-![](data/images/kupada-eskisehirspor-bodrum-fkya-konuk-olacak-a-arsiv.jpg)
-
-> Tek maç eleme usulüyle oynanacak karşılaşmaların tarihleri sonra açıklanacak.
-
-Ziraat Türkiye Kupası 4. Eleme Turu kura çekimi 4 Kasım'da saat 15.30'da yapıldı. Kura sonucunda Eskişehirspor, 1. Lig ekibi Bodrum FK ile deplasmanda karşılaşacak. Kentin diğer temsilcisi Eskişehir Anadolu Spor Faaliyetleri ise Karadeniz ekibi Samsunspor'u Eskişehir'de konuk edecek.
-
-Tek maç eleme usulüyle oynanacak karşılaşmaların kesin gün ve saatlerini TFF önümüzdeki günlerde duyuracak.
 
 ---
