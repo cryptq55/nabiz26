@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor
+
+**Belediye · Odunpazarı** · 2026-11-05 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazari-belediyesi-haksiz-yere-hicbir-seyden-para-almaz)
+
+![](data/images/4d79701a520c54ab.jpg)
+
+> Kurt, Tepebaşı ile Odunpazarı hesaplarının aynı yöntemle yapıldığını söyledi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, kasım ayı meclis toplantısında 2027 Yılı Evsel Katı Atık Tarife Raporu'na ilişkin AK Parti meclis üyelerinin eleştirilerine yanıt verdi. Rapor, AK Parti üyelerinin karşı oyuna rağmen oy çokluğuyla kabul edilmişti.
+
+Kurt, raporun şeffaf olduğunu ve herkesin inceleyebileceğini söyledi. Temizlik işlerinde başka yerde çalışan, işe gelmeden maaş alan kimsenin bulunmadığını belirten Kurt, personelin giriş ve çıkışını kaydeden bir takip sistemleri olduğunu anlattı. Temizlik işlerinde 10 yıl önce 430 küsur işçi çalışırken bugün 420 işçi ve 10 memur bulunduğunu, bu sürede nüfusun 70-80 bin arttığını söyledi.
+
+Kurt, Tepebaşı ve Odunpazarı belediyelerinin bürokratlarının raporu birlikte hazırladığını, iki belediyenin hesabı arasında fark bulunmadığını ve konutlarda yıllık bedelin yaklaşık 970 lira olduğunu belirtti. Artış oranlarına ilişkin istatistik tartışmalarının yoruma açık olduğunu söyledi.
+
+AK Parti Meclis Üyesi Berke Akyel ise toplantıda, Odunpazarı'nın toplam katı atık maliyetindeki artışın Tepebaşı'ndan yüksek olduğunu ve temizlik kadrosunda görünüp başka birimlerde çalıştırılan personelin maaşlarının bedele yansıtılıp yansıtılmadığını sormuştu.
+
+---
+
+## Afyon'daki saldırının firari şüphelisi Seyitgazi'de aranıyor, ekipler dron kullanıyor
+
+**Asayiş · Merkez** · 2026-11-05 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/olu-sayisi-7ye-yukseldi-afyondaki-kanli-olay-sonrasi-eskisehirde-alarma-gecildi)
+
+> Şüphelinin aracını Taşlık yakınlarında bıraktığı bildirildi; Eskişehir-Seyitgazi yolunda güvenlik noktası kuruldu.
+
+Afyonkarahisar'ın İhsaniye ilçesinde 8 kişinin silahlı saldırıda öldüğü olayın firari şüphelisi, Eskişehir'in Seyitgazi ilçesinde aranıyor. Haberlerde şüphelinin aracını Seyitgazi'nin Taşlık Mahallesi yakınlarında bırakıp kırsal alana kaçtığı belirtildi.
+
+Afyonkarahisar Valiliği, silahlı saldırılarda 8 kişinin hayatını kaybettiğini, 1 kişinin ağır yaralandığını açıkladı. Haberlerde olayın İhsaniye'ye bağlı Ayazini ve Kıyır mahallelerinde yaşandığı, üç ayrı araçta cansız bedenlerin bulunduğu, hayatını kaybedenlerden ikisinin öğretmen olduğu aktarıldı. Şüphelinin kırmızı renkli bir hafif ticari aracı gasp ederek kaçtığı, Seyitgazi-Çifteler yolu üzerinde bir otomobili de aldığı iddia edildi.
+
+Eskişehir İl Emniyet Müdürlüğü ekipleri, şüphelinin Eskişehir istikametine yönelebileceği ihtimaline karşı Eskişehir-Seyitgazi karayolunda güvenlik noktası kurdu ve yola araç durdurucu kapan yerleştirdi. Polis ve jandarma ekipleri kırsal alanda termal kameralı dronlarla arama yapıyor; metruk yapılar, tarım arazileri ve ormanlık alanlar tek tek kontrol ediliyor. Kütahya, Eskişehir ve Afyonkarahisar çevresinde geniş çaplı operasyon sürüyor.
+
+Haber, yayımlandığı sıradaki bilgilere dayanıyor; şüpheli hakkında yargı süreci sonuçlanmadı.
+
+---
+
 ## Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti
 
 **Belediye · Tepebaşı** · 2026-11-05 15:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-cop-ucretlerine-zam-2027-tarifesi-belli-oldu)
@@ -446,35 +480,5 @@ Caz Günleri'nin bir sonraki konserinde Duygu Soylu Jazz Band 17 Kasım 2026'da 
 Ziraat Türkiye Kupası 4. Eleme Turu kura çekimi 4 Kasım'da saat 15.30'da yapıldı. Kura sonucunda Eskişehirspor, 1. Lig ekibi Bodrum FK ile deplasmanda karşılaşacak. Kentin diğer temsilcisi Eskişehir Anadolu Spor Faaliyetleri ise Karadeniz ekibi Samsunspor'u Eskişehir'de konuk edecek.
 
 Tek maç eleme usulüyle oynanacak karşılaşmaların kesin gün ve saatlerini TFF önümüzdeki günlerde duyuracak.
-
----
-
-## Eskişehirspor kaptanı Beykan Şimşek: Dört haftalık dönemlerle ilerliyoruz, takım çıkışta
-
-**Spor · Merkez** · 2026-11-04 13:34 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-takim-kaptani-beykan-simsek-taraftara-mesaji-verdi)
-
-![](data/images/eskisehirspor-kaptani-beykan-simsek-dort-haftal-arsiv.jpg)
-
-> Şimşek, bir haftada oynanacak üç maça ve taraftara seslendi.
-
-Eskişehirspor Takım Kaptanı Beykan Şimşek, 9 haftayı geride bırakan takımın durumunu değerlendirdi. Şimşek, sezon başında ligi dörder haftalık dönemler halinde ele almayı planladıklarını söyledi. İlk dört haftada 7, ikinci dört haftada 8 puan topladıklarını belirten Şimşek, 9. hafta maçıyla üçüncü dönemin galibiyetle başladığını ifade etti.
-
-Bursa Yıldırım Spor maçıyla başlayan, Altay karşılaşmasıyla süren ve Gaziemir maçına uzanan süreçte takımın temposunda ve kazanma isteğinde artış gördüğünü söyleyen Şimşek, bu dönemde Kepez'i sahalarında ağırlayacaklarını, bir haftada üç maç oynayacaklarını belirtti ve fiziksel hazırlığın önemini vurguladı. Takımın galibiyetlerle yeniden ligin ikinci sırasına yükseldiğini ifade eden Şimşek, taraftarın da tribünlerdeki yerini alacağını söyledi.
-
-Haber Şimşek'in açıklamalarına dayanıyor.
-
----
-
-## Mesleki ve Teknik Eğitim Genel Müdürü Kaygusuz Eskişehir'de değerlendirme yaptı
-
-**Eğitim · Merkez** · 2026-11-04 13:32 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/mesleki-ve-teknik-egitimde-eskisehir039in-birikimi-ve-gelecek-vizyonu-degerlendirildi/icerik/8703/tr)
-
-![](data/images/0fd318e4fc89121e.jpg)
-
-> Toplantı Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi'nde yapıldı.
-
-Mesleki ve Teknik Eğitim Genel Müdürü Salih Kaygusuz'un katılımıyla Eskişehir'de Mesleki ve Teknik Eğitim Değerlendirme Toplantısı yapıldı. Ali Güven Turizm Mesleki ve Teknik Anadolu Lisesi'nde düzenlenen toplantıya Genel Müdür Yardımcısı Murat Nedirli, Daire Başkanları Mehmet Faideci ve Mustafa Günay, İl Millî Eğitim Müdürü Sinan Aydın ile il ve ilçe millî eğitim yöneticileri katıldı.
-
-Toplantıda Eskişehir'de mesleki ve teknik eğitimin mevcut durumu, gelişim alanları, fiziki ve akademik altyapı, okul-sanayi iş birlikleri ve kalite geliştirme faaliyetleri ele alındı. Kaygusuz, Eskişehir'de mesleki eğitimin niteliğinin oldukça yüksek olduğunu söyledi. Toplantının ardından Kaygusuz ve Aydın, Firuz Kanatlı Mesleki ve Teknik Anadolu Lisesi'ni ziyaret ederek öğretmen ve öğrencilerle bir araya geldi.
 
 ---
