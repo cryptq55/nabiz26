@@ -615,7 +615,7 @@ def write_article_gemini(candidate, source_text, recent):
         f"\n\n<kaynak ad=\"{candidate['source_name']}\">\nBaşlık: {candidate['title']}\n\n{source_text[:12000]}\n</kaynak>"
         "\n\nYanıtı yalnızca şu JSON şemasına uyan tek bir nesne olarak ver:\n" + json.dumps(ARTICLE_SCHEMA, ensure_ascii=False)
     )
-    model = os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash"
+    model = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite"
     body = {"systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
             "contents": [{"role": "user", "parts": [{"text": user_msg}]}],
             "generationConfig": {"temperature": 0.3, "responseMimeType": "application/json"}}
