@@ -2,9 +2,32 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Seyitgazi'de 4. Pekmez Kaynatma Şenliği 7 Kasım'da, ücretsiz otobüs seferleri olacak
+
+**Kültür-Sanat · Merkez** · 2026-11-05 08:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/pekmez-kaynatma-senligi-icin-ucretsiz-ulasim-imkani-servis-duraklari-aciklandi)
+
+> Şenlik 12.00-17.00 arasında Taşlık Çiftlikköy'deki ÇİDEM alanında yapılacak.
+
+Seyitgazi Belediyesi'nin düzenlediği 4. Geleneksel Pekmez Kaynatma Şenliği, 7 Kasım 2026 Cumartesi günü saat 12.00-17.00 arasında Taşlık Çiftlikköy'deki ÇİDEM (Çiftçi Destekleme ve Eğitim Merkezi) alanında yapılacak.
+
+Şenlikte katılımcılar geleneksel yöntemlerle pekmez kaynatma sürecini yakından izleyebilecek. Etkinlik alanında köy ekmeği yapımının yanı sıra patates, pancar, katmer, pide, kumpir ve kabak gibi yöresel lezzetler sunulacak; gün boyu canlı müzik dinletileri olacak.
+
+Belediye, şenliğe ulaşım için 7 Kasım'da ücretsiz otobüs seferleri planladı:
+- Odunpazarı kalkışlı (saat 11.00): Odunpazarı, Yıldıztepe, Yenikent üzerinden Taşlık.
+- Atatürk Bulvarı kalkışlı (saat 11.00): Migros önü ve Cemevi üzerinden Taşlık.
+- Kırka Ek Hizmet Binası: saat 11.00.
+- Doğançayır Ek Hizmet Binası: saat 11.30.
+- Seyitgazi Belediye Binası önü: saat 11.30.
+
+Dönüş otobüsleri saat 17.00'de Taşlık Çiftlikköy'den hareket edecek. Seyitgazi Belediye Başkanı Uğur Tepe, bütün Eskişehir halkını şenliğe davet etti.
+
+---
+
 ## Havaist, Eskişehir'den Sabiha Gökçen Havalimanı'na yeni hat hazırlığında
 
 **Ulaşım · Merkez** · 2026-11-05 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.ekonomigazetesi.com/sehirler/havaist-eskisehirden-sabiha-gokcene-yeni-hat-hazirliginda-91425)
+
+![](data/images/havaist-eskisehirden-sabiha-gokcen-havalimanina-arsiv.jpg)
 
 > Hattın tarihi, sefer saatleri ve bilet ücretleri henüz açıklanmadı.
 
@@ -423,17 +446,5 @@ Anadolu Üniversitesi Güzel Sanatlar Fakültesi mezunu Selin Toprak, "Dünya G�
 Yedi dakikalık iki boyutlu bilim kurgu animasyonu, Dünya'daki yaşam koşullarının kötüleşmesinin ardından bir uzay gemisine yerleşen insanların hikâyesini anlatıyor; Ivy ve Willow karakterleri üzerinden ortak yaşam, kayıp ve nostalji temalarını işliyor.
 
 Film, Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon Bölümü'nde ANİ473 Çizgi Film Proje I dersi kapsamında mezuniyet projesi olarak hazırlandı. Danışmanlığını fakültenin öğretim üyeleri Prof. Fethi Kaba, Prof. Hikmet Sofuoğlu ve Doç. Sabahattin Çalışkan üstlendi.
-
----
-
-## KYK erkek öğrenci yurtlarında AFAD eğitmenleri afet bilinci eğitimi verdi
-
-**Gündem · Merkez** · 2026-11-04 02:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sondakika.com/yerel/haber-eskisehir-de-kyk-erkek-yurtlarinda-afad-egitmenler-20392025/)
-
-![](data/images/09603d3e7483e107.jpg)
-
-> Eğitimler Sivrihisar ve Tepebaşı Gündüzalp yurtlarında verildi.
-
-Eskişehir'de Kredi ve Yurtlar Kurumu'na (KYK) bağlı erkek öğrenci yurtlarında İl Afet ve Acil Durum (AFAD) Müdürlüğü eğitmenleri afet bilinci eğitimi verdi. Eğitimler 30 Ekim'de Sivrihisar Erkek Öğrenci Yurdu'nda başladı, 2 Kasım'da Tepebaşı Gündüzalp Erkek Öğrenci Yurdu'nda devam etti.
 
 ---
