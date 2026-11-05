@@ -2,9 +2,45 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MEB COP31'de eğitim bakanlarını ağırlayacak, Türkiye İklim Okulu 9 Kasım'da açılıyor
+
+**Eğitim · Türkiye** · 2026-11-05 10:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/milli-egitim-bakanligi-cop31039de-gerceklestirecegi-uluslararasi-etkinliklere-hazir/haber/42416/tr)
+
+![](data/images/cee032818867fc14.jpg)
+
+> 14 Kasım'daki program Bakan Tekin'in ev sahipliğinde yapılacak.
+
+Millî Eğitim Bakanlığı, Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) Mavi Bölge ve Yeşil Bölge'sinde yapacağı etkinliklere hazırlanıyor. Bakanlığın açıklamasına göre programlarda iklim değişikliğiyle mücadelede eğitimin rolü, çocukların ve gençlerin iklim eylemine katılımı ve öğretmenlerin güçlendirilmesi ele alınacak.
+
+14 Kasım'daki Çocuklar, Gençlik, Eğitim ve Beceriler Günü programına Millî Eğitim Bakanı Yusuf Tekin ev sahipliği yapacak; farklı ülkelerin eğitim bakanları, üst düzey temsilciler ve uluslararası kuruluşlar katılacak. Programın resmî açılışı, MEB ile UNESCO Yeşil Eğitim Ortaklığı iş birliğinde "Antalya Eylem Protokolü" oturumuyla yapılacak. Türkiye'nin UNESCO Yeşil Eğitim Ortaklığı'na 100. üye ülke olarak katılım beyanının duyurulması da öngörülüyor.
+
+Bakan Tekin'in başkanlığında OECD iş birliğiyle yapılacak ikinci oturumda iklim okuryazarlığı, PISA değerlendirmeleri ve eğitimde yeşil dönüşüme yönelik iyi uygulamalar görüşülecek. Aynı gün Yeşil Bölge'deki Türkiye İklim Okulu'nun resmî açılışı da yapılacak.
+
+Türkiye İklim Okulu, 9 Kasım'dan itibaren öğrencileri, öğretmenleri, velileri ve akademisyenleri ağırlamaya başlayacak. Okul; Konferans Salonu, Yaşayan Okul ile İklim Deneyim ve Teknoloji Alanı'ndan oluşacak.
+
+---
+
+## Kasım ayı yaşlı ve engelli aylıkları yatırılmaya başlandı: 9,6 milyar lira ödenecek
+
+**Türkiye · Türkiye** · 2026-11-05 10:31 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/kasim-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi/)
+
+![](data/images/998a8a7c99e13143.jpg)
+
+> Bakan Göktaş: 735 bin 763 kişiye yaşlı, 557 bin 771 kişiye engelli aylığı ödenecek.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı yaşlı ve engelli aylığı ödemelerinin hesaplara yatırılmaya başlandığını bildirdi. Bakanlığın açıklamasına göre 1 milyon 293 bin 534 vatandaşa toplam 9,6 milyar lira ödeme yapılacak.
+
+Göktaş, kasım ayında 735 bin 763 vatandaşa 5 milyar 435 milyon lira tutarında yaşlı aylığı, 557 bin 771 vatandaşa ise 4 milyar 185 milyon lira tutarında engelli aylığı ödeneceğini söyledi.
+
+Bakan Göktaş, engelli ve yaşlı bireylerin hayatın her alanına tam katılımını sağlamak ve bağımsız yaşam sürmelerine destek olmak için çalıştıklarını belirtti. Ödemelerin vatandaşlara hayırlı olmasını diledi.
+
+---
+
 ## Şehir Hastanesi'nde organ bağışı etkinliği: kentte 125 hasta böbrek nakli bekliyor
 
-**Sağlık · Merkez** · 2026-11-05 09:31 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-organ-bagisi-farkindaligi--hastalar-umut-bekliyor-297532.html)
+**Sağlık · Merkez** · 2026-11-05 09:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-organ-bagisi-farkindaligi--hastalar-umut-bekliyor-297532.html)
+
+![](data/images/sehir-hastanesinde-organ-bagisi-etkinligi-kentt-arsiv.jpg)
 
 > İl Müftüsü Gül ve Başhekim Algın vatandaşları gönüllü organ bağışına çağırdı.
 
@@ -416,35 +452,5 @@ TFF Kadınlar Futbol 2. Ligi A Grubu'nda mücadele eden Eskişehirspor Kadın Fu
 Maçın ardından konuşan Antrenör Pınar Konca, kulübün maddi sıkıntı yaşadığını, deplasman yolculuğunda kullanılan otobüsün ücretini sonradan ödemek üzere borçlandıklarını söyledi. Konca, futbolcularının performansından memnun olduğunu, takımın mücadeleden vazgeçmeyeceğini belirtti; kentte kadın futboluna ve amatör kulüplere verilen desteği değerlendirirken duyarsızlığın arttığını dile getirdi ve maddi sorunların yalnızca kendi takımlarına özgü olmadığını söyledi.
 
 Haber Konca'nın açıklamalarına dayanıyor; kulüp yönetiminin konuya ilişkin görüşü kaynakta yer almıyor.
-
----
-
-## Sivrihisar-2 Caddesi'nin bir bölümü 4 Kasım'da asfalt çalışması için kapatılıyor
-
-**Ulaşım · Tepebaşı** · 2026-11-04 06:34 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehir.net/sivrihisar-2-caddesinin-bir-bolumu-trafige-kapaniyor)
-
-![](data/images/sivrihisar-2-caddesinin-bir-bolumu-4-kasimda-as-arsiv.jpg)
-
-> Kapatma saat 08.30-17.30 arasında uygulanacak.
-
-Eskişehir Büyükşehir Belediyesi, Tepebaşı ilçesindeki Sivrihisar-2 Caddesi'nin Abdülhamid Dedelek Caddesi ile Kırım Caddesi arasında kalan bölümünü 4 Kasım 2026 Çarşamba günü saat 08.30 ile 17.30 arasında araç trafiğine kapatacak. Neden, Yol Yapım Bakım ve Onarım Dairesi Başkanlığı'nın yürüteceği asfalt bakım ve onarım çalışması.
-
-Belediye sürücülerden alternatif güzergahları kullanmalarını ve trafik işaretleri ile işaretçilerine dikkat etmelerini istedi. Acil durumlarda ulaşım trafik güvenlik ekiplerince sağlanacak.
-
----
-
-## ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı
-
-**Gündem · Merkez** · 2026-11-04 05:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.basingazetesi.net/amp/gundem/eskisehir-in-icme-suyu-altyapisi-gucleniyor-77804)
-
-![](data/images/eski-cankayada-yenilenen-1-400-metrelik-icme-su-arsiv.jpg)
-
-> Bağlantı çalışması gece boyunca sürdü; iletim sistemi normal işletme düzenine döndü.
-
-Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ), Çankaya Mahallesi Özlem Caddesi güzergâhında ekonomik ömrünü tamamlayan içme suyu isale hattını yenileyerek devreye aldı. Yaklaşık 1.400 metre uzunluğundaki yeni hat, Çankaya Mahallesi'ndeki D21 su deposundan çıkıyor ve Özlem Caddesi boyunca uzanıyor.
-
-ESKİ'nin açıklamasına göre hat, dayanıklılığı yüksek spiral çelik borularla yeniden inşa edildi; yapımda kazı, boru yerleştirme, kaynak ve izolasyon işlemleri yapıldı. Yeni hattın mevcut içme suyu iletim sistemine bağlanması için ekipler gece boyunca aralıksız çalıştı. Bağlantıların tamamlanmasının ardından hatta kademeli olarak su verildi, şebeke basıncı dengelendi ve iletim sistemi yeniden normal işletme düzenine kavuştu.
-
-Çalışma sırasında Çankaya, Emek, Ihlamurkent, Erenköy, 71 Evler ve Vadişehir mahallelerinde su kesintisi ve basınç düşüklüğü yaşanmıştı. ESKİ, yatırımla olası arıza risklerinin azaltılmasını ve su iletiminde sürekliliğin sağlanmasını amaçladığını belirtti.
 
 ---
