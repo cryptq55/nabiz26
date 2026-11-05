@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirli ralli ekibi Olcay-Kaya Almanya'daki sezon finalinde şampiyonluk için yarışacak
+
+**Spor · Merkez** · 2026-11-05 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/sampiyonluga-bir-adim-kaldi-son-durak-almanya)
+
+> Ekip, 5-7 Kasım'da Lausitz Rallisi'nde sezonun son yarışına çıkıyor.
+
+Eskişehirli pilot Evren Olcay ve co-pilot Yenal Kaya, Avrupa Ralli Kupası'nın son yarışında şampiyonluk için yarışacak. Ekip, 5-7 Kasım tarihlerinde Almanya'da yapılacak 29. Uluslararası ADMV Lausitz Rallisi'ne katılacak.
+
+Eskişehir Otomobil Sporları Kulübü (ESOK) Başkanı ve TOSFED Eskişehir İl Temsilcisi Nevzat Aslan, yarış öncesi basın mensuplarıyla bir araya geldi. Aslan, iki sporcunun puan olarak şampiyonluğu Eskişehir'e getirebilecek durumda olduğunu söyledi ve onların şampiyon olarak döneceğine inandığını belirtti. Olcay ise altı yarışlık programın beşinin tamamlandığını, ilk yarışın Marmaris'te test niteliğinde yapıldığını ve Almanya'da şampiyonluğu kutlamak istediklerini söyledi.
+
+Haber, Aslan ve Olcay'ın açıklamalarına dayanıyor.
+
+---
+
 ## Eskişehirspor-Kepezspor maçı Tivibu 1'den canlı yayınlanacak: 7 Kasım, 15.30
 
 **Spor · Merkez** · 2026-11-05 00:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.esyenigun.com/eskisehirspor-maci-ne-zaman-hangi-kanalda)
@@ -415,21 +429,5 @@ Dağıtım programı 5 Kasım 2026 Perşembe günü saat 12.30'da Emek Kapalı P
 Eskişehir Büyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı Özel Gereksinimliler Şube Müdürlüğü'nün düzenlediği etkinlikte, Zihinsel Engelli Gündüz Yaşam Merkezi'nden hizmet alan özel gereksinimli bireyler Seyitgazi ilçesi Taşlık Mahallesi'ndeki Çiftçi Destekleme ve Eğitim Merkezi'ni (ÇİDEM) ziyaret etti.
 
 Katılımcılar domates hasadına katılarak tarımsal üretim sürecini yerinde deneyimledi. Etkinlikle özel gereksinimli bireylerin sosyal yaşama katılımlarının desteklenmesi ve yeni deneyimler kazanmaları amaçlandı.
-
----
-
-## 20. Eskişehir Uluslararası Film Festivali 16-24 Kasım'da, onur ödülleri açıklandı
-
-**Kültür-Sanat · Merkez** · 2026-11-03 23:32 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://m.haber7.com/kultur/haber/2737858-eskisehir-uluslararasi-film-festivali)
-
-![](data/images/20-eskisehir-uluslararasi-film-festivali-16-24--arsiv.jpg)
-
-> Onur ödülleri Itır Esen ve Macit Koper'e verilecek; festival bu yıl ilk kez iki yeni yarışma düzenleyecek.
-
-Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi (AÜ) ve AÜ İletişim Bilimleri Fakültesi tarafından bu yıl 20'ncisi düzenlenecek Eskişehir Uluslararası Film Festivali 16-24 Kasım'da yapılacak. Festivalin onur ödüllerini kazananlar açıklandı: ödüller oyuncular Itır Esen ve Macit Koper'e verilecek. Her iki oyuncu ödülünü festivalin açılış töreninde alacak.
-
-Türkiye'nin üniversite kimliği taşıyan uluslararası tek uzun metraj film festivali olarak tanıtılan etkinlik, bu yıl ilk kez "Kısa Film Yapım Destek" ve "Sinema Kültürüne Katkı" yarışmalarına yer verecek.
-
-Kaynakta Itır Esen'in 1975'ten itibaren Bizim Aile, Gülen Gözler, Aile Şerefi ve Cennetin Çocukları dahil toplam 8 filmde rol aldığı, Macit Koper'in ise sinemada hem oyuncu hem senarist olarak çalıştığı belirtiliyor.
 
 ---
