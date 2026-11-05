@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Havaist, Eskişehir'den Sabiha Gökçen Havalimanı'na yeni hat hazırlığında
+
+**Ulaşım · Merkez** · 2026-11-05 07:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.ekonomigazetesi.com/sehirler/havaist-eskisehirden-sabiha-gokcene-yeni-hat-hazirliginda-91425)
+
+> Hattın tarihi, sefer saatleri ve bilet ücretleri henüz açıklanmadı.
+
+Havalimanı yolcu taşımacılığı şirketi Havaist, Eskişehir'den İstanbul Sabiha Gökçen Havalimanı'na ulaşım sağlayacak yeni bir hat açmaya hazırlanıyor. Şirket güzergâhı sosyal medya hesabından duyurdu.
+
+Havaist'in açıklamasında "Eskişehir'den dünyaya uzanan yolculuklarınız, çok yakında Havaist konforuyla başlayacak! Eskişehir'i, Bozüyük ve Bursa bağlantılarıyla Sabiha Gökçen Havalimanı'na ulaştırmaya hazırlanıyoruz" ifadeleri yer aldı.
+
+Hattın hangi tarihte hizmete gireceği, sefer sıklığı, hareket saatleri ve bilet ücretleri henüz açıklanmadı. Havaist, ayrıntıların önümüzdeki günlerde duyurulacağını bildirdi.
+
+---
+
 ## Togg'da hisse devri anlaşması: Türkiye Varlık Fonu yüzde 35 ile en büyük ortak olacak
 
 **Ekonomi · Türkiye** · 2026-11-05 06:31 UTC · Kaynak: [Google Haberler - Togg](https://haberkocaeli.com/toggda-ortaklik-yapisi-degisiyor-turkiye-varlik-fonu-en-buyuk-hissedar-olacak)
@@ -421,17 +435,5 @@ Film, Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon 
 > Eğitimler Sivrihisar ve Tepebaşı Gündüzalp yurtlarında verildi.
 
 Eskişehir'de Kredi ve Yurtlar Kurumu'na (KYK) bağlı erkek öğrenci yurtlarında İl Afet ve Acil Durum (AFAD) Müdürlüğü eğitmenleri afet bilinci eğitimi verdi. Eğitimler 30 Ekim'de Sivrihisar Erkek Öğrenci Yurdu'nda başladı, 2 Kasım'da Tepebaşı Gündüzalp Erkek Öğrenci Yurdu'nda devam etti.
-
----
-
-## Odunpazarı Belediyesi çiftçilere Yunus çeşidi tohumluk buğday dağıtacak
-
-**Tarım · Odunpazarı** · 2026-11-04 01:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.2eylul.com.tr/eskisehirde-ciftcilere-tohumluk-bugday-destegi)
-
-> Dağıtım 5 Kasım Perşembe günü Emek Kapalı Pazar Yeri'nde yapılacak.
-
-Odunpazarı Belediyesi, tarımsal üretimi desteklemek ve verimliliği artırmak amacıyla çiftçilere tohumluk buğday dağıtımı yapacak. Belediyenin duyurusuna göre üreticilere Yunus çeşidi tohumluk buğday verilecek.
-
-Dağıtım programı 5 Kasım 2026 Perşembe günü saat 12.30'da Emek Kapalı Pazar Yeri'nde yapılacak. Belediye tüm üreticileri programa davet etti.
 
 ---
