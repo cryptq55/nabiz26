@@ -2,6 +2,142 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz ve heyeti, Görgün ile Eskişehir’in sanayi potansiyelini görüştü
+
+**Ekonomi · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/267823/gorgun-eskisehirin-sanayi-ve-teknoloji-potansiyelini-degerlendirdi.html)
+
+> Savunma Sanayii Başkanlığındaki buluşmada kentin sanayi, teknoloji ve savunma alanlarındaki birikimi ele alındı.
+
+Savunma Sanayii Başkanı Prof. Dr. Haluk Görgün, Eskişehir Valisi Erdinç Yılmaz ve beraberindeki heyetle başkanlıkta bir araya geldi. Görüşmenin gündemini Eskişehir’in sanayi, teknoloji ve savunma sanayisindeki imkânları oluşturdu.
+
+Görgün, kentin üniversiteleri, sanayi altyapısı ve teknoloji firmalarının taşıdığı birikime dikkat çekti. Üretim, mühendislik ve akademik çalışmaların yeni proje ve iş birlikleriyle destekleneceğini ifade etti.
+
+Görgün, görüşmenin ardından Vali Yılmaz ile heyete ziyaretleri için teşekkür etti.
+
+---
+
+## Togg T10X ve T10F için 300 bin liralık krediye 10 ay faizsiz ödeme seçeneği
+
+**Ekonomi · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Togg](https://www.teknolojioku.com/otomobil/toggdan-yeni-kampanya-30-bin-lira-taksitle-satiliyor-6aecd0d600b9958ea604d5e1)
+
+![](data/images/02b49d0f8d1c454d.jpg)
+
+> Sınırlı sayıdaki araç için duyurulan kampanyada, T10X V2 ve T10F V2’de 300 bin liralık kredi aylık 30 bin lira taksitle sunuluyor.
+
+Togg’un T10X V2 ve T10F V2 modellerine yönelik finansman kampanyasında, 300 bin liralık kredi için 10 ay vade ve yüzde 0 faiz seçeneği bulunuyor. Bu seçenekte aylık taksit tutarı 30 bin lira olarak belirtiliyor.
+
+Teknolojioku’nun aktardığı kampanya, sınırlı sayıdaki araçları kapsıyor. T10X ve T10F’nin 4More sürümleri için de 1,5 milyon lira krediye 10 ay vade, yüzde 0 faiz ve aylık 150 bin lira taksit seçeneği duyuruluyor.
+
+---
+
+## Erdoğan, 8 Kasım’da Azerbaycan’ı ziyaret etmeyi planladığını açıkladı
+
+**Siyaset · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.agos.com.tr/tr/haber/erdogan-azerbaycan-i-ziyaret-edecek-42414)
+
+![](data/images/847d88878a5d8c97.jpg)
+
+> Cumhurbaşkanı Erdoğan, olağanüstü bir durum yaşanmaması halinde Zafer Günü için Azerbaycan’a gideceğini söyledi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım’da Azerbaycan’a ziyaret planladığını açıkladı. Güney Kore dönüşünde gazetecilerin sorularını yanıtlayan Erdoğan, olağanüstü bir gelişme olmaması durumunda Zafer Günü dolayısıyla bu ülkeye gideceğini belirtti.
+
+Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefonla görüştüğünü, dışişleri bakanı ve istihbarat başkanını da Azerbaycan’a gönderdiğini aktardı. Ziyaretin temasları ilerletmek için bir fırsat olacağını ifade etti.
+
+İki ülke arasındaki ilişkiler hakkındaki soruya da yanıt veren Erdoğan, ortak tarih ve kültüre vurgu yaparak Türkiye ile Azerbaycan arasındaki bağların diplomatik ilişkilerin ötesinde olduğunu söyledi.
+
+---
+
+## Eğitim Gücü Sen, eğitim çalışanlarının taleplerini Kılıçdaroğlu’na iletti
+
+**Siyaset · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/egitim-gucu-sen-den-kilicdaroglu-na-ziyaret-0cf1bcc8)
+
+![](data/images/ee3461130ac8d15b.jpg)
+
+> Sendika heyeti, bütçe görüşmelerinde eğitim çalışanlarının sorunlarının gündeme taşınmasını istedi.
+
+Eğitim ve Bilim Gücü Dayanışma Sendikası heyeti, Kemal Kılıçdaroğlu ile görüşerek eğitim çalışanlarının ekonomik koşulları, sosyal ve özlük haklarına ilişkin taleplerini sundu. Sendikadan yapılan açıklamaya göre görüşmede eğitim sistemindeki sorunlar da ele alındı.
+
+Genel Başkan Oğuz Özat ve genel başkan yardımcılarından oluşan heyete Yıldırım Kaya eşlik etti. Heyet, eğitim çalışanlarının taleplerinin TBMM’deki bütçe görüşmelerinde değerlendirilmesini istedi.
+
+Sendika temsilcileri çözüm önerilerini içeren dosyayı Kılıçdaroğlu’na iletti. Ziyarette eğitimin niteliğinin artırılması ve çalışanların sorunlarının çözümü konusunda görüş alışverişinde bulunuldu; sendika adına plaket takdim edildi.
+
+---
+
+## Başkan Ünlüce, Mersin’de Vahap Seçer’i ve belediye yönetimini ziyaret etti
+
+**Belediye · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13532&cat_icerik=1&menu_id=24)
+
+![](data/images/0da62eaeef98dc34.jpg)
+
+> Ayşe Ünlüce’nin Mersin programında Tarsus Cezaevi, belediye ve parti il örgütü ziyaretleri yer aldı.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Mersin’deki temasları kapsamında Türkiye Belediyeler Birliği Başkanı ve Mersin Büyükşehir Belediye Başkanı Vahap Seçer’i Tarsus Cezaevi’nde ziyaret etti. Eskişehir Büyükşehir Belediyesinin açıklamasına göre Ünlüce, Seçer’in özgürlüğüne kavuşması dileğini iletti.
+
+Ünlüce daha sonra Meral Seçer’i evinde ziyaret etti. Burada Adana Büyükşehir Belediye Başkanı Zeydan Karalar ve Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile de bir araya geldi.
+
+Programda Mersin Büyükşehir Belediyesi Başkan Vekili Gülşah Yıldırım Genç ve belediye çalışanlarıyla da görüşüldü. Ünlüce, Yeni Parti Mersin İl Başkanlığında İl Başkanı Cengiz Gökçel, yöneticiler ve meclis üyeleriyle çalışmalar hakkında fikir alışverişinde bulundu. Bölgede çiftçilerle buluşmak üzere bulunan Sencer Solakoğlu da il başkanlığındaki temaslara katıldı.
+
+---
+
+## Anadolu Üniversitesinde AB haberciliği ve haber doğrulama atölyesi yapıldı
+
+**Eğitim · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/a82vpgkpzazbebl0j2a4ppx0)
+
+![](data/images/12bd16cc5b34c934.jpg)
+
+> İHA Brüksel Temsilcisi Mustafa Ulusoy, gazetecilik öğrencilerine uluslararası ajans haberciliğini ve dijital dönüşümü anlattı.
+
+Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü, Avrupa Birliği ve Türkiye-AB ilişkileri haberciliğine yönelik konferans ve atölye düzenledi. İhlas Haber Ajansı Brüksel Temsilcisi Mustafa Ulusoy, öğrencilerle gazetecilik deneyimlerini paylaştı.
+
+JOIN Projesi kapsamındaki programın moderatörlüğünü Prof. Dr. Alaaddin Faruk Paksoy üstlendi. Ulusoy, Avrupa Birliği kurumlarına erişim, akreditasyon işlemleri ve kaynaklarla iletişimde yaşanan değişimleri anlattı. Dijitalleşmenin gazetecileri daha fazla doğrulama yapmaya yönelttiğini belirtti.
+
+Atölyede uluslararası haber ajanslarının günlük işleyişi, haber önerilerinin hazırlanması ve merkeze iletilmesi üzerinde duruldu. Dezenformasyon, yapay zekâyla üretilen sahte görüntüler ve açık kaynak istihbaratı da ele alındı. Program, öğrencilerin sorularının yanıtlanmasıyla sona erdi.
+
+---
+
+## Hakan Şapcı, Eskişehirspor’da 39 maçta 27 galibiyete ulaştı
+
+**Spor · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/sapci-son-10-sezonda-zirvede)
+
+> Şapcı, son 10 sezonda Eskişehirspor’un başında en fazla maça çıkan teknik direktörler sıralamasında ilk sırada yer aldı.
+
+Eskişehirspor Teknik Direktörü Hakan Şapcı, takımın başında çıktığı 39 karşılaşmada 27 galibiyet, 8 beraberlik ve 4 yenilgi aldı. Bu sonuçlarla galibiyet oranı yüzde 69’a ulaşırken siyah-kırmızılı ekip 35 maçta yenilmedi.
+
+İstikbal Gazetesi’nin derlediği verilere göre Şapcı, son 10 sezonda Eskişehirspor’da en fazla karşılaşmada görev yapan teknik direktör oldu. Onu 38 maçla Fuat Çapa, 28 maçla Suat Kaya, 23 maçla Yücel İldiz ve 21 maçla Mustafa Özer izledi.
+
+Son 20 sezonun maç sayısı sıralamasında ise Şapcı beşinci basamakta bulunuyor. Bu listede Rıza Çalımbay 84, Ersun Yanal 75, Ertuğrul Sağlam 68 ve Michael Skibbe 47 karşılaşmayla önünde yer alıyor.
+
+---
+
+## Eskişehir’de proje okulları Fatih Fen Lisesi’nde eğitim süreçlerini görüştü
+
+**Eğitim · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.aksiyon.com.tr/proje-okullari-eskisehir-de-bir-araya-geldi-egitim-surecleri-degerlendirildi-388700)
+
+> İl Millî Eğitim Müdürü Sinan Aydın başkanlığındaki toplantıda akademik çalışmaların yanı sıra okul güvenliği ve etkinlik planları değerlendirildi.
+
+Eskişehir’de proje okullarının koordinasyon toplantısı Fatih Fen Lisesi’nin ev sahipliğinde yapıldı. İl Millî Eğitim Müdürü Sinan Aydın’ın başkanlık ettiği buluşmaya birim amirleri ve okul müdürleri katıldı.
+
+Her ay farklı bir okulda gerçekleştirilen toplantının bu ayki gündeminde eğitim faaliyetleri, akademik başarıyı destekleyen uygulamalar ve okulların projeleri yer aldı. Yöneticiler, çalışmaların sonuçlarını ve paylaşılabilecek iyi örnekleri değerlendirdi.
+
+Öğrencilere yönelik yarışma ve gezi planları da görüşüldü. Okul güvenliği, iş sağlığı ve güvenliği ile farkındalık çalışmaları ele alınarak kurumlar arasındaki koordinasyonun güçlendirilmesi konusunda görüş birliğine varıldı.
+
+---
+
+## Anadolu Üniversitesinde öğrenciler turşu kurdu, fermantasyonun bilimini öğrendi
+
+**Eğitim · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/id6hqo4qjzeujwbd2q209o04)
+
+![](data/images/6795cd583a0d9ff1.jpg)
+
+> EMYO’daki atölyede aşçılık öğrencileri turşu yapımını uygulayarak öğrendi; gastronomi, beslenme ve biyokimya birlikte ele alındı.
+
+Anadolu Üniversitesi Eskişehir Meslek Yüksekokulunda düzenlenen turşu atölyesi, geleneksel mutfak bilgisini bilimsel yaklaşımlarla buluşturdu. Ocak ve Çörek Mutfaklarında yapılan etkinlikte Rektör Prof. Dr. Yusuf Adıgüzel de öğrencilerle turşu hazırladı.
+
+EMYO Müdürü Doç. Dr. Osman Güldemir’in koordinasyonundaki programa Selçuk Üniversitesinden Prof. Dr. Fatma Hümeyra Yerlikaya Aydemir ve Prof. Dr. Nazan Aktaş konuk oldu. Öğrenciler malzeme seçimi ve hazırlama aşamalarının yanı sıra fermantasyonda yaşanan biyokimyasal değişimleri de ele aldı.
+
+Atölyede mevsimlik ürünlerin saklanması, gıda israfının azaltılması ve sürdürülebilir mutfak uygulamaları üzerinde duruldu. Aktaş, turşunun tuz içeriği nedeniyle tüketim miktarına dikkat edilmesi gerektiğini belirtti. Program, soruların yanıtlanması ve konuk akademisyenlere teşekkür belgelerinin verilmesiyle tamamlandı.
+
+---
+
 ## Afyon'daki saldırıların şüphelisi Seyitgazi'de yakalandı, 2 jandarma hafif yaralandı
 
 **Asayiş · Merkez** · 2026-11-05 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-8-kisiyi-olduren-1-kisiyi-agir-yaralayan-zanli-eskisehirde-yakalandi/4113099)
@@ -356,131 +492,5 @@ Toplam 368 milyon avroluk işlemde Vestel, yüzde 23'lük payını 184 milyon av
 Devirler tamamlandığında ortaklık yapısının şöyle olması bekleniyor: Türkiye Varlık Fonu yüzde 35, Turkcell yüzde 34, BMC yüzde 23 ve TOBB yüzde 8. Vestel, satıştan elde edeceği gelirin en az yüzde 90'ını, tahsilattan sonraki 30 gün içinde vadesi gelmiş nakdi banka kredisi borçlarının ödenmesinde kullanacağını açıkladı.
 
 KAP açıklamalarına göre hisse devirleri henüz tamamlanmadı. İşlemin sonuçlanması için gerekli kurum onaylarının alınması, kapanış koşullarının yerine getirilmesi ve satış bedellerinin ödenmesi gerekiyor.
-
----
-
-## Eskişehirli ralli ekibi Olcay-Kaya Almanya'daki sezon finalinde şampiyonluk için yarışacak
-
-**Spor · Merkez** · 2026-11-05 04:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/sampiyonluga-bir-adim-kaldi-son-durak-almanya)
-
-> Ekip, 5-7 Kasım'da Lausitz Rallisi'nde sezonun son yarışına çıkıyor.
-
-Eskişehirli pilot Evren Olcay ve co-pilot Yenal Kaya, Avrupa Ralli Kupası'nın son yarışında şampiyonluk için yarışacak. Ekip, 5-7 Kasım tarihlerinde Almanya'da yapılacak 29. Uluslararası ADMV Lausitz Rallisi'ne katılacak.
-
-Eskişehir Otomobil Sporları Kulübü (ESOK) Başkanı ve TOSFED Eskişehir İl Temsilcisi Nevzat Aslan, yarış öncesi basın mensuplarıyla bir araya geldi. Aslan, iki sporcunun puan olarak şampiyonluğu Eskişehir'e getirebilecek durumda olduğunu söyledi ve onların şampiyon olarak döneceğine inandığını belirtti. Olcay ise altı yarışlık programın beşinin tamamlandığını, ilk yarışın Marmaris'te test niteliğinde yapıldığını ve Almanya'da şampiyonluğu kutlamak istediklerini söyledi.
-
-Haber, Aslan ve Olcay'ın açıklamalarına dayanıyor.
-
----
-
-## Eskişehirspor-Kepezspor maçı Tivibu 1'den canlı yayınlanacak: 7 Kasım, 15.30
-
-**Spor · Merkez** · 2026-11-05 00:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.esyenigun.com/eskisehirspor-maci-ne-zaman-hangi-kanalda)
-
-![](data/images/c8eb28fa90d7b711.jpg)
-
-> Eskişehirspor 18 puanla liderin 3 puan gerisinde ikinci sırada.
-
-Eskişehirspor ile Kepezspor arasındaki karşılaşma 7 Kasım 2026 Cumartesi günü saat 15.30'da Fethi Heper Stadyumu'nda oynanacak. Maç Tivibu 1 ekranlarından canlı yayınlanacak.
-
-Eskişehirspor ligde 9 haftada topladığı 18 puanla, 5 galibiyet, 3 beraberlik ve 1 yenilgiyle, 21 puanlı lider Gemlik Sümerbey'in 3 puan gerisinde ikinci sırada. Anadolu SF ve Ayvalıkgücü de aynı puanda; Eskişehirspor averaj sıralamasıyla ikinci basamakta yer alıyor. Takım, Gaziemirspor'u 5-0 yendikten sonra Kepezspor maçına da 3 puan hedefiyle hazırlanıyor.
-
----
-
-## Vali Yılmaz Mihalıççık'ta Yunus Emre Mezarı ve Külliyesi'ni ziyaret etti
-
-**Kültür-Sanat · Merkez** · 2026-11-04 21:33 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yunus-emre-mezar-ve-kulliyesini-ziyaret-etti)
-
-![](data/images/3ff7c73887ffbad7.jpg)
-
-> Vali, külliyede yürütülen çalışmalar hakkında yetkililerden bilgi aldı.
-
-Vali Dr. Erdinç Yılmaz, hayırsever iş insanı Tayfur Bayar, Mihalıççık Kaymakamı Fahrettin Çırak ve Mihalıççık Belediye Başkanı Haydar Çorum ile birlikte Mihalıççık ilçesine bağlı Yunus Emre Mahallesi'ndeki Yunus Emre'nin mezarını ve külliyesini ziyaret etti.
-
-Yılmaz, Yunus Emre'nin kabri başında dua etti, külliye alanında incelemelerde bulundu; yürütülen çalışmalar ve bölgenin tarihi ve kültürel önemi hakkında yetkililerden bilgi aldı. Ziyarette Yunus Emre'nin sevgi, hoşgörü, kardeşlik ve insanlık anlayışını merkeze alan düşünce mirasının önemine ve bu mirasın gelecek nesillere aktarılmasına dikkat çekildi.
-
----
-
-## Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da "90. Yaşa Saygıyla" programıyla kutlanacak
-
-**Gündem · Merkez** · 2026-11-04 20:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gzt26.com/yilmaz-buyukersenin-90-yas-gunu-eskisehirde-ozel-bir-programla-kutlanacak)
-
-![](data/images/yilmaz-buyukersenin-90-yas-gunu-8-kasimda-90-ya-arsiv.jpg)
-
-> Kutlama programı saat 18.30'da başlayacak ve dostları tarafından düzenleniyor.
-
-Eskişehir Büyükşehir Belediyesi'nde 1999-2024 arasında kesintisiz 25 yıl belediye başkanlığı yapan Yılmaz Büyükerşen, 8 Kasım Pazar günü 90. yaş gününü kutlayacak. Dostları tarafından hazırlanan "90. Yaşa Saygıyla" programı 8 Kasım 2026 Pazar günü saat 18.30'da Eskişehir'de bir davet salonunda yapılacak. Kaynakta salonun adı belirtilmiyor.
-
-Programa Büyükerşen'in yakın dostlarının yanı sıra şehrin önde gelen isimlerinin de katılması ve Büyükerşen'in farklı dönemlerde birlikte çalıştığı isimlerle bir araya gelmesi bekleniyor. Büyükerşen 1999'da Eskişehir Büyükşehir Belediye Başkanı seçildi, beş dönem görev yaptı ve 2024'te görevinden ayrıldı.
-
----
-
-## Tepebaşı Belediyesi zimmet davasında ilk duruşma: 12 tutuklu sanıktan 5'i tahliye edildi
-
-**Gündem · Tepebaşı** · 2026-11-04 19:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/tepebasi-belediyesinde-zimmet-davasi-5-saniga-tahliye-119512564)
-
-> Sanıklar suçlamaları kabul etmedi; mahkeme bir tutuksuz sanığın tutuklanmasına karar verdi.
-
-Tepebaşı Belediyesi'ne yönelik zimmet soruşturması kapsamında açılan davanın ilk duruşması Eskişehir 4. Ağır Ceza Mahkemesi'nde yapıldı. Dava, aralarında kamu görevlilerinin de bulunduğu 22 sanığı kapsıyor; sanıkların 12'si tutuklu.
-
-İddianameye göre, geçen mayıs ayında düzenlenen operasyonda gözaltına alınan 22 şüpheliden 7'si kamu görevlisi 12 kişi tutuklanmış, 10 kişi adli kontrolle serbest bırakılmıştı. İddianamede 15 kamu görevlisi için zimmet suçundan 5 yıldan 12 yıla kadar, diğer 7 sanık için suça iştirak veya yardım iddiasıyla 2 yıl 6 aydan 6 yıla kadar hapis cezası talep ediliyor. İddianame, aralarında özel kalem müdürü ve başkan yardımcısının da bulunduğu kamu görevlilerinin, iki organizasyon firması sahibi üzerinden belediye bütçesinden yapılan ödemeleri zimmetlerine geçirdiklerini öne sürüyor.
-
-DHA'nın aktardığına göre yaklaşık 11 saat süren savunmalarda sanıklar suçlamaları kabul etmedi ve iddiaların "iftira" olduğunu öne sürdü. Mahkeme heyeti, tutuklu sanıklardan 5'inin tahliyesine, tutuksuz sanıklardan birinin ise tutuklanmasına karar verdi. Yargılama sürüyor; sanıklar hakkında kesinleşmiş bir hüküm bulunmuyor.
-
----
-
-## ESTÜ meslek yüksekokullarının 10 programında MEDEK akreditasyon saha ziyareti yapıldı
-
-**Eğitim · Merkez** · 2026-11-04 19:32 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-meslek-yuksekokullarinin-medek-program-akreditasyonu-degerlendirme-sureci-kapsaminda-saha-ziyareti-gerceklestirildi-)
-
-> Akreditasyon kararını MEDEK Yönetim Kurulu verecek.
-
-Eskişehir Teknik Üniversitesi'ne (ESTÜ) bağlı Bilişim Teknolojileri, Porsuk ve Ulaştırma Meslek Yüksekokullarının 10 programında, Mesleki Eğitim Değerlendirme ve Akreditasyon Derneği (MEDEK) tarafından 2-4 Kasım 2026'da saha ziyaretleri yapıldı.
-
-3 Kasım'da Bilgisayar Programcılığı, Mekatronik, Makine Resim ve Konstrüksiyonu ile Lojistik programlarının ara değerlendirmeleri tamamlandı. Son gün olan 4 Kasım'da Bilişim Teknolojileri Meslek Yüksekokulu İnsansız Hava Aracı Teknolojisi ve Operatörlüğü Programı yeni akreditasyon başvurusu kapsamında değerlendirildi; Porsuk Meslek Yüksekokulu'nun Basım ve Yayım Teknolojileri, Grafik Tasarımı ve Yapı Denetimi programları ile Ulaştırma Meslek Yüksekokulu'nun Sivil Havacılık Kabin Hizmetleri ve Raylı Sistemler Yol Teknolojisi programlarının değerlendirmeleri de bitti. Rektörlük Toplantı Salonu'nda çıkış bildirileri okundu. Program akreditasyon kararını MEDEK Yönetim Kurulu verecek.
-
----
-
-## Hakan Şapçı: Kepez, Anadolu ve Ayvalıkgücü maçlarını kazanıp liderliği hedefliyoruz
-
-**Spor · Merkez** · 2026-11-04 16:33 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hakan-sapci-3-maci-da-kazanmak-istiyoruz)
-
-![](data/images/hakan-sapci-kepez-anadolu-ve-ayvalikgucu-maclar-arsiv.jpg)
-
-> Şapçı, Kepezspor'un son iki maçını kazanarak form yakaladığını hatırlattı.
-
-Eskişehirspor Teknik Direktörü Hakan Şapçı, takımın Kepezspor, Eskişehir Anadolu SF ve Ayvalıkgücü maçlarının Eskişehir'de oynanacak olmasını önemli bir fırsat olarak gördüklerini söyledi. Şapçı, "Bir an önce üst üste galibiyetler alarak zirveyi yakalamayı, ilk devreyi lider tamamlamayı ve liderliği sezon sonuna kadar sürdürmeyi hedefliyoruz" dedi.
-
-Kepezspor'un son iki maçını kazanarak form yakaladığını hatırlatan Şapçı, rakibin hafife alınmaması gerektiğini vurguladı: "Kepez kesinlikle çantada keklik bir rakip değil." Ahmet Dereli'nin sakatlığının ardından hücum hattında değişikliğe gittiklerini belirten Şapçı, Kerem, Hasan Kaya, Mehmet ve Sarper'in durumunun takip edildiğini, Ahmet Dereli ve Mustafa Eren dışındaki oyuncuları Kepez maçına yetiştirmeyi hedeflediklerini söyledi.
-
-Şapçı, hedefinin nisan ayında Eskişehirspor'la şampiyonluk yaşamak olduğunu, ligde ilk dokuz takımın şampiyonluk yarışında olduğunu ve grubun geçen yıla göre daha güçlü olduğunu ifade etti. Haber Şapçı'nın açıklamalarına dayanıyor.
-
----
-
-## Yerdeki Türk bayraklarını kaldıran trafik polisi Vali Yılmaz'dan plaket aldı
-
-**Gündem · Tepebaşı** · 2026-11-04 15:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yerde-gordugu-turk-bayraklarini-kaldiran-polis-plaketle-odullendirildi-119512487)
-
-![](data/images/yerdeki-turk-bayraklarini-kaldiran-trafik-polis-arsiv.jpg)
-
-> Polis memuru Osman Özbakır'a Vali Erdinç Yılmaz plaket ve başarı belgesi verdi.
-
-Eskişehir Emniyet Müdürlüğü Trafik Şube Müdürlüğü'nde görevli polis memuru Osman Özbakır, önceki gün ekip aracıyla Tepebaşı ilçesi Uluönder Mahallesi'nde seyir halindeyken çevre yolunda refüjde yerde Türk bayrakları olduğunu fark etti. Özbakır, yoğun trafiğe rağmen yolun karşısına geçerek bayrakları yerden aldı. Bir kişinin cep telefonu kamerasıyla kaydettiği görüntülerde Özbakır'ın bayrakları katlayıp öptüğü görüldü.
-
-Görüntülerin sosyal medyada paylaşılmasının ardından Vali Erdinç Yılmaz, Özbakır'ı Emniyet Müdür Vekili Kadir Murat Meral ve Trafik Denetleme Şube Müdürü Hakan Solak'la birlikte makamında ağırladı; Özbakır'a plaket ve başarı belgesi verdi. Yılmaz, "Senin o hassasiyetin bütün Türkiye'de çok güzel karşılandı" dedi.
-
-Özbakır, ekip aracını trafik güvenliğini tehlikeye düşürmeyecek bir noktada durdurup bayrakları koşarak yerden kaldırdığını, trafik polisinin görevinin yalnızca trafik güvenliğini sağlamak değil, Türk bayrağına da sahip çıkmak olduğunu söyledi.
-
----
-
-## Büyükşehir Caz Günleri'nde Sibel Köse Quintet sahne aldı, sonraki konser 17 Kasım'da
-
-**Kültür-Sanat · Merkez** · 2026-11-04 14:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.milliirade.com/sibel-kose-quintetten-eskisehirde-caz-dolu-unutulmaz-bir-gece)
-
-> Bir sonraki konserde Duygu Soylu Jazz Band sahne alacak.
-
-Eskişehir Büyükşehir Belediyesi'nin düzenlediği Caz Günleri kapsamında Sibel Köse Quintet sahne aldı. Vokalde Sibel Köse, piyanoda Kürşad Deniz, kontrabasta Kağan Yıldız, tenor saksafonda Engin Recepoğulları ve davulda Berke Özgümüş'ün yer aldığı grup, Cole Porter, Milton Nascimento ve Sonny Burke gibi bestecilerin eserlerini seslendirdi. Gecenin öne çıkan parçası Kürşad Deniz'in özel düzenlemesiyle yorumlanan Cole Porter imzalı "So in Love" oldu; konserde Sibel Köse Septet'in "In Good Company" albümünden parçalar da yer aldı. Konserin ardından Köse, sanatseverlerle bir araya gelerek plaklarını imzaladı.
-
-Caz Günleri'nin bir sonraki konserinde Duygu Soylu Jazz Band 17 Kasım 2026'da Büyükşehir Belediyesi Sanat ve Kültür Merkezi (EBSKM) Opera Sahnesi'nde sahne alacak.
 
 ---
