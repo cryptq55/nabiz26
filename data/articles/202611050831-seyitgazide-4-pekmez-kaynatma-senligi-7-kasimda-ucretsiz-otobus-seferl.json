@@ -20,10 +20,10 @@
     "title": "Pekmez Kaynatma Şenliği için ücretsiz ulaşım imkanı: Otobüs durakları açıklandı - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/pekmez-kaynatma-senligi-icin-ucretsiz-ulasim-imkani-servis-duraklari-aciklandi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Seyitgazi Taşlık ÇİDEM"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

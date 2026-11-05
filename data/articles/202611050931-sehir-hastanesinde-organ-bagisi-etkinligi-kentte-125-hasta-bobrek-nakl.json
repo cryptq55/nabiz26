@@ -12,17 +12,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-05T09:31:35.161377+00:00",
+  "published_at": "2026-11-05T09:32:09.216525+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehir etkinlik",
     "title": "Eskişehir'de organ bağışı farkındalığı: Hastalar umut bekliyor - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/amp/eskisehir-de-organ-bagisi-farkindaligi--hastalar-umut-bekliyor-297532.html"
   },
-  "photo_pending": {
-    "query": [
-      "Eskişehir Şehir Hastanesi"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/sehir-hastanesinde-organ-bagisi-etkinligi-kentt-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir_%C5%9Eehir_Hastanesi.jpg",
+    "archive": true,
+    "credit": "Zemxer / Wikimedia Commons (CC0)"
   }
 }
