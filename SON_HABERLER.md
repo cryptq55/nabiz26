@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## "Bir Sürü Olsun" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek
+
+**Tarım · Merkez** · 2026-11-05 13:33 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1758/Bir-Suru-Olsun-Projesi-Kapsaminda-Etci-Irk-Sigir-Basvurulari-Basladi)
+
+> Başvurular il veya ilçe tarım müdürlüklerine yapılacak; liste 30 Kasım'da açıklanacak.
+
+Tarım ve Orman Bakanlığı'nın "Bir Sürü Olsun" Projesi kapsamında 2027 yılı etçi ırk hayvan tahsis başvuruları başladı. Eskişehir İl Tarım ve Orman Müdürlüğünün duyurusuna göre üreticiler 4-13 Kasım 2026 tarihleri arasında işletmenin bulunduğu yerdeki il veya ilçe tarım ve orman müdürlüğüne başvurabilecek.
+
+Et ve Süt Kurumu tarafından temin edilecek hayvanlar, 15 gebe dişi etçi ırk sığır ve 1 damızlık erkek sığırdan oluşan 16 başlık gruplar hâlinde sunulacak. Üreticiler bir, iki veya üç grup, yani 16, 32 veya 48 baş için başvurabilecek.
+
+Projeye 18 yaşını dolduran Türkiye Cumhuriyeti vatandaşı gerçek kişiler başvurabilecek; kamu kurum ve kuruluşları, tüzel kişiler, devlet memurları ve diğer kamu görevlileri yararlanamayacak. Başvuru yapılacak işletmenin başvuru sahibi adına TÜRKVET sisteminde kesintisiz en az bir yıldır kayıtlı olması ve toplam büyükbaş kapasitesinin en fazla 200 baş olması gerekiyor.
+
+Başvurular şahsen veya noter onaylı vekâletnameyle yapılabilecek. Başvuruda dilekçe, kimlik fotokopisi, teminat dekontu ve noter onaylı taahhütname istenecek. Başvurulan her hayvan için 3.000 TL teminat yatırılacak.
+
+Başvuru listeleri 18-19 Kasım'da askıya çıkarılacak ve itirazlar alınacak. Asil ve yedek listeler 30 Kasım 2026'da açıklanacak.
+
+---
+
 ## Tepebaşı'nda 7 Kasım'da "Kur'an'da Adalet" söyleşisi yapılacak
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-05 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndakur’an’daadaletsoylesisi)
@@ -448,19 +466,5 @@ Açıklamada hastanenin her geçen yıl hizmet kapasitesini geliştirdiği, sağ
 Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir Esnaf ve Sanatkarlar Odaları Birliği Başkanı Adnan Karamanlı, Eskişehir Kahveciler Odası Başkanı Mehmet Karatay ve kahveci esnafıyla Emirdağlılar Derneği'nde düzenlenen kahvaltıda bir araya geldi. Buluşmada kahvehanelerin işgaliye uygulamaları ele alındı.
 
 Belediyenin aktardığına göre Kurt, Emek Mahallesi'ndeki kahvehanelerin işgaliye durumunu fotoğraflar üzerinden esnafa anlattı, esnafın görüş ve taleplerini dinleyip notlar aldı. Kurt, "Esnafımızın yaşadığı sorunları yerinde görmek, taleplerini dinlemek ve çözüm yollarını birlikte değerlendirmek bizim için önemli" dedi. Kaynakta işgaliye ücretlerine veya alınan bir karara dair ayrıntı yer almıyor.
-
----
-
-## Başkan Ataç LÖSEV heyetini ağırladı: 2-8 Kasım Lösemili Çocuklar Haftası
-
-**Sağlık · Tepebaşı** · 2026-11-04 11:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatac’tanlosemilicocuklaradayanısmamesajıcocuklarımızınyanındaolmakhepimizinsorumlulugu)
-
-![](data/images/b50a9ea9391b2f8d.jpg)
-
-> Ataç, lösemiyle mücadele eden çocuklara dayanışma mesajı verdi.
-
-2-8 Kasım Lösemili Çocuklar Haftası dolayısıyla LÖSEV İl Koordinatörü Yelda İlker ve Kurumsal İletişim Müdürü İrem Dabanlı, Tepebaşı Belediye Başkanı Ahmet Ataç'ı ziyaret etti. Heyetteki çocuklar Çınar, Deniz ve Su, Ataç'a turuncu karanfil taktı.
-
-Ataç, lösemiyle mücadele eden çocukların tedavi sürecinde eğitimden ve çocukluklarından kopmamasının önemini vurguladı. "Çocuklarımızın yanında olmak ve aileleriyle dayanışma göstermek hepimizin sorumluluğu" diyen Ataç, turuncu karanfilin dayanışmanın simgesi olduğunu söyledi, LÖSEV'e ve alanda emek veren sağlık çalışanlarına teşekkür etti.
 
 ---
