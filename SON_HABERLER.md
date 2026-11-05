@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 7 Kasım'da "Kur'an'da Adalet" söyleşisi yapılacak
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-05 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndakur’an’daadaletsoylesisi)
+
+![](data/images/3c1e5e44227133e8.jpg)
+
+> Etkinlik 14.30'da Özdilek Sanat Merkezi'nde ücretsiz.
+
+Tepebaşı Belediyesi'nin "Din, Tarih ve Felsefe Sohbetleri" kapsamında düzenlediği söyleşide ilahiyatçı yazar Akın Karadeniz "Kur'an'da Adalet" konusunu ele alacak.
+
+Etkinlik 7 Kasım Cumartesi günü saat 14.30'da Özdilek Sanat Merkezi Oktay Ekinci Sahnesi'nde ücretsiz olarak yapılacak. Belediye yetkilileri söyleşiye bütün Eskişehirlileri davet etti.
+
+---
+
+## Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı
+
+**Belediye · Tepebaşı** · 2026-11-05 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/esnaftanhizmetetesekkur)
+
+![](data/images/6f81fdfa15296985.jpg)
+
+> Yatırım yüzde 20 büyütüldü; esnaf yol ve çamur sorununun çözülmesinden memnun.
+
+Tepebaşı Belediyesi, BAKSAN Sanayi Sitesi'nde bu yıl için planladığı üstyapı çalışmalarını tamamladı. Belediyenin açıklamasına göre altyapı düzenlemelerinin ardından yol, asfalt ve kaldırım çalışmalarıyla bölgenin ulaşım koşulları yenilendi.
+
+Planlanan yatırım, ihtiyaçlar doğrultusunda keşif artışıyla yüzde 20 büyütüldü; çalışmalar ilk planlamanın yüzde 120'sine ulaştı. Belediye Başkanı Ahmet Ataç, çalışmaların farklı aşamalarında sahada ilerlemeyi yerinde takip etti, Fen İşleri Müdürlüğü yetkililerinden bilgi aldı ve esnafla görüştü.
+
+Esnaftan Göksal Günaydın, çalışmaların uzun sürmesine rağmen kapsamlı bir sürecin yürütüldüğünü ve kış gelmeden tamamlanmasından memnun olduklarını söyledi. Günaydın, BAKSAN'ın özel hukuki statüsünün hizmet sürecini kendine özgü hale getirdiğini, bazı gecikmelerde yönetim yapısından kaynaklanan etkenlerin de bulunduğunu belirtti. Ömer Gürhastan ve Ahmet Yıldız da asfaltın yenilenmesinden ve yıllardır süren yol ile çamur sorununun giderilmesinden memnun olduklarını söyledi.
+
+Belediye, üstyapı çalışmalarının bölgenin ihtiyaçları doğrultusunda etaplar halinde sürdürüleceğini bildirdi.
+
+---
+
+## Kurtuluş Kapalı Pazar Yeri'nde yüzde 80 tamamlandı: Ünlüce çalışmaları yerinde inceledi
+
+**Belediye · Odunpazarı** · 2026-11-05 12:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/kurtulus-kapali-pazar-yerinde-yuzde-80lik-bolum-tamamlandi-unluceden-yerinde-inceleme)
+
+> Yaklaşık 500 milyon TL yatırım bedelli projede kapalı otopark da yer alacak.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Kurtuluş Kapalı Pazar Yeri inşaatında incelemelerde bulunarak çalışmaların son durumu hakkında bilgi aldı. Ünlüce, projenin yüzde 80'inin tamamlandığını belirtti.
+
+Yaklaşık 500 milyon TL yatırım bedeline sahip projede kapalı otoparkın yanı sıra modern pazar alanı, şarküteri ve balıkçı dükkânları ile farklı ihtiyaçlara yönelik özel alanlar yer alacak. Yeni pazar yerinin tamamlanmasıyla vatandaşların daha modern ve konforlu bir ortamda alışveriş yapması, pazarcı esnafının da daha uygun koşullarda hizmet vermesi amaçlanıyor.
+
+Ünlüce, hemşehrilerinin ve pazarcı esnafının uzun süredir beklediği pazar yerini hizmete açmak için çalışmaların hızla sürdüğünü, en kısa sürede tamamlanacağını söyledi.
+
+---
+
+## Bakan Bayraktar 2040 enerji vizyonunu açıkladı: hedef yüzde 36 elektrikleşme
+
+**Ekonomi · Türkiye** · 2026-11-05 12:32 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31962)
+
+![](data/images/1170ddadfeb1c980.jpg)
+
+> Kurulu gücün 2040'ta 281 bin megavata çıkarılması hedefleniyor.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'da yapılacak COP31 öncesinde Milli Enerji 2040 vizyonunu açıkladı. Bayraktar, hedeflerinin Türkiye'yi enerjide bağımsız kılmak olduğunu söyledi.
+
+Bakan Bayraktar, 2040'ta yüzde 36 elektrikleşmeye ulaşılacağını belirtti. Elektrik kurulu gücünün 2025 itibarıyla 123 bin megavat olduğunu, 2040'ta yaklaşık 160 bin megavatlık artışla 281 bin megavata çıkmasının hedeflendiğini aktardı. Yenilenebilirin payının yüzde 63'ten yüzde 77'ye çıkması hedefleniyor; bunun için yaklaşık 190 milyar dolarlık yatırım gerektiği söylendi.
+
+Bayraktar, programı enerji verimliliği, nükleer enerji, yenilenebilir enerji, petrol ve doğal gaz ile madenlerden oluşan beş temel başlık üzerine kurduklarını anlattı. İletim tarafında 36 milyar dolarlık yatırım öngörüldüğünü, yüksek gerilim hatlarının yaklaşık 77 bin kilometreden 112 bin kilometreye çıkarılacağını söyledi. Bakan ayrıca bir megavatın altındaki küçük santrallerin daha yoğun kurulmasını hedeflediklerini belirtti.
+
+---
+
 ## TÜRKPATENT'in IP Öncüleri Projesi Eskişehir'de başladı, 10 okula ulaşılacak
 
 **Eğitim · Odunpazarı** · 2026-11-05 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.alomaliye.com/2026/11/05/turkpatentin-ip-onculeri-projesi-eskisehirde-10-okula-ulasacak/)
@@ -400,59 +462,5 @@ Belediyenin aktardığına göre Kurt, Emek Mahallesi'ndeki kahvehanelerin işga
 2-8 Kasım Lösemili Çocuklar Haftası dolayısıyla LÖSEV İl Koordinatörü Yelda İlker ve Kurumsal İletişim Müdürü İrem Dabanlı, Tepebaşı Belediye Başkanı Ahmet Ataç'ı ziyaret etti. Heyetteki çocuklar Çınar, Deniz ve Su, Ataç'a turuncu karanfil taktı.
 
 Ataç, lösemiyle mücadele eden çocukların tedavi sürecinde eğitimden ve çocukluklarından kopmamasının önemini vurguladı. "Çocuklarımızın yanında olmak ve aileleriyle dayanışma göstermek hepimizin sorumluluğu" diyen Ataç, turuncu karanfilin dayanışmanın simgesi olduğunu söyledi, LÖSEV'e ve alanda emek veren sağlık çalışanlarına teşekkür etti.
-
----
-
-## Kurşunlu Külliyesi mühürlendi, iki habere erişim engeli geldi; Kurt tepki gösterdi
-
-**Gündem · Odunpazarı** · 2026-11-04 09:34 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.anadolugazetesi.com/amp/kazim-kurt-ve-yeni-parti-den-kursunlu-kulliyesi-tepkisi---muhru-de-sansuru-de-kabul-etmiyoruz--297512.html)
-
-![](data/images/kursunlu-kulliyesi-muhurlendi-iki-habere-erisim-arsiv.jpg)
-
-> Haberes'te yayımlanan iki habere Sulh Ceza Hâkimliği kararıyla erişim engeli getirildi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt ve YENİ Parti Odunpazarı İlçe Yönetimi, Kurşunlu Külliyesi'nin mühürlenmesine ve Haberes'in Genel Yayın Yönetmeni Ayhan Aydıner'in külliyeyle ilgili iki haberine erişim engeli getirilmesine tepki gösterdi. Anadolu Gazetesi'nin aktardığına göre YENİ Parti açıklamasında külliyenin Vakıflar Bölge Müdürlüğü ve Odunpazarı Kaymakamlığı nezaretinde mühürlendiği, işlemin mahkeme kararı beklenmeden yapıldığı öne sürüldü.
-
-Aydıner'in 30 Ekim ve 1 Kasım'da Haberes'te yayımlanan "Külliye Olayının Gölgesindeki Rant Çarkı: Vakıflar'dan Adrese Teslim İhaleler!" ve "Yurt İçin Vakıflar'a Bağışlanan Bina Nasıl Lüks Otel Oldu?" başlıklı iki haberi, Eskişehir 3. Sulh Ceza Hâkimliği kararıyla erişime engellendi.
-
-Kurt, gazetecilerin kamu adına soru sorma ve haber yapma hakkının engellenemeyeceğini söyledi: "Gazetecilik suç değildir. Kamu adına soru sormak suç değildir." YENİ Parti ilçe yönetimi de külliyenin mühürlenmesine ve habere getirilen erişim engeline tepki gösterdi, "Gazetecilik suç değildir" dedi.
-
-Haber Kurt'un ve YENİ Parti'nin açıklamalarına dayanıyor; Vakıflar Bölge Müdürlüğü'nün, Kaymakamlığın ve erişim engelini talep edenlerin görüşü kaynakta yer almıyor. Erişim engeline konu haberlerdeki iddiaları bu site doğrulamamıştır.
-
----
-
-## EOSB heyeti yeni açılan Hampton by Hilton Eskişehir'i ziyaret etti
-
-**Ekonomi · Merkez** · 2026-11-04 09:33 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/hampton-by-hilton-eskisehirin-cazibesini-artiracak)
-
-> Eskişehir OSB ile Köksal Şirketler Grubu arasında iş birliği protokolü de imzalanmıştı.
-
-Eskişehir Organize Sanayi Bölgesi (EOSB) Yönetim Kurulu Başkanı Nadir Küpeli ve yönetim kurulu üyeleri, Köksal Şirketler Grubu bünyesinde faaliyet gösteren ve kısa süre önce hizmete açılan Hampton by Hilton Eskişehir'i ziyaret etti. Heyeti Köksal Şirketler Grubu Yönetim Kurulu Başkanı Orhan Köksal ve Yönetim Kurulu Üyesi İlhan Köksal ağırladı; görüşmede otelin fiziki imkânları, konaklama hizmetleri ile toplantı ve organizasyon alanları hakkında bilgi verildi.
-
-Küpeli, otelin şehre gelen iş insanlarının, yatırımcıların ve misafirlerin konaklama ihtiyacına katkı sunacağını, toplantı ve seminer imkânlarıyla iş ve organizasyon turizmine değer katacağını söyledi. Eskişehir OSB ile Köksal Şirketler Grubu arasında geçtiğimiz günlerde imzalanan iş birliği protokolünün de bölgedeki sanayi kuruluşlarının çalışanları ve misafirlerine yönelik olduğunu belirtti.
-
----
-
-## ESOGÜ Yüzme Havuzu'ndaki bakım ve onarım çalışmaları tamamlandı
-
-**Spor · Merkez** · 2026-11-04 08:32 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.anadolugazetesi.com/osmangazi-universitesi-havuzu-yenilendi-297492.html)
-
-> Üniversite, tesislerin yenilenmesine ve geliştirilmesine devam edileceğini açıkladı.
-
-Eskişehir Osmangazi Üniversitesi Yüzme Havuzu'nda bir süredir sürdürülen bakım ve onarım çalışmaları sona erdi. Yenileme çalışmalarıyla tesisin kullanım koşulları iyileştirildi.
-
-Üniversitenin açıklamasında, sporculara ve vatandaşlara daha kaliteli hizmet sunabilmek amacıyla tesislerin yenilenmesine ve geliştirilmesine devam edileceği belirtildi. Kaynakta çalışmaların kapsamı, maliyeti ve havuzun yeniden açılış tarihi konusunda ayrıntı yer almıyor.
-
----
-
-## ESOGÜ Hastanesi'nde Organ Bağışı Haftası için bilgilendirme standı kuruldu
-
-**Sağlık · Merkez** · 2026-11-04 07:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirhaber.com/esogu-hastanesinden-organ-bagisi-icin-anlamli-etkinlik)
-
-> ESOGÜ Hastanesi'nde 2017'den bu yana karaciğer ve böbrek nakli yapılıyor.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ) Sağlık Uygulama ve Araştırma Hastanesi'nde 3-9 Kasım Organ Bağışı Haftası dolayısıyla farkındalık etkinliği düzenlendi. ESOGÜ Tıp Fakültesi Genel Cerrahi Ana Bilim Dalı Transplantasyon Ünitesi'nin kurduğu standda organ bağışının önemi anlatıldı, vatandaşların soruları yanıtlandı. Hasta ve hasta yakınlarına süreç hakkında bilgi verildi, broşür dağıtıldı, bağış yapmak isteyenlere başvuru işlemlerinde yardımcı olundu.
-
-Etkinlikte yapılan açıklamaya göre ESOGÜ Hastanesi'nde 2017'den bu yana karaciğer ve böbrek nakilleri yapılıyor; nakil sonrası taburcu edilen hastalar düzenli kontrollerle izleniyor. Etkinliğe Dr. Öğr. Üyesi Yavuz Selim Angın, Hastane Başmüdürü Ayşe Kırcı, Halkla İlişkiler Sorumlusu Esin Gökalp ile organ nakli koordinatörleri Tarık Uca ve Elif Hiçyılmaz katıldı.
 
 ---
