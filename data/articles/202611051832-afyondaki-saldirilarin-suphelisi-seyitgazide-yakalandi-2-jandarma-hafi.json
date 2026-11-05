@@ -21,10 +21,10 @@
     "title": "Afyonkarahisar'da silahla 8 kişiyi öldüren, 1 kişiyi ağır yaralayan zanlı Eskişehir'de yakalandı - Anadolu Ajansı",
     "url": "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-8-kisiyi-olduren-1-kisiyi-agir-yaralayan-zanli-eskisehirde-yakalandi/4113099"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Emniyet Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
