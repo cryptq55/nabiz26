@@ -21,10 +21,10 @@
     "title": "ODUNPAZARI İLÇE MİLLÎ EĞİTİM MÜDÜRLÜĞÜ’NDEN USAEM’E ZİYARET - Yozgat Gazetesi",
     "url": "https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-ilce-milli-egitim-mueduerluegue-nden-usaem-e-ziyaret-301176.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Uçucu Sağlığı Araştırma ve Eğitim Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

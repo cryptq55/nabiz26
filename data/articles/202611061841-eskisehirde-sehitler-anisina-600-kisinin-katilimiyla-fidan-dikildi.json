@@ -20,11 +20,11 @@
     "title": "Eskişehir'de şehitlerin anısına fidan dikildi | Son dakika haberleri - Habertürk",
     "url": "https://www.haberturk.com/gundem/eskisehir-de-sehitlerin-anisina-fidan-dikildi-3925464"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir fidan dikimi",
       "Eskişehir Valiliği"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -21,11 +21,11 @@
     "title": "06Kas2026 Eskişehir Teknik Üniversitesinde Sıtma Farkındalık Eğitimi Düzenlendi Tepebaşı İlçe Sağlık Müdürlüğü iş birliğiyle 6 Kasım 2026 tarihinde gerçekleştirilen eğitim, Dr. Fatih Köse, Ebe Hacer Atabay ve Hemşire Hayriye Tatlı…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-sitma-farkindalik-egitimi-duzenlendi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi",
       "sağlık eğitimi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

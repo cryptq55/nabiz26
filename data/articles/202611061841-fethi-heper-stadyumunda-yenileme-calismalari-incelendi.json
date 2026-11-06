@@ -21,11 +21,11 @@
     "title": "Eskişehirspor Fethi Heper Stadyumu yenileniyor - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirspor-fethi-heper-stadyumu-yenileniyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor Prof Dr Fethi Heper Stadyumu",
       "Eskişehir Gençlik ve Spor İl Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
