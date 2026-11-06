@@ -2,6 +2,116 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu
+
+**Spor · Merkez** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://bodrumolay.com/bodrum-fknin-turkiye-kupasindaki-rakibi-eskisehirspor-oldu/)
+
+![](data/images/41e00c82de33d9b6.jpg)
+
+> Ziraat Türkiye Kupası 4. eleme turu kura çekimi sonucunda Eskişehirspor, Bodrum FK'nın rakibi oldu.
+
+Ziraat Türkiye Kupası 2026-2027 sezonu 4. eleme turu kura çekimi, Türkiye Futbol Federasyonunun Riva’daki Hasan Doğan Millî Takımlar Kamp ve Eğitim Tesisleri’nde yapıldı.
+
+Kulüp temsilcilerinin katılımıyla gerçekleştirilen kura çekimi sonucunda Eskişehirspor, Bodrum FK ile eşleşti. Tek maç eleme usulüne göre oynanacak müsabakada Bodrum FK, Eskişehir temsilcisini sahasında ağırlayacak.
+
+Karşılaşmanın 1, 2 veya 3 Aralık 2026 tarihlerinden birinde oynanması planlanırken, maçın kesin saati ve stadyum bilgisi TFF tarafından ilan edilecek. Normal sürenin berabere bitmesi durumunda uzatmalara, eşitlik bozulmazsa penaltı atışlarına geçilecek.
+
+---
+
+## TÜKDES'ten Sivil Toplum Merkezi'nde sağlıklı yaşam ve otlar söyleşisi
+
+**Sağlık · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-sivil-toplum-destekleme-merkezi-nde-saglikli-yasam-bulusmasi-f1a1e3c6)
+
+> Eskişehir'de TÜKDES tarafından düzenlenen "Yenen Otlar ve Sağlıklı Hayat" söyleşisinde yenilebilir yabani otların beslenmedeki önemi ele alındı.
+
+Eskişehir Büyükşehir Belediyesi Sivil Toplum Destekleme Merkezi, sivil toplum kuruluşlarının etkinliklerine ev sahipliğini sürdürüyor. Bu kapsamda Tüketiciyi Destekleme Derneği (TÜKDES) tarafından merkezde "Yenen Otlar ve Sağlıklı Hayat" başlıklı bir söyleşi gerçekleştirildi.
+
+TÜKDES Danışma Kurulu Üyesi Prof. Dr. Ersin Yücel'in konuşmacı olarak katıldığı etkinlikte, doğada kendiliğinden yetişen şifalı ve yenilebilir yabani otların insan sağlığı üzerindeki etkileri değerlendirildi. Doğru bitki tüketimi, beslenme kültürüne katkıları ve sağlıklı yaşam alışkanlıklarının günlük hayata nasıl entegre edileceği katılımcılara aktarıldı. Program, soru-cevap bölümüyle tamamlandı.
+
+Öte yandan, yoğun ilgi gören söyleşinin 14 Kasım 2026 Cumartesi günü saat 14.00'te aynı adreste tekrar düzenleneceği bildirildi. Ücretsiz olarak gerçekleştirilecek etkinliğe katılmak veya bilgi almak isteyen vatandaşlar, Arifiye Mahallesi İki Eylül Caddesi'ndeki merkeze başvurabilecek.
+
+---
+
+## Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi
+
+**Belediye · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-71-evler-de-kapsamli-yol-calismasi)
+
+![](data/images/2ce06ae088e80df1.jpg)
+
+> Odunpazarı Belediyesi, 71 Evler Mahallesi'nde 26 sokakta 33 bin 600 metrekarelik yol ve 7 bin 300 metrekarelik tretuvar düzenleme çalışmalarını sürdürüyor.
+
+Odunpazarı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki altyapı ve ulaşım yatırımlarını sürdürüyor. Çalışmalar kapsamında 71 Evler Mahallesi'nde yer alan 26 sokakta yol bakım, onarım, asfalt serimi ve kaldırım düzenleme işlemleri hız kazandı. Mahallede toplam 33 bin 600 metrekarelik yol alanı ile 7 bin 300 metrekarelik tretuvar alanı yenileniyor.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, mahalleyi ziyaret ederek devam eden çalışmaları yerinde inceledi ve ekiplerden bilgi aldı. Mahalle sakinlerinin daha konforlu ve güvenli koşullarda ulaşım sağlamasını hedeflediklerini belirten Başkan Kurt, ihtiyaçları yakından takip ettiklerini vurguladı.
+
+Başkan Kurt incelemelerin ardından yaptığı değerlendirmede, "71 Evler Mahallemizde devam eden yol çalışmalarımızı yerinde inceledik. Fen İşleri Müdürlüğü ekiplerimiz asfalt serimi, yol bakım ve onarımı ile kaldırım düzenlemelerini sürdürüyor. Mahallelerimizin ihtiyaçlarını biliyoruz. Hemşehrilerimizin daha güvenli ve konforlu yollarda ulaşım sağlaması için çalışmalarımızı titizlikle yürütüyoruz. Emek veren tüm çalışma arkadaşlarıma teşekkür ediyorum" ifadelerini kullandı.
+
+---
+
+## Odunpazarı Belediyesi'nden 71 Evler'de 33 bin metrekarelik yol mesaisi
+
+**Belediye · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-belediyesi-nden-71-evler-de-kapsamli-yol-calismasi-300951.html)
+
+> Odunpazarı Belediyesi, 71 Evler Mahallesi'nde 26 sokakta asfalt serimi, bakım ve kaldırım çalışmalarına devam ediyor.
+
+Odunpazarı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki altyapı ve ulaşım yatırımlarını sürdürüyor. Bu kapsamda 71 Evler Mahallesi'nde başlatılan kapsamlı çalışmalarla yollar ve kaldırımlar yenileniyor.
+
+Mahalle genelinde toplam 26 sokağı kapsayan projede, 33 bin 600 metrekarelik yol alanı ile 7 bin 300 metrekarelik tretuvar alanında düzenleme yapılıyor. Ekipler bir yandan asfalt serimi gerçekleştirirken, diğer yandan yol bakım ve onarım faaliyetlerini yürütüyor.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, mahalledeki çalışmaları yerinde inceleyerek Fen İşleri Müdürlüğü ekiplerinden bilgi aldı. Vatandaşların daha güvenli ve konforlu bir ulaşım sağlamasını amaçladıklarını belirten Başkan Kurt, mahallelerin ihtiyaçlarını yakından takip ettiklerini ifade etti.
+
+Çalışmaların titizlikle devam ettiğini kaydeden Başkan Kurt, emek veren tüm personele teşekkür etti.
+
+---
+
+## MEB'de COP31 hazırlıkları: Türkiye İklim Okulu masaya yatırıldı
+
+**Eğitim · Türkiye** · 2026-11-06 12:59 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/milli-egitim-bakanliginda-cop31-oncesi-son-hazirliklar-degerlendirildi/haber/42423/tr)
+
+![](data/images/c9962b50a95c1199.jpg)
+
+> Millî Eğitim Bakanlığında düzenlenen toplantıda, Antalya'da yapılacak COP31 konferansı kapsamında Türkiye İklim Okulu'nda gerçekleştirilecek etkinlikler ve hazırlıklar ele alındı.
+
+Millî Eğitim Bakanlığında, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında Antalya'da düzenlenecek 31. Taraflar Konferansı (COP31) hazırlıkları gözden geçirildi. Bakan Yardımcısı Ökten'in katılımıyla gerçekleştirilen toplantıda, birimlerin sorumluluk alanlarındaki çalışmalar ve etkinlik takvimi değerlendirildi.
+
+Toplantının ana gündem maddelerinden biri, COP31 Yeşil Bölge'de ziyaretçilerini ağırlayacak Türkiye İklim Okulu'nda yapılacak etkinlikler oldu. İklim okuryazarlığı, sıfır atık, yenilenebilir enerji ve çevre dostu teknolojiler gibi başlıklar altında düzenlenecek programlar ile öğrenci projelerinin ziyaretçilerle buluşturulması için yürütülen çalışmalar ele alındı.
+
+Bakanlık birimleri, hazırlık süreçleri ve uluslararası iş birliğiyle gerçekleştirilecek faaliyetler hakkında bilgi verdi. Toplantıda, "Gençlik ve Eğitim" tema alanının uluslararası düzeyde etkili biçimde temsil edilmesi amacıyla koordinasyonun sürdürüleceği vurgulandı.
+
+---
+
+## Başkan Ataç, AB platformunda Tepebaşı'nın iklim modelini anlattı
+
+**Belediye · Tepebaşı** · 2026-11-06 12:59 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatactepebası’nıniklimmodeliniavrupabirligiplatformundaanlattı)
+
+![](data/images/f6d5a3fa4eb4fbae.jpg)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, Ankara'daki AB Bölgeler Komitesi toplantısında ilçenin iklim projelerini paylaştı, COP31 öncesi yerel yönetimler için doğrudan finansman çağrısı yaptı.
+
+Avrupa Birliği Bölgeler Komitesi (CoR) Türkiye Çalışma Grubu'nun 35. toplantısı Ankara'da gerçekleştirildi. Toplantıya katılan Tepebaşı Belediye Başkanı Ahmet Ataç, Tepebaşı'nın iklim alanındaki uygulamalarını aktararak COP31 öncesinde yerel yönetimlerin karar süreçlerine katılması ve finansmana doğrudan erişmesi gerektiğini vurguladı.
+
+Toplantıda konuşan Başkan Ataç, küresel iklim hedeflerinin kentlerde enerji verimliliği, su tasarrufu ve temiz ulaşım yatırımlarıyla hayata geçirildiğini belirtti. Tepebaşı Belediyesi'nin 2013 yılında Başkanlar Sözleşmesi'ne taraf olduğunu ve çalışmaların Sürdürülebilir Enerji ve İklim Eylem Planı (SECAP) ile yürütüldüğünü ifade eden Ataç, 2030'a kadar sera gazı emisyonlarının yüzde 40 oranında azaltılmasının hedeflendiğini kaydetti. Belediye hizmet binası ve Mustafa Kemal Atatürk Su Sporları Merkezi'ndeki güneş enerjisi ve su verimliliği uygulamalarıyla önemli tasarruflar sağlandığını dile getirdi.
+
+Ufuk 2020 Programı kapsamındaki REMOURBAN projesine de değinen Ataç, Melih Savaş Yaşam Köyü'nde enerji verimliliği, yenilenebilir enerji ve sürdürülebilir ulaşım uygulamalarının bir araya getirildiğini belirtti. Projede enerji tasarrufunun yüzde 53'e, karbon emisyonlarındaki azalmanın ise yüzde 63'e ulaştığını aktaran Ataç, yatırımların Alzheimer Konukevi ve sosyal hizmetlerle bütünleştirildiğini ifade etti.
+
+Konuşmasında iklim finansmanında başvuru süreçlerinin kolaylaştırılması ve teknik desteğin artırılması gerektiğine dikkat çeken Başkan Ataç, "COP31'den beklentimiz; yerel yönetimlerin finansmana doğrudan erişmesi, kararlara katılması ve başarılı uygulamaların yaygınlaşmasıdır. Tepebaşı olarak yeni iş birliklerine hazırız" dedi.
+
+---
+
+## Ataç: Yerel yönetimler iklim kararlarına katılmalı ve finansmana erişmeli
+
+**Belediye · Tepebaşı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentin-iklim-modelini-avrupa-birligi-platformunda-anlatti-5d179552)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, AB Bölgeler Komitesi toplantısında kentin iklim modelini anlatarak, COP31 öncesi yerel yönetimlerin güçlendirilmesi ve doğrudan finansman desteği alması gerektiğini vurguladı.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, Avrupa Birliği Bölgeler Komitesi (CoR) Türkiye Çalışma Grubu'nun Ankara'da düzenlenen 35'inci toplantısına katıldı. Toplantıda kentin iklim alanındaki uygulamalarını paylaşan Ataç, COP31 hazırlık sürecinde yerel yönetimlerin karar süreçlerinde etkin rol almasının ve finansmana doğrudan erişmesinin şart olduğuna dikkat çekti.
+
+Konuşmasında Tepebaşı Belediyesi'nin yürüttüğü projelere değinen Başkan Ataç, 2013 yılında Başkanlar Sözleşmesi'ne taraf olduklarını ve Sürdürülebilir Enerji ve İklim Eylem Planı (SECAP) kapsamında 2030'a kadar sera gazı emisyonlarını yüzde 40 oranında azaltmayı hedeflediklerini belirtti. Belediye hizmet binasında ve Mustafa Kemal Atatürk Su Sporları Merkezi'nde güneş enerjisi ile yağmur suyu toplama sistemleri kullanıldığını aktaran Ataç, su verimliliği uygulamalarıyla önemli tasarruflar elde edildiğini kaydetti.
+
+AB Ufuk 2020 Programı kapsamındaki REMOURBAN projesinin Melih Savaş Yaşam Köyü'nde hayata geçirildiğini hatırlatan Ataç; projede enerji tasarrufunun yüzde 53'e, karbon emisyonlarındaki azalmanın ise yüzde 63'e ulaştığını ifade etti. İklim yatırımlarının Alzheimer Konukevi, Engelliler Montaj Atölyesi ve belde evleri gibi sosyal hizmetlerle bütünleştirildiğini belirten Ataç, yerel yönetimlerin uygun eş finansman olanaklarıyla desteklenmesi gerektiğini yineledi.
+
+---
+
 ## Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL
 
 **Ekonomi · Merkez** · 2026-11-06 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -361,121 +471,5 @@ Anadolu Üniversitesi Sürekli Eğitim Merkezi (ANADOLUSEM) tarafından yürüt�
 Herkesin başvurusuna açık programlar uzaktan eğitim olarak sunuluyor. Katılımcılar, Anadolum eKampüs Sistemi üzerinden dijital ders materyallerinden yararlanıyor. Sağlıktan iletişime, işletmeden turizme, siyasetten çocuk gelişimine, yabancı dillerden bilişim teknolojilerine kadar geniş bir yelpazede sunulan programlarda bir ila üç arasında ders bulunuyor ve ders kitapları dijital ortamda veriliyor.
 
 2026 Güz Dönemi e-Sertifika Programlarının dersleri 9 Kasım 2026'da başlayacak. Ayrıntılı bilgiler esertifika.anadolu.edu.tr adresinde yer alıyor.
-
----
-
-## Tepebaşı Belediyesi asfaltı kendi imkânlarıyla yapacak: meclis makine alımını kabul etti
-
-**Belediye · Tepebaşı** · 2026-11-05 14:33 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/tepebasi-belediyesi-asfalt-calismalarini-kendi-imkanlariyla-yapacak-meclisten-oy-birligiyle-gecti)
-
-> Meclis, asfalt serme makinesi, silindir ve dorse alımını oy birliğiyle onayladı.
-
-Tepebaşı Belediyesi, asfalt kaplama ve yol bakım çalışmalarını kendi imkânlarıyla yapabilmek için yeni iş makineleri alacak. Fen İşleri Müdürlüğünün hazırladığı teklif, belediye meclisinin ikinci toplantısında oy birliğiyle kabul edildi.
-
-Müdürlüğün yazısında, mevcut makine parkında asfalt serme makinesi, lastik tekerlekli silindir ve havuz tipi dorse bulunmadığı, bu nedenle asfalt kaplama ve yama çalışmalarının ihaleyle yüklenici firmalara yaptırıldığı belirtildi. Dışarıdan hizmet alınmasının maliyetleri artırdığı, piyasa fiyatlarındaki yükselişin yol yapım, bakım ve onarım bütçesini olumsuz etkileyebileceği kaydedildi.
-
-Kabul edilen teklifle bir asfalt serme makinesi, bir lastik tekerlekli silindir ve bir havuz tipi dorse alınması planlanıyor. Araçların mevcut bütçe ödeneğiyle alınması öngörülüyor. Belediye, dışarıdan hizmet alma ihtiyacını azaltmayı, yol onarımlarına daha kısa sürede müdahale etmeyi ve uzun vadede tasarruf sağlamayı hedefliyor.
-
----
-
-## Kahveciler Odası Başkanı Karatay: Kahvehanelerde çay yılbaşından itibaren 20 lira olacak
-
-**Ekonomi · Odunpazarı** · 2026-11-05 14:33 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/karatay-acikladi-kahvehanelerde-caya-zam-geliyor)
-
-![](data/images/39aba367c1cd620d.jpg)
-
-> Karatay, çayın 15 liradan 20 liraya çıkacağını söyledi.
-
-Eskişehir Kahveciler Odası Başkanı Mehmet Karatay, kahvehane esnafının sorunları ve yeni fiyat tarifesi hakkında açıklama yaptı. Karatay'a göre her yıl ekim ayında belirlenen fiyat tarifesi bu yıl ertelendi; yeni tarife için üst birliğe başvurdular ancak bir süre beklemeleri istendi ve mevcut tarifenin süresi uzatıldı.
-
-Yönetim olarak yeni fiyat konusunda karar aldıklarını söyleyen Karatay, şu anda işletmelerde 15 liraya satılan çayın fiyatını 20 liraya güncelleyeceklerini belirtti. Karatay, yeni tarifenin yılbaşından itibaren uygulanmaya başlayacağını söyledi. Kahvehane esnafının artan maliyetler nedeniyle zor bir dönemden geçtiğini de kaydetti.
-
-Karatay ayrıca Odunpazarı'nda Emek Mahallesi'ndeki muhtarlığın bulunduğu parkın arkasında sıralanan yaklaşık 9 kahvehanenin işgaliye sorununu Odunpazarı Belediye Başkanı Kazım Kurt ile görüştüklerini anlattı. İşletmelerin daha düzenli bir görünüme kavuşması için yeni bir çalışma yapılacağını, düzenlemenin yaya geçişini engellemeyecek şekilde olacağını ve geçici işgaliye izinlerinin bu yıl da uzatıldığını söyledi.
-
----
-
-## Altın fiyatları 5 Kasım 2026: Gram altın 6.675,49 TL
-
-**Ekonomi · Merkez** · 2026-11-05 13:44 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261105.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.604,75 TL'den alınıyor, 6.675,49 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 16.44 itibarıyla verilerine göre gram altının satış fiyatı 6.675,49 TL, alış fiyatı 6.604,75 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,32 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.880 TL, yarım altın 21.754 TL, tam altın 43.347 TL, ata altın 44.512 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.235,94 TL, has altının gram fiyatı 6.655,26 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.121,40 dolardan işlem görürken, dolar/TL 50,10 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 16.44 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## "Bir Sürü Olsun" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek
-
-**Tarım · Merkez** · 2026-11-05 13:33 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1758/Bir-Suru-Olsun-Projesi-Kapsaminda-Etci-Irk-Sigir-Basvurulari-Basladi)
-
-![](data/images/bir-suru-olsun-projesinde-etci-irk-sigir-basvur-arsiv.jpg)
-
-> Başvurular il veya ilçe tarım müdürlüklerine yapılacak; liste 30 Kasım'da açıklanacak.
-
-Tarım ve Orman Bakanlığı'nın "Bir Sürü Olsun" Projesi kapsamında 2027 yılı etçi ırk hayvan tahsis başvuruları başladı. Eskişehir İl Tarım ve Orman Müdürlüğünün duyurusuna göre üreticiler 4-13 Kasım 2026 tarihleri arasında işletmenin bulunduğu yerdeki il veya ilçe tarım ve orman müdürlüğüne başvurabilecek.
-
-Et ve Süt Kurumu tarafından temin edilecek hayvanlar, 15 gebe dişi etçi ırk sığır ve 1 damızlık erkek sığırdan oluşan 16 başlık gruplar hâlinde sunulacak. Üreticiler bir, iki veya üç grup, yani 16, 32 veya 48 baş için başvurabilecek.
-
-Projeye 18 yaşını dolduran Türkiye Cumhuriyeti vatandaşı gerçek kişiler başvurabilecek; kamu kurum ve kuruluşları, tüzel kişiler, devlet memurları ve diğer kamu görevlileri yararlanamayacak. Başvuru yapılacak işletmenin başvuru sahibi adına TÜRKVET sisteminde kesintisiz en az bir yıldır kayıtlı olması ve toplam büyükbaş kapasitesinin en fazla 200 baş olması gerekiyor.
-
-Başvurular şahsen veya noter onaylı vekâletnameyle yapılabilecek. Başvuruda dilekçe, kimlik fotokopisi, teminat dekontu ve noter onaylı taahhütname istenecek. Başvurulan her hayvan için 3.000 TL teminat yatırılacak.
-
-Başvuru listeleri 18-19 Kasım'da askıya çıkarılacak ve itirazlar alınacak. Asil ve yedek listeler 30 Kasım 2026'da açıklanacak.
-
----
-
-## Tepebaşı'nda 7 Kasım'da "Kur'an'da Adalet" söyleşisi yapılacak
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-05 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndakur’an’daadaletsoylesisi)
-
-![](data/images/3c1e5e44227133e8.jpg)
-
-> Etkinlik 14.30'da Özdilek Sanat Merkezi'nde ücretsiz.
-
-Tepebaşı Belediyesi'nin "Din, Tarih ve Felsefe Sohbetleri" kapsamında düzenlediği söyleşide ilahiyatçı yazar Akın Karadeniz "Kur'an'da Adalet" konusunu ele alacak.
-
-Etkinlik 7 Kasım Cumartesi günü saat 14.30'da Özdilek Sanat Merkezi Oktay Ekinci Sahnesi'nde ücretsiz olarak yapılacak. Belediye yetkilileri söyleşiye bütün Eskişehirlileri davet etti.
-
----
-
-## Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı
-
-**Belediye · Tepebaşı** · 2026-11-05 12:32 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/esnaftanhizmetetesekkur)
-
-![](data/images/6f81fdfa15296985.jpg)
-
-> Yatırım yüzde 20 büyütüldü; esnaf yol ve çamur sorununun çözülmesinden memnun.
-
-Tepebaşı Belediyesi, BAKSAN Sanayi Sitesi'nde bu yıl için planladığı üstyapı çalışmalarını tamamladı. Belediyenin açıklamasına göre altyapı düzenlemelerinin ardından yol, asfalt ve kaldırım çalışmalarıyla bölgenin ulaşım koşulları yenilendi.
-
-Planlanan yatırım, ihtiyaçlar doğrultusunda keşif artışıyla yüzde 20 büyütüldü; çalışmalar ilk planlamanın yüzde 120'sine ulaştı. Belediye Başkanı Ahmet Ataç, çalışmaların farklı aşamalarında sahada ilerlemeyi yerinde takip etti, Fen İşleri Müdürlüğü yetkililerinden bilgi aldı ve esnafla görüştü.
-
-Esnaftan Göksal Günaydın, çalışmaların uzun sürmesine rağmen kapsamlı bir sürecin yürütüldüğünü ve kış gelmeden tamamlanmasından memnun olduklarını söyledi. Günaydın, BAKSAN'ın özel hukuki statüsünün hizmet sürecini kendine özgü hale getirdiğini, bazı gecikmelerde yönetim yapısından kaynaklanan etkenlerin de bulunduğunu belirtti. Ömer Gürhastan ve Ahmet Yıldız da asfaltın yenilenmesinden ve yıllardır süren yol ile çamur sorununun giderilmesinden memnun olduklarını söyledi.
-
-Belediye, üstyapı çalışmalarının bölgenin ihtiyaçları doğrultusunda etaplar halinde sürdürüleceğini bildirdi.
-
----
-
-## Kurtuluş Kapalı Pazar Yeri'nde yüzde 80 tamamlandı: Ünlüce çalışmaları yerinde inceledi
-
-**Belediye · Odunpazarı** · 2026-11-05 12:32 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/kurtulus-kapali-pazar-yerinde-yuzde-80lik-bolum-tamamlandi-unluceden-yerinde-inceleme)
-
-> Yaklaşık 500 milyon TL yatırım bedelli projede kapalı otopark da yer alacak.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Kurtuluş Kapalı Pazar Yeri inşaatında incelemelerde bulunarak çalışmaların son durumu hakkında bilgi aldı. Ünlüce, projenin yüzde 80'inin tamamlandığını belirtti.
-
-Yaklaşık 500 milyon TL yatırım bedeline sahip projede kapalı otoparkın yanı sıra modern pazar alanı, şarküteri ve balıkçı dükkânları ile farklı ihtiyaçlara yönelik özel alanlar yer alacak. Yeni pazar yerinin tamamlanmasıyla vatandaşların daha modern ve konforlu bir ortamda alışveriş yapması, pazarcı esnafının da daha uygun koşullarda hizmet vermesi amaçlanıyor.
-
-Ünlüce, hemşehrilerinin ve pazarcı esnafının uzun süredir beklediği pazar yerini hizmete açmak için çalışmaların hızla sürdüğünü, en kısa sürede tamamlanacağını söyledi.
 
 ---
