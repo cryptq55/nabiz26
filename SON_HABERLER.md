@@ -2,6 +2,64 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım
+
+**Eğitim · Türkiye** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://gazetekalem.com.tr/genclik-ve-spor-bakanligi-burs-ve-ogrenim-kredisi-basvuru-sonuclarini-acikladi/)
+
+![](data/images/16b1e26d30e8e2a3.jpg)
+
+> Gençlik ve Spor Bakanlığı burs ve öğrenim kredisi başvuru sonuçları duyuruldu. Öğrencilerin taahhütnamelerini e-Devlet üzerinden onaylaması gerekiyor.
+
+Gençlik ve Spor Bakanlığı (GSB) tarafından yürütülen burs ve öğrenim kredisi başvuru sonuçları ilan edildi.
+
+Gençlik ve Spor Bakanı Osman Aşkın Bak, sosyal medya hesabı üzerinden yaptığı açıklamada sonuçların açıklandığını belirterek öğrencilere başarı dileklerini iletti.
+
+Bakan Bak, başvuru sonucu hak kazanan öğrencilerin 11 Kasım saat 23.59’a kadar e-Devlet üzerinden taahhütnamelerini onaylamaları gerektiğini vurguladı.
+
+---
+
+## ESTÜ mensupları "Ortak Gelecekte Biriz" kampanyasında yer aldı
+
+**Eğitim · Tepebaşı** · 2026-11-06 08:49 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-mensuplari-ortak-gelecekte-biriz-iletisim-kampanyasi-lansmanina-katildi)
+
+> Cumhurbaşkanlığı İletişim Başkanlığı'nın düzenlediği "Ortak Gelecekte Biriz İletişim Kampanyası" lansmanına Eskişehir Teknik Üniversitesi de katıldı.
+
+Cumhurbaşkanlığı İletişim Başkanlığı tarafından hayata geçirilen "Ortak Gelecekte Biriz İletişim Kampanyası"nın lansman programı gerçekleştirildi. Düzenlenen programa Eskişehir Teknik Üniversitesi (ESTÜ) mensupları da katılım sağladı.
+
+5 Kasım 2026 tarihinde yapılan programa, ESTÜ Bilişim Teknolojileri Meslek Yüksekokulu öğretim elemanı Öğr. Gör. Dr. Gökben Karaağaç ile Kurumsal İletişim Koordinatörlüğünden İhsan Tarık Çelik katıldı. Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran'ın da iştirak ettiği programda, toplumsal dayanışmanın güçlendirilmesi, ortak gelecek bilincinin pekiştirilmesi ve kesimler arası diyalog konuları ele alındı.
+
+Lansmanda, kampanyanın temel amaçları ile önümüzdeki dönemde hayata geçirilmesi planlanan faaliyetler hakkında katılımcılara ayrıntılı bilgi verildi.
+
+---
+
+## Eskişehirsporlu eski futbolcular seçimli genel kurula gidiyor
+
+**Spor · Tepebaşı** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporlu-eski-futbolcular-secimli-genel-kurula-gidiyor)
+
+> Eskişehirsporlu Profesyonel Futbolcular Dayanışma Derneği, seçimli genel kurulunu 19 Kasım'da gerçekleştirecek.
+
+Eskişehirspor'da geçmiş yıllarda forma giymiş profesyonel futbolcuları bir araya getiren Eskişehirsporlu Profesyonel Futbolcular Dayanışma Derneği, seçimli genel kurul hazırlıklarını sürdürüyor. Dernek yönetim kurulu tarafından yapılan açıklamaya göre, genel kurul 19 Kasım 2026 Perşembe günü saat 18.30'da Tepebaşı Belediyesi Özdilek Sanat Merkezi'nde yapılacak.
+
+İlk toplantıda çoğunluğun sağlanamaması durumunda ikinci buluşma 26 Kasım 2026 Perşembe günü aynı yer ve saatte gerçekleştirilecek. Dernek yönetimi, yapılacak seçimlerin üyeler arasındaki dayanışmayı güçlendirmesini ve kulübün tarihine sahip çıkılmasını hedefliyor.
+
+Yönetim kurulundan yapılan açıklamada, Eskişehirspor'un kentin ortak değeri olduğuna dikkat çekilerek, tüm üyeler genel kurula davet edildi.
+
+---
+
+## Eskişehir'de hafta sonu kültür-sanat maratonu: Konser ve tiyatrolar
+
+**Kültür-Sanat · Merkez** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.dogayidinle.com/etkinlikler/eskisehir-6-8-kasim-konserleri-emre-aydin-ceren-gundogdu-no-land-ve-ertelenen-konser/9877)
+
+> Eskişehir'de 6-8 Kasım tarihlerinde Emre Aydın, Ceren Gündoğdu ve No Land konserlerinin yanı sıra çok sayıda tiyatro oyunu sanatseverlerle buluşacak.
+
+Eskişehir, kasım ayının ilk hafta sonunda konserler, tiyatro oyunları ve geleneksel etkinliklerle hareketli bir döneme giriyor. Kent genelindeki farklı sahnelerde müzik ve tiyatro buluşmaları izleyicilere yoğun bir program sunuyor.
+
+Türk rock müziğinin sevilen isimlerinden Emre Aydın, cuma akşamı Milyon Performance Hall'da sahne alırken, Ceren Gündoğdu Runa Stage Art Cafe'de akustik performansıyla dinleyici karşısına çıkacak. Pazar günü ise No Land, F/Stop Salon'da müzikseverlerle buluşacak. Hafta sonu takviminde ayrıca Turgut Özakman'ın "Kanaviçe" oyunu ile "Mi Rosa Sonradan Arabesk Olan Müzikal" gibi yapımlar da sahnelenecek.
+
+Öte yandan, 7 Kasım'da Milyon Performance Hall'da yapılması planlanan Manuş Baba konseri ertelendi. Etkinliklere katılmak isteyenler bilet satış platformları üzerinden güncel programları takip edebilecek.
+
+---
+
 ## Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi
 
 **Siyaset · Türkiye** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - CHP](https://www.dha.com.tr/politika/ozgur-ozel-bulent-ecevitin-kabrini-ziyaret-etti-2975595)
@@ -415,71 +473,5 @@ Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'da yapılacak COP
 Bakan Bayraktar, 2040'ta yüzde 36 elektrikleşmeye ulaşılacağını belirtti. Elektrik kurulu gücünün 2025 itibarıyla 123 bin megavat olduğunu, 2040'ta yaklaşık 160 bin megavatlık artışla 281 bin megavata çıkmasının hedeflendiğini aktardı. Yenilenebilirin payının yüzde 63'ten yüzde 77'ye çıkması hedefleniyor; bunun için yaklaşık 190 milyar dolarlık yatırım gerektiği söylendi.
 
 Bayraktar, programı enerji verimliliği, nükleer enerji, yenilenebilir enerji, petrol ve doğal gaz ile madenlerden oluşan beş temel başlık üzerine kurduklarını anlattı. İletim tarafında 36 milyar dolarlık yatırım öngörüldüğünü, yüksek gerilim hatlarının yaklaşık 77 bin kilometreden 112 bin kilometreye çıkarılacağını söyledi. Bakan ayrıca bir megavatın altındaki küçük santrallerin daha yoğun kurulmasını hedeflediklerini belirtti.
-
----
-
-## TÜRKPATENT'in IP Öncüleri Projesi Eskişehir'de başladı, 10 okula ulaşılacak
-
-**Eğitim · Odunpazarı** · 2026-11-05 11:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.alomaliye.com/2026/11/05/turkpatentin-ip-onculeri-projesi-eskisehirde-10-okula-ulasacak/)
-
-> Anadolu, Osmangazi ve Teknik Üniversite öğrencileri sınai mülkiyet bilincini okullara aktaracak.
-
-Türk Patent ve Marka Kurumu (TÜRKPATENT) ile Avrupa Patent Ofisi iş birliğinde geliştirilen IP Öncüleri Projesi'nin Eskişehir programı, Anadolu Üniversitesi Yunus Emre Kampüsü'nde düzenlenen törenle başladı. Açılışa TÜRKPATENT ve üniversite yöneticileri, akademisyenler ve öğrenciler katıldı.
-
-Eskişehir'deki uygulamada Anadolu Üniversitesi, Eskişehir Osmangazi Üniversitesi ve Eskişehir Teknik Üniversitesi öğrencileri "IP Öncüsü" olarak görev yapacak. Sınai mülkiyet eğitimi alan üniversite öğrencileri, edindikleri bilgileri Millî Eğitim Bakanlığına bağlı 10 okuldaki ortaokul ve lise öğrencilerine aktaracak. Projeyle gençlerin yenilikçi düşünme, üretme ve buluş geliştirme süreçlerine erken yaşta katılması hedefleniyor.
-
-Programda sunum yapan TÜRKPATENT Başkanı, üniversitelerdeki bilimsel çalışmaların patentlere dönüşmesinin önemine dikkat çekti. Sunumda Türkiye'nin yerli patent başvurularında dünyada 10'uncu, yerli marka başvurularında 6'ncı ve yerli tasarım başvurularında 3'üncü sırada olduğu belirtildi.
-
-Proje geçen yıl Ankara'da 12 üniversitenin katılımıyla yürütülmüş; 21 okulda 5 bin öğrenciye sınai mülkiyet farkındalığı eğitimi verilmişti. Eskişehir programının sonunda katılımcılara sertifikaları verildi; patent ve faydalı model tescili bulunan akademisyenlere de teşekkür belgesi sunuldu.
-
----
-
-## Odunpazarı'nda Yunus buğdayı üretici buluşması: Ziraat Odası çiftçiye destek çağrısı yaptı
-
-**Tarım · Odunpazarı** · 2026-11-05 11:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://eskisehirdurum.com/eskisehir-gundem/eskisehirde-yunus-bugdayi-icin-uretici-bulusmasi/811471)
-
-> Etkinlikte Yunus çeşidinin özellikleri ve çiftçilere verilen destekler konuşuldu.
-
-Odunpazarı Belediyesi'nin düzenlediği "Kalkanlı'dan Tarlalara Yunus Çeşidi Tohumluk Buğday Üretici Buluşması", Emek Kapalı Pazar Yeri'nde yapıldı. Buluşmaya üreticiler, tarım uzmanları ve ilgili kurumların temsilcileri katıldı; Yunus çeşidi tohumluk buğdayın özellikleri ve çiftçilerin desteklenmesi ele alındı.
-
-Odunpazarı Ziraat Odası Başkanı Burhan Çelikoğlu, belediyenin sağladığı destek için Belediye Başkanı Kazım Kurt'a teşekkür etti. Çelikoğlu, çiftçilerin ekip biçmesine rağmen yeterli kazanç elde edemediğini ve sorunlarının fazla olduğunu söyledi; belediyenin desteğinin sınırlı olsa da değerli olduğunu belirterek desteklerin artarak sürmesini istedi.
-
-Eskişehir Genç Rençberler Derneği Başkan Vekili Görkem Alçın ise girdi maliyetlerinin her geçen gün arttığını belirtti ve belediyelerin çiftçiye destek olmasını değerli bulduklarını söyledi.
-
-NBC Tarım adına konuşan Necmettin Bolat, Yunus çeşidinin geliştirilme ve tescil sürecini anlattı. Bolat'a göre çeşit sulu alanlar için ıslah edildi, tescili oy birliğiyle kabul edildi ve adını kendisi önerdi. Bolat, çeşidin kırmızı sert ekmeklik buğday grubunda olduğunu, protein oranının yüzde 12 ile 14 arasında, ortalama hektolitre ağırlığının ise 80 kilogram olduğunu söyledi.
-
----
-
-## MEB COP31'de eğitim bakanlarını ağırlayacak, Türkiye İklim Okulu 9 Kasım'da açılıyor
-
-**Eğitim · Türkiye** · 2026-11-05 10:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/milli-egitim-bakanligi-cop31039de-gerceklestirecegi-uluslararasi-etkinliklere-hazir/haber/42416/tr)
-
-![](data/images/cee032818867fc14.jpg)
-
-> 14 Kasım'daki program Bakan Tekin'in ev sahipliğinde yapılacak.
-
-Millî Eğitim Bakanlığı, Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) Mavi Bölge ve Yeşil Bölge'sinde yapacağı etkinliklere hazırlanıyor. Bakanlığın açıklamasına göre programlarda iklim değişikliğiyle mücadelede eğitimin rolü, çocukların ve gençlerin iklim eylemine katılımı ve öğretmenlerin güçlendirilmesi ele alınacak.
-
-14 Kasım'daki Çocuklar, Gençlik, Eğitim ve Beceriler Günü programına Millî Eğitim Bakanı Yusuf Tekin ev sahipliği yapacak; farklı ülkelerin eğitim bakanları, üst düzey temsilciler ve uluslararası kuruluşlar katılacak. Programın resmî açılışı, MEB ile UNESCO Yeşil Eğitim Ortaklığı iş birliğinde "Antalya Eylem Protokolü" oturumuyla yapılacak. Türkiye'nin UNESCO Yeşil Eğitim Ortaklığı'na 100. üye ülke olarak katılım beyanının duyurulması da öngörülüyor.
-
-Bakan Tekin'in başkanlığında OECD iş birliğiyle yapılacak ikinci oturumda iklim okuryazarlığı, PISA değerlendirmeleri ve eğitimde yeşil dönüşüme yönelik iyi uygulamalar görüşülecek. Aynı gün Yeşil Bölge'deki Türkiye İklim Okulu'nun resmî açılışı da yapılacak.
-
-Türkiye İklim Okulu, 9 Kasım'dan itibaren öğrencileri, öğretmenleri, velileri ve akademisyenleri ağırlamaya başlayacak. Okul; Konferans Salonu, Yaşayan Okul ile İklim Deneyim ve Teknoloji Alanı'ndan oluşacak.
-
----
-
-## Kasım ayı yaşlı ve engelli aylıkları yatırılmaya başlandı: 9,6 milyar lira ödenecek
-
-**Türkiye · Türkiye** · 2026-11-05 10:31 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/kasim-ayi-yasli-ve-engelli-ayliklari-hesaplara-yatirilmaya-baslandi/)
-
-![](data/images/998a8a7c99e13143.jpg)
-
-> Bakan Göktaş: 735 bin 763 kişiye yaşlı, 557 bin 771 kişiye engelli aylığı ödenecek.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı yaşlı ve engelli aylığı ödemelerinin hesaplara yatırılmaya başlandığını bildirdi. Bakanlığın açıklamasına göre 1 milyon 293 bin 534 vatandaşa toplam 9,6 milyar lira ödeme yapılacak.
-
-Göktaş, kasım ayında 735 bin 763 vatandaşa 5 milyar 435 milyon lira tutarında yaşlı aylığı, 557 bin 771 vatandaşa ise 4 milyar 185 milyon lira tutarında engelli aylığı ödeneceğini söyledi.
-
-Bakan Göktaş, engelli ve yaşlı bireylerin hayatın her alanına tam katılımını sağlamak ve bağımsız yaşam sürmelerine destek olmak için çalıştıklarını belirtti. Ödemelerin vatandaşlara hayırlı olmasını diledi.
 
 ---
