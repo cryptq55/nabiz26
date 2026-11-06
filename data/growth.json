@@ -20,21 +20,93 @@
    "takip": 0,
    "paylasim": 223,
    "erisim_7g": 26772
+  },
+  {
+   "gun": "2026-11-07",
+   "takipci": 84,
+   "takip": 0,
+   "paylasim": 228,
+   "erisim_7g": 30282
   }
  ],
  "paylasimlar": {
+  "18098735075673915": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T22:00:57+0000",
+   "link": "https://www.instagram.com/reel/DfaoVNQFBIw/",
+   "baslik": "🌙 Eskişehir'de bugün · 7 Kasım Cumartesi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 121,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 201
+  },
+  "17922080415244905": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T20:06:26+0000",
+   "link": "https://www.instagram.com/reel/DfabOOfgn6B/",
+   "baslik": "Başkan Ataç, AB platformunda Tepebaşı'nın iklim modelini anlattı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 122,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 122
+  },
+  "18154371001535660": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T20:04:29+0000",
+   "link": "https://www.instagram.com/reel/Dfaa_7XjVnR/",
+   "baslik": "Tepebaşı'nda ekoloji okulu kasım atölyeleri başlıyor: Ücretsiz kayıtlar açıldı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 109
+  },
+  "17919165783463752": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T18:46:19+0000",
+   "link": "https://www.instagram.com/reel/DfaSDmeDafN/",
+   "baslik": "Tepebaşı'nda gençlerden LÖSEV'e yoğun ilgi",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 173,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 184
+  },
+  "18103232951565439": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T18:44:44+0000",
+   "link": "https://www.instagram.com/reel/DfaR31VFQl4/",
+   "baslik": "Tepebaşı'na yeni sağlık merkezi: Hayırsever protokolü imzalandı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 813,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 940
+  },
   "18650581588022975": {
    "tur": "REELS",
    "zaman": "2026-11-06T13:04:19+0000",
    "link": "https://www.instagram.com/reel/DfZq6jujmgF/",
    "baslik": "Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi",
-   "begeni": 1,
-   "yorum": 0,
-   "reach": 100,
-   "saved": 0,
-   "shares": 1,
-   "total_interactions": 2,
-   "views": 156
+   "begeni": 9,
+   "yorum": 1,
+   "reach": 1314,
+   "saved": 1,
+   "shares": 2,
+   "total_interactions": 13,
+   "views": 1433
   },
   "18388629631227861": {
    "tur": "REELS",
@@ -43,11 +115,11 @@
    "baslik": "Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu",
    "begeni": 1,
    "yorum": 0,
-   "reach": 92,
+   "reach": 147,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 115
+   "views": 164
   },
   "18083669333383636": {
    "tur": "REELS",
@@ -56,11 +128,11 @@
    "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 59,
+   "reach": 145,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 99
+   "views": 160
   },
   "18145813159716618": {
    "tur": "REELS",
@@ -73,20 +145,20 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 117
+   "views": 118
   },
   "17880272301651351": {
    "tur": "REELS",
    "zaman": "2026-11-06T12:48:14+0000",
    "link": "https://www.instagram.com/reel/DfZpFf8jr75/",
    "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
-   "begeni": 0,
+   "begeni": 1,
    "yorum": 0,
-   "reach": 40,
-   "saved": 0,
+   "reach": 1143,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 52
+   "total_interactions": 2,
+   "views": 1285
   },
   "18118997551797525": {
    "tur": "REELS",
@@ -95,24 +167,24 @@
    "baslik": "Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 103,
+   "reach": 107,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 110
+   "views": 115
   },
   "18157766095454707": {
    "tur": "REELS",
    "zaman": "2026-11-06T12:36:45+0000",
    "link": "https://www.instagram.com/reel/DfZnwsWlevC/",
    "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
-   "begeni": 0,
+   "begeni": 4,
    "yorum": 0,
-   "reach": 112,
+   "reach": 520,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "views": 128
+   "shares": 5,
+   "total_interactions": 9,
+   "views": 576
   },
   "18130367519505125": {
    "tur": "FEED",
@@ -121,11 +193,11 @@
    "baslik": "Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi",
    "begeni": 2,
    "yorum": 0,
-   "reach": 10,
+   "reach": 12,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 13
+   "views": 18
   },
   "18099146051406410": {
    "tur": "FEED",
@@ -134,11 +206,11 @@
    "baslik": "GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım",
    "begeni": 0,
    "yorum": 0,
-   "reach": 7,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 9
+   "views": 10
   },
   "18011585489775654": {
    "tur": "REELS",
@@ -160,11 +232,11 @@
    "baslik": "Anadolu Üniversitesinde AB haberciliği ve haber doğrulama atölyesi yapıldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 108,
+   "reach": 109,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 114
+   "views": 115
   },
   "17910076920569769": {
    "tur": "REELS",
@@ -173,24 +245,24 @@
    "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
    "begeni": 0,
    "yorum": 0,
-   "reach": 116,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 122
+   "views": 125
   },
   "18112241720190018": {
    "tur": "REELS",
    "zaman": "2026-11-05T19:54:38+0000",
    "link": "https://www.instagram.com/reel/DfX1FLJjX14/",
    "baslik": "Eskişehirspor'da sakatlıkları süren oyuncuların durumu netleşiyor",
-   "begeni": 4,
+   "begeni": 5,
    "yorum": 0,
-   "reach": 1196,
+   "reach": 1235,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 4,
-   "views": 1267
+   "total_interactions": 5,
+   "views": 1305
   },
   "17994424275025311": {
    "tur": "REELS",
@@ -199,11 +271,11 @@
    "baslik": "Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti",
    "begeni": 0,
    "yorum": 0,
-   "reach": 116,
+   "reach": 117,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 124
+   "views": 125
   },
   "17937267279405496": {
    "tur": "REELS",
@@ -238,11 +310,11 @@
    "baslik": "\"Bir Sürü Olsun\" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek",
    "begeni": 1,
    "yorum": 0,
-   "reach": 115,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 125
+   "views": 126
   },
   "17919403866462853": {
    "tur": "REELS",
@@ -303,11 +375,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 5 Kasım Perşembe",
    "begeni": 0,
    "yorum": 0,
-   "reach": 119,
+   "reach": 120,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 138
+   "views": 139
   },
   "18119282689789229": {
    "tur": "REELS",
@@ -329,11 +401,11 @@
    "baslik": "Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da \"90. Yaşa Saygıyla\" programıyla kutlanacak",
    "begeni": 20,
    "yorum": 0,
-   "reach": 1444,
+   "reach": 1445,
    "saved": 1,
    "shares": 0,
    "total_interactions": 21,
-   "views": 1550
+   "views": 1551
   },
   "18137692927662681": {
    "tur": "REELS",
@@ -342,11 +414,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 774,
+   "reach": 775,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 845
+   "views": 847
   },
   "18112690319616432": {
    "tur": "REELS",
