@@ -22,11 +22,11 @@
     "title": "ODUNPAZARI BELEDİYESİ’NDEN 71 EVLER’DE KAPSAMLI YOL ÇALIŞMASI - Yozgat Gazetesi",
     "url": "https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-belediyesi-nden-71-evler-de-kapsamli-yol-calismasi-300951.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Belediyesi",
       "Eskişehir yol çalışması"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -22,10 +22,10 @@
     "title": "Tepebaşı Belediye Başkanı Ataç, kentin iklim modelini Avrupa Birliği platformunda anlattı - Anka Haber",
     "url": "https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentin-iklim-modelini-avrupa-birligi-platformunda-anlatti-5d179552"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

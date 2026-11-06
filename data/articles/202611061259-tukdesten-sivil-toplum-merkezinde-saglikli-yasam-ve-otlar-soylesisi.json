@@ -21,10 +21,10 @@
     "title": "Eskişehir Sivil Toplum Destekleme Merkezi'nde sağlıklı yaşam buluşması - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-sivil-toplum-destekleme-merkezi-nde-saglikli-yasam-bulusmasi-f1a1e3c6"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Büyükşehir Belediyesi Sivil Toplum Destekleme Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
