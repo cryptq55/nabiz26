@@ -347,7 +347,8 @@
   "202611051903-anadolu-universitesinde-ab-haberciligi-ve-haber-dogrulama-atolyesi-yap",
   "202611051924-eskisehirsporda-sakatliklari-suren-oyuncularin-durumu-netlesiyor",
   "202611051924-ozgur-ozelden-ecevitin-kabrinde-anma-ve-hukuk-elestirisi",
-  "202611060849-gsb-burs-ve-ogrenim-kredisi-sonuclari-aciklandi-son-tarih-11-kasim"
+  "202611060849-gsb-burs-ve-ogrenim-kredisi-sonuclari-aciklandi-son-tarih-11-kasim",
+  "202611061243-altin-fiyatlari-6-kasim-2026-gram-altin-6-590-47-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -479,13 +480,11 @@
   "202611051532-tepebasi-ve-odunpazarinda-2027-evsel-kati-atik-tarifesi-meclislerden-g",
   "202611051924-eskisehirsporda-sakatliklari-suren-oyuncularin-durumu-netlesiyor",
   "202611051903-anadolu-universitesinde-ab-haberciligi-ve-haber-dogrulama-atolyesi-yap",
-  "202611051902-anadolu-universitesinde-ogrenciler-tursu-kurdu-fermantasyonun-bilimini"
+  "202611051902-anadolu-universitesinde-ogrenciler-tursu-kurdu-fermantasyonun-bilimini",
+  "202611061243-altin-fiyatlari-6-kasim-2026-gram-altin-6-590-47-tl",
+  "202611051732-baskan-kurt-cop-tarifesi-iddialarina-yanit-verdi-temizlik-islerinde-42"
  ],
  "log": [
-  1793871732.347382,
-  1793871745.815744,
-  1793878615.8011184,
-  1793878632.1190553,
   1793885922.0423763,
   1793886739.516505,
   1793908394.7754323,
@@ -494,15 +493,19 @@
   1793955269.311553,
   1793955286.491357,
   1793955303.663107,
-  1793955319.483809
+  1793955319.483809,
+  1793969238.857218,
+  1793969299.5773237,
+  1793969316.9243717
  ],
  "reel_log": [
-  1793871732.347436,
   1793885922.0423782,
   1793886739.5165074,
   1793908394.7754345,
   1793908483.807004,
   1793955192.1944625,
-  1793955269.3115551
+  1793955269.3115551,
+  1793969238.8572202,
+  1793969299.5773256
  ]
 }
