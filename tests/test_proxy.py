@@ -25,21 +25,21 @@ class ProxyTests(unittest.TestCase):
             self.assertNotIn('test-private', json.dumps(kwargs['json']))
             self.assertEqual(kwargs['json']['messages'][0]['content'], newsbot.SYSTEM_PROMPT)
 
-    def test_proxy_outage_does_not_use_gemini_or_consume_sources(self):
+    def test_proxy_outage_falls_back_to_gemini(self):
+        # Bilgisayardaki CLIProxy kapalıyken bulut turu boşa gitmesin: Gemini yazar
         def collect(_, path):
             Path(path).write_text(json.dumps({'today': '05.11.2026', 'recent_titles': [],
                 'queue': [{'key': 'unseen', 'source_name': 'test', 'title': 'test', 'text': 'source'}]}))
+        decision = {k: '' for k in newsbot.ARTICLE_SCHEMA['required']}
         with patch.dict(os.environ, {'NEWS_API_BASE': 'http://proxy.test/v1', 'NEWS_API_KEY': 'test',
                                     'GEMINI_API_KEY': 'backup'}, clear=True), \
                 patch.object(newsbot, 'collect_queue', side_effect=collect), \
                 patch.object(newsbot, 'write_article_proxy', side_effect=requests.ConnectionError()), \
-                patch.object(newsbot, 'write_article_gemini') as gemini, \
+                patch.object(newsbot, 'write_article_gemini', return_value=decision) as gemini, \
                 patch.object(newsbot, 'save_decisions') as save:
-            with self.assertRaisesRegex(RuntimeError, 'hiçbir kaynağı'):
-                newsbot.auto_run(1)
-            gemini.assert_not_called()
-            save.assert_not_called()
-
+            newsbot.auto_run(1)
+            gemini.assert_called_once()
+            save.assert_called_once()
 
 if __name__ == '__main__':
     unittest.main()

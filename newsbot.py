@@ -639,6 +639,9 @@ def write_article_proxy(candidate, source_text, recent):
     return article
 
 
+GEMINI_PACE = int(os.environ.get("GEMINI_PACE", "8"))  # Gemini istekleri arası saniye
+
+
 def write_article_gemini(candidate, source_text, recent):
     """Yedek yazar: Google Gemini (ücretsiz kota, GEMINI_API_KEY). Anthropic kredisi yokken devreye girer."""
     user_msg = (
@@ -650,13 +653,15 @@ def write_article_gemini(candidate, source_text, recent):
     body = {"systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
             "contents": [{"role": "user", "parts": [{"text": user_msg}]}],
             "generationConfig": {"temperature": 0.3, "responseMimeType": "application/json"}}
-    for attempt in range(3):
+    for attempt in range(4):
         r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                           headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}, json=body, timeout=180)
-        if r.status_code not in (429, 500, 502, 503, 504) or attempt == 2:
+        if r.status_code not in (429, 500, 502, 503, 504) or attempt == 3:
             break
         retry_after = r.headers.get("Retry-After", "")
-        delay = min(int(retry_after), 30) if retry_after.isdigit() else 5 * (attempt + 1)
+        # 429: dakikalık kota dolmuştur, bir dakikaya yakın beklemek gerekir
+        delay = (min(int(retry_after), 90) if retry_after.isdigit()
+                 else (20 * (attempt + 1) if r.status_code == 429 else 5 * (attempt + 1)))
         log(f"[uyarı] Gemini HTTP {r.status_code}; {delay} saniye sonra yeniden denenecek")
         time.sleep(delay)
     if r.status_code == 429:
@@ -688,17 +693,19 @@ def auto_run(max_items):
     use_backup = not os.environ.get("ANTHROPIC_API_KEY")
     client = None if use_backup else anthropic.Anthropic()
     decisions = {}
+    gemini_calls = 0
     for c in q["queue"]:
         text = f"(Bugünün tarihi: {q['today']})\n\n{c['text']}"
         art = None
         if use_proxy:
             try:
                 art = write_article_proxy(c, text, q['recent_titles'])
-            except Exception as e:
-                log(f'[hata] CLIProxy: {type(e).__name__}; kaynak sonraki tura bırakıldı')
+                decisions[c['key']] = art
                 continue
-            decisions[c['key']] = art
-            continue
+            except Exception as e:
+                # Özel ağ (bilgisayardaki CLIProxy) kapalıysa tur boşa gitmesin: bu tur Gemini/Anthropic ile devam
+                log(f'[uyarı] CLIProxy: {type(e).__name__}; bu tur Gemini ile devam ediliyor')
+                use_proxy = False
         if not use_backup:
             try:
                 art = write_article(client, c, text, q["recent_titles"])
@@ -709,6 +716,9 @@ def auto_run(max_items):
             if not os.environ.get("GEMINI_API_KEY"):
                 log("[hata] yazacak model yok: Anthropic kredisi yok, GEMINI_API_KEY tanımlı değil")
                 break
+            if gemini_calls:
+                time.sleep(GEMINI_PACE)  # ücretsiz kota dakikadaki istek sayısını sınırlıyor
+            gemini_calls += 1
             try:
                 art = write_article_gemini(c, text, q["recent_titles"])
             except Exception as e:
