@@ -2,6 +2,120 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda ekoloji okulu kasım atölyeleri başlıyor: Ücretsiz kayıtlar açıldı
+
+**Belediye · Tepebaşı** · 2026-11-06 20:01 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yeryuzuekolojiokulu’ndakasımatolyeleribaslıyor)
+
+![](data/images/8036291b71ddb504.jpg)
+
+> Tepebaşı Belediyesi Yeryüzü Ekoloji Okulu, kasım ayında çocuk ve yetişkinlere yönelik ücretsiz doğa, hak ve sanat atölyeleri düzenleyecek.
+
+Tepebaşı Belediyesi, her yaştan vatandaşın doğayla bağ kurmasını ve çeşitli alanlarda deneyim kazanmasını hedefleyen Yeryüzü Ekoloji Okulu'nda kasım ayı programını duyurdu. Sakin Okul Eğitim, Kültür ve Sanat Derneği iş birliğiyle gerçekleştirilecek etkinlikler tamamen ücretsiz olacak.
+
+Program kapsamında 9 Kasım'da başlayacak atölyelerde, çocuklara ve yetişkinlere yönelik farklı içerikler yer alacak. İlk etkinlik, 9 Kasım Pazartesi günü saat 18.00'de düzenlenecek Çocuk Hakları ve Hak Arama Yolları Atölyesi olacak. 8-12 yaş grubuna hitap eden bu tek günlük çalışma 10 kişilik kontenjanla sınırlı tutuldu.
+
+Çocuklar için hazırlanan bir diğer etkinlik olan Renkli Sanat Atölyesi ise 7-12 yaş grubunu 11, 18 ve 25 Kasım Çarşamba günleri saat 18.00'de bir araya getirecek. Aynı katılımcıların devam edeceği bu atölyenin kontenjanı da 10 kişi olarak belirlendi. Yetişkinler için ise 18 yaş ve üzeri katılımcılara açık olan Tekstil Art – Sashiko ile İleri Dönüşüm Atölyesi düzenlenecek. 13 Kasım'da başlayacak ve 18 Aralık'a kadar her cuma saat 18.00'de gerçekleştirilecek program altı hafta sürecek.
+
+Tepebaşı Belediyesi yanındaki Yeryüzü Ekoloji Okulu'nda yapılacak sınırlı kontenjanlı atölyeler için kayıtlar başladı. İsteyen vatandaşlar, mesai saatleri içinde Çevre Koruma ve Kontrol Müdürlüğünün 0222 211 40 00 / 3085 numaralı telefonundan detaylı bilgi alabilecek.
+
+---
+
+## Miniklerin doğa projelerini Vali Yılmaz yerinde inceledi
+
+**Eğitim · Merkez** · 2026-11-06 20:01 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-cemal-ererdi-anaokulunu-ziyaret-etti)
+
+![](data/images/cfcd457f6f6557fc.jpg)
+
+> Vali Dr. Erdinç Yılmaz, kendisini okula davet eden Cemal Ererdi Anaokulu öğrencilerini ziyaret ederek iklim ve doğa çalışmaları hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, daha önce kendisini makamında ziyaret ederek okullarına davet eden Cemal Ererdi Anaokulu öğrencilerine iade-i ziyarette bulundu.
+
+Ziyaret sırasında okulun sınıflarını ve bahçesini gezen Vali Yılmaz, minik öğrencilerin iklim değişikliği, doğanın korunması ve sürdürülebilir bir gelecek vizyonuyla hayata geçirdikleri projeleri yakından inceledi.
+
+Öğrenciler, okul içinde ve bahçede yürüttükleri çevre çalışmalarını Vali Yılmaz'a bizzat anlatarak hazırladıkları projelerin amaçlarını ve elde ettikleri sonuçları paylaştı.
+
+---
+
+## Kılıçdaroğlu'ndan erken seçim ve ittifak açıklaması
+
+**Siyaset · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - CHP](https://serbestiyet.com/haberler/politika/kilicdaroglu-bir-chpli-belediye-baskani-yolsuzluk-yapiyorsa-derhalak-partiye-katilsin-253014/)
+
+![](data/images/d6558fcafff6c1fe.jpg)
+
+> CHP Genel Başkanı Kemal Kılıçdaroğlu, bir televizyon programında gündeme ilişkin değerlendirmelerde bulundu; erken seçim teklifine destek vereceklerini belirtti.
+
+CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir yayında iç siyaset, ekonomi, erken seçim tartışmaları ve dış politika konularında açıklamalarda bulundu.
+
+Erken seçim tartışmalarına değinen Kılıçdaroğlu, bir muhalefet partisinin seçimden kaçma lüksünün olmadığını belirterek meclise gelecek erken seçim teklifine destek vereceklerini ifade etti. Ancak sürecin fırsatçılığa dönüştürülmesini doğru bulmadıklarını kaydetti.
+
+Belediyelere yönelik yürütülen adli ve idari süreçlere de değinen Kılıçdaroğlu, yolsuzlukla mücadele edilmesi gerektiğini ancak uygulamalarda çifte standart olmaması gerektiğini vurguladı. Kurultay süreci ve parti içi tartışmalara ilişkin de konuşan Kılıçdaroğlu, gemiyi güvenli limana getirdikten sonra genel başkanlığı bırakacağını dile getirdi.
+
+---
+
+## İletişim Başkanı Duran: TRT World Forum 2026 İstanbul'da başladı
+
+**Türkiye · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-iletisim-baskani-duran-trt-world-forum-2026da-konustu)
+
+![](data/images/c9087735456c79fb.jpg)
+
+> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, İstanbul'da düzenlenen TRT World Forum 2026'nın açılışında küresel krizlere ve adil bir uluslararası düzen ihtiyacına dikkat çekti.
+
+İstanbul Kongre Merkezi'nde "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla bu yıl 10'uncusu düzenlenen TRT World Forum'un açılışında konuşan Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, uluslararası sistemin derin bir eksen kayması ve yapısal kriz yaşadığını belirtti.
+
+İletişim Başkanı Duran, güç merkezleri çoğalırken ortak kuralların aşındığını, küresel rekabetin sertleştiğini ve ortak sorumluluk duygusunun zayıfladığını vurguladı. Mevcut düzende barışın alanının daraldığını, konvansiyonel savaş risklerinin ve vekalet çatışmalarının arttığını ifade eden Duran, yapay zekâ ve dijital teknolojiler üzerindeki hakimiyet yarışının yeni güç ilişkileri doğurduğunu kaydetti.
+
+Tehditler küreselleşirken çözümlerin millileştiğine dikkat çeken Duran, bu yapısal krizin en çarpıcı örneğinin Gazze'de görüldüğünü dile getirdi. Duran, "Dünyanın gözü önünde yaşanan soykırım, uluslararası sistemin yalnızca krizleri önlemekte değil, varlık sebebi olan barışı, adaleti ve insan onurunu korumakta da yetersiz kaldığını ortaya koyuyor." dedi.
+
+Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde yeni bir uluslararası düzenin inşasını esas alan kurucu bir çoğulculuk önerdiğini belirten Duran, "Dünyanın ihtiyacı yeni bir savaşın galipleri değil, yeni bir barışın kurucularıdır." ifadelerini kullandı. Konuşmasında ayrıca Cumhurbaşkanlığı İletişim Başkanlığı tarafından geliştirilen forum diplomasisi faaliyetlerine de değindi.
+
+---
+
+## Eşini öldürüp balkondan atlayan şüphelinin davası başladı
+
+**Asayiş · Merkez** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.iha.com.tr/eskisehir-haberleri/esini-oldurdukten-sonra-8-kattan-atlayan-sanigin-durusmasina-basladi-511958702)
+
+> Eskişehir'de eşini öldürdükten sonra balkondan atlayarak intihar girişiminde bulunan ve hastaneye kaldırılırken balıktan zehirlendiklerini öne süren sanığın yargılanmasına başlandı.
+
+Eskişehir'de 7 kattaki evinin balkonundan atlayarak yaralanan ve hastaneye sevk edilirken polise balıktan zehirlendiklerini iddia eden şüpheli Mehmet K.'nın, eşi Sevim K.'yi öldürdüğü iddiasıyla açılan davanın ilk duruşması gerçekleştirildi. Eskişehir 7. Ağır Ceza Mahkemesindeki duruşmaya tutuklu sanık Mehmet K., maktulün kardeşi ve taraf avukatları katıldı.
+
+Mahkemedeki savunmasında eşiyle tartışma yaşadığını öne süren tutuklu sanık Mehmet K., olay günü yaşananları anlattı. Sanık avukatı, müvekkilinin intihar girişiminde bulunduğunu ve zaman algısını kaybettiğini savunarak beraat ve tahliye talebinde bulundu.
+
+Duruşmada maktulün kardeşi ve müşteki Servet Özdemir, sanığın cinayeti mal varlığı sebebiyle tasarlayarak işlediğini iddia etti. Özdemir, kardeşinin mülklerini ve altınlarını satmak istemediği için sanık tarafından öldürüldüğünü ve cenazenin günlerce evde kilitli tutulduğunu öne sürdü. Müşteki avukatları da şüphelinin çelişkili beyanlarda bulunduğunu belirterek en üst hadden cezalandırılmasını talep etti.
+
+Mahkeme heyeti, sanık Mehmet K.'nın tutukluluk halinin devamına karar vererek duruşmayı aralık ayına erteledi.
+
+---
+
+## Erdoğan: Küresel sistem iflas bayrağını çekti
+
+**Siyaset · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-trt-world-forum-2026da-konustu)
+
+![](data/images/a520f29b4679ac51.jpg)
+
+> Cumhurbaşkanı Erdoğan, TRT World Forum 2026'da yaptığı konuşmada uluslararası sistemin krizde olduğunu belirterek, Gazze'deki soykırıma ve küresel adaletsizliklere tepki gösterdi.
+
+İstanbul Kongre Merkezi'nde "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla düzenlenen TRT World Forum 2026'da konuşan Cumhurbaşkanı Erdoğan, dünyanın sancılı ve kuralların yok sayıldığı bir dönemden geçtiğini ifade etti.
+
+Uluslararası sistemin üzerine kurulduğu normların ayaklar altına alındığını belirten Erdoğan, Gazze'de modern zamanların en büyük soykırımının yaşandığına dikkat çekti. Ekim 2023'ten bu yana 75 bin kişinin katledildiğini ve 176 bin kişinin yaralandığını kaydeden Erdoğan, uluslararası yapıların yaşananları tribünden seyrettiğini söyledi.
+
+Türkiye'nin her zaman hak ve hakikati savunmaya devam edeceğini vurgulayan Erdoğan, ülkeyi karalamaya çalışan algı operasyonlarına boyun eğmeyeceklerini belirtti. Forumun düzenlenmesinde emeği geçen TRT yönetimini ve çalışanlarını tebrik eden Erdoğan, TRT'nin ilkeli ve sorumlu yayıncılık anlayışıyla küresel ölçekte önemli bir ses olduğunu dile getirdi.
+
+---
+
+## 20 yıllık kayıp davasında tanık iddiası: Manisa'da yaşıyor
+
+**Asayiş · Günyüzü** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/eskisehirdeki-20-yillik-kayip-davasinda-sok-iddia-manisada-yasiyor-511986750)
+
+> Günyüzü'nde 20 yıl önce kaçırıldığı iddia edilen Hamdi Karakuş davasının ikinci duruşmasında, bir tanık kayıp şahsın Manisa'da olduğunu öne sürdü.
+
+Eskişehir'in Günyüzü ilçesine bağlı Çardaközü Mahallesi'nde 2005 yılında darbedilip bir gözünü kaybeden ve 1 Nisan 2006'da kendilerini jandarma olarak tanıtan kişilerce kaçırıldığı öne sürülen Hamdi Karakuş'un 20 yıldır arandığı dosya kapsamında ikinci duruşma görüldü. Eskişehir İl Jandarma Komutanlığı JASAT ekiplerinin tüfek dipçiğindeki DNA eşleşmesiyle yeniden açtığı soruşturma sonucunda açılan davanın duruşması Eskişehir 1. Ağır Ceza Mahkemesi'nde yapıldı. Duruşmaya tutuklu ve tutuksuz sanıklar, taraf avukatları ve tanıklar katıldı.
+
+Duruşma sonrasında açıklama yapan aile avukatı Doğancan Çıra, kasten öldürme davasının ikinci celsesinde tanıkların dinlendiğini belirtti. Tanık M.Ö.'nün, kayıp Hamdi Karakuş'un 2022-2023 yıllarında Manisa'nın Turgutlu ilçesinde deterjan işi yaptığını, üzerinde farklı kimlik taşıdığını ve ailesine acı çektirmek amacıyla köye dönmediğini öne sürdüğünü aktaran Çıra, bu iddianın hayatın olağan akışına aykırı olduğunu söyledi. Avukat Çıra, mahkemenin bu iddiayı değerlendireceğini ve sanıkların en ağır cezayı alması için mücadele edeceklerini ifade etti.
+
+Mahkeme heyeti, mevcut delil durumu ve kuvvetli suç şüphesini göz önünde bulundurarak tutuklu sanıklar E.A., G.A., İ.K., M.K., M.Ö., S.A., Ü.A. ve Ü.Ö.'nün tutukluluk hallerinin devamına karar verdi. Dosya kapsamında 2 sanığın ise adli kontrol şartıyla tutuksuz yargılanmasına devam ediliyor.
+
+---
+
 ## Tepebaşı'nda gençlerden LÖSEV'e yoğun ilgi
 
 **Belediye · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/29ekimgenclikmerkezi’ndesosyalsorumlulukprogramlarıdevamediyor)
@@ -357,113 +471,5 @@ TFF 3. Lig mücadelesine hazırlanan Eskişehirspor'da zorlu karşılaşma önce
 Takımda sportif sakatlıkları bulunan Ahmet Dereli ve Mustafa Eren Damar bu maçta forma giyemeyecek. Tedavileri süren Mehmet Bağlı ile Kerem Baykuş'un durumları ise maç günü yapılacak son kontrollerin ardından kesinleşecek.
 
 Öte yandan sakatlığını atlatan Hasan Kaya'nın takımla birlikte antrenmanlarda yer aldığı bildirildi. Teknik heyet, eksik oyuncuların yerini doldurmak ve maça en iyi şekilde hazırlanmak için çalışmalarını sürdürüyor.
-
----
-
-## Eskişehir'de işçi servisi devrildi: 18 yaralı
-
-**Asayiş · Sivrihisar** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.akdenizgercek.com.tr/gundem/eskisehirde-can-pazari-isci-servisi-devrildi-18-yarali/388727)
-
-![](data/images/510bb95b6fcbf1ac.jpg)
-
-> Eskişehir-Sivrihisar kara yolunda kontrolden çıkan işçi servisinin devrilmesi sonucu 18 kişi yaralandı.
-
-Eskişehir'den Sivrihisar istikametine seyir halindeki işçi servisi, ilçe merkezine yaklaşık 20 kilometre kala sürücüsünün direksiyon hakimiyetini yitirmesiyle kontrolden çıktı. Savrulan araç devrilirken, içerideki 18 yolcu yaralandı.
-
-Çevredeki sürücülerin ihbarı üzerine kaza mahalline çok sayıda sağlık, jandarma ve polis ekibi yönlendirildi. Sağlık personeli, yaralılara ilk müdahaleyi olay yerinde gerçekleştirdi.
-
-İlk müdahalelerinin ardından ambulanslarla bölgedeki hastanelere sevk edilen yaralıların tedavisine başlandı. Güvenlik güçleri kazayla ilgili soruşturma başlattı.
-
----
-
-## Vali Yılmaz ve heyeti, Görgün ile Eskişehir’in sanayi potansiyelini görüştü
-
-**Ekonomi · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.urfadabugun.com/haber/267823/gorgun-eskisehirin-sanayi-ve-teknoloji-potansiyelini-degerlendirdi.html)
-
-> Savunma Sanayii Başkanlığındaki buluşmada kentin sanayi, teknoloji ve savunma alanlarındaki birikimi ele alındı.
-
-Savunma Sanayii Başkanı Prof. Dr. Haluk Görgün, Eskişehir Valisi Erdinç Yılmaz ve beraberindeki heyetle başkanlıkta bir araya geldi. Görüşmenin gündemini Eskişehir’in sanayi, teknoloji ve savunma sanayisindeki imkânları oluşturdu.
-
-Görgün, kentin üniversiteleri, sanayi altyapısı ve teknoloji firmalarının taşıdığı birikime dikkat çekti. Üretim, mühendislik ve akademik çalışmaların yeni proje ve iş birlikleriyle destekleneceğini ifade etti.
-
-Görgün, görüşmenin ardından Vali Yılmaz ile heyete ziyaretleri için teşekkür etti.
-
----
-
-## Togg T10X ve T10F için 300 bin liralık krediye 10 ay faizsiz ödeme seçeneği
-
-**Ekonomi · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Togg](https://www.teknolojioku.com/otomobil/toggdan-yeni-kampanya-30-bin-lira-taksitle-satiliyor-6aecd0d600b9958ea604d5e1)
-
-![](data/images/02b49d0f8d1c454d.jpg)
-
-> Sınırlı sayıdaki araç için duyurulan kampanyada, T10X V2 ve T10F V2’de 300 bin liralık kredi aylık 30 bin lira taksitle sunuluyor.
-
-Togg’un T10X V2 ve T10F V2 modellerine yönelik finansman kampanyasında, 300 bin liralık kredi için 10 ay vade ve yüzde 0 faiz seçeneği bulunuyor. Bu seçenekte aylık taksit tutarı 30 bin lira olarak belirtiliyor.
-
-Teknolojioku’nun aktardığı kampanya, sınırlı sayıdaki araçları kapsıyor. T10X ve T10F’nin 4More sürümleri için de 1,5 milyon lira krediye 10 ay vade, yüzde 0 faiz ve aylık 150 bin lira taksit seçeneği duyuruluyor.
-
----
-
-## Erdoğan, 8 Kasım’da Azerbaycan’ı ziyaret etmeyi planladığını açıkladı
-
-**Siyaset · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.agos.com.tr/tr/haber/erdogan-azerbaycan-i-ziyaret-edecek-42414)
-
-![](data/images/847d88878a5d8c97.jpg)
-
-> Cumhurbaşkanı Erdoğan, olağanüstü bir durum yaşanmaması halinde Zafer Günü için Azerbaycan’a gideceğini söyledi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım’da Azerbaycan’a ziyaret planladığını açıkladı. Güney Kore dönüşünde gazetecilerin sorularını yanıtlayan Erdoğan, olağanüstü bir gelişme olmaması durumunda Zafer Günü dolayısıyla bu ülkeye gideceğini belirtti.
-
-Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefonla görüştüğünü, dışişleri bakanı ve istihbarat başkanını da Azerbaycan’a gönderdiğini aktardı. Ziyaretin temasları ilerletmek için bir fırsat olacağını ifade etti.
-
-İki ülke arasındaki ilişkiler hakkındaki soruya da yanıt veren Erdoğan, ortak tarih ve kültüre vurgu yaparak Türkiye ile Azerbaycan arasındaki bağların diplomatik ilişkilerin ötesinde olduğunu söyledi.
-
----
-
-## Eğitim Gücü Sen, eğitim çalışanlarının taleplerini Kılıçdaroğlu’na iletti
-
-**Siyaset · Türkiye** · 2026-11-05 19:03 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/egitim-gucu-sen-den-kilicdaroglu-na-ziyaret-0cf1bcc8)
-
-![](data/images/ee3461130ac8d15b.jpg)
-
-> Sendika heyeti, bütçe görüşmelerinde eğitim çalışanlarının sorunlarının gündeme taşınmasını istedi.
-
-Eğitim ve Bilim Gücü Dayanışma Sendikası heyeti, Kemal Kılıçdaroğlu ile görüşerek eğitim çalışanlarının ekonomik koşulları, sosyal ve özlük haklarına ilişkin taleplerini sundu. Sendikadan yapılan açıklamaya göre görüşmede eğitim sistemindeki sorunlar da ele alındı.
-
-Genel Başkan Oğuz Özat ve genel başkan yardımcılarından oluşan heyete Yıldırım Kaya eşlik etti. Heyet, eğitim çalışanlarının taleplerinin TBMM’deki bütçe görüşmelerinde değerlendirilmesini istedi.
-
-Sendika temsilcileri çözüm önerilerini içeren dosyayı Kılıçdaroğlu’na iletti. Ziyarette eğitimin niteliğinin artırılması ve çalışanların sorunlarının çözümü konusunda görüş alışverişinde bulunuldu; sendika adına plaket takdim edildi.
-
----
-
-## Başkan Ünlüce, Mersin’de Vahap Seçer’i ve belediye yönetimini ziyaret etti
-
-**Belediye · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13532&cat_icerik=1&menu_id=24)
-
-![](data/images/0da62eaeef98dc34.jpg)
-
-> Ayşe Ünlüce’nin Mersin programında Tarsus Cezaevi, belediye ve parti il örgütü ziyaretleri yer aldı.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Mersin’deki temasları kapsamında Türkiye Belediyeler Birliği Başkanı ve Mersin Büyükşehir Belediye Başkanı Vahap Seçer’i Tarsus Cezaevi’nde ziyaret etti. Eskişehir Büyükşehir Belediyesinin açıklamasına göre Ünlüce, Seçer’in özgürlüğüne kavuşması dileğini iletti.
-
-Ünlüce daha sonra Meral Seçer’i evinde ziyaret etti. Burada Adana Büyükşehir Belediye Başkanı Zeydan Karalar ve Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile de bir araya geldi.
-
-Programda Mersin Büyükşehir Belediyesi Başkan Vekili Gülşah Yıldırım Genç ve belediye çalışanlarıyla da görüşüldü. Ünlüce, Yeni Parti Mersin İl Başkanlığında İl Başkanı Cengiz Gökçel, yöneticiler ve meclis üyeleriyle çalışmalar hakkında fikir alışverişinde bulundu. Bölgede çiftçilerle buluşmak üzere bulunan Sencer Solakoğlu da il başkanlığındaki temaslara katıldı.
-
----
-
-## Anadolu Üniversitesinde AB haberciliği ve haber doğrulama atölyesi yapıldı
-
-**Eğitim · Merkez** · 2026-11-05 19:03 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/a82vpgkpzazbebl0j2a4ppx0)
-
-![](data/images/12bd16cc5b34c934.jpg)
-
-> İHA Brüksel Temsilcisi Mustafa Ulusoy, gazetecilik öğrencilerine uluslararası ajans haberciliğini ve dijital dönüşümü anlattı.
-
-Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü, Avrupa Birliği ve Türkiye-AB ilişkileri haberciliğine yönelik konferans ve atölye düzenledi. İhlas Haber Ajansı Brüksel Temsilcisi Mustafa Ulusoy, öğrencilerle gazetecilik deneyimlerini paylaştı.
-
-JOIN Projesi kapsamındaki programın moderatörlüğünü Prof. Dr. Alaaddin Faruk Paksoy üstlendi. Ulusoy, Avrupa Birliği kurumlarına erişim, akreditasyon işlemleri ve kaynaklarla iletişimde yaşanan değişimleri anlattı. Dijitalleşmenin gazetecileri daha fazla doğrulama yapmaya yönelttiğini belirtti.
-
-Atölyede uluslararası haber ajanslarının günlük işleyişi, haber önerilerinin hazırlanması ve merkeze iletilmesi üzerinde duruldu. Dezenformasyon, yapay zekâyla üretilen sahte görüntüler ve açık kaynak istihbaratı da ele alındı. Program, öğrencilerin sorularının yanıtlanmasıyla sona erdi.
 
 ---
