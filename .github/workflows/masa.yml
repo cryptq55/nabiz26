@@ -29,7 +29,9 @@ jobs:
       - run: pip install -q -r requirements.txt
       - run: python -m unittest discover -s tests -v
       - name: CLIProxy özel ağına bağlan
+        id: ts
         if: vars.TS_CLIENT_ID != ''
+        continue-on-error: true   # bağlantı kurulamazsa tur düşmesin, doğrudan Gemini'ye dönsün
         uses: tailscale/github-action@v4
         with:
           oauth-client-id: ${{ vars.TS_CLIENT_ID }}
@@ -40,7 +42,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          NEWS_API_BASE: ${{ vars.NEWS_API_BASE }}
+          NEWS_API_BASE: ${{ steps.ts.outcome != 'failure' && vars.NEWS_API_BASE || '' }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           NEWS_API_MODEL: ${{ vars.NEWS_API_MODEL }}
         run: python newsbot.py --auto --max 10 2>&1 | tee masa.log | tee -a "$GITHUB_STEP_SUMMARY"

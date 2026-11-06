@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 06.11.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. **Haber akışı DURMUŞ:** son haber 05.11 22:24 TSİ (~11 saat önce), son 24 saatte 33 kayıt (Eğitim 7, Belediye 6, Ekonomi 5; Merkez 14, Türkiye 7). Neden: `masa.yml` 06.11 03:10 TSİ çalışması Tailscale adımında 403 ("token exchange failed", güven kimliği reddediyor) ile düştü; sonraki 2 saatlik tur hiç tetiklenmedi (GitHub cron gecikmesi). Instagram: log 16, reel_log 8. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml`: Tailscale adımı `continue-on-error`; bağlanamazsa `NEWS_API_BASE` boşaltılır ve tur doğrudan Gemini ile yazar (haber akışı özel ağa bağımlı kalmaz).
+**İyileştirme:** yok (acil düzeltme öncelikliydi).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) Asayiş/Ulaşım kaynakları.
+SAHİBİNE: Tailscale OIDC güven kimliği (Settings > Trust credentials) GitHub'dan gelen isteği 403 ile reddediyor; subject/audience ve `TS_CLIENT_ID`/`TS_AUDIENCE` değişkenlerini kontrol edin. O zamana dek masa Gemini'ye düşer.
+
 ## 05.11.2026 09:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden biri (Olcay-Kaya ralli) 404: kaydında fotoğraf yok, sayfa üretilmiyor (beklenen). Derleme geçti (280 sayfa, venv ile). Son haber 09:31 TSİ; son 24 saatte 19 yayında haber (Spor 6, Gündem 3, Belediye/Sağlık/Ekonomi/Eğitim/Kültür-Sanat 2; ilçe Merkez 12, Tepebaşı 5, Odunpazarı 1, Türkiye 1), 4'ünde fotoğraf yok. Akış dünden yavaş (19, dün 30-40). Instagram: log 13, reel_log 7 (DAILY_CAP=16 dolmadı); BUYUME.md: 72 takipçi (+3), 7 gün erişim 24.282, Reels ort. 451 erişim, fotoğraf gönderisi 9. Kaynak taraması çalıştırılmadı (bulut IP'sinden hep zaman aşımı). Zayıf: Asayiş, Ulaşım, Odunpazarı, Türkiye.
 **Düzeltilen:** yok.
