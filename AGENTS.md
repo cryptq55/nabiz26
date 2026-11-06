@@ -14,7 +14,7 @@ Bu adım yalnızca `nabiz26` Worker'ının eski derlemelerini iptal eder; başka
 Gemini yoğunluk hataları sınırlı sayıda yeniden denenir; işlenmeyen kaynaklar görüldü sayılmaz.
 Arşiv sorgusu genel konu adı olamaz ve özel ad haberde birebir geçmelidir (`media.subject_queries`).
 CLIProxy desteği: `NEWS_API_BASE` ayarlanırsa haberler `NEWS_API_KEY` secret'ı ve
-`NEWS_API_MODEL` ile özel sunucuda yazılır; otomatik Gemini geri dönüşü yapılmaz.
+`NEWS_API_MODEL` ile özel sunucuda yazılır; sunucuya ulaşılamazsa o tur Gemini ile devam eder (06.11.2026, sahibi bulutta kesintisiz çalışma istedi).
 Özel ağa GitHub OIDC kimliği ve Tailscale `tag:nabiz26-ci` ile bağlanılır.
 Bağlantı `proxy-kontrol.yml` ile yayın yapmadan doğrulanmadan `NEWS_API_BASE` etkinleştirilmez.
 
