@@ -21,11 +21,11 @@
     "title": "Eskişehir 6–8 Kasım Konserleri: Emre Aydın, Ceren Gündoğdu, No Land ve Ertelenen Konser - Doğayı Dinle",
     "url": "https://www.dogayidinle.com/etkinlikler/eskisehir-6-8-kasim-konserleri-emre-aydin-ceren-gundogdu-no-land-ve-ertelenen-konser/9877"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Büyükşehir Sanat Merkezi",
       "Milyon Performance Hall Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

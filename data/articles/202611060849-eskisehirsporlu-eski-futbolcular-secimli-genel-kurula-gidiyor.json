@@ -21,11 +21,11 @@
     "title": "Eskişehirsporlu eski futbolcular seçimli genel kurula gidiyor - Gzt26",
     "url": "https://www.gzt26.com/eskisehirsporlu-eski-futbolcular-secimli-genel-kurula-gidiyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Özdilek Sanat Merkezi",
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

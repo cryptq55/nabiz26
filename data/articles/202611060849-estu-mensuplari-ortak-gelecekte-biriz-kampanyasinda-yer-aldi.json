@@ -21,11 +21,11 @@
     "title": "06Kas2026 Eskişehir Teknik Üniversitesi Mensupları “Ortak Gelecekte Biriz” İletişim Kampanyası Lansmanına Katıldı Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen “Ortak Gelecekte Biriz İletişim Kampanyası” lansman programına Eskişehir Teknik…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-mensuplari-ortak-gelecekte-biriz-iletisim-kampanyasi-lansmanina-katildi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi",
       "Anadolu Üniversitesi Kütüphanesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
