@@ -16,13 +16,156 @@
   },
   {
    "gun": "2026-11-06",
-   "takipci": 75,
+   "takipci": 77,
    "takip": 0,
-   "paylasim": 212,
-   "erisim_7g": 27440
+   "paylasim": 223,
+   "erisim_7g": 26772
   }
  ],
  "paylasimlar": {
+  "18650581588022975": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T13:04:19+0000",
+   "link": "https://www.instagram.com/reel/DfZq6jujmgF/",
+   "baslik": "Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 100,
+   "saved": 0,
+   "shares": 1,
+   "total_interactions": 2,
+   "views": 156
+  },
+  "18388629631227861": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T13:03:02+0000",
+   "link": "https://www.instagram.com/reel/DfZqxIgAGbV/",
+   "baslik": "Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 92,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 115
+  },
+  "18083669333383636": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T12:53:30+0000",
+   "link": "https://www.instagram.com/reel/DfZprRtABzE/",
+   "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 59,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 99
+  },
+  "18145813159716618": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T12:52:18+0000",
+   "link": "https://www.instagram.com/reel/DfZpixLgbYc/",
+   "baslik": "Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 117
+  },
+  "17880272301651351": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T12:48:14+0000",
+   "link": "https://www.instagram.com/reel/DfZpFf8jr75/",
+   "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 40,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 52
+  },
+  "18118997551797525": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T12:47:12+0000",
+   "link": "https://www.instagram.com/reel/DfZo9VyjKI7/",
+   "baslik": "Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 103,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 110
+  },
+  "18157766095454707": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T12:36:45+0000",
+   "link": "https://www.instagram.com/reel/DfZnwsWlevC/",
+   "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 112,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 128
+  },
+  "18130367519505125": {
+   "tur": "FEED",
+   "zaman": "2026-11-06T08:55:01+0000",
+   "link": "https://www.instagram.com/p/DfZOawllSyo/",
+   "baslik": "Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 10,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "views": 13
+  },
+  "18099146051406410": {
+   "tur": "FEED",
+   "zaman": "2026-11-06T08:54:44+0000",
+   "link": "https://www.instagram.com/p/DfZOYpklYCX/",
+   "baslik": "GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 7,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 9
+  },
+  "18011585489775654": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T08:54:23+0000",
+   "link": "https://www.instagram.com/reel/DfZOT-JHFvQ/",
+   "baslik": "Anadolu Üniversitesinde öğrenciler turşu kurdu, fermantasyonun bilimini öğrendi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 109,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 114
+  },
+  "18095727992661577": {
+   "tur": "REELS",
+   "zaman": "2026-11-06T08:53:06+0000",
+   "link": "https://www.instagram.com/reel/DfZOKsWDU_9/",
+   "baslik": "Anadolu Üniversitesinde AB haberciliği ve haber doğrulama atölyesi yapıldı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 108,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 114
+  },
   "17910076920569769": {
    "tur": "REELS",
    "zaman": "2026-11-05T22:38:47+0000",
@@ -30,24 +173,24 @@
    "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
    "begeni": 0,
    "yorum": 0,
-   "reach": 103,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 111
+   "views": 122
   },
   "18112241720190018": {
    "tur": "REELS",
    "zaman": "2026-11-05T19:54:38+0000",
    "link": "https://www.instagram.com/reel/DfX1FLJjX14/",
    "baslik": "Eskişehirspor'da sakatlıkları süren oyuncuların durumu netleşiyor",
-   "begeni": 2,
+   "begeni": 4,
    "yorum": 0,
-   "reach": 1064,
+   "reach": 1196,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 2,
-   "views": 1130
+   "total_interactions": 4,
+   "views": 1267
   },
   "17994424275025311": {
    "tur": "REELS",
@@ -56,11 +199,11 @@
    "baslik": "Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti",
    "begeni": 0,
    "yorum": 0,
-   "reach": 108,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 116
+   "views": 124
   },
   "17937267279405496": {
    "tur": "REELS",
@@ -69,11 +212,11 @@
    "baslik": "Altın fiyatları 5 Kasım 2026: Gram altın 6.675,49 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 5,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 5
+   "views": 9
   },
   "17934286143419396": {
    "tur": "REELS",
@@ -82,24 +225,24 @@
    "baslik": "Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 112,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 120
+   "views": 125
   },
   "18475248736137567": {
    "tur": "REELS",
    "zaman": "2026-11-05T13:44:26+0000",
    "link": "https://www.instagram.com/reel/DfXKtwqgOQa/",
    "baslik": "\"Bir Sürü Olsun\" projesinde etçi ırk sığır başvuruları 13 Kasım'a kadar sürecek",
-   "begeni": 0,
+   "begeni": 1,
    "yorum": 0,
-   "reach": 113,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 123
+   "total_interactions": 1,
+   "views": 125
   },
   "17919403866462853": {
    "tur": "REELS",
@@ -108,11 +251,11 @@
    "baslik": "Tepebaşı, BAKSAN Sanayi Sitesi'nde üstyapı çalışmalarını tamamladı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 114,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 121
+   "views": 123
   },
   "18095152823669358": {
    "tur": "REELS",
@@ -121,11 +264,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 5 Kasım Perşembe",
    "begeni": 2,
    "yorum": 0,
-   "reach": 158,
+   "reach": 159,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 169
+   "views": 170
   },
   "17932094913421391": {
    "tur": "REELS",
@@ -134,11 +277,11 @@
    "baslik": "Şehir Hastanesi'nde organ bağışı etkinliği: kentte 125 hasta böbrek nakli bekliyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 112,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 118
+   "views": 120
   },
   "18650681026002234": {
    "tur": "REELS",
@@ -147,11 +290,11 @@
    "baslik": "Havaist, Eskişehir'den Sabiha Gökçen Havalimanı'na yeni hat hazırlığında",
    "begeni": 0,
    "yorum": 0,
-   "reach": 114,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 131
+   "views": 139
   },
   "18022552133940374": {
    "tur": "REELS",
@@ -173,11 +316,11 @@
    "baslik": "Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da \"90. Yaşa Saygıyla\" programıyla kutlanacak",
    "begeni": 1,
    "yorum": 0,
-   "reach": 4,
+   "reach": 6,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 4
+   "views": 8
   },
   "18110738684623068": {
    "tur": "REELS",
@@ -186,11 +329,11 @@
    "baslik": "Yılmaz Büyükerşen'in 90. yaş günü 8 Kasım'da \"90. Yaşa Saygıyla\" programıyla kutlanacak",
    "begeni": 20,
    "yorum": 0,
-   "reach": 1439,
+   "reach": 1444,
    "saved": 1,
    "shares": 0,
    "total_interactions": 21,
-   "views": 1542
+   "views": 1550
   },
   "18137692927662681": {
    "tur": "REELS",
@@ -199,11 +342,11 @@
    "baslik": "ESKİ, Çankaya'da yenilenen 1.400 metrelik içme suyu isale hattını devreye aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 772,
+   "reach": 774,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 843
+   "views": 845
   },
   "18112690319616432": {
    "tur": "REELS",
@@ -225,11 +368,11 @@
    "baslik": "Kupada Eskişehirspor Bodrum FK'ya konuk olacak, Anadolu SF Samsunspor'u ağırlayacak",
    "begeni": 2,
    "yorum": 0,
-   "reach": 173,
+   "reach": 175,
    "saved": 0,
    "shares": 1,
    "total_interactions": 3,
-   "views": 184
+   "views": 186
   },
   "18116130545172101": {
    "tur": "REELS",
@@ -242,7 +385,7 @@
    "saved": 0,
    "shares": 14,
    "total_interactions": 18,
-   "views": 1249
+   "views": 1250
   },
   "18124957546899163": {
    "tur": "REELS",
@@ -251,11 +394,11 @@
    "baslik": "Kurşunlu Külliyesi mühürlendi, iki habere erişim engeli geldi; Kurt tepki gösterdi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 8,
+   "reach": 11,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 8
+   "views": 15
   },
   "18120073721072909": {
    "tur": "REELS",
@@ -264,11 +407,11 @@
    "baslik": "Altın fiyatları 4 Kasım 2026: Gram altın 6.548,93 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 7,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 13
+   "views": 14
   },
   "18012993014996380": {
    "tur": "REELS",
