@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL
+
+**Ekonomi · Merkez** · 2026-11-06 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261106.jpg)
+
+> Gram altın güne yatay seyirle başladı. Harem Altın verilerine göre gram altın 6.521,44 TL'den alınıyor, 6.590,47 TL'den satılıyor.
+
+Altın piyasasında güne yatay seyirle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.590,47 TL, alış fiyatı 6.521,44 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,03 yatay seyretti.
+
+Ziynet altınlarda çeyrek altın 10.742 TL, yarım altın 21.477 TL, tam altın 42.796 TL, ata altın 43.939 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.156,45 TL, has altının gram fiyatı 6.570,69 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.066,10 dolardan işlem görürken, dolar/TL 50,11 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım
 
 **Eğitim · Türkiye** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://gazetekalem.com.tr/genclik-ve-spor-bakanligi-burs-ve-ogrenim-kredisi-basvuru-sonuclarini-acikladi/)
@@ -457,21 +477,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Kurtuluş Kapalı Pa
 Yaklaşık 500 milyon TL yatırım bedeline sahip projede kapalı otoparkın yanı sıra modern pazar alanı, şarküteri ve balıkçı dükkânları ile farklı ihtiyaçlara yönelik özel alanlar yer alacak. Yeni pazar yerinin tamamlanmasıyla vatandaşların daha modern ve konforlu bir ortamda alışveriş yapması, pazarcı esnafının da daha uygun koşullarda hizmet vermesi amaçlanıyor.
 
 Ünlüce, hemşehrilerinin ve pazarcı esnafının uzun süredir beklediği pazar yerini hizmete açmak için çalışmaların hızla sürdüğünü, en kısa sürede tamamlanacağını söyledi.
-
----
-
-## Bakan Bayraktar 2040 enerji vizyonunu açıkladı: hedef yüzde 36 elektrikleşme
-
-**Ekonomi · Türkiye** · 2026-11-05 12:32 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31962)
-
-![](data/images/1170ddadfeb1c980.jpg)
-
-> Kurulu gücün 2040'ta 281 bin megavata çıkarılması hedefleniyor.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'da yapılacak COP31 öncesinde Milli Enerji 2040 vizyonunu açıkladı. Bayraktar, hedeflerinin Türkiye'yi enerjide bağımsız kılmak olduğunu söyledi.
-
-Bakan Bayraktar, 2040'ta yüzde 36 elektrikleşmeye ulaşılacağını belirtti. Elektrik kurulu gücünün 2025 itibarıyla 123 bin megavat olduğunu, 2040'ta yaklaşık 160 bin megavatlık artışla 281 bin megavata çıkmasının hedeflendiğini aktardı. Yenilenebilirin payının yüzde 63'ten yüzde 77'ye çıkması hedefleniyor; bunun için yaklaşık 190 milyar dolarlık yatırım gerektiği söylendi.
-
-Bayraktar, programı enerji verimliliği, nükleer enerji, yenilenebilir enerji, petrol ve doğal gaz ile madenlerden oluşan beş temel başlık üzerine kurduklarını anlattı. İletim tarafında 36 milyar dolarlık yatırım öngörüldüğünü, yüksek gerilim hatlarının yaklaşık 77 bin kilometreden 112 bin kilometreye çıkarılacağını söyledi. Bakan ayrıca bir megavatın altındaki küçük santrallerin daha yoğun kurulmasını hedeflediklerini belirtti.
 
 ---
