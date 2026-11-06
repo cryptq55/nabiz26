@@ -47,6 +47,8 @@ CATEGORY_TAGS = {
 }
 # Başlık/etiketlerde geçen sözcüğe göre ek etiketler
 KEYWORD_TAGS = [
+    ("cop31", ["#COP31", "#İklim"]), ("burs ve öğrenim kredisi", ["#GSBBurs", "#Burs"]),
+    ("ecevit", ["#BülentEcevit"]), ("iklim okulu", ["#İklimOkulu"]), ("71 evler", ["#71Evler", "#Odunpazarı"]),
     ("togg", ["#Togg", "#YerliOtomobil"]), ("elektrik kesinti", ["#ElektrikKesintisi"]),
     ("su kesinti", ["#SuKesintisi"]), ("eskişehirspor", ["#Eskişehirspor"]),
     ("cumhuriyet bayram", ["#CumhuriyetBayramı", "#29Ekim"]), ("anadolu üniversitesi", ["#AnadoluÜniversitesi"]),

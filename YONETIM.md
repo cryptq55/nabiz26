@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 06.11.2026 21:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (306 sayfa, venv ile). Son haber 15:59 TSİ (~5,5 saat önce, durgun); son 24 saatte 25 kayıt (24 yayında; Eğitim 7, Belediye 5, Spor 4, Ekonomi/Siyaset 3; ilçe Merkez 10, Türkiye 6, Odunpazarı/Tepebaşı 4), 10'unda fotoğraf yok. Neden: `masa.yml` zamanlı turu GitHub cron gecikmesiyle 12:54 UTC'den sonra hiç çalışmadı (son 6 koşunun 2'si schedule, biri 00:10 UTC'de Tailscale hatasıyla düşmüştü). Takipçi 77 (+4/gün), 7 gün erişim 26.772; Reels ort. 365, gönderi 9. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml` elle tetiklendi (workflow_dispatch) akışı canlandırmak için.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e COP31, GSB burs, Ecevit, İklim Okulu, 71 Evler etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) masa için GitHub cron'una güvenmeyen yedek tetik (saglik.yml eşiği 3 saat -> 2 saat).
+SAHİBİNE: yok (GitHub zamanlı iş gecikmesi sürerse saglik.yml yedeği devreye giriyor).
+
 ## 06.11.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. **Haber akışı DURMUŞ:** son haber 05.11 22:24 TSİ (~11 saat önce), son 24 saatte 33 kayıt (Eğitim 7, Belediye 6, Ekonomi 5; Merkez 14, Türkiye 7). Neden: `masa.yml` 06.11 03:10 TSİ çalışması Tailscale adımında 403 ("token exchange failed", güven kimliği reddediyor) ile düştü; sonraki 2 saatlik tur hiç tetiklenmedi (GitHub cron gecikmesi). Instagram: log 16, reel_log 8. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml`: Tailscale adımı `continue-on-error`; bağlanamazsa `NEWS_API_BASE` boşaltılır ve tur doğrudan Gemini ile yazar (haber akışı özel ağa bağımlı kalmaz).
