@@ -2,6 +2,130 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda gençlerden LÖSEV'e yoğun ilgi
+
+**Belediye · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/29ekimgenclikmerkezi’ndesosyalsorumlulukprogramlarıdevamediyor)
+
+![](data/images/24517ca6993e446e.jpg)
+
+> Tepebaşı Belediyesi 29 Ekim Gençlik Merkezi'nde düzenlenen LÖSEV bilgilendirme toplantısında, gençlere vakfın çalışmaları ve gönüllülük olanakları anlatıldı.
+
+Tepebaşı Belediyesi, gençlerin toplumsal dayanışma ve gönüllülük faaliyetlerine katılımını destekleyen Sosyal Sorumluluk Programları'na devam ediyor. Anadolu Üniversitesi ve Eskişehir Teknik Üniversitesi ile yürütülen protokol iş birlikleri çerçevesinde hayata geçirilen programa, 2026 yılı güz döneminde 160 genç kayıt yaptırdı.
+
+Bu kapsamda 29 Ekim Gençlik Merkezi Ali İsmail Korkmaz Sahnesi'nde LÖSEV bilgilendirme toplantısı gerçekleştirildi. Yaklaşık 50 gencin katıldığı buluşmada, LÖSEV Eskişehir FAYDA Projesi Kıdemli Personeli Sema Nur Cin ile proje personelleri Birol Sönmez ve Meliha Taşdemir katılımcılara vakfın yürüttüğü çalışmalar hakkında bilgi verdi.
+
+Toplantıda gençlere gönüllülük olanakları da detaylı şekilde aktarıldı. Tepebaşı Belediyesi, sivil toplum kuruluşlarıyla iş birliği içinde gençleri farklı gönüllülük alanlarıyla buluşturan bu tür bilgilendirme buluşmalarının önümüzdeki dönemde de sürdürüleceğini bildirdi.
+
+---
+
+## Tepebaşı'na yeni sağlık merkezi: Hayırsever protokolü imzalandı
+
+**Sağlık · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yusuf-ozsoy-saglik-tesisi-ek-protokol-imza-torenine-katildi)
+
+![](data/images/2a3e50ffc59a20fe.jpg)
+
+> Eskişehir'de Yenibağlar Mahallesi'ne kazandırılacak Aile Sağlığı Merkezi ve ilçe sağlık müdürlüğü binası için imza töreni düzenlendi.
+
+Eskişehir'de sağlık altyapısını güçlendirecek yeni bir tesis için resmi adım atıldı. Valilik, İl Sağlık Müdürlüğü ve hayırsever firma arasında imzalanan ek protokol ile Tepebaşı ilçesine yeni bir sağlık kompleksi kazandırılıyor.
+
+Yenibağlar Mahallesi'nde tahsis edilen 502,87 metrekarelik arsa üzerine kurulacak olan tesis, en az 1.500 metrekare kapalı alana sahip olacak. Hayırsever Ahmet Özsoy tarafındanfinanse edilecek binada Aile Sağlığı Merkezi, Verem Savaş Dispanseri ve Tepebaşı İlçe Sağlık Müdürlüğü hizmet binası bir arada yer alacak.
+
+Vali Dr. Erdinç Yılmaz, imza töreninde kente yapılan bu anlamlı katkıdan dolayı hayırsever Ahmet Özsoy'a teşekkürlerini iletti. Tesisin adı, hayırseverin talebi doğrultusunda "Yusuf Özsoy Sağlık Tesisi" olacak.
+
+Ek protokol, İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici ile hayırsever Ahmet Özsoy tarafından imzalanarak Vali Yılmaz'ın onayının ardından yürürlüğe girdi.
+
+---
+
+## Odunpazarı İlçe Milli Eğitim Müdürlüğü'nden USAEM'e ziyaret
+
+**Eğitim · Odunpazarı** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-ilce-milli-egitim-mueduerluegue-nden-usaem-e-ziyaret-301176.html)
+
+> Odunpazarı İlçe Milli Eğitim Müdürlüğü heyeti, Eskişehir Uçucu Sağlığı Araştırma ve Eğitim Merkezi'ni (USAEM) ziyaret ederek havacılık ve uzay eğitiminde iş birliği imkânlarını değerlendirdi.
+
+Odunpazarı İlçe Millî Eğitim Müdürü Barış Hancı ile Şube Müdürü Ömer Kızılkılıç, askerî pilotlara uçuş sağlığı eğitimleri veren ve dünyada nadir bulunan Eskişehir Uçucu Sağlığı Araştırma ve Eğitim Merkezi’ni (USAEM) ziyaret etti.
+
+Ziyaret kapsamında merkezdeki laboratuvarları ve simülasyon cihazlarını inceleyen müdürlük yetkilileri, yürütülen çalışmalar hakkında merkez yöneticilerinden detaylı bilgi aldı. Görüşmelerde, öğrencilerin havacılık ve uzay bilimlerine olan ilgisini artırmak, farkındalık kazandırmak ve geleceğin havacılık profesyonellerinin yetişmesine katkı sunmak amacıyla hayata geçirilebilecek ortak projeler ele alındı.
+
+Eğitim alanında olası iş birliği imkânlarının değerlendirildiği program, karşılıklı iyi niyet temennileriyle tamamlandı.
+
+---
+
+## Fethi Heper Stadyumu'nda yenileme çalışmaları incelendi
+
+**Spor · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-fethi-heper-stadyumu-yenileniyor)
+
+> Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, Prof. Dr. Fethi Heper Stadyumu'ndaki yenileme ve iyileştirme çalışmalarını yerinde inceledi.
+
+Eskişehir'de spor altyapısını güçlendirmek amacıyla yürütülen çalışmalar aralıksız sürüyor. Bu kapsamda Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın ve şube müdürleri, Prof. Dr. Fethi Heper Stadyumu'nu ziyaret ederek devam eden projeleri denetledi.
+
+Ziyaret sırasında yetkililerden çalışmaların son durumu hakkında detaylı bilgi alındı. Antrenman salonlarının fiziki koşullarının daha modern hale getirilmesi ve sporculara elverişli imkânlar sunulması amacıyla yürütülen yenileme faaliyetlerinin planlandığı şekilde devam ettiği bildirildi.
+
+Stadyumda gerçekleştirilen bu iyileştirmelerle birlikte, sporcuların antrenmanlarını daha modern ve konforlu ortamlarda yapabilmesi amaçlanıyor.
+
+---
+
+## ESTÜ'de sıtma farkındalık eğitimi: Bulaşma yolları ve korunma anlatıldı
+
+**Sağlık · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-sitma-farkindalik-egitimi-duzenlendi)
+
+> Eskişehir Teknik Üniversitesinde, Tepebaşı İlçe Sağlık Müdürlüğü iş birliğiyle sıtma hastalığına yönelik farkındalık eğitimi düzenlendi.
+
+Eskişehir Teknik Üniversitesi (ESTÜ), öğrencileri ve personeline yönelik bilinçlendirme faaliyetlerine bir yenisini ekledi. Tepebaşı İlçe Sağlık Müdürlüğü ile ortaklaşa gerçekleştirilen eğitim programı, üniversite yerleşkesinde yoğun bir katılımla yapıldı.
+
+Eğitimde Dr. Fatih Köse, Ebe Hacer Atabay ve Hemşire Hayriye Tatlı tarafından katılımcılara kapsamlı bilgiler aktarıldı. Uzmanlar sunumlarında sıtma hastalığının bulaşma yolları, yayılım gösterdiği risk faktörleri ve temel belirtileri üzerinde durdu.
+
+Program boyunca erken tanının hayat kurtarıcı önemi vurgulanırken, hastalıktan korunma yöntemleri ve alınabilecek bireysel önlemler detaylı şekilde ele alındı. Etkinlik, katılımcılardan gelen soruların uzmanlar tarafından yanıtlanması ve koruyucu sağlık uygulamalarına dair tavsiyelerle sona erdi.
+
+---
+
+## Eskişehir'de şehitler anısına 600 kişinin katılımıyla fidan dikildi
+
+**Gündem · Merkez** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberturk.com/gundem/eskisehir-de-sehitlerin-anisina-fidan-dikildi-3925464)
+
+> Eskişehir Valiliği koordinesinde yürütülen proje kapsamında, şehitlerin hatırasını yaşatmak için Bölge Trafik Denetleme Şube Müdürlüğü bahçesinde fidanlar toprakla buluşturuldu.
+
+Eskişehir'de, şehitlerin hatırasını yaşatmak ve gelecek nesillere daha yeşil bir çevre bırakmak amacıyla anlamlı bir fidan dikim etkinliği gerçekleştirildi.
+
+Eskişehir Valiliği'nden yapılan açıklamaya göre, Terörle Mücadele Daire Başkanlığı Bilgilendirme ve Önleme Faaliyetleri Şube Müdürlüğü koordinesinde "Şehitlerimiz İçin Her Bir Fidan, Geleceğimiz İçin Bin Nefes-2" projesi hayata geçirildi.
+
+Bölge Trafik Denetleme Şube Müdürlüğünün bahçesinde düzenlenen programa Vali Yardımcısı Ersin Emiroğlu, protokol üyeleri, emniyet mensupları, şehit aileleri ve öğrenciler katıldı. Yaklaşık 600 kişinin yer aldığı etkinlikte, şehitlerin adını taşıyan fidanlar toprakla buluşturuldu.
+
+---
+
+## Bakan Tekin: Eğitim bakanlıkları dünya barışı için sorumluluk almalı
+
+**Türkiye · Türkiye** · 2026-11-06 18:41 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/eit-egitim-enstitusu-5-mutevelli-heyeti-quotis-birliginin-gelistirilmesiquot-gundemiyle-toplandi/haber/42425/tr)
+
+![](data/images/3e89c1d2a4278da1.jpg)
+
+> EİT Eğitim Enstitüsü 5. Mütevelli Heyet Toplantısı'nda konuşan Millî Eğitim Bakanı Yusuf Tekin, küresel sorunlara karşı eğitim alanında daha aktif rol alınması gerektiğini vurguladı.
+
+Millî Eğitim Bakanı Yusuf Tekin, EİT Eğitim Enstitüsü 5. Mütevelli Heyet Toplantısı'nda üye ülkeler arasındaki eğitim iş birliğinin geliştirilmesi ve gelecek döneme ilişkin çalışma programı hakkında değerlendirmelerde bulundu. Toplantıda Enstitünün faaliyetleri, mali ve idari yapısı ele alındı.
+
+Katılımcılara hitap eden Bakan Tekin, EİT Eğitim Enstitüsünün son dönemde ivme kazandığını belirterek, Türkiye'nin süreçteki kurucu ve ev sahibi rolüne dikkat çekti. Ankara'da imzalanan Ev Sahibi Ülke Anlaşması ile kurumun diplomatik statü kazandığını hatırlatan Tekin, yapının kurumsallaşma sürecini tamamladığını ifade etti.
+
+Dünyada yaşanan insan hakları ihlallerine ve antidemokratik gelişmelere dikkat çeken Tekin, eğitim bakanlıklarının bu süreçte kritik sorumluluklar taşıdığını kaydetti. Türkiye'nin eğitim müfredatında barış ve insan haklarını önceleyen adımlar attığını belirten Tekin, Türkiye Yüzyılı Maarif Modeli ile barış dolu bir dünya inşa etmeyi amaçladıklarını söyledi.
+
+Toplantının sonunda Mütevelli Heyeti gündemindeki konular müzakere edildi. Merkezi Ankara'da bulunan EİT Eğitim Enstitüsü Başkanlığına Mehmet Akif Kireçci yeniden seçilirken, bir sonraki toplantının İran'ın ev sahipliğinde yapılması kararlaştırıldı.
+
+---
+
+## Bakan Bayraktar: 2040'a kadar enerjide 500 milyar dolar yatırım yapacagiz
+
+**Türkiye · Türkiye** · 2026-11-06 18:41 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31963)
+
+![](data/images/27b97f772acfcacf.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin Milli Enerji 2040 vizyonu kapsamında 500 milyar dolarlık yatırım planlandığını belirterek, bu hamlenin 350 binden fazla kişiye istihdam sağlayacağını açıkladı.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, çeşitli temaslarda bulunmak üzere Mersin'i ziyaret etti. MÜSİAD tarafından düzenlenen gala yemeğinde iş insanlarıyla bir araya gelen Bakan Bayraktar, Türkiye'nin enerji alanındaki yeni hedeflerini ve projelerini paylaştı.
+
+İstanbul'da açıkladıkları Milli Enerji 2040 vizyonuna değinen Bayraktar, Türkiye'yi enerjide bağımsız kılmayı hedeflediklerini ifade etti. 2040 yılına kadar toplam 500 milyar dolar yatırım yapılacağını aktaran Bayraktar, bu yatırımların yaklaşık 108 bin kişiye doğrudan, 250 bin kişiye de dolaylı istihdam sağlayacağını kaydetti. Karadeniz'deki doğal gaz çalışmalarına da değinen Bakan Bayraktar, bu yılın sonunda ikinci fazın tamamlanmasıyla 2027 yılında 4 milyon olan hane sayısının 8 milyona çıkarılacağını belirtti.
+
+Akkuyu Nükleer Santral Projesi'nde sona gelindiğini ve önümüzdeki aylarda ilk elektriğin üretileceğini aktaran Bayraktar, projenin Türkiye'nin enerjisinin yüzde 10'unu karşılayacağını söyledi. Ayrıca devletin doğal gazda faturanın yüzde 63'ünü, elektrikte ise yüzde 55'ini karşılamaya devam ettiğini vurguladı.
+
+---
+
 ## Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu
 
 **Spor · Merkez** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://bodrumolay.com/bodrum-fknin-turkiye-kupasindaki-rakibi-eskisehirspor-oldu/)
@@ -341,135 +465,5 @@ Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü, Avr
 JOIN Projesi kapsamındaki programın moderatörlüğünü Prof. Dr. Alaaddin Faruk Paksoy üstlendi. Ulusoy, Avrupa Birliği kurumlarına erişim, akreditasyon işlemleri ve kaynaklarla iletişimde yaşanan değişimleri anlattı. Dijitalleşmenin gazetecileri daha fazla doğrulama yapmaya yönelttiğini belirtti.
 
 Atölyede uluslararası haber ajanslarının günlük işleyişi, haber önerilerinin hazırlanması ve merkeze iletilmesi üzerinde duruldu. Dezenformasyon, yapay zekâyla üretilen sahte görüntüler ve açık kaynak istihbaratı da ele alındı. Program, öğrencilerin sorularının yanıtlanmasıyla sona erdi.
-
----
-
-## Hakan Şapcı, Eskişehirspor’da 39 maçta 27 galibiyete ulaştı
-
-**Spor · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/sapci-son-10-sezonda-zirvede)
-
-> Şapcı, son 10 sezonda Eskişehirspor’un başında en fazla maça çıkan teknik direktörler sıralamasında ilk sırada yer aldı.
-
-Eskişehirspor Teknik Direktörü Hakan Şapcı, takımın başında çıktığı 39 karşılaşmada 27 galibiyet, 8 beraberlik ve 4 yenilgi aldı. Bu sonuçlarla galibiyet oranı yüzde 69’a ulaşırken siyah-kırmızılı ekip 35 maçta yenilmedi.
-
-İstikbal Gazetesi’nin derlediği verilere göre Şapcı, son 10 sezonda Eskişehirspor’da en fazla karşılaşmada görev yapan teknik direktör oldu. Onu 38 maçla Fuat Çapa, 28 maçla Suat Kaya, 23 maçla Yücel İldiz ve 21 maçla Mustafa Özer izledi.
-
-Son 20 sezonun maç sayısı sıralamasında ise Şapcı beşinci basamakta bulunuyor. Bu listede Rıza Çalımbay 84, Ersun Yanal 75, Ertuğrul Sağlam 68 ve Michael Skibbe 47 karşılaşmayla önünde yer alıyor.
-
----
-
-## Eskişehir’de proje okulları Fatih Fen Lisesi’nde eğitim süreçlerini görüştü
-
-**Eğitim · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.aksiyon.com.tr/proje-okullari-eskisehir-de-bir-araya-geldi-egitim-surecleri-degerlendirildi-388700)
-
-> İl Millî Eğitim Müdürü Sinan Aydın başkanlığındaki toplantıda akademik çalışmaların yanı sıra okul güvenliği ve etkinlik planları değerlendirildi.
-
-Eskişehir’de proje okullarının koordinasyon toplantısı Fatih Fen Lisesi’nin ev sahipliğinde yapıldı. İl Millî Eğitim Müdürü Sinan Aydın’ın başkanlık ettiği buluşmaya birim amirleri ve okul müdürleri katıldı.
-
-Her ay farklı bir okulda gerçekleştirilen toplantının bu ayki gündeminde eğitim faaliyetleri, akademik başarıyı destekleyen uygulamalar ve okulların projeleri yer aldı. Yöneticiler, çalışmaların sonuçlarını ve paylaşılabilecek iyi örnekleri değerlendirdi.
-
-Öğrencilere yönelik yarışma ve gezi planları da görüşüldü. Okul güvenliği, iş sağlığı ve güvenliği ile farkındalık çalışmaları ele alınarak kurumlar arasındaki koordinasyonun güçlendirilmesi konusunda görüş birliğine varıldı.
-
----
-
-## Anadolu Üniversitesinde öğrenciler turşu kurdu, fermantasyonun bilimini öğrendi
-
-**Eğitim · Merkez** · 2026-11-05 19:02 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/id6hqo4qjzeujwbd2q209o04)
-
-![](data/images/6795cd583a0d9ff1.jpg)
-
-> EMYO’daki atölyede aşçılık öğrencileri turşu yapımını uygulayarak öğrendi; gastronomi, beslenme ve biyokimya birlikte ele alındı.
-
-Anadolu Üniversitesi Eskişehir Meslek Yüksekokulunda düzenlenen turşu atölyesi, geleneksel mutfak bilgisini bilimsel yaklaşımlarla buluşturdu. Ocak ve Çörek Mutfaklarında yapılan etkinlikte Rektör Prof. Dr. Yusuf Adıgüzel de öğrencilerle turşu hazırladı.
-
-EMYO Müdürü Doç. Dr. Osman Güldemir’in koordinasyonundaki programa Selçuk Üniversitesinden Prof. Dr. Fatma Hümeyra Yerlikaya Aydemir ve Prof. Dr. Nazan Aktaş konuk oldu. Öğrenciler malzeme seçimi ve hazırlama aşamalarının yanı sıra fermantasyonda yaşanan biyokimyasal değişimleri de ele aldı.
-
-Atölyede mevsimlik ürünlerin saklanması, gıda israfının azaltılması ve sürdürülebilir mutfak uygulamaları üzerinde duruldu. Aktaş, turşunun tuz içeriği nedeniyle tüketim miktarına dikkat edilmesi gerektiğini belirtti. Program, soruların yanıtlanması ve konuk akademisyenlere teşekkür belgelerinin verilmesiyle tamamlandı.
-
----
-
-## Afyon'daki saldırıların şüphelisi Seyitgazi'de yakalandı, 2 jandarma hafif yaralandı
-
-**Asayiş · Merkez** · 2026-11-05 18:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-8-kisiyi-olduren-1-kisiyi-agir-yaralayan-zanli-eskisehirde-yakalandi/4113099)
-
-> Valilik, failin Eskişehir sınırlarında jandarma ve emniyetin ortak çalışmasıyla yakalandığını açıkladı.
-
-Afyonkarahisar'da silahlı saldırılarda 8 kişinin ölümüne, 1 kişinin ağır yaralanmasına yol açan şüpheli Eskişehir'de yakalandı. Eskişehir Valiliği, saldırıları gerçekleştiren kişinin İl Jandarma Komutanlığı ve İl Emniyet Müdürlüğü ekiplerinin ortak çalışmasıyla "sağ olarak yakalandığını" duyurdu.
-
-Yerel haberlere göre şüpheli, gasp ettiği aracı Seyitgazi'nin Taşlık Mahallesi'nde çamura saplanınca bırakarak yaya kaçmaya devam etti. Jandarma ekipleri şüphelinin Seyitgazi'ye bağlı Kuyucak Mahallesi'ndeki bir maden ocağı yakınlarında olduğunu belirledi. Haberlerde şüphelinin adı Ali Sefa Ö. olarak geçti. Bölgeyi çevreleyen ekiplerin "teslim ol" ihtarına şüphelinin tüfekle ateş ederek karşılık verdiği, çıkan çatışmada 2 jandarma personelinin hafif yaralandığı bildirildi. Şüpheli gözaltına alınarak karakola götürüldü.
-
-Anadolu Ajansı'nın aktardığına göre Afyonkarahisar Cumhuriyet Başsavcılığı soruşturma başlattı ve 1 başsavcıvekili ile 3 cumhuriyet savcısı görevlendirdi. Hayatını kaybedenler arasında Yukarıtandır Ortaokulu'nda görevli iki öğretmen de bulunuyor; İl Milli Eğitim Müdürlüğü başsağlığı diledi.
-
-Şüpheli hakkındaki yargı süreci sürüyor; haber, resmî açıklamalara ve yayımlandığı sıradaki haberlere dayanıyor.
-
----
-
-## Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor
-
-**Belediye · Odunpazarı** · 2026-11-05 17:32 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazari-belediyesi-haksiz-yere-hicbir-seyden-para-almaz)
-
-![](data/images/4d79701a520c54ab.jpg)
-
-> Kurt, Tepebaşı ile Odunpazarı hesaplarının aynı yöntemle yapıldığını söyledi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, kasım ayı meclis toplantısında 2027 Yılı Evsel Katı Atık Tarife Raporu'na ilişkin AK Parti meclis üyelerinin eleştirilerine yanıt verdi. Rapor, AK Parti üyelerinin karşı oyuna rağmen oy çokluğuyla kabul edilmişti.
-
-Kurt, raporun şeffaf olduğunu ve herkesin inceleyebileceğini söyledi. Temizlik işlerinde başka yerde çalışan, işe gelmeden maaş alan kimsenin bulunmadığını belirten Kurt, personelin giriş ve çıkışını kaydeden bir takip sistemleri olduğunu anlattı. Temizlik işlerinde 10 yıl önce 430 küsur işçi çalışırken bugün 420 işçi ve 10 memur bulunduğunu, bu sürede nüfusun 70-80 bin arttığını söyledi.
-
-Kurt, Tepebaşı ve Odunpazarı belediyelerinin bürokratlarının raporu birlikte hazırladığını, iki belediyenin hesabı arasında fark bulunmadığını ve konutlarda yıllık bedelin yaklaşık 970 lira olduğunu belirtti. Artış oranlarına ilişkin istatistik tartışmalarının yoruma açık olduğunu söyledi.
-
-AK Parti Meclis Üyesi Berke Akyel ise toplantıda, Odunpazarı'nın toplam katı atık maliyetindeki artışın Tepebaşı'ndan yüksek olduğunu ve temizlik kadrosunda görünüp başka birimlerde çalıştırılan personelin maaşlarının bedele yansıtılıp yansıtılmadığını sormuştu.
-
----
-
-## Afyon'daki saldırının firari şüphelisi Seyitgazi'de aranıyor, ekipler dron kullanıyor
-
-**Asayiş · Merkez** · 2026-11-05 17:32 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/olu-sayisi-7ye-yukseldi-afyondaki-kanli-olay-sonrasi-eskisehirde-alarma-gecildi)
-
-> Şüphelinin aracını Taşlık yakınlarında bıraktığı bildirildi; Eskişehir-Seyitgazi yolunda güvenlik noktası kuruldu.
-
-Afyonkarahisar'ın İhsaniye ilçesinde 8 kişinin silahlı saldırıda öldüğü olayın firari şüphelisi, Eskişehir'in Seyitgazi ilçesinde aranıyor. Haberlerde şüphelinin aracını Seyitgazi'nin Taşlık Mahallesi yakınlarında bırakıp kırsal alana kaçtığı belirtildi.
-
-Afyonkarahisar Valiliği, silahlı saldırılarda 8 kişinin hayatını kaybettiğini, 1 kişinin ağır yaralandığını açıkladı. Haberlerde olayın İhsaniye'ye bağlı Ayazini ve Kıyır mahallelerinde yaşandığı, üç ayrı araçta cansız bedenlerin bulunduğu, hayatını kaybedenlerden ikisinin öğretmen olduğu aktarıldı. Şüphelinin kırmızı renkli bir hafif ticari aracı gasp ederek kaçtığı, Seyitgazi-Çifteler yolu üzerinde bir otomobili de aldığı iddia edildi.
-
-Eskişehir İl Emniyet Müdürlüğü ekipleri, şüphelinin Eskişehir istikametine yönelebileceği ihtimaline karşı Eskişehir-Seyitgazi karayolunda güvenlik noktası kurdu ve yola araç durdurucu kapan yerleştirdi. Polis ve jandarma ekipleri kırsal alanda termal kameralı dronlarla arama yapıyor; metruk yapılar, tarım arazileri ve ormanlık alanlar tek tek kontrol ediliyor. Kütahya, Eskişehir ve Afyonkarahisar çevresinde geniş çaplı operasyon sürüyor.
-
-Haber, yayımlandığı sıradaki bilgilere dayanıyor; şüpheli hakkında yargı süreci sonuçlanmadı.
-
----
-
-## Tepebaşı ve Odunpazarı'nda 2027 evsel katı atık tarifesi meclislerden geçti
-
-**Belediye · Tepebaşı** · 2026-11-05 15:32 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.eskisehirekspres.net/tepebasinda-cop-ucretlerine-zam-2027-tarifesi-belli-oldu)
-
-![](data/images/4b7893b804d8af2d.jpg)
-
-> Tepebaşı'nda konut başına yıllık 970 TL, Odunpazarı'nda 973,40 TL alınacak.
-
-Tepebaşı ve Odunpazarı belediye meclisleri, 2027 Yılı Evsel Katı Atık Tarife Raporu'nu kasım ayı toplantılarında oy çokluğuyla kabul etti.
-
-Tepebaşı'nda kabul edilen tarifeye göre konutlardan yıllık 970 TL evsel katı atık bedeli alınacak. Aynı tarifede eğitim kurumlarında öğrenci başına yıllık 128 TL 10 kuruş, kamu binalarında personel başına 600 TL, hastane ve yataklı sağlık kuruluşlarında yatak başına 1.400 TL, otel ve pansiyonlarda yatak başına 1.000 TL, restoran ve kafelerde metrekare başına 115 TL 54 kuruş, sanayi kuruluşlarında iş yeri başına 3.600 TL, pazarlarda tezgâh başına 1.750 TL öngörülüyor. Tepebaşı'nda 2025 yılında toplam 142 bin 408 ton çöp oluştuğu meclis verilerinde yer aldı.
-
-Odunpazarı'nda ise konutlardan 2027'de yıllık 973,40 lira evsel katı atık bedeli alınacak. Rapor, AK Parti meclis üyelerinin karşı oyuyla oy çokluğuyla kabul edildi.
-
-AK Parti Odunpazarı Meclis Üyesi Berke Akyel, Tepebaşı'nın toplam katı atık maliyetinin 2026'da 272 milyon liradan 2027'de 365 milyona (yüzde 34), Odunpazarı'nınkinin ise 271 milyon liradan 435 milyona (yüzde 61) çıktığını öne sürdü. Akyel, temizlik kadrosunda görünüp başka birimlerde çalışan personelin maaşlarının bedele yansıtılıp yansıtılmadığını sordu.
-
-Tepebaşı'nda AK Parti Meclis Üyesi Ali Semih Ünlü, başka müdürlüklerde çalışan personelin 19 milyon 542 bin 687 liralık maliyetinin Plan ve Bütçe Komisyonunda yeni tarife hesabından çıkarıldığını söyledi ve önceki yıllarda fazla ücret alınmış olabileceğini gündeme getirdi.
-
-İki belediye yönetiminin bu iddialara yanıtı kaynak metinlerde yer almıyor.
-
----
-
-## Anadolu Üniversitesi e-Sertifika programı başvuruları 8 Kasım'a uzatıldı
-
-**Eğitim · Tepebaşı** · 2026-11-05 15:31 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/eskisehir-anadolu-universitesinde-e-sertifika-basvurulari-uzatildi-iste-son-basvuru-tarihi)
-
-> Güz dönemi dersleri 9 Kasım'da başlayacak; başvurular sinavbasvuru.anadolu.edu.tr üzerinden yapılıyor.
-
-Anadolu Üniversitesi Sürekli Eğitim Merkezi (ANADOLUSEM) tarafından yürütülen e-Sertifika Programları'na başvurular 8 Kasım 2026'ya kadar uzatıldı. Başvurular sinavbasvuru.anadolu.edu.tr adresi üzerinden yapılabiliyor.
-
-Herkesin başvurusuna açık programlar uzaktan eğitim olarak sunuluyor. Katılımcılar, Anadolum eKampüs Sistemi üzerinden dijital ders materyallerinden yararlanıyor. Sağlıktan iletişime, işletmeden turizme, siyasetten çocuk gelişimine, yabancı dillerden bilişim teknolojilerine kadar geniş bir yelpazede sunulan programlarda bir ila üç arasında ders bulunuyor ve ders kitapları dijital ortamda veriliyor.
-
-2026 Güz Dönemi e-Sertifika Programlarının dersleri 9 Kasım 2026'da başlayacak. Ayrıntılı bilgiler esertifika.anadolu.edu.tr adresinde yer alıyor.
 
 ---
