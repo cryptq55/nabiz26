@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 7 Kasım 2026: Gram altın 6.620,93 TL
+
+**Ekonomi · Merkez** · 2026-11-07 12:06 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261107.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.543,03 TL'den alınıyor, 6.620,93 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.06 itibarıyla verilerine göre gram altının satış fiyatı 6.620,93 TL, alış fiyatı 6.543,03 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.791 TL, yarım altın 21.576 TL, tam altın 42.993 TL, ata altın 44.142 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.185,06 TL, has altının gram fiyatı 6.601,13 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.071,20 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.06 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## İletişim Başkanı Duran, Nijeryalı Bakan Malagi ile görüştü
 
 **Türkiye · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-nijerya-enformasyon-ve-ulusal-uyum-bakani-malagi-ile-bir-araya-geldi)
@@ -451,21 +471,5 @@ Katılımcılara hitap eden Bakan Tekin, EİT Eğitim Enstitüsünün son dönem
 Dünyada yaşanan insan hakları ihlallerine ve antidemokratik gelişmelere dikkat çeken Tekin, eğitim bakanlıklarının bu süreçte kritik sorumluluklar taşıdığını kaydetti. Türkiye'nin eğitim müfredatında barış ve insan haklarını önceleyen adımlar attığını belirten Tekin, Türkiye Yüzyılı Maarif Modeli ile barış dolu bir dünya inşa etmeyi amaçladıklarını söyledi.
 
 Toplantının sonunda Mütevelli Heyeti gündemindeki konular müzakere edildi. Merkezi Ankara'da bulunan EİT Eğitim Enstitüsü Başkanlığına Mehmet Akif Kireçci yeniden seçilirken, bir sonraki toplantının İran'ın ev sahipliğinde yapılması kararlaştırıldı.
-
----
-
-## Bakan Bayraktar: 2040'a kadar enerjide 500 milyar dolar yatırım yapacagiz
-
-**Türkiye · Türkiye** · 2026-11-06 18:41 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31963)
-
-![](data/images/27b97f772acfcacf.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin Milli Enerji 2040 vizyonu kapsamında 500 milyar dolarlık yatırım planlandığını belirterek, bu hamlenin 350 binden fazla kişiye istihdam sağlayacağını açıkladı.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, çeşitli temaslarda bulunmak üzere Mersin'i ziyaret etti. MÜSİAD tarafından düzenlenen gala yemeğinde iş insanlarıyla bir araya gelen Bakan Bayraktar, Türkiye'nin enerji alanındaki yeni hedeflerini ve projelerini paylaştı.
-
-İstanbul'da açıkladıkları Milli Enerji 2040 vizyonuna değinen Bayraktar, Türkiye'yi enerjide bağımsız kılmayı hedeflediklerini ifade etti. 2040 yılına kadar toplam 500 milyar dolar yatırım yapılacağını aktaran Bayraktar, bu yatırımların yaklaşık 108 bin kişiye doğrudan, 250 bin kişiye de dolaylı istihdam sağlayacağını kaydetti. Karadeniz'deki doğal gaz çalışmalarına da değinen Bakan Bayraktar, bu yılın sonunda ikinci fazın tamamlanmasıyla 2027 yılında 4 milyon olan hane sayısının 8 milyona çıkarılacağını belirtti.
-
-Akkuyu Nükleer Santral Projesi'nde sona gelindiğini ve önümüzdeki aylarda ilk elektriğin üretileceğini aktaran Bayraktar, projenin Türkiye'nin enerjisinin yüzde 10'unu karşılayacağını söyledi. Ayrıca devletin doğal gazda faturanın yüzde 63'ünü, elektrikte ise yüzde 55'ini karşılamaya devam ettiğini vurguladı.
 
 ---
