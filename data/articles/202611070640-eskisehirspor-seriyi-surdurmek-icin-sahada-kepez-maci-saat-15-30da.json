@@ -21,11 +21,11 @@
     "title": "Eskişehirspor’da seri zamanı! Şimşekler Kepez’i bekliyor - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirsporda-seri-zamani-simsekler-kepezi-bekliyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor",
       "Fethi Heper Stadyumu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

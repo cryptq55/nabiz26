@@ -21,11 +21,11 @@
     "title": "Ehliyet sınavında kopya şebekesine operasyon İhlas Haber Ajansı - İhlas Haber Ajansı",
     "url": "https://www.iha.com.tr/eskisehir-haberleri/ehliyet-sinavinda-kopya-sebekesine-operasyon-512022951"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Emniyet Müdürlüğü",
       "polis merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
