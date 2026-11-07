@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 07.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son haber sayfaları 200. Derleme geçti (329 haber, venv ile). Son haber 21:05 TSİ (akış canlı); son 24 saatte 37 kayıt (Belediye 6, Siyaset/Türkiye 5, Ekonomi/Eğitim 4, Asayiş/Spor/Gündem 3; ilçe Türkiye 13, Merkez 11, Odunpazarı/Tepebaşı 6, Günyüzü 1), 14'ünde fotoğraf yok. Instagram: log 15, reel_log 8 (DAILY_CAP=16 dolmadı), reels kaydı 92. Tekrar: "Erdoğan ve Trump telefon görüşmesi" iki ayrı haber olarak çıkmış (masa tekrar önleme zayıf; yayınlanmış metne dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Kurşunlu Külliyesi, Savunma Sanayii, PISA, Robotik, Azerbaycan, Ehliyet, Kentpark, Kırım Tatar etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) aynı olay için masa tekrar denetimi (başlık benzerliği).
+SAHİBİNE: yok.
+
 ## 07.11.2026 09:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden 2'si 404 (fotoğrafsız kayıt, sayfa üretilmiyor; beklenen). Derleme geçti (317 haber, venv ile). Son haber 03:58 TSİ (~5,5 saat önce, durgun); son 24 saatte 31 yayında haber (Eğitim/Belediye 6, Spor 4, Sağlık/Türkiye 3; ilçe Tepebaşı 10, Merkez/Türkiye 8, Odunpazarı 4), 14'ünde fotoğraf yok. Instagram: log 16, reel_log 10. Neden durgun: GitHub zamanlı işleri çok seyrek çalışıyor (masa.yml son schedule koşusu 03:52 TSİ, saglik.yml 06:15 TSİ'den sonra yok). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml` elle tetiklendi; `saglik.yml` yedek eşiği 3 -> 2 saat.
