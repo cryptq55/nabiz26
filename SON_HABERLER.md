@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## İletişim Başkanı Duran, Nijeryalı Bakan Malagi ile görüştü
+
+**Türkiye · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-nijerya-enformasyon-ve-ulusal-uyum-bakani-malagi-ile-bir-araya-geldi)
+
+![](data/images/e01791c45031f437.jpg)
+
+> İletişim Başkanı Burhanettin Duran, TRT World Forum 2026 için ülkemizde bulunan Nijerya Enformasyon ve Ulusal Uyum Bakanı Mohammed İdris Malagi'yi ağırladı.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT World Forum 2026 etkinlikleri dolayısıyla Türkiye'de bulunan Nijerya Federal Cumhuriyeti Enformasyon ve Ulusal Uyum Bakanı Mohammed İdris Malagi ve beraberindeki heyetle bir araya geldi.
+
+Görüşmede, Türkiye ile Nijerya arasında medya ve iletişim alanındaki iş birliği imkânları masaya yatırıldı. Taraflar, kamu diplomasisi ve stratejik iletişim konularında geliştirilebilecek ortak çalışmaları değerlendirdi.
+
+İletişim Başkanı Duran, iki ülke arasındaki ilişkilerin iletişim alanında da güçlenerek sürmesini dilediğini belirterek konuk bakana ve heyetine teşekkür etti.
+
+---
+
+## Eskişehir'e yeni bir vizyon: Kentpark'taki İklim Adası kapılarını açtı
+
+**Belediye · Merkez** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/unlucenin-iklim-adasi-gelecege-acilan-kapi)
+
+> Eskişehir Büyükşehir Belediyesi tarafından Kentpark içinde hayata geçirilen İklim Adası, sürdürülebilirlik, bilim ve teknolojiyi buluşturan yeni bir yaşam alanı olarak hizmet vermeye başladı.
+
+Eskişehir Büyükşehir Belediyesi, kentte sürdürülebilir yaşam kültürünü yaygınlaştırmak amacıyla önemli bir projeyi daha hayata geçirdi. Başkan Ayşe Ünlüce'nin öncülüğünde Kentpark içerisinde yeniden düzenlenen İklim Adası, bilim, teknoloji ve çevre bilincini bir araya getiren bir merkez olarak kapılarını açtı.
+
+Eski Ada Restoran'ın bulunduğu alanda kurulan ve yaklaşık 500 metrekare kapalı ile 2 bin metrekare açık alana sahip olan merkez; kütüphane, atölyeler, amfi, çalışma alanları, podcast ve çekim odalarının yanı sıra yeme-içme ve dinlenme bölümlerini barındırıyor. Projede çevre dostu uygulamalar dikkat çekerken, kafeteryadaki mobilyaların tamamının sürdürülebilirlik anlayışıyla ikinci el ürünlerden tercih edildiği belirtildi.
+
+İklim Adası'nda ayrıca yağmur sularının depolanarak yeşil alanların sulamasında kullanılacağı çevre dostu sistemler de yer alıyor. Öğrencilerden akademisyenlere ve girişimcilere kadar her kesimden vatandaşın buluşma noktası olması hedeflenen merkez, Eskişehir'in akıllı şehir vizyonuna katkı sunmayı amaçlıyor.
+
+---
+
+## Erdoğan'dan Azerbaycan ziyareti açıklaması: 8 Kasım'da gideceğim
+
+**Siyaset · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://ankahaber.net/haber/cumhurbaskani-erdogan-dan-azerbaycan-aciklamasi-kardesligimizin-asamayacagi-hicbir-engel-yoktur-a4c49662)
+
+![](data/images/c2a15e0e4ab06615.jpg)
+
+> Cumhurbaşkanı Erdoğan, Seul dönüşü uçakta yaptığı açıklamada 8 Kasım'da Azerbaycan'ın Zafer Günü etkinliklerine katılmayı planladığını duyurdu.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Seul ziyaretinden Türkiye'ye dönüşü sırasında uçakta gazetecilerin sorularını yanıtladı. Azerbaycan ile ilişkiler hakkında değerlendirmelerde bulunan Erdoğan, fevkalade bir durum olmazsa 8 Kasım'da Azerbaycan'ın Zafer Günü'ne katılmak üzere bir ziyaret gerçekleştirmeyi düşündüğünü belirtti.
+
+İki ülke arasındaki bağların klasik diplomatik temasların ötesinde olduğunu vurgulayan Erdoğan, "Türkiye ve Azerbaycan kardeşliğinin evelallah aşamayacağı hiçbir engel yoktur" ifadesini kullandı. Ziyaret kapsamında gerekli adımların atılacağını belirten Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefon görüşmeleri gerçekleştirdiğini, ayrıca İstihbarat Başkanı ile Dışişleri Bakanı'nı da Azerbaycan'a gönderdiğini aktardı.
+
+Açıklamalarında fon soruşturmasına da değinen Cumhurbaşkanı Erdoğan, sermaye piyasalarının usulsüzlüklerden ve manipülasyonlardan temizleneceğini belirterek, gerekli yol haritasının oluşturulduğunu ve sürecin titizlikle takip edildiğini kaydetti.
+
+---
+
+## Bakan Tekin: PISA'daki yükseliş vesayetle mücadelenin sonucudur
+
+**Eğitim · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/il-milli-egitim-mudurleri-toplantisi-diyarbakir039da-gerceklesti/haber/42428/tr)
+
+![](data/images/57785813f32b2ee1.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin, Diyarbakır'da düzenlenen İl Millî Eğitim Müdürleri Toplantısı'nda eğitim alanındaki gelişmeleri değerlendirdi.
+
+Millî Eğitim Bakanı Yusuf Tekin, yürütülen çalışmaları değerlendirmek üzere bakan yardımcıları ve birim amirlerinin de katılımıyla Diyarbakır'da 81 ilin millî eğitim müdürüyle bir araya geldi.
+
+Toplantıda, bakanlığın eğitim politikalarının ülke genelinde aynı hassasiyetle uygulanmasında il millî eğitim müdürlerinin kritik bir sorumluluk üstlendiğini belirten Bakan Tekin, her çocuğun eğitim hakkının gözetilmesi ve öğretmenlerin mesleki itibarının korunması için sahadan gelen görüşlerle çalışmalara yön vermeye devam edeceklerini kaydetti.
+
+Türkiye'nin eğitimde fiziki imkânların yanı sıra akademik başarı bakımından da önemli mesafeler kat ettiğini dile getiren Tekin, 2003'te OECD PISA araştırmalarında ilk 30'da yer alamayan ülkenin, 2015 sonrasında istikrarlı bir yükseliş gösterdiğini ifade etti. Bu başarının arkasında eğitim sistemi üzerindeki vesayetçi yapılarla mücadelenin yattığını vurgulayan Tekin, 2013'ten itibaren atılan adımların ve dershanelere yönelik yasal düzenlemelerin bakanlığın kendi politikalarını uygulamasını sağladığını aktardı.
+
+İki gün sürecek olan toplantı, bakan yardımcıları ve birim amirlerinin sunumlarıyla sürdürülüyor.
+
+---
+
+## AK Partili Akyel'den Odunpazarı'na 'ruhsat' tepkisi
+
+**Belediye · Odunpazarı** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/berke-akyelden-odunpazari-belediyesine-tepki-arsa-sahipleri-ruhsat-bekliyor)
+
+> Odunpazarı Belediyesi AK Parti Meclis Üyesi Berke Akyel, Aşağı Çağlan, Kayapınar ve Kocakır bölgelerindeki TOKİ hak sahiplerine ruhsat verilmediğini ve kanuna aykırı olarak çap parası tahsil edildiğini öne sürdü.
+
+Odunpazarı Belediyesi AK Parti Meclis Üyesi Berke Akyel, meclis toplantısında yaptığı konuşmada TOKİ arsaları için hak sahiplerinden talep edilen ücretlere ve ruhsat gecikmelerine tepki gösterdi. Aşağı Çağlan, Kayapınar ve Kocakır'da ev yapmak isteyen vatandaşların tapularını aldığını belirten Akyel, süreçteki tek engelin belediye olduğunu iddia etti.
+
+Belediyenin hak sahiplerinden çap parası aldığını savunan Akyel, 775 sayılı Gecekondu Kanunu'nun 33. maddesi gereğince bu işlemlerin her türlü vergi, resim ve harçtan muaf olduğunu hatırlattı. Alınan belgelere harç yerine ücret yazıldığını ifade eden Akyel, alınan ücretlerin durdurulması ve tahsil edilen tutarların iade edilmesi için önerge sunacaklarını kaydetti.
+
+Ayrıca vatandaşların temmuz ayından bu yana verdiği 200'ün üzerindeki dilekçeye yanıt alamadığını belirten Akyel, kırmızı kot ve yol profili gibi teknik çizimlerin vatandaşlar tarafından temin edilmesine rağmen ruhsat verilmediğini söyledi. Akyel, belediyeyi TOKİ ile iletişime geçmeye ve hak sahiplerinin mağduriyetini gidermeye çağırdı.
+
+---
+
 ## Vali Yılmaz ve beraberindeki heyet Cumhurbaşkanı Yardımcısı Yılmaz'ı ziyaret etti
 
 **Gündem · Merkez** · 2026-11-07 06:40 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/alimiz-dr-erdinc-yilmaz-cumhurbaskani-yardimcimiz-sayin-cevdet-yilmaz-tarafindan-kabul-edildi)
@@ -389,83 +467,5 @@ Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, çeşitli temaslarda bulu
 İstanbul'da açıkladıkları Milli Enerji 2040 vizyonuna değinen Bayraktar, Türkiye'yi enerjide bağımsız kılmayı hedeflediklerini ifade etti. 2040 yılına kadar toplam 500 milyar dolar yatırım yapılacağını aktaran Bayraktar, bu yatırımların yaklaşık 108 bin kişiye doğrudan, 250 bin kişiye de dolaylı istihdam sağlayacağını kaydetti. Karadeniz'deki doğal gaz çalışmalarına da değinen Bakan Bayraktar, bu yılın sonunda ikinci fazın tamamlanmasıyla 2027 yılında 4 milyon olan hane sayısının 8 milyona çıkarılacağını belirtti.
 
 Akkuyu Nükleer Santral Projesi'nde sona gelindiğini ve önümüzdeki aylarda ilk elektriğin üretileceğini aktaran Bayraktar, projenin Türkiye'nin enerjisinin yüzde 10'unu karşılayacağını söyledi. Ayrıca devletin doğal gazda faturanın yüzde 63'ünü, elektrikte ise yüzde 55'ini karşılamaya devam ettiğini vurguladı.
-
----
-
-## Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu
-
-**Spor · Merkez** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://bodrumolay.com/bodrum-fknin-turkiye-kupasindaki-rakibi-eskisehirspor-oldu/)
-
-![](data/images/41e00c82de33d9b6.jpg)
-
-> Ziraat Türkiye Kupası 4. eleme turu kura çekimi sonucunda Eskişehirspor, Bodrum FK'nın rakibi oldu.
-
-Ziraat Türkiye Kupası 2026-2027 sezonu 4. eleme turu kura çekimi, Türkiye Futbol Federasyonunun Riva’daki Hasan Doğan Millî Takımlar Kamp ve Eğitim Tesisleri’nde yapıldı.
-
-Kulüp temsilcilerinin katılımıyla gerçekleştirilen kura çekimi sonucunda Eskişehirspor, Bodrum FK ile eşleşti. Tek maç eleme usulüne göre oynanacak müsabakada Bodrum FK, Eskişehir temsilcisini sahasında ağırlayacak.
-
-Karşılaşmanın 1, 2 veya 3 Aralık 2026 tarihlerinden birinde oynanması planlanırken, maçın kesin saati ve stadyum bilgisi TFF tarafından ilan edilecek. Normal sürenin berabere bitmesi durumunda uzatmalara, eşitlik bozulmazsa penaltı atışlarına geçilecek.
-
----
-
-## TÜKDES'ten Sivil Toplum Merkezi'nde sağlıklı yaşam ve otlar söyleşisi
-
-**Sağlık · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-sivil-toplum-destekleme-merkezi-nde-saglikli-yasam-bulusmasi-f1a1e3c6)
-
-> Eskişehir'de TÜKDES tarafından düzenlenen "Yenen Otlar ve Sağlıklı Hayat" söyleşisinde yenilebilir yabani otların beslenmedeki önemi ele alındı.
-
-Eskişehir Büyükşehir Belediyesi Sivil Toplum Destekleme Merkezi, sivil toplum kuruluşlarının etkinliklerine ev sahipliğini sürdürüyor. Bu kapsamda Tüketiciyi Destekleme Derneği (TÜKDES) tarafından merkezde "Yenen Otlar ve Sağlıklı Hayat" başlıklı bir söyleşi gerçekleştirildi.
-
-TÜKDES Danışma Kurulu Üyesi Prof. Dr. Ersin Yücel'in konuşmacı olarak katıldığı etkinlikte, doğada kendiliğinden yetişen şifalı ve yenilebilir yabani otların insan sağlığı üzerindeki etkileri değerlendirildi. Doğru bitki tüketimi, beslenme kültürüne katkıları ve sağlıklı yaşam alışkanlıklarının günlük hayata nasıl entegre edileceği katılımcılara aktarıldı. Program, soru-cevap bölümüyle tamamlandı.
-
-Öte yandan, yoğun ilgi gören söyleşinin 14 Kasım 2026 Cumartesi günü saat 14.00'te aynı adreste tekrar düzenleneceği bildirildi. Ücretsiz olarak gerçekleştirilecek etkinliğe katılmak veya bilgi almak isteyen vatandaşlar, Arifiye Mahallesi İki Eylül Caddesi'ndeki merkeze başvurabilecek.
-
----
-
-## Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi
-
-**Belediye · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-71-evler-de-kapsamli-yol-calismasi)
-
-![](data/images/2ce06ae088e80df1.jpg)
-
-> Odunpazarı Belediyesi, 71 Evler Mahallesi'nde 26 sokakta 33 bin 600 metrekarelik yol ve 7 bin 300 metrekarelik tretuvar düzenleme çalışmalarını sürdürüyor.
-
-Odunpazarı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki altyapı ve ulaşım yatırımlarını sürdürüyor. Çalışmalar kapsamında 71 Evler Mahallesi'nde yer alan 26 sokakta yol bakım, onarım, asfalt serimi ve kaldırım düzenleme işlemleri hız kazandı. Mahallede toplam 33 bin 600 metrekarelik yol alanı ile 7 bin 300 metrekarelik tretuvar alanı yenileniyor.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, mahalleyi ziyaret ederek devam eden çalışmaları yerinde inceledi ve ekiplerden bilgi aldı. Mahalle sakinlerinin daha konforlu ve güvenli koşullarda ulaşım sağlamasını hedeflediklerini belirten Başkan Kurt, ihtiyaçları yakından takip ettiklerini vurguladı.
-
-Başkan Kurt incelemelerin ardından yaptığı değerlendirmede, "71 Evler Mahallemizde devam eden yol çalışmalarımızı yerinde inceledik. Fen İşleri Müdürlüğü ekiplerimiz asfalt serimi, yol bakım ve onarımı ile kaldırım düzenlemelerini sürdürüyor. Mahallelerimizin ihtiyaçlarını biliyoruz. Hemşehrilerimizin daha güvenli ve konforlu yollarda ulaşım sağlaması için çalışmalarımızı titizlikle yürütüyoruz. Emek veren tüm çalışma arkadaşlarıma teşekkür ediyorum" ifadelerini kullandı.
-
----
-
-## Odunpazarı Belediyesi'nden 71 Evler'de 33 bin metrekarelik yol mesaisi
-
-**Belediye · Odunpazarı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-belediyesi-nden-71-evler-de-kapsamli-yol-calismasi-300951.html)
-
-> Odunpazarı Belediyesi, 71 Evler Mahallesi'nde 26 sokakta asfalt serimi, bakım ve kaldırım çalışmalarına devam ediyor.
-
-Odunpazarı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki altyapı ve ulaşım yatırımlarını sürdürüyor. Bu kapsamda 71 Evler Mahallesi'nde başlatılan kapsamlı çalışmalarla yollar ve kaldırımlar yenileniyor.
-
-Mahalle genelinde toplam 26 sokağı kapsayan projede, 33 bin 600 metrekarelik yol alanı ile 7 bin 300 metrekarelik tretuvar alanında düzenleme yapılıyor. Ekipler bir yandan asfalt serimi gerçekleştirirken, diğer yandan yol bakım ve onarım faaliyetlerini yürütüyor.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, mahalledeki çalışmaları yerinde inceleyerek Fen İşleri Müdürlüğü ekiplerinden bilgi aldı. Vatandaşların daha güvenli ve konforlu bir ulaşım sağlamasını amaçladıklarını belirten Başkan Kurt, mahallelerin ihtiyaçlarını yakından takip ettiklerini ifade etti.
-
-Çalışmaların titizlikle devam ettiğini kaydeden Başkan Kurt, emek veren tüm personele teşekkür etti.
-
----
-
-## MEB'de COP31 hazırlıkları: Türkiye İklim Okulu masaya yatırıldı
-
-**Eğitim · Türkiye** · 2026-11-06 12:59 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/milli-egitim-bakanliginda-cop31-oncesi-son-hazirliklar-degerlendirildi/haber/42423/tr)
-
-![](data/images/c9962b50a95c1199.jpg)
-
-> Millî Eğitim Bakanlığında düzenlenen toplantıda, Antalya'da yapılacak COP31 konferansı kapsamında Türkiye İklim Okulu'nda gerçekleştirilecek etkinlikler ve hazırlıklar ele alındı.
-
-Millî Eğitim Bakanlığında, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında Antalya'da düzenlenecek 31. Taraflar Konferansı (COP31) hazırlıkları gözden geçirildi. Bakan Yardımcısı Ökten'in katılımıyla gerçekleştirilen toplantıda, birimlerin sorumluluk alanlarındaki çalışmalar ve etkinlik takvimi değerlendirildi.
-
-Toplantının ana gündem maddelerinden biri, COP31 Yeşil Bölge'de ziyaretçilerini ağırlayacak Türkiye İklim Okulu'nda yapılacak etkinlikler oldu. İklim okuryazarlığı, sıfır atık, yenilenebilir enerji ve çevre dostu teknolojiler gibi başlıklar altında düzenlenecek programlar ile öğrenci projelerinin ziyaretçilerle buluşturulması için yürütülen çalışmalar ele alındı.
-
-Bakanlık birimleri, hazırlık süreçleri ve uluslararası iş birliğiyle gerçekleştirilecek faaliyetler hakkında bilgi verdi. Toplantıda, "Gençlik ve Eğitim" tema alanının uluslararası düzeyde etkili biçimde temsil edilmesi amacıyla koordinasyonun sürdürüleceği vurgulandı.
 
 ---
