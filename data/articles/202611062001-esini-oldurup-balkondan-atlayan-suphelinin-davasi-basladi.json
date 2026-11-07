@@ -21,10 +21,10 @@
     "title": "Eşini öldürdükten sonra 8. kattan atlayan sanığın duruşmasına başladı İhlas Haber Ajansı - İhlas Haber Ajansı",
     "url": "https://www.iha.com.tr/eskisehir-haberleri/esini-oldurdukten-sonra-8-kattan-atlayan-sanigin-durusmasina-basladi-511958702"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Adliyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

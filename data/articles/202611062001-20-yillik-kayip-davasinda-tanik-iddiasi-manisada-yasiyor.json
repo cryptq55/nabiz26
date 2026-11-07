@@ -21,10 +21,10 @@
     "title": "Eskişehir’deki 20 yıllık kayıp davasında şok iddia: \"Manisa’da yaşıyor\" İhlas Haber Ajansı - İhlas Haber Ajansı",
     "url": "https://www.iha.com.tr/eskisehir-haberleri/eskisehirdeki-20-yillik-kayip-davasinda-sok-iddia-manisada-yasiyor-511986750"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Adliyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
