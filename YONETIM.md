@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 07.11.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden 2'si 404 (fotoğrafsız kayıt, sayfa üretilmiyor; beklenen). Derleme geçti (317 haber, venv ile). Son haber 03:58 TSİ (~5,5 saat önce, durgun); son 24 saatte 31 yayında haber (Eğitim/Belediye 6, Spor 4, Sağlık/Türkiye 3; ilçe Tepebaşı 10, Merkez/Türkiye 8, Odunpazarı 4), 14'ünde fotoğraf yok. Instagram: log 16, reel_log 10. Neden durgun: GitHub zamanlı işleri çok seyrek çalışıyor (masa.yml son schedule koşusu 03:52 TSİ, saglik.yml 06:15 TSİ'den sonra yok). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml` elle tetiklendi; `saglik.yml` yedek eşiği 3 -> 2 saat.
+**İyileştirme:** yok (akış öncelikliydi).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si; (3) masa için cron'a bağlı olmayan tetik (ör. haber.yml push'unda eskilik kontrolü).
+SAHİBİNE: GitHub cron'u saatlik işleri 3-7 saat geciktiriyor; haber akışı bu yüzden dalgalı. Dış bir zamanlayıcı (Cloudflare Worker cron'u ile workflow_dispatch) kalıcı çözüm olur, bunun için bir GitHub token'ı gerekir.
+
 ## 06.11.2026 21:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (306 sayfa, venv ile). Son haber 15:59 TSİ (~5,5 saat önce, durgun); son 24 saatte 25 kayıt (24 yayında; Eğitim 7, Belediye 5, Spor 4, Ekonomi/Siyaset 3; ilçe Merkez 10, Türkiye 6, Odunpazarı/Tepebaşı 4), 10'unda fotoğraf yok. Neden: `masa.yml` zamanlı turu GitHub cron gecikmesiyle 12:54 UTC'den sonra hiç çalışmadı (son 6 koşunun 2'si schedule, biri 00:10 UTC'de Tailscale hatasıyla düşmüştü). Takipçi 77 (+4/gün), 7 gün erişim 26.772; Reels ort. 365, gönderi 9. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml` elle tetiklendi (workflow_dispatch) akışı canlandırmak için.
