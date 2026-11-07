@@ -22,10 +22,10 @@
     "title": "Berke Akyel'den Odunpazarı Belediyesine tepki: Arsa sahipleri ruhsat bekliyor - Gzt26",
     "url": "https://www.gzt26.com/berke-akyelden-odunpazari-belediyesine-tepki-arsa-sahipleri-ruhsat-bekliyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
