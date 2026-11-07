@@ -2,6 +2,98 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Robotik Türkiye Platformu kuruldu: Togg da yer aldı
+
+**Ekonomi · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Togg](https://www.cozumpark.com/robotik-turkiye-platformu-kuruldu-togg-thy-ve-eczacibasi-ayni-catida-bulustu/)
+
+![](data/images/f8d8b5c163f9c29a.jpg)
+
+> Türkiye Bilişim Vakfı öncülüğünde kurulan Robotik Türkiye Platformu, yerli sanayi kuruluşları ve teknoloji girişimlerini fiziksel yapay zekâ alanında buluşturdu.
+
+Türkiye Bilişim Vakfı öncülüğünde hayata geçirilen Robotik Türkiye Platformu, yerli sanayi kuruluşları ile teknoloji girişimlerini ortak bir ekosistemde bir araya getirdi. İstanbul Modern'de düzenlenen lansmanla tanıtılan platformun kurucu üyeleri arasında Togg'un yanı sıra Eczacıbaşı Topluluğu, Milvus Robotics, Türk Hava Yolları ve Zorlu Holding yer alıyor.
+
+Girişim; üniversiteler, teknoloji girişimleri, yatırımcılar ve kamu kurumlarını da paydaş olarak buluşturarak robotik teknolojilerin sanayide uygulanmasını ve ticarileşmesini amaçlıyor. Odaklanılan fiziksel yapay zekâ sistemleri; depo otomasyonundan üretim hatlarına, tarımdan sağlık hizmetlerine kadar geniş bir kullanım alanı sunuyor.
+
+Tanıtım etkinliğinde ayrıca Togg sponsorluğunda hazırlanan Türkiye Robotik Ekosistemi Raporu da açıklandı. Rapora göre Türkiye'de 2025 yılı boyunca 3 bin 194 endüstriyel robot kurulumu gerçekleştirildiği belirtildi.
+
+Platform, ilk yılında pilot uygulamalar, bilgi ve deneyim paylaşımı ile kamu ile sektör diyaloğu olmak üzere üç temel çalışma alanına odaklanacak.
+
+---
+
+## Kurşunlu Külliyesi'ndeki müzeler ziyarete kapatıldı
+
+**Belediye · Odunpazarı** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazari-belediyesi-muzelerin-kapatildigini-ziyaretcilere-bu-pankartla-duyurdu)
+
+> Odunpazarı Belediyesi, Vakıflar Bölge Müdürlüğü tarafından alandan çıkarıldıklarını belirterek Kurşunlu Külliyesi'ndeki dört müzenin kapandığını duyurdu.
+
+Eskişehir'in turistik açıdan önemli merkezlerinden biri olan Kurşunlu Külliyesi bünyesindeki müzeler ve sanat merkezi kapılarını kapattı. Ahşap Eserler Müzesi, Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi'nin ziyarete kapatıldığı bildirildi.
+
+Odunpazarı Belediyesi tarafından alana asılan pankartla durum ziyaretçilere duyuruldu. Açıklamada, kapatma kararının Vakıflar Bölge Müdürlüğü tarafından belediyenin alandan çıkarılması nedeniyle alındığı ifade edildi.
+
+Belediye yönetimi, ziyaretçilerin yaşadığı hayal kırıklığını paylaştıklarını belirterek gösterilen anlayış için teşekkür etti.
+
+---
+
+## Eskişehir'de Erzurum Gastronomi ve Cağ Kebabı Festivali Başladı
+
+**Kültür-Sanat · Merkez** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-erzurum-lezzetleri-bulusmasi)
+
+![](data/images/f0b9f10bd1ed6811.jpg)
+
+> Eskişehir'de düzenlenen Erzurum Gastronomi ve Cağ Kebabı Festivali, Vali Dr. Erdinç Yılmaz'ın katılımıyla kapılarını açtı.
+
+Eskişehir Erzurumlular Sosyal Yardımlaşma, Kültür ve Dayanışma Derneği tarafından Erzurum'un zengin mutfak kültürünü tanıtmak ve hemşehri dayanışmasını güçlendirmek amacıyla Erzurum Gastronomi ve Cağ Kebabı Festivali düzenlendi. Etkinliğe Eskişehir Valisi Dr. Erdinç Yılmaz da katılarak incelemelerde bulundu.
+
+Erzurum'un köklü gastronomi kültürünün en önemli simgelerinden biri olan cağ kebabının ön plana çıkarıldığı festival, yöresel lezzetlerin gelecek nesillere aktarılmasını amaçlıyor. Kentte faaliyet gösteren hemşehri derneklerinin düzenlediği bu tür etkinlikler, farklı şehirlerin geleneklerinin yaşatılmasına ve kültürel bağların korunmasına katkı sağlıyor.
+
+---
+
+## Eskişehir heyetinden Savunma Sanayii Başkanlığı'na kritik ziyaret
+
+**Ekonomi · Merkez** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.pembepusula.org/eskisehir-heyetinden-savunma-sanayii-baskanligi-na-ziyaret/631598/)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz ve Kalkınma Platformu üyeleri, Savunma Sanayii Başkanlığı'nı ziyaret ederek kentin havacılık potansiyelini masaya yatırdı.
+
+Eskişehir Kalkınma Platformu üyeleri, savunma sanayisindeki stratejik projeleri görüşmek üzere Savunma Sanayii Başkanlığı'nı (SSB) ziyaret etti. Gerçekleşen temasta kentin havacılık altyapısı ve uçak motoru imalatındaki tecrübesi detaylı şekilde ele alındı.
+
+Vali Dr. Erdinç Yılmaz ve beraberindeki heyetin katıldığı görüşmede, yerel sanayicilerin tedarik zincirindeki etkinliği değerlendirildi. Ayrıca savunma sanayisinin ihtiyaç duyduğu nitelikli teknik personelin yetiştirilmesi için mesleki ve teknik liselerin sektörle entegre çalışması gerektiği vurgulandı.
+
+AK Parti Eskişehir İl Başkanı ve Albayrak Makine Elektronik Yönetim Kurulu Başkanı Gürhan Albayrak, toplantının çok verimli geçtiğini belirterek, SSB Başkanı Prof. Dr. Haluk Görgün'ün en kısa sürede Eskişehir'i ziyaret ederek sanayicilerle bir araya geleceğini açıkladı.
+
+---
+
+## Erdoğan ve Trump telefonda görüştü: Bölgesel meseleler ele alındı
+
+**Türkiye · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama-07-11-26)
+
+![](data/images/bd1f955c7fb35300.jpg)
+
+> Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile bir telefon görüşmesi gerçekleştirerek ikili ilişkiler ile bölgesel ve küresel gelişmeleri değerlendirdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi yaptı. Görüşmede Türkiye-ABD ikili ilişkilerinin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
+
+Cumhurbaşkanı Erdoğan, iki ülke arasındaki iş birliğinin artarak devam edeceğine inandığını ve önümüzdeki dönemde ilişkilere ivme kazandırmak için çalışacaklarını belirtti. Görüşmede İran ile ABD arasındaki gerilimin diplomasi yoluyla çözülmesi gerektiğine vurgu yapan Erdoğan, Türkiye'nin barış için gayret göstermeyi sürdüreceğini ifade etti.
+
+Ukrayna-Rusya savaşına da değinen Erdoğan, çatışmaların sonlandırılmasına yönelik diplomatik çabaların olumlu sonuçlanmasını umduğunu, bu sürece katkı sunmaya devam ederek her iki ülke ile temasları artırmanın önemini dile getirdi. Ayrıca Erdoğan, ABD Başkanı Trump'a Türk Devletleri Teşkilatı Zirvesi'ne verdiği destek dolayısıyla teşekkür etti.
+
+---
+
+## Erdoğan ve Trump telefon görüşmesinde ikili ilişkileri ele aldı
+
+**Siyaset · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html)
+
+![](data/images/80c137f030376222.jpg)
+
+> Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile bir telefon görüşmesi gerçekleştirerek ikili ilişkiler ile bölgesel ve küresel gelişmeleri değerlendirdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi yaptı. İletişim Başkanlığı'ndan yapılan açıklamaya göre görüşmede, Türkiye-ABD ikili ilişkilerinin yanı sıra bölgesel ve küresel meseleler ele alındı.
+
+Görüşmede Cumhurbaşkanı Erdoğan, Türkiye ile ABD arasındaki iş birliğinin artarak sürmesine inandığını ve ilişkileri daha ileriye taşımak için çalışacaklarını ifade etti. İran ile ABD arasındaki gerilimin diplomasi yoluyla çözülmesi gerektiğini vurgulayan Erdoğan, Türkiye'nin barışın tesisi için gayret göstermeye devam edeceğini belirtti.
+
+Ukrayna-Rusya savaşının sonlandırılmasına yönelik diplomatik çabaların önemine dikkat çeken Erdoğan, her iki tarafla da temasları artırmanın gerekli olduğunu kaydetti. Ayrıca Cumhurbaşkanı Erdoğan, ABD Başkanı Trump'a Türk Devletleri Teşkilatı Zirvesi'ne verdiği destek dolayısıyla teşekkür etti.
+
+---
+
 ## Altın fiyatları 7 Kasım 2026: Gram altın 6.620,93 TL
 
 **Ekonomi · Merkez** · 2026-11-07 12:06 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -379,97 +471,5 @@ Tepebaşı Belediyesi, gençlerin toplumsal dayanışma ve gönüllülük faaliy
 Bu kapsamda 29 Ekim Gençlik Merkezi Ali İsmail Korkmaz Sahnesi'nde LÖSEV bilgilendirme toplantısı gerçekleştirildi. Yaklaşık 50 gencin katıldığı buluşmada, LÖSEV Eskişehir FAYDA Projesi Kıdemli Personeli Sema Nur Cin ile proje personelleri Birol Sönmez ve Meliha Taşdemir katılımcılara vakfın yürüttüğü çalışmalar hakkında bilgi verdi.
 
 Toplantıda gençlere gönüllülük olanakları da detaylı şekilde aktarıldı. Tepebaşı Belediyesi, sivil toplum kuruluşlarıyla iş birliği içinde gençleri farklı gönüllülük alanlarıyla buluşturan bu tür bilgilendirme buluşmalarının önümüzdeki dönemde de sürdürüleceğini bildirdi.
-
----
-
-## Tepebaşı'na yeni sağlık merkezi: Hayırsever protokolü imzalandı
-
-**Sağlık · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yusuf-ozsoy-saglik-tesisi-ek-protokol-imza-torenine-katildi)
-
-![](data/images/2a3e50ffc59a20fe.jpg)
-
-> Eskişehir'de Yenibağlar Mahallesi'ne kazandırılacak Aile Sağlığı Merkezi ve ilçe sağlık müdürlüğü binası için imza töreni düzenlendi.
-
-Eskişehir'de sağlık altyapısını güçlendirecek yeni bir tesis için resmi adım atıldı. Valilik, İl Sağlık Müdürlüğü ve hayırsever firma arasında imzalanan ek protokol ile Tepebaşı ilçesine yeni bir sağlık kompleksi kazandırılıyor.
-
-Yenibağlar Mahallesi'nde tahsis edilen 502,87 metrekarelik arsa üzerine kurulacak olan tesis, en az 1.500 metrekare kapalı alana sahip olacak. Hayırsever Ahmet Özsoy tarafındanfinanse edilecek binada Aile Sağlığı Merkezi, Verem Savaş Dispanseri ve Tepebaşı İlçe Sağlık Müdürlüğü hizmet binası bir arada yer alacak.
-
-Vali Dr. Erdinç Yılmaz, imza töreninde kente yapılan bu anlamlı katkıdan dolayı hayırsever Ahmet Özsoy'a teşekkürlerini iletti. Tesisin adı, hayırseverin talebi doğrultusunda "Yusuf Özsoy Sağlık Tesisi" olacak.
-
-Ek protokol, İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici ile hayırsever Ahmet Özsoy tarafından imzalanarak Vali Yılmaz'ın onayının ardından yürürlüğe girdi.
-
----
-
-## Odunpazarı İlçe Milli Eğitim Müdürlüğü'nden USAEM'e ziyaret
-
-**Eğitim · Odunpazarı** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.yozgatgazetesi.com/iha-haberleri/odunpazari-ilce-milli-egitim-mueduerluegue-nden-usaem-e-ziyaret-301176.html)
-
-> Odunpazarı İlçe Milli Eğitim Müdürlüğü heyeti, Eskişehir Uçucu Sağlığı Araştırma ve Eğitim Merkezi'ni (USAEM) ziyaret ederek havacılık ve uzay eğitiminde iş birliği imkânlarını değerlendirdi.
-
-Odunpazarı İlçe Millî Eğitim Müdürü Barış Hancı ile Şube Müdürü Ömer Kızılkılıç, askerî pilotlara uçuş sağlığı eğitimleri veren ve dünyada nadir bulunan Eskişehir Uçucu Sağlığı Araştırma ve Eğitim Merkezi’ni (USAEM) ziyaret etti.
-
-Ziyaret kapsamında merkezdeki laboratuvarları ve simülasyon cihazlarını inceleyen müdürlük yetkilileri, yürütülen çalışmalar hakkında merkez yöneticilerinden detaylı bilgi aldı. Görüşmelerde, öğrencilerin havacılık ve uzay bilimlerine olan ilgisini artırmak, farkındalık kazandırmak ve geleceğin havacılık profesyonellerinin yetişmesine katkı sunmak amacıyla hayata geçirilebilecek ortak projeler ele alındı.
-
-Eğitim alanında olası iş birliği imkânlarının değerlendirildiği program, karşılıklı iyi niyet temennileriyle tamamlandı.
-
----
-
-## Fethi Heper Stadyumu'nda yenileme çalışmaları incelendi
-
-**Spor · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-fethi-heper-stadyumu-yenileniyor)
-
-> Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, Prof. Dr. Fethi Heper Stadyumu'ndaki yenileme ve iyileştirme çalışmalarını yerinde inceledi.
-
-Eskişehir'de spor altyapısını güçlendirmek amacıyla yürütülen çalışmalar aralıksız sürüyor. Bu kapsamda Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın ve şube müdürleri, Prof. Dr. Fethi Heper Stadyumu'nu ziyaret ederek devam eden projeleri denetledi.
-
-Ziyaret sırasında yetkililerden çalışmaların son durumu hakkında detaylı bilgi alındı. Antrenman salonlarının fiziki koşullarının daha modern hale getirilmesi ve sporculara elverişli imkânlar sunulması amacıyla yürütülen yenileme faaliyetlerinin planlandığı şekilde devam ettiği bildirildi.
-
-Stadyumda gerçekleştirilen bu iyileştirmelerle birlikte, sporcuların antrenmanlarını daha modern ve konforlu ortamlarda yapabilmesi amaçlanıyor.
-
----
-
-## ESTÜ'de sıtma farkındalık eğitimi: Bulaşma yolları ve korunma anlatıldı
-
-**Sağlık · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-sitma-farkindalik-egitimi-duzenlendi)
-
-> Eskişehir Teknik Üniversitesinde, Tepebaşı İlçe Sağlık Müdürlüğü iş birliğiyle sıtma hastalığına yönelik farkındalık eğitimi düzenlendi.
-
-Eskişehir Teknik Üniversitesi (ESTÜ), öğrencileri ve personeline yönelik bilinçlendirme faaliyetlerine bir yenisini ekledi. Tepebaşı İlçe Sağlık Müdürlüğü ile ortaklaşa gerçekleştirilen eğitim programı, üniversite yerleşkesinde yoğun bir katılımla yapıldı.
-
-Eğitimde Dr. Fatih Köse, Ebe Hacer Atabay ve Hemşire Hayriye Tatlı tarafından katılımcılara kapsamlı bilgiler aktarıldı. Uzmanlar sunumlarında sıtma hastalığının bulaşma yolları, yayılım gösterdiği risk faktörleri ve temel belirtileri üzerinde durdu.
-
-Program boyunca erken tanının hayat kurtarıcı önemi vurgulanırken, hastalıktan korunma yöntemleri ve alınabilecek bireysel önlemler detaylı şekilde ele alındı. Etkinlik, katılımcılardan gelen soruların uzmanlar tarafından yanıtlanması ve koruyucu sağlık uygulamalarına dair tavsiyelerle sona erdi.
-
----
-
-## Eskişehir'de şehitler anısına 600 kişinin katılımıyla fidan dikildi
-
-**Gündem · Merkez** · 2026-11-06 18:41 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberturk.com/gundem/eskisehir-de-sehitlerin-anisina-fidan-dikildi-3925464)
-
-> Eskişehir Valiliği koordinesinde yürütülen proje kapsamında, şehitlerin hatırasını yaşatmak için Bölge Trafik Denetleme Şube Müdürlüğü bahçesinde fidanlar toprakla buluşturuldu.
-
-Eskişehir'de, şehitlerin hatırasını yaşatmak ve gelecek nesillere daha yeşil bir çevre bırakmak amacıyla anlamlı bir fidan dikim etkinliği gerçekleştirildi.
-
-Eskişehir Valiliği'nden yapılan açıklamaya göre, Terörle Mücadele Daire Başkanlığı Bilgilendirme ve Önleme Faaliyetleri Şube Müdürlüğü koordinesinde "Şehitlerimiz İçin Her Bir Fidan, Geleceğimiz İçin Bin Nefes-2" projesi hayata geçirildi.
-
-Bölge Trafik Denetleme Şube Müdürlüğünün bahçesinde düzenlenen programa Vali Yardımcısı Ersin Emiroğlu, protokol üyeleri, emniyet mensupları, şehit aileleri ve öğrenciler katıldı. Yaklaşık 600 kişinin yer aldığı etkinlikte, şehitlerin adını taşıyan fidanlar toprakla buluşturuldu.
-
----
-
-## Bakan Tekin: Eğitim bakanlıkları dünya barışı için sorumluluk almalı
-
-**Türkiye · Türkiye** · 2026-11-06 18:41 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/eit-egitim-enstitusu-5-mutevelli-heyeti-quotis-birliginin-gelistirilmesiquot-gundemiyle-toplandi/haber/42425/tr)
-
-![](data/images/3e89c1d2a4278da1.jpg)
-
-> EİT Eğitim Enstitüsü 5. Mütevelli Heyet Toplantısı'nda konuşan Millî Eğitim Bakanı Yusuf Tekin, küresel sorunlara karşı eğitim alanında daha aktif rol alınması gerektiğini vurguladı.
-
-Millî Eğitim Bakanı Yusuf Tekin, EİT Eğitim Enstitüsü 5. Mütevelli Heyet Toplantısı'nda üye ülkeler arasındaki eğitim iş birliğinin geliştirilmesi ve gelecek döneme ilişkin çalışma programı hakkında değerlendirmelerde bulundu. Toplantıda Enstitünün faaliyetleri, mali ve idari yapısı ele alındı.
-
-Katılımcılara hitap eden Bakan Tekin, EİT Eğitim Enstitüsünün son dönemde ivme kazandığını belirterek, Türkiye'nin süreçteki kurucu ve ev sahibi rolüne dikkat çekti. Ankara'da imzalanan Ev Sahibi Ülke Anlaşması ile kurumun diplomatik statü kazandığını hatırlatan Tekin, yapının kurumsallaşma sürecini tamamladığını ifade etti.
-
-Dünyada yaşanan insan hakları ihlallerine ve antidemokratik gelişmelere dikkat çeken Tekin, eğitim bakanlıklarının bu süreçte kritik sorumluluklar taşıdığını kaydetti. Türkiye'nin eğitim müfredatında barış ve insan haklarını önceleyen adımlar attığını belirten Tekin, Türkiye Yüzyılı Maarif Modeli ile barış dolu bir dünya inşa etmeyi amaçladıklarını söyledi.
-
-Toplantının sonunda Mütevelli Heyeti gündemindeki konular müzakere edildi. Merkezi Ankara'da bulunan EİT Eğitim Enstitüsü Başkanlığına Mehmet Akif Kireçci yeniden seçilirken, bir sonraki toplantının İran'ın ev sahipliğinde yapılması kararlaştırıldı.
 
 ---
