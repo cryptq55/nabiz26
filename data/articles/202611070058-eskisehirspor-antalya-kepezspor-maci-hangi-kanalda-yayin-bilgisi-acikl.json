@@ -21,11 +21,11 @@
     "title": "Eskişehirspor - Antalya Kepezspor maçı hangi kanalda? Canlı yayın programı açıklandı - Gzt26",
     "url": "https://www.gzt26.com/eskisehirspor-antalya-kepezspor-maci-hangi-kanalda-canli-yayin-programi-aciklandi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor",
       "Eskişehir Atatürk Stadyumu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

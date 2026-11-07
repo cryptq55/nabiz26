@@ -21,11 +21,11 @@
     "title": "Cumhurbaşkanı Erdoğan, 11 üniversiteye rektör atadı - Anadolu Ajansı",
     "url": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi",
       "Adnan Özcan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
