@@ -371,7 +371,11 @@
   "202611071146-erdogandan-azerbaycan-ziyareti-aciklamasi-8-kasimda-gidecegim",
   "202611071146-bakan-tekin-pisadaki-yukselis-vesayetle-mucadelenin-sonucudur",
   "202611071146-iletisim-baskani-duran-nijeryali-bakan-malagi-ile-gorustu",
-  "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl"
+  "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl",
+  "202611071805-erdogan-ve-trump-telefonda-gorustu-bolgesel-meseleler-ele-alindi",
+  "202611071805-robotik-turkiye-platformu-kuruldu-togg-da-yer-aldi",
+  "202611071805-erdogan-ve-trump-telefon-gorusmesinde-ikili-iliskileri-ele-aldi",
+  "202611071805-eskisehirde-erzurum-gastronomi-ve-cag-kebabi-festivali-basladi"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -423,7 +427,9 @@
   "202611060849-gsb-burs-ve-ogrenim-kredisi-sonuclari-aciklandi-son-tarih-11-kasim",
   "202611051924-ozgur-ozelden-ecevitin-kabrinde-anma-ve-hukuk-elestirisi",
   "202611071146-erdogandan-azerbaycan-ziyareti-aciklamasi-8-kasimda-gidecegim",
-  "202611070058-ekim-ayinda-en-cok-satilan-elektrikli-otomobiller-belli-oldu-togg-zirv"
+  "202611070058-ekim-ayinda-en-cok-satilan-elektrikli-otomobiller-belli-oldu-togg-zirv",
+  "202611071805-erdogan-ve-trump-telefon-gorusmesinde-ikili-iliskileri-ele-aldi",
+  "202611071805-robotik-turkiye-platformu-kuruldu-togg-da-yer-aldi"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -515,16 +521,11 @@
   "202611062001-tepebasinda-ekoloji-okulu-kasim-atolyeleri-basliyor-ucretsiz-kayitlar-",
   "202611061259-baskan-atac-ab-platformunda-tepebasinin-iklim-modelini-anlatti",
   "202611070640-baskan-kurttan-kursunlu-kulliyesi-tepkisi-siyasi-eylem",
-  "202611070640-kirim-tatar-akademik-is-birligi-calistayi-eskisehirde-basladi"
+  "202611070640-kirim-tatar-akademik-is-birligi-calistayi-eskisehirde-basladi",
+  "202611071805-eskisehirde-erzurum-gastronomi-ve-cag-kebabi-festivali-basladi",
+  "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl"
  ],
  "log": [
-  1793969238.857218,
-  1793969299.5773237,
-  1793969316.9243717,
-  1793970188.1176634,
-  1793970266.1825202,
-  1793970283.1146069,
-  1793970299.5808396,
   1793990691.2436824,
   1793990786.020817,
   1793995476.063517,
@@ -533,18 +534,22 @@
   1794052172.2048416,
   1794052189.25513,
   1794052208.3088336,
-  1794052224.4117198
+  1794052224.4117198,
+  1794074877.2663379,
+  1794074946.6527545,
+  1794074964.3841872,
+  1794074980.251693,
+  1794074997.765982,
+  1794075015.966957
  ],
  "reel_log": [
-  1793969238.8572202,
-  1793969299.5773256,
-  1793970188.1176653,
-  1793970266.1825218,
   1793990691.2436843,
   1793990786.0208187,
   1793995476.0635188,
   1793995593.095359,
   1794052128.161253,
-  1794052172.204844
+  1794052172.204844,
+  1794074877.2663395,
+  1794074946.652756
  ]
 }
