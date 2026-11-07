@@ -2,6 +2,66 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan Hava Kuvvetleri Komutanı Dalkıran'a ziyarette heyetli temas
+
+**Gündem · Merkez** · 2026-11-07 00:58 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hava-kuvvetleri-komutani-orgeneral-rafet-dalkirani-ziyaret-etti)
+
+![](data/images/95387502aafdd497.jpg)
+
+> Eskişehir Valisi Erdinç Yılmaz, beraberindeki heyetle birlikte Hava Kuvvetleri Komutanı Orgeneral Rafet Dalkıran'ı makamında ziyaret etti.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki kurum ve kuruluş temsilcileriyle birlikte Ankara'da temaslarda bulundu. Bu kapsamda Vali Yılmaz, TEI Genel Müdürü Prof. Dr. Mahmut Faruk Akşit ve AK Parti Eskişehir İl Başkanı Gürhan Albayrak ile bir araya geldi.
+
+Gerçekleştirilen program çerçevesinde heyet, Hava Kuvvetleri Komutanı Orgeneral Rafet Dalkıran'ı ziyaret etti. Ziyaretin detaylarına ilişkin başka bir ayrıntı paylaşılmadı.
+
+---
+
+## Eskişehirspor - Antalya Kepezspor maçı hangi kanalda? Yayın bilgisi açıklandı
+
+**Spor · Merkez** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-antalya-kepezspor-maci-hangi-kanalda-canli-yayin-programi-aciklandi)
+
+> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor'un Antalya Kepezspor ile oynayacağı 10. hafta karşılaşmasının canlı yayın kanalı belli oldu.
+
+Nesine 2. Lig ve Nesine 3. Lig'de 10. hafta karşılaşmalarının canlı yayın programı Türkiye Futbol Federasyonu tarafından açıklandı. Futbolseverlerin merakla beklediği Eskişehirspor-Antalya Kepezspor mücadelesinin ekran bilgileri de netlik kazandı.
+
+Siyah-kırmızılı ekibin 7 Kasım 2026 Cumartesi günü saat 15.30'da başlayacak kritik mücadelesi, Tivibu Spor 2 ekranlarından canlı olarak izlenebilecek. Karşılaşmayı stadyumdan takip edemeyecek olan Eskişehirspor taraftarları, mücadeleyi televizyon üzerinden canlı olarak takip edebilecek.
+
+Açıklanan yayın programı kapsamında hafta sonu boyunca Nesine 2. Lig ve Nesine 3. Lig'deki toplam 20 karşılaşma Tivibu Spor ve Yaay platformları aracılığıyla futbolseverlerle buluşacak.
+
+---
+
+## Eskişehir Teknik Üniversitesi'ne yeni rektör atandı
+
+**Eğitim · Tepebaşı** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801)
+
+> Resmi Gazete'de yayımlanan atama kararına göre, Eskişehir Teknik Üniversitesi Rektörlüğüne Prof. Dr. Adnan Özcan getirildi.
+
+Resmi Gazete'de yayımlanan Cumhurbaşkanlığı kararlarına göre, yükseköğretim kurumlarında rektör atamaları gerçekleştirildi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan tarafından yapılan atamalar, 2547 sayılı Yükseköğretim Kanunu'nun 13'üncü maddesi ile 3 sayılı Cumhurbaşkanlığı Kararnamesi'nin 2'nci, 3'üncü ve 7'nci maddeleri gereğince imzalandı.
+
+Alınan kararlar doğrultusunda Eskişehir Teknik Üniversitesi Rektörlüğüne Prof. Dr. Adnan Özcan atandı.
+
+---
+
+## Ekim ayında en çok satılan elektrikli otomobiller belli oldu: Togg zirvede
+
+**Ekonomi · Türkiye** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Togg](https://www.usakhabergazetesi.com.tr/elektrikli-otomobilde-togg-ruzgari-en-cok-satilan-10-model-belli-oldu)
+
+![](data/images/50206421f8c30feb.jpg)
+
+> Türkiye otomobil pazarında ekim ayında satılan yaklaşık her iki elektrikli otomobilden biri Togg olurken, T10X ilk sırada, T10F ise ikinci sırada yer aldı.
+
+Türkiye otomobil pazarında elektrikli araçlara olan ilgi artmaya devam ederken, Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) verilerine dayandırılan ekim ayı satış sonuçları açıklandı. Ekim ayında Türkiye genelinde toplam 64 bin 939 otomobil satılırken, bunların 14 bin 380'ini tamamen elektrikli modeller oluşturdu. Böylece elektrikli otomobillerin toplam satışlar içindeki payı yüzde 22,1'e ulaştı.
+
+Açıklanan verilere göre ekim ayının en çok satılan elektrikli otomobili, 4 bin 59 adetle Togg T10X oldu. Togg T10X, tek başına elektrikli otomobil satışlarının yüzde 28,2'sini gerçekleştirdi. Markanın sedan modeli T10F ise 2 bin 702 adet satış rakamıyla ikinci sırada yer alarak yüzde 18,8 pazar payı elde etti. İki modelin toplam satışı 6 bin 761 adede ulaşırken, Togg'un tamamen elektrikli pazarındaki toplam payı yüzde 47 olarak hesaplandı.
+
+Ekim ayında Togg modellerini 1 bin 705 adetle KGM Torres EVX takip ederken, Hyundai IONIQ 3 1 bin 077 adetle dördüncü sırayı aldı. İlk dört modelin toplam satışı, tamamen elektrikli pazarının yaklaşık yüzde 66,4'ünü oluşturdu. Listenin devamında Citroën ë-C3, Mercedes-Benz GLC, Volvo EX40, Volvo EX30, BMW iX3 ve Mercedes-Benz GLB yer aldı.
+
+Öte yandan Togg'un başarısı yılın ilk 10 ayında da devam etti. Ocak-ekim döneminde T10X 26 bin 79, T10F ise 18 bin 108 adet satış rakamına ulaştı. Toplamda 44 bin 187 adede ulaşan Togg modelleri, yılın ilk 10 ayında tamamen elektrikli otomobil pazarında yaklaşık yüzde 32,7 pay elde etti.
+
+---
+
 ## Tepebaşı'nda ekoloji okulu kasım atölyeleri başlıyor: Ücretsiz kayıtlar açıldı
 
 **Belediye · Tepebaşı** · 2026-11-06 20:01 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yeryuzuekolojiokulu’ndakasımatolyeleribaslıyor)
@@ -411,65 +471,5 @@ Eskişehirspor'da geçmiş yıllarda forma giymiş profesyonel futbolcuları bir
 İlk toplantıda çoğunluğun sağlanamaması durumunda ikinci buluşma 26 Kasım 2026 Perşembe günü aynı yer ve saatte gerçekleştirilecek. Dernek yönetimi, yapılacak seçimlerin üyeler arasındaki dayanışmayı güçlendirmesini ve kulübün tarihine sahip çıkılmasını hedefliyor.
 
 Yönetim kurulundan yapılan açıklamada, Eskişehirspor'un kentin ortak değeri olduğuna dikkat çekilerek, tüm üyeler genel kurula davet edildi.
-
----
-
-## Eskişehir'de hafta sonu kültür-sanat maratonu: Konser ve tiyatrolar
-
-**Kültür-Sanat · Merkez** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.dogayidinle.com/etkinlikler/eskisehir-6-8-kasim-konserleri-emre-aydin-ceren-gundogdu-no-land-ve-ertelenen-konser/9877)
-
-> Eskişehir'de 6-8 Kasım tarihlerinde Emre Aydın, Ceren Gündoğdu ve No Land konserlerinin yanı sıra çok sayıda tiyatro oyunu sanatseverlerle buluşacak.
-
-Eskişehir, kasım ayının ilk hafta sonunda konserler, tiyatro oyunları ve geleneksel etkinliklerle hareketli bir döneme giriyor. Kent genelindeki farklı sahnelerde müzik ve tiyatro buluşmaları izleyicilere yoğun bir program sunuyor.
-
-Türk rock müziğinin sevilen isimlerinden Emre Aydın, cuma akşamı Milyon Performance Hall'da sahne alırken, Ceren Gündoğdu Runa Stage Art Cafe'de akustik performansıyla dinleyici karşısına çıkacak. Pazar günü ise No Land, F/Stop Salon'da müzikseverlerle buluşacak. Hafta sonu takviminde ayrıca Turgut Özakman'ın "Kanaviçe" oyunu ile "Mi Rosa Sonradan Arabesk Olan Müzikal" gibi yapımlar da sahnelenecek.
-
-Öte yandan, 7 Kasım'da Milyon Performance Hall'da yapılması planlanan Manuş Baba konseri ertelendi. Etkinliklere katılmak isteyenler bilet satış platformları üzerinden güncel programları takip edebilecek.
-
----
-
-## Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi
-
-**Siyaset · Türkiye** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - CHP](https://www.dha.com.tr/politika/ozgur-ozel-bulent-ecevitin-kabrini-ziyaret-etti-2975595)
-
-![](data/images/e9b4a00892330b29.jpg)
-
-> Yeni Parti Genel Başkanı Özgür Özel, vefatının 20'nci yıl dönümünde Bülent Ecevit'in kabrini ziyaret ederek anma törenine katıldı. Ziyaretin ardından açıklamalarda bulunan Özel, fon soruşturması ve hukuk sistemine ilişkin değerlendirmeler yaptı.
-
-Yeni Parti Genel Başkanı Özgür Özel, vefatının 20'nci yıl dönümünde eski Başbakan Bülent Ecevit'in Devlet Mezarlığı'ndaki kabrini ziyaret etti. Töhrene Genel Sekreter Yunus Emre, Grup Başkanvekili Murat Emir, Kadın Kolları Genel Başkanı Asu Kaya, Gençlik Kolları Genel Başkanı Cem Aydın, Genel Başkan Yardımcısı Utku Çakırözer, milletvekilleri, Mamak Belediye Başkanı Veli Gündüz Şahin, eski CHP Genel Sekreteri Önder Sav ve partililer katıldı. Kur'an-ı Kerim tilaveti okunup dua edilmesinin ardından kabre çelenk ve karanfiller bırakıldı. Heyet daha sonra eski TBMM Başkanı Deniz Baykal’ın kabrini de ziyaret etti.
-
-Törenin ardından basına açıklamalarda bulunan Özgür Özel, Ecevit'in siyasi kariyerine ve emekçi dostu kimliğine vurgu yaparak, "Genel Sekreterimizi, Bakanımızı, Başbakanımızı, Genel Başkanımızı bir kez daha rahmetle ve minnetle anıyorum" ifadelerini kullandı. 
-
-Açıklamasında fon soruşturmasına da değinen Özel, hukuk sisteminde çifte standart uygulandığını öne sürdü. Fatma Betül Sayan Kaya'nın ifadeye davet usulüyle çağrılmasını eleştiren Özel, "Eğer bu ülkede hukuk varsa herkese eşit işlemeli. Böyle bir ikili hukuk sisteminin ne kadar haksızca olduğunu, ne kadar partizanlık yapıldığını milletimizin vicdanlarına havale ediyorum" dedi.
-
-Adalet Bakanı Akın Gürlek’in fon soruşturmasına yönelik açıklamalarının Cumhurbaşkanı Recep Tayyip Erdoğan'a sorulması gerektiğini belirten Özel, soruşturmadaki örgüt tanımlaması üzerinden iktidara eleştiriler yöneltti. Özel ayrıca ABD'deki ara seçim sonuçlarına ilişkin değerlendirmelerde de bulundu.
-
----
-
-## Kaymakam Şahin’den Ahmet Sezer Ortaokulu’na ziyaret
-
-**Eğitim · Odunpazarı** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haberes.com.tr/odunpazari-kaymakami-sahinden-ahmet-sezer-ortaokuluna-ziyaret)
-
-> Odunpazarı Kaymakamı Ahmet Hikmet Şahin ve İlçe Millî Eğitim Müdürü Barış Hancı, Ahmet Sezer Ortaokulu’nu ziyaret ederek eğitim faaliyetlerini inceledi.
-
-Odunpazarı Kaymakamı Ahmet Hikmet Şahin ile İlçe Millî Eğitim Müdürü Barış Hancı, Ahmet Sezer Ortaokulu'nu ziyaret etti. Ziyaret sırasında okulun genel durumu ve yürütülen eğitim öğretim faaliyetleri yerinde incelendi.
-
-Okul yönetimi ve öğretmenlerle bir araya gelen Kaymakam Şahin ve İlçe Millî Eğitim Müdürü Hancı, eğitim ortamları ile öğrencilerin akademik, sosyal ve kültürel gelişimlerini desteklemeye yönelik çalışmalar hakkında bilgi aldı.
-
----
-
-## Eskişehirspor'da sakatlıkları süren oyuncuların durumu netleşiyor
-
-**Spor · Merkez** · 2026-11-05 19:24 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/hasan-antrenmanda-kerem-ve-bagli-tedavide)
-
-![](data/images/15bea1645022aef4.jpg)
-
-> Kırmızı-siyahlı ekipte Ahmet Dereli ve Mustafa Eren Damar forma giyemezken, Hasan Kaya takımla çalışmalara başladı.
-
-TFF 3. Lig mücadelesine hazırlanan Eskişehirspor'da zorlu karşılaşma öncesi sakat oyuncuların son durumu netlik kazanıyor. Karşılaşmada favori gösterilen kırmızı-siyahlılar, sürprize izin vermeden galibiyet hedefliyor.
-
-Takımda sportif sakatlıkları bulunan Ahmet Dereli ve Mustafa Eren Damar bu maçta forma giyemeyecek. Tedavileri süren Mehmet Bağlı ile Kerem Baykuş'un durumları ise maç günü yapılacak son kontrollerin ardından kesinleşecek.
-
-Öte yandan sakatlığını atlatan Hasan Kaya'nın takımla birlikte antrenmanlarda yer aldığı bildirildi. Teknik heyet, eksik oyuncuların yerini doldurmak ve maça en iyi şekilde hazırlanmak için çalışmalarını sürdürüyor.
 
 ---
