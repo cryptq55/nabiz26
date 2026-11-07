@@ -22,11 +22,11 @@
     "title": "Eskişehir heyetinden Savunma Sanayii Başkanlığı'na ziyaret - Pembe Pusula",
     "url": "https://www.pembepusula.org/eskisehir-heyetinden-savunma-sanayii-baskanligi-na-ziyaret/631598/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Savunma Sanayii Başkanlığı",
       "Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
