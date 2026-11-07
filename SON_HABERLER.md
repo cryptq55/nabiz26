@@ -2,6 +2,80 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yunus Emre Yurdu'nda yangın tatbikatı: Gerçeğini aratmadı
+
+**Gündem · Merkez** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haberler.com/amp/eskisehir-yunus-emre-yurdu-personeline-yangin-20404168-haberi/)
+
+> Eskişehir Yunus Emre Yurdu personel kapsamlı yangın eğitimi ve uygulamalı tahliye tatbikatıyla acil durumlara karşı hazırlandı.
+
+Gençlik ve Spor Bakanlığı Eskişehir Yurt Müdürlüğü bünyesinde faaliyet gösteren Yunus Emre Yurdu'nda görevli personele yönelik yangın güvenliği eğitimi ve uygulamalı tatbikat gerçekleştirildi.
+
+Düzenlenen programın ilk aşamasında personele, olası bir yangın anında sergilenecek doğru hareket tarzları, güvenli tahliye adımları ve yangın söndürme cihazlarının etkin kullanımı konularında teorik bilgiler aktarıldı.
+
+Eğitimin ardından yurt bahçesinde senaryo gereği kontrollü bir yangın çıkarıldı. Teorik bilgileri pratiğe döken yurt personeli, yangına müdahale ederek söndürme işlemlerini başarıyla tamamladı.
+
+---
+
+## Kasım 2026'nın en ucuz elektrikli otomobilleri: Togg da listede
+
+**Ekonomi · Türkiye** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Togg](https://www.yenisafak.com/galeri/ekonomi/kasim-2026da-elektrikli-otomobil-alacaklar-dikkat-en-ucuz-10-model-siralandi-4870514)
+
+![](data/images/31cc105bce00feca.jpg)
+
+> Türkiye'de satışa sunulan en uygun fiyatlı 10 elektrikli otomobilin kasım ayı güncel fiyatları belli oldu. Bütçe dostu listede Togg modelleri de yer aldı.
+
+Türkiye otomobil pazarında satışta olan en uygun fiyatlı elektrikli araçların Kasım 2026 dönemi fiyatları ve teknik detayları netleşti. Şehir içi kullanıma uygun kompakt modellerden SUV segmentine kadar farklı seçeneklerin yer aldığı listede fiyatlar 1,5 milyon TL seviyesinden başlıyor.
+
+Otomobil pazarındaki bütçe dostu seçenekler arasında Togg'un T10X ve T10F modelleri de kendine yer buldu. Listeye göre Togg T10X 1.909.048 TL'den başlayan fiyatla sunulurken, Togg T10F ise 1.884.980 TL'lik fiyat etiketiyle alıcı bekliyor. İki model de gelişmiş batarya kapasiteleri ve hızlı şarj destekleriyle dikkat çekiyor.
+
+Sıralamada yer alan diğer modeller ve başlangıç fiyatları ise şu şekilde sıralandı: Hyundai Inster 1.520.000 TL, Fiat Grande Panda Elektrikli 1.584.900 TL, Citroën ë-C3 1.605.000 TL, Fiat 600e 1.854.900 TL, Citroën ë-C3 Aircross 1.875.000 TL, Opel Corsa Elektrik 1.890.000 TL, Opel Frontera Elektrik 1.895.000 TL ve Peugeot E-208 2.080.000 TL.
+
+---
+
+## Eskişehir İl Halk Kütüphanesi'nde öğrencilere yönelik drama atölyesi yapıldı
+
+**Kültür-Sanat · Merkez** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/eskisehir-il-halk-kutuphanesi-nde-ogrenciler-icin-drama-atolyesi-duzenlendi-297707.html)
+
+> Millî Eğitim Bakanlığı ile Kültür ve Turizm Bakanlığı protokolü kapsamında Eskişehir İl Halk Kütüphanesi'nde öğrenciler için drama atölyesi düzenlendi.
+
+Eskişehir İl Halk Kütüphanesi, öğrencilerin kişisel gelişimlerini ve sosyal becerilerini desteklemeye yönelik renkli bir etkinliğe ev sahipliği yaptı. Millî Eğitim Bakanlığı ile Kültür ve Turizm Bakanlığı arasında hayata geçirilen "Kütüphanelerde İş Birliği Protokolü" çerçevesinde gerçekleştirilen drama atölyesi, öğrencilerden yoğun ilgi gördü.
+
+İl Millî Eğitim Müdürlüğü koordinasyonunda kütüphane bünyesinde düzenlenen çalışmalarda uzman eğitmenler görev aldı. Etkinlik boyunca gençlerin kendilerini ifade etme yeteneklerini artırmak, iletişim güçlerini pekiştirmek ve hayal güçlerini harekete geçirmek amacıyla çeşitli uygulamalar yapıldı.
+
+Eğlenceli ve öğretici anlara sahne olan program, öğrencilerin katıldığı ortak canlandırma çalışmalarının ardından başarıyla tamamlandı.
+
+---
+
+## Odunpazarı'nda otomobil bisikletle çarpıştı: Çocuk yaralandı
+
+**Asayiş · Odunpazarı** · 2026-11-07 22:45 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/3-sayfa/haber-eskisehir-odunpazari-nda-otomobil-bisikletle-carpi-20405712/)
+
+> Eskişehir'in Odunpazarı ilçesinde otomobilin bisikletle çarpışması sonucu meydana gelen kazada bir çocuk yaralandı. Kaza anı güvenlik kameralarına yansıdı.
+
+Eskişehir'de otomobil ile bisikletin çarpışması sonucu yaşanan kazada bir çocuk yaralandı.
+
+Kaza, Odunpazarı ilçesi Kurtuluş Mahallesi Bilgin Sokak üzerinde meydana geldi. Alınan bilgilere göre, otomobil ile bisikletin çarpışması neticesinde bisikletten düşen çocuk yaralandı. Çevredekilerin ihbarı üzerine olay yerine 112 Acil Sağlık ve polis ekipleri yönlendirildi.
+
+Yaralı çocuk, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından ambulansla hastaneye kaldırılarak tedavi altına alındı. Öte yandan kaza anı çevredeki bir güvenlik kamerasının kayıtlarına anbean yansıdı.
+
+Polis ekipleri kazayla ilgili inceleme başlattı.
+
+---
+
+## Eskişehirspor evinde kazandı: Kepezspor'u tek golle geçtiler
+
+**Spor · Tepebaşı** · 2026-11-07 22:45 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.akdenizgercek.com.tr/kepez/kepezspor-as-eskisehir-deplasmaninda-geriye-dustu-1-0/388805)
+
+> Nesine 3. Lig'de Eskişehirspor, sahasında konuk ettiği Kepezspor'u 20. dakikada Hasan Kaya'nın attığı golle 1-0 mağlup etti.
+
+Nesine 3. Lig 10. hafta mücadelesinde Eskişehirspor ile Antalya temsilcisi Kepezspor A.Ş. karşı karşıya geldi. Prof. Dr. Fethi Heper Stadyumu’nda oynanan karşılaşmada ev sahibi ekip sahadan 1-0 galibiyetle ayrıldı.
+
+Yağmurlu hava ve yoğun taraftar desteği altında oynanan mücadelenin ilk dakikalarından itibaren hücumda etkili bir oyun ortaya koyan Eskişehirspor, aradığı golü 20. dakikada buldu. Mert Bağer’in pasını iyi değerlendiren Hasan Kaya, meşin yuvarlağı ağlarla buluşturarak takımını 1-0 öne geçirdi ve ilk yarı bu skorla tamamlandı.
+
+Maçın ikinci devresinde erken yediği golün dezavantajını kapatmak ve beraberliği yakalamak için rakip kalede ataklar geliştiren Kepezspor A.Ş., Eskişehirspor savunmasını aşamadı. Saha ve seyirci avantajını maç sonuna kadar koruyan kırmızı-siyahlılar, skoru koruyarak hanesine 3 puan yazdırdı.
+
+---
+
 ## Robotik Türkiye Platformu kuruldu: Togg da yer aldı
 
 **Ekonomi · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Togg](https://www.cozumpark.com/robotik-turkiye-platformu-kuruldu-togg-thy-ve-eczacibasi-ayni-catida-bulustu/)
@@ -391,85 +465,5 @@ CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir yayında iç siyas
 Erken seçim tartışmalarına değinen Kılıçdaroğlu, bir muhalefet partisinin seçimden kaçma lüksünün olmadığını belirterek meclise gelecek erken seçim teklifine destek vereceklerini ifade etti. Ancak sürecin fırsatçılığa dönüştürülmesini doğru bulmadıklarını kaydetti.
 
 Belediyelere yönelik yürütülen adli ve idari süreçlere de değinen Kılıçdaroğlu, yolsuzlukla mücadele edilmesi gerektiğini ancak uygulamalarda çifte standart olmaması gerektiğini vurguladı. Kurultay süreci ve parti içi tartışmalara ilişkin de konuşan Kılıçdaroğlu, gemiyi güvenli limana getirdikten sonra genel başkanlığı bırakacağını dile getirdi.
-
----
-
-## İletişim Başkanı Duran: TRT World Forum 2026 İstanbul'da başladı
-
-**Türkiye · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskanligi-iletisim-baskani-duran-trt-world-forum-2026da-konustu)
-
-![](data/images/c9087735456c79fb.jpg)
-
-> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, İstanbul'da düzenlenen TRT World Forum 2026'nın açılışında küresel krizlere ve adil bir uluslararası düzen ihtiyacına dikkat çekti.
-
-İstanbul Kongre Merkezi'nde "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla bu yıl 10'uncusu düzenlenen TRT World Forum'un açılışında konuşan Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, uluslararası sistemin derin bir eksen kayması ve yapısal kriz yaşadığını belirtti.
-
-İletişim Başkanı Duran, güç merkezleri çoğalırken ortak kuralların aşındığını, küresel rekabetin sertleştiğini ve ortak sorumluluk duygusunun zayıfladığını vurguladı. Mevcut düzende barışın alanının daraldığını, konvansiyonel savaş risklerinin ve vekalet çatışmalarının arttığını ifade eden Duran, yapay zekâ ve dijital teknolojiler üzerindeki hakimiyet yarışının yeni güç ilişkileri doğurduğunu kaydetti.
-
-Tehditler küreselleşirken çözümlerin millileştiğine dikkat çeken Duran, bu yapısal krizin en çarpıcı örneğinin Gazze'de görüldüğünü dile getirdi. Duran, "Dünyanın gözü önünde yaşanan soykırım, uluslararası sistemin yalnızca krizleri önlemekte değil, varlık sebebi olan barışı, adaleti ve insan onurunu korumakta da yetersiz kaldığını ortaya koyuyor." dedi.
-
-Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde yeni bir uluslararası düzenin inşasını esas alan kurucu bir çoğulculuk önerdiğini belirten Duran, "Dünyanın ihtiyacı yeni bir savaşın galipleri değil, yeni bir barışın kurucularıdır." ifadelerini kullandı. Konuşmasında ayrıca Cumhurbaşkanlığı İletişim Başkanlığı tarafından geliştirilen forum diplomasisi faaliyetlerine de değindi.
-
----
-
-## Eşini öldürüp balkondan atlayan şüphelinin davası başladı
-
-**Asayiş · Merkez** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.iha.com.tr/eskisehir-haberleri/esini-oldurdukten-sonra-8-kattan-atlayan-sanigin-durusmasina-basladi-511958702)
-
-> Eskişehir'de eşini öldürdükten sonra balkondan atlayarak intihar girişiminde bulunan ve hastaneye kaldırılırken balıktan zehirlendiklerini öne süren sanığın yargılanmasına başlandı.
-
-Eskişehir'de 7 kattaki evinin balkonundan atlayarak yaralanan ve hastaneye sevk edilirken polise balıktan zehirlendiklerini iddia eden şüpheli Mehmet K.'nın, eşi Sevim K.'yi öldürdüğü iddiasıyla açılan davanın ilk duruşması gerçekleştirildi. Eskişehir 7. Ağır Ceza Mahkemesindeki duruşmaya tutuklu sanık Mehmet K., maktulün kardeşi ve taraf avukatları katıldı.
-
-Mahkemedeki savunmasında eşiyle tartışma yaşadığını öne süren tutuklu sanık Mehmet K., olay günü yaşananları anlattı. Sanık avukatı, müvekkilinin intihar girişiminde bulunduğunu ve zaman algısını kaybettiğini savunarak beraat ve tahliye talebinde bulundu.
-
-Duruşmada maktulün kardeşi ve müşteki Servet Özdemir, sanığın cinayeti mal varlığı sebebiyle tasarlayarak işlediğini iddia etti. Özdemir, kardeşinin mülklerini ve altınlarını satmak istemediği için sanık tarafından öldürüldüğünü ve cenazenin günlerce evde kilitli tutulduğunu öne sürdü. Müşteki avukatları da şüphelinin çelişkili beyanlarda bulunduğunu belirterek en üst hadden cezalandırılmasını talep etti.
-
-Mahkeme heyeti, sanık Mehmet K.'nın tutukluluk halinin devamına karar vererek duruşmayı aralık ayına erteledi.
-
----
-
-## Erdoğan: Küresel sistem iflas bayrağını çekti
-
-**Siyaset · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-trt-world-forum-2026da-konustu)
-
-![](data/images/a520f29b4679ac51.jpg)
-
-> Cumhurbaşkanı Erdoğan, TRT World Forum 2026'da yaptığı konuşmada uluslararası sistemin krizde olduğunu belirterek, Gazze'deki soykırıma ve küresel adaletsizliklere tepki gösterdi.
-
-İstanbul Kongre Merkezi'nde "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla düzenlenen TRT World Forum 2026'da konuşan Cumhurbaşkanı Erdoğan, dünyanın sancılı ve kuralların yok sayıldığı bir dönemden geçtiğini ifade etti.
-
-Uluslararası sistemin üzerine kurulduğu normların ayaklar altına alındığını belirten Erdoğan, Gazze'de modern zamanların en büyük soykırımının yaşandığına dikkat çekti. Ekim 2023'ten bu yana 75 bin kişinin katledildiğini ve 176 bin kişinin yaralandığını kaydeden Erdoğan, uluslararası yapıların yaşananları tribünden seyrettiğini söyledi.
-
-Türkiye'nin her zaman hak ve hakikati savunmaya devam edeceğini vurgulayan Erdoğan, ülkeyi karalamaya çalışan algı operasyonlarına boyun eğmeyeceklerini belirtti. Forumun düzenlenmesinde emeği geçen TRT yönetimini ve çalışanlarını tebrik eden Erdoğan, TRT'nin ilkeli ve sorumlu yayıncılık anlayışıyla küresel ölçekte önemli bir ses olduğunu dile getirdi.
-
----
-
-## 20 yıllık kayıp davasında tanık iddiası: Manisa'da yaşıyor
-
-**Asayiş · Günyüzü** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/eskisehirdeki-20-yillik-kayip-davasinda-sok-iddia-manisada-yasiyor-511986750)
-
-> Günyüzü'nde 20 yıl önce kaçırıldığı iddia edilen Hamdi Karakuş davasının ikinci duruşmasında, bir tanık kayıp şahsın Manisa'da olduğunu öne sürdü.
-
-Eskişehir'in Günyüzü ilçesine bağlı Çardaközü Mahallesi'nde 2005 yılında darbedilip bir gözünü kaybeden ve 1 Nisan 2006'da kendilerini jandarma olarak tanıtan kişilerce kaçırıldığı öne sürülen Hamdi Karakuş'un 20 yıldır arandığı dosya kapsamında ikinci duruşma görüldü. Eskişehir İl Jandarma Komutanlığı JASAT ekiplerinin tüfek dipçiğindeki DNA eşleşmesiyle yeniden açtığı soruşturma sonucunda açılan davanın duruşması Eskişehir 1. Ağır Ceza Mahkemesi'nde yapıldı. Duruşmaya tutuklu ve tutuksuz sanıklar, taraf avukatları ve tanıklar katıldı.
-
-Duruşma sonrasında açıklama yapan aile avukatı Doğancan Çıra, kasten öldürme davasının ikinci celsesinde tanıkların dinlendiğini belirtti. Tanık M.Ö.'nün, kayıp Hamdi Karakuş'un 2022-2023 yıllarında Manisa'nın Turgutlu ilçesinde deterjan işi yaptığını, üzerinde farklı kimlik taşıdığını ve ailesine acı çektirmek amacıyla köye dönmediğini öne sürdüğünü aktaran Çıra, bu iddianın hayatın olağan akışına aykırı olduğunu söyledi. Avukat Çıra, mahkemenin bu iddiayı değerlendireceğini ve sanıkların en ağır cezayı alması için mücadele edeceklerini ifade etti.
-
-Mahkeme heyeti, mevcut delil durumu ve kuvvetli suç şüphesini göz önünde bulundurarak tutuklu sanıklar E.A., G.A., İ.K., M.K., M.Ö., S.A., Ü.A. ve Ü.Ö.'nün tutukluluk hallerinin devamına karar verdi. Dosya kapsamında 2 sanığın ise adli kontrol şartıyla tutuksuz yargılanmasına devam ediliyor.
-
----
-
-## Tepebaşı'nda gençlerden LÖSEV'e yoğun ilgi
-
-**Belediye · Tepebaşı** · 2026-11-06 18:41 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/29ekimgenclikmerkezi’ndesosyalsorumlulukprogramlarıdevamediyor)
-
-![](data/images/24517ca6993e446e.jpg)
-
-> Tepebaşı Belediyesi 29 Ekim Gençlik Merkezi'nde düzenlenen LÖSEV bilgilendirme toplantısında, gençlere vakfın çalışmaları ve gönüllülük olanakları anlatıldı.
-
-Tepebaşı Belediyesi, gençlerin toplumsal dayanışma ve gönüllülük faaliyetlerine katılımını destekleyen Sosyal Sorumluluk Programları'na devam ediyor. Anadolu Üniversitesi ve Eskişehir Teknik Üniversitesi ile yürütülen protokol iş birlikleri çerçevesinde hayata geçirilen programa, 2026 yılı güz döneminde 160 genç kayıt yaptırdı.
-
-Bu kapsamda 29 Ekim Gençlik Merkezi Ali İsmail Korkmaz Sahnesi'nde LÖSEV bilgilendirme toplantısı gerçekleştirildi. Yaklaşık 50 gencin katıldığı buluşmada, LÖSEV Eskişehir FAYDA Projesi Kıdemli Personeli Sema Nur Cin ile proje personelleri Birol Sönmez ve Meliha Taşdemir katılımcılara vakfın yürüttüğü çalışmalar hakkında bilgi verdi.
-
-Toplantıda gençlere gönüllülük olanakları da detaylı şekilde aktarıldı. Tepebaşı Belediyesi, sivil toplum kuruluşlarıyla iş birliği içinde gençleri farklı gönüllülük alanlarıyla buluşturan bu tür bilgilendirme buluşmalarının önümüzdeki dönemde de sürdürüleceğini bildirdi.
 
 ---
