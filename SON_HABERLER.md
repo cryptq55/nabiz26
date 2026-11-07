@@ -2,6 +2,98 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz ve beraberindeki heyet Cumhurbaşkanı Yardımcısı Yılmaz'ı ziyaret etti
+
+**Gündem · Merkez** · 2026-11-07 06:40 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/alimiz-dr-erdinc-yilmaz-cumhurbaskani-yardimcimiz-sayin-cevdet-yilmaz-tarafindan-kabul-edildi)
+
+![](data/images/5f081fb0ca7aebec.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ile bir araya geldi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, Ankara'da temaslarda bulundu. Valilikten edinilen bilgilere göre, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Vali Erdinç Yılmaz'ı makamında kabul etti.
+
+Gerçekleşen kabule, Eskişehir Milletvekili ve TBMM Yapay Zekâ Araştırma Komisyonu Başkanı Fatih Dönmez ile AK Parti Eskişehir İl Başkanı Gürhan Albayrak da katıldı.
+
+---
+
+## Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de Başladı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.qha.com.tr/diaspora/kirim-tatar-akademik-is-birligi-calistayi-eskisehir-de-basladi-537407)
+
+![](data/images/520e5779e97242ba.jpg)
+
+> Kırım Tatar dili, tarihi ve kültürünün ele alındığı akademik çalıştay, Eskişehir Osmangazi Üniversitesinde bilim ve siyaset dünyasından isimlerin katılımıyla başladı.
+
+Kırım Tatar dili, edebiyatı, tarihi ve kültürünün bilimsel paylaşımı ile iş birliği kapsamının genişletilmesi amacıyla düzenlenen Kırım Tatar Akademik İş Birliği Çalıştayı, Eskişehir Osmangazi Üniversitesinde kapılarını açtı.
+
+Eskişehir Osmangazi Üniversitesinde gerçekleştirilen program, şehitler için saygı duruşunda bulunulmasının ardından Kırım Tatar millî marşı "Ant Etkenmen", İstiklâl Marşı ve Ukrayna millî marşının okunmasıyla başladı. Kırım Ailesi Derneği, Eskişehir Kırım Derneği, YTB, TİKA ve Ukrayna'nın Ankara Büyükelçiliğinin ortaklığıyla düzenlenen etkinlikte, Kırım Tatarlarının tarihi mücadelesi, kültürel mirası ve geleceğe yönelik yol haritası masaya yatırıldı.
+
+Açılışta konuşan Kırım Ailesi Kurucusu Anife Kurtseitova, savaş ve işgal acılarına rağmen pes etmediklerini belirterek, amaçlarının sürgünde olsalar dahi Kırım'ın eğilmez ruhunu yeni nesillere aktarmak olduğunu ifade etti. Eskişehir Kırım Derneği Başkanı Recep Şen ise İsmail Bey Gaspıralı’nın "Dilde, fikirde, işte birlik" şiarına atıf yaparak, 1783'ten bu yana süren sürgün ve soykırımlara rağmen Kırım Türklerinin direnmeye devam ettiğini vurguladı.
+
+Türk Ocakları Eskişehir Şubesi Başkanı Prof. Dr. Nedim Ünal, Kırım'ın ebediyen bir Türk vatanı olmaya devam edeceğini kaydetti. AK Parti Gençlik Kolları Genel Başkan Yardımcısı Murat Resul Karaman ve Odunpazarı Belediye Başkanı Av. Kâzım Kurt da çalıştayın Kırım'ın geleceği ve ortak hafıza açısından taşıdığı öneme dikkat çekti.
+
+Program kapsamında Ukrayna Silahlı Kuvvetleri korosu ve Kültür Güçleri grubunun solisti İsmail Kurtumer ile Safiye Lenterkızı konser verirken, Kırım Ailesi halk danslarıyla sahne aldı. Gün boyunca açık olan sergide ise Kırım Tatar sanatçıların eserleri, mutfağı ve tarihi sürgün ile siyasi tutsaklara ait fotoğraflar ziyaretçilerle buluştu.
+
+---
+
+## Eskişehirspor seriyi sürdürmek için sahada: Kepez maçı saat 15.30'da
+
+**Spor · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporda-seri-zamani-simsekler-kepezi-bekliyor)
+
+> Kırmızı Şimşekler, 9 günlük zorlu periyottaki kritik maçta Antalya Kepezspor'u konuk ediyor.
+
+Evinde Bursa Yıldırım ile berabere kalıp Türkiye Kupası'nda Iğdır'ı eleyen, ardından deplasmanda Gaziemir'i mağlup ederek moral depolayan Eskişehirspor, galibiyet serisi yakalamak için sahaya çıkıyor.
+
+Zorlu bir dönemece giren ve 9 gün içinde 3 kritik karşılaşmaya çıkacak olan Kırmızı Şimşekler, sahasında ağırlayacağı Antalya temsilcisini yenerek çıkışını sürdürmeyi hedefliyor. Öte yandan konuk ekip Kepezspor ise teknik direktör değişikliğinin ardından son iki maçını kazanarak Eskişehir'e moralli geliyor.
+
+Prof. Dr. Fethi Heper Stadyumu'nda oynanacak karşılaşma saat 15.30'da başlayacak. Mücadeleyi İstanbul bölgesi üst klasman hakemi Deniz Güven yönetecek.
+
+---
+
+## Eskişehir'de ehliyet sınavında kopya şebekesine operasyon: 3 tutuklama
+
+**Asayiş · Merkez** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/ehliyet-sinavinda-kopya-sebekesine-operasyon-512022951)
+
+> Eskişehir merkezli düzenlenen operasyonda ehliyet sınavlarında gizli kamera ve kulaklık düzenekleriyle kopya çektirdiği belirlenen 8 şüpheli yakalandı, adliyeye sevk edilen zanlılardan 3'ü tutuklandı.
+
+Eskişehir Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Şube Müdürlüğü ekipleri, ehliyet sınavlarında organize şekilde kopya çekilmesini sağlayan bir suç şebekesini takibe aldı.
+
+Gerçekleştirilen operasyonda, sınav sırasında üzerlerinde özel kopya düzeneği taşıyan 2 şüpheli ile bina dışında kamera görüntüleri aracılığıyla soruları yanıtlayan 6 şüpheli suçüstü yakalandı. Şüphelilerin üst aramalarında ve ikametlerinde yapılan aramalarda 4 Wi-Fi cihazı, 3 kamera düzeneği, 4 kulak içi gizli kulaklık ve 10 cep telefonu ele geçirildi.
+
+6114 Sayılı Kanuna Muhalefet suçu kapsamında adliyeye sevk edilen zanlılardan 3'ü mahkemece tutuklanarak cezaevine gönderilirken, diğer 5 şüpheli hakkında adli kontrol kararı uygulandı.
+
+---
+
+## Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti
+
+**Siyaset · Türkiye** · 2026-11-07 06:40 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti)
+
+![](data/images/caf218c5209a62f8.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi ile bir araya geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.
+
+İstanbul Kongre Merkezi'nde gerçekleştirilen kabulde, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran da hazır bulundu.
+
+---
+
+## Başkan Kurt'tan Kurşunlu Külliyesi Tepkisi: Siyasi Eylem
+
+**Belediye · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurttan-kursunlu-kulliyesi-ve-odunpazari-turizmi-hakkinda-sert-aciklamalar)
+
+![](data/images/bad39a70987eda78.jpg)
+
+> Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'nin boşaltılmasının siyasi bir karar olduğunu belirterek turizme zarar verildiğini söyledi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'nin boşaltılması süreci ve Odunpazarı turizmine yönelik eleştirilere ilişkin değerlendirmelerde bulundu.
+
+Külliyenin boşaltılması kararının siyasi bir hamle olduğunu savunan Başkan Kurt, sürecin hukuki boyutuna ve yaşanan çifte standartlara dikkat çekti. Yasal haklar çerçevesinde başvuru yaptıklarını ancak taleplerinin karşılık bulmadığını ifade eden Kurt, bu kararın Eskişehir turizmini olumsuz etkileyeceğini dile getirdi.
+
+Odunpazarı'nda gerçekleştirilen sokak sağlıklaştırmaları, konak restorasyonları ve uluslararası festivaller hakkında da bilgi veren Kurt, ilçenin cazibe merkezi haline gelmesi için önemli projelere imza attıklarını kaydetti. Dönemlerinde yapılan kültürel etkinliklerin ve müze çalışmalarının kentin turizmine büyük katkı sağladığını belirtti.
+
+---
+
 ## Vali Yılmaz'dan Hava Kuvvetleri Komutanı Dalkıran'a ziyarette heyetli temas
 
 **Gündem · Merkez** · 2026-11-07 00:58 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hava-kuvvetleri-komutani-orgeneral-rafet-dalkirani-ziyaret-etti)
@@ -375,101 +467,5 @@ Millî Eğitim Bakanlığında, Birleşmiş Milletler İklim Değişikliği Çer
 Toplantının ana gündem maddelerinden biri, COP31 Yeşil Bölge'de ziyaretçilerini ağırlayacak Türkiye İklim Okulu'nda yapılacak etkinlikler oldu. İklim okuryazarlığı, sıfır atık, yenilenebilir enerji ve çevre dostu teknolojiler gibi başlıklar altında düzenlenecek programlar ile öğrenci projelerinin ziyaretçilerle buluşturulması için yürütülen çalışmalar ele alındı.
 
 Bakanlık birimleri, hazırlık süreçleri ve uluslararası iş birliğiyle gerçekleştirilecek faaliyetler hakkında bilgi verdi. Toplantıda, "Gençlik ve Eğitim" tema alanının uluslararası düzeyde etkili biçimde temsil edilmesi amacıyla koordinasyonun sürdürüleceği vurgulandı.
-
----
-
-## Başkan Ataç, AB platformunda Tepebaşı'nın iklim modelini anlattı
-
-**Belediye · Tepebaşı** · 2026-11-06 12:59 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatactepebası’nıniklimmodeliniavrupabirligiplatformundaanlattı)
-
-![](data/images/f6d5a3fa4eb4fbae.jpg)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, Ankara'daki AB Bölgeler Komitesi toplantısında ilçenin iklim projelerini paylaştı, COP31 öncesi yerel yönetimler için doğrudan finansman çağrısı yaptı.
-
-Avrupa Birliği Bölgeler Komitesi (CoR) Türkiye Çalışma Grubu'nun 35. toplantısı Ankara'da gerçekleştirildi. Toplantıya katılan Tepebaşı Belediye Başkanı Ahmet Ataç, Tepebaşı'nın iklim alanındaki uygulamalarını aktararak COP31 öncesinde yerel yönetimlerin karar süreçlerine katılması ve finansmana doğrudan erişmesi gerektiğini vurguladı.
-
-Toplantıda konuşan Başkan Ataç, küresel iklim hedeflerinin kentlerde enerji verimliliği, su tasarrufu ve temiz ulaşım yatırımlarıyla hayata geçirildiğini belirtti. Tepebaşı Belediyesi'nin 2013 yılında Başkanlar Sözleşmesi'ne taraf olduğunu ve çalışmaların Sürdürülebilir Enerji ve İklim Eylem Planı (SECAP) ile yürütüldüğünü ifade eden Ataç, 2030'a kadar sera gazı emisyonlarının yüzde 40 oranında azaltılmasının hedeflendiğini kaydetti. Belediye hizmet binası ve Mustafa Kemal Atatürk Su Sporları Merkezi'ndeki güneş enerjisi ve su verimliliği uygulamalarıyla önemli tasarruflar sağlandığını dile getirdi.
-
-Ufuk 2020 Programı kapsamındaki REMOURBAN projesine de değinen Ataç, Melih Savaş Yaşam Köyü'nde enerji verimliliği, yenilenebilir enerji ve sürdürülebilir ulaşım uygulamalarının bir araya getirildiğini belirtti. Projede enerji tasarrufunun yüzde 53'e, karbon emisyonlarındaki azalmanın ise yüzde 63'e ulaştığını aktaran Ataç, yatırımların Alzheimer Konukevi ve sosyal hizmetlerle bütünleştirildiğini ifade etti.
-
-Konuşmasında iklim finansmanında başvuru süreçlerinin kolaylaştırılması ve teknik desteğin artırılması gerektiğine dikkat çeken Başkan Ataç, "COP31'den beklentimiz; yerel yönetimlerin finansmana doğrudan erişmesi, kararlara katılması ve başarılı uygulamaların yaygınlaşmasıdır. Tepebaşı olarak yeni iş birliklerine hazırız" dedi.
-
----
-
-## Ataç: Yerel yönetimler iklim kararlarına katılmalı ve finansmana erişmeli
-
-**Belediye · Tepebaşı** · 2026-11-06 12:59 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentin-iklim-modelini-avrupa-birligi-platformunda-anlatti-5d179552)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, AB Bölgeler Komitesi toplantısında kentin iklim modelini anlatarak, COP31 öncesi yerel yönetimlerin güçlendirilmesi ve doğrudan finansman desteği alması gerektiğini vurguladı.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, Avrupa Birliği Bölgeler Komitesi (CoR) Türkiye Çalışma Grubu'nun Ankara'da düzenlenen 35'inci toplantısına katıldı. Toplantıda kentin iklim alanındaki uygulamalarını paylaşan Ataç, COP31 hazırlık sürecinde yerel yönetimlerin karar süreçlerinde etkin rol almasının ve finansmana doğrudan erişmesinin şart olduğuna dikkat çekti.
-
-Konuşmasında Tepebaşı Belediyesi'nin yürüttüğü projelere değinen Başkan Ataç, 2013 yılında Başkanlar Sözleşmesi'ne taraf olduklarını ve Sürdürülebilir Enerji ve İklim Eylem Planı (SECAP) kapsamında 2030'a kadar sera gazı emisyonlarını yüzde 40 oranında azaltmayı hedeflediklerini belirtti. Belediye hizmet binasında ve Mustafa Kemal Atatürk Su Sporları Merkezi'nde güneş enerjisi ile yağmur suyu toplama sistemleri kullanıldığını aktaran Ataç, su verimliliği uygulamalarıyla önemli tasarruflar elde edildiğini kaydetti.
-
-AB Ufuk 2020 Programı kapsamındaki REMOURBAN projesinin Melih Savaş Yaşam Köyü'nde hayata geçirildiğini hatırlatan Ataç; projede enerji tasarrufunun yüzde 53'e, karbon emisyonlarındaki azalmanın ise yüzde 63'e ulaştığını ifade etti. İklim yatırımlarının Alzheimer Konukevi, Engelliler Montaj Atölyesi ve belde evleri gibi sosyal hizmetlerle bütünleştirildiğini belirten Ataç, yerel yönetimlerin uygun eş finansman olanaklarıyla desteklenmesi gerektiğini yineledi.
-
----
-
-## Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL
-
-**Ekonomi · Merkez** · 2026-11-06 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261106.jpg)
-
-> Gram altın güne yatay seyirle başladı. Harem Altın verilerine göre gram altın 6.521,44 TL'den alınıyor, 6.590,47 TL'den satılıyor.
-
-Altın piyasasında güne yatay seyirle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.590,47 TL, alış fiyatı 6.521,44 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,03 yatay seyretti.
-
-Ziynet altınlarda çeyrek altın 10.742 TL, yarım altın 21.477 TL, tam altın 42.796 TL, ata altın 43.939 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.156,45 TL, has altının gram fiyatı 6.570,69 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.066,10 dolardan işlem görürken, dolar/TL 50,11 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım
-
-**Eğitim · Türkiye** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://gazetekalem.com.tr/genclik-ve-spor-bakanligi-burs-ve-ogrenim-kredisi-basvuru-sonuclarini-acikladi/)
-
-![](data/images/16b1e26d30e8e2a3.jpg)
-
-> Gençlik ve Spor Bakanlığı burs ve öğrenim kredisi başvuru sonuçları duyuruldu. Öğrencilerin taahhütnamelerini e-Devlet üzerinden onaylaması gerekiyor.
-
-Gençlik ve Spor Bakanlığı (GSB) tarafından yürütülen burs ve öğrenim kredisi başvuru sonuçları ilan edildi.
-
-Gençlik ve Spor Bakanı Osman Aşkın Bak, sosyal medya hesabı üzerinden yaptığı açıklamada sonuçların açıklandığını belirterek öğrencilere başarı dileklerini iletti.
-
-Bakan Bak, başvuru sonucu hak kazanan öğrencilerin 11 Kasım saat 23.59’a kadar e-Devlet üzerinden taahhütnamelerini onaylamaları gerektiğini vurguladı.
-
----
-
-## ESTÜ mensupları "Ortak Gelecekte Biriz" kampanyasında yer aldı
-
-**Eğitim · Tepebaşı** · 2026-11-06 08:49 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-mensuplari-ortak-gelecekte-biriz-iletisim-kampanyasi-lansmanina-katildi)
-
-> Cumhurbaşkanlığı İletişim Başkanlığı'nın düzenlediği "Ortak Gelecekte Biriz İletişim Kampanyası" lansmanına Eskişehir Teknik Üniversitesi de katıldı.
-
-Cumhurbaşkanlığı İletişim Başkanlığı tarafından hayata geçirilen "Ortak Gelecekte Biriz İletişim Kampanyası"nın lansman programı gerçekleştirildi. Düzenlenen programa Eskişehir Teknik Üniversitesi (ESTÜ) mensupları da katılım sağladı.
-
-5 Kasım 2026 tarihinde yapılan programa, ESTÜ Bilişim Teknolojileri Meslek Yüksekokulu öğretim elemanı Öğr. Gör. Dr. Gökben Karaağaç ile Kurumsal İletişim Koordinatörlüğünden İhsan Tarık Çelik katıldı. Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran'ın da iştirak ettiği programda, toplumsal dayanışmanın güçlendirilmesi, ortak gelecek bilincinin pekiştirilmesi ve kesimler arası diyalog konuları ele alındı.
-
-Lansmanda, kampanyanın temel amaçları ile önümüzdeki dönemde hayata geçirilmesi planlanan faaliyetler hakkında katılımcılara ayrıntılı bilgi verildi.
-
----
-
-## Eskişehirsporlu eski futbolcular seçimli genel kurula gidiyor
-
-**Spor · Tepebaşı** · 2026-11-06 08:49 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporlu-eski-futbolcular-secimli-genel-kurula-gidiyor)
-
-> Eskişehirsporlu Profesyonel Futbolcular Dayanışma Derneği, seçimli genel kurulunu 19 Kasım'da gerçekleştirecek.
-
-Eskişehirspor'da geçmiş yıllarda forma giymiş profesyonel futbolcuları bir araya getiren Eskişehirsporlu Profesyonel Futbolcular Dayanışma Derneği, seçimli genel kurul hazırlıklarını sürdürüyor. Dernek yönetim kurulu tarafından yapılan açıklamaya göre, genel kurul 19 Kasım 2026 Perşembe günü saat 18.30'da Tepebaşı Belediyesi Özdilek Sanat Merkezi'nde yapılacak.
-
-İlk toplantıda çoğunluğun sağlanamaması durumunda ikinci buluşma 26 Kasım 2026 Perşembe günü aynı yer ve saatte gerçekleştirilecek. Dernek yönetimi, yapılacak seçimlerin üyeler arasındaki dayanışmayı güçlendirmesini ve kulübün tarihine sahip çıkılmasını hedefliyor.
-
-Yönetim kurulundan yapılan açıklamada, Eskişehirspor'un kentin ortak değeri olduğuna dikkat çekilerek, tüm üyeler genel kurula davet edildi.
 
 ---
