@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 08.11.2026 09:50 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (venv ile). Son haber 08.11 01:46 TSİ (masa 08-24 TSİ aralığı dışında, gece boşluğu beklenen); masa.yml son schedule koşusu 07.11 22:41 UTC, 08.11 sabah turu henüz çalışmamıştı (GitHub cron gecikmesi). saglik.yml son 4 koşunun 3'ü "failure" (sebebi incelenmedi). Instagram: son log 07.11 22:48 UTC. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml` elle tetiklendi (ilk deneme bağlantı hatası verdi, ikincisi kuyruğa girdi).
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Eskişehirspor/Kepezspor, kütüphane, tatbikat, elektrikli otomobil etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) 10 Kasım anma story'si (2 gün kaldı); (2) nöbetçi eczane sayfası; (3) saglik.yml "failure" koşularının nedeni.
+SAHİBİNE: yok.
+
 ## 07.11.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son haber sayfaları 200. Derleme geçti (329 haber, venv ile). Son haber 21:05 TSİ (akış canlı); son 24 saatte 37 kayıt (Belediye 6, Siyaset/Türkiye 5, Ekonomi/Eğitim 4, Asayiş/Spor/Gündem 3; ilçe Türkiye 13, Merkez 11, Odunpazarı/Tepebaşı 6, Günyüzü 1), 14'ünde fotoğraf yok. Instagram: log 15, reel_log 8 (DAILY_CAP=16 dolmadı), reels kaydı 92. Tekrar: "Erdoğan ve Trump telefon görüşmesi" iki ayrı haber olarak çıkmış (masa tekrar önleme zayıf; yayınlanmış metne dokunulmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** yok.
