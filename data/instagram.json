@@ -378,7 +378,9 @@
   "202611071805-eskisehirde-erzurum-gastronomi-ve-cag-kebabi-festivali-basladi",
   "202611072246-kasim-2026nin-en-ucuz-elektrikli-otomobilleri-togg-da-listede",
   "202611080640-iletisim-baskani-durandan-trt-world-forumda-dijital-egemenlik-vurgusu",
-  "202611080640-cumhurbaskani-erdogan-bugun-azerbaycana-gidiyor-karabagi-ziyaret-edece"
+  "202611080640-cumhurbaskani-erdogan-bugun-azerbaycana-gidiyor-karabagi-ziyaret-edece",
+  "202611081158-cumhurbaskani-erdogan-susada-resmi-torenle-karsilandi",
+  "202611081158-atac-ve-eczacibasindan-eskisehirin-uretim-hamlesine-ziyaret"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -527,14 +529,10 @@
   "202611070640-baskan-kurttan-kursunlu-kulliyesi-tepkisi-siyasi-eylem",
   "202611070640-kirim-tatar-akademik-is-birligi-calistayi-eskisehirde-basladi",
   "202611071805-eskisehirde-erzurum-gastronomi-ve-cag-kebabi-festivali-basladi",
-  "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl"
+  "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl",
+  "202611081158-atac-ve-eczacibasindan-eskisehirin-uretim-hamlesine-ziyaret"
  ],
  "log": [
-  1794052128.1612506,
-  1794052172.2048416,
-  1794052189.25513,
-  1794052208.3088336,
-  1794052224.4117198,
   1794074877.2663379,
   1794074946.6527545,
   1794074964.3841872,
@@ -544,12 +542,14 @@
   1794091686.5292947,
   1794120168.746687,
   1794120184.215299,
-  1794120199.6333697
+  1794120199.6333697,
+  1794139314.672599,
+  1794139331.1391861,
+  1794139348.1982832
  ],
  "reel_log": [
-  1794052128.161253,
-  1794052172.204844,
   1794074877.2663395,
-  1794074946.652756
+  1794074946.652756,
+  1794139314.6726007
  ]
 }
