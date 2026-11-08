@@ -21,11 +21,11 @@
     "title": "Kepezspor A.Ş. Eskişehir Deplasmanından Eli Boş Döndü: 1-0 - Akdeniz Gerçek",
     "url": "https://www.akdenizgercek.com.tr/kepez/kepezspor-as-eskisehir-deplasmaninda-geriye-dustu-1-0/388805"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor",
       "Prof. Dr. Fethi Heper Stadyumu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

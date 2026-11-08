@@ -20,11 +20,11 @@
     "title": "Eskişehir İl Halk Kütüphanesi'nde öğrenciler için drama atölyesi düzenlendi - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/eskisehir-il-halk-kutuphanesi-nde-ogrenciler-icin-drama-atolyesi-duzenlendi-297707.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Halk Kütüphanesi",
       "Eskişehir kütüphane"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
