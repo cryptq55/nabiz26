@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 08.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (338 haber, venv ile). Son haber 21:24 TSİ (akış canlı); son 24 saatte 27 yayında haber, 18'inde fotoğraf yok. Son 60 haberde: Ekonomi 11, Siyaset 9, Belediye 8, Spor/Asayiş 6; Sağlık 1, Ulaşım 1 (zayıf); ilçe Türkiye 20, Merkez 16, Tepebaşı 12, Odunpazarı 11, Günyüzü 1. Instagram: log 13, reel_log 2 (son Reels 15:30 UTC civarı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Anıtkabir, "saygıyla anıyoruz", "Ata'mıza" etiketleri (10 Kasım yaklaşıyor; derleme denendi).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Sağlık/Ulaşım için kaynak; (3) Reels sayısı düşük, reel_log kontrolü.
+SAHİBİNE: yok.
+
 ## 08.11.2026 09:50 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (venv ile). Son haber 08.11 01:46 TSİ (masa 08-24 TSİ aralığı dışında, gece boşluğu beklenen); masa.yml son schedule koşusu 07.11 22:41 UTC, 08.11 sabah turu henüz çalışmamıştı (GitHub cron gecikmesi). saglik.yml son 4 koşunun 3'ü "failure" (sebebi incelenmedi). Instagram: son log 07.11 22:48 UTC. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml` elle tetiklendi (ilk deneme bağlantı hatası verdi, ikincisi kuyruğa girdi).

@@ -111,6 +111,7 @@ KEYWORD_TAGS = [
     ("kar yağışı", ["#Kar", "#HavaDurumu"]), ("buzlanma", ["#Buzlanma", "#TrafikUyarısı"]), ("kömür", ["#Kömür", "#KışHazırlığı"]),
     ("doğalgaz", ["#Doğalgaz", "#Enerji"]), ("seçim", ["#Seçim", "#Siyaset"]), ("deprem", ["#Deprem", "#AFAD"]),
     ("ekim ayı", ["#Ekim"]), ("anma", ["#Anma"]),
+    ("anıtkabir", ["#Anıtkabir", "#Atatürk", "#10Kasım"]), ("saygıyla an", ["#Anma", "#10Kasım"]), ("ata'mıza", ["#Atatürk", "#10Kasım"]),
     ("kadın futbol", ["#KadınFutbolu", "#Eskişehirspor"]), ("içme suyu", ["#İçmeSuyu", "#ESKİ"]),
     ("isale hattı", ["#İçmeSuyu", "#AltYapı"]), ("sivrihisar", ["#Sivrihisar", "#EskişehirİlçeHaber"]),
     ("alanyaspor", ["#TFF3Lig", "#Eskişehirspor"]), ("şehir hastanesi", ["#ŞehirHastanesi", "#Sağlık"]),
