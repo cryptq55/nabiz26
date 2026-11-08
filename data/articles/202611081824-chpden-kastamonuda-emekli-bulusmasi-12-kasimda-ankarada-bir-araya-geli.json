@@ -21,11 +21,11 @@
     "title": "CHP Genel Başkan Yardımcıları Kastamonu'da 12 Kasım'daki emekli buluşmasını duyurdu - Son Dakika",
     "url": "https://www.sondakika.com/guncel/haber-chp-genel-baskan-yardimcilari-kastamonu-da-12-kasi-20407861/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Adnan Demirci",
       "Necdet Saraç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

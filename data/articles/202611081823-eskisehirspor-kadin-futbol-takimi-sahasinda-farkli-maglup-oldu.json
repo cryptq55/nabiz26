@@ -21,11 +21,11 @@
     "title": "Eskişehirspor kadınları evinde farklı kaybetti (1-7) - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirspor-kadinlar-evinde-farkli-kaybetti-1-7"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Behiç Erkin Spor Kompleksi",
       "Eskişehirspor futbol"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

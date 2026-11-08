@@ -22,11 +22,11 @@
     "title": "45 tane bıçakla yakalanan satıcıya polis: \"Gençler bunları alıp suça karışıyorlar, uyuşturucu gibi bir şey\" - İhlas Haber Ajansı",
     "url": "https://www.iha.com.tr/eskisehir-haberleri/45-tane-bicakla-yakalanan-saticiya-polis-gencler-bunlari-alip-suca-karisiyorlar-uyusturucu-gibi-bir-sey-512922010"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir zabıta",
       "Eskişehir Emniyet Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
