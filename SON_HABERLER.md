@@ -2,6 +2,86 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda toplumsal cinsiyet eşitliği ve şiddet semineri
+
+**Belediye · Tepebaşı** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.toplumsal.com.tr/haber/tepebasi-nda-seminere-40-kisi-katildi_33414/)
+
+> Tepebaşı Belediyesi tarafından Bahçelievler Belde Evi'nde düzenlenen toplumsal cinsiyet eşitliği ve şiddet konulu seminerde 40 kursiyer bir araya geldi.
+
+Tepebaşı Belediyesi, ilçe genelinde toplumsal cinsiyet eşitliği ve şiddet konularında farkındalığı artırmaya yönelik eğitim çalışmalarını sürdürüyor. Bu kapsamda Bahçelievler Belde Evi'nde gerçekleştirilen seminere toplam 40 kişi katılım gösterdi.
+
+Sağlık İşleri Müdürlüğü bünyesinde görev yapan psikolog Ecem Kumaş'ın konuşmacı olarak katıldığı buluşmada, örgü grubundan 23 ve giyim grubundan 17 kursiyer yer aldı. Oturumda katılımcılara toplumsal cinsiyet eşitliği ile şiddet konularında bilgilendirme yapılarak farkındalıklarının desteklenmesi hedeflendi.
+
+Belediye yetkilileri, benzer eğitim etkinliklerinin ay boyunca farklı noktalardaki tüm belde evleri ve deneyimli kafelerde devam edeceğini bildirdi.
+
+---
+
+## İletişim Başkanı Duran'dan TRT World Forum'da dijital egemenlik vurgusu
+
+**Türkiye · Türkiye** · 2026-11-08 06:40 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-algoritmik-cagda-kontrol-kimde-sirketler-devletler-vatandaslar-baslikli-oturumda-konustu)
+
+![](data/images/737208d1f93e5df3.jpg)
+
+> İletişim Başkanı Burhanettin Duran, TRT World Forum 2026'da yaptığı konuşmada, dijital dünyanın birkaç teknoloji şirketinin kontrolüne bırakılamayacağını belirterek hesap verebilirlik, adalet ve çoğulculuk çağrısı yaptı.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT tarafından "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla İstanbul Kongre Merkezi'nde düzenlenen TRT World Forum etkinliğine katıldı.
+
+Etkinliğin ikinci gününde gerçekleştirilen "Algoritmik Çağda Kontrol Kimde? Şirketler, Devletler, Vatandaşlar" başlıklı oturumda konuşan Duran, bilgi ve iletişim teknolojilerindeki dijital devrimin getirdiği sorunlara dikkat çekti. Geleneksel gazetecilikteki editöryal denetimin yerini algoritmaların aldığını belirten Duran, bu durumun doğru ve önemli haberlerin kitlelere ulaşmasını engellerken yanıltıcı paylaşımların hızla yayılmasına yol açtığını ifade etti.
+
+Algoritmaların tarafsız olmadığını ve arkasında ticari ile siyasi çıkarlar barındırdığını vurgulayan İletişim Başkanı Duran, bir avuç şirketin insanların ne göreceğini kontrol etmesinin düşünceyi de şekillendirdiğini kaydetti. Türkiye açısından bu durumun bir dijital egemenlik meselesi olduğunun altını çizen Duran, teknolojik ilerlemenin insanlara ve toplumlara hizmet etmesi gerektiğini belirtti.
+
+Duran, daha adil bir dijital düzen için hesap verebilirlik, algoritmik dağıtımda adalet ve çoğulculuk olmak üzere üç temel ilkenin önemine işaret etti. Ayrıca TRT ve Anadolu Ajansının farklı dillerdeki yayıncılık faaliyetleriyle hakikati dünyaya ulaştırma çabasını sürdürdüğünü, bu süreçte gazetecilerin önemli bedeller ödediğini sözlerine ekledi.
+
+---
+
+## Eskişehirli sanatçıların eserleri COP31'de sergileniyor
+
+**Kültür-Sanat · Merkez** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.ensondakika.com.tr/artik-sergisi-cop31-de-antalya-da-sanatseverlerle-bulusuyor/736394/)
+
+> Çanakkale, Eskişehir ve İzmir'den sanatçıların atık metallerden yaptığı eserlerin yer aldığı 'ARTIK' sergisi Antalya'da sanatseverlerle buluştu.
+
+Akfen Holding işbirliği ve Loft Art katkılarıyla hayata geçirilen "ARTIK" sergisi, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) sürecinde Gloria Hotels & Resorts ev sahipliğinde kapılarını açtı.
+
+Sürdürülebilirlik kavramını sanatın yaratıcı gücüyle ele alan sergi; plastik parçalar, kullanılmış elektronik cihazlar ve atık metaller gibi malzemeleri sanat aracılığıyla yeniden yorumluyor. Eserlerin büyük bölümü, endüstriyel üretim atıklarının ileri dönüşümüyle heykellere dönüştürüldü. Çanakkale, Eskişehir ve İzmir'den altı sanatçının katkı sunduğu sergi, doğanın döngüsünü ve tüketim alışkanlıklarının canlı yaşamına etkilerini gözler önüne seriyor.
+
+Akfen Holding Yönetim Kurulu Üyesi Pelin Akın Özalp, sergiyle doğanın tahribatına ve bilinçsiz tüketime dikkat çekmek istediklerini belirterek, "Yaşamın kaynağı olan doğanın bir gün metallerden oluştuğunu düşünmek korkutucu ama bir o kadar da mümkün. Bu ihtimali sanat aracılığıyla görünür kılmak istedik" ifadelerini kullandı.
+
+Özaltın Holding Yönetim Kurulu Başkan Yardımcısı Elif Özdemir Şankaya ise kullanım ömrünü tamamlamış malzemelerin sanatla yeniden anlam kazanmasının döngüsel ekonominin yaratıcı yönünü ortaya koyduğunu vurguladı. 29 Kasım'a kadar Gloria Serenity Resort'ta gezilebilecek olan sergi, izleyicileri tüketim alışkanlıklarını yeniden sorgulamaya davet ediyor.
+
+---
+
+## Eskişehir'de kışlık alışveriş hareketliliği: Termal ürünler kapışılıyor
+
+**Ekonomi · Tepebaşı** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-kislik-kiyafetlere-yogun-talep-termal-urunler-kapisiliyor-2462470)
+
+> Havaların soğumasıyla birlikte Eskişehir'deki pazarlarda kışlık kıyafetlere talep arttı. Vatandaşlar uygun fiyatlı termal ürünlere yöneldi.
+
+Eskişehir'de hava sıcaklıklarının düşmesi, vatandaşları kışlık kıyafet alışverişine yönlendirdi. Tepebaşı ilçesindeki Çamlıca Kapalı Pazar Yeri'nde piyasa fiyatlarının altında satışa sunulan kışlık ürünler yoğun ilgi görüyor.
+
+Pazarda özellikle soğuk havaların vazgeçilmezi olan termal kıyafetler vatandaşlar tarafından en çok tercih edilen ürünler arasında yer alıyor. Bunun yanı sıra günlük kullanıma uygun eşofman altları, sweatshirtler ve çoraplar da tezgahlarda hareketlilik oluşturuyor.
+
+Farklı ihtiyaçlara yönelik kıyafetleri bütçelerine uygun fiyatlarla temin etmek isteyen vatandaşlar tezgahları doldururken, kış hazırlıkları kapsamında pazar yerindeki alışveriş yoğunluğunun devam etmesi bekleniyor.
+
+---
+
+## Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidiyor: Karabağ'ı ziyaret edecek
+
+**Siyaset · Türkiye** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek-1749891)
+
+![](data/images/5dc2db66a076b2b3.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım Zafer Günü dolayısıyla bugün Azerbaycan'ı ziyaret ederek Karabağ'da temaslarda bulunacak.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in daveti üzerine Zafer Günü kutlamalarına katılmak üzere bugün Azerbaycan'a gidecek. Ziyaret kapsamında iki lider ikili ilişkileri ve bölgesel gelişmeleri ele alacak.
+
+İletişim Başkanı Burhanettin Duran, ziyaretin Azerbaycan'ın Zafer Günü vesilesiyle gerçekleştirileceğini belirterek, iki liderin Türkiye-Azerbaycan iş birliğinin yanı sıra küresel ve bölgesel meseleleri istişare edeceğini açıkladı. Ziyaret öncesinde Erdoğan, Aliyev'e gönderdiği tebrik mektubunda 30 yıllık işgalin sona ermesinin ardından elde edilen zaferin Türk dünyası için gurur kaynağı olduğunu vurguladı.
+
+Mecliste Şuşa Beyannamesi ile pekiştirilen kardeşlik vurgusu yapan Erdoğan, Güney Kafkasya'nın artık bir çatışma bölgesi değil, iş birliği ve kalkınma merkezi olarak anıldığını ifade etti. Mektupta ayrıca vatan savunmasında hayatını kaybeden şehitler rahmetle anıldı.
+
+Azerbaycan, Karabağ'da Ermenistan işgaline son veren 2. Karabağ Savaşı'nın ardından Zafer Günü'nü 8 Kasım'da kutluyor.
+
+---
+
 ## Yunus Emre Yurdu'nda yangın tatbikatı: Gerçeğini aratmadı
 
 **Gündem · Merkez** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haberler.com/amp/eskisehir-yunus-emre-yurdu-personeline-yangin-20404168-haberi/)
@@ -383,87 +463,5 @@ Nesine 2. Lig ve Nesine 3. Lig'de 10. hafta karşılaşmalarının canlı yayın
 Siyah-kırmızılı ekibin 7 Kasım 2026 Cumartesi günü saat 15.30'da başlayacak kritik mücadelesi, Tivibu Spor 2 ekranlarından canlı olarak izlenebilecek. Karşılaşmayı stadyumdan takip edemeyecek olan Eskişehirspor taraftarları, mücadeleyi televizyon üzerinden canlı olarak takip edebilecek.
 
 Açıklanan yayın programı kapsamında hafta sonu boyunca Nesine 2. Lig ve Nesine 3. Lig'deki toplam 20 karşılaşma Tivibu Spor ve Yaay platformları aracılığıyla futbolseverlerle buluşacak.
-
----
-
-## Eskişehir Teknik Üniversitesi'ne yeni rektör atandı
-
-**Eğitim · Tepebaşı** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801)
-
-> Resmi Gazete'de yayımlanan atama kararına göre, Eskişehir Teknik Üniversitesi Rektörlüğüne Prof. Dr. Adnan Özcan getirildi.
-
-Resmi Gazete'de yayımlanan Cumhurbaşkanlığı kararlarına göre, yükseköğretim kurumlarında rektör atamaları gerçekleştirildi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan tarafından yapılan atamalar, 2547 sayılı Yükseköğretim Kanunu'nun 13'üncü maddesi ile 3 sayılı Cumhurbaşkanlığı Kararnamesi'nin 2'nci, 3'üncü ve 7'nci maddeleri gereğince imzalandı.
-
-Alınan kararlar doğrultusunda Eskişehir Teknik Üniversitesi Rektörlüğüne Prof. Dr. Adnan Özcan atandı.
-
----
-
-## Ekim ayında en çok satılan elektrikli otomobiller belli oldu: Togg zirvede
-
-**Ekonomi · Türkiye** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Togg](https://www.usakhabergazetesi.com.tr/elektrikli-otomobilde-togg-ruzgari-en-cok-satilan-10-model-belli-oldu)
-
-![](data/images/50206421f8c30feb.jpg)
-
-> Türkiye otomobil pazarında ekim ayında satılan yaklaşık her iki elektrikli otomobilden biri Togg olurken, T10X ilk sırada, T10F ise ikinci sırada yer aldı.
-
-Türkiye otomobil pazarında elektrikli araçlara olan ilgi artmaya devam ederken, Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) verilerine dayandırılan ekim ayı satış sonuçları açıklandı. Ekim ayında Türkiye genelinde toplam 64 bin 939 otomobil satılırken, bunların 14 bin 380'ini tamamen elektrikli modeller oluşturdu. Böylece elektrikli otomobillerin toplam satışlar içindeki payı yüzde 22,1'e ulaştı.
-
-Açıklanan verilere göre ekim ayının en çok satılan elektrikli otomobili, 4 bin 59 adetle Togg T10X oldu. Togg T10X, tek başına elektrikli otomobil satışlarının yüzde 28,2'sini gerçekleştirdi. Markanın sedan modeli T10F ise 2 bin 702 adet satış rakamıyla ikinci sırada yer alarak yüzde 18,8 pazar payı elde etti. İki modelin toplam satışı 6 bin 761 adede ulaşırken, Togg'un tamamen elektrikli pazarındaki toplam payı yüzde 47 olarak hesaplandı.
-
-Ekim ayında Togg modellerini 1 bin 705 adetle KGM Torres EVX takip ederken, Hyundai IONIQ 3 1 bin 077 adetle dördüncü sırayı aldı. İlk dört modelin toplam satışı, tamamen elektrikli pazarının yaklaşık yüzde 66,4'ünü oluşturdu. Listenin devamında Citroën ë-C3, Mercedes-Benz GLC, Volvo EX40, Volvo EX30, BMW iX3 ve Mercedes-Benz GLB yer aldı.
-
-Öte yandan Togg'un başarısı yılın ilk 10 ayında da devam etti. Ocak-ekim döneminde T10X 26 bin 79, T10F ise 18 bin 108 adet satış rakamına ulaştı. Toplamda 44 bin 187 adede ulaşan Togg modelleri, yılın ilk 10 ayında tamamen elektrikli otomobil pazarında yaklaşık yüzde 32,7 pay elde etti.
-
----
-
-## Tepebaşı'nda ekoloji okulu kasım atölyeleri başlıyor: Ücretsiz kayıtlar açıldı
-
-**Belediye · Tepebaşı** · 2026-11-06 20:01 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/yeryuzuekolojiokulu’ndakasımatolyeleribaslıyor)
-
-![](data/images/8036291b71ddb504.jpg)
-
-> Tepebaşı Belediyesi Yeryüzü Ekoloji Okulu, kasım ayında çocuk ve yetişkinlere yönelik ücretsiz doğa, hak ve sanat atölyeleri düzenleyecek.
-
-Tepebaşı Belediyesi, her yaştan vatandaşın doğayla bağ kurmasını ve çeşitli alanlarda deneyim kazanmasını hedefleyen Yeryüzü Ekoloji Okulu'nda kasım ayı programını duyurdu. Sakin Okul Eğitim, Kültür ve Sanat Derneği iş birliğiyle gerçekleştirilecek etkinlikler tamamen ücretsiz olacak.
-
-Program kapsamında 9 Kasım'da başlayacak atölyelerde, çocuklara ve yetişkinlere yönelik farklı içerikler yer alacak. İlk etkinlik, 9 Kasım Pazartesi günü saat 18.00'de düzenlenecek Çocuk Hakları ve Hak Arama Yolları Atölyesi olacak. 8-12 yaş grubuna hitap eden bu tek günlük çalışma 10 kişilik kontenjanla sınırlı tutuldu.
-
-Çocuklar için hazırlanan bir diğer etkinlik olan Renkli Sanat Atölyesi ise 7-12 yaş grubunu 11, 18 ve 25 Kasım Çarşamba günleri saat 18.00'de bir araya getirecek. Aynı katılımcıların devam edeceği bu atölyenin kontenjanı da 10 kişi olarak belirlendi. Yetişkinler için ise 18 yaş ve üzeri katılımcılara açık olan Tekstil Art – Sashiko ile İleri Dönüşüm Atölyesi düzenlenecek. 13 Kasım'da başlayacak ve 18 Aralık'a kadar her cuma saat 18.00'de gerçekleştirilecek program altı hafta sürecek.
-
-Tepebaşı Belediyesi yanındaki Yeryüzü Ekoloji Okulu'nda yapılacak sınırlı kontenjanlı atölyeler için kayıtlar başladı. İsteyen vatandaşlar, mesai saatleri içinde Çevre Koruma ve Kontrol Müdürlüğünün 0222 211 40 00 / 3085 numaralı telefonundan detaylı bilgi alabilecek.
-
----
-
-## Miniklerin doğa projelerini Vali Yılmaz yerinde inceledi
-
-**Eğitim · Merkez** · 2026-11-06 20:01 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-cemal-ererdi-anaokulunu-ziyaret-etti)
-
-![](data/images/cfcd457f6f6557fc.jpg)
-
-> Vali Dr. Erdinç Yılmaz, kendisini okula davet eden Cemal Ererdi Anaokulu öğrencilerini ziyaret ederek iklim ve doğa çalışmaları hakkında bilgi aldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, daha önce kendisini makamında ziyaret ederek okullarına davet eden Cemal Ererdi Anaokulu öğrencilerine iade-i ziyarette bulundu.
-
-Ziyaret sırasında okulun sınıflarını ve bahçesini gezen Vali Yılmaz, minik öğrencilerin iklim değişikliği, doğanın korunması ve sürdürülebilir bir gelecek vizyonuyla hayata geçirdikleri projeleri yakından inceledi.
-
-Öğrenciler, okul içinde ve bahçede yürüttükleri çevre çalışmalarını Vali Yılmaz'a bizzat anlatarak hazırladıkları projelerin amaçlarını ve elde ettikleri sonuçları paylaştı.
-
----
-
-## Kılıçdaroğlu'ndan erken seçim ve ittifak açıklaması
-
-**Siyaset · Türkiye** · 2026-11-06 20:01 UTC · Kaynak: [Google Haberler - CHP](https://serbestiyet.com/haberler/politika/kilicdaroglu-bir-chpli-belediye-baskani-yolsuzluk-yapiyorsa-derhalak-partiye-katilsin-253014/)
-
-![](data/images/d6558fcafff6c1fe.jpg)
-
-> CHP Genel Başkanı Kemal Kılıçdaroğlu, bir televizyon programında gündeme ilişkin değerlendirmelerde bulundu; erken seçim teklifine destek vereceklerini belirtti.
-
-CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir yayında iç siyaset, ekonomi, erken seçim tartışmaları ve dış politika konularında açıklamalarda bulundu.
-
-Erken seçim tartışmalarına değinen Kılıçdaroğlu, bir muhalefet partisinin seçimden kaçma lüksünün olmadığını belirterek meclise gelecek erken seçim teklifine destek vereceklerini ifade etti. Ancak sürecin fırsatçılığa dönüştürülmesini doğru bulmadıklarını kaydetti.
-
-Belediyelere yönelik yürütülen adli ve idari süreçlere de değinen Kılıçdaroğlu, yolsuzlukla mücadele edilmesi gerektiğini ancak uygulamalarda çifte standart olmaması gerektiğini vurguladı. Kurultay süreci ve parti içi tartışmalara ilişkin de konuşan Kılıçdaroğlu, gemiyi güvenli limana getirdikten sonra genel başkanlığı bırakacağını dile getirdi.
 
 ---
