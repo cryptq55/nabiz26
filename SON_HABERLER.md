@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL
+
+**Ekonomi · Merkez** · 2026-11-08 12:28 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261108.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.543,03 TL'den alınıyor, 6.620,93 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.28 itibarıyla verilerine göre gram altının satış fiyatı 6.620,93 TL, alış fiyatı 6.543,03 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.791 TL, yarım altın 21.576 TL, tam altın 42.993 TL, ata altın 44.142 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.185,06 TL, has altının gram fiyatı 6.601,13 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.071,20 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.28 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Yerli navigasyon ProtoPiri yola çıkıyor: Togg'da da yer alacak
 
 **Ekonomi · Türkiye** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Togg](https://m.sabah.com.tr/gundem/2026/11/08/navigasyon-teknolojisinde-milli-rota/amp)
@@ -453,19 +473,5 @@ Toplantıda, bakanlığın eğitim politikalarının ülke genelinde aynı hassa
 Türkiye'nin eğitimde fiziki imkânların yanı sıra akademik başarı bakımından da önemli mesafeler kat ettiğini dile getiren Tekin, 2003'te OECD PISA araştırmalarında ilk 30'da yer alamayan ülkenin, 2015 sonrasında istikrarlı bir yükseliş gösterdiğini ifade etti. Bu başarının arkasında eğitim sistemi üzerindeki vesayetçi yapılarla mücadelenin yattığını vurgulayan Tekin, 2013'ten itibaren atılan adımların ve dershanelere yönelik yasal düzenlemelerin bakanlığın kendi politikalarını uygulamasını sağladığını aktardı.
 
 İki gün sürecek olan toplantı, bakan yardımcıları ve birim amirlerinin sunumlarıyla sürdürülüyor.
-
----
-
-## AK Partili Akyel'den Odunpazarı'na 'ruhsat' tepkisi
-
-**Belediye · Odunpazarı** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/berke-akyelden-odunpazari-belediyesine-tepki-arsa-sahipleri-ruhsat-bekliyor)
-
-> Odunpazarı Belediyesi AK Parti Meclis Üyesi Berke Akyel, Aşağı Çağlan, Kayapınar ve Kocakır bölgelerindeki TOKİ hak sahiplerine ruhsat verilmediğini ve kanuna aykırı olarak çap parası tahsil edildiğini öne sürdü.
-
-Odunpazarı Belediyesi AK Parti Meclis Üyesi Berke Akyel, meclis toplantısında yaptığı konuşmada TOKİ arsaları için hak sahiplerinden talep edilen ücretlere ve ruhsat gecikmelerine tepki gösterdi. Aşağı Çağlan, Kayapınar ve Kocakır'da ev yapmak isteyen vatandaşların tapularını aldığını belirten Akyel, süreçteki tek engelin belediye olduğunu iddia etti.
-
-Belediyenin hak sahiplerinden çap parası aldığını savunan Akyel, 775 sayılı Gecekondu Kanunu'nun 33. maddesi gereğince bu işlemlerin her türlü vergi, resim ve harçtan muaf olduğunu hatırlattı. Alınan belgelere harç yerine ücret yazıldığını ifade eden Akyel, alınan ücretlerin durdurulması ve tahsil edilen tutarların iade edilmesi için önerge sunacaklarını kaydetti.
-
-Ayrıca vatandaşların temmuz ayından bu yana verdiği 200'ün üzerindeki dilekçeye yanıt alamadığını belirten Akyel, kırmızı kot ve yol profili gibi teknik çizimlerin vatandaşlar tarafından temin edilmesine rağmen ruhsat verilmediğini söyledi. Akyel, belediyeyi TOKİ ile iletişime geçmeye ve hak sahiplerinin mağduriyetini gidermeye çağırdı.
 
 ---
