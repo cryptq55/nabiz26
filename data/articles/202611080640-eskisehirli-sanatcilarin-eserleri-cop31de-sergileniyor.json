@@ -23,11 +23,11 @@
     "title": "ARTIK sergisi COP31’de Antalya’da sanatseverlerle buluşuyor - https://www.ensondakika.com.tr/",
     "url": "https://www.ensondakika.com.tr/artik-sergisi-cop31-de-antalya-da-sanatseverlerle-bulusuyor/736394/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Gloria Serenity Resort",
       "heykel sergisi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -21,10 +21,10 @@
     "title": "Tepebaşı’nda seminere 40 kişi katıldı - Toplumsal Haber",
     "url": "https://www.toplumsal.com.tr/haber/tepebasi-nda-seminere-40-kisi-katildi_33414/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Tepebaşı Belediyesi belde evi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

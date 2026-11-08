@@ -21,11 +21,11 @@
     "title": "Eskişehir’de kışlık kıyafetlere yoğun talep! Termal ürünler kapışılıyor - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-kislik-kiyafetlere-yogun-talep-termal-urunler-kapisiliyor-2462470"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Çamlıca Kapalı Pazar Yeri",
       "Eskişehir pazar"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
