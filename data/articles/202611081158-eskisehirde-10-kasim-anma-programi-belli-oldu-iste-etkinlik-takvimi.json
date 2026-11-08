@@ -21,11 +21,11 @@
     "title": "Eskişehir’de 10 Kasım Atatürk’ü Anma Programı açıklandı! İşte etkinlik takvimi - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirde-10-kasim-ataturku-anma-programi-aciklandi-iste-etkinlik-takvimi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Vilayet Alanı Atatürk Anıtı Eskişehir",
       "Eskişehir Vilayet Meydanı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

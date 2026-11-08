@@ -22,12 +22,12 @@
     "title": "Tepebaşı Belediye Başkanı Ataç ve Faruk Eczacıbaşı, Eskişehir OSB'deki yeni montaj tesisini inceledi - Anka Haber",
     "url": "https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-ve-faruk-eczacibasi-eskisehir-osb-deki-yeni-montaj-tesisini-inceledi-939bbe4d"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Organize Sanayi Bölgesi",
       "Ahmet Ataç",
       "Faruk Eczacıbaşı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

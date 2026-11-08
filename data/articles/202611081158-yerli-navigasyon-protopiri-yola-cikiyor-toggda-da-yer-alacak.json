@@ -21,10 +21,10 @@
     "title": "Navigasyon teknolojisinde milli rota - Sabah",
     "url": "https://m.sabah.com.tr/gundem/2026/11/08/navigasyon-teknolojisinde-milli-rota/amp"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Togg T10X"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

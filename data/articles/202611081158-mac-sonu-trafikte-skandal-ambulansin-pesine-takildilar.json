@@ -21,11 +21,11 @@
     "title": "Eskişehirspor maçı sonrası trafikte bazı sürücüler ambulansın peşine takıldı - Haberler",
     "url": "https://www.haberler.com/amp/eskisehirspor-maci-sonrasi-trafikte-bazi-suruculer-20406813-haberi/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Atatürk Bulvarı Eskişehir",
       "Eskişehir trafik"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

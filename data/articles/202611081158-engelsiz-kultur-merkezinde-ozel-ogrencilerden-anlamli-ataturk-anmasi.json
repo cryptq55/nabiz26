@@ -21,11 +21,11 @@
     "title": "Odunpazarı'ndaki Engelsiz Kültür ve Sanat Merkezi'nde özel öğrenciler Atatürk'ü andı - Son Dakika",
     "url": "https://www.sondakika.com/amp/haber-odunpazari-ndaki-engelsiz-kultur-ve-sanat-merkezi-20407111/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Belediyesi Engelsiz Kültür ve Sanat Merkezi",
       "Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
