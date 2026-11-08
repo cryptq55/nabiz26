@@ -2,6 +2,132 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan ve Aliyev Şuşa'da görüştü: Birlik ve kardeşlik mesajı
+
+**Siyaset · Türkiye** · 2026-11-08 18:24 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://tr.euronews.com/2026/11/08/cumhurbaskani-erdogan-azerbaycanda-ortak-basin-toplantisinda-birlik-mesaji)
+
+![](data/images/7b8f39a3399e3355.jpg)
+
+> Cumhurbaşkanı Erdoğan, Azerbaycan'ın Zafer Günü kutlamaları için gittiği Karabağ'da Aliyev ile bir araya geldi; iki lider ortak basın toplantısı düzenledi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın 8 Kasım Zafer Günü kutlamalarına katılmak üzere Karabağ'ı ziyaret etti. Ziyaret kapsamında Şuşa'da Azerbaycan Cumhurbaşkânı İlham Aliyev ile görüşen Erdoğan, ardından ortak basın toplantısına katıldı.
+
+Şuşa'daki toplantıda konuşan Cumhurbaşkanı Erdoğan, iki ülke arasındaki ilişkilerin tarihin türlü imtihanlarından geçerek bugünkü seviyeye ulaştığını belirtti. Azerbaycan'ın haklı mücadelesini desteklediklerini vurgulayan Erdoğan, kalıcı barışın tesisine yönelik gayretlerin sürdüğünü ifade etti.
+
+Azerbaycan Cumhurbaşkânı Aliyev ise İkinci Karabağ Savaşı döneminde Türkiye'nin verdiği desteğin unutulmayacağını kaydetti. Aliyev, Şuşa Beyannamesi'nin iki ülke arasındaki müttefiklik ilişkisini resmîleştirdiğini belirterek, birlik ve kardeşliğin sarsılmaz olduğunu dile getirdi.
+
+---
+
+## CHP'den Kastamonu'da Emekli Buluşması: 12 Kasım'da Ankara'da Bir Araya Gelinecek
+
+**Siyaset · Türkiye** · 2026-11-08 18:24 UTC · Kaynak: [Google Haberler - CHP](https://www.sondakika.com/guncel/haber-chp-genel-baskan-yardimcilari-kastamonu-da-12-kasi-20407861/)
+
+> CHP Genel Başkan Yardımcıları Demirci ve Saraç, Kastamonu'da emeklilerin ekonomik sorunlarına dikkat çekerek 12 Kasım'da Ankara'da 'Emekliler Buluşuyor' programının düzenleneceğini duyurdu.
+
+CHP STK ve Sendikalardan Sorumlu Genel Başkan Yardımcısı Adnan Demirci ile Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç, CHP Kastamonu İl Başkanlığı'nda parti üyeleri ve basın mensuplarıyla bir araya geldi. Toplantıda Türkiye'nin ekonomik ve sosyal gündemi masaya yatırıldı.
+
+Toplantıda konuşan Adnan Demirci, 12 Kasım'da Ankara'da gerçekleştirilecek "Emekliler Buluşuyor" programını duyurarak ilk buluşmanın ardından bölgesel toplantılarla çalışmaların Türkiye geneline yayılacağını belirtti. Yaklaşık 17 milyon emeklinin bulunduğunu hatırlatan Demirci, geçim sıkıntısı yaşayan emeklilerin önemli bir kısmının yeniden çalışmak zorunda kaldığını ifade etti.
+
+Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç ise Kastamonu'nun göç veren yapısına ve genç işsizliğine dikkat çekti. Kentin giderek bir emekliler kentine dönüştüğünü savunan Saraç, emeklilerin büyük bölümünün açlık sınırının altında yaşam mücadelesi verdiğini söyledi. Saraç, gelir dağılımındaki adaletsizliğin giderilmesi ve kamu kaynaklarının toplum yararına kullanılması gerektiğini vurguladı.
+
+Program kapsamında yerel basının yaşadığı ekonomik zorluklara da değinen Saraç, basının bağımsız olabilmesinin ekonomik özgürlükle doğrudan bağlantılı olduğunu belirtti. Toplantı sonunda CHP'nin ülkenin temel sorunlarına yönelik politikalarını toplumun farklı kesimleriyle birlikte geliştirmeye devam edeceği aktarıldı.
+
+---
+
+## Odunpazarı SK'dan üst üste aynı skorla mağlubiyet
+
+**Spor · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazarinda-34-30-kabusu)
+
+> Çamlıca Spor Salonu'nda Üsküdar Belediyesi'ni ağırlayan Odunpazarı SK, ilk yarısını geride kapattığı mücadeleden 34-30 mağlup ayrıldı.
+
+Hentbol liginde mücadele eden Odunpazarı SK, Çamlıca Spor Salonu'nda Üsküdar Belediyesi ile karşı karşıya geldi. Karşılaşmanın ilk devresini 19-15 geride kapatan Eskişehir temsilcisi, ikinci yarıda skoru lehine çevirmek için çaba gösterse de maçın sonunu getiremedi.
+
+Mücadele konuk ekibin 34-30'luk üstünlüğüyle sona erdi. Bu sonuçla Eskişehir ekibi, ligde üst üste oynadığı son üç karşılaşmayı da aynı skorla (34-30) kaybederek puan yarışında yara aldı.
+
+Odunpazarı SK'nın gol dağılımında Andrea Sedloska 8 golle öne çıkarken, Funda Okur ve Hatice Özdemir Ilıca beşer gol kaydetti. Ekipte ayrıca Nur Aleyna Köse 3, Halime Tuana Arslan 2, Seval Bozova, Selen Köklü, Fatma Atalar Işık, Zeynep Nur Kapaklıkaya, Ela Hüzmeli ve Hande Muhcu birer kez fileleri havalandırdı.
+
+---
+
+## İletişim Başkanı Duran'dan COP31 ve İklim Diplomasisi Vurgusu
+
+**Türkiye · Türkiye** · 2026-11-08 18:23 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-cop31-ve-turkiyenin-iklim-diplomasisi-vizyonuna-iliskin-aciklama)
+
+![](data/images/9ae1d565ad0860b3.jpg)
+
+> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenecek COP31 zirvesinin Türkiye'nin iklim diplomasisi ve uluslararası etkinliği açısından tarihi bir fırsat olduğunu belirtti.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, sosyal medya hesabı üzerinden yaptığı açıklamada, Türkiye'nin küresel iklim mücadelesinde üstlendiği sorumluluğa ve Antalya'da gerçekleştirilecek COP31 hazırlıklarına değindi. 9-20 Kasım tarihlerinde ev sahipliği ve başkanlık yapılacak zirvenin, Türkiye'nin iklim diplomasisindeki birikimini uluslararası toplumla paylaşması için önemli bir zemin sunduğunu ifade etti.
+
+Zirve kapsamında 11-12 Kasım tarihlerinde düzenlenecek Liderler Zirvesi'nde çok sayıda devlet ve hükûmet başkanının ağırlanacağını belirten Duran, bu buluşmanın Türkiye'nin uluslararası görünürlüğüne ve diplomatik ilişkilerine katkı sağlayacağını aktardı. Ayrıca Emine Erdoğan'ın himayelerinde yürütülen Sıfır Atık Projesi'nin Türkiye'nin çevre konusundaki öncü yaklaşımını temsil ettiğini kaydetti.
+
+Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum'un koordinasyonunda çalışmaların sürdüğünü belirten Duran, zirvenin taahhütlerin sahada karşılık bulduğu somut çözümler etrafında şekillenmesini hedeflediklerini bildirdi. İletişim Başkanlığı olarak yabancı gazetecileri ağırladıklarını ve medya merkezi hazırlıklarını yürüttüklerini ekledi.
+
+---
+
+## Eskişehirspor Kadın Futbol Takımı sahasında farklı mağlup oldu
+
+**Spor · Tepebaşı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kadinlar-evinde-farkli-kaybetti-1-7)
+
+> Kadınlar 2. Lig'in ikinci hafta mücadelesinde Eskişehirspor, konuk ettiği Bursa Soğanlıspor'a 7-1 yenilerek puansız kaldı.
+
+Kadınlar 2. Lig'de mücadele eden Eskişehirspor Kadın Futbol Takımı, sezonun ikinci hafta maçında Bursa Soğanlıspor ile karşı karşıya geldi. Behiç Erkin Spor Kompleksi'nde oynanan karşılaşmada kırmızı-siyahlı ekip, rakibi karşısında beklenen oyunu sahaya yansıtamadı.
+
+Maç boyunca defansif anlamda zorlanan Eskişehir temsilcisi, sahadan 7-1'lik farklı mağlubiyetle ayrıldı. Sezonun ilk haftasını da yenilgiyle kapatan ev sahibi ekip, bu sonuçla ligin geride kalan iki haftasında henüz puanla tanışamadı.
+
+Kırmızı-siyahlı camiada lige yapılan bu talihsiz başlangıç üzüntü yaratırken, teknik heyet ve futbolcular ilerleyen haftalarda toparlanmak için çalışmalarını sürdürecek.
+
+---
+
+## Eskişehir'de seyyar tezgahta 45 bıçak ele geçirildi: Polisten tepki
+
+**Asayiş · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/45-tane-bicakla-yakalanan-saticiya-polis-gencler-bunlari-alip-suca-karisiyorlar-uyusturucu-gibi-bir-sey-512922010)
+
+> Odunpazarı ilçesinde seyyar tezgahta bıçak satan şüpheliye zabıta ekiplerince müdahale edildi. Ele geçirilen 45 bıçakla ilgili şahsa para cezası kesilirken, polis memuru 'Bunlar uyuşturucu gibi bir şey' diyerek tepki gösterdi.
+
+Eskişehir'de gerçekleştirilen seyyar denetimlerinde, açık alanda çok sayıda kesici alet satışı yapan bir kişi yakalandı. Alpu ilçesinden gelerek Odunpazarı ilçesi Emek Mahallesi Ertaş Bulvarı'nda seyyar tezgah açan S.Ş., Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı ekiplerinin denetimine takıldı.
+
+Zabıta ekiplerinin yaptığı kontrolde, seyyar tezgahta muhtelif cinslerde toplam 45 adet bıçak satışa sunulduğu belirlendi. Valiliğin 5442 sayılı İl İdaresi Kanunu uyarınca çıkardığı genel emir doğrultusunda, kamusal alanda izinsiz kesici ve delici alet taşınmasını engelleme kararı kapsamında şahsa 1.764 TL idari para cezası uygulandı. Tezgahtaki diğer eşyalarla birlikte bıçaklara el konuldu.
+
+Olay yerine çağrılan polis ekipleri, şüpheliyi karakola götürürken duruma tepki gösterdi. Polis memuru, "Bunları gençler alıyorlar, suça karışıyorlar. Gençleri kötülüyorsun, bu uyuşturucu gibi bir şey. Suça meylettiriyorsunuz yani, küçücük çocuklardan biz bunları alıyoruz" sözleriyle tepkisini dile getirdi.
+
+Zabıta Komiseri İbrahim Ergör, denetimlerin aralıksız sürdüğünü belirterek, "Ertaş Caddesi üzerinde yapılan denetimde seyyar tezgahta muhtelif cins bıçaklara rastlandı. Müsadere edilerek valilik makamının emirleri doğrultusunda gerekli işlemler yapılmak üzere İl Emniyet Müdürlüğü ekiplerine teslim edilmiştir" dedi. Şüpheli, adli işlemler için karakola götürüldü.
+
+---
+
+## Eskişehir'de kaçak tombala baskını: Çatıdan kaçmaya çalışan 40 kişiye ceza
+
+**Asayiş · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.iha.com.tr/eskisehir-haberleri/eskisehirde-tombala-oynarken-sucustu-yakalanan-40-kisiye-464-bin-tl-ceza-kesildi-513104042)
+
+> Odunpazarı'nda bir binanın bodrum katında yasadışı tombala oynatıldığı tespit edilen adrese baskın düzenlendi. Çatıdan kaçmaya çalışan 40 kişiye toplam 464 bin TL ceza kesildi.
+
+Eskişehir'de emniyet ekiplerinin düzenlediği operasyonda, yasadışı kumar oynatıldığı belirlenen bir adrese baskın yapıldı. Odunpazarı ilçesindeki bir binanın bodrum katında tombala oynatıldığı ihbarı üzerine harekete geçen ekipler, adrese koordineli bir operasyon gerçekleştirdi.
+
+Eskişehir İl Emniyet Müdürlüğü Asayiş, Narkotik Suçlarla Mücadele ve Göçmen Kaçakçılığıyla Mücadele Şube Müdürlüğü ekiplerinin katıldığı baskında renkli anlar yaşandı. Operasyon sırasında içerideki şahısların çatı katlarından kaçmaya çalıştığı ve oyun delillerini kaçırmak istediği görüldü. Ekiplerin hızlı müdahalesiyle binayı terk etmeye çalışan 40 kişi suçüstü yakalandı.
+
+Adreste yapılan aramalarda çok sayıda masa, sandalye, çekiliş topu ve oyun kartı ele geçirildi. Suçüstü yakalanan 40 kişiye kişi başı 11 bin 604 TL olmak üzere toplam 464 bin 110 TL idari para cezası uygulandı.
+
+Olayla ilgili olarak M.G. ve R.Z. isimli şüpheliler hakkında "kumar oynanması için yer ve imkan temin etmek" suçundan adli işlem başlatıldı. Ayrıca faaliyet yürütülen iş yerinin mühürlenmesi için de resmi işlemlerin başlatıldığı bildirildi.
+
+---
+
+## Elektrik faturalarında yeni dönem: 3 bin kWh sınırı geliyor
+
+**Ekonomi · Türkiye** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehir.net/1-ocakta-elektrik-faturalarinda-yeni-donem-basliyor-milyonlarca-abone-etkilenecek)
+
+![](data/images/78763e0bc351ae9f.jpg)
+
+> EPDK düzenlemesiyle 1 Ocak 2027'de yürürlüğe girecek yeni uygulamayla, mesken abonelerinin Son Kaynak Tedarik Tarifesi'ne dahil edilmesindeki yıllık tüketim sınırı 3 bin kilovatsaate düşürülecek.
+
+Enerji Piyasası Düzenleme Kurumu (EPDK) tarafından hazırlanan yeni düzenlemeyle, mesken abonelerinin Son Kaynak Tedarik Tarifesi'ne (SKTT) geçişinde esas alınan yıllık elektrik tüketim sınırında indirime gidiliyor. 1 Ocak 2027 itibarıyla yürürlüğe girecek uygulama kapsamında, mevcut 4 bin kilovatsaatlik sınır 3 bin kilovatsaate çekilecek. Türkiye genelindeki 44,2 milyon mesken abonesinin yaklaşık 6,5 milyonunun, yani yüzde 14,7'sinin bu düzenlemeden etkilenmesi bekleniyor.
+
+Değişiklik öncesinde yüksek tüketim grubunda yer alabilecek abonelere bilgilendirme mesajları gönderilmeye başlanırken, tüketicilere farklı elektrik tedarikçilerinin sözleşme ve fiyat alternatiflerini incelemeleri tavsiye ediliyor. Yeni belirlenen 3 bin kilovatsaatlik yıllık tüketim sınırı, aylık ortalama 250 kilovatsaate denk geliyor. Bu tüketim miktarındaki elektrik faturasının yaklaşık 820 TL seviyesinde olduğu belirtilse de, uygulamada belirleyici unsur fatura tutarı değil yıllık tüketim miktarı olacak.
+
+Yıllık elektrik tüketimi 3 bin kilovatsaat ve üzerinde olan mesken aboneleri yüksek tüketimli tüketici grubuna dahil edilecek. Başka bir elektrik tedarikçisiyle ikili anlaşma yapmayan aboneler ise Son Kaynak Tedarik Tarifesi üzerinden faturalandırılacak. Sınırı aşan abonelerin yeni tarifeye geçiş tarihi, limiti aştıkları ayı takip eden üçüncü ayın ilk günü olacak. Örneğin ekim ayında sınırı aşanlar 1 Ocak 2027'den, aralık ayında aşanlar ise 1 Mart 2027'den itibaren yeni tarifeye geçecek.
+
+Düzenlemeden etkilenecek aboneler, EPDK tarafından yetkilendirilen şirketlerle ikili anlaşma yaparak farklı tedarikçi ve fiyat tekliflerini değerlendirme hakkına sahip olacak. Tedarikçi değişikliği, dağıtım şirketinin değişmesi veya elektrik kesintisi anlamına gelmiyor. Yetkililerden yapılan uyarılarda, SMS ile bilgilendirilen abonelerin dolandırıcılıklara karşı işlem yapmadan önce şirketlerin EPDK tarafından yetkilendirilip yetkilendirilmediğini kurumun resmi internet sitesinden doğrulaması gerektiği vurgulanıyor.
+
+---
+
 ## Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL
 
 **Ekonomi · Merkez** · 2026-11-08 12:28 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -343,135 +469,5 @@ Belediye yönetimi, ziyaretçilerin yaşadığı hayal kırıklığını paylaş
 Eskişehir Erzurumlular Sosyal Yardımlaşma, Kültür ve Dayanışma Derneği tarafından Erzurum'un zengin mutfak kültürünü tanıtmak ve hemşehri dayanışmasını güçlendirmek amacıyla Erzurum Gastronomi ve Cağ Kebabı Festivali düzenlendi. Etkinliğe Eskişehir Valisi Dr. Erdinç Yılmaz da katılarak incelemelerde bulundu.
 
 Erzurum'un köklü gastronomi kültürünün en önemli simgelerinden biri olan cağ kebabının ön plana çıkarıldığı festival, yöresel lezzetlerin gelecek nesillere aktarılmasını amaçlıyor. Kentte faaliyet gösteren hemşehri derneklerinin düzenlediği bu tür etkinlikler, farklı şehirlerin geleneklerinin yaşatılmasına ve kültürel bağların korunmasına katkı sağlıyor.
-
----
-
-## Eskişehir heyetinden Savunma Sanayii Başkanlığı'na kritik ziyaret
-
-**Ekonomi · Merkez** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.pembepusula.org/eskisehir-heyetinden-savunma-sanayii-baskanligi-na-ziyaret/631598/)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz ve Kalkınma Platformu üyeleri, Savunma Sanayii Başkanlığı'nı ziyaret ederek kentin havacılık potansiyelini masaya yatırdı.
-
-Eskişehir Kalkınma Platformu üyeleri, savunma sanayisindeki stratejik projeleri görüşmek üzere Savunma Sanayii Başkanlığı'nı (SSB) ziyaret etti. Gerçekleşen temasta kentin havacılık altyapısı ve uçak motoru imalatındaki tecrübesi detaylı şekilde ele alındı.
-
-Vali Dr. Erdinç Yılmaz ve beraberindeki heyetin katıldığı görüşmede, yerel sanayicilerin tedarik zincirindeki etkinliği değerlendirildi. Ayrıca savunma sanayisinin ihtiyaç duyduğu nitelikli teknik personelin yetiştirilmesi için mesleki ve teknik liselerin sektörle entegre çalışması gerektiği vurgulandı.
-
-AK Parti Eskişehir İl Başkanı ve Albayrak Makine Elektronik Yönetim Kurulu Başkanı Gürhan Albayrak, toplantının çok verimli geçtiğini belirterek, SSB Başkanı Prof. Dr. Haluk Görgün'ün en kısa sürede Eskişehir'i ziyaret ederek sanayicilerle bir araya geleceğini açıkladı.
-
----
-
-## Erdoğan ve Trump telefonda görüştü: Bölgesel meseleler ele alındı
-
-**Türkiye · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-abd-baskani-trump-ile-gorusmesine-iliskin-aciklama-07-11-26)
-
-![](data/images/bd1f955c7fb35300.jpg)
-
-> Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile bir telefon görüşmesi gerçekleştirerek ikili ilişkiler ile bölgesel ve küresel gelişmeleri değerlendirdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi yaptı. Görüşmede Türkiye-ABD ikili ilişkilerinin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
-
-Cumhurbaşkanı Erdoğan, iki ülke arasındaki iş birliğinin artarak devam edeceğine inandığını ve önümüzdeki dönemde ilişkilere ivme kazandırmak için çalışacaklarını belirtti. Görüşmede İran ile ABD arasındaki gerilimin diplomasi yoluyla çözülmesi gerektiğine vurgu yapan Erdoğan, Türkiye'nin barış için gayret göstermeyi sürdüreceğini ifade etti.
-
-Ukrayna-Rusya savaşına da değinen Erdoğan, çatışmaların sonlandırılmasına yönelik diplomatik çabaların olumlu sonuçlanmasını umduğunu, bu sürece katkı sunmaya devam ederek her iki ülke ile temasları artırmanın önemini dile getirdi. Ayrıca Erdoğan, ABD Başkanı Trump'a Türk Devletleri Teşkilatı Zirvesi'ne verdiği destek dolayısıyla teşekkür etti.
-
----
-
-## Erdoğan ve Trump telefon görüşmesinde ikili ilişkileri ele aldı
-
-**Siyaset · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html)
-
-![](data/images/80c137f030376222.jpg)
-
-> Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile bir telefon görüşmesi gerçekleştirerek ikili ilişkiler ile bölgesel ve küresel gelişmeleri değerlendirdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Amerika Birleşik Devletleri Başkanı Donald Trump ile telefon görüşmesi yaptı. İletişim Başkanlığı'ndan yapılan açıklamaya göre görüşmede, Türkiye-ABD ikili ilişkilerinin yanı sıra bölgesel ve küresel meseleler ele alındı.
-
-Görüşmede Cumhurbaşkanı Erdoğan, Türkiye ile ABD arasındaki iş birliğinin artarak sürmesine inandığını ve ilişkileri daha ileriye taşımak için çalışacaklarını ifade etti. İran ile ABD arasındaki gerilimin diplomasi yoluyla çözülmesi gerektiğini vurgulayan Erdoğan, Türkiye'nin barışın tesisi için gayret göstermeye devam edeceğini belirtti.
-
-Ukrayna-Rusya savaşının sonlandırılmasına yönelik diplomatik çabaların önemine dikkat çeken Erdoğan, her iki tarafla da temasları artırmanın gerekli olduğunu kaydetti. Ayrıca Cumhurbaşkanı Erdoğan, ABD Başkanı Trump'a Türk Devletleri Teşkilatı Zirvesi'ne verdiği destek dolayısıyla teşekkür etti.
-
----
-
-## Altın fiyatları 7 Kasım 2026: Gram altın 6.620,93 TL
-
-**Ekonomi · Merkez** · 2026-11-07 12:06 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261107.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.543,03 TL'den alınıyor, 6.620,93 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.06 itibarıyla verilerine göre gram altının satış fiyatı 6.620,93 TL, alış fiyatı 6.543,03 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.791 TL, yarım altın 21.576 TL, tam altın 42.993 TL, ata altın 44.142 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.185,06 TL, has altının gram fiyatı 6.601,13 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.071,20 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.06 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## İletişim Başkanı Duran, Nijeryalı Bakan Malagi ile görüştü
-
-**Türkiye · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-nijerya-enformasyon-ve-ulusal-uyum-bakani-malagi-ile-bir-araya-geldi)
-
-![](data/images/e01791c45031f437.jpg)
-
-> İletişim Başkanı Burhanettin Duran, TRT World Forum 2026 için ülkemizde bulunan Nijerya Enformasyon ve Ulusal Uyum Bakanı Mohammed İdris Malagi'yi ağırladı.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT World Forum 2026 etkinlikleri dolayısıyla Türkiye'de bulunan Nijerya Federal Cumhuriyeti Enformasyon ve Ulusal Uyum Bakanı Mohammed İdris Malagi ve beraberindeki heyetle bir araya geldi.
-
-Görüşmede, Türkiye ile Nijerya arasında medya ve iletişim alanındaki iş birliği imkânları masaya yatırıldı. Taraflar, kamu diplomasisi ve stratejik iletişim konularında geliştirilebilecek ortak çalışmaları değerlendirdi.
-
-İletişim Başkanı Duran, iki ülke arasındaki ilişkilerin iletişim alanında da güçlenerek sürmesini dilediğini belirterek konuk bakana ve heyetine teşekkür etti.
-
----
-
-## Eskişehir'e yeni bir vizyon: Kentpark'taki İklim Adası kapılarını açtı
-
-**Belediye · Merkez** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.istikbalgazetesi.com/unlucenin-iklim-adasi-gelecege-acilan-kapi)
-
-> Eskişehir Büyükşehir Belediyesi tarafından Kentpark içinde hayata geçirilen İklim Adası, sürdürülebilirlik, bilim ve teknolojiyi buluşturan yeni bir yaşam alanı olarak hizmet vermeye başladı.
-
-Eskişehir Büyükşehir Belediyesi, kentte sürdürülebilir yaşam kültürünü yaygınlaştırmak amacıyla önemli bir projeyi daha hayata geçirdi. Başkan Ayşe Ünlüce'nin öncülüğünde Kentpark içerisinde yeniden düzenlenen İklim Adası, bilim, teknoloji ve çevre bilincini bir araya getiren bir merkez olarak kapılarını açtı.
-
-Eski Ada Restoran'ın bulunduğu alanda kurulan ve yaklaşık 500 metrekare kapalı ile 2 bin metrekare açık alana sahip olan merkez; kütüphane, atölyeler, amfi, çalışma alanları, podcast ve çekim odalarının yanı sıra yeme-içme ve dinlenme bölümlerini barındırıyor. Projede çevre dostu uygulamalar dikkat çekerken, kafeteryadaki mobilyaların tamamının sürdürülebilirlik anlayışıyla ikinci el ürünlerden tercih edildiği belirtildi.
-
-İklim Adası'nda ayrıca yağmur sularının depolanarak yeşil alanların sulamasında kullanılacağı çevre dostu sistemler de yer alıyor. Öğrencilerden akademisyenlere ve girişimcilere kadar her kesimden vatandaşın buluşma noktası olması hedeflenen merkez, Eskişehir'in akıllı şehir vizyonuna katkı sunmayı amaçlıyor.
-
----
-
-## Erdoğan'dan Azerbaycan ziyareti açıklaması: 8 Kasım'da gideceğim
-
-**Siyaset · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://ankahaber.net/haber/cumhurbaskani-erdogan-dan-azerbaycan-aciklamasi-kardesligimizin-asamayacagi-hicbir-engel-yoktur-a4c49662)
-
-![](data/images/c2a15e0e4ab06615.jpg)
-
-> Cumhurbaşkanı Erdoğan, Seul dönüşü uçakta yaptığı açıklamada 8 Kasım'da Azerbaycan'ın Zafer Günü etkinliklerine katılmayı planladığını duyurdu.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Seul ziyaretinden Türkiye'ye dönüşü sırasında uçakta gazetecilerin sorularını yanıtladı. Azerbaycan ile ilişkiler hakkında değerlendirmelerde bulunan Erdoğan, fevkalade bir durum olmazsa 8 Kasım'da Azerbaycan'ın Zafer Günü'ne katılmak üzere bir ziyaret gerçekleştirmeyi düşündüğünü belirtti.
-
-İki ülke arasındaki bağların klasik diplomatik temasların ötesinde olduğunu vurgulayan Erdoğan, "Türkiye ve Azerbaycan kardeşliğinin evelallah aşamayacağı hiçbir engel yoktur" ifadesini kullandı. Ziyaret kapsamında gerekli adımların atılacağını belirten Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefon görüşmeleri gerçekleştirdiğini, ayrıca İstihbarat Başkanı ile Dışişleri Bakanı'nı da Azerbaycan'a gönderdiğini aktardı.
-
-Açıklamalarında fon soruşturmasına da değinen Cumhurbaşkanı Erdoğan, sermaye piyasalarının usulsüzlüklerden ve manipülasyonlardan temizleneceğini belirterek, gerekli yol haritasının oluşturulduğunu ve sürecin titizlikle takip edildiğini kaydetti.
-
----
-
-## Bakan Tekin: PISA'daki yükseliş vesayetle mücadelenin sonucudur
-
-**Eğitim · Türkiye** · 2026-11-07 11:46 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/il-milli-egitim-mudurleri-toplantisi-diyarbakir039da-gerceklesti/haber/42428/tr)
-
-![](data/images/57785813f32b2ee1.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin, Diyarbakır'da düzenlenen İl Millî Eğitim Müdürleri Toplantısı'nda eğitim alanındaki gelişmeleri değerlendirdi.
-
-Millî Eğitim Bakanı Yusuf Tekin, yürütülen çalışmaları değerlendirmek üzere bakan yardımcıları ve birim amirlerinin de katılımıyla Diyarbakır'da 81 ilin millî eğitim müdürüyle bir araya geldi.
-
-Toplantıda, bakanlığın eğitim politikalarının ülke genelinde aynı hassasiyetle uygulanmasında il millî eğitim müdürlerinin kritik bir sorumluluk üstlendiğini belirten Bakan Tekin, her çocuğun eğitim hakkının gözetilmesi ve öğretmenlerin mesleki itibarının korunması için sahadan gelen görüşlerle çalışmalara yön vermeye devam edeceklerini kaydetti.
-
-Türkiye'nin eğitimde fiziki imkânların yanı sıra akademik başarı bakımından da önemli mesafeler kat ettiğini dile getiren Tekin, 2003'te OECD PISA araştırmalarında ilk 30'da yer alamayan ülkenin, 2015 sonrasında istikrarlı bir yükseliş gösterdiğini ifade etti. Bu başarının arkasında eğitim sistemi üzerindeki vesayetçi yapılarla mücadelenin yattığını vurgulayan Tekin, 2013'ten itibaren atılan adımların ve dershanelere yönelik yasal düzenlemelerin bakanlığın kendi politikalarını uygulamasını sağladığını aktardı.
-
-İki gün sürecek olan toplantı, bakan yardımcıları ve birim amirlerinin sunumlarıyla sürdürülüyor.
 
 ---
