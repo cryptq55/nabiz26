@@ -2,6 +2,106 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg Kasım 2026 kampanyası açıklandı: Aylık 30 bin TL taksit fırsatı
+
+**Ekonomi · Türkiye** · 2026-11-08 22:55 UTC · Kaynak: [Google Haberler - Togg](https://www.gzt.com/teknoloji/aylik-30-bin-tl-taksitle-togg-sahibi-olunabilecek-togg-kasim-2026-kampanyasi-belli-oldu-4276723)
+
+![](data/images/b23a5f381f7f5f54.jpg)
+
+> Yerli otomobil üreticisi Togg, T10X ve T10F modelleri için Kasım 2026 finansman kampanyasını duyurdu. Kampanya kapsamında sıfır faizli kredi ve uzun vadeli ödeme seçenekleri sunuluyor.
+
+Yerli otomobil üreticisi Togg, T10X ve T10F modellerinde sınırlı sayıdaki araç için geçerli olan Kasım 2026 finansman kampanyasının detaylarını paylaştı. Bireysel ve kurumsal kullanıcılara yönelik hazırlanan kampanya, farklı kredi ve vade seçenekleriyle alıcılara kolaylık sağlıyor.
+
+Bireysel kullanıcılara özel hazırlanan T10F V2 modelinde 300 bin TL kredi için 10 ay vade ve sıfır faiz imkânıyla aylık 30 bin TL taksit ödeme seçeneği sunuluyor. Aynı model için 500 bin TL krediye 6 ay vade ve sıfır faizle aylık 83.334 TL, 700 bin TL krediye ise 4 ay vade ve sıfır faizle aylık 175.667 TL taksit imkânı sağlanıyor. Kurumsal ve filo alımlarına özel %100 finansman desteğinde ise T10F 4More versiyonu için 1,5 milyon TL krediye 10 ay vade ve sıfır faiz (aylık 150.000 TL taksit) fırsatı kampanyaya dahil edildi.
+
+T10X modellerinde de sıfır faiz avantajı sürerken, bireysel alıcılar için T10X V2 modelinde 700 bin TL krediye 4 ay vade (aylık 175.000 TL), 500 bin TL krediye 6 ay vade (aylık 83.334 TL) ve 300 bin TL krediye 10 ay vade (aylık 30.000 TL) seçenekleri sunuluyor. T10X 4More versiyonunda ise 1,5 milyon TL kredi için 10 ay vade ve sıfır faiz uygulanıyor.
+
+Kampanya kapsamında ayrıca uzun vadeli finansman seçenekleri de yer alıyor. %2,95 faiz oranıyla sunulan paketlerde T10X V2 için 1,7 milyon TL krediye 48 ay vade (aylık 78.008 TL taksit) ve T10X 4More için 1,5 milyon TL krediye 36 ay vade (aylık 77.527 TL taksit) imkânı tanınıyor.
+
+---
+
+## Kılıçdaroğlu'ndan Mekke Anlaşması ve siyasi gelişmeler açıklaması
+
+**Siyaset · Türkiye** · 2026-11-08 22:55 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/kemal-kilicdaroglu-mekke-anlasmasi-na-yonelik-kaygilarinin-iran-tarafindan-giderildigini-acikladi-7674e0d8)
+
+![](data/images/971af03cf4a82102.jpg)
+
+> CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir programda Mekke Anlaşması'na ilişkin kaygılarının İran tarafından giderildiğini belirterek gündeme dair değerlendirmelerde bulundu.
+
+CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı televizyon programında TBMM Genel Kurulu'nda kabul edilen Mekke Anlaşması'na değindi. Anlaşmanın imzalandığı dönemde bazı kaygıları bulunduğunu aktaran Kılıçdaroğlu, "Ama kaygımı İran giderdi. İran'ın karşı çıkmaması, üç ülkenin dışişleri bakanının Tahran'ı ziyaret etmesi, bizim açımızdan çok değerli. Bu proje aslında CHP'nin projesi. Ortadoğu Barış ve İşbirliği Teşkilatı kurulmalı diye bir iddiamız vardı. İran'ın buna sıcak bakması fikrimizi değiştirdi" dedi.
+
+Siyasi etik ve dokunulmazlıklar konusuna da değinen Kılıçdaroğlu, düşünce özgürlüğünü savunduğunu ancak halkın parasını yiyen veya iş takipçiliği yapan isimlerin parlamentoda yer almaması gerektiğini vurguladı. Siyasi Etik Kanunu'nun mutlaka çıkması gerektiğini ifade eden Kılıçdaroğlu, fon soruşturmasıyla ilgili olarak ise sürecin üzerine gidildiğini söyleyen iktidarın vurgun yapanların listelerini açıklaması gerektiğini kaydetti.
+
+Kürt sorununun çözümüne yönelik sürece de değinen Kılıçdaroğlu, konunun çözüm adresinin TBMM olduğunu belirtti ve yasanın sağlıklı bir şekilde sonuçlanmasını beklediklerini ifade etti. Yeniden CHP Genel Başkanı olmasının ardından yöneltilen eleştirilere de yanıt veren Kılıçdaroğlu, partisinin kuruluşundaki ahlaki kodlara dönmesi ve arınmanın sağlanmasının ardından yarışın yeniden gerçekleşeceğini belirtti.
+
+---
+
+## Türkiye ve Irak'tan Ortak Açıklama: Sincar'da Süreç Sürüyor
+
+**Türkiye · Türkiye** · 2026-11-08 22:54 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/turkiye-cumhuriyeti-ve-irak-cumhuriyeti-ortak-basin-aciklamasi)
+
+![](data/images/ede7b65cde709f58.jpg)
+
+> Türkiye ve Irak makamları, Sincar'da devlet otoritesinin tesisi ve terör örgütü PKK'nın varlığına son verilmesi yönündeki adımların kararlılıkla sürdürüleceğini açıkladı.
+
+İletişim Başkanlığından yapılan açıklamaya göre, iki ülke makamları, liderlerin 23 Eylül 2026 tarihinde vardıkları mutabakat çerçevesinde atılan adımları değerlendirdi. Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve PKK terör örgütü unsurlarının varlığına son verilmesi yönünde bugüne kadar attığı adımların sürdürülmesi hususunda ortak irade teyit edildi.
+
+Türk tarafı, liderler düzeyindeki mutabakat uyarınca Başika-Zilikan yerleşkesinin Irak Federal Hükümetine kademeli olarak devrine yönelik üzerine düşen adımları atmaya başlayacağını beyan etti.
+
+Öte yandan taraflar, PKK terör örgütünün mevcudiyetinin tamamen sonlandırılmasına yönelik Sincar'da başlayan sürecin ilerlemesinin müştereken teyit ve denetlenmesi amacıyla Ortak Güvenlik Koordinasyon Komitesinin faaliyete geçirilmesi yönünde karar aldı.
+
+---
+
+## Serpil Akyıl'ın 60 yıllık sanat birikimi Eskişehir'de sergileniyor
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://ankahaber.net/haber/eskisehir-de-60-yilda-serpil-akyil-sergisi-sanatseverlerle-bulustu-17231448)
+
+> Sanatçı Serpil Akyıl'ın altı on yıllık sanat yolculuğunu gözler önüne seren sergi, Sanat Sokağı Geçici Sergi Salonu'nda kapılarını açtı.
+
+Eskişehir Büyükşehir Belediyesi, sanatçı Serpil Akyıl’ın 60 yıllık sanat birikimini yansıtan eserlerini sanatseverlerle buluşturdu. Sanat Sokağı Geçici Sergi Salonu’nda açılan "60 Yılda Serpil Akyıl" adlı sergi, sanatçının farklı dönemlerde ürettiği eserleri izleyicilerin beğenisine sundu.
+
+Geleneksel kültürün izlerini, masalsı figürleri ve mitolojik öğeleri çağdaş bir anlatımla bir araya getiren serginin açılışına Büyükşehir Belediye Başkan Vekili Hasan Ünal, önceki dönem Büyükşehir Belediye Başkanı Yılmaz Büyükerşen, sanatçı Serpil Akyıl ve çok sayıda vatandaş katıldı. Bedri Rahmi Eyüboğlu Atölyesi’nde yetişen ve uzun yıllar Anadolu Üniversitesi’nde öğretim üyesi olarak görev yapan Akyıl, 53. kişisel sergisinde sanat yaşamının farklı dönemlerinden eserlerini bir araya getirdi.
+
+Farklı toplumların yaşam biçimlerinden, geleneklerinden ve inançlarından beslenen eserler, özgün renkleri ve düşsel anlatımlarıyla dikkat çekiyor. Geleneksel kültür ile çağdaş sanat arasında köprü kuran sergi, ziyaretçileri sanatçının zengin hayal dünyasında yolculuğa çıkarıyor.
+
+"60 Yılda Serpil Akyıl" sergisi, 6 Aralık 2026 tarihine kadar Sanat Sokağı Geçici Sergi Salonu’nda ziyaretçilerini ağırlamaya devam edecek.
+
+---
+
+## Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de sona erdi
+
+**Kültür-Sanat · Merkez** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.qha.com.tr/amp/diaspora/kirim-tatar-akademik-is-birligi-calistayi-sonuc-bildirileri-ile-sona-erdi-537491)
+
+![](data/images/3fb45103981552c2.jpg)
+
+> Eskişehir Osmangazi Üniversitesinde düzenlenen Kırım Tatar Akademik İş Birliği Çalıştayı, üç günlük oturumların ardından hazırlanan sonuç bildirileriyle tamamlandı.
+
+Eskişehir Osmangazi Üniversitesinde 6-8 Kasım tarihleri arasında gerçekleştirilen Kırım Tatar Akademik İş Birliği Çalıştayı, Türkiye ve Ukrayna'dan birçok bilim insanını bir araya getirdi. Programın son gününde Kırım Tatar tarihi, kültürü, dili ve edebiyatına yönelik değerlendirmeler yapılarak sonuç bildirileri hazırlandı.
+
+Tarih bildirisini sunan Dr. Hande Gündüz, Kırım Tatar tarihi yazımının Türkiye, Ukrayna ve Rusya merkezli bakış açılarından bağımsız ele alınması gerektiğini vurguladı. Çalıştay kapsamında Kırım Tatar kültürünün korunması ve unsurlarının sisteme dâhil edilmesi için müzik, mutfak ve sanat alanında ortak çalışmalar yapılması önerildi. Kültür grubu temsilcisi İsmail Kurt-Umer, kültür elçilerinin altı ayda bir bir araya gelmesi çağrısında bulundu.
+
+Dil ve edebiyat oturumlarında ise Doç. Dr. Nariye Seydametova, Kırım Tatarcanın kapsamlı bir bilimsel incelemeden geçirilmesi ve standartlaşma alanında uluslararası iş birliği geliştirilmesi gerektiğini kaydetti. Eğitmenlere destek olunması ve ortak dijital kütüphaneler kurulması yönündeki teklifler de katılımcılarla paylaşıldı.
+
+Etkinliğin kapanışında konuşan Ukrayna’nın Ankara Büyükelçisi Nariman Celâl, Kırım Tatarlarının geleceği için ortak fikir üretmenin önemine dikkat çekerek benzer çalıştayların özgür Kırım'da da gerçekleştirileceğini ifade etti. Eskişehir Kırım Derneği Başkanı Recep Şen ise Kırım'ın kültürü ve dili için büyük bir ilgi ve ihtiyaç olduğunu vurguladı.
+
+---
+
+## Eskişehir Sanayi Odası'na Filipinler'de büyük ödül
+
+**Ekonomi · Merkez** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.iha.com.tr/eskisehir-haberleri/eskisehir-sanayi-odasina-dunya-capinda-en-iyi-oda-odulu-513130471)
+
+> Eskişehir Sanayi Odası, yeşil dönüşüm ve verimlilik alanındaki çalışmalarıyla CACCI Ödülleri'nde Büyük Oda Kategorisi'nde dünya birincisi oldu.
+
+Eskişehir Sanayi Odası'nın (ESO) yeşil dönüşüm ve verimlilik çalışmalarındaki başarısı uluslararası alanda taçlandırıldı. Asya-Pasifik Ticaret ve Sanayi Odaları Konfederasyonu (CACCI) Ödülleri'nde Büyük Oda Kategorisi birinciliğine layık görülen ESO, ödülünü Filipinler'de düzenlenen törenle teslim aldı.
+
+Çin, Hindistan, Japonya, Güney Kore ve Avustralya'nın da aralarında bulunduğu 27 ülkeyi kapsayan CACCI bünyesinde kazanılan ödül, odanın üyelerine yönelik yeşil dönüşüm, yalın üretim, dijitalleşme ve verimlilik çalışmalarının başarısını gözler önüne serdi.
+
+Ödüle ilişkin değerlendirmede bulunan ESO Yönetim Kurulu Başkanı Celalettin Kesikbaş, Eskişehir'in üretim gücünü uluslararası platformlarda temsil etmekten gurur duyduklarını belirtti. Kesikbaş, "Bu ödül, fabrikalarımızda başlayan dönüşümün, üretime yansıyan bilginin ve ortak emeğin dünyadaki karşılığıdır" ifadelerini kullandı.
+
+Öte yandan ESO, Model Fabrikası ve Sürdürülebilir Yeşil Sanayi Birimi aracılığıyla son dört yılda 100'den fazla firmaya karbon ayak izi hesaplaması ve sürdürülebilirlik raporlamasında doğrudan destek sağladı. Yeşil Yakalı Akademisi'nde 200'ün üzerinde lider yetiştirilirken, farklı kurumlardan sağlanan 4,5 milyon avronun üzerindeki kaynak üyelerin yeşil ve dijital dönüşümü için kullanıldı.
+
+---
+
 ## Erdoğan ve Aliyev Şuşa'da görüştü: Birlik ve kardeşlik mesajı
 
 **Siyaset · Türkiye** · 2026-11-08 18:24 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://tr.euronews.com/2026/11/08/cumhurbaskani-erdogan-azerbaycanda-ortak-basin-toplantisinda-birlik-mesaji)
@@ -379,95 +479,5 @@ Türkiye otomobil pazarında satışta olan en uygun fiyatlı elektrikli araçla
 Otomobil pazarındaki bütçe dostu seçenekler arasında Togg'un T10X ve T10F modelleri de kendine yer buldu. Listeye göre Togg T10X 1.909.048 TL'den başlayan fiyatla sunulurken, Togg T10F ise 1.884.980 TL'lik fiyat etiketiyle alıcı bekliyor. İki model de gelişmiş batarya kapasiteleri ve hızlı şarj destekleriyle dikkat çekiyor.
 
 Sıralamada yer alan diğer modeller ve başlangıç fiyatları ise şu şekilde sıralandı: Hyundai Inster 1.520.000 TL, Fiat Grande Panda Elektrikli 1.584.900 TL, Citroën ë-C3 1.605.000 TL, Fiat 600e 1.854.900 TL, Citroën ë-C3 Aircross 1.875.000 TL, Opel Corsa Elektrik 1.890.000 TL, Opel Frontera Elektrik 1.895.000 TL ve Peugeot E-208 2.080.000 TL.
-
----
-
-## Eskişehir İl Halk Kütüphanesi'nde öğrencilere yönelik drama atölyesi yapıldı
-
-**Kültür-Sanat · Merkez** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/eskisehir-il-halk-kutuphanesi-nde-ogrenciler-icin-drama-atolyesi-duzenlendi-297707.html)
-
-> Millî Eğitim Bakanlığı ile Kültür ve Turizm Bakanlığı protokolü kapsamında Eskişehir İl Halk Kütüphanesi'nde öğrenciler için drama atölyesi düzenlendi.
-
-Eskişehir İl Halk Kütüphanesi, öğrencilerin kişisel gelişimlerini ve sosyal becerilerini desteklemeye yönelik renkli bir etkinliğe ev sahipliği yaptı. Millî Eğitim Bakanlığı ile Kültür ve Turizm Bakanlığı arasında hayata geçirilen "Kütüphanelerde İş Birliği Protokolü" çerçevesinde gerçekleştirilen drama atölyesi, öğrencilerden yoğun ilgi gördü.
-
-İl Millî Eğitim Müdürlüğü koordinasyonunda kütüphane bünyesinde düzenlenen çalışmalarda uzman eğitmenler görev aldı. Etkinlik boyunca gençlerin kendilerini ifade etme yeteneklerini artırmak, iletişim güçlerini pekiştirmek ve hayal güçlerini harekete geçirmek amacıyla çeşitli uygulamalar yapıldı.
-
-Eğlenceli ve öğretici anlara sahne olan program, öğrencilerin katıldığı ortak canlandırma çalışmalarının ardından başarıyla tamamlandı.
-
----
-
-## Odunpazarı'nda otomobil bisikletle çarpıştı: Çocuk yaralandı
-
-**Asayiş · Odunpazarı** · 2026-11-07 22:45 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/3-sayfa/haber-eskisehir-odunpazari-nda-otomobil-bisikletle-carpi-20405712/)
-
-> Eskişehir'in Odunpazarı ilçesinde otomobilin bisikletle çarpışması sonucu meydana gelen kazada bir çocuk yaralandı. Kaza anı güvenlik kameralarına yansıdı.
-
-Eskişehir'de otomobil ile bisikletin çarpışması sonucu yaşanan kazada bir çocuk yaralandı.
-
-Kaza, Odunpazarı ilçesi Kurtuluş Mahallesi Bilgin Sokak üzerinde meydana geldi. Alınan bilgilere göre, otomobil ile bisikletin çarpışması neticesinde bisikletten düşen çocuk yaralandı. Çevredekilerin ihbarı üzerine olay yerine 112 Acil Sağlık ve polis ekipleri yönlendirildi.
-
-Yaralı çocuk, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından ambulansla hastaneye kaldırılarak tedavi altına alındı. Öte yandan kaza anı çevredeki bir güvenlik kamerasının kayıtlarına anbean yansıdı.
-
-Polis ekipleri kazayla ilgili inceleme başlattı.
-
----
-
-## Eskişehirspor evinde kazandı: Kepezspor'u tek golle geçtiler
-
-**Spor · Tepebaşı** · 2026-11-07 22:45 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.akdenizgercek.com.tr/kepez/kepezspor-as-eskisehir-deplasmaninda-geriye-dustu-1-0/388805)
-
-> Nesine 3. Lig'de Eskişehirspor, sahasında konuk ettiği Kepezspor'u 20. dakikada Hasan Kaya'nın attığı golle 1-0 mağlup etti.
-
-Nesine 3. Lig 10. hafta mücadelesinde Eskişehirspor ile Antalya temsilcisi Kepezspor A.Ş. karşı karşıya geldi. Prof. Dr. Fethi Heper Stadyumu’nda oynanan karşılaşmada ev sahibi ekip sahadan 1-0 galibiyetle ayrıldı.
-
-Yağmurlu hava ve yoğun taraftar desteği altında oynanan mücadelenin ilk dakikalarından itibaren hücumda etkili bir oyun ortaya koyan Eskişehirspor, aradığı golü 20. dakikada buldu. Mert Bağer’in pasını iyi değerlendiren Hasan Kaya, meşin yuvarlağı ağlarla buluşturarak takımını 1-0 öne geçirdi ve ilk yarı bu skorla tamamlandı.
-
-Maçın ikinci devresinde erken yediği golün dezavantajını kapatmak ve beraberliği yakalamak için rakip kalede ataklar geliştiren Kepezspor A.Ş., Eskişehirspor savunmasını aşamadı. Saha ve seyirci avantajını maç sonuna kadar koruyan kırmızı-siyahlılar, skoru koruyarak hanesine 3 puan yazdırdı.
-
----
-
-## Robotik Türkiye Platformu kuruldu: Togg da yer aldı
-
-**Ekonomi · Türkiye** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Togg](https://www.cozumpark.com/robotik-turkiye-platformu-kuruldu-togg-thy-ve-eczacibasi-ayni-catida-bulustu/)
-
-![](data/images/f8d8b5c163f9c29a.jpg)
-
-> Türkiye Bilişim Vakfı öncülüğünde kurulan Robotik Türkiye Platformu, yerli sanayi kuruluşları ve teknoloji girişimlerini fiziksel yapay zekâ alanında buluşturdu.
-
-Türkiye Bilişim Vakfı öncülüğünde hayata geçirilen Robotik Türkiye Platformu, yerli sanayi kuruluşları ile teknoloji girişimlerini ortak bir ekosistemde bir araya getirdi. İstanbul Modern'de düzenlenen lansmanla tanıtılan platformun kurucu üyeleri arasında Togg'un yanı sıra Eczacıbaşı Topluluğu, Milvus Robotics, Türk Hava Yolları ve Zorlu Holding yer alıyor.
-
-Girişim; üniversiteler, teknoloji girişimleri, yatırımcılar ve kamu kurumlarını da paydaş olarak buluşturarak robotik teknolojilerin sanayide uygulanmasını ve ticarileşmesini amaçlıyor. Odaklanılan fiziksel yapay zekâ sistemleri; depo otomasyonundan üretim hatlarına, tarımdan sağlık hizmetlerine kadar geniş bir kullanım alanı sunuyor.
-
-Tanıtım etkinliğinde ayrıca Togg sponsorluğunda hazırlanan Türkiye Robotik Ekosistemi Raporu da açıklandı. Rapora göre Türkiye'de 2025 yılı boyunca 3 bin 194 endüstriyel robot kurulumu gerçekleştirildiği belirtildi.
-
-Platform, ilk yılında pilot uygulamalar, bilgi ve deneyim paylaşımı ile kamu ile sektör diyaloğu olmak üzere üç temel çalışma alanına odaklanacak.
-
----
-
-## Kurşunlu Külliyesi'ndeki müzeler ziyarete kapatıldı
-
-**Belediye · Odunpazarı** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazari-belediyesi-muzelerin-kapatildigini-ziyaretcilere-bu-pankartla-duyurdu)
-
-> Odunpazarı Belediyesi, Vakıflar Bölge Müdürlüğü tarafından alandan çıkarıldıklarını belirterek Kurşunlu Külliyesi'ndeki dört müzenin kapandığını duyurdu.
-
-Eskişehir'in turistik açıdan önemli merkezlerinden biri olan Kurşunlu Külliyesi bünyesindeki müzeler ve sanat merkezi kapılarını kapattı. Ahşap Eserler Müzesi, Fotoğraf Müzesi, Lületaşı Müzesi ve Cam Sanatları Merkezi'nin ziyarete kapatıldığı bildirildi.
-
-Odunpazarı Belediyesi tarafından alana asılan pankartla durum ziyaretçilere duyuruldu. Açıklamada, kapatma kararının Vakıflar Bölge Müdürlüğü tarafından belediyenin alandan çıkarılması nedeniyle alındığı ifade edildi.
-
-Belediye yönetimi, ziyaretçilerin yaşadığı hayal kırıklığını paylaştıklarını belirterek gösterilen anlayış için teşekkür etti.
-
----
-
-## Eskişehir'de Erzurum Gastronomi ve Cağ Kebabı Festivali Başladı
-
-**Kültür-Sanat · Merkez** · 2026-11-07 18:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-erzurum-lezzetleri-bulusmasi)
-
-![](data/images/f0b9f10bd1ed6811.jpg)
-
-> Eskişehir'de düzenlenen Erzurum Gastronomi ve Cağ Kebabı Festivali, Vali Dr. Erdinç Yılmaz'ın katılımıyla kapılarını açtı.
-
-Eskişehir Erzurumlular Sosyal Yardımlaşma, Kültür ve Dayanışma Derneği tarafından Erzurum'un zengin mutfak kültürünü tanıtmak ve hemşehri dayanışmasını güçlendirmek amacıyla Erzurum Gastronomi ve Cağ Kebabı Festivali düzenlendi. Etkinliğe Eskişehir Valisi Dr. Erdinç Yılmaz da katılarak incelemelerde bulundu.
-
-Erzurum'un köklü gastronomi kültürünün en önemli simgelerinden biri olan cağ kebabının ön plana çıkarıldığı festival, yöresel lezzetlerin gelecek nesillere aktarılmasını amaçlıyor. Kentte faaliyet gösteren hemşehri derneklerinin düzenlediği bu tür etkinlikler, farklı şehirlerin geleneklerinin yaşatılmasına ve kültürel bağların korunmasına katkı sağlıyor.
 
 ---
