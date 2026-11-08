@@ -2,6 +2,130 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yerli navigasyon ProtoPiri yola çıkıyor: Togg'da da yer alacak
+
+**Ekonomi · Türkiye** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Togg](https://m.sabah.com.tr/gundem/2026/11/08/navigasyon-teknolojisinde-milli-rota/amp)
+
+> Türkiye'nin milli imkânlarla geliştirdiği 'ProtoPiri' adı verilen yerli navigasyon uygulamasının 2027 yılının ilk çeyreğinde hizmete girmesi planlanıyor.
+
+Sanayi ve Teknoloji Bakanlığı liderliğinde hazırlanan ve harita ile yön bulmanın atası Piri Reis'e atıfta bulunulan yerli navigasyon projesinin detayları netleşmeye başladı. Kamuoyu araştırmasının ardından netleşecek olan ProtoPiri isimli uygulamanın, yıl başında devreye alınması ve Togg'un içerisinde fabrika çıkışlı olarak yer alması planlanıyor.
+
+Uygulama kapsamında kamu kurumlarıyla da entegrasyon sağlanacak. İçişleri Bakanlığı entegrasyonuyla radarların yerleri ve hız limitleri sürücülere aktarılacak, limit aşımında ise 'yavaş git' uyarısı yapılacak. Ayrıca 112 Çağrı Merkezi entegrasyonu sayesinde arkadan gelen ambulanslar navigasyon kullanan sürücülere bildirilecek. Proje, elektrikli araçlar için şarj istasyonu noktalarını da gösterecek.
+
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, veri güvenliği açısından stratejik bir alan olarak gördükleri yerli navigasyon uygulamasını önemsediklerini belirterek, 2027 yılı başından itibaren yabancı uygulamaların yerine tamamen yerli ve milli navigasyona geçiş yapılacağını kaydetti. Projede Togg'un da önemli katkıları bulunduğunu ifade etti.
+
+---
+
+## Maç sonu trafikte skandal: Ambulansın peşine takıldılar
+
+**Ulaşım · Merkez** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haberler.com/amp/eskisehirspor-maci-sonrasi-trafikte-bazi-suruculer-20406813-haberi/)
+
+> Eskişehirspor maçı sonrasında Atatürk Bulvarı'nda oluşan yoğunlukta ilerlemeye çalışan ambulansın arkasına bazı sürücülerin takılması pes dedirtti.
+
+Eskişehirspor'un oynadığı maçın ardından Atatürk Bulvarı'nda trafik yoğunluğu üst seviyeye ulaştı. Sıkışan trafikte görevine yetişmeye çalışan bir ambulans zor anlar yaşadı.
+
+Olay sırasında bazı duyarlı sürücüler hemen sağa ve sola yanaşarak sağlık aracına geçiş koridoru oluşturdu. Ancak bazı sürücüler, oluşturulan bu güvenli yoldan faydalanarak ambulansın arkasına takıldı ve peşinden ilerlemeye çalıştı.
+
+Trafikte yaşanan bu tehlikeli ve duyarsız anlar, çevredeki vatandaşların da dikkatini çekti ve tepki topladı.
+
+---
+
+## Eskişehir'de 10 Kasım anma programı belli oldu: İşte etkinlik takvimi
+
+**Gündem · Merkez** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-10-kasim-ataturku-anma-programi-aciklandi-iste-etkinlik-takvimi)
+
+> Gazi Mustafa Kemal Atatürk’ün ebediyete intikalinin 88’inci yıl dönümünde Eskişehir’de düzenlenecek resmi törenler ve etkinlik takvimi açıklandı.
+
+Eskişehir'de Gazi Mustafa Kemal Atatürk’ün vefatının 88’inci yıl dönümü dolayısıyla gerçekleştirilecek 10 Kasım Atatürk’ü Anma Günü programı netleşti. Valilik koordinasyonunda düzenlenecek resmi törenlerin yanı sıra kamu kurumları, yerel yönetimler ve üniversiteler gün boyunca çeşitli etkinlikler organize edecek.
+
+Resmi tören, 10 Kasım Salı günü saat 08.30’da Vilayet Alanı’ndaki Atatürk Anıtı önünde başlayacak. Program akışına göre saat 08.59’da çelenkler sunulacak, saat 09.05’te ise iki dakikalık saygı duruşunda bulunularak İstiklal Marşı eşliğinde bayraklar yarıya indirilecek. Bu sırada Eskişehir genelindeki binek araçlar klaksonlarını, fabrika ve işletmeler ise sirenlerini çalarak anma programına katılım sağlayacak. Tören alanındaki etkinliklerde ayrıca şiir okunacak, Anadolu Üniversitesi Öğretim Üyesi Prof. Dr. Burhan Sayılır bir konuşma yapacak ve Atatürk’ün kendi sesinden 10. Yıl Nutku dinletilecek.
+
+Kentteki eğitim kurumları da kendi programlarını hazırladı. İl Milli Eğitim Müdürlüğü'nün resmi anma töreni saat 11.00’de Firuz Kanatlı Mesleki ve Teknik Anadolu Lisesi Konferans Salonu’nda yapılacak. Eskişehir Teknik Üniversitesi (ESTÜ) saat 08.45’teki anıt töreninin ardından Konferans Salonu’nda sahne gösterisi gerçekleştirecek. Eskişehir Osmangazi Üniversitesi (ESOGÜ) ve Anadolu Üniversitesi de saat 09.05’te kendi kampüslerindeki anıtlar önünde çelenk sunma törenleri düzenleyecek.
+
+Belediyeler ve diğer kurumlar da gün boyunca anma etkinlikleri gerçekleştirecek. Büyükşehir Belediyesi Ulus Anıtı karşısında atölye çalışması yaparken, Odunpazarı Belediyesi belediye binası önündeki törenin ardından akşam Yunus Emre Kültür ve Sanat Merkezi’nde "Atatürk ve Musiki" konseri verecek. Tepebaşı Belediyesi Ramada Otel’de mevlit programı düzenleyecek. İl Kültür ve Turizm Müdürlüğü, Gençlik ve Spor İl Müdürlüğü ve İl Müftülüğü de sergiler, halk oyunları gösterileri ve mevit programlarıyla anma etkinliklerine katkı sunacak.
+
+---
+
+## Engelsiz Kültür Merkezi'nde özel öğrencilerden anlamlı Atatürk anması
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/amp/haber-odunpazari-ndaki-engelsiz-kultur-ve-sanat-merkezi-20407111/)
+
+> Odunpazarı Belediyesi Engelsiz Kültür ve Sanat Merkezi'nde eğitim alan özel öğrenciler, 10 Kasım kapsamında düzenlenen etkinlikte Atatürk'ü andı.
+
+Odunpazarı Belediyesi'ne bağlı Engelsiz Kültür ve Sanat Merkezi'nde eğitim gören 17 yaş ve üzeri özel öğrenciler, 10 Kasım Atatürk'ü Anma Günü ve Haftası dolayısıyla özel bir programa imza attı. Etkinlikte Gazi Mustafa Kemal Atatürk'ün yaşamı, bağımsızlık mücadelesi ve Cumhuriyet'e kazandırdığı değerler ele alındı.
+
+Anma programı, Atatürk'ün hayatını ve Kurtuluş Savaşı mücadelesini anlatan film gösterimiyle başladı. Öğrenciler film gösterimini ilgiyle takip ederken, programın devamında Atatürk'ün fotoğrafları ve anısını yaşatan görsellerden oluşan bir anma panosu hazırladı.
+
+Etkinlik kapsamında ayrıca Atatürk'ün fikirleri, ilke ve devrimleri ile Cumhuriyet'in kuruluş süreci üzerine sohbet gerçekleştirildi. Öğrenciler düşüncelerini paylaşırken, 10 Kasım'ın Atatürk'ün mirasını anlama ve yaşatma günü olduğuna vurgu yapıldı. Merkez yetkilileri, engelli bireylerin sosyal ve kültürel yaşama katılımını destekleyen farkındalık etkinliklerinin süreceğini belirtti.
+
+---
+
+## Cumhurbaşkanı Erdoğan Şuşa'da resmî törenle karşılandı
+
+**Siyaset · Türkiye** · 2026-11-08 11:58 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-azerbaycanda-resmi-torenle-karsilandi-08-11-26)
+
+![](data/images/bb19a667537a9f9b.jpg)
+
+> Azerbaycan Cumhurbaşkanı Aliyev'in davetiyle Şuşa'ya giden Cumhurbaşkanı Erdoğan, Fuzuli Uluslararası Havalimanı'nın ardından geldiği valilik binasında resmî törenle karşılandı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle gerçekleştirdiği ziyaret kapsamında Şuşa'da resmî törenle karşılandı. 
+
+Cumhurbaşkanı Erdoğan ve eşi Emine Erdoğan, Fuzuli Uluslararası Havalimanı'na iniş yapmalarının ardından Şuşa Valiliğine geçti. Erdoğan çifti, burada Azerbaycan Cumhurbaşkanı İlham Aliyev ve eşi Mihriban Aliyeva tarafından karşılandı.
+
+Tören alanındaki yerlerini alan liderlerin ardından askerî bando iki ülkenin millî marşlarını çaldı. Karşılama töreninde Cumhurbaşkanı Erdoğan ve Azerbaycan Cumhurbaşkanı Aliyev, heyet üyelerini birbirine tanıttı.
+
+Cumhurbaşkanı Erdoğan'ın heyetinde Dışişleri Bakanı Hakan Fidan, Millî Savunma Bakanı Yaşar Güler, Tarım ve Orman Bakanı İbrahim Yumaklı, MİT Başkanı İbrahim Kalın, Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Dış Politika ve Güvenlik Başdanışmanı Akif Çağatay Kılıç, Cumhurbaşkanlığı Güvenlik ve Dış Politikalar Kurulu Başkanvekili Çağrı Erhan, AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu ile Türk Devletleri Teşkilatı Aksakallar Konseyi Başkanı Binali Yıldırım yer aldı.
+
+---
+
+## Çamlıca Kapalı Pazar Yeri'nde şaşırtan soğan kıtlığı: Tek esnaf satıyor
+
+**Ekonomi · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/eskisehir-camlica-kapali-pazar-yerinde-sasirtan-manzara)
+
+> Eskişehir'in Tepebaşı ilçesindeki Çamlıca Kapalı Pazar Yeri'nde yüzlerce tezgah kurulmasına rağmen kuru soğan satan yalnızca bir esnaf kalması vatandaşları şaşırttı.
+
+Tepebaşı ilçesinde her hafta kurulan Çamlıca Kapalı Pazar Yeri'nde mutfakların vazgeçilmez temel gıdalarından kuru soğan bulmakta zorlanan vatandaşlar şaşkınlık yaşıyor. Yüzlerce tezgahın yer aldığı pazarda, kuru soğan satışı yapan yalnızca bir esnafın bulunması dikkat çekti.
+
+Pazara alışveriş yapmak için gelen vatandaşlar, tezgahlarda soğan aradı ancak farklı bölümleri dolaşmalarına rağmen ürünü bulamadı. Yalnızca tek bir tezgahta satılan kuru soğanın kilogram fiyatı ise 40 TL olarak belirlendi. Vatandaşlar, günlük yemeklerin en temel malzemelerinden biri olan soğanın pazarda bu kadar az bulunmasını sorguladı.
+
+Pazarcı esnafı ise yaşanan bu durumun sebebini yeni mahsul ürünlerin henüz piyasaya çıkmamış olmasına bağladı. Esnaf, arz sıkıntısının geçici olduğunu ve yeni mahsulün gelmesiyle durumun düzeleceğini ifade etti. Pazarda diğer sebze ve meyvelerin satışı normal seyrinde devam ediyor.
+
+---
+
+## Başkan Ataç ve Faruk Eczacıbaşı'ndan Eskişehir OSB'de tesis incelemesi
+
+**Ekonomi · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-ve-faruk-eczacibasi-eskisehir-osb-deki-yeni-montaj-tesisini-inceledi-939bbe4d)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç ile Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Eskişehir OSB'deki yeni montaj tesisini gezdi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç ve Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Good Sanitation Company’nin Eskişehir Organize Sanayi Bölgesi’nde kurduğu yeni montaj tesisini ziyaret ederek incelemelerde bulundu. Ziyarette firmanın kurucu ortakları ile akademik danışma kurulu üyeleri de yer aldı.
+
+Tesisin üretim altyapısı ve kapasitesi hakkında yetkililerden bilgi alan Başkan Ataç ile Faruk Eczacıbaşı, çalışanlarla da sohbet etti. Ziyaretin sonunda Ataç, Eskişehir'in simgelerinden fabrika bacasını temsil eden bir figürü Eczacıbaşı’na takdim etti.
+
+Belediyenin şirketin ilk müşterileri arasında yer aldığını belirten Tepebaşı Belediye Başkanı Ahmet Ataç, "Eskişehir’de böylesine yenilikçi ve çözüm odaklı bir üretimin hayata geçirilmesinden büyük mutluluk duyuyoruz. TAK için temin ettiğimiz mobil tuvaletler, firmanın geliştirdiği ürünlerin sahadaki karşılığını görmemizi sağladı. Bu yatırım ve üretim kapasitesinin seri üretime dönüşmesi, geliştirilen teknolojilerin daha geniş kesimlere ulaşması açısından önemli" dedi.
+
+Good Sanitation Company Kurucu Ortağı ve CEO’su Dilek Turan da su, kanalizasyon ve elektrik altyapısından bağımsız çalışabilen sistemler geliştirdiklerini belirterek, yeni montaj tesislerinde yıllık bin adet üretim kapasitesine ulaştıklarını kaydetti. Şirketin kurucu ortağı ve CTO’su Halil İbrahim Kemaneci ise Tepebaşı Belediyesi’nin ilk kullanıcı olarak sunduğu desteğin kendileri için çok değerli olduğunu ifade etti.
+
+---
+
+## Ataç ve Eczacıbaşı'ndan Eskişehir'in üretim hamlesine ziyaret
+
+**Belediye · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacvefarukeczacıbası’ndaneskisehir’inuretimhamlesinedestek)
+
+![](data/images/eb2ce143f9ed2930.jpg)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç ve Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Eskişehir OSB'deki yeni montaj tesisini inceledi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı ve Türkiye Bilişim Vakfı Başkanı Faruk Eczacıbaşı ile birlikte Good Sanitation Company’nin Eskişehir Organize Sanayi Bölgesi’ndeki yeni montaj tesisini ziyaret etti. Ziyarette, şirketin kurucu ortakları ve akademik danışma kurulu üyeleri de hazır bulundu.
+
+Yılda 1 bin adet üretim kapasitesine sahip tesiste incelemelerde bulunan Başkan Ataç ve Faruk Eczacıbaşı, ürünler, üretim altyapısı ve kapasite hakkında yetkililerden bilgi aldı. Ziyaret sırasında çalışanlarla da sohbet eden Ataç, Eskişehir’in simgelerinden fabrika bacasını temsil eden bir figürü Faruk Eczacıbaşı’na armağan etti.
+
+Good Sanitation Company’nin ilk müşterilerinden olduklarını hatırlatan Başkan Ataç, Tepebaşı Arama Kurtarma Ekibi için firmadan mobil tuvalet temin ettiklerini belirterek, yenilikçi üretimlerin seri üretime geçmesinin ve geliştirilen teknolojilerin yaygınlaşmasının önemine dikkat çekti.
+
+Şirket CEO'su Dr. Dilek Turan, su, kanalizasyon ve elektrik altyapısından bağımsız çalışabilen mobil tuvalet ve hijyen sistemleri geliştirdiklerini aktararak, patentli teknolojileriyle atık suyu geri dönüştürdüklerini ve yeni tesislerinde yıllık 1 bin adet üretim kapasitesine ulaştıklarını kaydetti. CTO Halil İbrahim Kemaneci ise Tepebaşı Belediyesi'ne ilk kullanıcı olarak verdikleri destekten ötürü teşekkür etti.
+
+---
+
 ## Tepebaşı'nda toplumsal cinsiyet eşitliği ve şiddet semineri
 
 **Belediye · Tepebaşı** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.toplumsal.com.tr/haber/tepebasi-nda-seminere-40-kisi-katildi_33414/)
@@ -343,125 +467,5 @@ Odunpazarı Belediyesi AK Parti Meclis Üyesi Berke Akyel, meclis toplantısınd
 Belediyenin hak sahiplerinden çap parası aldığını savunan Akyel, 775 sayılı Gecekondu Kanunu'nun 33. maddesi gereğince bu işlemlerin her türlü vergi, resim ve harçtan muaf olduğunu hatırlattı. Alınan belgelere harç yerine ücret yazıldığını ifade eden Akyel, alınan ücretlerin durdurulması ve tahsil edilen tutarların iade edilmesi için önerge sunacaklarını kaydetti.
 
 Ayrıca vatandaşların temmuz ayından bu yana verdiği 200'ün üzerindeki dilekçeye yanıt alamadığını belirten Akyel, kırmızı kot ve yol profili gibi teknik çizimlerin vatandaşlar tarafından temin edilmesine rağmen ruhsat verilmediğini söyledi. Akyel, belediyeyi TOKİ ile iletişime geçmeye ve hak sahiplerinin mağduriyetini gidermeye çağırdı.
-
----
-
-## Vali Yılmaz ve beraberindeki heyet Cumhurbaşkanı Yardımcısı Yılmaz'ı ziyaret etti
-
-**Gündem · Merkez** · 2026-11-07 06:40 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/alimiz-dr-erdinc-yilmaz-cumhurbaskani-yardimcimiz-sayin-cevdet-yilmaz-tarafindan-kabul-edildi)
-
-![](data/images/5f081fb0ca7aebec.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ile bir araya geldi.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, Ankara'da temaslarda bulundu. Valilikten edinilen bilgilere göre, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Vali Erdinç Yılmaz'ı makamında kabul etti.
-
-Gerçekleşen kabule, Eskişehir Milletvekili ve TBMM Yapay Zekâ Araştırma Komisyonu Başkanı Fatih Dönmez ile AK Parti Eskişehir İl Başkanı Gürhan Albayrak da katıldı.
-
----
-
-## Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de Başladı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.qha.com.tr/diaspora/kirim-tatar-akademik-is-birligi-calistayi-eskisehir-de-basladi-537407)
-
-![](data/images/520e5779e97242ba.jpg)
-
-> Kırım Tatar dili, tarihi ve kültürünün ele alındığı akademik çalıştay, Eskişehir Osmangazi Üniversitesinde bilim ve siyaset dünyasından isimlerin katılımıyla başladı.
-
-Kırım Tatar dili, edebiyatı, tarihi ve kültürünün bilimsel paylaşımı ile iş birliği kapsamının genişletilmesi amacıyla düzenlenen Kırım Tatar Akademik İş Birliği Çalıştayı, Eskişehir Osmangazi Üniversitesinde kapılarını açtı.
-
-Eskişehir Osmangazi Üniversitesinde gerçekleştirilen program, şehitler için saygı duruşunda bulunulmasının ardından Kırım Tatar millî marşı "Ant Etkenmen", İstiklâl Marşı ve Ukrayna millî marşının okunmasıyla başladı. Kırım Ailesi Derneği, Eskişehir Kırım Derneği, YTB, TİKA ve Ukrayna'nın Ankara Büyükelçiliğinin ortaklığıyla düzenlenen etkinlikte, Kırım Tatarlarının tarihi mücadelesi, kültürel mirası ve geleceğe yönelik yol haritası masaya yatırıldı.
-
-Açılışta konuşan Kırım Ailesi Kurucusu Anife Kurtseitova, savaş ve işgal acılarına rağmen pes etmediklerini belirterek, amaçlarının sürgünde olsalar dahi Kırım'ın eğilmez ruhunu yeni nesillere aktarmak olduğunu ifade etti. Eskişehir Kırım Derneği Başkanı Recep Şen ise İsmail Bey Gaspıralı’nın "Dilde, fikirde, işte birlik" şiarına atıf yaparak, 1783'ten bu yana süren sürgün ve soykırımlara rağmen Kırım Türklerinin direnmeye devam ettiğini vurguladı.
-
-Türk Ocakları Eskişehir Şubesi Başkanı Prof. Dr. Nedim Ünal, Kırım'ın ebediyen bir Türk vatanı olmaya devam edeceğini kaydetti. AK Parti Gençlik Kolları Genel Başkan Yardımcısı Murat Resul Karaman ve Odunpazarı Belediye Başkanı Av. Kâzım Kurt da çalıştayın Kırım'ın geleceği ve ortak hafıza açısından taşıdığı öneme dikkat çekti.
-
-Program kapsamında Ukrayna Silahlı Kuvvetleri korosu ve Kültür Güçleri grubunun solisti İsmail Kurtumer ile Safiye Lenterkızı konser verirken, Kırım Ailesi halk danslarıyla sahne aldı. Gün boyunca açık olan sergide ise Kırım Tatar sanatçıların eserleri, mutfağı ve tarihi sürgün ile siyasi tutsaklara ait fotoğraflar ziyaretçilerle buluştu.
-
----
-
-## Eskişehirspor seriyi sürdürmek için sahada: Kepez maçı saat 15.30'da
-
-**Spor · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporda-seri-zamani-simsekler-kepezi-bekliyor)
-
-> Kırmızı Şimşekler, 9 günlük zorlu periyottaki kritik maçta Antalya Kepezspor'u konuk ediyor.
-
-Evinde Bursa Yıldırım ile berabere kalıp Türkiye Kupası'nda Iğdır'ı eleyen, ardından deplasmanda Gaziemir'i mağlup ederek moral depolayan Eskişehirspor, galibiyet serisi yakalamak için sahaya çıkıyor.
-
-Zorlu bir dönemece giren ve 9 gün içinde 3 kritik karşılaşmaya çıkacak olan Kırmızı Şimşekler, sahasında ağırlayacağı Antalya temsilcisini yenerek çıkışını sürdürmeyi hedefliyor. Öte yandan konuk ekip Kepezspor ise teknik direktör değişikliğinin ardından son iki maçını kazanarak Eskişehir'e moralli geliyor.
-
-Prof. Dr. Fethi Heper Stadyumu'nda oynanacak karşılaşma saat 15.30'da başlayacak. Mücadeleyi İstanbul bölgesi üst klasman hakemi Deniz Güven yönetecek.
-
----
-
-## Eskişehir'de ehliyet sınavında kopya şebekesine operasyon: 3 tutuklama
-
-**Asayiş · Merkez** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/ehliyet-sinavinda-kopya-sebekesine-operasyon-512022951)
-
-> Eskişehir merkezli düzenlenen operasyonda ehliyet sınavlarında gizli kamera ve kulaklık düzenekleriyle kopya çektirdiği belirlenen 8 şüpheli yakalandı, adliyeye sevk edilen zanlılardan 3'ü tutuklandı.
-
-Eskişehir Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Şube Müdürlüğü ekipleri, ehliyet sınavlarında organize şekilde kopya çekilmesini sağlayan bir suç şebekesini takibe aldı.
-
-Gerçekleştirilen operasyonda, sınav sırasında üzerlerinde özel kopya düzeneği taşıyan 2 şüpheli ile bina dışında kamera görüntüleri aracılığıyla soruları yanıtlayan 6 şüpheli suçüstü yakalandı. Şüphelilerin üst aramalarında ve ikametlerinde yapılan aramalarda 4 Wi-Fi cihazı, 3 kamera düzeneği, 4 kulak içi gizli kulaklık ve 10 cep telefonu ele geçirildi.
-
-6114 Sayılı Kanuna Muhalefet suçu kapsamında adliyeye sevk edilen zanlılardan 3'ü mahkemece tutuklanarak cezaevine gönderilirken, diğer 5 şüpheli hakkında adli kontrol kararı uygulandı.
-
----
-
-## Erdoğan, Malezya Başbakan Yardımcısı Hamidi'yi kabul etti
-
-**Siyaset · Türkiye** · 2026-11-07 06:40 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-malezya-basbakan-yardimcisi-hamidiyi-kabul-etti)
-
-![](data/images/caf218c5209a62f8.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Kongre Merkezi'nde Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi ile bir araya geldi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Malezya Başbakan Yardımcısı Ahmad Zahid Hamidi'yi kabul etti.
-
-İstanbul Kongre Merkezi'nde gerçekleştirilen kabulde, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran da hazır bulundu.
-
----
-
-## Başkan Kurt'tan Kurşunlu Külliyesi Tepkisi: Siyasi Eylem
-
-**Belediye · Odunpazarı** · 2026-11-07 06:40 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.gzt26.com/kazim-kurttan-kursunlu-kulliyesi-ve-odunpazari-turizmi-hakkinda-sert-aciklamalar)
-
-![](data/images/bad39a70987eda78.jpg)
-
-> Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'nin boşaltılmasının siyasi bir karar olduğunu belirterek turizme zarar verildiğini söyledi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Kurşunlu Külliyesi'nin boşaltılması süreci ve Odunpazarı turizmine yönelik eleştirilere ilişkin değerlendirmelerde bulundu.
-
-Külliyenin boşaltılması kararının siyasi bir hamle olduğunu savunan Başkan Kurt, sürecin hukuki boyutuna ve yaşanan çifte standartlara dikkat çekti. Yasal haklar çerçevesinde başvuru yaptıklarını ancak taleplerinin karşılık bulmadığını ifade eden Kurt, bu kararın Eskişehir turizmini olumsuz etkileyeceğini dile getirdi.
-
-Odunpazarı'nda gerçekleştirilen sokak sağlıklaştırmaları, konak restorasyonları ve uluslararası festivaller hakkında da bilgi veren Kurt, ilçenin cazibe merkezi haline gelmesi için önemli projelere imza attıklarını kaydetti. Dönemlerinde yapılan kültürel etkinliklerin ve müze çalışmalarının kentin turizmine büyük katkı sağladığını belirtti.
-
----
-
-## Vali Yılmaz'dan Hava Kuvvetleri Komutanı Dalkıran'a ziyarette heyetli temas
-
-**Gündem · Merkez** · 2026-11-07 00:58 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hava-kuvvetleri-komutani-orgeneral-rafet-dalkirani-ziyaret-etti)
-
-![](data/images/95387502aafdd497.jpg)
-
-> Eskişehir Valisi Erdinç Yılmaz, beraberindeki heyetle birlikte Hava Kuvvetleri Komutanı Orgeneral Rafet Dalkıran'ı makamında ziyaret etti.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki kurum ve kuruluş temsilcileriyle birlikte Ankara'da temaslarda bulundu. Bu kapsamda Vali Yılmaz, TEI Genel Müdürü Prof. Dr. Mahmut Faruk Akşit ve AK Parti Eskişehir İl Başkanı Gürhan Albayrak ile bir araya geldi.
-
-Gerçekleştirilen program çerçevesinde heyet, Hava Kuvvetleri Komutanı Orgeneral Rafet Dalkıran'ı ziyaret etti. Ziyaretin detaylarına ilişkin başka bir ayrıntı paylaşılmadı.
-
----
-
-## Eskişehirspor - Antalya Kepezspor maçı hangi kanalda? Yayın bilgisi açıklandı
-
-**Spor · Merkez** · 2026-11-07 00:58 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirspor-antalya-kepezspor-maci-hangi-kanalda-canli-yayin-programi-aciklandi)
-
-> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor'un Antalya Kepezspor ile oynayacağı 10. hafta karşılaşmasının canlı yayın kanalı belli oldu.
-
-Nesine 2. Lig ve Nesine 3. Lig'de 10. hafta karşılaşmalarının canlı yayın programı Türkiye Futbol Federasyonu tarafından açıklandı. Futbolseverlerin merakla beklediği Eskişehirspor-Antalya Kepezspor mücadelesinin ekran bilgileri de netlik kazandı.
-
-Siyah-kırmızılı ekibin 7 Kasım 2026 Cumartesi günü saat 15.30'da başlayacak kritik mücadelesi, Tivibu Spor 2 ekranlarından canlı olarak izlenebilecek. Karşılaşmayı stadyumdan takip edemeyecek olan Eskişehirspor taraftarları, mücadeleyi televizyon üzerinden canlı olarak takip edebilecek.
-
-Açıklanan yayın programı kapsamında hafta sonu boyunca Nesine 2. Lig ve Nesine 3. Lig'deki toplam 20 karşılaşma Tivibu Spor ve Yaay platformları aracılığıyla futbolseverlerle buluşacak.
 
 ---
