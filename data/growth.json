@@ -30,25 +30,64 @@
   },
   {
    "gun": "2026-11-08",
-   "takipci": 101,
+   "takipci": 128,
    "takip": 0,
-   "paylasim": 238,
-   "erisim_7g": 33141
+   "paylasim": 241,
+   "erisim_7g": 32146
   }
  ],
  "paylasimlar": {
+  "18120240697786131": {
+   "tur": "REELS",
+   "zaman": "2026-11-08T12:31:04+0000",
+   "link": "https://www.instagram.com/reel/Dfews1rEReb/",
+   "baslik": "Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 1,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 3
+  },
+  "18092804804694755": {
+   "tur": "REELS",
+   "zaman": "2026-11-08T12:01:49+0000",
+   "link": "https://www.instagram.com/reel/DfetW0MFBud/",
+   "baslik": "Ataç ve Eczacıbaşı'ndan Eskişehir'in üretim hamlesine ziyaret",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 162,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 177
+  },
+  "18083850512410900": {
+   "tur": "FEED",
+   "zaman": "2026-11-08T06:42:45+0000",
+   "link": "https://www.instagram.com/p/DfeI3ptFV2V/",
+   "baslik": "Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidiyor: Karabağ'ı ziyaret edecek",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 7,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 8
+  },
   "18089711627320254": {
    "tur": "REELS",
    "zaman": "2026-11-07T20:46:10+0000",
    "link": "https://www.instagram.com/reel/DfdEkF2Ce4h/",
    "baslik": "🌙 Eskişehir'de bugün · 7 Kasım Cumartesi",
-   "begeni": 1,
+   "begeni": 19,
    "yorum": 0,
-   "reach": 117,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "views": 372
+   "reach": 2196,
+   "saved": 2,
+   "shares": 1,
+   "total_interactions": 23,
+   "views": 2547
   },
   "18143500390620328": {
    "tur": "FEED",
@@ -57,11 +96,11 @@
    "baslik": "Robotik Türkiye Platformu kuruldu: Togg da yer aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 16
+   "views": 27
   },
   "18172743136479237": {
    "tur": "FEED",
@@ -70,24 +109,24 @@
    "baslik": "Erdoğan ve Trump telefon görüşmesinde ikili ilişkileri ele aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 5,
+   "reach": 9,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 7
+   "views": 15
   },
   "18092436251240515": {
    "tur": "REELS",
    "zaman": "2026-11-07T18:09:01+0000",
    "link": "https://www.instagram.com/reel/DfcylI2G6Qg/",
    "baslik": "Altın fiyatları 7 Kasım 2026: Gram altın 6.620,93 TL",
-   "begeni": 0,
+   "begeni": 1,
    "yorum": 0,
-   "reach": 2,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 3
+   "total_interactions": 1,
+   "views": 19
   },
   "18061534262551967": {
    "tur": "REELS",
@@ -96,11 +135,11 @@
    "baslik": "Eskişehir'de Erzurum Gastronomi ve Cağ Kebabı Festivali Başladı",
    "begeni": 2,
    "yorum": 0,
-   "reach": 115,
+   "reach": 127,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 126
+   "views": 138
   },
   "18076006661772641": {
    "tur": "FEED",
@@ -109,11 +148,11 @@
    "baslik": "Ekim ayında en çok satılan elektrikli otomobiller belli oldu: Togg zirvede",
    "begeni": 0,
    "yorum": 0,
-   "reach": 9,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 12
+   "views": 16
   },
   "18417361417083880": {
    "tur": "FEED",
@@ -122,24 +161,24 @@
    "baslik": "Erdoğan'dan Azerbaycan ziyareti açıklaması: 8 Kasım'da gideceğim",
    "begeni": 0,
    "yorum": 0,
-   "reach": 8,
+   "reach": 14,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 13
+   "views": 24
   },
   "18162991099499362": {
    "tur": "REELS",
    "zaman": "2026-11-07T11:49:26+0000",
    "link": "https://www.instagram.com/reel/DfcHKMBHJ0m/",
    "baslik": "Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de Başladı",
-   "begeni": 2,
+   "begeni": 5,
    "yorum": 0,
-   "reach": 185,
+   "reach": 313,
    "saved": 1,
-   "shares": 1,
-   "total_interactions": 4,
-   "views": 214
+   "shares": 2,
+   "total_interactions": 8,
+   "views": 346
   },
   "18110907416188502": {
    "tur": "REELS",
@@ -148,37 +187,37 @@
    "baslik": "Başkan Kurt'tan Kurşunlu Külliyesi Tepkisi: Siyasi Eylem",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 133
+   "views": 142
   },
   "18018264029954325": {
    "tur": "REELS",
    "zaman": "2026-11-07T11:25:08+0000",
    "link": "https://www.instagram.com/reel/DfcEXAFEyUK/",
    "baslik": "☀️ Günaydın Eskişehir · 7 Kasım Cumartesi",
-   "begeni": 4,
+   "begeni": 5,
    "yorum": 0,
-   "reach": 126,
+   "reach": 157,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 5,
-   "views": 146
+   "total_interactions": 6,
+   "views": 177
   },
   "18098735075673915": {
    "tur": "REELS",
    "zaman": "2026-11-06T22:00:57+0000",
    "link": "https://www.instagram.com/reel/DfaoVNQFBIw/",
    "baslik": "🌙 Eskişehir'de bugün · 7 Kasım Cumartesi",
-   "begeni": 22,
+   "begeni": 23,
    "yorum": 0,
-   "reach": 1623,
-   "saved": 1,
+   "reach": 1646,
+   "saved": 2,
    "shares": 2,
-   "total_interactions": 25,
-   "views": 1840
+   "total_interactions": 27,
+   "views": 1864
   },
   "17922080415244905": {
    "tur": "REELS",
@@ -187,11 +226,11 @@
    "baslik": "Başkan Ataç, AB platformunda Tepebaşı'nın iklim modelini anlattı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 207,
+   "reach": 211,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 215
+   "views": 218
   },
   "18154371001535660": {
    "tur": "REELS",
@@ -200,11 +239,11 @@
    "baslik": "Tepebaşı'nda ekoloji okulu kasım atölyeleri başlıyor: Ücretsiz kayıtlar açıldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 113,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 116
+   "views": 121
   },
   "17919165783463752": {
    "tur": "REELS",
@@ -213,11 +252,11 @@
    "baslik": "Tepebaşı'nda gençlerden LÖSEV'e yoğun ilgi",
    "begeni": 1,
    "yorum": 0,
-   "reach": 355,
+   "reach": 360,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 383
+   "views": 386
   },
   "18103232951565439": {
    "tur": "REELS",
@@ -226,11 +265,11 @@
    "baslik": "Tepebaşı'na yeni sağlık merkezi: Hayırsever protokolü imzalandı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 1100,
+   "reach": 1104,
    "saved": 1,
    "shares": 6,
    "total_interactions": 7,
-   "views": 1202
+   "views": 1207
   },
   "18650581588022975": {
    "tur": "REELS",
@@ -239,11 +278,11 @@
    "baslik": "Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi",
    "begeni": 10,
    "yorum": 1,
-   "reach": 1536,
+   "reach": 1539,
    "saved": 2,
    "shares": 2,
    "total_interactions": 15,
-   "views": 1674
+   "views": 1677
   },
   "18388629631227861": {
    "tur": "REELS",
@@ -252,11 +291,11 @@
    "baslik": "Ziraat Türkiye Kupası: Eskişehirspor'un rakibi Bodrum FK oldu",
    "begeni": 2,
    "yorum": 0,
-   "reach": 174,
+   "reach": 178,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 191
+   "views": 197
   },
   "18083669333383636": {
    "tur": "REELS",
@@ -265,11 +304,11 @@
    "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 203,
+   "reach": 207,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 220
+   "views": 225
   },
   "18145813159716618": {
    "tur": "REELS",
@@ -278,11 +317,11 @@
    "baslik": "Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 113,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 125
+   "views": 126
   },
   "17880272301651351": {
    "tur": "REELS",
@@ -291,11 +330,11 @@
    "baslik": "Başkan Kurt çöp tarifesi iddialarına yanıt verdi: Temizlik işlerinde 420 işçi çalışıyor",
    "begeni": 1,
    "yorum": 0,
-   "reach": 1187,
+   "reach": 1193,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "views": 1340
+   "views": 1345
   },
   "18118997551797525": {
    "tur": "REELS",
@@ -304,11 +343,11 @@
    "baslik": "Altın fiyatları 6 Kasım 2026: Gram altın 6.590,47 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 109,
+   "reach": 110,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 117
+   "views": 118
   },
   "18157766095454707": {
    "tur": "REELS",
@@ -321,7 +360,7 @@
    "saved": 0,
    "shares": 5,
    "total_interactions": 15,
-   "views": 1134
+   "views": 1138
   },
   "18130367519505125": {
    "tur": "FEED",
@@ -330,11 +369,11 @@
    "baslik": "Özgür Özel'den Ecevit'in kabrinde anma ve hukuk eleştirisi",
    "begeni": 2,
    "yorum": 0,
-   "reach": 18,
+   "reach": 19,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 25
+   "views": 28
   },
   "18099146051406410": {
    "tur": "FEED",
@@ -343,11 +382,11 @@
    "baslik": "GSB burs ve öğrenim kredisi sonuçları açıklandı: Son tarih 11 Kasım",
    "begeni": 0,
    "yorum": 0,
-   "reach": 10,
+   "reach": 12,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 12
+   "views": 14
   },
   "18011585489775654": {
    "tur": "REELS",
@@ -356,11 +395,11 @@
    "baslik": "Anadolu Üniversitesinde öğrenciler turşu kurdu, fermantasyonun bilimini öğrendi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 113,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 120
+   "views": 121
   },
   "18095727992661577": {
    "tur": "REELS",
@@ -369,11 +408,11 @@
    "baslik": "Anadolu Üniversitesinde AB haberciliği ve haber doğrulama atölyesi yapıldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 110,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 116
+   "views": 119
   },
   "17910076920569769": {
    "tur": "REELS",
@@ -382,11 +421,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 6 Kasım Cuma",
    "begeni": 0,
    "yorum": 0,
-   "reach": 120,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 127
+   "views": 130
   },
   "18112241720190018": {
    "tur": "REELS",
