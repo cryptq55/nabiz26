@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 9 Kasım 2026: Gram altın 6.672,93 TL
+
+**Ekonomi · Merkez** · 2026-11-09 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261109.jpg)
+
+> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.603,63 TL'den alınıyor, 6.672,93 TL'den satılıyor.
+
+Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.672,93 TL, alış fiyatı 6.603,63 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,28 yükseldi.
+
+Ziynet altınlarda çeyrek altın 10.876 TL, yarım altın 21.745 TL, tam altın 43.331 TL, ata altın 44.488 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.233,79 TL, has altının gram fiyatı 6.652,97 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.116,40 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Togg Kasım 2026 kampanyası açıklandı: Aylık 30 bin TL taksit fırsatı
 
 **Ekonomi · Türkiye** · 2026-11-08 22:55 UTC · Kaynak: [Google Haberler - Togg](https://www.gzt.com/teknoloji/aylik-30-bin-tl-taksitle-togg-sahibi-olunabilecek-togg-kasim-2026-kampanyasi-belli-oldu-4276723)
@@ -463,21 +483,5 @@ Gençlik ve Spor Bakanlığı Eskişehir Yurt Müdürlüğü bünyesinde faaliye
 Düzenlenen programın ilk aşamasında personele, olası bir yangın anında sergilenecek doğru hareket tarzları, güvenli tahliye adımları ve yangın söndürme cihazlarının etkin kullanımı konularında teorik bilgiler aktarıldı.
 
 Eğitimin ardından yurt bahçesinde senaryo gereği kontrollü bir yangın çıkarıldı. Teorik bilgileri pratiğe döken yurt personeli, yangına müdahale ederek söndürme işlemlerini başarıyla tamamladı.
-
----
-
-## Kasım 2026'nın en ucuz elektrikli otomobilleri: Togg da listede
-
-**Ekonomi · Türkiye** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Togg](https://www.yenisafak.com/galeri/ekonomi/kasim-2026da-elektrikli-otomobil-alacaklar-dikkat-en-ucuz-10-model-siralandi-4870514)
-
-![](data/images/31cc105bce00feca.jpg)
-
-> Türkiye'de satışa sunulan en uygun fiyatlı 10 elektrikli otomobilin kasım ayı güncel fiyatları belli oldu. Bütçe dostu listede Togg modelleri de yer aldı.
-
-Türkiye otomobil pazarında satışta olan en uygun fiyatlı elektrikli araçların Kasım 2026 dönemi fiyatları ve teknik detayları netleşti. Şehir içi kullanıma uygun kompakt modellerden SUV segmentine kadar farklı seçeneklerin yer aldığı listede fiyatlar 1,5 milyon TL seviyesinden başlıyor.
-
-Otomobil pazarındaki bütçe dostu seçenekler arasında Togg'un T10X ve T10F modelleri de kendine yer buldu. Listeye göre Togg T10X 1.909.048 TL'den başlayan fiyatla sunulurken, Togg T10F ise 1.884.980 TL'lik fiyat etiketiyle alıcı bekliyor. İki model de gelişmiş batarya kapasiteleri ve hızlı şarj destekleriyle dikkat çekiyor.
-
-Sıralamada yer alan diğer modeller ve başlangıç fiyatları ise şu şekilde sıralandı: Hyundai Inster 1.520.000 TL, Fiat Grande Panda Elektrikli 1.584.900 TL, Citroën ë-C3 1.605.000 TL, Fiat 600e 1.854.900 TL, Citroën ë-C3 Aircross 1.875.000 TL, Opel Corsa Elektrik 1.890.000 TL, Opel Frontera Elektrik 1.895.000 TL ve Peugeot E-208 2.080.000 TL.
 
 ---
