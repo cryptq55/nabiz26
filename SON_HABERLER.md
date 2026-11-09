@@ -2,6 +2,128 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da başlıyor
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-09 13:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-siir-bulusmasi-13-sair-3-gun-boyunca-sanatseverlerle-bir-araya-gelecek-2a5ff9d9)
+
+> Tepebaşı Belediyesi tarafından bu yıl 14'üncüsü düzenlenecek Uluslararası Eskişehir Şiir Buluşmaları, Türkiye'den ve dünyadan 13 şairi Eskişehirlilerle buluşturacak.
+
+Tepebaşı Belediyesi'nin ev sahipliğinde gerçekleştirilecek 14. Uluslararası Eskişehir Şiir Buluşmaları, 13-15 Kasım tarihlerinde edebiyatseverleri bir araya getirecek. Etkinliğe Türkiye'den 11, Mısır ve Fransa'dan birer şair katılırken, bu yılın onur konuğu ise İlhan Sami Çomak olacak. Haydar Ergülen'in direktörlüğünü üstlendiği organizasyonda şiir okumaları, paneller ve söyleşiler düzenlenecek.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, Yunus Emre'nin doğduğu topraklarda şiirin evrensel dilini paylaşmaktan onur duyduklarını belirtti. 2011 yılından bu yana 35 ülkeden 352 şairi kentte ağırladıklarını hatırlatan Ataç, tüm vatandaşları 13-15 Kasım tarihlerinde düzenlenecek etkinliklere davet etti.
+
+Özdilek Sanat Merkezi'nde gerçekleştirilecek buluşma, İlhan Sami Çomak'ın imza töreni ve açılış programıyla başlayacak. Üç gün sürecek etkinlikler kapsamında "Dünyadan Sesler" paneli, şiir ve öykü söyleşileri, müzik dinletileri, Ahmet Telli belgesel gösterimi ile şairlerin el yazılarından oluşan özel sergiler sanatseverlerin beğenisine sunulacak.
+
+---
+
+## MEB'den 'Geleceğe Sözümüz Var' temalı ÖğretmenİZ dergisi COP31 özel sayısı
+
+**Eğitim · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotogretmenizquot-dergisinin-quotcop31quot-ozel-sayisi-yayimlandi/haber/42433/tr)
+
+![](data/images/fecf54cdb1eac560.jpg)
+
+> Millî Eğitim Bakanlığı, Türkiye'nin ev sahipliğinde düzenlenen COP31 kapsamında 'Geleceğe Sözümüz Var' temalı ÖğretmenİZ dergisinin özel sayısını yayımladı.
+
+Millî Eğitim Bakanlığında görev yapan öğretmenlerin kültürel, sanatsal ve entelektüel çalışmalarını paylaşmak, eğitimde iyi uygulamaları yaygınlaştırmak ve mesleki gelişimlerini desteklemek amacıyla hazırlanan ÖğretmenİZ dergisinin COP31 özel sayısı okurlarla buluştu.
+
+Türkiye'nin ev sahipliğinde 9-20 Kasım 2026 tarihlerinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında hazırlanan dergi, Türkçe ve İngilizce olarak yayımlandı. Özel sayı, konferansın Yeşil Bölgesi'nde yer alan Türkiye İklim Okulunda ziyaretçilere de sunulacak.
+
+"Geleceğe Sözümüz Var" temasıyla hazırlanan özel sayıda, iklim değişikliğiyle mücadelede eğitimin rolü, çevre bilinci, iklim okuryazarlığı, yeşil beceriler ve sürdürülebilirlik konuları ele alındı. Dergide ayrıca Bolkar Dağları, Diyarbakır'daki Hevsel Bahçeleri ve Rize yaylalarını konu alan gezi yazılarının yanı sıra öğretmenlerin doğa ve çevre temalı şiir, anı ve öykülerine yer verildi.
+
+Farklı illerde görev yapan öğretmenlerin çevre eğitimi alanındaki iyi uygulama örneklerinin paylaşıldığı dergide; atıkların geri dönüştürülmesi, güneş enerjisinden yararlanılması ve öğrencilerde çevre bilincinin geliştirilmesine yönelik çalışmalar da aktarıldı.
+
+---
+
+## İletişim Başkanı Duran'dan Aliağa'daki fabrika kazası açıklaması
+
+**Türkiye · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-aliagadaki-fabrika-kazasina-iliskin-aciklama)
+
+![](data/images/3775a6d38b6c85c8.jpg)
+
+> İletişim Başkanı Burhanettin Duran, İzmir Aliağa'daki demir çelik fabrikasında meydana gelen kazada hayatını kaybedenler için başsağlığı diledi.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, İzmir'in Aliağa ilçesindeki bir demir çelik fabrikasında gerçekleşen kazaya ilişkin sosyal medya hesabından açıklama yaptı.
+
+Yaşanan olaydan duyduğu derin üzüntüyü dile getiren Duran, kazada hayatını kaybeden vatandaşlara Allah'tan rahmet, ailelerine başsağlığı ve yaralılara acil şifalar diledi. İlgili kurumların bölgedeki arama kurtarma ve müdahale çalışmalarını titizlikle sürdürdüğünü vurgulayan Duran, milletin her türlü kazadan ve felaketten korunması temennisinde bulundu.
+
+---
+
+## Eskişehirspor'un rakibinde flaş ayrılık: Namağlup liderlik yetmedi
+
+**Spor · Merkez** · 2026-11-09 13:55 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporun-grubunda-flas-ayrilik-liderlik-bile-kurtarmadi)
+
+> Eskişehirspor'un mücadele ettiği grupta yer alan Gemlik Sümerbey FSK, sezon başından beri yenilgi yüzü görmeyen teknik direktör İsmail Güldüren ile yollarını ayırdı.
+
+Eskişehirspor'un da aralarında bulunduğu grupta şampiyonluk mücadelesi veren Gemlik Sümerbey FSK'da sürpriz bir teknik direktör ayrılığı yaşandı. Sezon başından bu yana takımı çalıştıran ve namağlup unvanını koruyan İsmail Güldüren ile karşılıklı anlaşarak yollar ayrıldı.
+
+Kulüp yönetiminden yapılan açıklamada, ayrılığın temel nedeninin gelecek planlaması ve vizyon farklılıkları olduğu belirtildi. Açıklamada, "Yönetim Kurulumuz ile Sayın Güldüren arasında, kulübümüzün orta ve uzun vadeli hedefleri ile gelecek planlamaları üzerine yapılan istişareler neticesinde ortaya çıkan vizyon farklılıkları, her iki tarafın ortak menfaatleri doğrultusunda bu ayrılığı zaruri kılmıştır" denildi.
+
+Takımın sahadaki başarılı sonuçlarına karşın alınan bu karar spor camiasında şaşkınlık yaratırken, yönetim kulübe katkılarından dolayı Güldüren'e teşekkür etti. Gemlik Sümerbey FSK'da yeni teknik direktörün kim olacağı ise henüz açıklanmadı.
+
+---
+
+## Eskişehir'de tarım arazilerinin korunması ve mevzuat masaya yatırıldı
+
+**Tarım · Merkez** · 2026-11-09 13:55 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1760/Toprak-Koruma-Ve-Arazi-Kullanimina-Iliskin-Mevzuat-Kapsaminda-Personel-Toplantisi-Gerceklestirildi)
+
+> Eskişehir İl Tarım ve Orman Müdürlüğü tarafından düzenlenen toplantıda, 5403 ve 3083 sayılı kanunlar kapsamında yürütülen arazi yönetimi ve mevzuat uygulamaları ele alındı.
+
+Eskişehir İl Tarım ve Orman Müdürlüğü Tarımsal Altyapı ve Arazi Değerlendirme Şube Müdürlüğü öncülüğünde, arazi kullanımı ve toprak koruma süreçlerine yönelik değerlendirme toplantısı yapıldı.
+
+İl Müdürlüğü Kütahya Yolu Yerleşkesi'nde gerçekleştirilen toplantıya İl Tarım ve Orman Müdürü Yüksel Çil, Şube Müdürü Nizamettin Çetiner ile il ve ilçe müdürlüklerinde görevli personel katılım sağladı.
+
+Toplantı boyunca tarım arazilerinin korunması ve verimli kullanılması amacıyla miras yoluyla intikal, arazi devirleri, ifraz, vasıf değişikliği ve yabancıların arazi edinimi gibi başlıklar masaya yatırıldı.
+
+Yetkililer, uygulamada karşılaşılan durumları değerlendirerek mevzuatın etkin uygulanması ve birliğin sağlanması adına kurum içi koordinasyonun önemine dikkat çekti.
+
+---
+
+## Başkan Ataç'tan 10 Kasım Mesajı: Cumhuriyet'e Sahip Çıkmalıyız
+
+**Gündem · Tepebaşı** · 2026-11-09 13:55 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacataturk’ebaglılıkcumhuriyetdegerlerinesahipcıkmaktır)
+
+![](data/images/217e43aabad4a168.jpg)
+
+> Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Atatürk'ü anma mesajında Cumhuriyet değerlerini yaşatmanın önemine vurgu yaptı.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının yıl dönümü vesilesiyle bir anma mesajı yayımladı.
+
+Mesajında Atatürk'e bağlılık ve saygının, emanet edilen Cumhuriyet'in değerlerini yaşatmak, aklı ve bilimi rehber edinmekle anlam kazandığını belirten Ataç, farklılıklarla bir arada, ortak gelecek için omuz omuza durmanın önemine dikkat çekti.
+
+Ataç açıklamasında, Atatürk'ün gösterdiği çağdaş uygarlık hedefi doğrultusunda çalışmayı sürdüreceklerini ifade ederek, silah arkadaşlarını ve Cumhuriyet'in kuruluşunda emeği geçenleri saygı ve rahmetle andı.
+
+---
+
+## Bakanlık COP31'de kadın ve çocukların iklim politikalarındaki rolünü büyütecek
+
+**Türkiye · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanligi-cop31de-kadinlarin-guclenmesi-ve-cocuklarin-iklim-politikalarina-katilimini-gundeme-tasiyacak/)
+
+![](data/images/3a02a62eb922a9be.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanlığı, Antalya'da düzenlenecek COP31'de iklim krizinin sosyal boyutuna odaklanarak kadınların güçlenmesi ve çocukların katılımı için uluslararası etkinlikler gerçekleştirecek.
+
+Aile ve Sosyal Hizmetler Bakanlığı, Antalya'nın ev sahipliğinde 9-20 Kasım tarihlerinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) iklim değişikliğinin sosyal etkilerini masaya yatıracak.
+
+Bakan Mahinur Özdemir Göktaş, zirvede iklim politikalarının sosyal boyutunu güçlü bir şekilde gündeme taşıyacaklarını belirtti. 81 ilde kadın sıfır atık elçileri belirleneceğini açıklayan Göktaş, kadın kooperatiflerinin üretim süreçlerine sıfır atık anlayışının entegre edileceğini kaydetti. Ayrıca BM kuruluşları ve sivil toplum iş birliğiyle çocukların iklim politikalarına katılımı, yaşlı ve engelli bireylerin korunması ile aşırı sıcakların kırılgan gruplar üzerindeki etkileri ele alınacak.
+
+---
+
+## 5. Doğan Avcıoğlu Ödülleri'nin kazananları açıklandı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-09 13:55 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/5-dogan-avcioglu-odulleri-nin-kazananlari-aciklandi)
+
+![](data/images/afbbe82348810d43.jpg)
+
+> Odunpazarı Belediyesi ve Tekin Yayınevi tarafından bu yıl beşincisi düzenlenen Doğan Avcıoğlu Ödülleri'nin kazananları belli oldu.
+
+Odunpazarı Belediyesi ve Tekin Yayınevi iş birliğiyle hayata geçirilen Doğan Avcıoğlu Ödülleri'nin 2026 yılı sahipleri açıklandı. Türkiye'nin bilim, düşünce ve kültür hayatına katkı sunan isimleri onurlandıran organizasyonda, farklı kategorilerde ödül alacak isimler duyuruldu.
+
+Bilim Onur Ödülü, nisan ayında yaşamını yitiren Prof. Dr. Yalçın Küçük'e verilirken; Bilim Ödülleri Dr. Ezgi Akyol, Dr. Selman Saç ve Dr. Soner Kavuncuoğlu'nun oldu. Mansiyon Ödülü Battal Niyazi Şahin'e, Saygı Ödülü şair ve yazar Ataol Behramoğlu'na, Jüri Özel Ödülü ise gazeteci İsmail Arı'ya layık görüldü.
+
+Ödüller, 29 Kasım Pazar günü Yunus Emre Kültür ve Sanat Merkezi'nde düzenlenecek törenle sahiplerine takdim edilecek.
+
+---
+
 ## Altın fiyatları 9 Kasım 2026: Gram altın 6.672,93 TL
 
 **Ekonomi · Merkez** · 2026-11-09 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -355,133 +477,5 @@ Tepebaşı ilçesinde her hafta kurulan Çamlıca Kapalı Pazar Yeri'nde mutfakl
 Pazara alışveriş yapmak için gelen vatandaşlar, tezgahlarda soğan aradı ancak farklı bölümleri dolaşmalarına rağmen ürünü bulamadı. Yalnızca tek bir tezgahta satılan kuru soğanın kilogram fiyatı ise 40 TL olarak belirlendi. Vatandaşlar, günlük yemeklerin en temel malzemelerinden biri olan soğanın pazarda bu kadar az bulunmasını sorguladı.
 
 Pazarcı esnafı ise yaşanan bu durumun sebebini yeni mahsul ürünlerin henüz piyasaya çıkmamış olmasına bağladı. Esnaf, arz sıkıntısının geçici olduğunu ve yeni mahsulün gelmesiyle durumun düzeleceğini ifade etti. Pazarda diğer sebze ve meyvelerin satışı normal seyrinde devam ediyor.
-
----
-
-## Başkan Ataç ve Faruk Eczacıbaşı'ndan Eskişehir OSB'de tesis incelemesi
-
-**Ekonomi · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-ve-faruk-eczacibasi-eskisehir-osb-deki-yeni-montaj-tesisini-inceledi-939bbe4d)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç ile Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Eskişehir OSB'deki yeni montaj tesisini gezdi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç ve Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Good Sanitation Company’nin Eskişehir Organize Sanayi Bölgesi’nde kurduğu yeni montaj tesisini ziyaret ederek incelemelerde bulundu. Ziyarette firmanın kurucu ortakları ile akademik danışma kurulu üyeleri de yer aldı.
-
-Tesisin üretim altyapısı ve kapasitesi hakkında yetkililerden bilgi alan Başkan Ataç ile Faruk Eczacıbaşı, çalışanlarla da sohbet etti. Ziyaretin sonunda Ataç, Eskişehir'in simgelerinden fabrika bacasını temsil eden bir figürü Eczacıbaşı’na takdim etti.
-
-Belediyenin şirketin ilk müşterileri arasında yer aldığını belirten Tepebaşı Belediye Başkanı Ahmet Ataç, "Eskişehir’de böylesine yenilikçi ve çözüm odaklı bir üretimin hayata geçirilmesinden büyük mutluluk duyuyoruz. TAK için temin ettiğimiz mobil tuvaletler, firmanın geliştirdiği ürünlerin sahadaki karşılığını görmemizi sağladı. Bu yatırım ve üretim kapasitesinin seri üretime dönüşmesi, geliştirilen teknolojilerin daha geniş kesimlere ulaşması açısından önemli" dedi.
-
-Good Sanitation Company Kurucu Ortağı ve CEO’su Dilek Turan da su, kanalizasyon ve elektrik altyapısından bağımsız çalışabilen sistemler geliştirdiklerini belirterek, yeni montaj tesislerinde yıllık bin adet üretim kapasitesine ulaştıklarını kaydetti. Şirketin kurucu ortağı ve CTO’su Halil İbrahim Kemaneci ise Tepebaşı Belediyesi’nin ilk kullanıcı olarak sunduğu desteğin kendileri için çok değerli olduğunu ifade etti.
-
----
-
-## Ataç ve Eczacıbaşı'ndan Eskişehir'in üretim hamlesine ziyaret
-
-**Belediye · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacvefarukeczacıbası’ndaneskisehir’inuretimhamlesinedestek)
-
-![](data/images/eb2ce143f9ed2930.jpg)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç ve Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı Faruk Eczacıbaşı, Eskişehir OSB'deki yeni montaj tesisini inceledi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, Eczacıbaşı Holding Yönetim Kurulu Başkan Yardımcısı ve Türkiye Bilişim Vakfı Başkanı Faruk Eczacıbaşı ile birlikte Good Sanitation Company’nin Eskişehir Organize Sanayi Bölgesi’ndeki yeni montaj tesisini ziyaret etti. Ziyarette, şirketin kurucu ortakları ve akademik danışma kurulu üyeleri de hazır bulundu.
-
-Yılda 1 bin adet üretim kapasitesine sahip tesiste incelemelerde bulunan Başkan Ataç ve Faruk Eczacıbaşı, ürünler, üretim altyapısı ve kapasite hakkında yetkililerden bilgi aldı. Ziyaret sırasında çalışanlarla da sohbet eden Ataç, Eskişehir’in simgelerinden fabrika bacasını temsil eden bir figürü Faruk Eczacıbaşı’na armağan etti.
-
-Good Sanitation Company’nin ilk müşterilerinden olduklarını hatırlatan Başkan Ataç, Tepebaşı Arama Kurtarma Ekibi için firmadan mobil tuvalet temin ettiklerini belirterek, yenilikçi üretimlerin seri üretime geçmesinin ve geliştirilen teknolojilerin yaygınlaşmasının önemine dikkat çekti.
-
-Şirket CEO'su Dr. Dilek Turan, su, kanalizasyon ve elektrik altyapısından bağımsız çalışabilen mobil tuvalet ve hijyen sistemleri geliştirdiklerini aktararak, patentli teknolojileriyle atık suyu geri dönüştürdüklerini ve yeni tesislerinde yıllık 1 bin adet üretim kapasitesine ulaştıklarını kaydetti. CTO Halil İbrahim Kemaneci ise Tepebaşı Belediyesi'ne ilk kullanıcı olarak verdikleri destekten ötürü teşekkür etti.
-
----
-
-## Tepebaşı'nda toplumsal cinsiyet eşitliği ve şiddet semineri
-
-**Belediye · Tepebaşı** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.toplumsal.com.tr/haber/tepebasi-nda-seminere-40-kisi-katildi_33414/)
-
-> Tepebaşı Belediyesi tarafından Bahçelievler Belde Evi'nde düzenlenen toplumsal cinsiyet eşitliği ve şiddet konulu seminerde 40 kursiyer bir araya geldi.
-
-Tepebaşı Belediyesi, ilçe genelinde toplumsal cinsiyet eşitliği ve şiddet konularında farkındalığı artırmaya yönelik eğitim çalışmalarını sürdürüyor. Bu kapsamda Bahçelievler Belde Evi'nde gerçekleştirilen seminere toplam 40 kişi katılım gösterdi.
-
-Sağlık İşleri Müdürlüğü bünyesinde görev yapan psikolog Ecem Kumaş'ın konuşmacı olarak katıldığı buluşmada, örgü grubundan 23 ve giyim grubundan 17 kursiyer yer aldı. Oturumda katılımcılara toplumsal cinsiyet eşitliği ile şiddet konularında bilgilendirme yapılarak farkındalıklarının desteklenmesi hedeflendi.
-
-Belediye yetkilileri, benzer eğitim etkinliklerinin ay boyunca farklı noktalardaki tüm belde evleri ve deneyimli kafelerde devam edeceğini bildirdi.
-
----
-
-## İletişim Başkanı Duran'dan TRT World Forum'da dijital egemenlik vurgusu
-
-**Türkiye · Türkiye** · 2026-11-08 06:40 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-algoritmik-cagda-kontrol-kimde-sirketler-devletler-vatandaslar-baslikli-oturumda-konustu)
-
-![](data/images/737208d1f93e5df3.jpg)
-
-> İletişim Başkanı Burhanettin Duran, TRT World Forum 2026'da yaptığı konuşmada, dijital dünyanın birkaç teknoloji şirketinin kontrolüne bırakılamayacağını belirterek hesap verebilirlik, adalet ve çoğulculuk çağrısı yaptı.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT tarafından "Merkezsiz Dünya: Kurallar Geçersiz Kaldığında Kim Liderlik Eder?" temasıyla İstanbul Kongre Merkezi'nde düzenlenen TRT World Forum etkinliğine katıldı.
-
-Etkinliğin ikinci gününde gerçekleştirilen "Algoritmik Çağda Kontrol Kimde? Şirketler, Devletler, Vatandaşlar" başlıklı oturumda konuşan Duran, bilgi ve iletişim teknolojilerindeki dijital devrimin getirdiği sorunlara dikkat çekti. Geleneksel gazetecilikteki editöryal denetimin yerini algoritmaların aldığını belirten Duran, bu durumun doğru ve önemli haberlerin kitlelere ulaşmasını engellerken yanıltıcı paylaşımların hızla yayılmasına yol açtığını ifade etti.
-
-Algoritmaların tarafsız olmadığını ve arkasında ticari ile siyasi çıkarlar barındırdığını vurgulayan İletişim Başkanı Duran, bir avuç şirketin insanların ne göreceğini kontrol etmesinin düşünceyi de şekillendirdiğini kaydetti. Türkiye açısından bu durumun bir dijital egemenlik meselesi olduğunun altını çizen Duran, teknolojik ilerlemenin insanlara ve toplumlara hizmet etmesi gerektiğini belirtti.
-
-Duran, daha adil bir dijital düzen için hesap verebilirlik, algoritmik dağıtımda adalet ve çoğulculuk olmak üzere üç temel ilkenin önemine işaret etti. Ayrıca TRT ve Anadolu Ajansının farklı dillerdeki yayıncılık faaliyetleriyle hakikati dünyaya ulaştırma çabasını sürdürdüğünü, bu süreçte gazetecilerin önemli bedeller ödediğini sözlerine ekledi.
-
----
-
-## Eskişehirli sanatçıların eserleri COP31'de sergileniyor
-
-**Kültür-Sanat · Merkez** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.ensondakika.com.tr/artik-sergisi-cop31-de-antalya-da-sanatseverlerle-bulusuyor/736394/)
-
-> Çanakkale, Eskişehir ve İzmir'den sanatçıların atık metallerden yaptığı eserlerin yer aldığı 'ARTIK' sergisi Antalya'da sanatseverlerle buluştu.
-
-Akfen Holding işbirliği ve Loft Art katkılarıyla hayata geçirilen "ARTIK" sergisi, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) sürecinde Gloria Hotels & Resorts ev sahipliğinde kapılarını açtı.
-
-Sürdürülebilirlik kavramını sanatın yaratıcı gücüyle ele alan sergi; plastik parçalar, kullanılmış elektronik cihazlar ve atık metaller gibi malzemeleri sanat aracılığıyla yeniden yorumluyor. Eserlerin büyük bölümü, endüstriyel üretim atıklarının ileri dönüşümüyle heykellere dönüştürüldü. Çanakkale, Eskişehir ve İzmir'den altı sanatçının katkı sunduğu sergi, doğanın döngüsünü ve tüketim alışkanlıklarının canlı yaşamına etkilerini gözler önüne seriyor.
-
-Akfen Holding Yönetim Kurulu Üyesi Pelin Akın Özalp, sergiyle doğanın tahribatına ve bilinçsiz tüketime dikkat çekmek istediklerini belirterek, "Yaşamın kaynağı olan doğanın bir gün metallerden oluştuğunu düşünmek korkutucu ama bir o kadar da mümkün. Bu ihtimali sanat aracılığıyla görünür kılmak istedik" ifadelerini kullandı.
-
-Özaltın Holding Yönetim Kurulu Başkan Yardımcısı Elif Özdemir Şankaya ise kullanım ömrünü tamamlamış malzemelerin sanatla yeniden anlam kazanmasının döngüsel ekonominin yaratıcı yönünü ortaya koyduğunu vurguladı. 29 Kasım'a kadar Gloria Serenity Resort'ta gezilebilecek olan sergi, izleyicileri tüketim alışkanlıklarını yeniden sorgulamaya davet ediyor.
-
----
-
-## Eskişehir'de kışlık alışveriş hareketliliği: Termal ürünler kapışılıyor
-
-**Ekonomi · Tepebaşı** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-kislik-kiyafetlere-yogun-talep-termal-urunler-kapisiliyor-2462470)
-
-> Havaların soğumasıyla birlikte Eskişehir'deki pazarlarda kışlık kıyafetlere talep arttı. Vatandaşlar uygun fiyatlı termal ürünlere yöneldi.
-
-Eskişehir'de hava sıcaklıklarının düşmesi, vatandaşları kışlık kıyafet alışverişine yönlendirdi. Tepebaşı ilçesindeki Çamlıca Kapalı Pazar Yeri'nde piyasa fiyatlarının altında satışa sunulan kışlık ürünler yoğun ilgi görüyor.
-
-Pazarda özellikle soğuk havaların vazgeçilmezi olan termal kıyafetler vatandaşlar tarafından en çok tercih edilen ürünler arasında yer alıyor. Bunun yanı sıra günlük kullanıma uygun eşofman altları, sweatshirtler ve çoraplar da tezgahlarda hareketlilik oluşturuyor.
-
-Farklı ihtiyaçlara yönelik kıyafetleri bütçelerine uygun fiyatlarla temin etmek isteyen vatandaşlar tezgahları doldururken, kış hazırlıkları kapsamında pazar yerindeki alışveriş yoğunluğunun devam etmesi bekleniyor.
-
----
-
-## Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidiyor: Karabağ'ı ziyaret edecek
-
-**Siyaset · Türkiye** · 2026-11-08 06:40 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek-1749891)
-
-![](data/images/5dc2db66a076b2b3.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım Zafer Günü dolayısıyla bugün Azerbaycan'ı ziyaret ederek Karabağ'da temaslarda bulunacak.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in daveti üzerine Zafer Günü kutlamalarına katılmak üzere bugün Azerbaycan'a gidecek. Ziyaret kapsamında iki lider ikili ilişkileri ve bölgesel gelişmeleri ele alacak.
-
-İletişim Başkanı Burhanettin Duran, ziyaretin Azerbaycan'ın Zafer Günü vesilesiyle gerçekleştirileceğini belirterek, iki liderin Türkiye-Azerbaycan iş birliğinin yanı sıra küresel ve bölgesel meseleleri istişare edeceğini açıkladı. Ziyaret öncesinde Erdoğan, Aliyev'e gönderdiği tebrik mektubunda 30 yıllık işgalin sona ermesinin ardından elde edilen zaferin Türk dünyası için gurur kaynağı olduğunu vurguladı.
-
-Mecliste Şuşa Beyannamesi ile pekiştirilen kardeşlik vurgusu yapan Erdoğan, Güney Kafkasya'nın artık bir çatışma bölgesi değil, iş birliği ve kalkınma merkezi olarak anıldığını ifade etti. Mektupta ayrıca vatan savunmasında hayatını kaybeden şehitler rahmetle anıldı.
-
-Azerbaycan, Karabağ'da Ermenistan işgaline son veren 2. Karabağ Savaşı'nın ardından Zafer Günü'nü 8 Kasım'da kutluyor.
-
----
-
-## Yunus Emre Yurdu'nda yangın tatbikatı: Gerçeğini aratmadı
-
-**Gündem · Merkez** · 2026-11-07 22:46 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haberler.com/amp/eskisehir-yunus-emre-yurdu-personeline-yangin-20404168-haberi/)
-
-> Eskişehir Yunus Emre Yurdu personel kapsamlı yangın eğitimi ve uygulamalı tahliye tatbikatıyla acil durumlara karşı hazırlandı.
-
-Gençlik ve Spor Bakanlığı Eskişehir Yurt Müdürlüğü bünyesinde faaliyet gösteren Yunus Emre Yurdu'nda görevli personele yönelik yangın güvenliği eğitimi ve uygulamalı tatbikat gerçekleştirildi.
-
-Düzenlenen programın ilk aşamasında personele, olası bir yangın anında sergilenecek doğru hareket tarzları, güvenli tahliye adımları ve yangın söndürme cihazlarının etkin kullanımı konularında teorik bilgiler aktarıldı.
-
-Eğitimin ardından yurt bahçesinde senaryo gereği kontrollü bir yangın çıkarıldı. Teorik bilgileri pratiğe döken yurt personeli, yangına müdahale ederek söndürme işlemlerini başarıyla tamamladı.
 
 ---
