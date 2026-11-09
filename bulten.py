@@ -27,6 +27,11 @@ AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağu
 GUNLER = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
 
 
+def anma_gunu(now):
+    """10 Kasım: bültenler Atatürk'ü anma kancasıyla açılır."""
+    return now.month == 11 and now.day == 10
+
+
 def first_sentence(text, limit=170):
     s = re.split(r"(?<=[.!?])\s+", text.strip())[0]
     return s if len(s) <= limit else s[:limit].rsplit(" ", 1)[0] + "."
@@ -53,6 +58,8 @@ def intro_card(kind, now, svc):
     date = f"{now.day} {AYLAR[now.month - 1]} {GUNLER[now.weekday()]}"
     pill(d, M, 420, date.upper(), RED, 34)
     title = {"sabah": "Günaydın\nEskişehir", "hafta": "Eskişehir'de\nbu hafta"}.get(kind, "Eskişehir'de\nbugün")
+    if anma_gunu(now):
+        title = "Saygıyla\nanıyoruz"
     d.multiline_text((M, 520), title, font=font("Bricolage.ttf", 150, 800), fill="white", spacing=6)
     if kind == "sabah" and svc:
         w, p = svc.get("weather"), svc.get("prayer")
@@ -96,6 +103,8 @@ def build_script(kind, items, now, svc):
     parts = []
     if kind == "sabah":
         intro = f"Günaydın Eskişehir. Bugün {date}."
+        if anma_gunu(now):
+            intro = "Ulu Önder Mustafa Kemal Atatürk'ü saygı, minnet ve özlemle anıyoruz. Bugün 10 Kasım."
         w = (svc or {}).get("weather")
         if w:
             intro += f" Hava {reels_weather(w['code'])[0].lower()}, en yüksek sıcaklık {w['days'][0]['max']} derece."
@@ -189,9 +198,12 @@ def caption(kind, items, now):
     date = f"{now.day} {AYLAR[now.month - 1]} {GUNLER[now.weekday()]}"
     head = {"sabah": f"☀️ Günaydın Eskişehir · {date}",
             "hafta": f"📅 Eskişehir'de bu hafta · {date}"}.get(kind, f"🌙 Eskişehir'de bugün · {date}")
+    if anma_gunu(now):
+        head = f"🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · {date}"
     lines = [head, ""] + [f"{i + 1}. {a['title']}" for i, a in enumerate(items)]
     lines += ["", "📲 Haberlerin tamamı profildeki bağlantıda: nabiz26.com", "",
-              "#Eskişehir #EskişehirHaber #nabız26 #Odunpazarı #Tepebaşı #EskişehirGündem"]
+              "#Eskişehir #EskişehirHaber #nabız26 #Odunpazarı #Tepebaşı #EskişehirGündem"
+              + (" #10Kasım #Atatürk #Anma" if anma_gunu(now) else "")]
     return "\n".join(lines)
 
 

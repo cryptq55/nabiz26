@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 09.11.2026 21:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden 2'si 404 (fotoğrafsız, sayfa üretilmiyor; beklenen). Son haber 16:55 TSİ (~4,8 saat önce; masa akışı yavaş). Son 24 saatte 15 haber (Kültür-Sanat 4, Türkiye/Ekonomi 3; ilçe Türkiye 6, Merkez 5, Tepebaşı 3, Odunpazarı 1), 5'inde fotoğraf yok. Instagram: log 14, reel_log 2 (24 saatte yalnız 2 Reels; DAILY_CAP dolmadı). Takipçi 131 (+3/gün), 7 gün erişim 28.864; Reels ort. 460, gönderi 12. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `bulten.py` 10 Kasım'da "Saygıyla anıyoruz" kartı, anma kancalı okunan giriş ve açıklama/hashtag (#10Kasım #Atatürk #Anma) üretir (sahte tarihle denendi).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Reels sayısı düşük, reel_log kontrolü; (3) Sağlık/Ulaşım için kaynak.
+SAHİBİNE: yok.
+
 ## 09.11.2026 09:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (342 haber, venv ile). Son haber 09.11 01:55 TSİ (gece boşluğu beklenen, masa 08-24); son 24 saatte 23 haber (Ekonomi 7, Siyaset 4, Kültür-Sanat 3; ilçe Türkiye 9, Merkez/Tepebaşı 5, Odunpazarı 4). Instagram: son paylaşım ~7,7 saat önce, son Reels ~18 saat önce (24 saatte 2 Reels); son 6 workflow koşusu başarılı. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** yok.
