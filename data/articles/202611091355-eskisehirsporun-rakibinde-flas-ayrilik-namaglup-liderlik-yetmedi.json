@@ -21,11 +21,11 @@
     "title": "Eskişehirspor'un grubunda flaş ayrılık; Liderlik bile kurtarmadı - Gzt26",
     "url": "https://www.gzt26.com/eskisehirsporun-grubunda-flas-ayrilik-liderlik-bile-kurtarmadi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "futbol stadyumu",
       "futbol maçı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

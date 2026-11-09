@@ -21,11 +21,11 @@
     "title": "Eskişehir'de şiir buluşması: 13 şair, 3 gün boyunca şiirseverlerle bir araya gelecek - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-de-siir-bulusmasi-13-sair-3-gun-boyunca-sanatseverlerle-bir-araya-gelecek-2a5ff9d9"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Özdilek Sanat Merkezi",
       "Eskişehir sanat etkinliği"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

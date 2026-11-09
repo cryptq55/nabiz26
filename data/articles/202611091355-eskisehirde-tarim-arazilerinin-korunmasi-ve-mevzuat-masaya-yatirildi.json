@@ -21,10 +21,10 @@
     "title": "TOPRAK KORUMA VE ARAZİ KULLANIMINA İLİŞKİN MEVZUAT KAPSAMINDA PERSONEL TOPLANTISI GERÇEKLEŞTİRİLDİ",
     "url": "https://eskisehir.tarimorman.gov.tr/Haber/1760/Toprak-Koruma-Ve-Arazi-Kullanimina-Iliskin-Mevzuat-Kapsaminda-Personel-Toplantisi-Gerceklestirildi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Tarım ve Orman Müdürlüğü"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
