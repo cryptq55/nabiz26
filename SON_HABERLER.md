@@ -2,6 +2,128 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 3 katlı işçi binasında yangın çıktı
+
+**Asayiş · Tepebaşı** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.sondakika.com/amp/haber-eskisehir-tepebasi-nda-3-katli-isci-binasindaki-ya-20409376/)
+
+> Eskişehir'in Tepebaşı ilçesinde inşaat işçilerinin kaldığı 3 katlı binada çıkan yangın, itfaiye ekiplerinin zamanında müdahalesiyle büyümeden söndürüldü.
+
+Eskişehir'in Tepebaşı ilçesine bağlı Muttalip Emirler Mahallesi Sarıcakaya Caddesi üzerinde, inşaat işçilerinin konakladığı 3 katlı binada henüz belirlenemeyen bir nedenle yangın çıktı. Binadan yükselen alevleri fark eden çevredeki vatandaşlar durumu 112 Acil Çağrı Merkezi'ne bildirdi.
+
+İhbar üzerine olay yerine çok sayıda itfaiye, polis, AFAD ve sağlık ekibi sevk edildi. Kısa sürede adrese ulaşan itfaiye ekipleri, alevlere müdahale ederek yangını kontrol altına aldı ve söndürdü.
+
+Olayda şans eseri yaralanan olmazken, binada maddi hasar meydana geldi. Ekipler, yangının çıkış nedenini belirlemek için detaylı inceleme başlattı.
+
+---
+
+## Rektör Özcan’dan Vali Yılmaz’a Ziyaret
+
+**Eğitim · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yeniden-rektorluge-atanan-prof-dr-adnan-ozcani-kabul-etti)
+
+![](data/images/95bb66e7c6b126e6.jpg)
+
+> Cumhurbaşkanlığı Kararnamesi ile Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan, Vali Dr. Erdinç Yılmaz’ı makamında ziyaret etti.
+
+Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine Cumhurbaşkanlığı Kararnamesi ile yeniden atanan Prof. Dr. Adnan Özcan, Eskişehir Valisi Dr. Erdinç Yılmaz’a nezaket ziyaretinde bulundu.
+
+Valilik makamında gerçekleşen görüşmede Vali Dr. Erdinç Yılmaz, Rektör Özcan’ı yeniden atanmasından dolayı kutlayarak yeni dönemin üniversite ve kent için hayırlı olması temennisinde bulundu ve çalışmalarında başarılar diledi.
+
+Prof. Dr. Adnan Özcan ise kabulünden ve iyi dileklerinden dolayı Vali Yılmaz’a teşekkürlerini iletti.
+
+---
+
+## Lokantacılar Odası Başkanı Arnik'ten festival tepkisi: Esnaf mağdur
+
+**Ekonomi · Tepebaşı** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sakaryagazetesi.com.tr/arnikten-festival-tepkisi)
+
+> Eskişehir Lokantacılar ve Kasaplar Esnaf Odası Başkanı Murat Arnik, art arda düzenlenen gastronomi festivallerinin yerel esnafı mağdur ettiğini belirterek denetim ve şeffaflık çağrısında bulundu.
+
+Eskişehir Lokantacılar ve Kasaplar Esnaf Odası (ESLOK) Başkanı Murat Arnik, kentte son dönemde sıkça düzenlenen gastronomi festivalleri hakkında yazılı bir açıklama yaparak tepkisini dile getirdi. Organizasyonların yerel esnafın ticari hayatını olumsuz etkilediğini savunan Arnik, artan maliyetler karşısında ayakta kalmaya çalışan yaklaşık 5 bin yiyecek ve içecek işletmesinin haklarını savunacaklarını kaydetti.
+
+Festivallerin ticari yapısının şeffaf bir şekilde kamuoyuyla paylaşılmasını isteyen Arnik, stant kiralama bedelleri, ücret toplama süreçleri ve elde edilen gelirlerin akıbetinin araştırılması gerektiğini ifade etti. Yetkililere çağrıda bulunan Arnik, kamu arazilerinin özel kazanç kapısı haline getirilmemesi gerektiğini vurguladı.
+
+Özellikle Dede Korkut Parkı'nda gerçekleştirilen organizasyonları eleştiren Arnik, kamu arazisinin hangi şartlar altında tahsis edildiğinin incelenmesini talep etti. Festivallere karşı olmadıklarını, aksine haksız rekabete ve esnafın haklarının göz ardı edilmesine itiraz ettiklerini belirten Arnik, "Eskişehir esnafı sahipsiz değildir" dedi.
+
+---
+
+## Eskişehir'de yurt personeline yangın ve tahliye eğitimi
+
+**Gündem · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haberler.com/amp/itfaiye-ekipleri-eskisehir-de-yurt-calisanlarina-20410713-haberi/)
+
+> Eskişehir'de Mükrime Hatun Yurdu çalışanlarına itfaiye ekipleri tarafından yangın güvenliği, tahliye süreçleri ve söndürme ekipmanlarının kullanımı konulu eğitim verildi.
+
+Eskişehir'de olası acil durumlara karşı hazırlık çalışmalarını sürdüren itfaiye ekipleri, yurt personelini bilgilendirdi.
+
+Gençlik ve Spor Bakanlığı'na bağlı Mükrime Hatun Yurdu'nda görevli personele yönelik düzenlenen eğitimde, yangın anında alınması gereken kritik önlemler, güvenli tahliye süreçleri ve yangın söndürme ekipmanlarının doğru kullanım yöntemleri aktarıldı.
+
+---
+
+## Eskişehir'de planlı elektrik kesintisi: Hangi mahalleler etkilenecek?
+
+**Gündem · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sakaryagazetesi.com.tr/eskisehirliler-dikkat-yarin-bu-mahallelerde-elektrik-olmayacak)
+
+> OEDAŞ duyurdu: Eskişehir'in merkez ve çevre ilçelerinde bakım ve onarım çalışmaları nedeniyle yarın uzun süreli elektrik kesintileri uygulanacak.
+
+Osmangazi Elektrik Dağıtım AŞ (OEDAŞ) tarafından yürütülen şebeke, bakım ve onarım çalışmaları kapsamında Eskişehir genelinde planlı elektrik kesintileri yaşanacak. Yeni haftanın ilk gününde yapılacak çalışmalar nedeniyle merkez ve çevre ilçelerdeki birçok mahallede elektrik verilemeyecek.
+
+Planlamaya göre Odunpazarı ilçesinde İstiklal ve Kırmızıtoprak mahallelerinin bazı bölümlerinde saat 09.00 - 15.00 arasında kesinti yapılacak. Akarbaşı, Dede, Kırmızıtoprak ve Vişnelik mahallelerinin belirli kesimlerinde ise kesintiler 09.00 ile 17.00 saatleri arasında uygulanacak. Tepebaşı ilçesinde de Bahçelievler, Esentepe, Fatih, Kumlubel, Sütlüce, Tunalı ve Zafer mahallelerinin bazı bölgelerinde saat 09.00 - 17.00 saatleri arasında elektrik kesintisi yaşanacak. Hisar, Yeşilyurt ve Zemzemiye mahallelerinde ise kesinti saatleri 10.00 ile 12.00 olarak belirlendi.
+
+Kesintiler çevre ilçeleri de kapsayacak. Alpu'da 10.00 - 16.00, Beylikova'da 11.00 - 13.00 saatleri arasında kesinti yapılacak. Çifteler'de farklı bölgelerde 09.00-16.00, 09.00-17.00 ve 13.30-17.30 saatleri arasında elektrik kesintisi uygulanacak. Mahmudiye'de 13.30 - 17.30, Mihalıççık'ta 10.00 - 16.00, Seyitgazi'de 13.30 - 17.30 ve Sivrihisar'da 09.00 - 16.00 saatleri arasında belirli noktalarda elektrik verilemeyecek.
+
+Yetkililer, kesintilerin mahallelerin tamamını değil belirli sokak ve bölgeleri kapsayacağını belirtti. Çalışmaların planlanan saatten önce tamamlanması durumunda elektriklerin erken verilebileceği ifade edilirken, vatandaşların tedbirli olmaları ve güncel bilgileri OEDAŞ'ın internet sitesi ile ALO 186 hattından takip etmeleri istendi.
+
+---
+
+## Eskişehir'de gelecek nesillere anlamlı mesaj: Zaman kapsülü temele atıldı
+
+**Belediye · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/unluce-eskisehirden-gelecege-mesaj-birakti)
+
+> Kentpark'taki İklim Adası projesi kapsamında inşa edilen Ekolojik Çocuk Evi'nin temeline, gelecek kuşaklara bırakılmak üzere zaman kapsülü yerleştirildi.
+
+Eskişehir'de iklim değişikliğiyle mücadele çalışmaları kapsamında hayata geçirilen İklim Adası'nın açılış etkinlikleri sürerken, Ekolojik Çocuk Evi alanında dikkat çeken bir tören gerçekleştirildi. Gelecek nesillere duyulan güvenin ve sürdürülebilir bir dünya idealinin simgesi olan zaman kapsülü, binanın temeline bırakıldı.
+
+Törene Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin yanı sıra Pınar Akıskalıoğlu, iklim bilimci Profesör Sir David King, Dünya Meteoroloji Örgütü temsilcisi Roberta Boscolo ve İklim Çalışma Grubu üyeleri katıldı.
+
+Tören öncesinde konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, zaman kapsülü fikrinin İklim Çalışma Grubu'ndan çıktığını belirterek, geleceğin yöneticilerine, gençlere ve ailesine özel mektuplar hazırladığını ifade etti. Ünlüce, "Onlarca yıl, belki de asırlar sonra gelecek kuşaklar bunları bulup okursa 2026 yılının Eskişehir’inde İklim Çalışma Grubu’nun gelecekten ne dilediğini görsünler istedik. Atalarımız bizim için çalışmış diyebilsinler diye bu hayalle bırakıyoruz" dedi.
+
+İklim Adası projesinin bir kütüphane düşüncesiyle başlayıp zamanla genişlediğini anlatan Ünlüce, Eskişehir'i iklim değişikliğiyle mücadelenin ulusal ve uluslararası merkezlerinden biri yapmayı hedeflediklerini vurguladı. Konuşmaların ardından hazırlanan kapsül, katılımcıların eşliğinde Ekolojik Çocuk Evi'nin temeline atıldı.
+
+---
+
+## Başkan Kurt'tan 10 Kasım Mesajı: Cumhuriyet'i Yaşatmak Sorumluluğumuzdur
+
+**Gündem · Odunpazarı** · 2026-11-09 23:51 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kurt-ataturk-un-en-buyuk-eseri-cumhuriyeti-yasatmak-gelecege-tasimak-hepimizi)
+
+![](data/images/7a350444be3a7695.jpg)
+
+> Odunpazarı Belediye Başkanı Kazım Kurt, Atatürk'ün en büyük eseri olan Cumhuriyet'i korumanın ve gelecek kuşaklara aktarmanın tarihsel bir sorumluluk olduğunu vurguladı.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının 88'inci yıl dönümü dolayısıyla bir anma mesajı yayımladı.
+
+Atatürk'ün aklı ve bilimi rehber edinen çağdaş, demokratik ve özgür bir toplumun temellerini attığını belirten Kurt, mesajında Cumhuriyet'in önemine dikkat çekti. Başkan Kurt, "En büyük eseri olan Cumhuriyet, halkın kendi geleceğine sahip çıkmasının, eşit yurttaşlığın ve özgür bir yaşamın güvencesidir" ifadelerini kullandı.
+
+Bugün düşen en büyük görevin Atatürk'ün ilke ve devrimlerine sahip çıkmak olduğunu ifade eden Kurt, Cumhuriyet'in demokrasi, hukuk ve laiklik temelinde güçlendirilmesi gerektiğinin altını çizdi. Kurt, açıklamasında Atatürk'ü, silah arkadaşlarını ve tüm bağımsızlık kahramanlarını saygı, rahmet ve minnetle andığını kaydetti.
+
+---
+
+## Antalya'daki COP31'de Türkiye İklim Okulu kapılarını açtı
+
+**Türkiye · Türkiye** · 2026-11-09 23:51 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye-iklim-okuluquot-cop31039de-kapilarini-acti/haber/42445/tr)
+
+![](data/images/ecc78e2411cd7dfe.jpg)
+
+> Millî Eğitim Bakanlığınca COP31 kapsamında kurulan Türkiye İklim Okulu, ilk gününde ziyaretçilerine atölye ve panellerle kapılarını açtı.
+
+Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında, Millî Eğitim Bakanlığı tarafından hayata geçirilen "Türkiye İklim Okulu" ilk gününde ziyaretçi akınına uğradı. Yeşil Bölge'de kurulan okul; öğrenci, öğretmen, akademisyen ve uzmanları bir araya getirdi.
+
+"Yaşayan bir okul" anlayışıyla tasarlanan alanda teknoloji, yaşayan okul ve iklim deneyimi alanları yer aldı. Gün boyunca düzenlenen atölye çalışmalarında katılımcılar; "Atığa Yeni Hayat Ver", "Doğayla Üretiyorum ve Tohum Topu Yapımı" ile "İklim Dostu Şehrimi Tasarlıyorum" gibi etkinliklerde geri dönüşüm ve sürdürülebilir yaşam becerilerini deneyimledi. Çocuklar, tasarladıkları çevre dostu şehir modelleriyle iklim sorunlarına yönelik çözüm önerileri geliştirdi.
+
+Okul bünyesinde kurulan Sıfır Atık Kütüphanesi, teraryum ve muz lifi dokuma atölyeleri de büyük ilgi gördü. Ayrıca ilk gün gerçekleştirilen konferans ve panellerde, uydu teknolojileriyle su kaynaklarının izlenmesi, geleceğin yeşil meslekleri ve eğitimcilerin toplumsal dönüşümdeki rolü ele alındı.
+
+Türkiye İklim Okulu, COP31 boyunca farklı kurum ve kuruluşların katkılarıyla söyleşi, proje sunumları ve uygulamalı atölye çalışmalarına ev sahipliği yapmaya devam edecek.
+
+---
+
 ## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da başlıyor
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-09 13:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-siir-bulusmasi-13-sair-3-gun-boyunca-sanatseverlerle-bir-araya-gelecek-2a5ff9d9)
@@ -349,133 +471,5 @@ Eskişehir İl Emniyet Müdürlüğü Asayiş, Narkotik Suçlarla Mücadele ve G
 Adreste yapılan aramalarda çok sayıda masa, sandalye, çekiliş topu ve oyun kartı ele geçirildi. Suçüstü yakalanan 40 kişiye kişi başı 11 bin 604 TL olmak üzere toplam 464 bin 110 TL idari para cezası uygulandı.
 
 Olayla ilgili olarak M.G. ve R.Z. isimli şüpheliler hakkında "kumar oynanması için yer ve imkan temin etmek" suçundan adli işlem başlatıldı. Ayrıca faaliyet yürütülen iş yerinin mühürlenmesi için de resmi işlemlerin başlatıldığı bildirildi.
-
----
-
-## Elektrik faturalarında yeni dönem: 3 bin kWh sınırı geliyor
-
-**Ekonomi · Türkiye** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehir.net/1-ocakta-elektrik-faturalarinda-yeni-donem-basliyor-milyonlarca-abone-etkilenecek)
-
-![](data/images/78763e0bc351ae9f.jpg)
-
-> EPDK düzenlemesiyle 1 Ocak 2027'de yürürlüğe girecek yeni uygulamayla, mesken abonelerinin Son Kaynak Tedarik Tarifesi'ne dahil edilmesindeki yıllık tüketim sınırı 3 bin kilovatsaate düşürülecek.
-
-Enerji Piyasası Düzenleme Kurumu (EPDK) tarafından hazırlanan yeni düzenlemeyle, mesken abonelerinin Son Kaynak Tedarik Tarifesi'ne (SKTT) geçişinde esas alınan yıllık elektrik tüketim sınırında indirime gidiliyor. 1 Ocak 2027 itibarıyla yürürlüğe girecek uygulama kapsamında, mevcut 4 bin kilovatsaatlik sınır 3 bin kilovatsaate çekilecek. Türkiye genelindeki 44,2 milyon mesken abonesinin yaklaşık 6,5 milyonunun, yani yüzde 14,7'sinin bu düzenlemeden etkilenmesi bekleniyor.
-
-Değişiklik öncesinde yüksek tüketim grubunda yer alabilecek abonelere bilgilendirme mesajları gönderilmeye başlanırken, tüketicilere farklı elektrik tedarikçilerinin sözleşme ve fiyat alternatiflerini incelemeleri tavsiye ediliyor. Yeni belirlenen 3 bin kilovatsaatlik yıllık tüketim sınırı, aylık ortalama 250 kilovatsaate denk geliyor. Bu tüketim miktarındaki elektrik faturasının yaklaşık 820 TL seviyesinde olduğu belirtilse de, uygulamada belirleyici unsur fatura tutarı değil yıllık tüketim miktarı olacak.
-
-Yıllık elektrik tüketimi 3 bin kilovatsaat ve üzerinde olan mesken aboneleri yüksek tüketimli tüketici grubuna dahil edilecek. Başka bir elektrik tedarikçisiyle ikili anlaşma yapmayan aboneler ise Son Kaynak Tedarik Tarifesi üzerinden faturalandırılacak. Sınırı aşan abonelerin yeni tarifeye geçiş tarihi, limiti aştıkları ayı takip eden üçüncü ayın ilk günü olacak. Örneğin ekim ayında sınırı aşanlar 1 Ocak 2027'den, aralık ayında aşanlar ise 1 Mart 2027'den itibaren yeni tarifeye geçecek.
-
-Düzenlemeden etkilenecek aboneler, EPDK tarafından yetkilendirilen şirketlerle ikili anlaşma yaparak farklı tedarikçi ve fiyat tekliflerini değerlendirme hakkına sahip olacak. Tedarikçi değişikliği, dağıtım şirketinin değişmesi veya elektrik kesintisi anlamına gelmiyor. Yetkililerden yapılan uyarılarda, SMS ile bilgilendirilen abonelerin dolandırıcılıklara karşı işlem yapmadan önce şirketlerin EPDK tarafından yetkilendirilip yetkilendirilmediğini kurumun resmi internet sitesinden doğrulaması gerektiği vurgulanıyor.
-
----
-
-## Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL
-
-**Ekonomi · Merkez** · 2026-11-08 12:28 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261108.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.543,03 TL'den alınıyor, 6.620,93 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.28 itibarıyla verilerine göre gram altının satış fiyatı 6.620,93 TL, alış fiyatı 6.543,03 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,49 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.791 TL, yarım altın 21.576 TL, tam altın 42.993 TL, ata altın 44.142 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.185,06 TL, has altının gram fiyatı 6.601,13 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.071,20 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.28 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Yerli navigasyon ProtoPiri yola çıkıyor: Togg'da da yer alacak
-
-**Ekonomi · Türkiye** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Togg](https://m.sabah.com.tr/gundem/2026/11/08/navigasyon-teknolojisinde-milli-rota/amp)
-
-> Türkiye'nin milli imkânlarla geliştirdiği 'ProtoPiri' adı verilen yerli navigasyon uygulamasının 2027 yılının ilk çeyreğinde hizmete girmesi planlanıyor.
-
-Sanayi ve Teknoloji Bakanlığı liderliğinde hazırlanan ve harita ile yön bulmanın atası Piri Reis'e atıfta bulunulan yerli navigasyon projesinin detayları netleşmeye başladı. Kamuoyu araştırmasının ardından netleşecek olan ProtoPiri isimli uygulamanın, yıl başında devreye alınması ve Togg'un içerisinde fabrika çıkışlı olarak yer alması planlanıyor.
-
-Uygulama kapsamında kamu kurumlarıyla da entegrasyon sağlanacak. İçişleri Bakanlığı entegrasyonuyla radarların yerleri ve hız limitleri sürücülere aktarılacak, limit aşımında ise 'yavaş git' uyarısı yapılacak. Ayrıca 112 Çağrı Merkezi entegrasyonu sayesinde arkadan gelen ambulanslar navigasyon kullanan sürücülere bildirilecek. Proje, elektrikli araçlar için şarj istasyonu noktalarını da gösterecek.
-
-Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, veri güvenliği açısından stratejik bir alan olarak gördükleri yerli navigasyon uygulamasını önemsediklerini belirterek, 2027 yılı başından itibaren yabancı uygulamaların yerine tamamen yerli ve milli navigasyona geçiş yapılacağını kaydetti. Projede Togg'un da önemli katkıları bulunduğunu ifade etti.
-
----
-
-## Maç sonu trafikte skandal: Ambulansın peşine takıldılar
-
-**Ulaşım · Merkez** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haberler.com/amp/eskisehirspor-maci-sonrasi-trafikte-bazi-suruculer-20406813-haberi/)
-
-> Eskişehirspor maçı sonrasında Atatürk Bulvarı'nda oluşan yoğunlukta ilerlemeye çalışan ambulansın arkasına bazı sürücülerin takılması pes dedirtti.
-
-Eskişehirspor'un oynadığı maçın ardından Atatürk Bulvarı'nda trafik yoğunluğu üst seviyeye ulaştı. Sıkışan trafikte görevine yetişmeye çalışan bir ambulans zor anlar yaşadı.
-
-Olay sırasında bazı duyarlı sürücüler hemen sağa ve sola yanaşarak sağlık aracına geçiş koridoru oluşturdu. Ancak bazı sürücüler, oluşturulan bu güvenli yoldan faydalanarak ambulansın arkasına takıldı ve peşinden ilerlemeye çalıştı.
-
-Trafikte yaşanan bu tehlikeli ve duyarsız anlar, çevredeki vatandaşların da dikkatini çekti ve tepki topladı.
-
----
-
-## Eskişehir'de 10 Kasım anma programı belli oldu: İşte etkinlik takvimi
-
-**Gündem · Merkez** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-10-kasim-ataturku-anma-programi-aciklandi-iste-etkinlik-takvimi)
-
-> Gazi Mustafa Kemal Atatürk’ün ebediyete intikalinin 88’inci yıl dönümünde Eskişehir’de düzenlenecek resmi törenler ve etkinlik takvimi açıklandı.
-
-Eskişehir'de Gazi Mustafa Kemal Atatürk’ün vefatının 88’inci yıl dönümü dolayısıyla gerçekleştirilecek 10 Kasım Atatürk’ü Anma Günü programı netleşti. Valilik koordinasyonunda düzenlenecek resmi törenlerin yanı sıra kamu kurumları, yerel yönetimler ve üniversiteler gün boyunca çeşitli etkinlikler organize edecek.
-
-Resmi tören, 10 Kasım Salı günü saat 08.30’da Vilayet Alanı’ndaki Atatürk Anıtı önünde başlayacak. Program akışına göre saat 08.59’da çelenkler sunulacak, saat 09.05’te ise iki dakikalık saygı duruşunda bulunularak İstiklal Marşı eşliğinde bayraklar yarıya indirilecek. Bu sırada Eskişehir genelindeki binek araçlar klaksonlarını, fabrika ve işletmeler ise sirenlerini çalarak anma programına katılım sağlayacak. Tören alanındaki etkinliklerde ayrıca şiir okunacak, Anadolu Üniversitesi Öğretim Üyesi Prof. Dr. Burhan Sayılır bir konuşma yapacak ve Atatürk’ün kendi sesinden 10. Yıl Nutku dinletilecek.
-
-Kentteki eğitim kurumları da kendi programlarını hazırladı. İl Milli Eğitim Müdürlüğü'nün resmi anma töreni saat 11.00’de Firuz Kanatlı Mesleki ve Teknik Anadolu Lisesi Konferans Salonu’nda yapılacak. Eskişehir Teknik Üniversitesi (ESTÜ) saat 08.45’teki anıt töreninin ardından Konferans Salonu’nda sahne gösterisi gerçekleştirecek. Eskişehir Osmangazi Üniversitesi (ESOGÜ) ve Anadolu Üniversitesi de saat 09.05’te kendi kampüslerindeki anıtlar önünde çelenk sunma törenleri düzenleyecek.
-
-Belediyeler ve diğer kurumlar da gün boyunca anma etkinlikleri gerçekleştirecek. Büyükşehir Belediyesi Ulus Anıtı karşısında atölye çalışması yaparken, Odunpazarı Belediyesi belediye binası önündeki törenin ardından akşam Yunus Emre Kültür ve Sanat Merkezi’nde "Atatürk ve Musiki" konseri verecek. Tepebaşı Belediyesi Ramada Otel’de mevlit programı düzenleyecek. İl Kültür ve Turizm Müdürlüğü, Gençlik ve Spor İl Müdürlüğü ve İl Müftülüğü de sergiler, halk oyunları gösterileri ve mevit programlarıyla anma etkinliklerine katkı sunacak.
-
----
-
-## Engelsiz Kültür Merkezi'nde özel öğrencilerden anlamlı Atatürk anması
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/amp/haber-odunpazari-ndaki-engelsiz-kultur-ve-sanat-merkezi-20407111/)
-
-> Odunpazarı Belediyesi Engelsiz Kültür ve Sanat Merkezi'nde eğitim alan özel öğrenciler, 10 Kasım kapsamında düzenlenen etkinlikte Atatürk'ü andı.
-
-Odunpazarı Belediyesi'ne bağlı Engelsiz Kültür ve Sanat Merkezi'nde eğitim gören 17 yaş ve üzeri özel öğrenciler, 10 Kasım Atatürk'ü Anma Günü ve Haftası dolayısıyla özel bir programa imza attı. Etkinlikte Gazi Mustafa Kemal Atatürk'ün yaşamı, bağımsızlık mücadelesi ve Cumhuriyet'e kazandırdığı değerler ele alındı.
-
-Anma programı, Atatürk'ün hayatını ve Kurtuluş Savaşı mücadelesini anlatan film gösterimiyle başladı. Öğrenciler film gösterimini ilgiyle takip ederken, programın devamında Atatürk'ün fotoğrafları ve anısını yaşatan görsellerden oluşan bir anma panosu hazırladı.
-
-Etkinlik kapsamında ayrıca Atatürk'ün fikirleri, ilke ve devrimleri ile Cumhuriyet'in kuruluş süreci üzerine sohbet gerçekleştirildi. Öğrenciler düşüncelerini paylaşırken, 10 Kasım'ın Atatürk'ün mirasını anlama ve yaşatma günü olduğuna vurgu yapıldı. Merkez yetkilileri, engelli bireylerin sosyal ve kültürel yaşama katılımını destekleyen farkındalık etkinliklerinin süreceğini belirtti.
-
----
-
-## Cumhurbaşkanı Erdoğan Şuşa'da resmî törenle karşılandı
-
-**Siyaset · Türkiye** · 2026-11-08 11:58 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-azerbaycanda-resmi-torenle-karsilandi-08-11-26)
-
-![](data/images/bb19a667537a9f9b.jpg)
-
-> Azerbaycan Cumhurbaşkanı Aliyev'in davetiyle Şuşa'ya giden Cumhurbaşkanı Erdoğan, Fuzuli Uluslararası Havalimanı'nın ardından geldiği valilik binasında resmî törenle karşılandı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle gerçekleştirdiği ziyaret kapsamında Şuşa'da resmî törenle karşılandı. 
-
-Cumhurbaşkanı Erdoğan ve eşi Emine Erdoğan, Fuzuli Uluslararası Havalimanı'na iniş yapmalarının ardından Şuşa Valiliğine geçti. Erdoğan çifti, burada Azerbaycan Cumhurbaşkanı İlham Aliyev ve eşi Mihriban Aliyeva tarafından karşılandı.
-
-Tören alanındaki yerlerini alan liderlerin ardından askerî bando iki ülkenin millî marşlarını çaldı. Karşılama töreninde Cumhurbaşkanı Erdoğan ve Azerbaycan Cumhurbaşkanı Aliyev, heyet üyelerini birbirine tanıttı.
-
-Cumhurbaşkanı Erdoğan'ın heyetinde Dışişleri Bakanı Hakan Fidan, Millî Savunma Bakanı Yaşar Güler, Tarım ve Orman Bakanı İbrahim Yumaklı, MİT Başkanı İbrahim Kalın, Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Dış Politika ve Güvenlik Başdanışmanı Akif Çağatay Kılıç, Cumhurbaşkanlığı Güvenlik ve Dış Politikalar Kurulu Başkanvekili Çağrı Erhan, AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu ile Türk Devletleri Teşkilatı Aksakallar Konseyi Başkanı Binali Yıldırım yer aldı.
-
----
-
-## Çamlıca Kapalı Pazar Yeri'nde şaşırtan soğan kıtlığı: Tek esnaf satıyor
-
-**Ekonomi · Tepebaşı** · 2026-11-08 11:58 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.gzt26.com/eskisehir-camlica-kapali-pazar-yerinde-sasirtan-manzara)
-
-> Eskişehir'in Tepebaşı ilçesindeki Çamlıca Kapalı Pazar Yeri'nde yüzlerce tezgah kurulmasına rağmen kuru soğan satan yalnızca bir esnaf kalması vatandaşları şaşırttı.
-
-Tepebaşı ilçesinde her hafta kurulan Çamlıca Kapalı Pazar Yeri'nde mutfakların vazgeçilmez temel gıdalarından kuru soğan bulmakta zorlanan vatandaşlar şaşkınlık yaşıyor. Yüzlerce tezgahın yer aldığı pazarda, kuru soğan satışı yapan yalnızca bir esnafın bulunması dikkat çekti.
-
-Pazara alışveriş yapmak için gelen vatandaşlar, tezgahlarda soğan aradı ancak farklı bölümleri dolaşmalarına rağmen ürünü bulamadı. Yalnızca tek bir tezgahta satılan kuru soğanın kilogram fiyatı ise 40 TL olarak belirlendi. Vatandaşlar, günlük yemeklerin en temel malzemelerinden biri olan soğanın pazarda bu kadar az bulunmasını sorguladı.
-
-Pazarcı esnafı ise yaşanan bu durumun sebebini yeni mahsul ürünlerin henüz piyasaya çıkmamış olmasına bağladı. Esnaf, arz sıkıntısının geçici olduğunu ve yeni mahsulün gelmesiyle durumun düzeleceğini ifade etti. Pazarda diğer sebze ve meyvelerin satışı normal seyrinde devam ediyor.
 
 ---
