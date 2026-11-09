@@ -21,11 +21,11 @@
     "title": "Eskişehir'de \"60 Yılda Serpil Akyıl\" sergisi sanatseverlerle buluştu - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-de-60-yilda-serpil-akyil-sergisi-sanatseverlerle-bulustu-17231448"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Sanat Sokağı",
       "Serpil Akyıl"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
