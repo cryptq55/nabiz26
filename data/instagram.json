@@ -389,7 +389,12 @@
   "202611082255-togg-kasim-2026-kampanyasi-aciklandi-aylik-30-bin-tl-taksit-firsati",
   "202611082255-kilicdaroglundan-mekke-anlasmasi-ve-siyasi-gelismeler-aciklamasi",
   "202611082254-turkiye-ve-iraktan-ortak-aciklama-sincarda-surec-suruyor",
-  "202611091243-altin-fiyatlari-9-kasim-2026-gram-altin-6-672-93-tl"
+  "202611091243-altin-fiyatlari-9-kasim-2026-gram-altin-6-672-93-tl",
+  "202611091355-bakanlik-cop31de-kadin-ve-cocuklarin-iklim-politikalarindaki-rolunu-bu",
+  "202611091355-iletisim-baskani-durandan-aliagadaki-fabrika-kazasi-aciklamasi",
+  "202611091355-5-dogan-avcioglu-odullerinin-kazananlari-aciklandi",
+  "202611091355-baskan-atactan-10-kasim-mesaji-cumhuriyete-sahip-cikmaliyiz",
+  "202611091355-mebden-gelecege-sozumuz-var-temali-ogretmeniz-dergisi-cop31-ozel-sayis"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -546,7 +551,8 @@
   "202611071206-altin-fiyatlari-7-kasim-2026-gram-altin-6-620-93-tl",
   "202611081158-atac-ve-eczacibasindan-eskisehirin-uretim-hamlesine-ziyaret",
   "202611081228-altin-fiyatlari-8-kasim-2026-gram-altin-6-620-93-tl",
-  "202611091243-altin-fiyatlari-9-kasim-2026-gram-altin-6-672-93-tl"
+  "202611091243-altin-fiyatlari-9-kasim-2026-gram-altin-6-672-93-tl",
+  "202611091355-5-dogan-avcioglu-odullerinin-kazananlari-aciklandi"
  ],
  "log": [
   1794162394.7925103,
@@ -559,9 +565,13 @@
   1794178674.425288,
   1794228438.1232543,
   1794228455.1534102,
-  1794228471.0305572
+  1794228471.0305572,
+  1794232728.3924165,
+  1794232743.9279,
+  1794232759.4822488
  ],
  "reel_log": [
-  1794228438.1232567
+  1794228438.1232567,
+  1794232728.3924189
  ]
 }
