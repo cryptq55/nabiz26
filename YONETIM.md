@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 09.11.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (342 haber, venv ile). Son haber 09.11 01:55 TSİ (gece boşluğu beklenen, masa 08-24); son 24 saatte 23 haber (Ekonomi 7, Siyaset 4, Kültür-Sanat 3; ilçe Türkiye 9, Merkez/Tepebaşı 5, Odunpazarı 4). Instagram: son paylaşım ~7,7 saat önce, son Reels ~18 saat önce (24 saatte 2 Reels); son 6 workflow koşusu başarılı. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Eczacıbaşı/OSB, elektrik faturası, kaçak tombala, bıçak/zabıta, Odunpazarı SK, Sincar, Kılıçdaroğlu etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) 10 Kasım anma story'si (yarın); (3) Reels sayısı düşük, reel_log kontrolü.
+SAHİBİNE: yok.
+
 ## 08.11.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (338 haber, venv ile). Son haber 21:24 TSİ (akış canlı); son 24 saatte 27 yayında haber, 18'inde fotoğraf yok. Son 60 haberde: Ekonomi 11, Siyaset 9, Belediye 8, Spor/Asayiş 6; Sağlık 1, Ulaşım 1 (zayıf); ilçe Türkiye 20, Merkez 16, Tepebaşı 12, Odunpazarı 11, Günyüzü 1. Instagram: log 13, reel_log 2 (son Reels 15:30 UTC civarı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** yok.

@@ -116,6 +116,10 @@ KEYWORD_TAGS = [
     ("isale hattı", ["#İçmeSuyu", "#AltYapı"]), ("sivrihisar", ["#Sivrihisar", "#EskişehirİlçeHaber"]),
     ("alanyaspor", ["#TFF3Lig", "#Eskişehirspor"]), ("şehir hastanesi", ["#ŞehirHastanesi", "#Sağlık"]),
     ("yol çalışması", ["#YolÇalışması", "#Trafik"]), ("kapatıl", ["#TrafikUyarısı"]),
+    ("eczacıbaşı", ["#Eczacıbaşı", "#EskişehirOSB"]), ("osb", ["#EskişehirOSB", "#Sanayi"]),
+    ("elektrik fatura", ["#ElektrikFaturası", "#Enerji"]), ("tombala", ["#KaçakOyun", "#EskişehirAsayiş"]),
+    ("bıçak", ["#Zabıta", "#EskişehirAsayiş"]), ("odunpazarı sk", ["#OdunpazarıSK", "#AmatörLig"]),
+    ("sincar", ["#Irak", "#Diplomasi"]), ("kılıçdaroğlu", ["#Kılıçdaroğlu", "#Siyaset"]),
 ]
 INDEXNOW_KEY =hashlib.sha1(b"nabiz26-indexnow").hexdigest()
 # Her kategorinin kendi rengi: kartlarda, rozetlerde ve kapak görsellerinde kullanılır
