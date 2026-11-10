@@ -2,6 +2,118 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği
+
+**Türkiye · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31968)
+
+![](data/images/1e23e9f7ed1cfb4b.jpg)
+
+> Türkiye ve Suudi Arabistan arasında, Cumhurbaşkanı Erdoğan'ın huzurunda elektrik projelerinde iş birliği mutabakat zaptı imzalandı.
+
+Türkiye ile Suudi Arabistan arasında elektrik projelerinde iş birliğine yönelik yeni bir adım atıldı. Antalya'da gerçekleştirilen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Enerji Bakanı Abdulaziz bin Selman Al-Saud'u kabul etti.
+
+Kabulün ardından Cumhurbaşkanı Erdoğan'ın huzurunda, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Suudi mevkidaşı Abdulaziz bin Selman Al-Saud tarafından 'Elektrik Projelerinde İş Birliğine İlişkin Mutabakat Zaptı' imzalandı.
+
+İmza töreninin ardından sosyal medya hesabından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, daha önce Riyad'da imzalanan hükümetlerarası anlaşmayla ACWA Power tarafından Türkiye'de iki aşamada geliştirilecek toplam 5 bin megavatlık yenilenebilir enerji projelerinin çerçevesinin oluşturulduğunu hatırlattı. Sivas ve Karaman'daki toplam 2 bin megavatlık ilk aşama güneş enerjisi projelerindeki ilerlemeden duydukları memnuniyeti dile getiren Bakan Bayraktar, Antalya'da atılan imzayla ikinci aşamadaki 3 bin megavatlık ilave kapasitenin hayata geçirilmesine yönelik çalışmaların ileri bir aşamaya taşındığını kaydetti.
+
+Bakan Bayraktar açıklamasında, yüksek gerilim doğru akım iletim altyapısı ve batarya enerji depolama sistemleriyle desteklenen rüzgâr enerjisi santrallerinin geliştirilmesini öngördüklerini belirterek, "Yenilenebilir enerji kapasitemizi artırırken şebeke altyapımızı güçlendirecek ve sistem esnekliğini geliştirecek bu yatırımlarla, Suudi Arabistan ile stratejik enerji iş birliğimizi derinleştiriyoruz. Türkiye'nin enerji dönüşümüne ve yatırım ortamına duyulan güveni somut projelere dönüştürmeye devam edeceğiz" ifadelerini kullandı.
+
+---
+
+## Türkiye İklim Okulu COP31'de uluslararası panellere ev sahipliği yaptı
+
+**Türkiye · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye-iklim-okuluquot-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti/haber/42464/tr)
+
+![](data/images/99648cee6bd7429a.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında kurulan Türkiye İklim Okulu, ikinci gününde iklim eğitimi ve sürdürülebilirlik odaklı uluslararası paneller düzenledi.
+
+Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde Millî Eğitim Bakanlığı tarafından hayata geçirilen Türkiye İklim Okulu, ikinci gününde uluslararası katılımcıların yer aldığı oturumlara ev sahipliği yaptı. Program, Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yıl dönümü dolayısıyla gerçekleştirilen saygı duruşu ile başladı.
+
+COP31'in Yeşil Bölge alanında düzenlenen panellerde, iklim kriziyle mücadelede eğitim sistemlerinin kritik rolü, sürdürülebilir kalkınma hedefleri ve gençlerin karar alma süreçlerindeki aktif katılımı masaya yatırıldı. "Ulusal Envanter ve İyi Uygulamalar Portföyü" sunumu kapsamında Türkiye'nin farklı bölgelerinde hayata geçirilen çevre projeleri katılımcılara tanıtıldı.
+
+Öte yandan "Sözden Eyleme: Gençlik İklim Beyannamesi ve Kuşaklararası İklim Yönetişimi Laboratuvarı" başlıklı oturumda gençlerin iklim politikalarındaki rolü tartışıldı. Millî Eğitim Bakanlığı yetkilileri, 2022'de hazırlanan İklim Değişikliği Eylem Planı'nın bu yıl güncellendiğini aktararak Türkiye İklim Okulunun resmî açılışının 14 Kasım'da Bakan Yusuf Tekin'in katılımıyla yapılacağını bildirdi.
+
+Ziyaretçilerin yoğun ilgi gösterdiği okulun "Yaşayan Okul", "İklim Deneyim Alanı" ve "Teknoloji Alanı" bölümlerinde uygulamalı atölyeler gerçekleştirildi. Etkinliklere katılan öğrencilere iklim eğitimi deneyimlerini belgelemeleri amacıyla "İklim Elçisi Pasaportu" verildi.
+
+---
+
+## Odunpazarı'nda uyuşturucu operasyonu: 1 şüpheli yakalandı
+
+**Asayiş · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/amp/haber-eskisehir-odunpazari-nda-310-gram-esrar-bulundu-1--20414439/)
+
+> Eskişehir'in Odunpazarı ilçesinde düzenlenen uyuşturucu operasyonunda 310 gram esrar ve kök kenevir ele geçirildi, 1 kişi gözaltına alındı.
+
+Eskişehir İl Jandarma Komutanlığı ekipleri, uyuşturucuyla mücadele çalışmaları kapsamında Odunpazarı ilçesinde uyuşturucu üretimi yapıldığı bilgisine ulaştı. Yürütülen saha çalışmaları ve takiplerin ardından tespit edilen adrese operasyon düzenlendi.
+
+Ev ve eklentilerinde gerçekleştirilen aramalarda, 310 gram esrar, 6 kök Hint keneviri, esrar öğütme aparatı ve bir adet hassas terazi ele geçirildi. Ele geçirilen maddelere el konulurken olayla ilgili 1 şüpheli gözaltına alındı.
+
+Gözaltına alınan şüpheli hakkında "kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak" ile "2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanun'a muhalefet" suçlarından yasal işlem başlatıldı.
+
+---
+
+## ESOGÜ Rektörü Gümüşsoy'dan Rektör Özcan'a hayırlı olsun ziyareti
+
+**Eğitim · Tepebaşı** · 2026-11-10 21:21 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-osmangazi-universitesi-rektoru-prof-dr-emine-gumussoydan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/98f36d67afeb5e9d.jpg)
+
+> Eskişehir Osmangazi Üniversitesi Rektörü Prof. Dr. Emine Gümüşsoy, yeniden ESTÜ Rektörlüğüne atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Rektörü Prof. Dr. Emine Gümüşsoy, Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a tebrik ziyaretinde bulundu.
+
+ESTÜ Rektörlük Ofisi'nde gerçekleştirilen kabulde, ESOGÜ Rektör Yardımcısı Prof. Dr. Atilla Özcan Özdemir de yer aldı. Ziyarette Rektör Gümüşsoy, Özcan'a yeni döneminde başarı dileklerini iletti.
+
+Eskişehir Teknik Üniversitesi Rektörü Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve iyi dilekleri dolayısıyla ESOGÜ Rektörü Gümüşsoy ile Rektör Yardımcısı Özdemir'e teşekkür etti.
+
+---
+
+## Erdoğan ve Berdimuhamedov'dan COP31'de ikili iş birliği vurgusu
+
+**Siyaset · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-turkmenistan-halk-maslahati-baskani-berdimuhamedovu-kabulune-iliskin-aciklama-10-11-26)
+
+![](data/images/8ea721298c7e98d7.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi dolayısıyla Antalya'da bulunan Türkmenistan Halk Maslahatı Başkanı Gurbanguli Berdimuhamedov'u kabul etti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında Türkmenistan Halk Maslahatı Başkanı Gurbanguli Berdimuhamedov ile bir araya geldi. Gerçekleşen görüşmede Türkiye ile Türkmenistan arasındaki ikili ilişkilerin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
+
+Cumhurbaşkanı Erdoğan görüşme sırasında, iki ülke arasındaki iş birliğinin artırılması ve ilişkilerin üst seviyeye taşınması adına kararlı adımların atılmaya devam edeceğini belirtti. Erdoğan, özellikle enerji, ticaret, savunma sanayii ve yatırım alanlarındaki ortak çalışmaların yoğunlaştırılması gerektiğine dikkat çekti.
+
+Türk Devletleri Teşkilatı'nın giderek güçlendiğini ifade eden Erdoğan, Ankara Zirvesi'nde Teşkilat'ın stratejik öneminin bir kez daha tescillendiğini kaydetti. Erdoğan ayrıca, Türkmenistan'ın Türk Devletleri Teşkilatı'na üye olarak katılması temennisini dile getirdi.
+
+---
+
+## Başkan Kurt Emek esnafıyla buluştu: Ekonomik kriz herkesi etkiliyor
+
+**Belediye · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kurt-emek-te-esnafla-bulustu)
+
+![](data/images/f4c3f469227c1137.jpg)
+
+> Odunpazarı Belediye Başkanı Kazım Kurt, Emek Mahallesi'nde esnafı ziyaret ederek talep ve şikâyetlerini dinledi, küçük esnafın zor günler geçirdiğini vurguladı.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, mahalle buluşmaları kapsamında Emek Mahallesi Ziya Gökalp Caddesi'ndeki esnafla bir araya geldi. Ziyarete belediye başkan yardımcıları ve meclis üyeleri de katıldı.
+
+Esnafla sohbet ederek işlerin durumunu ve karşılaşılan sorunları dinleyen Başkan Kurt, belediyenin çalışmalarına ilişkin değerlendirmelerde bulundu. Türkiye'de yaşanan ekonomik krizin toplumun tüm kesimlerini etkilediğine dikkati çeken Kurt, artan maliyetler, yüksek kiralar ve vatandaşın düşen alım gücü nedeniyle küçük esnafın zor günler geçirdiğini ifade etti.
+
+Siyasetin halktan kopuk yürütülemeyeceğini belirten Kurt, yerel yönetimlerin esnaf ve yurttaşlarla sürekli iletişimde olması gerektiğini kaydetti. Halkın sorunlarını yerinde dinleyerek çözüm üretmeye çalıştıklarını aktaran Başkan Kurt, sosyal belediyecilik anlayışıyla çalışmaya devam edeceklerini belirterek esnafa bol kazançlar diledi.
+
+---
+
+## 30 yıl hapis cezasıyla aranıyordu: Odunpazarı'nda yakalandı
+
+**Asayiş · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.hurriyet.com.tr/gundem/30-yil-hapisle-araniyordu-eskisehirde-yakalandi-43373493)
+
+> Eskişehir'de hakkında kesinleşmiş 30 yıl 5 ay hapis cezası bulunan firari hükümlü, jandarma ekiplerinin operasyonuyla Odunpazarı'nda yakalandı.
+
+Eskişehir İl Jandarma Komutanlığı ekipleri, aranan şahısların yakalanmasına yönelik yürüttüğü çalışmalar kapsamında önemli bir operasyona imza attı.
+
+Yapılan istihbarat çalışmaları sonucunda, 'Cebir ve Tehdit veya Hile Kullanarak Kişiyi Hürriyetinden Yoksun Kılma' suçundan hakkında 30 yıl 5 ay kesinleşmiş hapis cezası bulunan bir hükümlünün Odunpazarı ilçesinde saklandığı tespit edildi.
+
+Jandarma ekiplerince düzenlenen operasyonla kısa sürede yakalanan hükümlü, karakoldaki işlemlerinin ardından tutuklanarak Eskişehir Ceza İnfaz Kurumuna teslim edildi.
+
+---
+
 ## Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL
 
 **Ekonomi · Merkez** · 2026-11-10 13:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -367,121 +479,5 @@ Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Gazi Mustafa Kemal Atatürk'ün a
 Mesajında Atatürk'e bağlılık ve saygının, emanet edilen Cumhuriyet'in değerlerini yaşatmak, aklı ve bilimi rehber edinmekle anlam kazandığını belirten Ataç, farklılıklarla bir arada, ortak gelecek için omuz omuza durmanın önemine dikkat çekti.
 
 Ataç açıklamasında, Atatürk'ün gösterdiği çağdaş uygarlık hedefi doğrultusunda çalışmayı sürdüreceklerini ifade ederek, silah arkadaşlarını ve Cumhuriyet'in kuruluşunda emeği geçenleri saygı ve rahmetle andı.
-
----
-
-## Bakanlık COP31'de kadın ve çocukların iklim politikalarındaki rolünü büyütecek
-
-**Türkiye · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanligi-cop31de-kadinlarin-guclenmesi-ve-cocuklarin-iklim-politikalarina-katilimini-gundeme-tasiyacak/)
-
-![](data/images/3a02a62eb922a9be.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanlığı, Antalya'da düzenlenecek COP31'de iklim krizinin sosyal boyutuna odaklanarak kadınların güçlenmesi ve çocukların katılımı için uluslararası etkinlikler gerçekleştirecek.
-
-Aile ve Sosyal Hizmetler Bakanlığı, Antalya'nın ev sahipliğinde 9-20 Kasım tarihlerinde gerçekleştirilecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) iklim değişikliğinin sosyal etkilerini masaya yatıracak.
-
-Bakan Mahinur Özdemir Göktaş, zirvede iklim politikalarının sosyal boyutunu güçlü bir şekilde gündeme taşıyacaklarını belirtti. 81 ilde kadın sıfır atık elçileri belirleneceğini açıklayan Göktaş, kadın kooperatiflerinin üretim süreçlerine sıfır atık anlayışının entegre edileceğini kaydetti. Ayrıca BM kuruluşları ve sivil toplum iş birliğiyle çocukların iklim politikalarına katılımı, yaşlı ve engelli bireylerin korunması ile aşırı sıcakların kırılgan gruplar üzerindeki etkileri ele alınacak.
-
----
-
-## 5. Doğan Avcıoğlu Ödülleri'nin kazananları açıklandı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-09 13:55 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/5-dogan-avcioglu-odulleri-nin-kazananlari-aciklandi)
-
-![](data/images/afbbe82348810d43.jpg)
-
-> Odunpazarı Belediyesi ve Tekin Yayınevi tarafından bu yıl beşincisi düzenlenen Doğan Avcıoğlu Ödülleri'nin kazananları belli oldu.
-
-Odunpazarı Belediyesi ve Tekin Yayınevi iş birliğiyle hayata geçirilen Doğan Avcıoğlu Ödülleri'nin 2026 yılı sahipleri açıklandı. Türkiye'nin bilim, düşünce ve kültür hayatına katkı sunan isimleri onurlandıran organizasyonda, farklı kategorilerde ödül alacak isimler duyuruldu.
-
-Bilim Onur Ödülü, nisan ayında yaşamını yitiren Prof. Dr. Yalçın Küçük'e verilirken; Bilim Ödülleri Dr. Ezgi Akyol, Dr. Selman Saç ve Dr. Soner Kavuncuoğlu'nun oldu. Mansiyon Ödülü Battal Niyazi Şahin'e, Saygı Ödülü şair ve yazar Ataol Behramoğlu'na, Jüri Özel Ödülü ise gazeteci İsmail Arı'ya layık görüldü.
-
-Ödüller, 29 Kasım Pazar günü Yunus Emre Kültür ve Sanat Merkezi'nde düzenlenecek törenle sahiplerine takdim edilecek.
-
----
-
-## Altın fiyatları 9 Kasım 2026: Gram altın 6.672,93 TL
-
-**Ekonomi · Merkez** · 2026-11-09 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261109.jpg)
-
-> Gram altın güne yükselişle başladı. Harem Altın verilerine göre gram altın 6.603,63 TL'den alınıyor, 6.672,93 TL'den satılıyor.
-
-Altın piyasasında güne yükselişle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.672,93 TL, alış fiyatı 6.603,63 TL oldu. Gram altın, önceki kapanışa göre yüzde 1,28 yükseldi.
-
-Ziynet altınlarda çeyrek altın 10.876 TL, yarım altın 21.745 TL, tam altın 43.331 TL, ata altın 44.488 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.233,79 TL, has altının gram fiyatı 6.652,97 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.116,40 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Togg Kasım 2026 kampanyası açıklandı: Aylık 30 bin TL taksit fırsatı
-
-**Ekonomi · Türkiye** · 2026-11-08 22:55 UTC · Kaynak: [Google Haberler - Togg](https://www.gzt.com/teknoloji/aylik-30-bin-tl-taksitle-togg-sahibi-olunabilecek-togg-kasim-2026-kampanyasi-belli-oldu-4276723)
-
-![](data/images/b23a5f381f7f5f54.jpg)
-
-> Yerli otomobil üreticisi Togg, T10X ve T10F modelleri için Kasım 2026 finansman kampanyasını duyurdu. Kampanya kapsamında sıfır faizli kredi ve uzun vadeli ödeme seçenekleri sunuluyor.
-
-Yerli otomobil üreticisi Togg, T10X ve T10F modellerinde sınırlı sayıdaki araç için geçerli olan Kasım 2026 finansman kampanyasının detaylarını paylaştı. Bireysel ve kurumsal kullanıcılara yönelik hazırlanan kampanya, farklı kredi ve vade seçenekleriyle alıcılara kolaylık sağlıyor.
-
-Bireysel kullanıcılara özel hazırlanan T10F V2 modelinde 300 bin TL kredi için 10 ay vade ve sıfır faiz imkânıyla aylık 30 bin TL taksit ödeme seçeneği sunuluyor. Aynı model için 500 bin TL krediye 6 ay vade ve sıfır faizle aylık 83.334 TL, 700 bin TL krediye ise 4 ay vade ve sıfır faizle aylık 175.667 TL taksit imkânı sağlanıyor. Kurumsal ve filo alımlarına özel %100 finansman desteğinde ise T10F 4More versiyonu için 1,5 milyon TL krediye 10 ay vade ve sıfır faiz (aylık 150.000 TL taksit) fırsatı kampanyaya dahil edildi.
-
-T10X modellerinde de sıfır faiz avantajı sürerken, bireysel alıcılar için T10X V2 modelinde 700 bin TL krediye 4 ay vade (aylık 175.000 TL), 500 bin TL krediye 6 ay vade (aylık 83.334 TL) ve 300 bin TL krediye 10 ay vade (aylık 30.000 TL) seçenekleri sunuluyor. T10X 4More versiyonunda ise 1,5 milyon TL kredi için 10 ay vade ve sıfır faiz uygulanıyor.
-
-Kampanya kapsamında ayrıca uzun vadeli finansman seçenekleri de yer alıyor. %2,95 faiz oranıyla sunulan paketlerde T10X V2 için 1,7 milyon TL krediye 48 ay vade (aylık 78.008 TL taksit) ve T10X 4More için 1,5 milyon TL krediye 36 ay vade (aylık 77.527 TL taksit) imkânı tanınıyor.
-
----
-
-## Kılıçdaroğlu'ndan Mekke Anlaşması ve siyasi gelişmeler açıklaması
-
-**Siyaset · Türkiye** · 2026-11-08 22:55 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/kemal-kilicdaroglu-mekke-anlasmasi-na-yonelik-kaygilarinin-iran-tarafindan-giderildigini-acikladi-7674e0d8)
-
-![](data/images/971af03cf4a82102.jpg)
-
-> CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı bir programda Mekke Anlaşması'na ilişkin kaygılarının İran tarafından giderildiğini belirterek gündeme dair değerlendirmelerde bulundu.
-
-CHP Genel Başkanı Kemal Kılıçdaroğlu, katıldığı televizyon programında TBMM Genel Kurulu'nda kabul edilen Mekke Anlaşması'na değindi. Anlaşmanın imzalandığı dönemde bazı kaygıları bulunduğunu aktaran Kılıçdaroğlu, "Ama kaygımı İran giderdi. İran'ın karşı çıkmaması, üç ülkenin dışişleri bakanının Tahran'ı ziyaret etmesi, bizim açımızdan çok değerli. Bu proje aslında CHP'nin projesi. Ortadoğu Barış ve İşbirliği Teşkilatı kurulmalı diye bir iddiamız vardı. İran'ın buna sıcak bakması fikrimizi değiştirdi" dedi.
-
-Siyasi etik ve dokunulmazlıklar konusuna da değinen Kılıçdaroğlu, düşünce özgürlüğünü savunduğunu ancak halkın parasını yiyen veya iş takipçiliği yapan isimlerin parlamentoda yer almaması gerektiğini vurguladı. Siyasi Etik Kanunu'nun mutlaka çıkması gerektiğini ifade eden Kılıçdaroğlu, fon soruşturmasıyla ilgili olarak ise sürecin üzerine gidildiğini söyleyen iktidarın vurgun yapanların listelerini açıklaması gerektiğini kaydetti.
-
-Kürt sorununun çözümüne yönelik sürece de değinen Kılıçdaroğlu, konunun çözüm adresinin TBMM olduğunu belirtti ve yasanın sağlıklı bir şekilde sonuçlanmasını beklediklerini ifade etti. Yeniden CHP Genel Başkanı olmasının ardından yöneltilen eleştirilere de yanıt veren Kılıçdaroğlu, partisinin kuruluşundaki ahlaki kodlara dönmesi ve arınmanın sağlanmasının ardından yarışın yeniden gerçekleşeceğini belirtti.
-
----
-
-## Türkiye ve Irak'tan Ortak Açıklama: Sincar'da Süreç Sürüyor
-
-**Türkiye · Türkiye** · 2026-11-08 22:54 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/turkiye-cumhuriyeti-ve-irak-cumhuriyeti-ortak-basin-aciklamasi)
-
-![](data/images/ede7b65cde709f58.jpg)
-
-> Türkiye ve Irak makamları, Sincar'da devlet otoritesinin tesisi ve terör örgütü PKK'nın varlığına son verilmesi yönündeki adımların kararlılıkla sürdürüleceğini açıkladı.
-
-İletişim Başkanlığından yapılan açıklamaya göre, iki ülke makamları, liderlerin 23 Eylül 2026 tarihinde vardıkları mutabakat çerçevesinde atılan adımları değerlendirdi. Irak makamlarının Sincar'da devlet otoritesinin bütünüyle tesisi ve PKK terör örgütü unsurlarının varlığına son verilmesi yönünde bugüne kadar attığı adımların sürdürülmesi hususunda ortak irade teyit edildi.
-
-Türk tarafı, liderler düzeyindeki mutabakat uyarınca Başika-Zilikan yerleşkesinin Irak Federal Hükümetine kademeli olarak devrine yönelik üzerine düşen adımları atmaya başlayacağını beyan etti.
-
-Öte yandan taraflar, PKK terör örgütünün mevcudiyetinin tamamen sonlandırılmasına yönelik Sincar'da başlayan sürecin ilerlemesinin müştereken teyit ve denetlenmesi amacıyla Ortak Güvenlik Koordinasyon Komitesinin faaliyete geçirilmesi yönünde karar aldı.
-
----
-
-## Serpil Akyıl'ın 60 yıllık sanat birikimi Eskişehir'de sergileniyor
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://ankahaber.net/haber/eskisehir-de-60-yilda-serpil-akyil-sergisi-sanatseverlerle-bulustu-17231448)
-
-> Sanatçı Serpil Akyıl'ın altı on yıllık sanat yolculuğunu gözler önüne seren sergi, Sanat Sokağı Geçici Sergi Salonu'nda kapılarını açtı.
-
-Eskişehir Büyükşehir Belediyesi, sanatçı Serpil Akyıl’ın 60 yıllık sanat birikimini yansıtan eserlerini sanatseverlerle buluşturdu. Sanat Sokağı Geçici Sergi Salonu’nda açılan "60 Yılda Serpil Akyıl" adlı sergi, sanatçının farklı dönemlerde ürettiği eserleri izleyicilerin beğenisine sundu.
-
-Geleneksel kültürün izlerini, masalsı figürleri ve mitolojik öğeleri çağdaş bir anlatımla bir araya getiren serginin açılışına Büyükşehir Belediye Başkan Vekili Hasan Ünal, önceki dönem Büyükşehir Belediye Başkanı Yılmaz Büyükerşen, sanatçı Serpil Akyıl ve çok sayıda vatandaş katıldı. Bedri Rahmi Eyüboğlu Atölyesi’nde yetişen ve uzun yıllar Anadolu Üniversitesi’nde öğretim üyesi olarak görev yapan Akyıl, 53. kişisel sergisinde sanat yaşamının farklı dönemlerinden eserlerini bir araya getirdi.
-
-Farklı toplumların yaşam biçimlerinden, geleneklerinden ve inançlarından beslenen eserler, özgün renkleri ve düşsel anlatımlarıyla dikkat çekiyor. Geleneksel kültür ile çağdaş sanat arasında köprü kuran sergi, ziyaretçileri sanatçının zengin hayal dünyasında yolculuğa çıkarıyor.
-
-"60 Yılda Serpil Akyıl" sergisi, 6 Aralık 2026 tarihine kadar Sanat Sokağı Geçici Sergi Salonu’nda ziyaretçilerini ağırlamaya devam edecek.
 
 ---
