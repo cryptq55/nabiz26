@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL
+
+**Ekonomi · Merkez** · 2026-11-10 13:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261110.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.505,25 TL'den alınıyor, 6.577,98 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 16.58 itibarıyla verilerine göre gram altının satış fiyatı 6.577,98 TL, alış fiyatı 6.505,25 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,08 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.721 TL, yarım altın 21.436 TL, tam altın 42.715 TL, ata altın 43.856 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.145,27 TL, has altının gram fiyatı 6.558,79 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.050,50 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 16.58 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Tepebaşı'nda 10 Kasım mevlidi: 650 kadın dualarda buluştu
 
 **Belediye · Tepebaşı** · 2026-11-10 13:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/650kadınataturkvesilaharkadaslarıicindualardabulustu)
@@ -463,23 +483,5 @@ Geleneksel kültürün izlerini, masalsı figürleri ve mitolojik öğeleri ça�
 Farklı toplumların yaşam biçimlerinden, geleneklerinden ve inançlarından beslenen eserler, özgün renkleri ve düşsel anlatımlarıyla dikkat çekiyor. Geleneksel kültür ile çağdaş sanat arasında köprü kuran sergi, ziyaretçileri sanatçının zengin hayal dünyasında yolculuğa çıkarıyor.
 
 "60 Yılda Serpil Akyıl" sergisi, 6 Aralık 2026 tarihine kadar Sanat Sokağı Geçici Sergi Salonu’nda ziyaretçilerini ağırlamaya devam edecek.
-
----
-
-## Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de sona erdi
-
-**Kültür-Sanat · Merkez** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.qha.com.tr/amp/diaspora/kirim-tatar-akademik-is-birligi-calistayi-sonuc-bildirileri-ile-sona-erdi-537491)
-
-![](data/images/3fb45103981552c2.jpg)
-
-> Eskişehir Osmangazi Üniversitesinde düzenlenen Kırım Tatar Akademik İş Birliği Çalıştayı, üç günlük oturumların ardından hazırlanan sonuç bildirileriyle tamamlandı.
-
-Eskişehir Osmangazi Üniversitesinde 6-8 Kasım tarihleri arasında gerçekleştirilen Kırım Tatar Akademik İş Birliği Çalıştayı, Türkiye ve Ukrayna'dan birçok bilim insanını bir araya getirdi. Programın son gününde Kırım Tatar tarihi, kültürü, dili ve edebiyatına yönelik değerlendirmeler yapılarak sonuç bildirileri hazırlandı.
-
-Tarih bildirisini sunan Dr. Hande Gündüz, Kırım Tatar tarihi yazımının Türkiye, Ukrayna ve Rusya merkezli bakış açılarından bağımsız ele alınması gerektiğini vurguladı. Çalıştay kapsamında Kırım Tatar kültürünün korunması ve unsurlarının sisteme dâhil edilmesi için müzik, mutfak ve sanat alanında ortak çalışmalar yapılması önerildi. Kültür grubu temsilcisi İsmail Kurt-Umer, kültür elçilerinin altı ayda bir bir araya gelmesi çağrısında bulundu.
-
-Dil ve edebiyat oturumlarında ise Doç. Dr. Nariye Seydametova, Kırım Tatarcanın kapsamlı bir bilimsel incelemeden geçirilmesi ve standartlaşma alanında uluslararası iş birliği geliştirilmesi gerektiğini kaydetti. Eğitmenlere destek olunması ve ortak dijital kütüphaneler kurulması yönündeki teklifler de katılımcılarla paylaşıldı.
-
-Etkinliğin kapanışında konuşan Ukrayna’nın Ankara Büyükelçisi Nariman Celâl, Kırım Tatarlarının geleceği için ortak fikir üretmenin önemine dikkat çekerek benzer çalıştayların özgür Kırım'da da gerçekleştirileceğini ifade etti. Eskişehir Kırım Derneği Başkanı Recep Şen ise Kırım'ın kültürü ve dili için büyük bir ilgi ve ihtiyaç olduğunu vurguladı.
 
 ---
