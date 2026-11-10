@@ -21,10 +21,10 @@
     "title": "10Kas2026 Eskişehir Teknik Üniversitesinde 10 Kasım Atatürk’ü Anma Programı Düzenlendi Eskişehir Teknik Üniversitesi, Türkiye Cumhuriyeti’nin kurucusu Ulu Önder Gazi Mustafa Kemal Atatürk’ü ebediyete intikalinin 88. yılında düzenlenen…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-10-kasim-ataturku-anma-programi-duzenlendi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
