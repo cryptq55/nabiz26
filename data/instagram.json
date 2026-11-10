@@ -404,7 +404,8 @@
   "202611101331-tepebasinda-10-kasim-mevlidi-650-kadin-dualarda-bulustu",
   "202611101331-odunpazari-belediyesinde-10-kasim-toreni-ataturk-anildi",
   "202611101331-temiz-enerjide-4lu-dev-anlasma-elektrigin-tanapi-avrupa-yolunda",
-  "202611101331-bakan-tekinden-10-kasim-mesaji-fikri-hur-nesiller-yetistirecegiz"
+  "202611101331-bakan-tekinden-10-kasim-mesaji-fikri-hur-nesiller-yetistirecegiz",
+  "202611101358-altin-fiyatlari-10-kasim-2026-gram-altin-6-577-98-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -566,12 +567,10 @@
   "202611091243-altin-fiyatlari-9-kasim-2026-gram-altin-6-672-93-tl",
   "202611091355-5-dogan-avcioglu-odullerinin-kazananlari-aciklandi",
   "202611082254-kirim-tatar-akademik-is-birligi-calistayi-eskisehirde-sona-erdi",
-  "202611101331-eskisehirde-besthoney-projesinin-yayginlastirma-toplantisi-yapildi"
+  "202611101331-eskisehirde-besthoney-projesinin-yayginlastirma-toplantisi-yapildi",
+  "202611101358-altin-fiyatlari-10-kasim-2026-gram-altin-6-577-98-tl"
  ],
  "log": [
-  1794232728.3924165,
-  1794232743.9279,
-  1794232759.4822488,
   1794268420.66712,
   1794268435.5312605,
   1794268449.9369993,
@@ -579,11 +578,13 @@
   1794317680.2039423,
   1794317698.353667,
   1794317714.9346652,
-  1794317732.6570914
+  1794317732.6570914,
+  1794319252.7339463,
+  1794319269.8488398
  ],
  "reel_log": [
-  1794232728.3924189,
   1794268420.6671224,
-  1794317662.6587558
+  1794317662.6587558,
+  1794319252.7339485
  ]
 }
