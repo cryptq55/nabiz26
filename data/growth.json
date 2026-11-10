@@ -46,31 +46,96 @@
    "gun": "2026-11-10",
    "takipci": 132,
    "takip": 0,
-   "paylasim": 253,
-   "erisim_7g": 28959
+   "paylasim": 258,
+   "erisim_7g": 20479
   }
  ],
  "paylasimlar": {
+  "17968129385980488": {
+   "tur": "REELS",
+   "zaman": "2026-11-10T14:00:46+0000",
+   "link": "https://www.instagram.com/reel/DfkEjq1AYEt/",
+   "baslik": "Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL",
+   "begeni": 0,
+   "yorum": 0
+  },
+  "18027735536920170": {
+   "tur": "FEED",
+   "zaman": "2026-11-10T13:34:56+0000",
+   "link": "https://www.instagram.com/p/DfkBoRLlfDK/",
+   "baslik": "Temiz enerjide 4'lü dev anlaşma: Elektriğin TANAP'ı Avrupa yolunda",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 2,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 4
+  },
+  "18096554831173074": {
+   "tur": "FEED",
+   "zaman": "2026-11-10T13:34:37+0000",
+   "link": "https://www.instagram.com/p/DfkBmIOFW7t/",
+   "baslik": "Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 6,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 11
+  },
+  "18599451778069675": {
+   "tur": "REELS",
+   "zaman": "2026-11-10T13:34:15+0000",
+   "link": "https://www.instagram.com/reel/DfkBhUyhrfn/",
+   "baslik": "Eskişehir'de bestHONEY Projesi'nin yaygınlaştırma toplantısı yapıldı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 63,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 72
+  },
+  "18126108184706497": {
+   "tur": "REELS",
+   "zaman": "2026-11-10T13:08:43+0000",
+   "link": "https://www.instagram.com/reel/Dfj-mZaNIAI/",
+   "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 2,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 2
+  },
   "18599308435066664": {
    "tur": "REELS",
    "zaman": "2026-11-10T00:39:14+0000",
    "link": "https://www.instagram.com/reel/DfiozKxBWfs/",
    "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 123,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 127
   },
   "17904319224671752": {
    "tur": "REELS",
    "zaman": "2026-11-09T23:53:34+0000",
    "link": "https://www.instagram.com/reel/DfijmYPOpG2/",
    "baslik": "Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de sona erdi",
-   "begeni": 3,
+   "begeni": 8,
    "yorum": 0,
-   "reach": 37,
+   "reach": 195,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 3,
-   "views": 48
+   "total_interactions": 8,
+   "views": 222
   },
   "18039727922898287": {
    "tur": "REELS",
@@ -79,11 +144,11 @@
    "baslik": "5. Doğan Avcıoğlu Ödülleri'nin kazananları açıklandı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 104,
+   "reach": 106,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 113
+   "views": 115
   },
   "18450892606133790": {
    "tur": "REELS",
@@ -92,11 +157,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 9 Kasım Pazartesi",
    "begeni": 2,
    "yorum": 0,
-   "reach": 126,
+   "reach": 129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 145
+   "views": 148
   },
   "18109335716192570": {
    "tur": "FEED",
@@ -105,11 +170,11 @@
    "baslik": "İletişim Başkanı Duran'dan COP31 ve İklim Diplomasisi Vurgusu",
    "begeni": 0,
    "yorum": 0,
-   "reach": 7,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 13
+   "views": 14
   },
   "18108543905338248": {
    "tur": "REELS",
@@ -118,11 +183,11 @@
    "baslik": "Altın fiyatları 9 Kasım 2026: Gram altın 6.672,93 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 7,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 9
+   "views": 11
   },
   "18111521639616585": {
    "tur": "FEED",
@@ -131,11 +196,11 @@
    "baslik": "Türkiye ve Irak'tan Ortak Açıklama: Sincar'da Süreç Sürüyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 13,
+   "reach": 14,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 18
+   "views": 19
   },
   "18152570224526918": {
    "tur": "FEED",
@@ -144,11 +209,11 @@
    "baslik": "Kılıçdaroğlu'ndan Mekke Anlaşması ve siyasi gelişmeler açıklaması",
    "begeni": 0,
    "yorum": 0,
-   "reach": 15,
+   "reach": 16,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 25
+   "views": 27
   },
   "18135060541780272": {
    "tur": "REELS",
@@ -183,11 +248,11 @@
    "baslik": "Elektrik faturalarında yeni dönem: 3 bin kWh sınırı geliyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 22,
+   "reach": 24,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 42
+   "views": 45
   },
   "18122163478972627": {
    "tur": "FEED",
@@ -196,7 +261,7 @@
    "baslik": "Erdoğan ve Aliyev Şuşa'da görüştü: Birlik ve kardeşlik mesajı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 16,
+   "reach": 17,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
@@ -209,11 +274,11 @@
    "baslik": "Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 14
+   "views": 16
   },
   "18092804804694755": {
    "tur": "REELS",
@@ -222,11 +287,11 @@
    "baslik": "Ataç ve Eczacıbaşı'ndan Eskişehir'in üretim hamlesine ziyaret",
    "begeni": 11,
    "yorum": 0,
-   "reach": 1713,
+   "reach": 1715,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "views": 1912
+   "views": 1915
   },
   "18083850512410900": {
    "tur": "FEED",
@@ -261,11 +326,11 @@
    "baslik": "Robotik Türkiye Platformu kuruldu: Togg da yer aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 16,
+   "reach": 17,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 32
+   "views": 34
   },
   "18172743136479237": {
    "tur": "FEED",
@@ -274,11 +339,11 @@
    "baslik": "Erdoğan ve Trump telefon görüşmesinde ikili ilişkileri ele aldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 25
+   "views": 27
   },
   "18092436251240515": {
    "tur": "REELS",
@@ -313,11 +378,11 @@
    "baslik": "Ekim ayında en çok satılan elektrikli otomobiller belli oldu: Togg zirvede",
    "begeni": 0,
    "yorum": 0,
-   "reach": 14,
+   "reach": 15,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 18
+   "views": 19
   },
   "18417361417083880": {
    "tur": "FEED",
@@ -326,11 +391,11 @@
    "baslik": "Erdoğan'dan Azerbaycan ziyareti açıklaması: 8 Kasım'da gideceğim",
    "begeni": 0,
    "yorum": 0,
-   "reach": 15,
+   "reach": 16,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 28
+   "views": 29
   },
   "18162991099499362": {
    "tur": "REELS",
