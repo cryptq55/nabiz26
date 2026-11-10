@@ -22,11 +22,11 @@
     "title": "Murat Arnik’ten festival tepkisi! - Sakarya Gazetesi",
     "url": "https://www.sakaryagazetesi.com.tr/arnikten-festival-tepkisi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Dede Korkut Parkı Eskişehir",
       "Eskişehir esnaf"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -21,10 +21,10 @@
     "title": "Eskişehirliler dikkat! Yarın bu mahallelerde elektrik olmayacak! - Sakarya Gazetesi",
     "url": "https://www.sakaryagazetesi.com.tr/eskisehirliler-dikkat-yarin-bu-mahallelerde-elektrik-olmayacak"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir sokak"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

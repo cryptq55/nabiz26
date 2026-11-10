@@ -21,11 +21,11 @@
     "title": "Eskişehir Tepebaşı'nda 3 katlı işçi binasındaki yangın söndürüldü, kimse yaralanmadı - Son Dakika",
     "url": "https://www.sondakika.com/amp/haber-eskisehir-tepebasi-nda-3-katli-isci-binasindaki-ya-20409376/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir itfaiye",
       "itfaiye aracı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

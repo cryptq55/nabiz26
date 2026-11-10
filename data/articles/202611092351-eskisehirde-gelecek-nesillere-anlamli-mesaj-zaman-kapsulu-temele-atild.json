@@ -22,11 +22,11 @@
     "title": "Ünlüce, Eskişehir’den geleceğe mesaj bıraktı - Esgazete",
     "url": "https://www.esgazete.com/unluce-eskisehirden-gelecege-mesaj-birakti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kentpark Eskişehir",
       "Eskişehir Büyükşehir Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
