@@ -48,16 +48,54 @@
    "takip": 0,
    "paylasim": 258,
    "erisim_7g": 20479
+  },
+  {
+   "gun": "2026-11-11",
+   "takipci": 135,
+   "takip": 0,
+   "paylasim": 260,
+   "erisim_7g": 21506
   }
  ],
  "paylasimlar": {
+  "18183260944429135": {
+   "tur": "REELS",
+   "zaman": "2026-11-10T22:15:56+0000",
+   "link": "https://www.instagram.com/reel/Dfk9OILgOJY/",
+   "baslik": "🌙 Eskişehir'de bugün · 11 Kasım Çarşamba",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 104,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 148
+  },
+  "18148223497604904": {
+   "tur": "FEED",
+   "zaman": "2026-11-10T21:24:15+0000",
+   "link": "https://www.instagram.com/p/Dfk3VlkmAn_/",
+   "baslik": "Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 5
+  },
   "17968129385980488": {
    "tur": "REELS",
    "zaman": "2026-11-10T14:00:46+0000",
    "link": "https://www.instagram.com/reel/DfkEjq1AYEt/",
    "baslik": "Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 117,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 130
   },
   "18027735536920170": {
    "tur": "FEED",
@@ -66,11 +104,11 @@
    "baslik": "Temiz enerjide 4'lü dev anlaşma: Elektriğin TANAP'ı Avrupa yolunda",
    "begeni": 0,
    "yorum": 0,
-   "reach": 2,
+   "reach": 6,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 4
+   "views": 10
   },
   "18096554831173074": {
    "tur": "FEED",
@@ -79,11 +117,11 @@
    "baslik": "Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 9,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 11
+   "views": 15
   },
   "18599451778069675": {
    "tur": "REELS",
@@ -92,11 +130,11 @@
    "baslik": "Eskişehir'de bestHONEY Projesi'nin yaygınlaştırma toplantısı yapıldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 63,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 72
+   "views": 125
   },
   "18126108184706497": {
    "tur": "REELS",
@@ -105,37 +143,37 @@
    "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 2,
+   "reach": 5,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 2
+   "views": 6
   },
   "18599308435066664": {
    "tur": "REELS",
    "zaman": "2026-11-10T00:39:14+0000",
    "link": "https://www.instagram.com/reel/DfiozKxBWfs/",
    "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
-   "begeni": 0,
+   "begeni": 1,
    "yorum": 0,
-   "reach": 123,
+   "reach": 136,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 127
+   "total_interactions": 1,
+   "views": 143
   },
   "17904319224671752": {
    "tur": "REELS",
    "zaman": "2026-11-09T23:53:34+0000",
    "link": "https://www.instagram.com/reel/DfijmYPOpG2/",
    "baslik": "Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de sona erdi",
-   "begeni": 8,
+   "begeni": 15,
    "yorum": 0,
-   "reach": 195,
+   "reach": 1054,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 8,
-   "views": 222
+   "shares": 2,
+   "total_interactions": 17,
+   "views": 1169
   },
   "18039727922898287": {
    "tur": "REELS",
@@ -144,11 +182,11 @@
    "baslik": "5. Doğan Avcıoğlu Ödülleri'nin kazananları açıklandı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 106,
+   "reach": 107,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 115
+   "views": 117
   },
   "18450892606133790": {
    "tur": "REELS",
@@ -196,11 +234,11 @@
    "baslik": "Türkiye ve Irak'tan Ortak Açıklama: Sincar'da Süreç Sürüyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 14,
+   "reach": 15,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 19
+   "views": 20
   },
   "18152570224526918": {
    "tur": "FEED",
@@ -248,11 +286,11 @@
    "baslik": "Elektrik faturalarında yeni dönem: 3 bin kWh sınırı geliyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 24,
+   "reach": 25,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 45
+   "views": 47
   },
   "18122163478972627": {
    "tur": "FEED",
@@ -274,11 +312,11 @@
    "baslik": "Altın fiyatları 8 Kasım 2026: Gram altın 6.620,93 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 13,
+   "reach": 14,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 16
+   "views": 17
   },
   "18092804804694755": {
    "tur": "REELS",
