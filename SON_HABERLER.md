@@ -2,6 +2,140 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 10 Kasım mevlidi: 650 kadın dualarda buluştu
+
+**Belediye · Tepebaşı** · 2026-11-10 13:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/650kadınataturkvesilaharkadaslarıicindualardabulustu)
+
+![](data/images/4da3d39cdaff2284.jpg)
+
+> Tepebaşı Belediyesi tarafından 10 Kasım Atatürk’ü Anma Günü dolayısıyla düzenlenen mevlide 650 kadın katıldı.
+
+Tepebaşı Belediyesi Sosyal İşler Müdürlüğü, 10 Kasım Atatürk’ü Anma Günü kapsamında Gazi Mustafa Kemal Atatürk, silah arkadaşları ve şehitler için mevlit programı düzenledi. Etkinliğe 650 kadın katıldı.
+
+Kur'an-ı Kerim tilaveti ve okunan mevlidin ardından Atatürk ve vatan uğruna hayatını kaybeden şehitler için toplu dualar edildi. Programda bir konuşma yapan Tepebaşı Belediye Başkanı Ahmet Ataç, Kurtuluş Savaşı'nda cephe gerisinde büyük fedakârlıklar gösteren Anadolu kadınlarının emeklerinin unutulmaz olduğunu belirtti. Cumhuriyet'in kadınlara kazandırdığı haklara dikkat çeken Ataç, bu değerleri korumanın ortak sorumluluk olduğunu vurguladı.
+
+Törene Başkan Ataç'ın yanı sıra Yeni Parti Eskişehir İl Başkanı Talat Yalaz, Tepebaşı İlçe Başkanı Tevfik Yıldırım, belediye başkan yardımcılıkları ve çok sayıda vatandaş katıldı. Program, yapılan duaların ardından sona erdi.
+
+---
+
+## Temiz enerjide 4'lü dev anlaşma: Elektriğin TANAP'ı Avrupa yolunda
+
+**Türkiye · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31966)
+
+![](data/images/05c2135564f63ffa.jpg)
+
+> Türkiye, Azerbaycan, Bulgaristan ve Gürcistan arasında imzalanan anlaşmayla, temiz enerji kaynaklarından üretilen elektriğin Avrupa pazarlarına ulaştırılması hedefleniyor.
+
+Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Türkiye, Azerbaycan, Bulgaristan ve Gürcistan arasında enerji alanında stratejik bir anlaşmaya imza atıldı. Dört ülke arasında temiz enerji sektöründeki iş birliğini güçlendirmeyi amaçlayan "Temiz Enerji Alanında Stratejik Ortaklığa İlişkin Anlaşma", Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Azerbaycan Enerji Bakanı Parviz Şahbazov, Bulgaristan Enerji Bakanı Iva Petrova ve Gürcistan Başbakan Yardımcısı ve Ekonomi ve Sürdürülebilir Kalkınma Bakanı Mariam Kvrivishvili tarafından imzalandı.
+
+Anlaşma; temiz enerji kaynaklarından üretilen elektriğin sınır ötesi iletimi, dağıtımı ve ticaretinin geliştirilmesini, ülkeler arasında güvenli ve kesintisiz enerji akışının sağlanmasını hedefliyor. Proje kapsamında ayrıca fiber optik kablolar üzerinden iletişim ve veri aktarımının geliştirilmesi de öngörülüyor.
+
+İmza töreninin ardından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, projenin önemine dikkat çekerek, "'Elektriğin TANAP'ı' olarak nitelendirdiğimiz bu projeyle, temiz enerji kaynaklarından üretilen elektriğin Azerbaycan-Gürcistan-Türkiye-Bulgaristan güzergâhı üzerinden Avrupa pazarlarına ulaştırılmasını hedefliyoruz" dedi.
+
+Bakan Bayraktar, elektrikleşmenin hız kazandığı bu dönemde atılan adımın ülkeler arasındaki enerji bağlarını güçlendireceğini, temiz enerji ticaretine yeni imkânlar sunacağını ve Avrupa'nın arz güvenliğine katkı sağlayacağını vurguladı.
+
+---
+
+## Odunpazarı Belediyesi'nde 10 Kasım töreni: Atatürk anıldı
+
+**Belediye · Odunpazarı** · 2026-11-10 13:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nde-ata-ya-saygi-durusu)
+
+![](data/images/c3ec47dcb2458e4b.jpg)
+
+> Odunpazarı Belediyesi, Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının 88'inci yıl dönümünde belediye binasında anma töreni düzenledi.
+
+Odunpazarı Belediyesi, Cumhuriyetimizin kurucusu Büyük Önder Gazi Mustafa Kemal Atatürk'ü aramızdan ayrılışının 88'inci yıl dönümünde düzenlenen törenle andı. Belediye hizmet binasının bahçesinde gerçekleştirilen programa belediye meclis üyeleri, başkan yardımcıları, daire müdürleri ve belediye çalışanları katıldı.
+
+Saat 09.05'te çalan sirenler eşliğinde Atatürk büstü önünde saygı duruşunda bulunulurken, ardından İstiklal Marşı okundu. Törende konuşan Odunpazarı Belediye Başkan Yardımcısı Emre Genç, Atatürk'ün fikirlerinin yol göstermeye devam ettiğini belirterek, kamu hizmeti sunan yerel yöneticiler ve çalışanlar olarak aklın ve bilimin ışığında ilerlediklerini ifade etti.
+
+Genç, Atatürk'ün mirasına sahip çıkmanın ve Cumhuriyet kazanımlarını korumanın önemine dikkat çekti. Konuşmanın ardından katılımcılar Atatürk büstüne çiçek bıraktı.
+
+---
+
+## ESTÜ'de 10 Kasım anması: Zeybek ve modern dans gösterisi
+
+**Eğitim · Tepebaşı** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-10-kasim-ataturku-anma-programi-duzenlendi)
+
+> Eskişehir Teknik Üniversitesi'nde düzenlenen 10 Kasım Atatürk'ü Anma Programı, çelenk sunumu ve konferans salonundaki müzik ve dans gösterileriyle gerçekleştirildi.
+
+Eskişehir Teknik Üniversitesi (ESTÜ), Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ü ebediyete intikalinin 88. yılında düzenlenen törenle andı.
+
+Üniversite Atatürk Anıtı önünde gerçekleştirilen programda, Rektör Prof. Dr. Adnan Özcan tarafından anıta çelenk sunuldu. Tören, saygı duruşu ve İstiklal Marşı'nın okunmasıyla devam etti.
+
+Anma etkinlikleri daha sonra ESTÜ Konferans Salonu'nda sürdü. Havacılık ve Uzay Bilimleri Fakültesi öğretim elemanı Öğr. Gör. Füsun Adar ile Spor Bilimleri Fakültesi öğretim elemanı Arş. Gör. Dr. Feridun Fikret Özer'in sunuculuğunu üstlendiği programda, sanat yönetmenliğini Öğr. Gör. Sabriye Tosun Şentürk'ün yaptığı müzik dinletileri sunuldu. Efe Türküsü, 19 Mayıs Marşı ve İleri Marşı'nın seslendirilmesinin ardından sahnelenen zeybek gösterisi ve modern dans performansı katılımcılara duygusal anlar yaşattı.
+
+Program, Atatürk'ün hatırasına gerçekleştirilen etkinliklerin ardından sona erdi.
+
+---
+
+## Eskişehir'de bestHONEY Projesi'nin yaygınlaştırma toplantısı yapıldı
+
+**Tarım · Merkez** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1761/Besthoney-Projesinin-Mesleki-Egitim-Personeline-Yonelik-Yayginlastirma-Toplantisi-Eskisehirde-Gerceklestirildi)
+
+![](data/images/92b4c1eb1c810b39.jpg)
+
+> Eskişehir İl Tarım ve Orman Müdürlüğü koordinatörlüğünde yürütülen Erasmus+ kapsamındaki bestHONEY Projesi'nin mesleki eğitim personeline yönelik yaygınlaştırma toplantısı gerçekleştirildi.
+
+Eskişehir İl Tarım ve Orman Müdürlüğü koordinatörlüğünde; Fransa, İtalya ve İspanya'daki proje ortaklarıyla birlikte yürütülen Erasmus+ Mesleki Eğitim Alanında İş Birliği Ortaklıkları kapsamındaki bestHONEY Projesi'nin yaygınlaştırma toplantısı Eskişehir'de düzenlendi.
+
+Toplantının açılış konuşmasını yapan Eskişehir İl Tarım ve Orman Müdürü Yüksel Çil, projenin sürdürülebilir arıcılığa sağlayacağı katkılara dikkat çekti. Çil, uluslararası ortaklıklarla hazırlanan eğitim materyallerinin Türkiye'nin yanı sıra Avrupa ve dünyadaki meslek gruplarının bilgi birikimine de destek olacağını belirterek, uluslararası iş birliklerinin kurumsal kapasiteyi artırdığını ifade etti.
+
+Programda, İl Müdürlüğü personeli ve proje koordinatörü Veteriner Hekim Dr. Hatice Olcay projenin amacı, uluslararası faaliyetleri ve geliştirilen bilgi ve iletişim teknolojileri tabanlı eğitim materyalleri hakkında katılımcılara sunum yaptı. Sunumda modern teknik arıcılık, arı hastalıkları ve balda mevzuat gereklilikleri başlıklarında hazırlanan içeriklerin Türkçe, İngilizce, Fransızca, İtalyanca ve İspanyolca olmak üzere beş dilde hazırlandığı aktarıldı.
+
+Toplantının devamında İl Müdürlüğü personeli Veteriner Hekim E. Selçuk Özkütük tarafından arı hastalıkları ve tedavisi konusunda mesleki eğitim personeline bilgilendirme yapıldı.
+
+---
+
+## Eskişehir'de 10 Kasım Anma Programı Düzenlendi
+
+**Gündem · Merkez** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-10-kasim-ataturku-anma-programina-katildi)
+
+![](data/images/02e3a377cf4bbe76.jpg)
+
+> Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk, ebediyete irtihalinin 88. yıl dönümünde düzenlenen törenle anıldı.
+
+Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yıl dönümü dolayısıyla Eskişehir'de anma programı gerçekleştirildi.
+
+İl Millî Eğitim Müdürlüğü tarafından düzenlenen program, saygı duruşunda bulunulması ve İstiklal Marşı'nın okunmasıyla başladı. Şehit İsmail Tetik Anadolu Lisesi öğretmen ve öğrencilerinin hazırladığı anlamlı anma etkinlikleri katılımcılara sunuldu.
+
+Tören, Gazi Mustafa Kemal Atatürk'ün saygı, minnet ve özlemle anılmasının ardından çekilen hatıra fotoğrafıyla sona erdi.
+
+---
+
+## Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk
+
+**Siyaset · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-ataturkun-ebediyete-intikalinin-88-yili-anma-toreninde-konustu)
+
+![](data/images/bd2bfdae495116a9.jpg)
+
+> Cumhurbaşkanı Erdoğan, Atatürk'ü anma töreninde yaptığı konuşmada, "Gazi Mustafa Kemal'in 'kimsesizlerin kimsesi' olarak nitelendirdiği Cumhuriyeti yeniden cumhurla buluşturduk" dedi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu'nda düzenlenen Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yılı anma töreninde bir konuşma yaptı.
+
+Konuşmasında Milli Mücadele dönemine ve Cumhuriyet'in kazanımlarına vurgu yapan Erdoğan, "Önceki hafta Cumhuriyet'in 103. kuruluş yıl dönümünün coşkuyla kutladık. Şurası muhakkak ki Cumhuriyet'i korumak, onun asli ve güçlü unsuru olan milletin hafızasını teşkil eden kurumları güçlendirmekle mümkündür. Gazi Mustafa Kemal'in mirasını istismar edenler on yıllar boyunca bu millete tepeden baktı. Biz ise hem Cumhuriyet'in kazanımlarına hem de binlerce yıllık tarihimize sahip çıkarak Gazi Mustafa Kemal'in 'kimsesizlerin kimsesi' olarak nitelendirdiği Cumhuriyeti yeniden cumhurla buluşturduk" ifadelerini kullandı.
+
+Türkiye Yüzyılı hedeflerine doğru emin adımlarla ilerlediklerini belirten Erdoğan, terör meselesini çözüme kavuşturma yolunda önemli mesafe alındığını ve iç cephenin yeni hamlelerle tahkim edildiğini kaydetti.
+
+Törene, devletin zirvesi, kabine üyeleri, yüksek yargı başkanları, Türk Silahlı Kuvvetleri komuta kademesi ve siyasi parti temsilcileri katıldı.
+
+---
+
+## Bakan Tekin'den 10 Kasım Mesajı: Fikri hür nesiller yetiştireceğiz
+
+**Türkiye · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin039den-quot10-kasim-ataturk039u-anma-gunuquot-mesaji/haber/42450/tr)
+
+![](data/images/1b087f9ad21ad717.jpg)
+
+> Milli Eğitim Bakanı Yusuf Tekin, 10 Kasım Atatürk'ü Anma Günü dolayısıyla yayımladığı mesajda, cumhuriyetin geleceğini sınıflarda yetişecek nesillerin bilgi ve irfanıyla ilişkilendirdiklerini belirtti.
+
+Milli Eğitim Bakanı Yusuf Tekin, Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yılı dolayısıyla bir anma mesajı yayımladı.
+
+Atatürk'ü rahmet, saygı ve şükranla andıklarını belirten Bakan Tekin, 10 Kasım'ın milletin tarihi mücadelesini, cumhuriyetin kuruluş iradesini ve gelecek nesillere karşı taşıdıkları sorumluluğu yeniden idrak ettikleri anlamlı bir gün olduğunu kaydetti. Tekin, Atatürk'ün askerî ve siyasi liderliği ile Başöğretmenlik vasfının cumhuriyetin kuruluş ve yükseliş iradesinin birbirini tamamlayan yönleri olduğunu ifade etti.
+
+Eğitime yüklenen tarihi sorumluluğa dikkat çeken Tekin, Atatürk'ün 'Cumhuriyet sizden fikri hür, vicdanı hür, irfanı hür nesiller ister' sözünü hatırlatarak, Türkiye Yüzyılı Maarif Modeli ile öğrencilerin düşünme ve muhakeme becerilerini geliştirmeyi amaçladıklarını bildirdi. Tekin mesajını, cumhuriyetin geleceği için sınıflarda emek veren bütün öğretmenlere ve eğitim camiasına şükranlarını sunarak tamamladı.
+
+---
+
 ## Tepebaşı'nda 3 katlı işçi binasında yangın çıktı
 
 **Asayiş · Tepebaşı** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.sondakika.com/amp/haber-eskisehir-tepebasi-nda-3-katli-isci-binasindaki-ya-20409376/)
@@ -347,129 +481,5 @@ Tarih bildirisini sunan Dr. Hande Gündüz, Kırım Tatar tarihi yazımının T�
 Dil ve edebiyat oturumlarında ise Doç. Dr. Nariye Seydametova, Kırım Tatarcanın kapsamlı bir bilimsel incelemeden geçirilmesi ve standartlaşma alanında uluslararası iş birliği geliştirilmesi gerektiğini kaydetti. Eğitmenlere destek olunması ve ortak dijital kütüphaneler kurulması yönündeki teklifler de katılımcılarla paylaşıldı.
 
 Etkinliğin kapanışında konuşan Ukrayna’nın Ankara Büyükelçisi Nariman Celâl, Kırım Tatarlarının geleceği için ortak fikir üretmenin önemine dikkat çekerek benzer çalıştayların özgür Kırım'da da gerçekleştirileceğini ifade etti. Eskişehir Kırım Derneği Başkanı Recep Şen ise Kırım'ın kültürü ve dili için büyük bir ilgi ve ihtiyaç olduğunu vurguladı.
-
----
-
-## Eskişehir Sanayi Odası'na Filipinler'de büyük ödül
-
-**Ekonomi · Merkez** · 2026-11-08 22:54 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.iha.com.tr/eskisehir-haberleri/eskisehir-sanayi-odasina-dunya-capinda-en-iyi-oda-odulu-513130471)
-
-> Eskişehir Sanayi Odası, yeşil dönüşüm ve verimlilik alanındaki çalışmalarıyla CACCI Ödülleri'nde Büyük Oda Kategorisi'nde dünya birincisi oldu.
-
-Eskişehir Sanayi Odası'nın (ESO) yeşil dönüşüm ve verimlilik çalışmalarındaki başarısı uluslararası alanda taçlandırıldı. Asya-Pasifik Ticaret ve Sanayi Odaları Konfederasyonu (CACCI) Ödülleri'nde Büyük Oda Kategorisi birinciliğine layık görülen ESO, ödülünü Filipinler'de düzenlenen törenle teslim aldı.
-
-Çin, Hindistan, Japonya, Güney Kore ve Avustralya'nın da aralarında bulunduğu 27 ülkeyi kapsayan CACCI bünyesinde kazanılan ödül, odanın üyelerine yönelik yeşil dönüşüm, yalın üretim, dijitalleşme ve verimlilik çalışmalarının başarısını gözler önüne serdi.
-
-Ödüle ilişkin değerlendirmede bulunan ESO Yönetim Kurulu Başkanı Celalettin Kesikbaş, Eskişehir'in üretim gücünü uluslararası platformlarda temsil etmekten gurur duyduklarını belirtti. Kesikbaş, "Bu ödül, fabrikalarımızda başlayan dönüşümün, üretime yansıyan bilginin ve ortak emeğin dünyadaki karşılığıdır" ifadelerini kullandı.
-
-Öte yandan ESO, Model Fabrikası ve Sürdürülebilir Yeşil Sanayi Birimi aracılığıyla son dört yılda 100'den fazla firmaya karbon ayak izi hesaplaması ve sürdürülebilirlik raporlamasında doğrudan destek sağladı. Yeşil Yakalı Akademisi'nde 200'ün üzerinde lider yetiştirilirken, farklı kurumlardan sağlanan 4,5 milyon avronun üzerindeki kaynak üyelerin yeşil ve dijital dönüşümü için kullanıldı.
-
----
-
-## Erdoğan ve Aliyev Şuşa'da görüştü: Birlik ve kardeşlik mesajı
-
-**Siyaset · Türkiye** · 2026-11-08 18:24 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://tr.euronews.com/2026/11/08/cumhurbaskani-erdogan-azerbaycanda-ortak-basin-toplantisinda-birlik-mesaji)
-
-![](data/images/7b8f39a3399e3355.jpg)
-
-> Cumhurbaşkanı Erdoğan, Azerbaycan'ın Zafer Günü kutlamaları için gittiği Karabağ'da Aliyev ile bir araya geldi; iki lider ortak basın toplantısı düzenledi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın 8 Kasım Zafer Günü kutlamalarına katılmak üzere Karabağ'ı ziyaret etti. Ziyaret kapsamında Şuşa'da Azerbaycan Cumhurbaşkânı İlham Aliyev ile görüşen Erdoğan, ardından ortak basın toplantısına katıldı.
-
-Şuşa'daki toplantıda konuşan Cumhurbaşkanı Erdoğan, iki ülke arasındaki ilişkilerin tarihin türlü imtihanlarından geçerek bugünkü seviyeye ulaştığını belirtti. Azerbaycan'ın haklı mücadelesini desteklediklerini vurgulayan Erdoğan, kalıcı barışın tesisine yönelik gayretlerin sürdüğünü ifade etti.
-
-Azerbaycan Cumhurbaşkânı Aliyev ise İkinci Karabağ Savaşı döneminde Türkiye'nin verdiği desteğin unutulmayacağını kaydetti. Aliyev, Şuşa Beyannamesi'nin iki ülke arasındaki müttefiklik ilişkisini resmîleştirdiğini belirterek, birlik ve kardeşliğin sarsılmaz olduğunu dile getirdi.
-
----
-
-## CHP'den Kastamonu'da Emekli Buluşması: 12 Kasım'da Ankara'da Bir Araya Gelinecek
-
-**Siyaset · Türkiye** · 2026-11-08 18:24 UTC · Kaynak: [Google Haberler - CHP](https://www.sondakika.com/guncel/haber-chp-genel-baskan-yardimcilari-kastamonu-da-12-kasi-20407861/)
-
-> CHP Genel Başkan Yardımcıları Demirci ve Saraç, Kastamonu'da emeklilerin ekonomik sorunlarına dikkat çekerek 12 Kasım'da Ankara'da 'Emekliler Buluşuyor' programının düzenleneceğini duyurdu.
-
-CHP STK ve Sendikalardan Sorumlu Genel Başkan Yardımcısı Adnan Demirci ile Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç, CHP Kastamonu İl Başkanlığı'nda parti üyeleri ve basın mensuplarıyla bir araya geldi. Toplantıda Türkiye'nin ekonomik ve sosyal gündemi masaya yatırıldı.
-
-Toplantıda konuşan Adnan Demirci, 12 Kasım'da Ankara'da gerçekleştirilecek "Emekliler Buluşuyor" programını duyurarak ilk buluşmanın ardından bölgesel toplantılarla çalışmaların Türkiye geneline yayılacağını belirtti. Yaklaşık 17 milyon emeklinin bulunduğunu hatırlatan Demirci, geçim sıkıntısı yaşayan emeklilerin önemli bir kısmının yeniden çalışmak zorunda kaldığını ifade etti.
-
-Sosyal Politikalardan Sorumlu Genel Başkan Yardımcısı Necdet Saraç ise Kastamonu'nun göç veren yapısına ve genç işsizliğine dikkat çekti. Kentin giderek bir emekliler kentine dönüştüğünü savunan Saraç, emeklilerin büyük bölümünün açlık sınırının altında yaşam mücadelesi verdiğini söyledi. Saraç, gelir dağılımındaki adaletsizliğin giderilmesi ve kamu kaynaklarının toplum yararına kullanılması gerektiğini vurguladı.
-
-Program kapsamında yerel basının yaşadığı ekonomik zorluklara da değinen Saraç, basının bağımsız olabilmesinin ekonomik özgürlükle doğrudan bağlantılı olduğunu belirtti. Toplantı sonunda CHP'nin ülkenin temel sorunlarına yönelik politikalarını toplumun farklı kesimleriyle birlikte geliştirmeye devam edeceği aktarıldı.
-
----
-
-## Odunpazarı SK'dan üst üste aynı skorla mağlubiyet
-
-**Spor · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazarinda-34-30-kabusu)
-
-> Çamlıca Spor Salonu'nda Üsküdar Belediyesi'ni ağırlayan Odunpazarı SK, ilk yarısını geride kapattığı mücadeleden 34-30 mağlup ayrıldı.
-
-Hentbol liginde mücadele eden Odunpazarı SK, Çamlıca Spor Salonu'nda Üsküdar Belediyesi ile karşı karşıya geldi. Karşılaşmanın ilk devresini 19-15 geride kapatan Eskişehir temsilcisi, ikinci yarıda skoru lehine çevirmek için çaba gösterse de maçın sonunu getiremedi.
-
-Mücadele konuk ekibin 34-30'luk üstünlüğüyle sona erdi. Bu sonuçla Eskişehir ekibi, ligde üst üste oynadığı son üç karşılaşmayı da aynı skorla (34-30) kaybederek puan yarışında yara aldı.
-
-Odunpazarı SK'nın gol dağılımında Andrea Sedloska 8 golle öne çıkarken, Funda Okur ve Hatice Özdemir Ilıca beşer gol kaydetti. Ekipte ayrıca Nur Aleyna Köse 3, Halime Tuana Arslan 2, Seval Bozova, Selen Köklü, Fatma Atalar Işık, Zeynep Nur Kapaklıkaya, Ela Hüzmeli ve Hande Muhcu birer kez fileleri havalandırdı.
-
----
-
-## İletişim Başkanı Duran'dan COP31 ve İklim Diplomasisi Vurgusu
-
-**Türkiye · Türkiye** · 2026-11-08 18:23 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-cop31-ve-turkiyenin-iklim-diplomasisi-vizyonuna-iliskin-aciklama)
-
-![](data/images/9ae1d565ad0860b3.jpg)
-
-> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenecek COP31 zirvesinin Türkiye'nin iklim diplomasisi ve uluslararası etkinliği açısından tarihi bir fırsat olduğunu belirtti.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, sosyal medya hesabı üzerinden yaptığı açıklamada, Türkiye'nin küresel iklim mücadelesinde üstlendiği sorumluluğa ve Antalya'da gerçekleştirilecek COP31 hazırlıklarına değindi. 9-20 Kasım tarihlerinde ev sahipliği ve başkanlık yapılacak zirvenin, Türkiye'nin iklim diplomasisindeki birikimini uluslararası toplumla paylaşması için önemli bir zemin sunduğunu ifade etti.
-
-Zirve kapsamında 11-12 Kasım tarihlerinde düzenlenecek Liderler Zirvesi'nde çok sayıda devlet ve hükûmet başkanının ağırlanacağını belirten Duran, bu buluşmanın Türkiye'nin uluslararası görünürlüğüne ve diplomatik ilişkilerine katkı sağlayacağını aktardı. Ayrıca Emine Erdoğan'ın himayelerinde yürütülen Sıfır Atık Projesi'nin Türkiye'nin çevre konusundaki öncü yaklaşımını temsil ettiğini kaydetti.
-
-Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum'un koordinasyonunda çalışmaların sürdüğünü belirten Duran, zirvenin taahhütlerin sahada karşılık bulduğu somut çözümler etrafında şekillenmesini hedeflediklerini bildirdi. İletişim Başkanlığı olarak yabancı gazetecileri ağırladıklarını ve medya merkezi hazırlıklarını yürüttüklerini ekledi.
-
----
-
-## Eskişehirspor Kadın Futbol Takımı sahasında farklı mağlup oldu
-
-**Spor · Tepebaşı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirspor-kadinlar-evinde-farkli-kaybetti-1-7)
-
-> Kadınlar 2. Lig'in ikinci hafta mücadelesinde Eskişehirspor, konuk ettiği Bursa Soğanlıspor'a 7-1 yenilerek puansız kaldı.
-
-Kadınlar 2. Lig'de mücadele eden Eskişehirspor Kadın Futbol Takımı, sezonun ikinci hafta maçında Bursa Soğanlıspor ile karşı karşıya geldi. Behiç Erkin Spor Kompleksi'nde oynanan karşılaşmada kırmızı-siyahlı ekip, rakibi karşısında beklenen oyunu sahaya yansıtamadı.
-
-Maç boyunca defansif anlamda zorlanan Eskişehir temsilcisi, sahadan 7-1'lik farklı mağlubiyetle ayrıldı. Sezonun ilk haftasını da yenilgiyle kapatan ev sahibi ekip, bu sonuçla ligin geride kalan iki haftasında henüz puanla tanışamadı.
-
-Kırmızı-siyahlı camiada lige yapılan bu talihsiz başlangıç üzüntü yaratırken, teknik heyet ve futbolcular ilerleyen haftalarda toparlanmak için çalışmalarını sürdürecek.
-
----
-
-## Eskişehir'de seyyar tezgahta 45 bıçak ele geçirildi: Polisten tepki
-
-**Asayiş · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/45-tane-bicakla-yakalanan-saticiya-polis-gencler-bunlari-alip-suca-karisiyorlar-uyusturucu-gibi-bir-sey-512922010)
-
-> Odunpazarı ilçesinde seyyar tezgahta bıçak satan şüpheliye zabıta ekiplerince müdahale edildi. Ele geçirilen 45 bıçakla ilgili şahsa para cezası kesilirken, polis memuru 'Bunlar uyuşturucu gibi bir şey' diyerek tepki gösterdi.
-
-Eskişehir'de gerçekleştirilen seyyar denetimlerinde, açık alanda çok sayıda kesici alet satışı yapan bir kişi yakalandı. Alpu ilçesinden gelerek Odunpazarı ilçesi Emek Mahallesi Ertaş Bulvarı'nda seyyar tezgah açan S.Ş., Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı ekiplerinin denetimine takıldı.
-
-Zabıta ekiplerinin yaptığı kontrolde, seyyar tezgahta muhtelif cinslerde toplam 45 adet bıçak satışa sunulduğu belirlendi. Valiliğin 5442 sayılı İl İdaresi Kanunu uyarınca çıkardığı genel emir doğrultusunda, kamusal alanda izinsiz kesici ve delici alet taşınmasını engelleme kararı kapsamında şahsa 1.764 TL idari para cezası uygulandı. Tezgahtaki diğer eşyalarla birlikte bıçaklara el konuldu.
-
-Olay yerine çağrılan polis ekipleri, şüpheliyi karakola götürürken duruma tepki gösterdi. Polis memuru, "Bunları gençler alıyorlar, suça karışıyorlar. Gençleri kötülüyorsun, bu uyuşturucu gibi bir şey. Suça meylettiriyorsunuz yani, küçücük çocuklardan biz bunları alıyoruz" sözleriyle tepkisini dile getirdi.
-
-Zabıta Komiseri İbrahim Ergör, denetimlerin aralıksız sürdüğünü belirterek, "Ertaş Caddesi üzerinde yapılan denetimde seyyar tezgahta muhtelif cins bıçaklara rastlandı. Müsadere edilerek valilik makamının emirleri doğrultusunda gerekli işlemler yapılmak üzere İl Emniyet Müdürlüğü ekiplerine teslim edilmiştir" dedi. Şüpheli, adli işlemler için karakola götürüldü.
-
----
-
-## Eskişehir'de kaçak tombala baskını: Çatıdan kaçmaya çalışan 40 kişiye ceza
-
-**Asayiş · Odunpazarı** · 2026-11-08 18:23 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.iha.com.tr/eskisehir-haberleri/eskisehirde-tombala-oynarken-sucustu-yakalanan-40-kisiye-464-bin-tl-ceza-kesildi-513104042)
-
-> Odunpazarı'nda bir binanın bodrum katında yasadışı tombala oynatıldığı tespit edilen adrese baskın düzenlendi. Çatıdan kaçmaya çalışan 40 kişiye toplam 464 bin TL ceza kesildi.
-
-Eskişehir'de emniyet ekiplerinin düzenlediği operasyonda, yasadışı kumar oynatıldığı belirlenen bir adrese baskın yapıldı. Odunpazarı ilçesindeki bir binanın bodrum katında tombala oynatıldığı ihbarı üzerine harekete geçen ekipler, adrese koordineli bir operasyon gerçekleştirdi.
-
-Eskişehir İl Emniyet Müdürlüğü Asayiş, Narkotik Suçlarla Mücadele ve Göçmen Kaçakçılığıyla Mücadele Şube Müdürlüğü ekiplerinin katıldığı baskında renkli anlar yaşandı. Operasyon sırasında içerideki şahısların çatı katlarından kaçmaya çalıştığı ve oyun delillerini kaçırmak istediği görüldü. Ekiplerin hızlı müdahalesiyle binayı terk etmeye çalışan 40 kişi suçüstü yakalandı.
-
-Adreste yapılan aramalarda çok sayıda masa, sandalye, çekiliş topu ve oyun kartı ele geçirildi. Suçüstü yakalanan 40 kişiye kişi başı 11 bin 604 TL olmak üzere toplam 464 bin 110 TL idari para cezası uygulandı.
-
-Olayla ilgili olarak M.G. ve R.Z. isimli şüpheliler hakkında "kumar oynanması için yer ve imkan temin etmek" suçundan adli işlem başlatıldı. Ayrıca faaliyet yürütülen iş yerinin mühürlenmesi için de resmi işlemlerin başlatıldığı bildirildi.
 
 ---
