@@ -2,6 +2,120 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz, Atatürk Lisesi Eğitim Tarihi Müzesi'ni gezdi
+
+**Eğitim · Merkez** · 2026-11-11 06:41 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-10-kasim-dolayisiyla-ataturk-lisesi-egitim-tarihi-muzesini-ziyaret-etti)
+
+![](data/images/431205f14fe046e3.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, 10 Kasım anma etkinlikleri kapsamında Atatürk Lisesi Eğitim Tarihi Müzesi'ni ziyaret ederek incelemelerde bulundu.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, 10 Kasım Atatürk’ü Anma Günü vesilesiyle Atatürk Lisesi Eğitim Tarihi Müzesi'ni ziyaret etti.
+
+Ziyaret sırasında müzede sergilenen eserleri, tarihî belgeleri, fotoğrafları ve eğitim materyallerini inceleyen Vali Yılmaz, okulun köklü geçmişi ve kentin eğitim tarihi hakkında yetkililerden detaylı bilgi aldı. Kentin eğitim ve kültür mirasının korunarak geleceğe aktarılmasının büyük önem taşıdığını vurguladı.
+
+Vali Yılmaz, müze incelemesinin ardından okulda görev yapan öğretmenlerle bir araya gelerek bir süre sohbet etti.
+
+---
+
+## Tepebaşı'nda asfalt mesaisi: Şeker'den sonra Işıklar ve Mamure'de
+
+**Belediye · Tepebaşı** · 2026-11-11 06:41 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/seker’denısıklarvemamure’yetepebası’ndaasfaltmesaisisuruyor)
+
+![](data/images/b80c0bfa80caccf0.jpg)
+
+> Tepebaşı Belediyesi, ilçe genelindeki üstyapı çalışmaları kapsamında Şeker Mahallesi'nde asfalt yenileme çalışmalarına başladı.
+
+Tepebaşı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelinde ulaşım konforunu artırmak amacıyla yürüttüğü üstyapı çalışmalarına hız kesmeden devam ediyor. Yeni Mahalle'deki çalışmaların tamamlanmasının ardından Şeker Mahallesi'nde de asfalt yenileme uygulamaları hayata geçirildi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, sahaya giderek Şeker Mahallesi'ndeki çalışmaları yerinde inceledi ve ekiplerden bilgi aldı. Mahallelerin ihtiyaçları doğrultusunda hazırlanan program çerçevesinde yıpranan yol yüzeyleri yenilenirken, Şeker Mahallesi'ndeki çalışmaların ardından programın Işıklar ve Mamure mahalleleriyle süreceği bildirildi.
+
+Çalışmaları değerlendiren Başkan Ahmet Ataç, hemşerilerinin günlük yaşamını doğrudan etkileyen yol çalışmalarını mahallelerin ihtiyaçlarına göre planladıklarını belirtti. Ataç, hava ve mevsim koşullarının elverdiği ölçüde asfalt yenileme çalışmalarını sürdüreceklerini, amaçlarının Tepebaşı'nın her mahallesinde güvenli ve konforli bir ulaşım altyapısı oluşturmak olduğunu ifade etti.
+
+Fen İşleri Müdürlüğü ekipleri, belirlenen program dâhilinde ilçe genelinde yol bakım, onarım ve asfalt yenileme çalışmalarını sürdürecek.
+
+---
+
+## MEB AKUB gönüllülerinden COP31'de biyoçeşitlilik mesaisi
+
+**Eğitim · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/meb-akub-gonullulerinden-cop31-kapsaminda-biyolojik-cesitliligin-korunmasina-destek/haber/42461/tr)
+
+![](data/images/807d6436420c9aa9.jpg)
+
+> Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi ile Genç MEB AKUB gönüllüleri, COP31 kapsamında biyoçeşitliliğin korunmasına destek verdi.
+
+Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi (MEB AKUB) ve Genç MEB AKUB gönüllüleri, COP31 etkinlikleri çerçevesinde önemli bir çalışmaya imza attı.
+
+Ekipler, yürüttükleri faaliyetlerle biyoçeşitliliğin korunması ve çevre bilincinin artırılmasına yönelik destek sağladı.
+
+---
+
+## İletişim Başkanı Duran'dan COP31'de küresel iklim adaleti vurgusu
+
+**Türkiye · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-parlamenterler-dusunce-kuruluslarinin-temsilcileri-akademisyenler-ve-arastirmacilarla-bulustu)
+
+![](data/images/94e3da8dedb20556.jpg)
+
+> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'daki COP31 kapsamında düzenlenen etkinlikte parlamenterler ve düşünce kuruluşlarıyla bir araya gelerek iklim krizinde küresel adalet ve somut eylem çağrısı yaptı.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) dolayısıyla düzenlenen yan etkinliklerde; parlamenterler, düşünce kuruluşlarının temsilcileri, akademisyenler ve araştırmacılarla buluştu.
+
+İklim değişikliğinin çevre politikalarının sınırlarını aşarak ekonomik kalkınmadan enerji güvenliğine ve gıda arzına kadar çok geniş bir alanı etkilediğini belirten İletişim Başkanı Duran, bu sorunun tek bir aktörün alacağı tedbirlerle çözülemeyeceğini vurguladı. Türkiye'nin iklim krizine "mış gibi" yaklaşmadığını, somut ve sürdürülebilir çözümler ürettiğini ifade eden Duran, Paris Anlaşması'nın onaylanması, 2053 net sıfır emisyon hedefi, İkinci Ulusal Katkı Beyanı ve İklim Kanunu gibi atılan adımları hatırlattı. Ayrıca Emine Erdoğan'ın öncülüğünde hayata geçirilen Sıfır Atık girişiminin uluslararası boyut kazandığına işaret etti.
+
+Konuşmasında küresel adaletin önemine de parantez açan Duran, sanayileşmiş ülkelerin sorunun çözümünde daha fazla sorumluluk üstlenmesi gerektiğini kaydetti. Gelişmekte olan ülkelerin finansman ve teknolojiye erişiminin kritik olduğunu belirten Duran, göreceli kabiliyetler ilkesi doğrultusunda daha adil ve kapsayıcı politikalar geliştirilmesi gerektiğini dile getirdi.
+
+Düşünce kuruluşlarının karar alma süreçlerine sunduğu katkının altını çizen İletişim Başkanı Duran, bu tür buluşmaların Türkiye'nin iklim politikalarının uluslararası alanda anlaşılmasına ve yeni iş birliklerinin kurulmasına zemin hazırladığını ifade etti.
+
+---
+
+## Eskişehir'de tırın altına giren otomobilin sürücüsü hayatını kaybetti
+
+**Asayiş · Merkez** · 2026-11-11 06:41 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sozcu.com.tr/eskisehirde-tir-surucusu-uyurken-sese-uyandi-korkunc-olum-p380110)
+
+> Eskişehir-Ankara kara yolunda emniyet şeridinde park halindeki tıra arkadan çarpan otomobilin sürücüsü kaza yerinde yaşamını yitirdi.
+
+Eskişehir-Ankara kara yolu Teksan Sanayi Sitesi mevkisinde korkunç bir trafik kazası meydana geldi. Edinilen bilgilere göre, Hakan Çalık idaresindeki 60 AEK 506 plakalı otomobil, emniyet şeridinde park halinde bulunan M.R.K.'ye ait 03 AIU 306 çekici plakalı tıra arkadan çarptı.
+
+Çarpmanın şiddetiyle otomobil tırın dorsesinin altına girerek sıkıştı. Kazayı tırın içinde uyurken duyduğu sesle fark eden tır sürücüsü durumu yetkililere bildirdi. Çevredekilerin ihbarı üzerine olay yerine 112 Acil Sağlık, polis ve itfaiye ekipleri sevk edildi.
+
+Sağlık ekiplerinin yaptığı kontrolde, otomobil sürücüsü Hakan Çalık'ın olay yerinde hayatını kaybettiği belirlendi. Savcılık incelemesinin ardından Çalık'ın cenazesi otopsi işlemleri için Eskişehir Şehir Hastanesi morguna kaldırıldı.
+
+İtfaiye ve vinç çalışmalarının ardından tırın altından çıkarılan otomobil çekiciyle otoparka götürüldü. Polis ekipleri kazayla ilgili soruşturma başlatırken, tır sürücüsü M.R.K. ifadesi alınmak üzere polis merkezine götürüldü.
+
+---
+
+## Bakan Bayraktar: 2040'a kadar 300 milyar dolarlık enerji yatırımı
+
+**Türkiye · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31964)
+
+![](data/images/5e9a01e88abc7088.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, COP31 marjında düzenlenen UEA toplantısında Türkiye'nin Milli Enerji 2040 vizyonunu paylaştı.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'da gerçekleştirilen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Uluslararası Enerji Ajansı (UEA) Enerji Bakanları Toplantısı'na katıldı. Toplantıda konuşan Bakan Bayraktar, enerji arz güvenliğinin artık bir millî güvenlik meselesi haline geldiğini vurguladı.
+
+Geçtiğimiz hafta açıkladıkları 'Milli Enerji 2040' vizyonunun uzun vadeli bir yol haritası sunduğunu belirten Bayraktar, yaklaşık 128 gigavat seviyesindeki kurulu gücü 2040'a kadar 281 gigavata çıkarmayı hedeflediklerini kaydetti. Bu kapasitenin 175 gigavatının güneş ve rüzgâr enerjisinden sağlanacağını ifade eden Bayraktar, yenilenebilir enerjinin payını yüzde 77'ye yükseltmeyi ve 10 gigavatlık nükleer enerji kapasitesini devreye almayı planladıklarını aktardı.
+
+Dönüşüm sürecinde esneklik, depolama ve enterkonnekte şebekelere ihtiyaç duyulduğunu dile getiren Bayraktar, 40 gigavatsaatlik batarya depolama ve 15 gigavatlık sınır ötesi elektrik bağlantı kapasitesinin hedeflendiğini kaydetti. Ayrıca enerji verimliliği adımlarıyla 2040 yılına kadar kümülatif 240 milyar dolarlık tasarruf öngörüldüğünü belirten Bakan Bayraktar, tüm bu dönüşüm için 2040'a kadar yaklaşık 300 milyar dolarlık yatırım ihtiyacı bulunduğunu sözlerine ekledi.
+
+---
+
+## Anadolu Üniversitesi Rektörü Adıgüzel'den Rektör Özcan'a Ziyaret
+
+**Eğitim · Tepebaşı** · 2026-11-11 06:41 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/anadolu-universitesi-rektoru-prof-dr-yusuf-adiguzelden-rektorumuz-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/9b36512d588469b2.jpg)
+
+> Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
+
+Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
+
+ESTÜ Rektörlük Ofisinde gerçekleşen buluşmada Rektör Prof. Dr. Yusuf Adıgüzel, Prof. Dr. Adnan Özcan'ı yeniden atanmasından dolayı tebrik ederek yeni görev döneminde başarı dileklerini iletti.
+
+Ziyaretten duyduğu memnuniyeti ifade eden Rektör Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve iyi dilekleri dolayısıyla Prof. Dr. Yusuf Adıgüzel'e teşekkür etti.
+
+---
+
 ## Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği
 
 **Türkiye · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31968)
@@ -369,115 +483,5 @@ Odunpazarı Belediye Başkanı Kazım Kurt, Türkiye Cumhuriyeti'nin kurucusu Ga
 Atatürk'ün aklı ve bilimi rehber edinen çağdaş, demokratik ve özgür bir toplumun temellerini attığını belirten Kurt, mesajında Cumhuriyet'in önemine dikkat çekti. Başkan Kurt, "En büyük eseri olan Cumhuriyet, halkın kendi geleceğine sahip çıkmasının, eşit yurttaşlığın ve özgür bir yaşamın güvencesidir" ifadelerini kullandı.
 
 Bugün düşen en büyük görevin Atatürk'ün ilke ve devrimlerine sahip çıkmak olduğunu ifade eden Kurt, Cumhuriyet'in demokrasi, hukuk ve laiklik temelinde güçlendirilmesi gerektiğinin altını çizdi. Kurt, açıklamasında Atatürk'ü, silah arkadaşlarını ve tüm bağımsızlık kahramanlarını saygı, rahmet ve minnetle andığını kaydetti.
-
----
-
-## Antalya'daki COP31'de Türkiye İklim Okulu kapılarını açtı
-
-**Türkiye · Türkiye** · 2026-11-09 23:51 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye-iklim-okuluquot-cop31039de-kapilarini-acti/haber/42445/tr)
-
-![](data/images/ecc78e2411cd7dfe.jpg)
-
-> Millî Eğitim Bakanlığınca COP31 kapsamında kurulan Türkiye İklim Okulu, ilk gününde ziyaretçilerine atölye ve panellerle kapılarını açtı.
-
-Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 kapsamında, Millî Eğitim Bakanlığı tarafından hayata geçirilen "Türkiye İklim Okulu" ilk gününde ziyaretçi akınına uğradı. Yeşil Bölge'de kurulan okul; öğrenci, öğretmen, akademisyen ve uzmanları bir araya getirdi.
-
-"Yaşayan bir okul" anlayışıyla tasarlanan alanda teknoloji, yaşayan okul ve iklim deneyimi alanları yer aldı. Gün boyunca düzenlenen atölye çalışmalarında katılımcılar; "Atığa Yeni Hayat Ver", "Doğayla Üretiyorum ve Tohum Topu Yapımı" ile "İklim Dostu Şehrimi Tasarlıyorum" gibi etkinliklerde geri dönüşüm ve sürdürülebilir yaşam becerilerini deneyimledi. Çocuklar, tasarladıkları çevre dostu şehir modelleriyle iklim sorunlarına yönelik çözüm önerileri geliştirdi.
-
-Okul bünyesinde kurulan Sıfır Atık Kütüphanesi, teraryum ve muz lifi dokuma atölyeleri de büyük ilgi gördü. Ayrıca ilk gün gerçekleştirilen konferans ve panellerde, uydu teknolojileriyle su kaynaklarının izlenmesi, geleceğin yeşil meslekleri ve eğitimcilerin toplumsal dönüşümdeki rolü ele alındı.
-
-Türkiye İklim Okulu, COP31 boyunca farklı kurum ve kuruluşların katkılarıyla söyleşi, proje sunumları ve uygulamalı atölye çalışmalarına ev sahipliği yapmaya devam edecek.
-
----
-
-## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da başlıyor
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-09 13:55 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-siir-bulusmasi-13-sair-3-gun-boyunca-sanatseverlerle-bir-araya-gelecek-2a5ff9d9)
-
-> Tepebaşı Belediyesi tarafından bu yıl 14'üncüsü düzenlenecek Uluslararası Eskişehir Şiir Buluşmaları, Türkiye'den ve dünyadan 13 şairi Eskişehirlilerle buluşturacak.
-
-Tepebaşı Belediyesi'nin ev sahipliğinde gerçekleştirilecek 14. Uluslararası Eskişehir Şiir Buluşmaları, 13-15 Kasım tarihlerinde edebiyatseverleri bir araya getirecek. Etkinliğe Türkiye'den 11, Mısır ve Fransa'dan birer şair katılırken, bu yılın onur konuğu ise İlhan Sami Çomak olacak. Haydar Ergülen'in direktörlüğünü üstlendiği organizasyonda şiir okumaları, paneller ve söyleşiler düzenlenecek.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, Yunus Emre'nin doğduğu topraklarda şiirin evrensel dilini paylaşmaktan onur duyduklarını belirtti. 2011 yılından bu yana 35 ülkeden 352 şairi kentte ağırladıklarını hatırlatan Ataç, tüm vatandaşları 13-15 Kasım tarihlerinde düzenlenecek etkinliklere davet etti.
-
-Özdilek Sanat Merkezi'nde gerçekleştirilecek buluşma, İlhan Sami Çomak'ın imza töreni ve açılış programıyla başlayacak. Üç gün sürecek etkinlikler kapsamında "Dünyadan Sesler" paneli, şiir ve öykü söyleşileri, müzik dinletileri, Ahmet Telli belgesel gösterimi ile şairlerin el yazılarından oluşan özel sergiler sanatseverlerin beğenisine sunulacak.
-
----
-
-## MEB'den 'Geleceğe Sözümüz Var' temalı ÖğretmenİZ dergisi COP31 özel sayısı
-
-**Eğitim · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotogretmenizquot-dergisinin-quotcop31quot-ozel-sayisi-yayimlandi/haber/42433/tr)
-
-![](data/images/fecf54cdb1eac560.jpg)
-
-> Millî Eğitim Bakanlığı, Türkiye'nin ev sahipliğinde düzenlenen COP31 kapsamında 'Geleceğe Sözümüz Var' temalı ÖğretmenİZ dergisinin özel sayısını yayımladı.
-
-Millî Eğitim Bakanlığında görev yapan öğretmenlerin kültürel, sanatsal ve entelektüel çalışmalarını paylaşmak, eğitimde iyi uygulamaları yaygınlaştırmak ve mesleki gelişimlerini desteklemek amacıyla hazırlanan ÖğretmenİZ dergisinin COP31 özel sayısı okurlarla buluştu.
-
-Türkiye'nin ev sahipliğinde 9-20 Kasım 2026 tarihlerinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında hazırlanan dergi, Türkçe ve İngilizce olarak yayımlandı. Özel sayı, konferansın Yeşil Bölgesi'nde yer alan Türkiye İklim Okulunda ziyaretçilere de sunulacak.
-
-"Geleceğe Sözümüz Var" temasıyla hazırlanan özel sayıda, iklim değişikliğiyle mücadelede eğitimin rolü, çevre bilinci, iklim okuryazarlığı, yeşil beceriler ve sürdürülebilirlik konuları ele alındı. Dergide ayrıca Bolkar Dağları, Diyarbakır'daki Hevsel Bahçeleri ve Rize yaylalarını konu alan gezi yazılarının yanı sıra öğretmenlerin doğa ve çevre temalı şiir, anı ve öykülerine yer verildi.
-
-Farklı illerde görev yapan öğretmenlerin çevre eğitimi alanındaki iyi uygulama örneklerinin paylaşıldığı dergide; atıkların geri dönüştürülmesi, güneş enerjisinden yararlanılması ve öğrencilerde çevre bilincinin geliştirilmesine yönelik çalışmalar da aktarıldı.
-
----
-
-## İletişim Başkanı Duran'dan Aliağa'daki fabrika kazası açıklaması
-
-**Türkiye · Türkiye** · 2026-11-09 13:55 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-aliagadaki-fabrika-kazasina-iliskin-aciklama)
-
-![](data/images/3775a6d38b6c85c8.jpg)
-
-> İletişim Başkanı Burhanettin Duran, İzmir Aliağa'daki demir çelik fabrikasında meydana gelen kazada hayatını kaybedenler için başsağlığı diledi.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, İzmir'in Aliağa ilçesindeki bir demir çelik fabrikasında gerçekleşen kazaya ilişkin sosyal medya hesabından açıklama yaptı.
-
-Yaşanan olaydan duyduğu derin üzüntüyü dile getiren Duran, kazada hayatını kaybeden vatandaşlara Allah'tan rahmet, ailelerine başsağlığı ve yaralılara acil şifalar diledi. İlgili kurumların bölgedeki arama kurtarma ve müdahale çalışmalarını titizlikle sürdürdüğünü vurgulayan Duran, milletin her türlü kazadan ve felaketten korunması temennisinde bulundu.
-
----
-
-## Eskişehirspor'un rakibinde flaş ayrılık: Namağlup liderlik yetmedi
-
-**Spor · Merkez** · 2026-11-09 13:55 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/eskisehirsporun-grubunda-flas-ayrilik-liderlik-bile-kurtarmadi)
-
-> Eskişehirspor'un mücadele ettiği grupta yer alan Gemlik Sümerbey FSK, sezon başından beri yenilgi yüzü görmeyen teknik direktör İsmail Güldüren ile yollarını ayırdı.
-
-Eskişehirspor'un da aralarında bulunduğu grupta şampiyonluk mücadelesi veren Gemlik Sümerbey FSK'da sürpriz bir teknik direktör ayrılığı yaşandı. Sezon başından bu yana takımı çalıştıran ve namağlup unvanını koruyan İsmail Güldüren ile karşılıklı anlaşarak yollar ayrıldı.
-
-Kulüp yönetiminden yapılan açıklamada, ayrılığın temel nedeninin gelecek planlaması ve vizyon farklılıkları olduğu belirtildi. Açıklamada, "Yönetim Kurulumuz ile Sayın Güldüren arasında, kulübümüzün orta ve uzun vadeli hedefleri ile gelecek planlamaları üzerine yapılan istişareler neticesinde ortaya çıkan vizyon farklılıkları, her iki tarafın ortak menfaatleri doğrultusunda bu ayrılığı zaruri kılmıştır" denildi.
-
-Takımın sahadaki başarılı sonuçlarına karşın alınan bu karar spor camiasında şaşkınlık yaratırken, yönetim kulübe katkılarından dolayı Güldüren'e teşekkür etti. Gemlik Sümerbey FSK'da yeni teknik direktörün kim olacağı ise henüz açıklanmadı.
-
----
-
-## Eskişehir'de tarım arazilerinin korunması ve mevzuat masaya yatırıldı
-
-**Tarım · Merkez** · 2026-11-09 13:55 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1760/Toprak-Koruma-Ve-Arazi-Kullanimina-Iliskin-Mevzuat-Kapsaminda-Personel-Toplantisi-Gerceklestirildi)
-
-> Eskişehir İl Tarım ve Orman Müdürlüğü tarafından düzenlenen toplantıda, 5403 ve 3083 sayılı kanunlar kapsamında yürütülen arazi yönetimi ve mevzuat uygulamaları ele alındı.
-
-Eskişehir İl Tarım ve Orman Müdürlüğü Tarımsal Altyapı ve Arazi Değerlendirme Şube Müdürlüğü öncülüğünde, arazi kullanımı ve toprak koruma süreçlerine yönelik değerlendirme toplantısı yapıldı.
-
-İl Müdürlüğü Kütahya Yolu Yerleşkesi'nde gerçekleştirilen toplantıya İl Tarım ve Orman Müdürü Yüksel Çil, Şube Müdürü Nizamettin Çetiner ile il ve ilçe müdürlüklerinde görevli personel katılım sağladı.
-
-Toplantı boyunca tarım arazilerinin korunması ve verimli kullanılması amacıyla miras yoluyla intikal, arazi devirleri, ifraz, vasıf değişikliği ve yabancıların arazi edinimi gibi başlıklar masaya yatırıldı.
-
-Yetkililer, uygulamada karşılaşılan durumları değerlendirerek mevzuatın etkin uygulanması ve birliğin sağlanması adına kurum içi koordinasyonun önemine dikkat çekti.
-
----
-
-## Başkan Ataç'tan 10 Kasım Mesajı: Cumhuriyet'e Sahip Çıkmalıyız
-
-**Gündem · Tepebaşı** · 2026-11-09 13:55 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacataturk’ebaglılıkcumhuriyetdegerlerinesahipcıkmaktır)
-
-![](data/images/217e43aabad4a168.jpg)
-
-> Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Atatürk'ü anma mesajında Cumhuriyet değerlerini yaşatmanın önemine vurgu yaptı.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının yıl dönümü vesilesiyle bir anma mesajı yayımladı.
-
-Mesajında Atatürk'e bağlılık ve saygının, emanet edilen Cumhuriyet'in değerlerini yaşatmak, aklı ve bilimi rehber edinmekle anlam kazandığını belirten Ataç, farklılıklarla bir arada, ortak gelecek için omuz omuza durmanın önemine dikkat çekti.
-
-Ataç açıklamasında, Atatürk'ün gösterdiği çağdaş uygarlık hedefi doğrultusunda çalışmayı sürdüreceklerini ifade ederek, silah arkadaşlarını ve Cumhuriyet'in kuruluşunda emeği geçenleri saygı ve rahmetle andı.
 
 ---
