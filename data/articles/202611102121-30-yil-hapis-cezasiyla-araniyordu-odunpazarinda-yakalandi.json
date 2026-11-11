@@ -21,10 +21,10 @@
     "title": "30 yıl hapisle aranıyordu, Eskişehir’de yakalandı - Hürriyet",
     "url": "https://www.hurriyet.com.tr/gundem/30-yil-hapisle-araniyordu-eskisehirde-yakalandi-43373493"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Jandarma Komutanlığı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

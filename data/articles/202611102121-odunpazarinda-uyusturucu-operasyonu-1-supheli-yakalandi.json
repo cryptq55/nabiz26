@@ -21,10 +21,10 @@
     "title": "Eskişehir Odunpazarı'nda 310 gram esrar bulundu, 1 şüpheli gözaltına alındı - Son Dakika",
     "url": "https://www.sondakika.com/amp/haber-eskisehir-odunpazari-nda-310-gram-esrar-bulundu-1--20414439/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir İl Jandarma Komutanlığı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
