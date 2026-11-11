@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL
+
+**Ekonomi · Merkez** · 2026-11-11 12:42 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261111.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.493,78 TL'den alınıyor, 6.563,88 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.42 itibarıyla verilerine göre gram altının satış fiyatı 6.563,88 TL, alış fiyatı 6.493,78 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,29 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.698 TL, yarım altın 21.390 TL, tam altın 42.623 TL, ata altın 43.762 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 6.131,59 TL, has altının gram fiyatı 6.544,25 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 4.042,90 dolardan işlem görürken, dolar/TL 50,28 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.42 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Vali Yılmaz, Atatürk Lisesi Eğitim Tarihi Müzesi'ni gezdi
 
 **Eğitim · Merkez** · 2026-11-11 06:41 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-10-kasim-dolayisiyla-ataturk-lisesi-egitim-tarihi-muzesini-ziyaret-etti)
@@ -467,21 +487,5 @@ Törene Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin yanı sı
 Tören öncesinde konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, zaman kapsülü fikrinin İklim Çalışma Grubu'ndan çıktığını belirterek, geleceğin yöneticilerine, gençlere ve ailesine özel mektuplar hazırladığını ifade etti. Ünlüce, "Onlarca yıl, belki de asırlar sonra gelecek kuşaklar bunları bulup okursa 2026 yılının Eskişehir’inde İklim Çalışma Grubu’nun gelecekten ne dilediğini görsünler istedik. Atalarımız bizim için çalışmış diyebilsinler diye bu hayalle bırakıyoruz" dedi.
 
 İklim Adası projesinin bir kütüphane düşüncesiyle başlayıp zamanla genişlediğini anlatan Ünlüce, Eskişehir'i iklim değişikliğiyle mücadelenin ulusal ve uluslararası merkezlerinden biri yapmayı hedeflediklerini vurguladı. Konuşmaların ardından hazırlanan kapsül, katılımcıların eşliğinde Ekolojik Çocuk Evi'nin temeline atıldı.
-
----
-
-## Başkan Kurt'tan 10 Kasım Mesajı: Cumhuriyet'i Yaşatmak Sorumluluğumuzdur
-
-**Gündem · Odunpazarı** · 2026-11-09 23:51 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/kurt-ataturk-un-en-buyuk-eseri-cumhuriyeti-yasatmak-gelecege-tasimak-hepimizi)
-
-![](data/images/7a350444be3a7695.jpg)
-
-> Odunpazarı Belediye Başkanı Kazım Kurt, Atatürk'ün en büyük eseri olan Cumhuriyet'i korumanın ve gelecek kuşaklara aktarmanın tarihsel bir sorumluluk olduğunu vurguladı.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının 88'inci yıl dönümü dolayısıyla bir anma mesajı yayımladı.
-
-Atatürk'ün aklı ve bilimi rehber edinen çağdaş, demokratik ve özgür bir toplumun temellerini attığını belirten Kurt, mesajında Cumhuriyet'in önemine dikkat çekti. Başkan Kurt, "En büyük eseri olan Cumhuriyet, halkın kendi geleceğine sahip çıkmasının, eşit yurttaşlığın ve özgür bir yaşamın güvencesidir" ifadelerini kullandı.
-
-Bugün düşen en büyük görevin Atatürk'ün ilke ve devrimlerine sahip çıkmak olduğunu ifade eden Kurt, Cumhuriyet'in demokrasi, hukuk ve laiklik temelinde güçlendirilmesi gerektiğinin altını çizdi. Kurt, açıklamasında Atatürk'ü, silah arkadaşlarını ve tüm bağımsızlık kahramanlarını saygı, rahmet ve minnetle andığını kaydetti.
 
 ---
