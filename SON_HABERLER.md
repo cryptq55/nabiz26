@@ -2,6 +2,132 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da Başlıyor
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/siirbulusmasındagerisayımbasladı)
+
+![](data/images/b2c350da5b11c3e1.jpg)
+
+> Tepebaşı Belediyesi tarafından bu yıl 14'üncüsü düzenlenen Uluslararası Eskişehir Şiir Buluşmaları, 13-15 Kasım tarihleri arasında edebiyatseverleri Özdilek Sanat Merkezi'nde bir araya getirecek.
+
+Tepebaşı Belediyesi'nin geleneksel hale getirdiği ve bu yıl 14'üncüsü gerçekleştirilecek olan Uluslararası Eskişehir Şiir Buluşmaları için geri sayım tamamlandı. Türkiye'den 11 ile Mısır ve Fransa'dan iki şairin katılımıyla düzenlenecek üç günlük etkinlik, 13-15 Kasım tarihlerinde Özdilek Sanat Merkezi'nde yapılacak. Bu yıl ilk kez Mısır'dan bir şairin konuk olacağı buluşmanın onur konuğunu ise Türk şiirinin önemli isimlerinden İlhan Sami Çomak üstlenecek.
+
+Festival direktörlüğünü Haydar Ergülen'in yürüttüğü organizasyonda Ahmad Zakaria, Sylvain Cavaillès, Begüm Şahbudak, Gülşah Demirci, Bülent Kenan Kocatürk, Efnan Ezenel, Rahmi Emeç, Erol Büyükmeriç, Yakup Kuyucu, Mahir Karayazı, Gürcan Banger ve Ömer Asaf Tosun gibi isimler yer alacak. Üç gün boyunca şiir okumalarının yanı sıra "Dünyadan Sesler" ve İlhan Sami Çomak panelleri, "Şiir ile Öykü" söyleşisi, müzik dinletileri, Ahmet Telli belgesel gösterimi ve anma etkinlikleri gerçekleştirilecek.
+
+Etkinlik kapsamında ayrıca Özdilek Sanat Merkezi'nde şairlerin kendi el yazılarıyla Tepebaşı Belediyesi Kâğıt Geri Dönüşüm Atölyesi'nde üretilen özel kâğıtlara yazdığı şiirlerden oluşan sergi ile "Geçmişten Günümüze Şiir Buluşmaları Sergisi" sanatseverlerin ziyaretine açılacak. Program çerçevesinde şair ve yazar Erol Büyükmeriç de Melih Savaş Yaşam Köyü kreş öğrencileriyle bir araya gelerek çocuklarla buluşacak.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Yunus Emre'nin doğduğu topraklarda şiirin evrensel dilini paylaşmaktan onur duyduklarını belirterek tüm Eskişehirlileri etkinliğe davet etti. Türkiye Yazarlar Sendikası, PEN ve Kültürlerarası Şiir ve Çeviri Akademisi iş birliğiyle düzenlenen buluşmaların ilk günü, 13 Kasım Cuma saat 17.30'daki imza töreni ve açılış programıyla başlayacak.
+
+---
+
+## Tepebaşı'nda servis minibüsüyle yolcu minibüsü çarpıştı: 8 yaralı
+
+**Asayiş · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberler.com/amp/eskisehir-tepebasi-nda-ogrenci-servisi-ile-yolcu-20417703-haberi/)
+
+> Eskişehir'in Tepebaşı ilçesinde öğrenci servisi ile yolcu minibüsünün çarpışması sonucu sürücüler, servis personeli ve öğrenciler yaralandı.
+
+Eskişehir'in Tepebaşı ilçesinde meydana gelen trafik kazasında, öğrenci servisi ile yolcu minibüsü çarpıştı. Çarpışmanın şiddetiyle her iki araçta bulunan toplam 8 kişi yaralandı.
+
+Edinilen bilgilere göre, A.Ç. yönetimindeki 26 M 0009 plakalı yolcu minibüsü ile M.G. idaresindeki 26 S 1806 plakalı öğrenci servisi, Aşağısöğütönü Mahallesi 1018. Sokak'ta çarpıştı. Kazada minibüs sürücüsü A.Ç. ile araçtaki yolculardan H.M.M., M.U., N.D., C.K., İ.K., öğrenci servisinde görevli personel R.S.I. ve öğrenci A.D. yaralandı.
+
+İhbar üzerine olay yerine hızla polis ve sağlık ekipleri sevk edildi. Sağlık görevlilerinin olay yerindeki ilk müdahalelerinin ardından yaralılar, çevredeki hastanelere kaldırıldı. Tedavi altına alınan yaralıların sağlık durumlarına ilişkin bilgi verilmezken, polisin kazayla ilgili incelemesi sürüyor.
+
+---
+
+## Sivas ve Taşeli GES projeleri için 8 uluslararası kuruluştan imza
+
+**Türkiye · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31970)
+
+![](data/images/4d19c9c98a910951.jpg)
+
+> Antalya'daki COP31 marjında, Suudi şirket ACWA'nın Türkiye'de hayata geçireceği Sivas ve Taşeli güneş enerjisi santrali projeleri için 8 uluslararası finans kuruluşu destek mektubu imzaladı.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Suudi Arabistan Enerji Bakanı Abdulaziz bin Selman Al-Saud’un huzurunda, Sivas ve Taşeli Güneş Enerjisi Santrali (GES) projelerinin finansmanına yönelik destek mektupları imzalandı. Antalya’da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen imza töreninde, toplam 5 bin megavatlık yenilenebilir enerji projesinin ilk aşaması ele alındı.
+
+İmza töreninin ardından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, 2040 yılında rüzgâr ve güneşte 175 bin megavatlık kurulu güce ulaşmayı hedeflediklerini belirtti. Anlaşmanın toplam 5 bin megavatlık paketin 2 bin megavatlık kısmını kapsadığını ifade eden Bakan Bayraktar, projelerin hayata geçirilmesi için 9 uluslararası kuruluşla finansman sağlanacağını kaydetti. Kalan 3 bin megavatlık bölümün ise rüzgâr, güneş ve depolama yatırımlarını içerebileceğini aktardı.
+
+Her biri bin megavat kapasiteye sahip olacak Sivas ve Karaman (Taşeli) güneş enerjisi santrallerinin, toplam 1,6 milyar avroluk yatırımla 2029 yılında faaliyete geçmesi planlanıyor. Projelerin tamamlandığında 1,3 milyon haneye elektrik sağlaması ve yılda yaklaşık 1,65 milyon ton karbondioksit emisyonunu önlemesi öngörülüyor.
+
+---
+
+## Eskişehirspor derbisinde saat değişikliği: Anadolu SF maçı ne zaman?
+
+**Spor · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-maci-bugun-anadolu-sf-eskisehirspor-maci-saat-kacta-hangi-kanalda-2449010)
+
+![](data/images/87753aa37ad1b9fa.jpg)
+
+> Nesine 3. Lig 2. Grup'ta zirve yarışını yakından ilgilendiren Eskişehir derbisinin saati değiştirildi. ESOGÜ Stadyumu'ndaki karşılaşma saat 13.00'te başlayacak.
+
+Nesine 3. Lig 2. Grup'un 11. haftasında Eskişehirspor, bugün Eskişehir Anadolu Spor Faaliyetleri ile karşı karşıya gelecek. Zirve yarışındaki iki takımın mücadelesi öncesinde yapılan son açıklamaya göre, başlangıçta saat 15.00 olarak duyurulan karşılaşma canlı yayın programı nedeniyle iki saat erkene alındı. Mücadele saat 13.00'te başlayacak.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Stadyumu'nda oynanacak derbi, Tivibu Spor ekranlarından canlı olarak yayınlanacak. Karşılaşmanın biletleri 400 TL'den satışa sunulurken, biletler maç günü saat 10.00'dan itibaren stat gişelerinden temin edilebilecek.
+
+Üniversite yönetimi, kampüste devam eden sınavlar nedeniyle taraftarlar için özel ulaşım kuralları uygulayacağını bildirdi. Kampüsteki sınavların aksamaması ve yoğunluğun önlenmesi amacıyla taraftarların ana giriş kapıları yerine Regülatör tarafındaki kapıyı kullanması istendi.
+
+Geride kalan 10 haftada her iki ekip de 21'er puana sahip bulunuyor. 22 puanlı liderin hemen ardından Eskişehirspor averajla ikinci, Anadolu SF ise üçüncü sırada yer alıyor.
+
+---
+
+## Eskişehir'de 15 bin 500 fidan toprakla buluştu
+
+**Gündem · Odunpazarı** · 2026-11-11 18:42 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/11-kasim-milli-agaclandirma-gunu-kapsaminda-eskisehir039de-15-bin-500-fidan-toprakla-bulustu/icerik/8709/tr)
+
+![](data/images/03566ebf692954ff.jpg)
+
+> 11 Kasım Millî Ağaçlandırma Günü kapsamında Eskişehir genelinde 14 farklı noktada 15 bin 500 fidan toprakla buluşturuldu.
+
+Eskişehir'de 11 Kasım Millî Ağaçlandırma Günü, "Geleceğe Nefes, Dünyaya Barış" temasıyla gerçekleştirilen etkinliklerle kutlandı. Odunpazarı ilçesi Gülpınar Mahallesi'ndeki ağaçlandırma sahasında düzenlenen programa Vali Dr. Erdinç Yılmaz, İl Millî Eğitim Müdürü Sinan Aydın, protokol üyeleri, öğretmenler ve öğrenciler katıldı.
+
+Programda konuşan Vali Dr. Erdinç Yılmaz, günün büyük bir yeşil vatan seferberliğine dönüştüğünü belirterek ağacın barış, kardeşlik ve ortak yaşamın sembolü olduğunu ifade etti. Doğayı korumanın gelecek nesillere karşı ortak bir sorumluluk olduğunu vurgulayan Yılmaz, Eskişehir genelinde 2026 yılı sonuna kadar 1 milyon 100 bin fidanın toprakla buluşturulmasının hedeflendiğini kaydetti.
+
+Tören alanındaki 5 hektarlık sahada 8 bin sedir ve muhtelif türde fidan dikimi yapılırken, il genelinde 14 ayrı lokasyonda yaklaşık 12 hektarlık alanda toplam 15 bin 500 fidan dikildi. Etkinlik boyunca vatandaşlara 2 bin fidan dağıtılırken, katılımcılar diktikleri fidanlara ilk can suyunu verdi.
+
+---
+
+## Erdoğan'dan Avustralya Başbakanı Albanese ile kritik COP31 görüşmesi
+
+**Türkiye · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-avustralya-basbakani-albaneseyi-kabulune-iliskin-aciklama-11-11-26)
+
+![](data/images/85089697fe8aae22.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında Avustralya Başbakanı Anthony Albanese'yi kabul etti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi için Antalya'da bulunan Avustralya Başbakanı Anthony Albanese ile bir araya geldi. Basına kapalı gerçekleştirilen kabulde, Türkiye ile Avustralya arasındaki ikili ilişkilerin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
+
+Görüşme sırasında, iki ülke arasındaki mevcut ticaret potansiyelinin daha üst seviyelere taşınabileceği ifade edildi. Cumhurbaşkanı Erdoğan, bu doğrultuda pek çok farklı alanda iş birliği imkanlarının değerlendirilmesinin büyük önem taşıdığını dile getirdi.
+
+Öte yandan Cumhurbaşkanı Erdoğan, COP31 zirvesinde Türkiye ve Avustralya'nın ortak bir sorumluluk üstlendiğine dikkati çekerek, zirveye sundukları katkılardan dolayı Avustralya Başbakanı Albanese'ye teşekkürlerini iletti.
+
+---
+
+## Albayrak'tan Odunpazarı tepkisi: Mağdur edebiyatının miadı doldu
+
+**Siyaset · Odunpazarı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.saraymedya.com/haber/albayrak-odunpazari-nda-magdur-edebiyatinin-miadi-doldu_323159/)
+
+> AK Parti İl Başkanı Gürhan Albayrak, Emek ve 71 Evler mahallelerinde vatandaşlarla buluşarak Odunpazarı'ndaki yerel yönetim anlayışını eleştirdi.
+
+AK Parti Eskişehir İl Başkanı Gürhan Albayrak, Odunpazarı İlçe Başkanı Mustafa Kemal Bandırma ile birlikte Emek ve 71 Evler mahallelerini ziyaret ederek vatandaşların talep ve sorunlarını dinledi. Ziyaretler sırasında yaptığı değerlendirmelerde yerel yönetimi eleştiren Albayrak, Odunpazarı'nda mazeret siyaseti yürütüldüğünü savundu.
+
+Siyasetlerinin temelinin vatandaşla kurulan gönül bağına dayandığını belirten Albayrak, birlikteliklerinin seçimden seçime olmadığını ifade etti. Sosyal medyada yer alan bazı tepkilere de değinen Albayrak, hizmet eksikliklerinin vatandaşlarca dile getirildiğini öne sürdü.
+
+Odunpazarı'ndaki yerel yönetimin hizmet üretmek yerine mazeret ürettiğini iddia eden Albayrak, "Odunpazarı’nda mağdur edebiyatı yapan yerel yönetim zihniyetinin miadı doldu. Vatandaşlarımız yerel yönetimden umudunu tamamen kesmiş durumda" dedi.
+
+---
+
+## 81 ilden gençlerin çevre mesajları interaktif haritada yer aldı
+
+**Eğitim · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quot81-ilden-81-genc-iklim-delegesiquotnin-cevreye-dair-mesajlari-quotetkilesimli-turkiye-haritasiquotnda/haber/42480/tr)
+
+![](data/images/7b38b5a3685e7714.jpg)
+
+> Millî Eğitim Bakanlığınca COP31 kapsamında hayata geçirilen projede, 81 ilden genç iklim delegesinin çevreye dair mesajları etkileşimli Türkiye haritasında toplandı.
+
+Millî Eğitim Bakanlığı tarafından COP31 çalışmaları çerçevesinde yürütülen "81 İlden 81 Genç İklim Delegesi" projesinde önemli bir aşamaya ulaşıldı. Projede görev alan gençlerin çevre bilinci ve iklim değişikliğine yönelik görüşleri, hazırlanan interaktif Türkiye haritası üzerinden erişime açıldı.
+
+Gençlerin doğanın korunması, sürdürülebilirlik ve iklim kriziyle mücadele konularındaki düşüncelerini paylaştığı harita, projenin etki alanını genişletmeyi hedefliyor.
+
+---
+
 ## Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL
 
 **Ekonomi · Merkez** · 2026-11-11 12:42 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -365,127 +491,5 @@ Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Gazi Mustafa Kemal Atatürk'ün
 İl Millî Eğitim Müdürlüğü tarafından düzenlenen program, saygı duruşunda bulunulması ve İstiklal Marşı'nın okunmasıyla başladı. Şehit İsmail Tetik Anadolu Lisesi öğretmen ve öğrencilerinin hazırladığı anlamlı anma etkinlikleri katılımcılara sunuldu.
 
 Tören, Gazi Mustafa Kemal Atatürk'ün saygı, minnet ve özlemle anılmasının ardından çekilen hatıra fotoğrafıyla sona erdi.
-
----
-
-## Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk
-
-**Siyaset · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-ataturkun-ebediyete-intikalinin-88-yili-anma-toreninde-konustu)
-
-![](data/images/bd2bfdae495116a9.jpg)
-
-> Cumhurbaşkanı Erdoğan, Atatürk'ü anma töreninde yaptığı konuşmada, "Gazi Mustafa Kemal'in 'kimsesizlerin kimsesi' olarak nitelendirdiği Cumhuriyeti yeniden cumhurla buluşturduk" dedi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Atatürk Kültür, Dil ve Tarih Yüksek Kurumu'nda düzenlenen Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yılı anma töreninde bir konuşma yaptı.
-
-Konuşmasında Milli Mücadele dönemine ve Cumhuriyet'in kazanımlarına vurgu yapan Erdoğan, "Önceki hafta Cumhuriyet'in 103. kuruluş yıl dönümünün coşkuyla kutladık. Şurası muhakkak ki Cumhuriyet'i korumak, onun asli ve güçlü unsuru olan milletin hafızasını teşkil eden kurumları güçlendirmekle mümkündür. Gazi Mustafa Kemal'in mirasını istismar edenler on yıllar boyunca bu millete tepeden baktı. Biz ise hem Cumhuriyet'in kazanımlarına hem de binlerce yıllık tarihimize sahip çıkarak Gazi Mustafa Kemal'in 'kimsesizlerin kimsesi' olarak nitelendirdiği Cumhuriyeti yeniden cumhurla buluşturduk" ifadelerini kullandı.
-
-Türkiye Yüzyılı hedeflerine doğru emin adımlarla ilerlediklerini belirten Erdoğan, terör meselesini çözüme kavuşturma yolunda önemli mesafe alındığını ve iç cephenin yeni hamlelerle tahkim edildiğini kaydetti.
-
-Törene, devletin zirvesi, kabine üyeleri, yüksek yargı başkanları, Türk Silahlı Kuvvetleri komuta kademesi ve siyasi parti temsilcileri katıldı.
-
----
-
-## Bakan Tekin'den 10 Kasım Mesajı: Fikri hür nesiller yetiştireceğiz
-
-**Türkiye · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin039den-quot10-kasim-ataturk039u-anma-gunuquot-mesaji/haber/42450/tr)
-
-![](data/images/1b087f9ad21ad717.jpg)
-
-> Milli Eğitim Bakanı Yusuf Tekin, 10 Kasım Atatürk'ü Anma Günü dolayısıyla yayımladığı mesajda, cumhuriyetin geleceğini sınıflarda yetişecek nesillerin bilgi ve irfanıyla ilişkilendirdiklerini belirtti.
-
-Milli Eğitim Bakanı Yusuf Tekin, Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yılı dolayısıyla bir anma mesajı yayımladı.
-
-Atatürk'ü rahmet, saygı ve şükranla andıklarını belirten Bakan Tekin, 10 Kasım'ın milletin tarihi mücadelesini, cumhuriyetin kuruluş iradesini ve gelecek nesillere karşı taşıdıkları sorumluluğu yeniden idrak ettikleri anlamlı bir gün olduğunu kaydetti. Tekin, Atatürk'ün askerî ve siyasi liderliği ile Başöğretmenlik vasfının cumhuriyetin kuruluş ve yükseliş iradesinin birbirini tamamlayan yönleri olduğunu ifade etti.
-
-Eğitime yüklenen tarihi sorumluluğa dikkat çeken Tekin, Atatürk'ün 'Cumhuriyet sizden fikri hür, vicdanı hür, irfanı hür nesiller ister' sözünü hatırlatarak, Türkiye Yüzyılı Maarif Modeli ile öğrencilerin düşünme ve muhakeme becerilerini geliştirmeyi amaçladıklarını bildirdi. Tekin mesajını, cumhuriyetin geleceği için sınıflarda emek veren bütün öğretmenlere ve eğitim camiasına şükranlarını sunarak tamamladı.
-
----
-
-## Tepebaşı'nda 3 katlı işçi binasında yangın çıktı
-
-**Asayiş · Tepebaşı** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.sondakika.com/amp/haber-eskisehir-tepebasi-nda-3-katli-isci-binasindaki-ya-20409376/)
-
-> Eskişehir'in Tepebaşı ilçesinde inşaat işçilerinin kaldığı 3 katlı binada çıkan yangın, itfaiye ekiplerinin zamanında müdahalesiyle büyümeden söndürüldü.
-
-Eskişehir'in Tepebaşı ilçesine bağlı Muttalip Emirler Mahallesi Sarıcakaya Caddesi üzerinde, inşaat işçilerinin konakladığı 3 katlı binada henüz belirlenemeyen bir nedenle yangın çıktı. Binadan yükselen alevleri fark eden çevredeki vatandaşlar durumu 112 Acil Çağrı Merkezi'ne bildirdi.
-
-İhbar üzerine olay yerine çok sayıda itfaiye, polis, AFAD ve sağlık ekibi sevk edildi. Kısa sürede adrese ulaşan itfaiye ekipleri, alevlere müdahale ederek yangını kontrol altına aldı ve söndürdü.
-
-Olayda şans eseri yaralanan olmazken, binada maddi hasar meydana geldi. Ekipler, yangının çıkış nedenini belirlemek için detaylı inceleme başlattı.
-
----
-
-## Rektör Özcan’dan Vali Yılmaz’a Ziyaret
-
-**Eğitim · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yeniden-rektorluge-atanan-prof-dr-adnan-ozcani-kabul-etti)
-
-![](data/images/95bb66e7c6b126e6.jpg)
-
-> Cumhurbaşkanlığı Kararnamesi ile Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan, Vali Dr. Erdinç Yılmaz’ı makamında ziyaret etti.
-
-Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine Cumhurbaşkanlığı Kararnamesi ile yeniden atanan Prof. Dr. Adnan Özcan, Eskişehir Valisi Dr. Erdinç Yılmaz’a nezaket ziyaretinde bulundu.
-
-Valilik makamında gerçekleşen görüşmede Vali Dr. Erdinç Yılmaz, Rektör Özcan’ı yeniden atanmasından dolayı kutlayarak yeni dönemin üniversite ve kent için hayırlı olması temennisinde bulundu ve çalışmalarında başarılar diledi.
-
-Prof. Dr. Adnan Özcan ise kabulünden ve iyi dileklerinden dolayı Vali Yılmaz’a teşekkürlerini iletti.
-
----
-
-## Lokantacılar Odası Başkanı Arnik'ten festival tepkisi: Esnaf mağdur
-
-**Ekonomi · Tepebaşı** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.sakaryagazetesi.com.tr/arnikten-festival-tepkisi)
-
-> Eskişehir Lokantacılar ve Kasaplar Esnaf Odası Başkanı Murat Arnik, art arda düzenlenen gastronomi festivallerinin yerel esnafı mağdur ettiğini belirterek denetim ve şeffaflık çağrısında bulundu.
-
-Eskişehir Lokantacılar ve Kasaplar Esnaf Odası (ESLOK) Başkanı Murat Arnik, kentte son dönemde sıkça düzenlenen gastronomi festivalleri hakkında yazılı bir açıklama yaparak tepkisini dile getirdi. Organizasyonların yerel esnafın ticari hayatını olumsuz etkilediğini savunan Arnik, artan maliyetler karşısında ayakta kalmaya çalışan yaklaşık 5 bin yiyecek ve içecek işletmesinin haklarını savunacaklarını kaydetti.
-
-Festivallerin ticari yapısının şeffaf bir şekilde kamuoyuyla paylaşılmasını isteyen Arnik, stant kiralama bedelleri, ücret toplama süreçleri ve elde edilen gelirlerin akıbetinin araştırılması gerektiğini ifade etti. Yetkililere çağrıda bulunan Arnik, kamu arazilerinin özel kazanç kapısı haline getirilmemesi gerektiğini vurguladı.
-
-Özellikle Dede Korkut Parkı'nda gerçekleştirilen organizasyonları eleştiren Arnik, kamu arazisinin hangi şartlar altında tahsis edildiğinin incelenmesini talep etti. Festivallere karşı olmadıklarını, aksine haksız rekabete ve esnafın haklarının göz ardı edilmesine itiraz ettiklerini belirten Arnik, "Eskişehir esnafı sahipsiz değildir" dedi.
-
----
-
-## Eskişehir'de yurt personeline yangın ve tahliye eğitimi
-
-**Gündem · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haberler.com/amp/itfaiye-ekipleri-eskisehir-de-yurt-calisanlarina-20410713-haberi/)
-
-> Eskişehir'de Mükrime Hatun Yurdu çalışanlarına itfaiye ekipleri tarafından yangın güvenliği, tahliye süreçleri ve söndürme ekipmanlarının kullanımı konulu eğitim verildi.
-
-Eskişehir'de olası acil durumlara karşı hazırlık çalışmalarını sürdüren itfaiye ekipleri, yurt personelini bilgilendirdi.
-
-Gençlik ve Spor Bakanlığı'na bağlı Mükrime Hatun Yurdu'nda görevli personele yönelik düzenlenen eğitimde, yangın anında alınması gereken kritik önlemler, güvenli tahliye süreçleri ve yangın söndürme ekipmanlarının doğru kullanım yöntemleri aktarıldı.
-
----
-
-## Eskişehir'de planlı elektrik kesintisi: Hangi mahalleler etkilenecek?
-
-**Gündem · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sakaryagazetesi.com.tr/eskisehirliler-dikkat-yarin-bu-mahallelerde-elektrik-olmayacak)
-
-> OEDAŞ duyurdu: Eskişehir'in merkez ve çevre ilçelerinde bakım ve onarım çalışmaları nedeniyle yarın uzun süreli elektrik kesintileri uygulanacak.
-
-Osmangazi Elektrik Dağıtım AŞ (OEDAŞ) tarafından yürütülen şebeke, bakım ve onarım çalışmaları kapsamında Eskişehir genelinde planlı elektrik kesintileri yaşanacak. Yeni haftanın ilk gününde yapılacak çalışmalar nedeniyle merkez ve çevre ilçelerdeki birçok mahallede elektrik verilemeyecek.
-
-Planlamaya göre Odunpazarı ilçesinde İstiklal ve Kırmızıtoprak mahallelerinin bazı bölümlerinde saat 09.00 - 15.00 arasında kesinti yapılacak. Akarbaşı, Dede, Kırmızıtoprak ve Vişnelik mahallelerinin belirli kesimlerinde ise kesintiler 09.00 ile 17.00 saatleri arasında uygulanacak. Tepebaşı ilçesinde de Bahçelievler, Esentepe, Fatih, Kumlubel, Sütlüce, Tunalı ve Zafer mahallelerinin bazı bölgelerinde saat 09.00 - 17.00 saatleri arasında elektrik kesintisi yaşanacak. Hisar, Yeşilyurt ve Zemzemiye mahallelerinde ise kesinti saatleri 10.00 ile 12.00 olarak belirlendi.
-
-Kesintiler çevre ilçeleri de kapsayacak. Alpu'da 10.00 - 16.00, Beylikova'da 11.00 - 13.00 saatleri arasında kesinti yapılacak. Çifteler'de farklı bölgelerde 09.00-16.00, 09.00-17.00 ve 13.30-17.30 saatleri arasında elektrik kesintisi uygulanacak. Mahmudiye'de 13.30 - 17.30, Mihalıççık'ta 10.00 - 16.00, Seyitgazi'de 13.30 - 17.30 ve Sivrihisar'da 09.00 - 16.00 saatleri arasında belirli noktalarda elektrik verilemeyecek.
-
-Yetkililer, kesintilerin mahallelerin tamamını değil belirli sokak ve bölgeleri kapsayacağını belirtti. Çalışmaların planlanan saatten önce tamamlanması durumunda elektriklerin erken verilebileceği ifade edilirken, vatandaşların tedbirli olmaları ve güncel bilgileri OEDAŞ'ın internet sitesi ile ALO 186 hattından takip etmeleri istendi.
-
----
-
-## Eskişehir'de gelecek nesillere anlamlı mesaj: Zaman kapsülü temele atıldı
-
-**Belediye · Merkez** · 2026-11-09 23:51 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/unluce-eskisehirden-gelecege-mesaj-birakti)
-
-> Kentpark'taki İklim Adası projesi kapsamında inşa edilen Ekolojik Çocuk Evi'nin temeline, gelecek kuşaklara bırakılmak üzere zaman kapsülü yerleştirildi.
-
-Eskişehir'de iklim değişikliğiyle mücadele çalışmaları kapsamında hayata geçirilen İklim Adası'nın açılış etkinlikleri sürerken, Ekolojik Çocuk Evi alanında dikkat çeken bir tören gerçekleştirildi. Gelecek nesillere duyulan güvenin ve sürdürülebilir bir dünya idealinin simgesi olan zaman kapsülü, binanın temeline bırakıldı.
-
-Törene Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin yanı sıra Pınar Akıskalıoğlu, iklim bilimci Profesör Sir David King, Dünya Meteoroloji Örgütü temsilcisi Roberta Boscolo ve İklim Çalışma Grubu üyeleri katıldı.
-
-Tören öncesinde konuşan Büyükşehir Belediye Başkanı Ayşe Ünlüce, zaman kapsülü fikrinin İklim Çalışma Grubu'ndan çıktığını belirterek, geleceğin yöneticilerine, gençlere ve ailesine özel mektuplar hazırladığını ifade etti. Ünlüce, "Onlarca yıl, belki de asırlar sonra gelecek kuşaklar bunları bulup okursa 2026 yılının Eskişehir’inde İklim Çalışma Grubu’nun gelecekten ne dilediğini görsünler istedik. Atalarımız bizim için çalışmış diyebilsinler diye bu hayalle bırakıyoruz" dedi.
-
-İklim Adası projesinin bir kütüphane düşüncesiyle başlayıp zamanla genişlediğini anlatan Ünlüce, Eskişehir'i iklim değişikliğiyle mücadelenin ulusal ve uluslararası merkezlerinden biri yapmayı hedeflediklerini vurguladı. Konuşmaların ardından hazırlanan kapsül, katılımcıların eşliğinde Ekolojik Çocuk Evi'nin temeline atıldı.
 
 ---
