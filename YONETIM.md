@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 11.11.2026 21:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son haber sayfalarından 2/3'ü 200 (biri fotoğrafsız, 404 beklenen). Derleme geçti (371 haber, venv ile). Son haber ~5,9 saat önce; masa.yml zamanlı koşuları gecikiyor (son schedule 12:40 UTC, 14/16/18 UTC turları hiç çalışmadı). Son 24 saatte 15 haber (Eğitim 4, Türkiye 4, Asayiş 3, Belediye 2; ilçe Türkiye 6, Merkez/Odunpazarı/Tepebaşı 3), 3'ünde fotoğraf yok. Instagram: 24 saatte 9 paylaşım, 2 Reels (DAILY_CAP=16 dolmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml` elle tetiklendi (zamanlı koşu gecikmesi).
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Bayraktar/enerji, asfalt, esnaf, tırın altına, Emek mahallesi etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Reels sayısı düşük, reel_log kontrolü; (3) masa.yml cron gecikmesine karşı saglik.yml ile yedek tetik.
+SAHİBİNE: yok.
+
 ## 11.11.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (364 haber, venv ile). Son haber ~9,2 saat önce (gece boşluğu; masa.yml son schedule koşusu 10.11 21:16 UTC, 08 TSİ turu gecikmişti). Son 24 saatte 16 haber (Türkiye 4, Belediye 3, Siyaset/Eğitim/Asayiş 2; ilçe Türkiye 6, Odunpazarı 4, Merkez/Tepebaşı 3), 3'ünde fotoğraf yok. Instagram: log 10, reel_log 2 (24 saatte 2 Reels; son Reels ~16,6 saat önce; DAILY_CAP dolmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml` elle tetiklendi (geciken zamanlı koşu yerine).
