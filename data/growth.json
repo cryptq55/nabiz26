@@ -51,25 +51,90 @@
   },
   {
    "gun": "2026-11-11",
-   "takipci": 135,
+   "takipci": 150,
    "takip": 0,
-   "paylasim": 260,
-   "erisim_7g": 21506
+   "paylasim": 265,
+   "erisim_7g": 17860
   }
  ],
  "paylasimlar": {
+  "18449613355130023": {
+   "tur": "REELS",
+   "zaman": "2026-11-11T12:49:58+0000",
+   "link": "https://www.instagram.com/reel/DfmhPznz6Mn/",
+   "baslik": "Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 120
+  },
+  "17911930164664648": {
+   "tur": "REELS",
+   "zaman": "2026-11-11T12:46:22+0000",
+   "link": "https://www.instagram.com/reel/DfmgzEphCnB/",
+   "baslik": "Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 102,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 115
+  },
+  "18352460578253257": {
+   "tur": "REELS",
+   "zaman": "2026-11-11T12:17:34+0000",
+   "link": "https://www.instagram.com/reel/Dfmdir0BjVy/",
+   "baslik": "🌙 Eskişehir'de bugün · 11 Kasım Çarşamba",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 116,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 137
+  },
+  "18112896281214650": {
+   "tur": "FEED",
+   "zaman": "2026-11-11T06:44:31+0000",
+   "link": "https://www.instagram.com/p/Dfl3dbvlpEQ/",
+   "baslik": "Bakan Bayraktar: 2040'a kadar 300 milyar dolarlık enerji yatırımı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 6,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 11
+  },
+  "18438617653196420": {
+   "tur": "REELS",
+   "zaman": "2026-11-11T06:44:11+0000",
+   "link": "https://www.instagram.com/reel/Dfl3Y3BKcGs/",
+   "baslik": "Tepebaşı'nda asfalt mesaisi: Şeker'den sonra Işıklar ve Mamure'de",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 127,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 132
+  },
   "18183260944429135": {
    "tur": "REELS",
    "zaman": "2026-11-10T22:15:56+0000",
    "link": "https://www.instagram.com/reel/Dfk9OILgOJY/",
    "baslik": "🌙 Eskişehir'de bugün · 11 Kasım Çarşamba",
-   "begeni": 1,
+   "begeni": 11,
    "yorum": 0,
-   "reach": 104,
+   "reach": 1284,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 1,
-   "views": 148
+   "shares": 1,
+   "total_interactions": 13,
+   "views": 1486
   },
   "18148223497604904": {
    "tur": "FEED",
@@ -78,11 +143,11 @@
    "baslik": "Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği",
    "begeni": 0,
    "yorum": 0,
-   "reach": 3,
+   "reach": 9,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 5
+   "views": 13
   },
   "17968129385980488": {
    "tur": "REELS",
@@ -91,11 +156,11 @@
    "baslik": "Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 117,
+   "reach": 123,
    "saved": 1,
    "shares": 0,
    "total_interactions": 1,
-   "views": 130
+   "views": 137
   },
   "18027735536920170": {
    "tur": "FEED",
@@ -104,11 +169,11 @@
    "baslik": "Temiz enerjide 4'lü dev anlaşma: Elektriğin TANAP'ı Avrupa yolunda",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 10
+   "views": 12
   },
   "18096554831173074": {
    "tur": "FEED",
@@ -117,11 +182,11 @@
    "baslik": "Erdoğan: Cumhuriyeti yeniden cumhurla buluşturduk",
    "begeni": 0,
    "yorum": 0,
-   "reach": 9,
+   "reach": 11,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 15
+   "views": 17
   },
   "18599451778069675": {
    "tur": "REELS",
@@ -130,11 +195,11 @@
    "baslik": "Eskişehir'de bestHONEY Projesi'nin yaygınlaştırma toplantısı yapıldı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 118,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 125
+   "views": 130
   },
   "18126108184706497": {
    "tur": "REELS",
@@ -143,11 +208,11 @@
    "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 5,
+   "reach": 9,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 6
+   "views": 11
   },
   "18599308435066664": {
    "tur": "REELS",
@@ -156,11 +221,11 @@
    "baslik": "🇹🇷 Ulu Önder Atatürk'ü saygıyla anıyoruz · 10 Kasım Salı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 136,
+   "reach": 143,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 143
+   "views": 150
   },
   "17904319224671752": {
    "tur": "REELS",
@@ -169,11 +234,11 @@
    "baslik": "Kırım Tatar Akademik İş Birliği Çalıştayı Eskişehir'de sona erdi",
    "begeni": 15,
    "yorum": 0,
-   "reach": 1054,
+   "reach": 1068,
    "saved": 0,
    "shares": 2,
    "total_interactions": 17,
-   "views": 1169
+   "views": 1179
   },
   "18039727922898287": {
    "tur": "REELS",
@@ -182,11 +247,11 @@
    "baslik": "5. Doğan Avcıoğlu Ödülleri'nin kazananları açıklandı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 107,
+   "reach": 108,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 117
+   "views": 118
   },
   "18450892606133790": {
    "tur": "REELS",
@@ -195,11 +260,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 9 Kasım Pazartesi",
    "begeni": 2,
    "yorum": 0,
-   "reach": 129,
+   "reach": 130,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 148
+   "views": 149
   },
   "18109335716192570": {
    "tur": "FEED",
@@ -221,11 +286,11 @@
    "baslik": "Altın fiyatları 9 Kasım 2026: Gram altın 6.672,93 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 7,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 11
+   "views": 13
   },
   "18111521639616585": {
    "tur": "FEED",
@@ -234,11 +299,11 @@
    "baslik": "Türkiye ve Irak'tan Ortak Açıklama: Sincar'da Süreç Sürüyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 15,
+   "reach": 16,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 20
+   "views": 22
   },
   "18152570224526918": {
    "tur": "FEED",
@@ -260,11 +325,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 9 Kasım Pazartesi",
    "begeni": 2,
    "yorum": 0,
-   "reach": 133,
+   "reach": 135,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 153
+   "views": 155
   },
   "17912965869659753": {
    "tur": "REELS",
@@ -273,11 +338,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 8 Kasım Pazar",
    "begeni": 1,
    "yorum": 0,
-   "reach": 15,
+   "reach": 16,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 21
+   "views": 22
   },
   "17898513195413481": {
    "tur": "FEED",
@@ -286,11 +351,11 @@
    "baslik": "Elektrik faturalarında yeni dönem: 3 bin kWh sınırı geliyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 25,
+   "reach": 26,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 47
+   "views": 49
   },
   "18122163478972627": {
    "tur": "FEED",
@@ -325,11 +390,11 @@
    "baslik": "Ataç ve Eczacıbaşı'ndan Eskişehir'in üretim hamlesine ziyaret",
    "begeni": 11,
    "yorum": 0,
-   "reach": 1715,
+   "reach": 1716,
    "saved": 1,
    "shares": 0,
    "total_interactions": 12,
-   "views": 1915
+   "views": 1916
   },
   "18083850512410900": {
    "tur": "FEED",
@@ -355,7 +420,7 @@
    "saved": 2,
    "shares": 1,
    "total_interactions": 30,
-   "views": 2955
+   "views": 2958
   },
   "18143500390620328": {
    "tur": "FEED",
