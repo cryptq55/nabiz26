@@ -21,11 +21,11 @@
     "title": "Eskişehir'de tır sürücüsü uyurken sese uyandı korkunç ölüm - Sözcü Gazetesi",
     "url": "https://www.sozcu.com.tr/eskisehirde-tir-surucusu-uyurken-sese-uyandi-korkunc-olum-p380110"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir trafik kazası",
       "polis ambulans olay yeri"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
