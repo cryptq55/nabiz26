@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 11.11.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (364 haber, venv ile). Son haber ~9,2 saat önce (gece boşluğu; masa.yml son schedule koşusu 10.11 21:16 UTC, 08 TSİ turu gecikmişti). Son 24 saatte 16 haber (Türkiye 4, Belediye 3, Siyaset/Eğitim/Asayiş 2; ilçe Türkiye 6, Odunpazarı 4, Merkez/Tepebaşı 3), 3'ünde fotoğraf yok. Instagram: log 10, reel_log 2 (24 saatte 2 Reels; son Reels ~16,6 saat önce; DAILY_CAP dolmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** `masa.yml` elle tetiklendi (geciken zamanlı koşu yerine).
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Suudi Arabistan, uyuşturucu, rektör etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Reels sayısı düşük, reel_log kontrolü; (3) Sağlık/Ulaşım için kaynak.
+SAHİBİNE: yok.
+
 ## 09.11.2026 21:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden 2'si 404 (fotoğrafsız, sayfa üretilmiyor; beklenen). Son haber 16:55 TSİ (~4,8 saat önce; masa akışı yavaş). Son 24 saatte 15 haber (Kültür-Sanat 4, Türkiye/Ekonomi 3; ilçe Türkiye 6, Merkez 5, Tepebaşı 3, Odunpazarı 1), 5'inde fotoğraf yok. Instagram: log 14, reel_log 2 (24 saatte yalnız 2 Reels; DAILY_CAP dolmadı). Takipçi 131 (+3/gün), 7 gün erişim 28.864; Reels ort. 460, gönderi 12. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** yok.
