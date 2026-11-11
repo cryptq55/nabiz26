@@ -2,6 +2,146 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## YENİ Parti Odunpazarı İlçe Başkanı Yazıcı'dan Tepebaşı'na ziyaret
+
+**Siyaset · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/yeni-parti-odunpazari-ilce-baskani-yazici-belediyede-gorustu)
+
+> YENİ Parti Odunpazarı İlçe Başkanı Emine Cevahir Çalıkuşu Yazıcı ve yönetimi, Tepebaşı Belediye Başkanı Ahmet Ataç'ı makamında ziyaret etti.
+
+YENİ Parti Odunpazarı İlçe Başkanı Emine Cevahir Çalıkuşu Yazıcı ile beraberindeki yönetim kurulu üyeleri, Tepebaşı Belediyesi'ni ziyaret etti. 
+
+Gerçekleşen ziyarette, parti teşkilatının yürüttüğü çalışmalar, Eskişehir'in güncel meseleleri ve gelecek döneme yönelik hedefler masaya yatırıldı. Karşılıklı görüş alışverişinin yapıldığı buluşmada kent gündemi değerlendirildi.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, ziyaretten duyduğu memnuniyeti dile getirerek Yazıcı ve yönetim kurulu üyelerine çalışmalarında başarılar diledi.
+
+---
+
+## Tepebaşı'nda 'Kur’an’da Adalet' Söyleşisine Yoğun İlgi
+
+**Belediye · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndakur’an’daadaletsoylesisineyogunilgi)
+
+![](data/images/a072d7483fb57d6c.jpg)
+
+> Tepebaşı Belediyesi'nin düzenlediği Din, Tarih ve Felsefe Sohbetleri kapsamında gerçekleştirilen "Kur’an’da Adalet" söyleşisi vatandaşlardan yoğun ilgi gördü.
+
+Tepebaşı Belediyesi tarafından hayata geçirilen etkinlikler kapsamında Özdilek Sanat Merkezi Oktay Ekinci Sahnesi'nde "Kur’an’da Adalet" söyleşisi düzenlendi. İlahiyatçı yazar Akın Karadeniz'in konuşmacı olarak katıldığı programa, Tepebaşı Belediye Başkanı Ahmet Ataç ile çok sayıda vatandaş iştirak etti.
+
+Yoğun katılım nedeniyle salonda yer kalmazken, bazı vatandaşlar söyleşiyi ayakta takip etti. Etkinlikte konuşan Akın Karadeniz, Kur'an'ın adalet, hak ve hukuk kavramlarına dikkat çekerek, İslam'ın akıl, bilim ve ahlakla birlikte ele alınması gerektiğini ifade etti. Günlük yaşamda dürüst ve adaletli kalabilmenin önemine vurgu yapan Karadeniz, kul hakkı hassasiyetinin altını çizdi.
+
+Programın sonunda Tepebaşı Belediye Başkanı Ahmet Ataç, ilahiyatçı yazar Akın Karadeniz'e katkılarından ötürü plaket takdim etti.
+
+---
+
+## Tepebaşı Belde Evleri 25. yılını 4 bin 466 kursiyerle kutluyor
+
+**Belediye · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.esgazete.com/tepebasi-belde-evlerinde-4-bin-466-kursiyer-egitim-aliyor)
+
+> Tepebaşı Belediyesi Belde Evleri, kış döneminde 35 noktada binlerce vatandaşa 30 farklı branşta eğitim vermeyi sürdürüyor.
+
+Tepebaşı Belediyesi bünyesinde mahallelerde faaliyet gösteren Belde Evleri, kuruluşunun 25. yıl dönümünü kutluyor. İlk Belde Evi 2001 yılında Fevzi Çakmak Mahallesi'nde hizmete girerken, aradan geçen sürede merkezlerin sayısı ve etki alanı genişledi.
+
+Belediyeden yapılan açıklamaya göre, yeni kış dönemi kursları için 8 bin 151 başvuru alındı. Gerçekleştirilen değerlendirmelerin ardından 4 bin 466 kursiyer, 35 farklı hizmet noktasında eğitimlerden aktif olarak yararlanmaya başladı. Merkezlerde 30 branşta açılan 231 kurs grubu, 33 eğitmen eşliğinde çalışmalarını sürdürüyor. Ayrıca 6 Belde Evindeki oyun gruplarında 140 çocuk eğitim ve gelişim etkinliklerine katılıyor.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Belde Evlerinin sadece kurs verilen mekanlar olmadığını vurgulayarak, bu alanların mahalle yaşamına değer kattığını ifade etti. Ataç, merkezlerin komşuluk ilişkilerini güçlendirdiğini ve her yaştan vatandaşın üreterek kendini geliştirdiği ortak buluşma noktaları haline geldiğini belirtti.
+
+---
+
+## Pessinus'un binlerce yıllık tarihi Eskişehir'de sergileniyor
+
+**Kültür-Sanat · Sivrihisar** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/pessinusun-binlerce-yillik-tarihi-eskisehirde-sergilenecek)
+
+![](data/images/0a6f6733c03d67bd.jpg)
+
+> Antik dönemin önemli inanç ve ticaret merkezlerinden Pessinus'un kalıntıları, Eskişehir'de açılan özel bir sergiyle tarih meraklılarıyla buluştu.
+
+Sivrihisar ilçesine bağlı Ballıhisar mahallesinde yer alan ve toprak altında kalan binlerce yıllık geçmişe sahip Pessinus antik kentinin izleri, Eskişehir'de sergilenmeye başlandı. Antik dönemin önemli ticaret ve inanç merkezlerinden biri olan yerleşim yerinde gerçekleştirilen arkeolojik kazılardan elde edilen eserler gün yüzüne çıkarıldı.
+
+Eskişehir Büyükşehir Belediyesi Kent Müzeleri Kompleksi Geçici Sergi Salonu'nda kapılarını açan sergide; aslanlar arasında tahtında oturan Kybele tasviri, döneme ait sikkeler ve pişmiş toprak eserler yer alıyor. Eserler aracılığıyla ziyaretçilere antik kentin inanç dünyası, Roma'nın anıtsal yapıları, Bizans ve Selçuklu döneminden günümüz Ballıhisar'ına uzanan tarihsel süreç aktarılıyor.
+
+Eskişehir'in köklü kültürel mirasını gözler önüne seren sergi, 6 Aralık 2026 tarihine kadar ziyaret edilebilecek.
+
+---
+
+## MEB'den okul öncesi ailelere özel bülten: Doğayla Büyüyoruz
+
+**Eğitim · Türkiye** · 2026-11-11 20:15 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/aile-egitim-bulteni-quotdogayla-buyuyoruz-gelecegi-koruyoruzquot-temasiyla-yayinda/haber/42469/tr)
+
+![](data/images/4b2fdf97499f0a1a.jpg)
+
+> Milli Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü tarafından hazırlanan Kasım ayı Aile Eğitim Bülteni, 'Doğayla Büyüyoruz, Geleceği Koruyoruz' temasıyla yayımlandı.
+
+Milli Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü, ailelerin eğitim sürecine katılımını güçlendirmek amacıyla her ay yayımlanan Aile Eğitim Bülteni'nin Kasım sayısını erişime açtı. Okul öncesi eğitime devam eden çocukların ailelerine yönelik hazırlanan bülten, ev ortamı ile okul programları arasında bütünlük sağlamayı hedefliyor.
+
+Kasım ayı bülteninde, çocukların doğayla bağ kurmasının çok yönlü gelişimlerine katkıları, ormanlar ve doğal yaşamın önemi, sıfır atık ile sürdürülebilir yaşam alışkanlıkları ele alındı. İçerikte ayrıca ailelerin çocuklarıyla birlikte uygulayabileceği doğa etkinlikleri, oyunlar ve günlük yaşam önerilerine yer verildi.
+
+Bültende doğanın çocuklar için önemli bir öğrenme alanı olduğuna dikkat çekilerek, çocukların toprak kokusunu alması, kuş seslerini dinlemesi ve tohumun filizlenişini izlemesinin merak duygusunu geliştirdiği ifade edildi. Türkiye Yüzyılı Maarif Modeli Okul Öncesi Eğitim Programı çerçevesinde, çocukların çevre bilinci kazanması için aile desteğinin önemine vurgu yapıldı.
+
+---
+
+## Krediler tıkandı: Eskişehir'de konut ve araçta tasarruf dönemi
+
+**Ekonomi · Merkez** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/banka-kredisi-tikandi-eskisehir-halki-tasarruf-finansmanina-yoneldi)
+
+> Eskişehir'de banka kredilerindeki kısıtlamalar ve yüksek faizler, tüketicileri tasarruf finansman şirketlerine yöneltti. Kentteki satışların önemli bir bölümü bu sistemle yapılıyor.
+
+Eskişehir'de banka kredilerine erişimin zorlaşması ve yüksek faiz oranları, gayrimenkul ile ikinci el araç piyasasında alternatif finansman modellerinin payını artırdı. Sektör temsilcilerinin paylaştığı bilgilere göre, kentte satılan ikinci el araçların yüzde 80'i, konutların ise yüzde 30'u tasarruf finansman şirketleri aracılığıyla alıcı buluyor.
+
+Eskişehir Emlakçılar Odası Başkanı Gazi Çelik, konut piyasasındaki en büyük engelin tüketicilerin sıcak paraya erişimindeki güçlük olduğunu belirtti. Dar gelirli vatandaşların 2 ila 3,5 milyon lira bandındaki konut alımlarında bu sisteme yöneldiğini aktaran Çelik, inşaat sektörünün yüzlerce iş kolunu etkileyen bir çark olduğunu ve finansman akışının kritik önem taşıdığını vurguladı.
+
+Eskişehir Oto Galericiler Kooperatifi Başkanı Ceylan Üstün ise bankaların kredi limitlerinin güncel araç fiyatlarının çok altında kaldığını ifade etti. Bankaların en fazla 400 bin lira kredi verebildiğini hatırlatan Üstün, bu durumun alıcıları zorunlu olarak tasarruf finansman sistemine yönlendirdiğini kaydetti.
+
+Eskişehir Ticaret Odası İnşaat Meslek Komitesi Meclis Üyesi Atakan Bakılan da sistemin konut satışlarına katkı sağladığını ancak ekspertiz ve tapu devir süreçlerinde bazı aksaklıklar yaşandığını bildirdi. Bakılan, tasarruf finansmanının önemli bir alternatif olduğunu ancak inşaat sektörünün sağlıklı bir piyasa için uygun koşullu uzun vadeli banka kredilerine de ihtiyaç duyduğunu belirtti.
+
+---
+
+## İletişim Başkanı Duran'dan Pakistanlı Bakan Tarar ile iklim ve medya görüşmesi
+
+**Türkiye · Türkiye** · 2026-11-11 20:15 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-pakistan-enformasyon-ve-yayin-bakani-tarar-ile-bir-araya-geldi)
+
+![](data/images/fabae470046ce8a2.jpg)
+
+> İletişim Başkanı Burhanettin Duran, COP31 için Antalya'da bulunan Pakistan Enformasyon ve Yayın Bakanı Attaullah Tarar ile bir araya geldi.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Türkiye'de bulunan Pakistan Enformasyon ve Yayın Bakanı Attaullah Tarar ile görüştü.
+
+Görüşmede, Türkiye ile Pakistan arasındaki köklü dostluk ve kardeşlik bağlarının yanı sıra medya ve iletişim alanındaki iş birliği imkânları ele alındı. Kamu diplomasisi, uluslararası iletişim ve medya sektörlerinde tecrübe paylaşımı ile ortak çalışmaların önemine vurgu yapıldı.
+
+İletişim Başkanı Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde iki ülke arasındaki güçlü ilişkilerin iletişim alanındaki yeni iş birlikleriyle daha da ileriye taşınmasını temenni etti.
+
+---
+
+## Başkan Kurt'tan Emek'teki kadınlara: Mahallenin geleceğine birlikte karar verelim
+
+**Belediye · Odunpazarı** · 2026-11-11 20:15 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kurt-emek-halk-merkezi-nde-kadinlarla-bulustu)
+
+![](data/images/38697cb0cf42aed3.jpg)
+
+> Odunpazarı Belediye Başkanı Kazım Kurt, Emek Halk Merkezi'ndeki kadın kursiyerlerle bir araya gelerek belediye hizmetlerini anlattı ve mahallenin bölünmesi konusundaki görüşleri dinledi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, mahalle buluşmaları kapsamında Emek Halk Merkezi'nde kadın kursiyerlerle öğle yemeğinde bir araya geldi. Yoğun katılımlı buluşmada kadınlarla sohbet eden Kurt, halk merkezlerinin yalnızca kurs alanları olmadığını, mahalle sakinlerinin ortak buluşma noktaları olduğunu belirtti.
+
+Emek Mahallesi'nin 60 bin nüfusuyla Eskişehir'in en büyük mahallesi olduğunu vurgulayan Başkan Kurt, mahallenin büyümeye devam ettiğini ifade etti. Mahallenin bölünmesine yönelik taleplerin de gündemde olduğunu belirten Kurt, bu konudaki kararların mahalle sakinleriyle birlikte alınması gerektiğini söyledi.
+
+Buluşmada kadınlar, mahalleye ve belediye hizmetlerine ilişkin talep ve önerilerini paylaştı. Başkan Kurt, iletilen konuları not alarak Emekli kadınlarla bir arada olmaktan duyduğu memnuniyeti dile getirdi.
+
+---
+
+## Atatürk Caddesi'nde motokuryenin çarptığı yaya hayatını kaybetti
+
+**Asayiş · Odunpazarı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-motokuryenin-carptigi-kisi-oldu-43374457)
+
+> Odunpazarı ilçesinde yolun karşısına geçerken motosikletin çarptığı 63 yaşındaki yaya, hastanedeki müdahalelere rağmen kurtarılamadı.
+
+Eskişehir'in Odunpazarı ilçesinde meydana gelen trafik kazasında, yolun karşısına geçmeye çalışan bir yaya yaşamını yitirdi.
+
+Alınan bilgilere göre, Kırmızıtoprak Mahallesi Atatürk Caddesi'nde seyir halinde olan O.Y. (23) yönetimindeki 26 ALV 780 plakalı motosiklet, yolun karşısına geçmek isteyen Ramazan Ş.'ye çarptı. Çarpmanın etkisiyle metrelerce savrulan yaya ağır yaralandı.
+
+Olay yerine sevk edilen sağlık ekipleri tarafından hastaneye kaldırılan Ramazan Ş., doktorların tüm çabalarına rağmen kurtarılamadı. Kazanın ardından gözaltına alınan motosiklet sürücüsü O.Y., emniyetteki işlemlerinin ardından sevk edildiği adliyede çıkarıldığı hakimlikçe tutuklandı.
+
+Öte yandan, kaza anının çevredeki bir iş yerinin güvenlik kamerasınca kaydedildiği öğrenildi.
+
+---
+
 ## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da Başlıyor
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/siirbulusmasındagerisayımbasladı)
@@ -341,155 +481,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zir
 Cumhurbaşkanı Erdoğan görüşme sırasında, iki ülke arasındaki iş birliğinin artırılması ve ilişkilerin üst seviyeye taşınması adına kararlı adımların atılmaya devam edeceğini belirtti. Erdoğan, özellikle enerji, ticaret, savunma sanayii ve yatırım alanlarındaki ortak çalışmaların yoğunlaştırılması gerektiğine dikkat çekti.
 
 Türk Devletleri Teşkilatı'nın giderek güçlendiğini ifade eden Erdoğan, Ankara Zirvesi'nde Teşkilat'ın stratejik öneminin bir kez daha tescillendiğini kaydetti. Erdoğan ayrıca, Türkmenistan'ın Türk Devletleri Teşkilatı'na üye olarak katılması temennisini dile getirdi.
-
----
-
-## Başkan Kurt Emek esnafıyla buluştu: Ekonomik kriz herkesi etkiliyor
-
-**Belediye · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kurt-emek-te-esnafla-bulustu)
-
-![](data/images/f4c3f469227c1137.jpg)
-
-> Odunpazarı Belediye Başkanı Kazım Kurt, Emek Mahallesi'nde esnafı ziyaret ederek talep ve şikâyetlerini dinledi, küçük esnafın zor günler geçirdiğini vurguladı.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, mahalle buluşmaları kapsamında Emek Mahallesi Ziya Gökalp Caddesi'ndeki esnafla bir araya geldi. Ziyarete belediye başkan yardımcıları ve meclis üyeleri de katıldı.
-
-Esnafla sohbet ederek işlerin durumunu ve karşılaşılan sorunları dinleyen Başkan Kurt, belediyenin çalışmalarına ilişkin değerlendirmelerde bulundu. Türkiye'de yaşanan ekonomik krizin toplumun tüm kesimlerini etkilediğine dikkati çeken Kurt, artan maliyetler, yüksek kiralar ve vatandaşın düşen alım gücü nedeniyle küçük esnafın zor günler geçirdiğini ifade etti.
-
-Siyasetin halktan kopuk yürütülemeyeceğini belirten Kurt, yerel yönetimlerin esnaf ve yurttaşlarla sürekli iletişimde olması gerektiğini kaydetti. Halkın sorunlarını yerinde dinleyerek çözüm üretmeye çalıştıklarını aktaran Başkan Kurt, sosyal belediyecilik anlayışıyla çalışmaya devam edeceklerini belirterek esnafa bol kazançlar diledi.
-
----
-
-## 30 yıl hapis cezasıyla aranıyordu: Odunpazarı'nda yakalandı
-
-**Asayiş · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.hurriyet.com.tr/gundem/30-yil-hapisle-araniyordu-eskisehirde-yakalandi-43373493)
-
-> Eskişehir'de hakkında kesinleşmiş 30 yıl 5 ay hapis cezası bulunan firari hükümlü, jandarma ekiplerinin operasyonuyla Odunpazarı'nda yakalandı.
-
-Eskişehir İl Jandarma Komutanlığı ekipleri, aranan şahısların yakalanmasına yönelik yürüttüğü çalışmalar kapsamında önemli bir operasyona imza attı.
-
-Yapılan istihbarat çalışmaları sonucunda, 'Cebir ve Tehdit veya Hile Kullanarak Kişiyi Hürriyetinden Yoksun Kılma' suçundan hakkında 30 yıl 5 ay kesinleşmiş hapis cezası bulunan bir hükümlünün Odunpazarı ilçesinde saklandığı tespit edildi.
-
-Jandarma ekiplerince düzenlenen operasyonla kısa sürede yakalanan hükümlü, karakoldaki işlemlerinin ardından tutuklanarak Eskişehir Ceza İnfaz Kurumuna teslim edildi.
-
----
-
-## Altın fiyatları 10 Kasım 2026: Gram altın 6.577,98 TL
-
-**Ekonomi · Merkez** · 2026-11-10 13:58 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261110.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.505,25 TL'den alınıyor, 6.577,98 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 16.58 itibarıyla verilerine göre gram altının satış fiyatı 6.577,98 TL, alış fiyatı 6.505,25 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,08 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.721 TL, yarım altın 21.436 TL, tam altın 42.715 TL, ata altın 43.856 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.145,27 TL, has altının gram fiyatı 6.558,79 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.050,50 dolardan işlem görürken, dolar/TL 50,23 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 16.58 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Tepebaşı'nda 10 Kasım mevlidi: 650 kadın dualarda buluştu
-
-**Belediye · Tepebaşı** · 2026-11-10 13:31 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/650kadınataturkvesilaharkadaslarıicindualardabulustu)
-
-![](data/images/4da3d39cdaff2284.jpg)
-
-> Tepebaşı Belediyesi tarafından 10 Kasım Atatürk’ü Anma Günü dolayısıyla düzenlenen mevlide 650 kadın katıldı.
-
-Tepebaşı Belediyesi Sosyal İşler Müdürlüğü, 10 Kasım Atatürk’ü Anma Günü kapsamında Gazi Mustafa Kemal Atatürk, silah arkadaşları ve şehitler için mevlit programı düzenledi. Etkinliğe 650 kadın katıldı.
-
-Kur'an-ı Kerim tilaveti ve okunan mevlidin ardından Atatürk ve vatan uğruna hayatını kaybeden şehitler için toplu dualar edildi. Programda bir konuşma yapan Tepebaşı Belediye Başkanı Ahmet Ataç, Kurtuluş Savaşı'nda cephe gerisinde büyük fedakârlıklar gösteren Anadolu kadınlarının emeklerinin unutulmaz olduğunu belirtti. Cumhuriyet'in kadınlara kazandırdığı haklara dikkat çeken Ataç, bu değerleri korumanın ortak sorumluluk olduğunu vurguladı.
-
-Törene Başkan Ataç'ın yanı sıra Yeni Parti Eskişehir İl Başkanı Talat Yalaz, Tepebaşı İlçe Başkanı Tevfik Yıldırım, belediye başkan yardımcılıkları ve çok sayıda vatandaş katıldı. Program, yapılan duaların ardından sona erdi.
-
----
-
-## Temiz enerjide 4'lü dev anlaşma: Elektriğin TANAP'ı Avrupa yolunda
-
-**Türkiye · Türkiye** · 2026-11-10 13:31 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31966)
-
-![](data/images/05c2135564f63ffa.jpg)
-
-> Türkiye, Azerbaycan, Bulgaristan ve Gürcistan arasında imzalanan anlaşmayla, temiz enerji kaynaklarından üretilen elektriğin Avrupa pazarlarına ulaştırılması hedefleniyor.
-
-Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Türkiye, Azerbaycan, Bulgaristan ve Gürcistan arasında enerji alanında stratejik bir anlaşmaya imza atıldı. Dört ülke arasında temiz enerji sektöründeki iş birliğini güçlendirmeyi amaçlayan "Temiz Enerji Alanında Stratejik Ortaklığa İlişkin Anlaşma", Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Azerbaycan Enerji Bakanı Parviz Şahbazov, Bulgaristan Enerji Bakanı Iva Petrova ve Gürcistan Başbakan Yardımcısı ve Ekonomi ve Sürdürülebilir Kalkınma Bakanı Mariam Kvrivishvili tarafından imzalandı.
-
-Anlaşma; temiz enerji kaynaklarından üretilen elektriğin sınır ötesi iletimi, dağıtımı ve ticaretinin geliştirilmesini, ülkeler arasında güvenli ve kesintisiz enerji akışının sağlanmasını hedefliyor. Proje kapsamında ayrıca fiber optik kablolar üzerinden iletişim ve veri aktarımının geliştirilmesi de öngörülüyor.
-
-İmza töreninin ardından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, projenin önemine dikkat çekerek, "'Elektriğin TANAP'ı' olarak nitelendirdiğimiz bu projeyle, temiz enerji kaynaklarından üretilen elektriğin Azerbaycan-Gürcistan-Türkiye-Bulgaristan güzergâhı üzerinden Avrupa pazarlarına ulaştırılmasını hedefliyoruz" dedi.
-
-Bakan Bayraktar, elektrikleşmenin hız kazandığı bu dönemde atılan adımın ülkeler arasındaki enerji bağlarını güçlendireceğini, temiz enerji ticaretine yeni imkânlar sunacağını ve Avrupa'nın arz güvenliğine katkı sağlayacağını vurguladı.
-
----
-
-## Odunpazarı Belediyesi'nde 10 Kasım töreni: Atatürk anıldı
-
-**Belediye · Odunpazarı** · 2026-11-10 13:31 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nde-ata-ya-saygi-durusu)
-
-![](data/images/c3ec47dcb2458e4b.jpg)
-
-> Odunpazarı Belediyesi, Gazi Mustafa Kemal Atatürk'ün aramızdan ayrılışının 88'inci yıl dönümünde belediye binasında anma töreni düzenledi.
-
-Odunpazarı Belediyesi, Cumhuriyetimizin kurucusu Büyük Önder Gazi Mustafa Kemal Atatürk'ü aramızdan ayrılışının 88'inci yıl dönümünde düzenlenen törenle andı. Belediye hizmet binasının bahçesinde gerçekleştirilen programa belediye meclis üyeleri, başkan yardımcıları, daire müdürleri ve belediye çalışanları katıldı.
-
-Saat 09.05'te çalan sirenler eşliğinde Atatürk büstü önünde saygı duruşunda bulunulurken, ardından İstiklal Marşı okundu. Törende konuşan Odunpazarı Belediye Başkan Yardımcısı Emre Genç, Atatürk'ün fikirlerinin yol göstermeye devam ettiğini belirterek, kamu hizmeti sunan yerel yöneticiler ve çalışanlar olarak aklın ve bilimin ışığında ilerlediklerini ifade etti.
-
-Genç, Atatürk'ün mirasına sahip çıkmanın ve Cumhuriyet kazanımlarını korumanın önemine dikkat çekti. Konuşmanın ardından katılımcılar Atatürk büstüne çiçek bıraktı.
-
----
-
-## ESTÜ'de 10 Kasım anması: Zeybek ve modern dans gösterisi
-
-**Eğitim · Tepebaşı** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesinde-10-kasim-ataturku-anma-programi-duzenlendi)
-
-> Eskişehir Teknik Üniversitesi'nde düzenlenen 10 Kasım Atatürk'ü Anma Programı, çelenk sunumu ve konferans salonundaki müzik ve dans gösterileriyle gerçekleştirildi.
-
-Eskişehir Teknik Üniversitesi (ESTÜ), Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ü ebediyete intikalinin 88. yılında düzenlenen törenle andı.
-
-Üniversite Atatürk Anıtı önünde gerçekleştirilen programda, Rektör Prof. Dr. Adnan Özcan tarafından anıta çelenk sunuldu. Tören, saygı duruşu ve İstiklal Marşı'nın okunmasıyla devam etti.
-
-Anma etkinlikleri daha sonra ESTÜ Konferans Salonu'nda sürdü. Havacılık ve Uzay Bilimleri Fakültesi öğretim elemanı Öğr. Gör. Füsun Adar ile Spor Bilimleri Fakültesi öğretim elemanı Arş. Gör. Dr. Feridun Fikret Özer'in sunuculuğunu üstlendiği programda, sanat yönetmenliğini Öğr. Gör. Sabriye Tosun Şentürk'ün yaptığı müzik dinletileri sunuldu. Efe Türküsü, 19 Mayıs Marşı ve İleri Marşı'nın seslendirilmesinin ardından sahnelenen zeybek gösterisi ve modern dans performansı katılımcılara duygusal anlar yaşattı.
-
-Program, Atatürk'ün hatırasına gerçekleştirilen etkinliklerin ardından sona erdi.
-
----
-
-## Eskişehir'de bestHONEY Projesi'nin yaygınlaştırma toplantısı yapıldı
-
-**Tarım · Merkez** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1761/Besthoney-Projesinin-Mesleki-Egitim-Personeline-Yonelik-Yayginlastirma-Toplantisi-Eskisehirde-Gerceklestirildi)
-
-![](data/images/92b4c1eb1c810b39.jpg)
-
-> Eskişehir İl Tarım ve Orman Müdürlüğü koordinatörlüğünde yürütülen Erasmus+ kapsamındaki bestHONEY Projesi'nin mesleki eğitim personeline yönelik yaygınlaştırma toplantısı gerçekleştirildi.
-
-Eskişehir İl Tarım ve Orman Müdürlüğü koordinatörlüğünde; Fransa, İtalya ve İspanya'daki proje ortaklarıyla birlikte yürütülen Erasmus+ Mesleki Eğitim Alanında İş Birliği Ortaklıkları kapsamındaki bestHONEY Projesi'nin yaygınlaştırma toplantısı Eskişehir'de düzenlendi.
-
-Toplantının açılış konuşmasını yapan Eskişehir İl Tarım ve Orman Müdürü Yüksel Çil, projenin sürdürülebilir arıcılığa sağlayacağı katkılara dikkat çekti. Çil, uluslararası ortaklıklarla hazırlanan eğitim materyallerinin Türkiye'nin yanı sıra Avrupa ve dünyadaki meslek gruplarının bilgi birikimine de destek olacağını belirterek, uluslararası iş birliklerinin kurumsal kapasiteyi artırdığını ifade etti.
-
-Programda, İl Müdürlüğü personeli ve proje koordinatörü Veteriner Hekim Dr. Hatice Olcay projenin amacı, uluslararası faaliyetleri ve geliştirilen bilgi ve iletişim teknolojileri tabanlı eğitim materyalleri hakkında katılımcılara sunum yaptı. Sunumda modern teknik arıcılık, arı hastalıkları ve balda mevzuat gereklilikleri başlıklarında hazırlanan içeriklerin Türkçe, İngilizce, Fransızca, İtalyanca ve İspanyolca olmak üzere beş dilde hazırlandığı aktarıldı.
-
-Toplantının devamında İl Müdürlüğü personeli Veteriner Hekim E. Selçuk Özkütük tarafından arı hastalıkları ve tedavisi konusunda mesleki eğitim personeline bilgilendirme yapıldı.
-
----
-
-## Eskişehir'de 10 Kasım Anma Programı Düzenlendi
-
-**Gündem · Merkez** · 2026-11-10 13:31 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-10-kasim-ataturku-anma-programina-katildi)
-
-![](data/images/02e3a377cf4bbe76.jpg)
-
-> Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk, ebediyete irtihalinin 88. yıl dönümünde düzenlenen törenle anıldı.
-
-Türkiye Cumhuriyeti'nin kurucusu Büyük Önder Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yıl dönümü dolayısıyla Eskişehir'de anma programı gerçekleştirildi.
-
-İl Millî Eğitim Müdürlüğü tarafından düzenlenen program, saygı duruşunda bulunulması ve İstiklal Marşı'nın okunmasıyla başladı. Şehit İsmail Tetik Anadolu Lisesi öğretmen ve öğrencilerinin hazırladığı anlamlı anma etkinlikleri katılımcılara sunuldu.
-
-Tören, Gazi Mustafa Kemal Atatürk'ün saygı, minnet ve özlemle anılmasının ardından çekilen hatıra fotoğrafıyla sona erdi.
 
 ---
