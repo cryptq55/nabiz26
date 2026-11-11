@@ -21,11 +21,11 @@
     "title": "Albayrak: Odunpazarı'nda mağdur edebiyatının miadı doldu - Saray Medya",
     "url": "https://www.saraymedya.com/haber/albayrak-odunpazari-nda-magdur-edebiyatinin-miadi-doldu_323159/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Gürhan Albayrak",
       "Eskişehir AK Parti"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

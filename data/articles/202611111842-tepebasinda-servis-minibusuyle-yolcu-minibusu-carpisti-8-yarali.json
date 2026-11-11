@@ -21,11 +21,11 @@
     "title": "Eskişehir Tepebaşı'nda öğrenci servisi ile yolcu minibüsü çarpıştı, 8 kişi yaralandı - Haberler",
     "url": "https://www.haberler.com/amp/eskisehir-tepebasi-nda-ogrenci-servisi-ile-yolcu-20417703-haberi/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir polis ambulans",
       "Eskişehir trafik kazası"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
