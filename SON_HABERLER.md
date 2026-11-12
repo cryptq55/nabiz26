@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 12 Kasım 2026: Gram altın 6.402,48 TL
+
+**Ekonomi · Merkez** · 2026-11-12 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261112.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.336,66 TL'den alınıyor, 6.402,48 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.402,48 TL, alış fiyatı 6.336,66 TL oldu. Gram altın, önceki kapanışa göre yüzde 4,69 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.435 TL, yarım altın 20.864 TL, tam altın 41.575 TL, ata altın 42.686 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.980,33 TL, has altının gram fiyatı 6.383,33 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.936,30 dolardan işlem görürken, dolar/TL 50,29 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Odunpazarı'nda Atatürk ve Musiki Anma Programı Düzenlendi
 
 **Kültür-Sanat · Odunpazarı** · 2026-11-12 02:18 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-ataturk-ve-musiki-anma-programi-gerceklestirildi)
@@ -461,23 +481,5 @@ Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Eskişehir Teknik Ü
 ESTÜ Rektörlük Ofisinde gerçekleşen buluşmada Rektör Prof. Dr. Yusuf Adıgüzel, Prof. Dr. Adnan Özcan'ı yeniden atanmasından dolayı tebrik ederek yeni görev döneminde başarı dileklerini iletti.
 
 Ziyaretten duyduğu memnuniyeti ifade eden Rektör Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve iyi dilekleri dolayısıyla Prof. Dr. Yusuf Adıgüzel'e teşekkür etti.
-
----
-
-## Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği
-
-**Türkiye · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31968)
-
-![](data/images/1e23e9f7ed1cfb4b.jpg)
-
-> Türkiye ve Suudi Arabistan arasında, Cumhurbaşkanı Erdoğan'ın huzurunda elektrik projelerinde iş birliği mutabakat zaptı imzalandı.
-
-Türkiye ile Suudi Arabistan arasında elektrik projelerinde iş birliğine yönelik yeni bir adım atıldı. Antalya'da gerçekleştirilen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Enerji Bakanı Abdulaziz bin Selman Al-Saud'u kabul etti.
-
-Kabulün ardından Cumhurbaşkanı Erdoğan'ın huzurunda, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Suudi mevkidaşı Abdulaziz bin Selman Al-Saud tarafından 'Elektrik Projelerinde İş Birliğine İlişkin Mutabakat Zaptı' imzalandı.
-
-İmza töreninin ardından sosyal medya hesabından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, daha önce Riyad'da imzalanan hükümetlerarası anlaşmayla ACWA Power tarafından Türkiye'de iki aşamada geliştirilecek toplam 5 bin megavatlık yenilenebilir enerji projelerinin çerçevesinin oluşturulduğunu hatırlattı. Sivas ve Karaman'daki toplam 2 bin megavatlık ilk aşama güneş enerjisi projelerindeki ilerlemeden duydukları memnuniyeti dile getiren Bakan Bayraktar, Antalya'da atılan imzayla ikinci aşamadaki 3 bin megavatlık ilave kapasitenin hayata geçirilmesine yönelik çalışmaların ileri bir aşamaya taşındığını kaydetti.
-
-Bakan Bayraktar açıklamasında, yüksek gerilim doğru akım iletim altyapısı ve batarya enerji depolama sistemleriyle desteklenen rüzgâr enerjisi santrallerinin geliştirilmesini öngördüklerini belirterek, "Yenilenebilir enerji kapasitemizi artırırken şebeke altyapımızı güçlendirecek ve sistem esnekliğini geliştirecek bu yatırımlarla, Suudi Arabistan ile stratejik enerji iş birliğimizi derinleştiriyoruz. Türkiye'nin enerji dönüşümüne ve yatırım ortamına duyulan güveni somut projelere dönüştürmeye devam edeceğiz" ifadelerini kullandı.
 
 ---
