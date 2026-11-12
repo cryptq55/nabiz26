@@ -21,11 +21,11 @@
     "title": "12Kas2026 Eskişehir Teknik Üniversitesi ile Savunma Sanayii Arasında Bulut Bilişim Alanında İş Birliği Görüşmesi Millî Savunma Bakanlığı (MSB) Muhabere ve Bilgi Sistem Dairesi Başkanı Tuğgeneral Mustafa Murat KABUKÇU başkanlığındaki Millî Savunma Bakanlığı,…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-ile-savunma-sanayii-arasinda-bulut-bilisim-alaninda-is-birligi-gorusmesi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi",
       "Adnan Özcan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

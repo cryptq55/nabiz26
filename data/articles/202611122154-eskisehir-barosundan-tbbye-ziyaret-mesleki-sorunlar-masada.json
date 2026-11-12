@@ -21,11 +21,11 @@
     "title": "Eskişehir Barosu Başkanı ve Kurullarından TBB ye Ziyaret - Türkiye Barolar Birliği",
     "url": "https://www.barobirlik.org.tr/Haberler/eskisehir-barosu-baskani-ve-kurullarindan-tbbye-ziyaret-86833"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Türkiye Barolar Birliği",
       "Eskişehir Barosu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

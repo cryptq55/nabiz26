@@ -20,11 +20,11 @@
     "title": "Eskişehirspor maçı sonrası rezalet ortaya çıktı - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-maci-sonrasi-rezalet-ortaya-cikti-2464209"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor stadyum",
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
