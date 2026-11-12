@@ -2,6 +2,118 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Mahmudiye'deki modern serada domates hasadı yapıldı
+
+**Tarım · Mahmudiye** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-mahmudiye-ilcesinde-faaliyet-gosteren-nata-tarima-ait-sera-alanini-ziyaret-ederek-uretim-calismalari-hakkinda-bilgi-aldi)
+
+![](data/images/d0556a2266f47b20.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Mahmudiye'de termal suyla ısıtılan ve topraksız tarım yapılan 100 dönümlük serayı inceleyerek domates hasadına katıldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, tarımsal üretim faaliyetlerini yerinde incelemek üzere Mahmudiye ilçesinde bulunan Nata Tarım'a ait sera alanını ziyaret etti.
+
+Vali Yılmaz, yaklaşık 100 dönümlük alanda salkım domates üretimi yapılan tesisi gezerek yetkililerden çalışmalar hakkında bilgi aldı. Tesisin termal suyla ısıtıldığını ve ileri teknoloji sistemleriyle donatıldığını belirten Yılmaz, topraksız tarım uygulamalarını yerinde inceledi.
+
+İncelemelerinin ardından serada çalışanlarla bir araya gelen Vali Dr. Erdinç Yılmaz, domates hasadına katılarak üreticilere çalışmalarında başarılar diledi.
+
+---
+
+## ESTÜ'de savunma sanayii ve bulut bilişim iş birliği görüşmesi
+
+**Eğitim · Tepebaşı** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-ile-savunma-sanayii-arasinda-bulut-bilisim-alaninda-is-birligi-gorusmesi)
+
+> Millî Savunma Bakanlığı, SSB ve HAVELSAN heyeti, Eskişehir Teknik Üniversitesi'ni ziyaret ederek bulut bilişim ve millîleştirme çalışmalarını ele aldı.
+
+Millî Savunma Bakanlığı (MSB) Muhabere ve Bilgi Sistem Dairesi Başkanı Tuğgeneral Mustafa Murat Kabukçu başkanlığındaki heyet, Eskişehir Teknik Üniversitesi'ni (ESTÜ) ziyaret etti. Ziyarette, Millî Savunma Bakanlığı, Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB) ve HAVELSAN temsilcileri bir araya geldi.
+
+Toplantıda, bulut bilişim sistemlerinin millîleştirilmesine yönelik yürütülen çalışmalar ve bu alanda ihtiyaç duyulan nitelikli insan kaynağının yetiştirilmesi konuları ele alındı. Heyet, ESTÜ ile bu alanda ortak iş birliği yapmayı hedeflediklerini belirtti.
+
+ESTÜ Rektörü Prof. Dr. Adnan Özcan, üniversitenin savunma sanayii alanındaki Ar-Ge projelerine ve sektörel iş birliklerine değinerek araştırma altyapısıyla sürece katkı sunmaya hazır olduklarını ifade etti. Bilişim Teknolojileri Meslek Yüksekokulu Müdürü Prof. Dr. Tansu Filik ise yüksekokulun eğitim programları ve Bulut Bilişim Operatörlüğü Programı'nın altyapısı hakkında sunum gerçekleştirdi.
+
+Öğrencilerin mesleki yetkinliklerinin artırılması, staj ve istihdam olanaklarının değerlendirildiği buluşma, hatıra fotoğrafı çekimiyle sona erdi.
+
+---
+
+## Eskişehirspor Maçı Sonrası Statta 220 Koltuk Kırıldı
+
+**Spor · Tepebaşı** · 2026-11-12 21:54 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-maci-sonrasi-rezalet-ortaya-cikti-2464209)
+
+> Anadolu SF ile Eskişehirspor karşılaşmasının ardından Osmangazi Üniversitesi Sahası'nda yapılan incelemede 220 koltuğun kırıldığı belirlendi.
+
+Anadolu Spor Faaliyetleri ile Eskişehirspor arasında oynanan müsabakanın ardından Osmangazi Üniversitesi Sahası'nda hasar tespit çalışması gerçekleştirildi.
+
+TFF temsilcisi ve stadyum yöneticileri tarafından yapılan kontrollerde, tribünlerde bulunan toplam 220 koltuğun kırıldığı ve kullanılamaz hale geldiği tespit edildi. Oluşan hasar, her iki kulüp temsilcilerinin imzaladığı raporla kayıt altına alındı.
+
+Müsabakaya ev sahipliği yapan Anadolu Spor Faaliyetleri yönetiminin, Eskişehirspor taraftarlarını yalnızca misafir tribünüyle sınırlı tutmayarak tüm tribünlere alması ve sorumluluğu üstlenmesi nedeniyle hasarın faturasının ev sahibi kulübe kesileceği öğrenildi.
+
+---
+
+## Eskişehir'de Küçükbaş Hayvan Islahı Projesi Masaya Yatırıldı
+
+**Tarım · Merkez** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1763/Eskisehirde-Halk-Elinde-Kucukbas-Hayvan-Islahi-Projesi-Degerlendirme-Toplantisi-Yapildi)
+
+![](data/images/7afe5739a977d35c.jpg)
+
+> Eskişehir İl Tarım ve Orman Müdürlüğü ev sahipliğinde düzenlenen toplantıda, kent genelinde sürdürülen küçükbaş hayvan ıslahı projelerinin mevcut durumu ve verimlilik çalışmaları ele alındı.
+
+Eskişehir'de tarım ve hayvancılık faaliyetlerini geliştirmek amacıyla Halk Elinde Küçükbaş Hayvan Islahı Ülkesel Projesi değerlendirme toplantısı gerçekleştirildi.
+
+İl Tarım ve Orman Müdürlüğü'nde düzenlenen buluşmaya; İl Müdürü Yüksel Çil, il müdür yardımcıları, şube müdürleri, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü'nden (TAGEM) Dr. Serdar Yağcı, akademisyenler, proje koordinatörleri ve Eskişehir İli Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı ile teknik personel katılım sağladı.
+
+Toplantıda, kentte yürütülen Orta Anadolu Merinosu ile Ramlıç alt projelerinin mevcut durumu masaya yatırıldı. Islah çalışmaları ve uygulama süreçlerinin detaylı şekilde ele alındığı toplantıda, kurumlar arası iş birliğinin güçlendirilmesine yönelik görüş alışverişinde bulunuldu.
+
+Eskişehir'de dört alt proje çerçevesinde 66 taban ve 2 elit olmak üzere toplam 68 sürüde bulunan 17 bin 344 anaç koyunla çalışmalar sürdürülüyor. Yürütülen bu projelerle hayvanların verim özelliklerinin geliştirilmesi, damızlık kalitesinin artırılması ve küçükbaş hayvancılığın sürdürülebilirliğine katkı sağlanması hedefleniyor.
+
+---
+
+## Eskişehir Barosu'ndan TBB'ye ziyaret: Mesleki sorunlar masada
+
+**Gündem · Merkez** · 2026-11-12 21:54 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.barobirlik.org.tr/Haberler/eskisehir-barosu-baskani-ve-kurullarindan-tbbye-ziyaret-86833)
+
+> Eskişehir Barosu Başkanı Av. Barış Günaydın ve yeni dönem kurul üyeleri, Türkiye Barolar Birliği'ni ziyaret ederek mesleki sorunlar üzerine görüş alışverişinde bulundu.
+
+Eskişehir Barosu Başkanı Av. Barış Günaydın, yeni dönem Yönetim ve Disiplin Kurulu üyeleri ile TBB delegelerinden oluşan heyetle birlikte Türkiye Barolar Birliği'ni ziyaret etti. Ziyarette, TBB Başkanı Av. R. Erinç Sağkan ve yönetim kurulu üyeleriyle bir araya gelindi.
+
+Gerçekleştirilen görüşmede avukatlık mesleğinin güncel sorunları, savunma hakkının güçlendirilmesi ve mesleğin geleceğine yönelik yapılabilecek çalışmalar ele alındı. Toplantıda karşılıklı değerlendirmelerde bulunuldu.
+
+---
+
+## Erdoğan'dan COP31 açıklaması: Ortak zemin iklim mücadelesine güç katıyor
+
+**Türkiye · Türkiye** · 2026-11-12 21:54 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-cop31-liderler-zirvesine-iliskin-aciklamasi-12-11-26)
+
+![](data/images/2413755f808fd42b.jpg)
+
+> Cumhurbaşkanı Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne katılan liderlere teşekkür ederek, zirvede oluşan ortak zeminin iklim kriziyle mücadelede kıymetli bir temel oluşturduğunu belirtti.
+
+Antalya'da gerçekleştirilen COP31 Liderler Zirvesi'ne katılan devlet ve hükümet başkanlarına teşekkür eden Cumhurbaşkanı Recep Tayyip Erdoğan, uluslararası sınamaların yaşandığı bu dönemde liderlerin bir araya gelmesinin iklim eylemine yönelik siyasi taahhüdü açıkça gösterdiğini vurguladı.
+
+Paris Anlaşması'nın ikinci on yılında yapılan fikir alışverişlerinin, iklim değişikliğiyle mücadelenin hem bilimsel hem de ahlaki bir zorunluluk olduğunu yeniden teyit ettiğini belirten Erdoğan, zirvede ortaya çıkan geniş ortak zeminin kendisini cesaretlendirdiğini ifade etti. Farklı ulusal koşullara sahip ülkelerin Antalya'da ortak bir zeminde buluşmasının diyalog ve iş birliği için önemli bir temel oluşturduğunu kaydetti.
+
+Zirve kapsamında elektrifikasyon, yeşil sanayileşme, dayanıklılık, sıfır atık ve iklim finansmanı gibi konuların etraflıca ele alındığını aktaran Erdoğan, son dönemde yaşanan afetlerin çalışmaların aciliyetini gözler önüne serdiğini bildirdi. En çok ihtiyaç duyanlar için finansmana erişimin önemine dikkat çeken Erdoğan, "İklim Uygulama Köprüsü" mekanizmasının mevcut taahhütleri somut sonuçlara dönüştürmeyi amaçladığını belirtti.
+
+Türkiye ile Avustralya ortaklığının çok taraflılığa duyulan güvenin bir ifadesi olduğunu dile getiren Erdoğan, devam eden müzakerelerde tüm tarafları zirvenin yapıcı ruhunu sürdürmeye ve 1,5 derece hedefini ulaşılabilir kılmaya davet etti.
+
+---
+
+## COP31'de Gazzeli öğrencilerin gözünden Gazze sergisi
+
+**Eğitim · Türkiye** · 2026-11-12 21:54 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/filistinli-ogrencilerin-quotumut-aciya-direnirkenquot-temali-resimleri-cop31039de-sergileniyor/haber/42489/tr)
+
+![](data/images/034f3fd10efe132c.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında, Millî Eğitim Bakanlığına bağlı kurumlarda eğitim gören Gazzeli öğrencilerin resimsergisi ziyaretçilerle buluştu.
+
+Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde anlamlı bir sergi kapılarını açtı. Millî Eğitim Bakanlığına bağlı eğitim kurumlarında öğrenim gören Gazzeli öğrencilerin hazırladığı tablolardan oluşan "Filistinli Öğrencilerin Gözünden Gazze: Umut Acıya Direnirken" resim sergisi ziyaretçilerin beğenisine sunuldu.
+
+Yağlı boya ve akrilik çalışmalarından oluşan sergide, Gazze'deki savaşın izleri, çocukların yaşadığı zorluklar ve geleceğe dair umutları tuvale yansıtıldı. Sergiyle savaşın çocuklar üzerindeki yıkıcı etkilerine dikkat çekilmesi, barış, insan hakları ve çocukların korunmasına yönelik farkındalığın artırılması amaçlandı. Etkinlikte öğrenciler, tablolarının hikâyelerini ve eserlerinde vermek istedikleri mesajları katılımcılara aktardı.
+
+Eserlerde savaşın getirdiği kayıpların yanı sıra kefiye, zeytin dalı, tarihî evler ve barış güvercinleri gibi simgelerle özgürlük, barış ve vatan özlemi vurgulandı. Öğrenciler, evlerine dönme umutlarını ve topraklarına olan bağlılıklarını eserleriyle ortaya koydu. Sergi, konferans süresince ziyaretçilerini ağırlamaya devam edecek.
+
+Öte yandan COP31 etkinlik alanındaki sergiye katılan Filistinli öğrenciler, organizasyon kapsamındaki Türkiye İklim Okulunu da ziyaret etti. Öğrenciler burada Millî Eğitim Bakanlığının yürüttüğü faaliyetler hakkında bilgi alarak atölye alanlarını gezdiler.
+
+---
+
 ## Türkiye ve Kanada'dan nükleer enerji hamlesi: Yeni aşamaya geçildi
 
 **Türkiye · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31972)
@@ -365,119 +477,5 @@ Eskişehir'in Tepebaşı ilçesinde meydana gelen trafik kazasında, öğrenci s
 Edinilen bilgilere göre, A.Ç. yönetimindeki 26 M 0009 plakalı yolcu minibüsü ile M.G. idaresindeki 26 S 1806 plakalı öğrenci servisi, Aşağısöğütönü Mahallesi 1018. Sokak'ta çarpıştı. Kazada minibüs sürücüsü A.Ç. ile araçtaki yolculardan H.M.M., M.U., N.D., C.K., İ.K., öğrenci servisinde görevli personel R.S.I. ve öğrenci A.D. yaralandı.
 
 İhbar üzerine olay yerine hızla polis ve sağlık ekipleri sevk edildi. Sağlık görevlilerinin olay yerindeki ilk müdahalelerinin ardından yaralılar, çevredeki hastanelere kaldırıldı. Tedavi altına alınan yaralıların sağlık durumlarına ilişkin bilgi verilmezken, polisin kazayla ilgili incelemesi sürüyor.
-
----
-
-## Sivas ve Taşeli GES projeleri için 8 uluslararası kuruluştan imza
-
-**Türkiye · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31970)
-
-![](data/images/4d19c9c98a910951.jpg)
-
-> Antalya'daki COP31 marjında, Suudi şirket ACWA'nın Türkiye'de hayata geçireceği Sivas ve Taşeli güneş enerjisi santrali projeleri için 8 uluslararası finans kuruluşu destek mektubu imzaladı.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Suudi Arabistan Enerji Bakanı Abdulaziz bin Selman Al-Saud’un huzurunda, Sivas ve Taşeli Güneş Enerjisi Santrali (GES) projelerinin finansmanına yönelik destek mektupları imzalandı. Antalya’da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen imza töreninde, toplam 5 bin megavatlık yenilenebilir enerji projesinin ilk aşaması ele alındı.
-
-İmza töreninin ardından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, 2040 yılında rüzgâr ve güneşte 175 bin megavatlık kurulu güce ulaşmayı hedeflediklerini belirtti. Anlaşmanın toplam 5 bin megavatlık paketin 2 bin megavatlık kısmını kapsadığını ifade eden Bakan Bayraktar, projelerin hayata geçirilmesi için 9 uluslararası kuruluşla finansman sağlanacağını kaydetti. Kalan 3 bin megavatlık bölümün ise rüzgâr, güneş ve depolama yatırımlarını içerebileceğini aktardı.
-
-Her biri bin megavat kapasiteye sahip olacak Sivas ve Karaman (Taşeli) güneş enerjisi santrallerinin, toplam 1,6 milyar avroluk yatırımla 2029 yılında faaliyete geçmesi planlanıyor. Projelerin tamamlandığında 1,3 milyon haneye elektrik sağlaması ve yılda yaklaşık 1,65 milyon ton karbondioksit emisyonunu önlemesi öngörülüyor.
-
----
-
-## Eskişehirspor derbisinde saat değişikliği: Anadolu SF maçı ne zaman?
-
-**Spor · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-maci-bugun-anadolu-sf-eskisehirspor-maci-saat-kacta-hangi-kanalda-2449010)
-
-![](data/images/87753aa37ad1b9fa.jpg)
-
-> Nesine 3. Lig 2. Grup'ta zirve yarışını yakından ilgilendiren Eskişehir derbisinin saati değiştirildi. ESOGÜ Stadyumu'ndaki karşılaşma saat 13.00'te başlayacak.
-
-Nesine 3. Lig 2. Grup'un 11. haftasında Eskişehirspor, bugün Eskişehir Anadolu Spor Faaliyetleri ile karşı karşıya gelecek. Zirve yarışındaki iki takımın mücadelesi öncesinde yapılan son açıklamaya göre, başlangıçta saat 15.00 olarak duyurulan karşılaşma canlı yayın programı nedeniyle iki saat erkene alındı. Mücadele saat 13.00'te başlayacak.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ) Stadyumu'nda oynanacak derbi, Tivibu Spor ekranlarından canlı olarak yayınlanacak. Karşılaşmanın biletleri 400 TL'den satışa sunulurken, biletler maç günü saat 10.00'dan itibaren stat gişelerinden temin edilebilecek.
-
-Üniversite yönetimi, kampüste devam eden sınavlar nedeniyle taraftarlar için özel ulaşım kuralları uygulayacağını bildirdi. Kampüsteki sınavların aksamaması ve yoğunluğun önlenmesi amacıyla taraftarların ana giriş kapıları yerine Regülatör tarafındaki kapıyı kullanması istendi.
-
-Geride kalan 10 haftada her iki ekip de 21'er puana sahip bulunuyor. 22 puanlı liderin hemen ardından Eskişehirspor averajla ikinci, Anadolu SF ise üçüncü sırada yer alıyor.
-
----
-
-## Eskişehir'de 15 bin 500 fidan toprakla buluştu
-
-**Gündem · Odunpazarı** · 2026-11-11 18:42 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/11-kasim-milli-agaclandirma-gunu-kapsaminda-eskisehir039de-15-bin-500-fidan-toprakla-bulustu/icerik/8709/tr)
-
-![](data/images/03566ebf692954ff.jpg)
-
-> 11 Kasım Millî Ağaçlandırma Günü kapsamında Eskişehir genelinde 14 farklı noktada 15 bin 500 fidan toprakla buluşturuldu.
-
-Eskişehir'de 11 Kasım Millî Ağaçlandırma Günü, "Geleceğe Nefes, Dünyaya Barış" temasıyla gerçekleştirilen etkinliklerle kutlandı. Odunpazarı ilçesi Gülpınar Mahallesi'ndeki ağaçlandırma sahasında düzenlenen programa Vali Dr. Erdinç Yılmaz, İl Millî Eğitim Müdürü Sinan Aydın, protokol üyeleri, öğretmenler ve öğrenciler katıldı.
-
-Programda konuşan Vali Dr. Erdinç Yılmaz, günün büyük bir yeşil vatan seferberliğine dönüştüğünü belirterek ağacın barış, kardeşlik ve ortak yaşamın sembolü olduğunu ifade etti. Doğayı korumanın gelecek nesillere karşı ortak bir sorumluluk olduğunu vurgulayan Yılmaz, Eskişehir genelinde 2026 yılı sonuna kadar 1 milyon 100 bin fidanın toprakla buluşturulmasının hedeflendiğini kaydetti.
-
-Tören alanındaki 5 hektarlık sahada 8 bin sedir ve muhtelif türde fidan dikimi yapılırken, il genelinde 14 ayrı lokasyonda yaklaşık 12 hektarlık alanda toplam 15 bin 500 fidan dikildi. Etkinlik boyunca vatandaşlara 2 bin fidan dağıtılırken, katılımcılar diktikleri fidanlara ilk can suyunu verdi.
-
----
-
-## Erdoğan'dan Avustralya Başbakanı Albanese ile kritik COP31 görüşmesi
-
-**Türkiye · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-avustralya-basbakani-albaneseyi-kabulune-iliskin-aciklama-11-11-26)
-
-![](data/images/85089697fe8aae22.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında Avustralya Başbakanı Anthony Albanese'yi kabul etti.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi için Antalya'da bulunan Avustralya Başbakanı Anthony Albanese ile bir araya geldi. Basına kapalı gerçekleştirilen kabulde, Türkiye ile Avustralya arasındaki ikili ilişkilerin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
-
-Görüşme sırasında, iki ülke arasındaki mevcut ticaret potansiyelinin daha üst seviyelere taşınabileceği ifade edildi. Cumhurbaşkanı Erdoğan, bu doğrultuda pek çok farklı alanda iş birliği imkanlarının değerlendirilmesinin büyük önem taşıdığını dile getirdi.
-
-Öte yandan Cumhurbaşkanı Erdoğan, COP31 zirvesinde Türkiye ve Avustralya'nın ortak bir sorumluluk üstlendiğine dikkati çekerek, zirveye sundukları katkılardan dolayı Avustralya Başbakanı Albanese'ye teşekkürlerini iletti.
-
----
-
-## Albayrak'tan Odunpazarı tepkisi: Mağdur edebiyatının miadı doldu
-
-**Siyaset · Odunpazarı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.saraymedya.com/haber/albayrak-odunpazari-nda-magdur-edebiyatinin-miadi-doldu_323159/)
-
-> AK Parti İl Başkanı Gürhan Albayrak, Emek ve 71 Evler mahallelerinde vatandaşlarla buluşarak Odunpazarı'ndaki yerel yönetim anlayışını eleştirdi.
-
-AK Parti Eskişehir İl Başkanı Gürhan Albayrak, Odunpazarı İlçe Başkanı Mustafa Kemal Bandırma ile birlikte Emek ve 71 Evler mahallelerini ziyaret ederek vatandaşların talep ve sorunlarını dinledi. Ziyaretler sırasında yaptığı değerlendirmelerde yerel yönetimi eleştiren Albayrak, Odunpazarı'nda mazeret siyaseti yürütüldüğünü savundu.
-
-Siyasetlerinin temelinin vatandaşla kurulan gönül bağına dayandığını belirten Albayrak, birlikteliklerinin seçimden seçime olmadığını ifade etti. Sosyal medyada yer alan bazı tepkilere de değinen Albayrak, hizmet eksikliklerinin vatandaşlarca dile getirildiğini öne sürdü.
-
-Odunpazarı'ndaki yerel yönetimin hizmet üretmek yerine mazeret ürettiğini iddia eden Albayrak, "Odunpazarı’nda mağdur edebiyatı yapan yerel yönetim zihniyetinin miadı doldu. Vatandaşlarımız yerel yönetimden umudunu tamamen kesmiş durumda" dedi.
-
----
-
-## 81 ilden gençlerin çevre mesajları interaktif haritada yer aldı
-
-**Eğitim · Türkiye** · 2026-11-11 18:42 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quot81-ilden-81-genc-iklim-delegesiquotnin-cevreye-dair-mesajlari-quotetkilesimli-turkiye-haritasiquotnda/haber/42480/tr)
-
-![](data/images/7b38b5a3685e7714.jpg)
-
-> Millî Eğitim Bakanlığınca COP31 kapsamında hayata geçirilen projede, 81 ilden genç iklim delegesinin çevreye dair mesajları etkileşimli Türkiye haritasında toplandı.
-
-Millî Eğitim Bakanlığı tarafından COP31 çalışmaları çerçevesinde yürütülen "81 İlden 81 Genç İklim Delegesi" projesinde önemli bir aşamaya ulaşıldı. Projede görev alan gençlerin çevre bilinci ve iklim değişikliğine yönelik görüşleri, hazırlanan interaktif Türkiye haritası üzerinden erişime açıldı.
-
-Gençlerin doğanın korunması, sürdürülebilirlik ve iklim kriziyle mücadele konularındaki düşüncelerini paylaştığı harita, projenin etki alanını genişletmeyi hedefliyor.
-
----
-
-## Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL
-
-**Ekonomi · Merkez** · 2026-11-11 12:42 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261111.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.493,78 TL'den alınıyor, 6.563,88 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.42 itibarıyla verilerine göre gram altının satış fiyatı 6.563,88 TL, alış fiyatı 6.493,78 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,29 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.698 TL, yarım altın 21.390 TL, tam altın 42.623 TL, ata altın 43.762 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 6.131,59 TL, has altının gram fiyatı 6.544,25 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 4.042,90 dolardan işlem görürken, dolar/TL 50,28 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.42 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
