@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 12.11.2026 21:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber sayfası 200. Derleme geçti (572 dosya). Son haber 16:53 TSİ (~4,7 saat önce); son 24 saatte 29 haber (Eğitim/Belediye 5, Türkiye 4; ilçe Türkiye/Tepebaşı 9, Odunpazarı 6, Merkez 4, Sivrihisar 1), 8'inde fotoğraf yok. Zayıf: Sağlık, Ulaşım, Spor (2). Instagram: 24 saatte 16 paylaşım, 7 Reels, son paylaşım ~4,7 saat önce. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Bodrum/kardeş şehir, nükleer, Nesine 3. Lig, Aile ve Sosyal Hizmetler, kum zambağı etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Sağlık/Ulaşım/Spor için kaynak; (3) haftalık "Eskişehir'de bu hafta" bülteni.
+SAHİBİNE: CLAUDE.md yönetici rutininin silindiğini söylüyor ama bu zamanlanmış görev hâlâ çalışıyor; token tasarrufu için kapatılması gerekebilir.
+
 ## 12.11.2026 09:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (385 haber; bu oturumda pip/Pillow kurulumu gerekti). Son haber 05:18 TSİ (~4,3 saat önce, masa 08-24 aralığı beklenen); son 24 saatte 29 haber (Eğitim 7, Türkiye 5, Belediye/Kültür-Sanat/Asayiş 3-4; ilçe Türkiye 9, Tepebaşı 8, Odunpazarı 6, Merkez 5, Sivrihisar 1), 8'inde fotoğraf yok. Zayıf: Sağlık, Ulaşım, Spor (1). Instagram: son 24 saatte 15 paylaşım, 7 Reels (DAILY_CAP dolmadı), son paylaşım ~4,2 saat önce. Kaynak taraması bulut IP'sinden zaman aşımı verdi, çalıştırılamadı.
 **Düzeltilen:** yok.
