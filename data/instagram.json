@@ -430,7 +430,9 @@
   "202611112015-baskan-kurttan-emekteki-kadinlara-mahallenin-gelecegine-birlikte-karar",
   "202611112015-pessinusun-binlerce-yillik-tarihi-eskisehirde-sergileniyor",
   "202611120218-meb-akub-gonullulerinden-cop31de-kum-zambagi-mesaisi",
-  "202611120218-odunpazarinda-ataturk-ve-musiki-anma-programi-duzenlendi"
+  "202611120218-odunpazarinda-ataturk-ve-musiki-anma-programi-duzenlendi",
+  "202611120218-eskisehirde-bilim-olimpiyatlari-akademisi-basliyor-son-basvuru-20-kasi",
+  "202611121243-altin-fiyatlari-12-kasim-2026-gram-altin-6-402-48-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -604,13 +606,10 @@
   "202611111842-uluslararasi-eskisehir-siir-bulusmalari-13-kasimda-basliyor",
   "202611111842-eskisehirde-15-bin-500-fidan-toprakla-bulustu",
   "202611112015-pessinusun-binlerce-yillik-tarihi-eskisehirde-sergileniyor",
-  "202611120218-eskisehirde-bilim-olimpiyatlari-akademisi-basliyor-son-basvuru-20-kasi"
+  "202611120218-eskisehirde-bilim-olimpiyatlari-akademisi-basliyor-son-basvuru-20-kasi",
+  "202611121243-altin-fiyatlari-12-kasim-2026-gram-altin-6-402-48-tl"
  ],
  "log": [
-  1794379457.1999638,
-  1794379473.7284043,
-  1794379490.2907243,
-  1794379507.0229824,
   1794401187.817536,
   1794401204.903847,
   1794422790.9938405,
@@ -621,15 +620,17 @@
   1794422976.103095,
   1794428358.372255,
   1794450118.9040592,
-  1794450245.467417
+  1794450245.467417,
+  1794487628.1841736,
+  1794487645.2313662,
+  1794487661.2273786
  ],
  "reel_log": [
-  1794379457.199966,
-  1794401187.8175378,
   1794422790.9938424,
   1794422901.2381566,
   1794428358.372257,
   1794450118.9040606,
-  1794450245.467419
+  1794450245.467419,
+  1794487628.184176
  ]
 }
