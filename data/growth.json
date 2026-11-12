@@ -62,9 +62,42 @@
    "takip": 0,
    "paylasim": 278,
    "erisim_7g": 19155
+  },
+  {
+   "gun": "2026-11-13",
+   "takipci": 175,
+   "takip": 0,
+   "paylasim": 280,
+   "erisim_7g": 20370
   }
  ],
  "paylasimlar": {
+  "18023225816951396": {
+   "tur": "REELS",
+   "zaman": "2026-11-12T22:41:25+0000",
+   "link": "https://www.instagram.com/reel/DfqJsaOJyek/",
+   "baslik": "🌙 Eskişehir'de bugün · 13 Kasım Cuma",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 70,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 110
+  },
+  "18068549246532693": {
+   "tur": "FEED",
+   "zaman": "2026-11-12T21:57:02+0000",
+   "link": "https://www.instagram.com/p/DfqErgMGvi9/",
+   "baslik": "Erdoğan'dan COP31 açıklaması: Ortak zemin iklim mücadelesine güç katıyor",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 3,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 4
+  },
   "18140613619730067": {
    "tur": "FEED",
    "zaman": "2026-11-12T13:57:32+0000",
@@ -72,11 +105,11 @@
    "baslik": "Bakan Tekin: PISA sonuçları gıptayla bakılan yürüyüşe dönüştü",
    "begeni": 0,
    "yorum": 0,
-   "reach": 2,
+   "reach": 14,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 7
+   "views": 21
   },
   "18153122434477272": {
    "tur": "FEED",
@@ -85,24 +118,24 @@
    "baslik": "Türkiye ve Kanada'dan nükleer enerji hamlesi: Yeni aşamaya geçildi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 2,
+   "reach": 5,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 4
+   "views": 7
   },
   "18022798163950987": {
    "tur": "REELS",
    "zaman": "2026-11-12T13:56:54+0000",
    "link": "https://www.instagram.com/reel/DfpNtRfB-lb/",
    "baslik": "Eskişehirspor - Ayvalıkgücü maçı ne zaman, saat kaçta?",
-   "begeni": 4,
-   "yorum": 0,
-   "reach": 130,
+   "begeni": 12,
+   "yorum": 2,
+   "reach": 1248,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 5,
-   "views": 233
+   "total_interactions": 15,
+   "views": 1436
   },
   "18146056624621271": {
    "tur": "REELS",
@@ -111,11 +144,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 12 Kasım Perşembe",
    "begeni": 0,
    "yorum": 0,
-   "reach": 114,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 123
+   "views": 127
   },
   "18155953633549994": {
    "tur": "REELS",
@@ -124,11 +157,11 @@
    "baslik": "Altın fiyatları 12 Kasım 2026: Gram altın 6.402,48 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 119,
+   "reach": 124,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 146
+   "views": 148
   },
   "17999218437022657": {
    "tur": "REELS",
@@ -137,11 +170,11 @@
    "baslik": "Eskişehir'de Bilim Olimpiyatları Akademisi Başlıyor: Son Başvuru 20 Kasım",
    "begeni": 0,
    "yorum": 0,
-   "reach": 124,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 134
+   "views": 137
   },
   "18080587394437393": {
    "tur": "REELS",
@@ -163,11 +196,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 12 Kasım Perşembe",
    "begeni": 0,
    "yorum": 0,
-   "reach": 129,
+   "reach": 131,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 142
+   "views": 144
   },
   "17926140084443699": {
    "tur": "REELS",
@@ -189,11 +222,11 @@
    "baslik": "Erdoğan'dan Avustralya Başbakanı Albanese ile kritik COP31 görüşmesi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 10,
+   "reach": 11,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 16
+   "views": 18
   },
   "17925030138222070": {
    "tur": "FEED",
@@ -228,11 +261,11 @@
    "baslik": "Eskişehirspor derbisinde saat değişikliği: Anadolu SF maçı ne zaman?",
    "begeni": 10,
    "yorum": 0,
-   "reach": 1450,
+   "reach": 1452,
    "saved": 0,
    "shares": 0,
    "total_interactions": 10,
-   "views": 1546
+   "views": 1549
   },
   "18449613355130023": {
    "tur": "REELS",
@@ -241,11 +274,11 @@
    "baslik": "Altın fiyatları 11 Kasım 2026: Gram altın 6.563,88 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 115,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 131
+   "views": 134
   },
   "17911930164664648": {
    "tur": "REELS",
@@ -280,7 +313,7 @@
    "baslik": "Bakan Bayraktar: 2040'a kadar 300 milyar dolarlık enerji yatırımı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
@@ -293,11 +326,11 @@
    "baslik": "Tepebaşı'nda asfalt mesaisi: Şeker'den sonra Işıklar ve Mamure'de",
    "begeni": 0,
    "yorum": 0,
-   "reach": 132,
+   "reach": 133,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 137
+   "views": 138
   },
   "18183260944429135": {
    "tur": "REELS",
@@ -319,11 +352,11 @@
    "baslik": "Türkiye ile Suudi Arabistan arasında kritik elektrik iş birliği",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 18
+   "views": 21
   },
   "17968129385980488": {
    "tur": "REELS",
