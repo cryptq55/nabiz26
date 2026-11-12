@@ -22,13 +22,13 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: 66d63c4b2b3023f07dde98658cf5f696
     steps:
       - uses: actions/checkout@v4
-      - run: npx --yes wrangler@4.158.0 deploy
+      - run: npx --yes wrangler@4.158.0 deploy --config ./wrangler.toml
       - name: GitHub anahtarını Worker'a kaydet
         env:
           GH_DISPATCH_TOKEN: ${{ secrets.GH_DISPATCH_TOKEN }}
         run: |
           if [ -z "$GH_DISPATCH_TOKEN" ]; then echo "GH_DISPATCH_TOKEN yok"; exit 1; fi
-          printf '%s' "$GH_DISPATCH_TOKEN" | npx --yes wrangler@4.158.0 secret put GH_TOKEN
+          printf '%s' "$GH_DISPATCH_TOKEN" | npx --yes wrangler@4.158.0 secret put GH_TOKEN --config ./wrangler.toml
       - name: Anahtar Actions'ı başlatabiliyor mu (fotoğraf işini bir kez başlatır)
         env:
           GH_DISPATCH_TOKEN: ${{ secrets.GH_DISPATCH_TOKEN }}
