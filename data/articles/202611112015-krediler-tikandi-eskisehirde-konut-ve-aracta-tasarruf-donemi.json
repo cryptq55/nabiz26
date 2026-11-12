@@ -22,12 +22,12 @@
     "title": "Banka kredisi tıkandı, Eskişehir halkı tasarruf finansmanına yöneldi - Esgazete",
     "url": "https://www.esgazete.com/banka-kredisi-tikandi-eskisehir-halki-tasarruf-finansmanina-yoneldi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir",
       "otomobil galerisi",
       "emlak konut"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

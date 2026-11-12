@@ -22,11 +22,11 @@
     "title": "Eskişehir Haberleri - Eskişehir'de motokuryenin çarptığı kişi öldü - Yerel Haberler - Hürriyet",
     "url": "https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-motokuryenin-carptigi-kisi-oldu-43374457"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Atatürk Caddesi Eskişehir",
       "Eskişehir tramvay"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

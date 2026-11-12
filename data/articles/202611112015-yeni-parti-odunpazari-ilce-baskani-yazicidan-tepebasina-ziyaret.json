@@ -21,11 +21,11 @@
     "title": "YENİ Parti Odunpazarı İlçe Başkanı Yazıcı Belediyede Görüştü - Esgazete",
     "url": "https://www.esgazete.com/yeni-parti-odunpazari-ilce-baskani-yazici-belediyede-gorustu"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç",
       "Tepebaşı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
