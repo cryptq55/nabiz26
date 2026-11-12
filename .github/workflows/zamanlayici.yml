@@ -6,6 +6,10 @@ on:
     branches: [main]
     paths: ["zamanlayici/**"]
   workflow_dispatch:
+    inputs:
+      izle:
+        description: "Yayından sonra Worker kayıtlarını dakika olarak izle (tanı için, 0 = izleme)"
+        default: "0"
 
 permissions:
   contents: read
@@ -13,7 +17,7 @@ permissions:
 jobs:
   yayinla:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 40
     defaults:
       run:
         working-directory: zamanlayici
@@ -37,3 +41,8 @@ jobs:
             -H "Authorization: Bearer $GH_DISPATCH_TOKEN" -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/cryptq55/nabiz26/actions/workflows/foto.yml/dispatches -d '{"ref":"main"}')
           echo "GitHub yanıtı: $code"; test "$code" = "204"
+      - name: Worker kayıtlarını izle (tanı)
+        if: inputs.izle != '' && inputs.izle != '0'
+        env:
+          DAK: ${{ inputs.izle }}
+        run: timeout $((DAK*60)) npx --yes wrangler@4.158.0 tail --config ./wrangler.toml --format pretty || true

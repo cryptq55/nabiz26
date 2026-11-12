@@ -26,6 +26,8 @@ async function dispatch(env, wf) {
 
 export default {
   async scheduled(event, env, ctx) {
-    for (const wf of due(new Date(event.scheduledTime))) ctx.waitUntil(dispatch(env, wf));
+    const jobs = due(new Date(event.scheduledTime));
+    console.log("cron", new Date(event.scheduledTime).toISOString(), jobs.join(",") || "-");
+    for (const wf of jobs) ctx.waitUntil(dispatch(env, wf));
   },
 };
