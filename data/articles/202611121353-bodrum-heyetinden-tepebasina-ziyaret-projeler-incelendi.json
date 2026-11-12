@@ -21,11 +21,11 @@
     "title": "Bodrum Belediyesi heyeti, Tepebaşı’nın sürdürülebilir projelerini inceledi - Anka Haber",
     "url": "https://ankahaber.net/haber/bodrum-belediyesi-heyeti-tepebasi-nin-surdurulebilir-projelerini-inceledi-21036e7d"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Melih Savaş Yaşam Köyü",
       "Tepebaşı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
