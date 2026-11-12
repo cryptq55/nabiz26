@@ -51,6 +51,10 @@ haber yayını bu bağlantıyı beklemeden yapılır. Ücretli Gemini faturaland
   yazar. Sahibine ait kararlar `SAHİBİNE:` satırlarıyla orada. Instagram fiili sınırı ~25/24 saat (`DAILY_CAP`=16 + 2 bülten).
 - **Otomatik masa** (`masa.yml`, 05.11.2026): Claude masası kapalı; 08-24 TSİ 2 saatte bir `newsbot.py --auto` haberleri
   ücretsiz Gemini (`GEMINI_API_KEY` secret) ile yazar, sonra foto.yml ve haber.yml'yi başlatır. Codex için `AGENTS.md`.
+- **Zamanlayıcı** (`zamanlayici/`, Cloudflare Worker `nabiz26-zamanlayici`, 12.11.2026): GitHub schedule'ları saatlerce
+  gecikiyor/atlanıyor; Worker 20 dakikada bir uyanıp `masa.yml` (05-21 UTC tek saatler), `altin.yml` (06 UTC) ve `foto.yml`
+  (saatte bir) iş akışlarını `GH_DISPATCH_TOKEN` (Actions yazma) ile başlatır. Yayın/tanı: `zamanlayici.yml` (`izle` girdisi
+  Worker kayıtlarını izler). GitHub schedule'ları yedek olarak duruyor.
 - **Sağlık kontrolü** (`saglik.yml`, saatte bir): gündüz son haber 3 saatten eskiyse yedek masa (`newsbot.py --auto`)
   çalışır: önce Anthropic API, kredi yoksa ücretsiz Gemini (`GEMINI_API_KEY`). Site açılmazsa ya da 8 saat haber
   yoksa `saglik` etiketli GitHub kaydı açılır (sahibine e-posta), düzelince kapanır.
