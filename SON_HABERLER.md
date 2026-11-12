@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nda Atatürk ve Musiki Anma Programı Düzenlendi
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-12 02:18 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-ataturk-ve-musiki-anma-programi-gerceklestirildi)
+
+![](data/images/b6d26903c6af37ad.jpg)
+
+> Odunpazarı Belediyesi tarafından düzenlenen "Atatürk ve Musiki" anma programında, Gazi Mustafa Kemal Atatürk'ün sanata ve müziğe verdiği önem ele alındı.
+
+Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk, aramızdan ayrılışının 88. yıl dönümünde Odunpazarı Belediyesi'nin düzenlediği anlamlı bir etkinlikle anıldı.
+
+Yunus Emre Kültür ve Sanat Merkezi'nde gerçekleştirilen programa; Odunpazarı Belediye Başkan Vekili Cenk Sungur, belediye meclis üyeleri, başkan yardımcıları, daire müdürleri ve çok sayıda sanatsever katıldı.
+
+Etkinlikte, Atatürk'ün müzikle kurduğu bağ, sanata ve kültüre bakış açısı katılımcılarla paylaşıldı. Ulu Önder'in yaşamından kesitlerin ve Cumhuriyet değerlerinin aktarıldığı gecede izleyiciler duygusal ve gurur dolu anlar yaşadı.
+
+---
+
+## MEB AKUB gönüllülerinden COP31'de kum zambağı mesaisi
+
+**Eğitim · Türkiye** · 2026-11-12 02:18 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/meb-akub-gonulluleri-cop31-kapsaminda-kum-zambaklarinin-korunmasi-icin-harekete-gecti/haber/42470/tr)
+
+![](data/images/703308ff76c9dbb2.jpg)
+
+> Milli Eğitim Bakanlığı AKUB ve Genç AKUB gönüllüleri, Antalya'nın Gazipaşa ilçesinde nesli tehdit altındaki kum zambaklarının korunması için farkındalık çalışması başlattı.
+
+Akdeniz kıyılarının nadide bitki türlerinden biri olan ve beyaz çiçekleriyle kıyı ekosistemine katkı sunan kum zambakları, doğal yaşam alanlarında koruma altına alındı. Yoğun kıyı kullanımı, çevre kirliliği ve bilinçli ya da bilinçsiz insan faaliyetleri nedeniyle tehdit altında bulunan kum zambaklarının koparılması yasaklanırken, ihlallere idari para cezası uygulanıyor.
+
+COP31 süreçleri kapsamında, biyolojik çeşitliliğin korunması ve doğayla uyumlu bir yaşam kültürünün yaygınlaştırılması amacıyla harekete geçildi. Bu kapsamda MEB AKUB ve Genç MEB AKUB gönüllüleri, "Bir Zambak Bin Nefes; Doğayı Koru, Geleceği Yaşat!" sloganıyla Gazipaşa sahillerinde çalışma başlattı.
+
+Gerçekleştirilen faaliyetlerde çocuklara, gençlere ve bölge halkına kum zambaklarının ekolojik önemi anlatılıyor. Çalışmalarla, doğal varlıkları koruma bilincinin günlük yaşama taşınması ve gençlerin doğanın korunmasında aktif rol üstlenmesi amaçlanıyor.
+
+---
+
+## Eskişehir'de HABAŞ Tepkisi: Sorumlular Yargılansın
+
+**Gündem · Odunpazarı** · 2026-11-12 02:18 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.evrensel.net/haber/6009072/eskisehir-emek-ve-demokrasi-platformu-habas-katliaminin-sorumlulari-yargilansin)
+
+> Eskişehir Emek ve Demokrasi Platformu, İzmir Aliağa'daki HABAŞ fabrikasında 19 işçinin hayatını kaybettiği patlamaya ilişkin Köprübaşı'nda eylem yaparak sorumluların yargılanmasını istedi.
+
+Eskişehir Emek ve Demokrasi Platformu'nun çağrısıyla bir araya gelen siyasi parti ve emek örgütleri, İzmir Aliağa'da bulunan HABAŞ Demir Çelik fabrikasında 19 işçinin yaşamını yitirdiği patlama nedeniyle protesto eylemi ve basın açıklaması düzenledi.
+
+Köprübaşı'nda toplanan kalabalık Esnaf Sarayı önüne kadar yürüdü. Platform adına açıklamayı okuyan Eskişehir Emek Partisi İl Yöneticisi Deniz Tepe, hayatını kaybeden işçilerin ailelerine başsağlığı dileyerek, yaşananların kaza değil iş cinayeti olduğunu belirtti. Tepe, fabrikada son 10 yılda en az 11 işçinin hayatını kaybettiğini, çok sayıda işçinin yaralandığını ifade ederek taşeronlaşma ve denetimsizliğe dikkat çekti.
+
+İktidarın ve fabrika yönetiminin sorumlu olduğunu savunan Tepe, patlamanın nedenlerinin bağımsız bir heyet tarafından araştırılması, tüm denetim sonuçlarının kamuoyuna açıklanması ve sorumluların derhal yargılanması çağrısında bulundu. Açıklamada ayrıca taşeron sisteminin kaldırılması ve iş güvenliği önlemlerinin artırılması talep edildi.
+
+---
+
+## Eskişehir'de Bilim Olimpiyatları Akademisi Başlıyor: Son Başvuru 20 Kasım
+
+**Eğitim · Merkez** · 2026-11-12 02:18 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/eskisehir-bilim-olimpiyatlari-akademisi-basliyor/icerik/8708/tr)
+
+![](data/images/fe777279ccc9a1a0.jpg)
+
+> Eskişehir'de öğrencilerin bilimsel potansiyelini geliştirmek amacıyla hayata geçirilen Bilim Olimpiyatları Akademisi için başvurular başladı.
+
+Eskişehir Valiliği himayelerinde, İl Millî Eğitim Müdürlüğü tarafından yürütülecek olan Eskişehir Bilim Olimpiyatları Akademisi için çalışmalar tamamlandı. Programla öğrencilerin akademik potansiyellerini ortaya çıkarmak, analitik düşünme ve problem çözme becerilerini geliştirmek hedefleniyor.
+
+Matematik ve biyoloji alanlarında eğitim ve gelişim çalışmalarının yürütüleceği akademiye, resmî ve özel okullarda öğrenim gören 4 ve 5. sınıf öğrencileri ile hazırlık, 9, 10 ve 11. sınıf öğrencileri başvuru yapabilecek. Yetenekli öğrencilerin erken dönemde keşfedilerek bilimsel çalışmalara yönlendirilmesi amaçlanan programa katılmak isteyenlerin, 20 Kasım 2026 Cuma gününe kadar çevrim içi başvuru formunu doldurması gerekiyor.
+
+Başvuruların tamamlanmasının ardından katılımcı öğrencilerin belirlenmesi için seçme sınavı yapılacak. Sınav, 3 Aralık 2026 Perşembe günü saat 10.00'da öğrencilerin kendi okullarında gerçekleştirilecek.
+
+---
+
 ## YENİ Parti Odunpazarı İlçe Başkanı Yazıcı'dan Tepebaşı'na ziyaret
 
 **Siyaset · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/yeni-parti-odunpazari-ilce-baskani-yazici-belediyede-gorustu)
@@ -417,69 +479,5 @@ Kabulün ardından Cumhurbaşkanı Erdoğan'ın huzurunda, Enerji ve Tabii Kayna
 İmza töreninin ardından sosyal medya hesabından açıklamalarda bulunan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, daha önce Riyad'da imzalanan hükümetlerarası anlaşmayla ACWA Power tarafından Türkiye'de iki aşamada geliştirilecek toplam 5 bin megavatlık yenilenebilir enerji projelerinin çerçevesinin oluşturulduğunu hatırlattı. Sivas ve Karaman'daki toplam 2 bin megavatlık ilk aşama güneş enerjisi projelerindeki ilerlemeden duydukları memnuniyeti dile getiren Bakan Bayraktar, Antalya'da atılan imzayla ikinci aşamadaki 3 bin megavatlık ilave kapasitenin hayata geçirilmesine yönelik çalışmaların ileri bir aşamaya taşındığını kaydetti.
 
 Bakan Bayraktar açıklamasında, yüksek gerilim doğru akım iletim altyapısı ve batarya enerji depolama sistemleriyle desteklenen rüzgâr enerjisi santrallerinin geliştirilmesini öngördüklerini belirterek, "Yenilenebilir enerji kapasitemizi artırırken şebeke altyapımızı güçlendirecek ve sistem esnekliğini geliştirecek bu yatırımlarla, Suudi Arabistan ile stratejik enerji iş birliğimizi derinleştiriyoruz. Türkiye'nin enerji dönüşümüne ve yatırım ortamına duyulan güveni somut projelere dönüştürmeye devam edeceğiz" ifadelerini kullandı.
-
----
-
-## Türkiye İklim Okulu COP31'de uluslararası panellere ev sahipliği yaptı
-
-**Türkiye · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye-iklim-okuluquot-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti/haber/42464/tr)
-
-![](data/images/99648cee6bd7429a.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında kurulan Türkiye İklim Okulu, ikinci gününde iklim eğitimi ve sürdürülebilirlik odaklı uluslararası paneller düzenledi.
-
-Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde Millî Eğitim Bakanlığı tarafından hayata geçirilen Türkiye İklim Okulu, ikinci gününde uluslararası katılımcıların yer aldığı oturumlara ev sahipliği yaptı. Program, Gazi Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88. yıl dönümü dolayısıyla gerçekleştirilen saygı duruşu ile başladı.
-
-COP31'in Yeşil Bölge alanında düzenlenen panellerde, iklim kriziyle mücadelede eğitim sistemlerinin kritik rolü, sürdürülebilir kalkınma hedefleri ve gençlerin karar alma süreçlerindeki aktif katılımı masaya yatırıldı. "Ulusal Envanter ve İyi Uygulamalar Portföyü" sunumu kapsamında Türkiye'nin farklı bölgelerinde hayata geçirilen çevre projeleri katılımcılara tanıtıldı.
-
-Öte yandan "Sözden Eyleme: Gençlik İklim Beyannamesi ve Kuşaklararası İklim Yönetişimi Laboratuvarı" başlıklı oturumda gençlerin iklim politikalarındaki rolü tartışıldı. Millî Eğitim Bakanlığı yetkilileri, 2022'de hazırlanan İklim Değişikliği Eylem Planı'nın bu yıl güncellendiğini aktararak Türkiye İklim Okulunun resmî açılışının 14 Kasım'da Bakan Yusuf Tekin'in katılımıyla yapılacağını bildirdi.
-
-Ziyaretçilerin yoğun ilgi gösterdiği okulun "Yaşayan Okul", "İklim Deneyim Alanı" ve "Teknoloji Alanı" bölümlerinde uygulamalı atölyeler gerçekleştirildi. Etkinliklere katılan öğrencilere iklim eğitimi deneyimlerini belgelemeleri amacıyla "İklim Elçisi Pasaportu" verildi.
-
----
-
-## Odunpazarı'nda uyuşturucu operasyonu: 1 şüpheli yakalandı
-
-**Asayiş · Odunpazarı** · 2026-11-10 21:21 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.sondakika.com/amp/haber-eskisehir-odunpazari-nda-310-gram-esrar-bulundu-1--20414439/)
-
-> Eskişehir'in Odunpazarı ilçesinde düzenlenen uyuşturucu operasyonunda 310 gram esrar ve kök kenevir ele geçirildi, 1 kişi gözaltına alındı.
-
-Eskişehir İl Jandarma Komutanlığı ekipleri, uyuşturucuyla mücadele çalışmaları kapsamında Odunpazarı ilçesinde uyuşturucu üretimi yapıldığı bilgisine ulaştı. Yürütülen saha çalışmaları ve takiplerin ardından tespit edilen adrese operasyon düzenlendi.
-
-Ev ve eklentilerinde gerçekleştirilen aramalarda, 310 gram esrar, 6 kök Hint keneviri, esrar öğütme aparatı ve bir adet hassas terazi ele geçirildi. Ele geçirilen maddelere el konulurken olayla ilgili 1 şüpheli gözaltına alındı.
-
-Gözaltına alınan şüpheli hakkında "kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak" ile "2313 sayılı Uyuşturucu Maddelerin Murakabesi Hakkında Kanun'a muhalefet" suçlarından yasal işlem başlatıldı.
-
----
-
-## ESOGÜ Rektörü Gümüşsoy'dan Rektör Özcan'a hayırlı olsun ziyareti
-
-**Eğitim · Tepebaşı** · 2026-11-10 21:21 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-osmangazi-universitesi-rektoru-prof-dr-emine-gumussoydan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/98f36d67afeb5e9d.jpg)
-
-> Eskişehir Osmangazi Üniversitesi Rektörü Prof. Dr. Emine Gümüşsoy, yeniden ESTÜ Rektörlüğüne atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ) Rektörü Prof. Dr. Emine Gümüşsoy, Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a tebrik ziyaretinde bulundu.
-
-ESTÜ Rektörlük Ofisi'nde gerçekleştirilen kabulde, ESOGÜ Rektör Yardımcısı Prof. Dr. Atilla Özcan Özdemir de yer aldı. Ziyarette Rektör Gümüşsoy, Özcan'a yeni döneminde başarı dileklerini iletti.
-
-Eskişehir Teknik Üniversitesi Rektörü Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve iyi dilekleri dolayısıyla ESOGÜ Rektörü Gümüşsoy ile Rektör Yardımcısı Özdemir'e teşekkür etti.
-
----
-
-## Erdoğan ve Berdimuhamedov'dan COP31'de ikili iş birliği vurgusu
-
-**Siyaset · Türkiye** · 2026-11-10 21:21 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-turkmenistan-halk-maslahati-baskani-berdimuhamedovu-kabulune-iliskin-aciklama-10-11-26)
-
-![](data/images/8ea721298c7e98d7.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi dolayısıyla Antalya'da bulunan Türkmenistan Halk Maslahatı Başkanı Gurbanguli Berdimuhamedov'u kabul etti.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında Türkmenistan Halk Maslahatı Başkanı Gurbanguli Berdimuhamedov ile bir araya geldi. Gerçekleşen görüşmede Türkiye ile Türkmenistan arasındaki ikili ilişkilerin yanı sıra bölgesel ve küresel meseleler masaya yatırıldı.
-
-Cumhurbaşkanı Erdoğan görüşme sırasında, iki ülke arasındaki iş birliğinin artırılması ve ilişkilerin üst seviyeye taşınması adına kararlı adımların atılmaya devam edeceğini belirtti. Erdoğan, özellikle enerji, ticaret, savunma sanayii ve yatırım alanlarındaki ortak çalışmaların yoğunlaştırılması gerektiğine dikkat çekti.
-
-Türk Devletleri Teşkilatı'nın giderek güçlendiğini ifade eden Erdoğan, Ankara Zirvesi'nde Teşkilat'ın stratejik öneminin bir kez daha tescillendiğini kaydetti. Erdoğan ayrıca, Türkmenistan'ın Türk Devletleri Teşkilatı'na üye olarak katılması temennisini dile getirdi.
 
 ---
