@@ -1,0 +1,39 @@
+name: Zamanlayıcıyı yayınla
+
+# Cloudflare Worker "nabiz26-zamanlayici" (zamanlayici/): masa, altın ve fotoğraf işlerini zamanında başlatır.
+on:
+  push:
+    branches: [main]
+    paths: ["zamanlayici/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: zamanlayici
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: 66d63c4b2b3023f07dde98658cf5f696
+    steps:
+      - uses: actions/checkout@v4
+      - run: npx --yes wrangler@4.158.0 deploy
+      - name: GitHub anahtarını Worker'a kaydet
+        env:
+          GH_DISPATCH_TOKEN: ${{ secrets.GH_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_DISPATCH_TOKEN" ]; then echo "GH_DISPATCH_TOKEN yok"; exit 1; fi
+          printf '%s' "$GH_DISPATCH_TOKEN" | npx --yes wrangler@4.158.0 secret put GH_TOKEN
+      - name: Anahtar Actions'ı başlatabiliyor mu (fotoğraf işini bir kez başlatır)
+        env:
+          GH_DISPATCH_TOKEN: ${{ secrets.GH_DISPATCH_TOKEN }}
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' -X POST \
+            -H "Authorization: Bearer $GH_DISPATCH_TOKEN" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/cryptq55/nabiz26/actions/workflows/foto.yml/dispatches -d '{"ref":"main"}')
+          echo "GitHub yanıtı: $code"; test "$code" = "204"

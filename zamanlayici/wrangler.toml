@@ -1,0 +1,8 @@
+# Nabız 26 zamanlayıcısı: GitHub iş akışlarını zamanında başlatır. Yayın: zamanlayici.yml
+name = "nabiz26-zamanlayici"
+main = "index.js"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+[triggers]
+crons = ["*/20 * * * *"]
