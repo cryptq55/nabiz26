@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 12.11.2026 09:45 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200. Derleme geçti (385 haber; bu oturumda pip/Pillow kurulumu gerekti). Son haber 05:18 TSİ (~4,3 saat önce, masa 08-24 aralığı beklenen); son 24 saatte 29 haber (Eğitim 7, Türkiye 5, Belediye/Kültür-Sanat/Asayiş 3-4; ilçe Türkiye 9, Tepebaşı 8, Odunpazarı 6, Merkez 5, Sivrihisar 1), 8'inde fotoğraf yok. Zayıf: Sağlık, Ulaşım, Spor (1). Instagram: son 24 saatte 15 paylaşım, 7 Reels (DAILY_CAP dolmadı), son paylaşım ~4,2 saat önce. Kaynak taraması bulut IP'sinden zaman aşımı verdi, çalıştırılamadı.
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e HABAŞ, bilim olimpiyatları, Pessinus, belde evleri, motokurye, konut, Anadolu SF derbisi, okul öncesi etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Sağlık/Ulaşım/Spor için kaynak; (3) haftalık "Eskişehir'de bu hafta" bülteni.
+SAHİBİNE: yok.
+
 ## 11.11.2026 21:45 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son haber sayfalarından 2/3'ü 200 (biri fotoğrafsız, 404 beklenen). Derleme geçti (371 haber, venv ile). Son haber ~5,9 saat önce; masa.yml zamanlı koşuları gecikiyor (son schedule 12:40 UTC, 14/16/18 UTC turları hiç çalışmadı). Son 24 saatte 15 haber (Eğitim 4, Türkiye 4, Asayiş 3, Belediye 2; ilçe Türkiye 6, Merkez/Odunpazarı/Tepebaşı 3), 3'ünde fotoğraf yok. Instagram: 24 saatte 9 paylaşım, 2 Reels (DAILY_CAP=16 dolmadı). Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** `masa.yml` elle tetiklendi (zamanlı koşu gecikmesi).

@@ -47,6 +47,9 @@ CATEGORY_TAGS = {
 }
 # Başlık/etiketlerde geçen sözcüğe göre ek etiketler
 KEYWORD_TAGS = [
+    ("habaş", ["#HABAŞ", "#Eskişehir"]), ("bilim olimpiyat", ["#BilimOlimpiyatları", "#Eğitim"]), ("pessinus", ["#Pessinus", "#Arkeoloji"]),
+    ("belde evleri", ["#BeldeEvleri", "#Tepebaşı"]), ("motokurye", ["#Motokurye", "#TrafikKazası"]), ("konut", ["#Konut", "#Ekonomi"]),
+    ("anadolu sf", ["#Eskişehirspor", "#Derbi"]), ("okul öncesi", ["#OkulÖncesi", "#Eğitim"]),
     ("bayraktar", ["#EnerjiBakanlığı", "#Enerji"]), ("asfalt", ["#AsfaltÇalışması", "#YolÇalışması"]), ("esnaf", ["#Esnaf", "#Ekonomi"]),
     ("tırın altına", ["#TrafikKazası"]), ("emek mahallesi", ["#Emek", "#Odunpazarı"]),
     ("kurşunlu külliye", ["#KurşunluKülliyesi", "#Odunpazarı"]), ("savunma sanayii", ["#SavunmaSanayii"]),
