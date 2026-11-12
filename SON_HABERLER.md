@@ -2,6 +2,118 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye ve Kanada'dan nükleer enerji hamlesi: Yeni aşamaya geçildi
+
+**Türkiye · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31972)
+
+![](data/images/3565e13e0d2f9c9f.jpg)
+
+> Türkiye ile Kanada arasında nükleer enerji santrali projeleri kapsamında fizibilite ve ön tasarım mühendisliği anlaşması imzalandı.
+
+Türkiye ile Kanada arasında nükleer enerjide yeni bir aşamaya geçilerek önemli bir anlaşmaya imza atıldı. Türkiye Nükleer Enerji Anonim Şirketi (TÜNAŞ) ile Kanadalı Candu Energy Inc. arasında gerçekleştirilen mutabakat ile CANDU reaktör teknolojisinde fizibilite ve ön tasarım mühendisliği çalışması yapılacak.
+
+Antalya'da devam eden BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) marjında hayata geçirilen anlaşma, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Kanada Çevre, İklim Değişikliği ve Doğa Bakanı Julie Dabrusin'ın huzurunda imzalandı. Sürecin, projenin teknik ve ticari açıdan olgunlaşmasını sağlayarak nihai yatırım kararları için güvenilir bir zemin oluşturması hedefleniyor.
+
+Bakan Alparslan Bayraktar, anlaşmaya ilişkin değerlendirmesinde, fizibilite ve ön tasarım mühendisliğini kapsayan bu sürecin nükleer enerjideki uzun vadeli yol haritasını netleştireceğini ve arz güvenliğini tahkim edeceğini belirtti. Çalışmaların en kritik boyutlarından birinin yerli sanayinin projeye maksimum katılımı ve nitelikli insan kaynağının geliştirilmesi olduğunu vurguladı.
+
+---
+
+## Eskişehirspor - Ayvalıkgücü maçı ne zaman, saat kaçta?
+
+**Spor · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-ayvalikgucu-maci-ne-zaman-saat-kacta-canli-yayin-hangi-kanalda-2463963)
+
+![](data/images/3c6e2fa205f1daf4.jpg)
+
+> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, 12. hafta karşılaşmasında Ayvalıkgücü Belediyespor'u konuk edecek.
+
+Nesine 3. Lig 2. Grup'ta üst sıraları hedefleyen Eskişehirspor, ligin 12. haftasında kendi sahasında Ayvalıkgücü Belediyespor ile kozlarını paylaşacak. Futbolseverlerin merakla beklediği karşılaşmanın detayları netleşti.
+
+TFF maç programına göre müsabaka, 15 Kasım 2026 Pazar günü Eskişehir'deki Prof. Dr. Fethi Heper Stadyumu'nda oynanacak. Kritik mücadele saat 15.30'da başlayacak.
+
+Karşılaşmayı canlı takip etmek isteyen taraftarlar için mücadelenin Tivibu Spor ekranlarından naklen yayınlanması planlanıyor. Yayın detayları ve olası değişiklikler için maç saatinde yayın akışının kontrol edilmesi öneriliyor.
+
+---
+
+## Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde Koordinasyon Toplantısı
+
+**Gündem · Merkez** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aile.gov.tr/eskisehir/haberler/il-mueduerlueguende-koordinasyon-toplantisi-toplumda-goeruelmeyen-sikintilari-tespit-etmek-temel-gayemiz/)
+
+![](data/images/7711957ad997a55a.jpg)
+
+> Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde gerçekleştirilen koordinasyon toplantısında, sahadaki sosyal hizmet çalışmalarının güncel ihtiyaçları ele alındı.
+
+Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde kurum içi koordinasyon toplantısı düzenlendi.
+
+İl Müdürü Orhan Bayrak başkanlığında yapılan toplantıya, Aile ve Toplum Hizmetlerinden sorumlu İl Müdür Yardımcısı Hatice Dost, Sosyal Hizmet Merkezi (SHM) müdürleri ve birim personelleri katıldı. Buluşmada Sosyal Hizmet Merkezlerinin güncel ihtiyaçları ve sahadan gelen talepler ayrıntılı şekilde masaya yatırıldı.
+
+İnsan odaklı sosyal hizmet alanında mesleki körleşme riskine karşı dikkatli olunması gerektiği vurgulanan toplantıda, toplumda görülmeyen sıkıntıların zamanında tespit edilmesinin önemine dikkat çekildi. Sahadaki çalışmaların değişken yapısına değinen İl Müdürü Bayrak, tek tip çözüm yollarına sahip bir bakanlık olmadıklarını belirterek karşılaşılan her duruma karşı çok boyutlu stratejiler üretmek zorunda olduklarını ifade etti.
+
+Toplantı, personelin görüş, talep ve önerilerinin dinlenmesinin ardından sona erdi.
+
+---
+
+## Erdoğan'dan Somali Cumhurbaşkanı Mahmud ile COP31'de ikili görüşme
+
+**Siyaset · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-somali-cumhurbaskani-mahmud-ile-gorusmesine-iliskin-aciklama-12-11-26)
+
+![](data/images/484c89a323d10ae0.jpg)
+
+> Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi kapsamında Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile bir araya geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi dolayısıyla Antalya'da bulunan Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile görüşme gerçekleştirdi. İki lider arasındaki görüşmede Türkiye ile Somali arasındaki ikili ilişkiler ile çeşitli bölgesel konular masaya yatırıldı.
+
+Cumhurbaşkanı Erdoğan, görüşmede Türkiye ve Somali'nin savunma ile enerji başlıkları başta olmak üzere birçok alanda iş birliğini geliştirme kararlılığında olduğunu vurguladı. İlişkilere ivme kazandıracak adımların atılmaya devam edileceğini ifade eden Erdoğan, Somali'nin huzur ve istikrarının Türkiye açısından büyük önem taşıdığını belirtti.
+
+Erdoğan ayrıca, ulusal diyalog sürecinin başarısının, millî birliğin tesisinin ve toplumsal barışın sağlanmasının temenni edildiğini dile getirdi.
+
+---
+
+## Bodrum heyetinden Tepebaşı'na ziyaret: Projeler incelendi
+
+**Belediye · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/bodrum-belediyesi-heyeti-tepebasi-nin-surdurulebilir-projelerini-inceledi-21036e7d)
+
+> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, kardeş şehir Tepebaşı’nı ziyaret ederek sürdürülebilirlik ve sosyal projeleri yerinde inceledi.
+
+Bodrum Belediye Başkanı Tamer Mandalinci, belediye başkan yardımcıları ve meclis üyelerinden oluşan 28 kişilik heyet, kardeş şehir Tepebaşı Belediyesi'ni ziyaret etti. Tepebaşı Belediye Başkanı Ahmet Ataç tarafından karşılanan heyet, belediye hizmet binası ile Uluslararası Eskişehir Pişmiş Toprak Sempozyumları'nda üretilen eserleri inceledi, geri dönüşüm atölyesi hakkında bilgi aldı.
+
+Ziyaret kapsamında Melih Savaş Yaşam Köyü'nü de gezen heyete, Alzheimer Konukevleri ve AB destekli REMOURBAN projesi başta olmak üzere sürdürülebilir kent çalışmaları aktarıldı. İki belediye arasındaki deneyim paylaşımının önemine vurgu yapan Tepebaşı Belediye Başkanı Ahmet Ataç, kentlerin sorunlarına çözüm üretmek amacıyla farklı yöntemler geliştirdiklerini belirtti.
+
+Tepebaşı Belediyesi'nin örnek çalışmaları yerinde incelediklerini ifade eden Bodrum Belediye Başkanı Tamer Mandalinci ise, projelerden Bodrum'un ihtiyaçlarına uygun olanları kendi kentlerinde hayata geçirmek istediklerini kaydetti.
+
+---
+
+## Bodrum heyetinden Tepebaşı'na ziyaret: İyi örnekler Bodrum'da uygulanacak
+
+**Belediye · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanmandalincitepebası’nıniyiorneklerinibodrum’dadegerlendirecegiz)
+
+![](data/images/117757953094a913.jpg)
+
+> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, kardeş şehir Tepebaşı Belediyesi'ni ziyaret ederek sürdürülebilirlik ve sosyal projeleri inceledi.
+
+Bodrum Belediye Başkanı Tamer Mandalinci, belediye başkan yardımcıları ve meclis üyelerinden oluşan 28 kişilik heyetle birlikte kardeş şehir Tepebaşı Belediyesi'ni ziyaret etti. Tepebaşı Belediye Başkanı Ahmet Ataç tarafından karşılanan heyet, belediye binası ve Uluslararası Eskişehir Pişmiş Toprak Sempozyumları kapsamında üretilen eserleri inceledi. Geri dönüşüm atölyesini de gezen konuklar, sürdürülebilirlik odaklı çalışmalar hakkında bilgi aldı.
+
+Makam ziyaretinin ardından Melih Savaş Yaşam Köyü'ne geçen heyet, Alzheimer Konukevleri ve birimlerin işleyişini yerinde inceledi. Ziyarette ayrıca Tepebaşı Belediyesinin Avrupa Birliği destekli REMOURBAN projesi ele alındı.
+
+İki belediye arasındaki deneyim paylaşımının önemine dikkat çeken Tepebaşı Belediye Başkanı Ahmet Ataç, farklı yöntemler geliştirerek kentlerin sorunlarına çözüm aradıklarını belirtti. Bodrum Belediye Başkanı Tamer Mandalinci ise Tepebaşı'nın örnek alınacak önemli projeleri bulunduğunu ifade ederek, bu projelerden Bodrum'un ihtiyaçlarına uygun olanları kendi kentlerinde hayata geçirmek istediklerini kaydetti.
+
+---
+
+## Bakan Tekin: PISA sonuçları gıptayla bakılan yürüyüşe dönüştü
+
+**Eğitim · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-tbmm-plan-ve-butce-komisyonunda-bakanligin-2027-butcesine-iliskin-sunum-yapti/haber/42484/tr)
+
+![](data/images/287383e6722dd556.jpg)
+
+> Milli Eğitim Bakanı Yusuf Tekin, TBMM Plan ve Bütçe Komisyonunda bakanlığının 2027 bütçe sunumunu gerçekleştirdi.
+
+Milli Eğitim Bakanı Yusuf Tekin, TBMM Plan ve Bütçe Komisyonunda bakanlığının 2027 yılı bütçesine ilişkin sunum yaptı.
+
+Konuşmasında Gazi Mustafa Kemal Atatürk'ün eğitime verdiği öneme atıfta bulunan Tekin, Türkiye Yüzyılı Maarif Modeli ile erdem, değer ve eylem çerçevesinde köklerinden kopmayan bir nesil yetiştirmeyi amaçladıklarını belirtti. Tarih bilincinin önemine vurgu yapan Tekin, müfredatta yapılan güncellemelerle saldırıya saldırı, sömürgeciliğe ise sömürgecilik dediklerini ifade etti.
+
+PISA sonuçlarına da değinen Bakan Tekin, geçmişte yapılan eleştirilerin aksine Türkiye'nin fen bilimleri ve okuma becerilerinde OECD ortalamasının üzerine çıktığını kaydetti. Eğitime ayrılan bütçenin artırıldığını ve derslik sayısının iki katına çıkarıldığını belirten Tekin, okul öncesi okullaşma oranında da önemli artışlar sağlandığını dile getirdi.
+
+---
+
 ## Altın fiyatları 12 Kasım 2026: Gram altın 6.402,48 TL
 
 **Ekonomi · Merkez** · 2026-11-12 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -367,119 +479,5 @@ Ziynet altınlarda çeyrek altın 10.698 TL, yarım altın 21.390 TL, tam altın
 Uluslararası piyasalarda altının onsu 4.042,90 dolardan işlem görürken, dolar/TL 50,28 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 15.42 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Vali Yılmaz, Atatürk Lisesi Eğitim Tarihi Müzesi'ni gezdi
-
-**Eğitim · Merkez** · 2026-11-11 06:41 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-10-kasim-dolayisiyla-ataturk-lisesi-egitim-tarihi-muzesini-ziyaret-etti)
-
-![](data/images/431205f14fe046e3.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, 10 Kasım anma etkinlikleri kapsamında Atatürk Lisesi Eğitim Tarihi Müzesi'ni ziyaret ederek incelemelerde bulundu.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, 10 Kasım Atatürk’ü Anma Günü vesilesiyle Atatürk Lisesi Eğitim Tarihi Müzesi'ni ziyaret etti.
-
-Ziyaret sırasında müzede sergilenen eserleri, tarihî belgeleri, fotoğrafları ve eğitim materyallerini inceleyen Vali Yılmaz, okulun köklü geçmişi ve kentin eğitim tarihi hakkında yetkililerden detaylı bilgi aldı. Kentin eğitim ve kültür mirasının korunarak geleceğe aktarılmasının büyük önem taşıdığını vurguladı.
-
-Vali Yılmaz, müze incelemesinin ardından okulda görev yapan öğretmenlerle bir araya gelerek bir süre sohbet etti.
-
----
-
-## Tepebaşı'nda asfalt mesaisi: Şeker'den sonra Işıklar ve Mamure'de
-
-**Belediye · Tepebaşı** · 2026-11-11 06:41 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/seker’denısıklarvemamure’yetepebası’ndaasfaltmesaisisuruyor)
-
-![](data/images/b80c0bfa80caccf0.jpg)
-
-> Tepebaşı Belediyesi, ilçe genelindeki üstyapı çalışmaları kapsamında Şeker Mahallesi'nde asfalt yenileme çalışmalarına başladı.
-
-Tepebaşı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelinde ulaşım konforunu artırmak amacıyla yürüttüğü üstyapı çalışmalarına hız kesmeden devam ediyor. Yeni Mahalle'deki çalışmaların tamamlanmasının ardından Şeker Mahallesi'nde de asfalt yenileme uygulamaları hayata geçirildi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, sahaya giderek Şeker Mahallesi'ndeki çalışmaları yerinde inceledi ve ekiplerden bilgi aldı. Mahallelerin ihtiyaçları doğrultusunda hazırlanan program çerçevesinde yıpranan yol yüzeyleri yenilenirken, Şeker Mahallesi'ndeki çalışmaların ardından programın Işıklar ve Mamure mahalleleriyle süreceği bildirildi.
-
-Çalışmaları değerlendiren Başkan Ahmet Ataç, hemşerilerinin günlük yaşamını doğrudan etkileyen yol çalışmalarını mahallelerin ihtiyaçlarına göre planladıklarını belirtti. Ataç, hava ve mevsim koşullarının elverdiği ölçüde asfalt yenileme çalışmalarını sürdüreceklerini, amaçlarının Tepebaşı'nın her mahallesinde güvenli ve konforli bir ulaşım altyapısı oluşturmak olduğunu ifade etti.
-
-Fen İşleri Müdürlüğü ekipleri, belirlenen program dâhilinde ilçe genelinde yol bakım, onarım ve asfalt yenileme çalışmalarını sürdürecek.
-
----
-
-## MEB AKUB gönüllülerinden COP31'de biyoçeşitlilik mesaisi
-
-**Eğitim · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/meb-akub-gonullulerinden-cop31-kapsaminda-biyolojik-cesitliligin-korunmasina-destek/haber/42461/tr)
-
-![](data/images/807d6436420c9aa9.jpg)
-
-> Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi ile Genç MEB AKUB gönüllüleri, COP31 kapsamında biyoçeşitliliğin korunmasına destek verdi.
-
-Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi (MEB AKUB) ve Genç MEB AKUB gönüllüleri, COP31 etkinlikleri çerçevesinde önemli bir çalışmaya imza attı.
-
-Ekipler, yürüttükleri faaliyetlerle biyoçeşitliliğin korunması ve çevre bilincinin artırılmasına yönelik destek sağladı.
-
----
-
-## İletişim Başkanı Duran'dan COP31'de küresel iklim adaleti vurgusu
-
-**Türkiye · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-parlamenterler-dusunce-kuruluslarinin-temsilcileri-akademisyenler-ve-arastirmacilarla-bulustu)
-
-![](data/images/94e3da8dedb20556.jpg)
-
-> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'daki COP31 kapsamında düzenlenen etkinlikte parlamenterler ve düşünce kuruluşlarıyla bir araya gelerek iklim krizinde küresel adalet ve somut eylem çağrısı yaptı.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) dolayısıyla düzenlenen yan etkinliklerde; parlamenterler, düşünce kuruluşlarının temsilcileri, akademisyenler ve araştırmacılarla buluştu.
-
-İklim değişikliğinin çevre politikalarının sınırlarını aşarak ekonomik kalkınmadan enerji güvenliğine ve gıda arzına kadar çok geniş bir alanı etkilediğini belirten İletişim Başkanı Duran, bu sorunun tek bir aktörün alacağı tedbirlerle çözülemeyeceğini vurguladı. Türkiye'nin iklim krizine "mış gibi" yaklaşmadığını, somut ve sürdürülebilir çözümler ürettiğini ifade eden Duran, Paris Anlaşması'nın onaylanması, 2053 net sıfır emisyon hedefi, İkinci Ulusal Katkı Beyanı ve İklim Kanunu gibi atılan adımları hatırlattı. Ayrıca Emine Erdoğan'ın öncülüğünde hayata geçirilen Sıfır Atık girişiminin uluslararası boyut kazandığına işaret etti.
-
-Konuşmasında küresel adaletin önemine de parantez açan Duran, sanayileşmiş ülkelerin sorunun çözümünde daha fazla sorumluluk üstlenmesi gerektiğini kaydetti. Gelişmekte olan ülkelerin finansman ve teknolojiye erişiminin kritik olduğunu belirten Duran, göreceli kabiliyetler ilkesi doğrultusunda daha adil ve kapsayıcı politikalar geliştirilmesi gerektiğini dile getirdi.
-
-Düşünce kuruluşlarının karar alma süreçlerine sunduğu katkının altını çizen İletişim Başkanı Duran, bu tür buluşmaların Türkiye'nin iklim politikalarının uluslararası alanda anlaşılmasına ve yeni iş birliklerinin kurulmasına zemin hazırladığını ifade etti.
-
----
-
-## Eskişehir'de tırın altına giren otomobilin sürücüsü hayatını kaybetti
-
-**Asayiş · Merkez** · 2026-11-11 06:41 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.sozcu.com.tr/eskisehirde-tir-surucusu-uyurken-sese-uyandi-korkunc-olum-p380110)
-
-> Eskişehir-Ankara kara yolunda emniyet şeridinde park halindeki tıra arkadan çarpan otomobilin sürücüsü kaza yerinde yaşamını yitirdi.
-
-Eskişehir-Ankara kara yolu Teksan Sanayi Sitesi mevkisinde korkunç bir trafik kazası meydana geldi. Edinilen bilgilere göre, Hakan Çalık idaresindeki 60 AEK 506 plakalı otomobil, emniyet şeridinde park halinde bulunan M.R.K.'ye ait 03 AIU 306 çekici plakalı tıra arkadan çarptı.
-
-Çarpmanın şiddetiyle otomobil tırın dorsesinin altına girerek sıkıştı. Kazayı tırın içinde uyurken duyduğu sesle fark eden tır sürücüsü durumu yetkililere bildirdi. Çevredekilerin ihbarı üzerine olay yerine 112 Acil Sağlık, polis ve itfaiye ekipleri sevk edildi.
-
-Sağlık ekiplerinin yaptığı kontrolde, otomobil sürücüsü Hakan Çalık'ın olay yerinde hayatını kaybettiği belirlendi. Savcılık incelemesinin ardından Çalık'ın cenazesi otopsi işlemleri için Eskişehir Şehir Hastanesi morguna kaldırıldı.
-
-İtfaiye ve vinç çalışmalarının ardından tırın altından çıkarılan otomobil çekiciyle otoparka götürüldü. Polis ekipleri kazayla ilgili soruşturma başlatırken, tır sürücüsü M.R.K. ifadesi alınmak üzere polis merkezine götürüldü.
-
----
-
-## Bakan Bayraktar: 2040'a kadar 300 milyar dolarlık enerji yatırımı
-
-**Türkiye · Türkiye** · 2026-11-11 06:41 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31964)
-
-![](data/images/5e9a01e88abc7088.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, COP31 marjında düzenlenen UEA toplantısında Türkiye'nin Milli Enerji 2040 vizyonunu paylaştı.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Antalya'da gerçekleştirilen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Uluslararası Enerji Ajansı (UEA) Enerji Bakanları Toplantısı'na katıldı. Toplantıda konuşan Bakan Bayraktar, enerji arz güvenliğinin artık bir millî güvenlik meselesi haline geldiğini vurguladı.
-
-Geçtiğimiz hafta açıkladıkları 'Milli Enerji 2040' vizyonunun uzun vadeli bir yol haritası sunduğunu belirten Bayraktar, yaklaşık 128 gigavat seviyesindeki kurulu gücü 2040'a kadar 281 gigavata çıkarmayı hedeflediklerini kaydetti. Bu kapasitenin 175 gigavatının güneş ve rüzgâr enerjisinden sağlanacağını ifade eden Bayraktar, yenilenebilir enerjinin payını yüzde 77'ye yükseltmeyi ve 10 gigavatlık nükleer enerji kapasitesini devreye almayı planladıklarını aktardı.
-
-Dönüşüm sürecinde esneklik, depolama ve enterkonnekte şebekelere ihtiyaç duyulduğunu dile getiren Bayraktar, 40 gigavatsaatlik batarya depolama ve 15 gigavatlık sınır ötesi elektrik bağlantı kapasitesinin hedeflendiğini kaydetti. Ayrıca enerji verimliliği adımlarıyla 2040 yılına kadar kümülatif 240 milyar dolarlık tasarruf öngörüldüğünü belirten Bakan Bayraktar, tüm bu dönüşüm için 2040'a kadar yaklaşık 300 milyar dolarlık yatırım ihtiyacı bulunduğunu sözlerine ekledi.
-
----
-
-## Anadolu Üniversitesi Rektörü Adıgüzel'den Rektör Özcan'a Ziyaret
-
-**Eğitim · Tepebaşı** · 2026-11-11 06:41 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/anadolu-universitesi-rektoru-prof-dr-yusuf-adiguzelden-rektorumuz-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/9b36512d588469b2.jpg)
-
-> Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
-
-Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
-
-ESTÜ Rektörlük Ofisinde gerçekleşen buluşmada Rektör Prof. Dr. Yusuf Adıgüzel, Prof. Dr. Adnan Özcan'ı yeniden atanmasından dolayı tebrik ederek yeni görev döneminde başarı dileklerini iletti.
-
-Ziyaretten duyduğu memnuniyeti ifade eden Rektör Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve iyi dilekleri dolayısıyla Prof. Dr. Yusuf Adıgüzel'e teşekkür etti.
 
 ---
