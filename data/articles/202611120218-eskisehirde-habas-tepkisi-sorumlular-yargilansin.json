@@ -21,11 +21,11 @@
     "title": "Eskişehir Emek ve Demokrasi Platformu: HABAŞ katliamının sorumluları yargılansın - Evrensel.net",
     "url": "https://www.evrensel.net/haber/6009072/eskisehir-emek-ve-demokrasi-platformu-habas-katliaminin-sorumlulari-yargilansin"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Köprübaşı Eskişehir",
       "Esnaf Sarayı Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
