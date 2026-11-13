@@ -2,6 +2,102 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan İstiklal Mahallesi esnafına ziyaret
+
+**Gündem · Odunpazarı** · 2026-11-13 05:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
+
+![](data/images/047083b6780817c5.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, İstiklal Mahallesi'ndeki esnafı iş yerlerinde ziyaret ederek taleplerini dinledi ve hayırlı kazançlar diled.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki esnaf buluşmalarını sürdürüyor. Bu kapsamda İstiklal Mahallesi'nde faaliyet gösteren esnafı ziyaret eden Vali Yılmaz, işletme sahipleriyle bir süre sohbet etti.
+
+Ziyaret sırasında iş yerlerinin durumu hakkında bilgi alan Vali Yılmaz, esnafın talep ve önerilerini tek tek dinledi. Esnafın Eskişehir'in ekonomisine ve sosyal hayatına değer kattığını vurgulayan Vali Yılmaz, "Esnafımızın her zaman yanındayız. Hemşehrilerimizle birlikte Eskişehir’imiz için çalışmaya devam edeceğiz" dedi.
+
+Esnaf da ziyaretten duydukları memnuniyeti belirterek Vali Yılmaz'a teşekkürlerini iletti.
+
+---
+
+## Okullarda İklim Değişikliği ve Afet Dirençliliği Kılavuzu Hazırlandı
+
+**Eğitim · Türkiye** · 2026-11-13 05:05 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/okullarda-iklim-degisikligine-bagli-afet-risklerine-karsi-farkindalik-olusturulacak/haber/42483/tr)
+
+![](data/images/d81c7ed64867399c.jpg)
+
+> Milli Eğitim Bakanlığı, COP31 kapsamında okullarda iklim değişikliği ve afet risklerine karşı farkındalık oluşturmak amacıyla etkinlik kılavuzu hazırladı.
+
+Milli Eğitim Bakanlığı, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde okullar için yeni bir etkinlik kılavuzu oluşturdu. Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı tarafından hazırlanan kılavuzla, öğrencilerin iklim değişikliğinin etkilerine karşı bilinçli ve afetlere hazırlıklı bireyler olarak yetişmesi hedefleniyor.
+
+"Okullarda İklim ve Afet Dirençliliği ile Biyolojik Çeşitliliğin Korunması Etkinlik Kılavuzu", tüm öğretim kademeleri için yaş ve gelişim düzeyleri dikkate alınarak 6 farklı temada hazırlandı. Çalışma; iklim değişikliğine bağlı afet risklerine karşı farkındalığın artırılması, biyolojik çeşitliliğin korunması, dayanışma ve ortak hareket etme kültürünün desteklenmesini amaçlıyor.
+
+Türkiye Yüzyılı Maarif Modeli'nin erdem-değer-eylem çerçevesinde hazırlanan etkinlikler, öğrencilerin edinilen bilgileri somut davranışlara dönüştürmesini hedefliyor. Kılavuzda deprem, orman yangını, sel, heyelan, çığ ve biyolojik çeşitlilik temalarına yer verilirken; "Toprağın yolculuğu", "Okulun yaşam ağı", "Yağmur şiddetlenirse ne yapacağız" ve "Bir kıvılcımdan önce" gibi başlıklar altında ailelerin de katılımının destekleneceği bildirildi.
+
+---
+
+## Odunpazarı'nda Sanat ve Kitap Günleri Heyecanı Başlıyor
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-13 05:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haberes.com.tr/odunpazarinda-sanat-ve-kitap-gunleri-heyecani)
+
+![](data/images/578dffac13d8fb60.jpg)
+
+> Odunpazarı Belediyesi ve Cumhuriyet iş birliğiyle düzenlenecek Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde edebiyatseverleri ve yazarları bir araya getirecek.
+
+Odunpazarı Belediyesi, kültür ve sanat faaliyetleri kapsamında yeni bir etkinliğe ev sahipliği yapmaya hazırlanıyor. Cumhuriyet Gazetesi ve Cumhuriyet Kitapları iş birliğiyle hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde Yenikent Mahallesi'ndeki 100. Yıl Kültür Merkezi'nde gerçekleştirilecek.
+
+İki gün sürecek etkinlik boyunca edebiyat, şiir, öykü, resim, Cumhuriyet tarihi, Atatürk ve yerel yönetimler gibi pek çok farklı başlık ele alınacak. Program kapsamında gazeteciler, yazarlar, şairler ve araştırmacılar okurlarla söyleşilerde buluşacak ve ardından imza etkinlikleri düzenlenecek. Ayrıca katılımcılar, etkinlik süresince Cumhuriyet Gazetesi Koleksiyon Sergisi'ni ziyaret etme imkanı bulacak.
+
+Etkinliğin ilk günü olan 21 Kasım Cumartesi günü sergi açılışı ile başlayıp, "Yurdu Gezen Ressamlar", "Cumhuriyetin Cumhuriyeti", "Şiir ve Şairler" ile "Evimizin Dostları" söyleşileriyle devam edecek. Pazar günü ise "Acının Anatomisi", "Öykü", "Atatürk’ün Çağdaşlaşma Adımları" ve "Yunus Emre" başlıklarının yanı sıra, Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay'ın katılacağı "Yerel Siyaset, Yerel Yönetim" söyleşisi gerçekleştirilecek.
+
+---
+
+## Eskişehirspor derbiyi kazandı, liderlik koltuğuna oturdu
+
+**Spor · Merkez** · 2026-11-13 05:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://gundem11.com/derbiyi-eskisehirspor-kazandi/)
+
+![](data/images/7d416fdc9cb5b0f0.jpg)
+
+> Eskişehir Osmangazi Üniversitesi Stadyumu'nda oynanan derbide Anadolu Spor Faaliyetleri'ni 2-0 mağlup eden Eskişehirspor, puan cetvelinde zirveye yerleşti.
+
+Eskişehirspor, Eskişehir Osmangazi Üniversitesi Stadyumu'nda oynanan heyecan dolu derbi karşılaşmasında Eskişehir Anadolu Spor Faaliyetleri ile kozlarını paylaştı. Siyah-kırmızılı ekip, maç boyunca sergilediği üstün performansla rakibini 2-0 mağlup etmeyi başardı.
+
+Kritik mücadelede Eskişehirspor'a galibiyeti getiren golleri Mert Başer ve İsmail Kulet kaydetti. Sahadan 3 puanla ayrılan siyah-kırmızılılar, maç sonrasında tribünleri dolduran taraftarlarıyla büyük sevinç yaşadı.
+
+Bu galibiyetle puanını yükselten Eskişehirspor, rakiplerinin de puan kaybetmesiyle birlikte ligde liderlik koltuğuna oturdu.
+
+---
+
+## Erdoğan'dan COP31 İş Forumu'nda çağrı: Ekonomi ekolojiye feda edilmemeli
+
+**Türkiye · Türkiye** · 2026-11-13 05:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-cop31-is-forumunda-konustu)
+
+![](data/images/beda0e3998e028f0.jpg)
+
+> Antalya'da düzenlenen COP31 İş Forumu'nda konuşan Cumhurbaşkanı Erdoğan, iklim değişikliğiyle mücadelede iş dünyasının sorumluluk üstlenmesi gerektiğini vurguladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamındaki "COP31 İş Forumu"nda iş dünyasına hitap etti. Tarihin ve turizmin buluşma noktası Antalya'da yeryüzünün geleceğine sahip çıkmak için bir araya geldiklerini belirten Erdoğan, 20 Kasım'a kadar sürecek olan konferansa yaklaşık 100 bin kişinin katılımını beklediklerini kaydetti.
+
+İklim krizinin ulaştığı boyutların küresel ölçekte kararlı adımlar atılmasını zorunlu kıldığını ifade eden Erdoğan, COP31'in taahhütlerin somut sonuçlara dönüşmesine imkân verecek bir uygulama konferansı olarak tasarlandığını aktardı. Konferansın ilk gününü "sıfır atık", ikinci gününü ise "dirençli şehirler ve sürdürülebilir çevre" temalarına ayırdıklarını hatırlatan Erdoğan, 6 Şubat 2023 depremlerinin ardından üç yıldan kısa sürede 455 bin konut ve iş yeri inşa ederek bölgeyi yeniden ayağa kaldırdıklarını, bu tecrübeyi de zirvede paylaştıklarını belirtti.
+
+Gelişmiş ülkelerin emisyon azaltımı ve finansmanda daha fazla sorumluluk üstlenmesi gerektiğine dikkati çeken Erdoğan, "Eğer bugün biz de aynı hataları tekrarlar, ekolojiyi ekonomiye feda edersek bunun bedelini evlatlarımız ödeyecektir. Böyle bir yanlışa zaten biz izin vermeyiz" dedi. Türkiye'nin 2053 "net sıfır emisyon" hedefine değinen Erdoğan, yeşil kalkınma yolculuğunda rüzgâr, güneş ve nükleer enerji yatırımlarını artıracaklarını bildirdi.
+
+Uluslararası yatırımcıların Türkiye'ye güveninin arttığını vurgulayan Erdoğan, bu sabah 4 büyük kalkınma bankasıyla toplam 5,1 milyar dolarlık 10 anlaşma imzalandığını duyurdu. Kaynakların çiftçilere, ihracatçılara ve KOBİ'lere aktarılacağını belirten Erdoğan, HIT-30 programı ve Eximbank ile her zaman iş dünyasının yanında olacaklarını sözlerine ekledi.
+
+---
+
+## AK Parti İl Başkanı Albayrak'tan ESTÜ Rektörü Özcan'a Ziyaret
+
+**Eğitim · Tepebaşı** · 2026-11-13 05:05 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/ak-parti-eskisehir-il-baskani-gurhan-albayrak-ve-beraberindeki-heyetten-rektorumuz-prof-dr-adnan-ozcana-tebrik-ziyareti)
+
+> AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki heyet, yeniden rektörlüğe atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
+
+AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki heyet, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan’a tebrik ziyaretinde bulundu.
+
+Rektörlük makamında gerçekleşen buluşmada İl Başkanı Albayrak ve heyeti, Özcan’ı kutlayarak yeni görev döneminde başarı dileklerini iletti.
+
+Rektör Prof. Dr. Adnan Özcan, nazik ziyaretleri ve iyi dilekleri dolayısıyla İl Başkanı Gürhan Albayrak ile beraberindeki heyete teşekkür etti.
+
+---
+
 ## Mahmudiye'deki modern serada domates hasadı yapıldı
 
 **Tarım · Mahmudiye** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-mahmudiye-ilcesinde-faaliyet-gosteren-nata-tarima-ait-sera-alanini-ziyaret-ederek-uretim-calismalari-hakkinda-bilgi-aldi)
@@ -381,101 +477,5 @@ Milli Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü, ailelerin eğitim
 Kasım ayı bülteninde, çocukların doğayla bağ kurmasının çok yönlü gelişimlerine katkıları, ormanlar ve doğal yaşamın önemi, sıfır atık ile sürdürülebilir yaşam alışkanlıkları ele alındı. İçerikte ayrıca ailelerin çocuklarıyla birlikte uygulayabileceği doğa etkinlikleri, oyunlar ve günlük yaşam önerilerine yer verildi.
 
 Bültende doğanın çocuklar için önemli bir öğrenme alanı olduğuna dikkat çekilerek, çocukların toprak kokusunu alması, kuş seslerini dinlemesi ve tohumun filizlenişini izlemesinin merak duygusunu geliştirdiği ifade edildi. Türkiye Yüzyılı Maarif Modeli Okul Öncesi Eğitim Programı çerçevesinde, çocukların çevre bilinci kazanması için aile desteğinin önemine vurgu yapıldı.
-
----
-
-## Krediler tıkandı: Eskişehir'de konut ve araçta tasarruf dönemi
-
-**Ekonomi · Merkez** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/banka-kredisi-tikandi-eskisehir-halki-tasarruf-finansmanina-yoneldi)
-
-> Eskişehir'de banka kredilerindeki kısıtlamalar ve yüksek faizler, tüketicileri tasarruf finansman şirketlerine yöneltti. Kentteki satışların önemli bir bölümü bu sistemle yapılıyor.
-
-Eskişehir'de banka kredilerine erişimin zorlaşması ve yüksek faiz oranları, gayrimenkul ile ikinci el araç piyasasında alternatif finansman modellerinin payını artırdı. Sektör temsilcilerinin paylaştığı bilgilere göre, kentte satılan ikinci el araçların yüzde 80'i, konutların ise yüzde 30'u tasarruf finansman şirketleri aracılığıyla alıcı buluyor.
-
-Eskişehir Emlakçılar Odası Başkanı Gazi Çelik, konut piyasasındaki en büyük engelin tüketicilerin sıcak paraya erişimindeki güçlük olduğunu belirtti. Dar gelirli vatandaşların 2 ila 3,5 milyon lira bandındaki konut alımlarında bu sisteme yöneldiğini aktaran Çelik, inşaat sektörünün yüzlerce iş kolunu etkileyen bir çark olduğunu ve finansman akışının kritik önem taşıdığını vurguladı.
-
-Eskişehir Oto Galericiler Kooperatifi Başkanı Ceylan Üstün ise bankaların kredi limitlerinin güncel araç fiyatlarının çok altında kaldığını ifade etti. Bankaların en fazla 400 bin lira kredi verebildiğini hatırlatan Üstün, bu durumun alıcıları zorunlu olarak tasarruf finansman sistemine yönlendirdiğini kaydetti.
-
-Eskişehir Ticaret Odası İnşaat Meslek Komitesi Meclis Üyesi Atakan Bakılan da sistemin konut satışlarına katkı sağladığını ancak ekspertiz ve tapu devir süreçlerinde bazı aksaklıklar yaşandığını bildirdi. Bakılan, tasarruf finansmanının önemli bir alternatif olduğunu ancak inşaat sektörünün sağlıklı bir piyasa için uygun koşullu uzun vadeli banka kredilerine de ihtiyaç duyduğunu belirtti.
-
----
-
-## İletişim Başkanı Duran'dan Pakistanlı Bakan Tarar ile iklim ve medya görüşmesi
-
-**Türkiye · Türkiye** · 2026-11-11 20:15 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-pakistan-enformasyon-ve-yayin-bakani-tarar-ile-bir-araya-geldi)
-
-![](data/images/fabae470046ce8a2.jpg)
-
-> İletişim Başkanı Burhanettin Duran, COP31 için Antalya'da bulunan Pakistan Enformasyon ve Yayın Bakanı Attaullah Tarar ile bir araya geldi.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Türkiye'de bulunan Pakistan Enformasyon ve Yayın Bakanı Attaullah Tarar ile görüştü.
-
-Görüşmede, Türkiye ile Pakistan arasındaki köklü dostluk ve kardeşlik bağlarının yanı sıra medya ve iletişim alanındaki iş birliği imkânları ele alındı. Kamu diplomasisi, uluslararası iletişim ve medya sektörlerinde tecrübe paylaşımı ile ortak çalışmaların önemine vurgu yapıldı.
-
-İletişim Başkanı Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde iki ülke arasındaki güçlü ilişkilerin iletişim alanındaki yeni iş birlikleriyle daha da ileriye taşınmasını temenni etti.
-
----
-
-## Başkan Kurt'tan Emek'teki kadınlara: Mahallenin geleceğine birlikte karar verelim
-
-**Belediye · Odunpazarı** · 2026-11-11 20:15 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/baskan-kurt-emek-halk-merkezi-nde-kadinlarla-bulustu)
-
-![](data/images/38697cb0cf42aed3.jpg)
-
-> Odunpazarı Belediye Başkanı Kazım Kurt, Emek Halk Merkezi'ndeki kadın kursiyerlerle bir araya gelerek belediye hizmetlerini anlattı ve mahallenin bölünmesi konusundaki görüşleri dinledi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, mahalle buluşmaları kapsamında Emek Halk Merkezi'nde kadın kursiyerlerle öğle yemeğinde bir araya geldi. Yoğun katılımlı buluşmada kadınlarla sohbet eden Kurt, halk merkezlerinin yalnızca kurs alanları olmadığını, mahalle sakinlerinin ortak buluşma noktaları olduğunu belirtti.
-
-Emek Mahallesi'nin 60 bin nüfusuyla Eskişehir'in en büyük mahallesi olduğunu vurgulayan Başkan Kurt, mahallenin büyümeye devam ettiğini ifade etti. Mahallenin bölünmesine yönelik taleplerin de gündemde olduğunu belirten Kurt, bu konudaki kararların mahalle sakinleriyle birlikte alınması gerektiğini söyledi.
-
-Buluşmada kadınlar, mahalleye ve belediye hizmetlerine ilişkin talep ve önerilerini paylaştı. Başkan Kurt, iletilen konuları not alarak Emekli kadınlarla bir arada olmaktan duyduğu memnuniyeti dile getirdi.
-
----
-
-## Atatürk Caddesi'nde motokuryenin çarptığı yaya hayatını kaybetti
-
-**Asayiş · Odunpazarı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.hurriyet.com.tr/yerel-haberler/eskisehir/eskisehirde-motokuryenin-carptigi-kisi-oldu-43374457)
-
-> Odunpazarı ilçesinde yolun karşısına geçerken motosikletin çarptığı 63 yaşındaki yaya, hastanedeki müdahalelere rağmen kurtarılamadı.
-
-Eskişehir'in Odunpazarı ilçesinde meydana gelen trafik kazasında, yolun karşısına geçmeye çalışan bir yaya yaşamını yitirdi.
-
-Alınan bilgilere göre, Kırmızıtoprak Mahallesi Atatürk Caddesi'nde seyir halinde olan O.Y. (23) yönetimindeki 26 ALV 780 plakalı motosiklet, yolun karşısına geçmek isteyen Ramazan Ş.'ye çarptı. Çarpmanın etkisiyle metrelerce savrulan yaya ağır yaralandı.
-
-Olay yerine sevk edilen sağlık ekipleri tarafından hastaneye kaldırılan Ramazan Ş., doktorların tüm çabalarına rağmen kurtarılamadı. Kazanın ardından gözaltına alınan motosiklet sürücüsü O.Y., emniyetteki işlemlerinin ardından sevk edildiği adliyede çıkarıldığı hakimlikçe tutuklandı.
-
-Öte yandan, kaza anının çevredeki bir iş yerinin güvenlik kamerasınca kaydedildiği öğrenildi.
-
----
-
-## Uluslararası Eskişehir Şiir Buluşmaları 13 Kasım'da Başlıyor
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/siirbulusmasındagerisayımbasladı)
-
-![](data/images/b2c350da5b11c3e1.jpg)
-
-> Tepebaşı Belediyesi tarafından bu yıl 14'üncüsü düzenlenen Uluslararası Eskişehir Şiir Buluşmaları, 13-15 Kasım tarihleri arasında edebiyatseverleri Özdilek Sanat Merkezi'nde bir araya getirecek.
-
-Tepebaşı Belediyesi'nin geleneksel hale getirdiği ve bu yıl 14'üncüsü gerçekleştirilecek olan Uluslararası Eskişehir Şiir Buluşmaları için geri sayım tamamlandı. Türkiye'den 11 ile Mısır ve Fransa'dan iki şairin katılımıyla düzenlenecek üç günlük etkinlik, 13-15 Kasım tarihlerinde Özdilek Sanat Merkezi'nde yapılacak. Bu yıl ilk kez Mısır'dan bir şairin konuk olacağı buluşmanın onur konuğunu ise Türk şiirinin önemli isimlerinden İlhan Sami Çomak üstlenecek.
-
-Festival direktörlüğünü Haydar Ergülen'in yürüttüğü organizasyonda Ahmad Zakaria, Sylvain Cavaillès, Begüm Şahbudak, Gülşah Demirci, Bülent Kenan Kocatürk, Efnan Ezenel, Rahmi Emeç, Erol Büyükmeriç, Yakup Kuyucu, Mahir Karayazı, Gürcan Banger ve Ömer Asaf Tosun gibi isimler yer alacak. Üç gün boyunca şiir okumalarının yanı sıra "Dünyadan Sesler" ve İlhan Sami Çomak panelleri, "Şiir ile Öykü" söyleşisi, müzik dinletileri, Ahmet Telli belgesel gösterimi ve anma etkinlikleri gerçekleştirilecek.
-
-Etkinlik kapsamında ayrıca Özdilek Sanat Merkezi'nde şairlerin kendi el yazılarıyla Tepebaşı Belediyesi Kâğıt Geri Dönüşüm Atölyesi'nde üretilen özel kâğıtlara yazdığı şiirlerden oluşan sergi ile "Geçmişten Günümüze Şiir Buluşmaları Sergisi" sanatseverlerin ziyaretine açılacak. Program çerçevesinde şair ve yazar Erol Büyükmeriç de Melih Savaş Yaşam Köyü kreş öğrencileriyle bir araya gelerek çocuklarla buluşacak.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Yunus Emre'nin doğduğu topraklarda şiirin evrensel dilini paylaşmaktan onur duyduklarını belirterek tüm Eskişehirlileri etkinliğe davet etti. Türkiye Yazarlar Sendikası, PEN ve Kültürlerarası Şiir ve Çeviri Akademisi iş birliğiyle düzenlenen buluşmaların ilk günü, 13 Kasım Cuma saat 17.30'daki imza töreni ve açılış programıyla başlayacak.
-
----
-
-## Tepebaşı'nda servis minibüsüyle yolcu minibüsü çarpıştı: 8 yaralı
-
-**Asayiş · Tepebaşı** · 2026-11-11 18:42 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberler.com/amp/eskisehir-tepebasi-nda-ogrenci-servisi-ile-yolcu-20417703-haberi/)
-
-> Eskişehir'in Tepebaşı ilçesinde öğrenci servisi ile yolcu minibüsünün çarpışması sonucu sürücüler, servis personeli ve öğrenciler yaralandı.
-
-Eskişehir'in Tepebaşı ilçesinde meydana gelen trafik kazasında, öğrenci servisi ile yolcu minibüsü çarpıştı. Çarpışmanın şiddetiyle her iki araçta bulunan toplam 8 kişi yaralandı.
-
-Edinilen bilgilere göre, A.Ç. yönetimindeki 26 M 0009 plakalı yolcu minibüsü ile M.G. idaresindeki 26 S 1806 plakalı öğrenci servisi, Aşağısöğütönü Mahallesi 1018. Sokak'ta çarpıştı. Kazada minibüs sürücüsü A.Ç. ile araçtaki yolculardan H.M.M., M.U., N.D., C.K., İ.K., öğrenci servisinde görevli personel R.S.I. ve öğrenci A.D. yaralandı.
-
-İhbar üzerine olay yerine hızla polis ve sağlık ekipleri sevk edildi. Sağlık görevlilerinin olay yerindeki ilk müdahalelerinin ardından yaralılar, çevredeki hastanelere kaldırıldı. Tedavi altına alınan yaralıların sağlık durumlarına ilişkin bilgi verilmezken, polisin kazayla ilgili incelemesi sürüyor.
 
 ---
