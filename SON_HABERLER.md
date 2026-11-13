@@ -2,6 +2,132 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan Eskişehir.Net'e Ziyaret
+
+**Gündem · Merkez** · 2026-11-13 07:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehirnet-sedef-medya-as-internet-haber-sitesini-ziyaret-etti)
+
+![](data/images/99454cb645e2cb51.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Eskişehir.Net Sedef Medya A.Ş.'yi ziyaret ederek çalışmalar hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, yerel medyanın çalışmalarını yerinde incelemek amacıyla Eskişehir.Net Sedef Medya A.Ş. İnternet haber sitesini ziyaret etti.
+
+Ziyaret kapsamında İmtiyaz Sahibi Fatih Sezer ve Sorumlu Yazı İşleri Müdürü Cihan Yıldırım ile bir araya gelen Vali Yılmaz, kurumun yürüttüğü faaliyetler hakkında bilgi aldı. Görüşmede basının kamuoyunu doğru ve hızlı bir şekilde bilgilendirmedeki kritik rolüne dikkat çekildi.
+
+Vali Yılmaz, buluşmanın sonunda medya çalışanlarına görevlerinde başarılar diledi.
+
+---
+
+## Togg T6X ne zaman çıkacak? Fiyatı ne kadar olacak?
+
+**Ekonomi · Türkiye** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Togg](https://www.yenisafak.com/galeri/ozgun/togg-t6x-ne-zaman-cikacak-togg-t6x-modeli-ne-kadar-kac-lira-olacak-4860677)
+
+![](data/images/66b860c281a905cb.jpg)
+
+> Togg Yönetim Kurulu Başkanı Fuat Tosyalı, daha ekonomik yeni model T6X'i önümüzdeki yılın ortasında piyasaya sunmayı hedeflediklerini açıkladı.
+
+Türkiye'nin yerli otomobil üreticisi Togg, C-SUV modeli T10X ve sedan modeli T10F'in ardından A/B segmentindeki yeni modeli T6X için hazırlıklarını sürdürüyor. Bireysel kullanıcılar ve şehir içi mobiliteye yönelik geliştirilen B-SUV/Crossover konseptindeki T6X modeli, haziran ayında kullanıcılarla buluşturulacak.
+
+Togg Yönetim Kurulu Başkanı Fuat Tosyalı, Anadolu Ajansı Finans Masası'nda yaptığı açıklamada, yeni modelin mevcut fiyatlara kıyasla çok daha hesaplı olacağını belirtti. Tosyalı, "T10X ve T10F'den sonra T6X'i özellikle geliştirdik ki neredeyse şu anki cari fiyatlara göre çok çok daha hesaplı. Buna uygun kampanya süreçlerimiz de olacak" ifadelerini kullandı.
+
+"Ucuz Togg" olarak da anılan T6X modelinin, kompakt boyutları ve optimize edilmiş batarya seçenekleriyle Türkiye'deki en düşük ÖTV diliminde yer alması ve erişilebilir bir fiyat etiketi sunması öngörülüyor. Trumore uygulaması üzerinden e-Devlet entegrasyonuyla gerçekleştirilecek talep toplama sürecinde hak sahipleri kura veya sıra ile belirlenecek.
+
+Seri üretim öncesi test ve geliştirme süreçleri devam eden aracın batarya kapasitesi, sürüş menzili, motor gücü ve donanım paketleri gibi teknik detaylarının satış tarihine yakın bir zamanda kamuoyuyla paylaşılması bekleniyor.
+
+---
+
+## Sazova'daki dev tesis atıl kaldı: Halkın hizmetine açılsın
+
+**Gündem · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/nihat-cuhadardan-cagri-yeniden-eskisehir-halkinin-hizmetine-kazandirilmali)
+
+> Eskişehir Büyükşehir Belediye Meclisi'nde konuşan YENİ Parti Meclis Üyesi Nihat Çuhadar, kapalı tutulan Türk Dünyası Bilim Kültür ve Sanat Merkezi'nin yeniden halkın hizmetine sunulmasını istedi.
+
+Eskişehir Büyükşehir Belediye Meclisi Başkanvekili Hasan Ünal yönetiminde gerçekleştirilen toplantıda, Sazova Bilim Kültür ve Sanat Parkı içindeki Türk Dünyası Bilim Kültür ve Sanat Merkezi'nin durumu gündeme taşıdı. Mecliste söz alan YENİ Parti Meclis Üyesi Nihat Çuhadar, tesisin güncel durumu hakkında değerlendirmelerde bulundu.
+
+Merkezin 2013 Türk Dünyası Kültür Başkenti ajandası kapsamında kalıcı bir eser olarak tasarlandığını hatırlatan Çuhadar, 15 bin metrekarelik kapalı alana sahip yapının bugün kapalı tutulduğunu belirtti. Tesisin günümüzdeki yeniden yapım maliyetinin yaklaşık 850 milyon ile 1 milyar lira arasında değerlendirildiğini ifade eden Çuhadar, kamu yatırımlarının korunması ve işlevsel kılınması gerektiğini vurguladı.
+
+Merkezin Gençlik ve Spor İl Müdürlüğü'ne devredildiği yönündeki bilgileri hatırlatan Çuhadar, devir sürecine ve tesisin geleceğine ilişkin resmi mercilere sorular yöneltti. Çuhadar, merkezin neden kapatıldığını, eserlerin nerede korunduğunu ve yeni kullanım planının ne olduğunu sordu.
+
+Konunun siyasi tartışmalardan uzak tutulması gerektiğini belirten Çuhadar, ilgili tüm kurumların ortak bir akistle hareket ederek tesisin yeniden bilim, kültür ve sanat faaliyetleri için açılmasını talep etti.
+
+---
+
+## Odunpazarı'nda Sanat ve Kitap Günleri için geri sayım
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/odunpazarinda-sanat-ve-kitap-gunleri-21-kasimda-basliyor)
+
+> Odunpazarı Belediyesi ve Cumhuriyet Gazetesi iş birliğiyle düzenlenecek Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde kapılarını açacak.
+
+Odunpazarı Belediyesi, Cumhuriyet Gazetesi ve Cumhuriyet Kitapları iş birliğiyle hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde 100. Yıl Kültür Merkezi'nde kitapseverlerle buluşacak. Yenikent Mahallesi'nde yer alan merkezde gerçekleştirilecek etkinlik, edebiyat, sanat ve düşünce dünyasından pek çok ismi Eskişehirlilerle bir araya getirecek.
+
+İki gün sürecek organizasyon; söyleşiler, imza etkinlikleri ve Cumhuriyet Gazetesi Koleksiyon Sergisi'ne ev sahipliği yapacak. Program kapsamında edebiyattan şiire, resimden Cumhuriyet tarihine, Atatürk'ten yerel yönetimlere kadar geniş bir yelpazede başlıklar ele alınacak.
+
+Etkinlik, 21 Kasım Cumartesi günü saat 13.00'te sergi açılışı ve açılış konuşmalarıyla başlayacak ve gün boyunca sürecek söyleşi ve imza etkinlikleriyle devam edecek. Programın ikinci gününde ise çeşitli yazarlar ve şairler okurlarıyla buluşacak.
+
+Organizasyonun kapanış bölümünde Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay, "Yerel Siyaset, Yerel Yönetim" başlıklı söyleşide yerel siyasetin dinamiklerini değerlendirecek.
+
+---
+
+## İletişim Başkanı Duran'dan Malatya'daki şehit Mehmetçikler için taziye
+
+**Türkiye · Türkiye** · 2026-11-13 07:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-milletimizin-basi-sag-olsun)
+
+![](data/images/b8d64568106e036d.jpg)
+
+> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Malatya'da askerî helikopterin kaza kırıma uğraması sonucu şehit olan Mehmetçikler için başsağlığı diledi.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı paylaşımda, Malatya'da S-70 tipi askerî helikopterin kaza kırıma uğraması neticesinde şehit düşen kahraman askerler için taziye mesajı yayımladı.
+
+Duran paylaşımında, şehitlere Allah'tan rahmet dileyerek, kederli ailelere, yakınlara ve Türk Silahlı Kuvvetleri'ne başsağlığı dileklerini iletti.
+
+---
+
+## Eskişehirspor taraftarından yüksek bilet fiyatına para atarak protesto
+
+**Spor · Merkez** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/valizi-toplayip-gidin)
+
+> Nesine 3. Lig 2. Grup'taki Anadolu SF maçında 400 TL'lik bilet fiyatına tepki gösteren Eskişehirspor taraftarları, tribünlerden para atarak yönetimi protesto etti.
+
+Nesine 3. Lig 2. Grup'ta oynanan Anadolu Spor Faaliyetleri ile Eskişehirspor karşılaşmasında siyah-kırmızılı taraftarlar tribünlerde dikkat çeken bir protestoya imza attı. Ev sahibi ekibin bilet fiyatlarını 400 TL olarak belirlemesi maç öncesinde tepki toplarken, siyah-kırmızılılar yüksek ücrete rağmen ESOGÜ Stadyumu'ndaki yerini aldı.
+
+Maç öncesinde bilet fiyatlarına tepki gösteren taraftarlar, tribünlerden para atarak ev sahibi yönetimi protesto etti. Siyah-kırmızılılar, "Bu kadar ihtiyaç mı var paraya? Valizi toplayıp gidin Ankara'ya" tezahüratlarıyla tepkilerini dile getirdi.
+
+Karşılaşma boyunca takımlarını desteklemeyi sürdüren Eskişehirspor taraftarı, 90 dakika boyunca bilet fiyatlarına yönelik protestolarına devam etti.
+
+---
+
+## Eskişehir Anadolu Lisesi önündeki çöpler tepki çekti
+
+**Gündem · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-lise-onunde-cop-manzarasi)
+
+![](data/images/9917551248d08356.jpg)
+
+> Sümer Mahallesi'nde bulunan Eskişehir Anadolu Lisesi'nin önünde biriken çöpler çevre kirliliğine yol açarken, vatandaşlar bölgede temizlik çalışmalarının artırılmasını talep ediyor.
+
+Eskişehir'de çevre kirliliğiyle ilgili şikayetlere bir yenisi daha eklendi. Sümer Mahallesi Kızılyer mevkiinde yer alan Eskişehir Anadolu Lisesi'nin önündeki atıklar, bölgede bakımsız bir görüntü oluşturdu.
+
+Öğrencilerin yoğun olarak kullandığı okul çevresinde biriken çöpler hem çevre sağlığını tehdit ediyor hem de kötü bir görüntü ortaya çıkarıyor. Mahalle sakinleri ve veliler, öğrencilerin eğitim gördüğü bu alanda temizlik çalışmalarının sıklaştırılmasını ve çöplerin düzenli bir şekilde toplanmasını istiyor.
+
+---
+
+## 23. Eskişehir Uluslararası Film Festivali 55 filmle başlıyor
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.haberler.com/amp/23-eskisehir-uluslararasi-film-festivali-19-27-20420720-haberi/)
+
+![](data/images/ca192bbf4dd68506.jpg)
+
+> Anadolu Üniversitesi tarafından bu yıl 23'üncüsü düzenlenecek Eskişehir Uluslararası Film Festivali, 19-27 Kasım tarihleri arasında sinemaseverlerle buluşacak.
+
+Anadolu Üniversitesi ev sahipliğinde gerçekleştirilecek 23. Eskişehir Uluslararası Film Festivali, 37'si uzun metraj olmak üzere toplam 55 filmi sinemaseverlerin beğenisine sunacak. Festival programı, Rektör Prof. Dr. Yusuf Adıgüzel ve heyetinin düzenlediği basın toplantısıyla kamuoyuna duyuruldu.
+
+Üniversitenin eğitim misyonu doğrultusunda genç sinemacılarla ustaları bir araya getirmeyi amaçladıklarını belirten Rektör Prof. Dr. Yusuf Adıgüzel, festivalde film gösterimlerinin yanı sıra atölye çalışmalarının da yer alacağını kaydetti. Organizasyon kapsamında Netflix iş birliğiyle düzenlenecek özel programda seçilen öğrenciler, senaryo ve yönetmenlik alanında uzman isimlerle çalışma fırsatı bulacak.
+
+Eskişehir'in kültür-sanat yaşamına hareketlilik katacak etkinlikler arasında, 26-27 Kasım tarihlerinde sinema festivallerinin sektöre etkilerinin ele alınacağı bir sempozyum da yer alıyor. Ayrıca Buster Keaton'ın "The General" filmi, gösteriminin 100'üncü yılı dolayısıyla piyanist Hakan Ali Toker'in canlı piyano eşliğinde izleyiciyle buluşacak.
+
+Festivalin açılış töreninde Türk sinemasına katkı sunan Nilüfer Aydan ve Feyzi Tuna'ya Sinema Onur Ödülü takdim edilecek. Etkinlik hakkında ayrıntılı bilgiye ve gösterim programına resmi internet sitesi üzerinden ulaşılabiliyor.
+
+---
+
 ## Altın fiyatları 13 Kasım 2026: Gram altın 6.371,12 TL
 
 **Ekonomi · Merkez** · 2026-11-13 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -359,127 +485,5 @@ Ziynet altınlarda çeyrek altın 10.435 TL, yarım altın 20.864 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.936,30 dolardan işlem görürken, dolar/TL 50,29 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Odunpazarı'nda Atatürk ve Musiki Anma Programı Düzenlendi
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-12 02:18 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-ataturk-ve-musiki-anma-programi-gerceklestirildi)
-
-![](data/images/b6d26903c6af37ad.jpg)
-
-> Odunpazarı Belediyesi tarafından düzenlenen "Atatürk ve Musiki" anma programında, Gazi Mustafa Kemal Atatürk'ün sanata ve müziğe verdiği önem ele alındı.
-
-Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk, aramızdan ayrılışının 88. yıl dönümünde Odunpazarı Belediyesi'nin düzenlediği anlamlı bir etkinlikle anıldı.
-
-Yunus Emre Kültür ve Sanat Merkezi'nde gerçekleştirilen programa; Odunpazarı Belediye Başkan Vekili Cenk Sungur, belediye meclis üyeleri, başkan yardımcıları, daire müdürleri ve çok sayıda sanatsever katıldı.
-
-Etkinlikte, Atatürk'ün müzikle kurduğu bağ, sanata ve kültüre bakış açısı katılımcılarla paylaşıldı. Ulu Önder'in yaşamından kesitlerin ve Cumhuriyet değerlerinin aktarıldığı gecede izleyiciler duygusal ve gurur dolu anlar yaşadı.
-
----
-
-## MEB AKUB gönüllülerinden COP31'de kum zambağı mesaisi
-
-**Eğitim · Türkiye** · 2026-11-12 02:18 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/meb-akub-gonulluleri-cop31-kapsaminda-kum-zambaklarinin-korunmasi-icin-harekete-gecti/haber/42470/tr)
-
-![](data/images/703308ff76c9dbb2.jpg)
-
-> Milli Eğitim Bakanlığı AKUB ve Genç AKUB gönüllüleri, Antalya'nın Gazipaşa ilçesinde nesli tehdit altındaki kum zambaklarının korunması için farkındalık çalışması başlattı.
-
-Akdeniz kıyılarının nadide bitki türlerinden biri olan ve beyaz çiçekleriyle kıyı ekosistemine katkı sunan kum zambakları, doğal yaşam alanlarında koruma altına alındı. Yoğun kıyı kullanımı, çevre kirliliği ve bilinçli ya da bilinçsiz insan faaliyetleri nedeniyle tehdit altında bulunan kum zambaklarının koparılması yasaklanırken, ihlallere idari para cezası uygulanıyor.
-
-COP31 süreçleri kapsamında, biyolojik çeşitliliğin korunması ve doğayla uyumlu bir yaşam kültürünün yaygınlaştırılması amacıyla harekete geçildi. Bu kapsamda MEB AKUB ve Genç MEB AKUB gönüllüleri, "Bir Zambak Bin Nefes; Doğayı Koru, Geleceği Yaşat!" sloganıyla Gazipaşa sahillerinde çalışma başlattı.
-
-Gerçekleştirilen faaliyetlerde çocuklara, gençlere ve bölge halkına kum zambaklarının ekolojik önemi anlatılıyor. Çalışmalarla, doğal varlıkları koruma bilincinin günlük yaşama taşınması ve gençlerin doğanın korunmasında aktif rol üstlenmesi amaçlanıyor.
-
----
-
-## Eskişehir'de HABAŞ Tepkisi: Sorumlular Yargılansın
-
-**Gündem · Odunpazarı** · 2026-11-12 02:18 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.evrensel.net/haber/6009072/eskisehir-emek-ve-demokrasi-platformu-habas-katliaminin-sorumlulari-yargilansin)
-
-> Eskişehir Emek ve Demokrasi Platformu, İzmir Aliağa'daki HABAŞ fabrikasında 19 işçinin hayatını kaybettiği patlamaya ilişkin Köprübaşı'nda eylem yaparak sorumluların yargılanmasını istedi.
-
-Eskişehir Emek ve Demokrasi Platformu'nun çağrısıyla bir araya gelen siyasi parti ve emek örgütleri, İzmir Aliağa'da bulunan HABAŞ Demir Çelik fabrikasında 19 işçinin yaşamını yitirdiği patlama nedeniyle protesto eylemi ve basın açıklaması düzenledi.
-
-Köprübaşı'nda toplanan kalabalık Esnaf Sarayı önüne kadar yürüdü. Platform adına açıklamayı okuyan Eskişehir Emek Partisi İl Yöneticisi Deniz Tepe, hayatını kaybeden işçilerin ailelerine başsağlığı dileyerek, yaşananların kaza değil iş cinayeti olduğunu belirtti. Tepe, fabrikada son 10 yılda en az 11 işçinin hayatını kaybettiğini, çok sayıda işçinin yaralandığını ifade ederek taşeronlaşma ve denetimsizliğe dikkat çekti.
-
-İktidarın ve fabrika yönetiminin sorumlu olduğunu savunan Tepe, patlamanın nedenlerinin bağımsız bir heyet tarafından araştırılması, tüm denetim sonuçlarının kamuoyuna açıklanması ve sorumluların derhal yargılanması çağrısında bulundu. Açıklamada ayrıca taşeron sisteminin kaldırılması ve iş güvenliği önlemlerinin artırılması talep edildi.
-
----
-
-## Eskişehir'de Bilim Olimpiyatları Akademisi Başlıyor: Son Başvuru 20 Kasım
-
-**Eğitim · Merkez** · 2026-11-12 02:18 UTC · Kaynak: [Eskişehir İl Milli Eğitim Müdürlüğü](https://eskisehir.meb.gov.tr/www/eskisehir-bilim-olimpiyatlari-akademisi-basliyor/icerik/8708/tr)
-
-![](data/images/fe777279ccc9a1a0.jpg)
-
-> Eskişehir'de öğrencilerin bilimsel potansiyelini geliştirmek amacıyla hayata geçirilen Bilim Olimpiyatları Akademisi için başvurular başladı.
-
-Eskişehir Valiliği himayelerinde, İl Millî Eğitim Müdürlüğü tarafından yürütülecek olan Eskişehir Bilim Olimpiyatları Akademisi için çalışmalar tamamlandı. Programla öğrencilerin akademik potansiyellerini ortaya çıkarmak, analitik düşünme ve problem çözme becerilerini geliştirmek hedefleniyor.
-
-Matematik ve biyoloji alanlarında eğitim ve gelişim çalışmalarının yürütüleceği akademiye, resmî ve özel okullarda öğrenim gören 4 ve 5. sınıf öğrencileri ile hazırlık, 9, 10 ve 11. sınıf öğrencileri başvuru yapabilecek. Yetenekli öğrencilerin erken dönemde keşfedilerek bilimsel çalışmalara yönlendirilmesi amaçlanan programa katılmak isteyenlerin, 20 Kasım 2026 Cuma gününe kadar çevrim içi başvuru formunu doldurması gerekiyor.
-
-Başvuruların tamamlanmasının ardından katılımcı öğrencilerin belirlenmesi için seçme sınavı yapılacak. Sınav, 3 Aralık 2026 Perşembe günü saat 10.00'da öğrencilerin kendi okullarında gerçekleştirilecek.
-
----
-
-## YENİ Parti Odunpazarı İlçe Başkanı Yazıcı'dan Tepebaşı'na ziyaret
-
-**Siyaset · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/yeni-parti-odunpazari-ilce-baskani-yazici-belediyede-gorustu)
-
-> YENİ Parti Odunpazarı İlçe Başkanı Emine Cevahir Çalıkuşu Yazıcı ve yönetimi, Tepebaşı Belediye Başkanı Ahmet Ataç'ı makamında ziyaret etti.
-
-YENİ Parti Odunpazarı İlçe Başkanı Emine Cevahir Çalıkuşu Yazıcı ile beraberindeki yönetim kurulu üyeleri, Tepebaşı Belediyesi'ni ziyaret etti. 
-
-Gerçekleşen ziyarette, parti teşkilatının yürüttüğü çalışmalar, Eskişehir'in güncel meseleleri ve gelecek döneme yönelik hedefler masaya yatırıldı. Karşılıklı görüş alışverişinin yapıldığı buluşmada kent gündemi değerlendirildi.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, ziyaretten duyduğu memnuniyeti dile getirerek Yazıcı ve yönetim kurulu üyelerine çalışmalarında başarılar diledi.
-
----
-
-## Tepebaşı'nda 'Kur’an’da Adalet' Söyleşisine Yoğun İlgi
-
-**Belediye · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndakur’an’daadaletsoylesisineyogunilgi)
-
-![](data/images/a072d7483fb57d6c.jpg)
-
-> Tepebaşı Belediyesi'nin düzenlediği Din, Tarih ve Felsefe Sohbetleri kapsamında gerçekleştirilen "Kur’an’da Adalet" söyleşisi vatandaşlardan yoğun ilgi gördü.
-
-Tepebaşı Belediyesi tarafından hayata geçirilen etkinlikler kapsamında Özdilek Sanat Merkezi Oktay Ekinci Sahnesi'nde "Kur’an’da Adalet" söyleşisi düzenlendi. İlahiyatçı yazar Akın Karadeniz'in konuşmacı olarak katıldığı programa, Tepebaşı Belediye Başkanı Ahmet Ataç ile çok sayıda vatandaş iştirak etti.
-
-Yoğun katılım nedeniyle salonda yer kalmazken, bazı vatandaşlar söyleşiyi ayakta takip etti. Etkinlikte konuşan Akın Karadeniz, Kur'an'ın adalet, hak ve hukuk kavramlarına dikkat çekerek, İslam'ın akıl, bilim ve ahlakla birlikte ele alınması gerektiğini ifade etti. Günlük yaşamda dürüst ve adaletli kalabilmenin önemine vurgu yapan Karadeniz, kul hakkı hassasiyetinin altını çizdi.
-
-Programın sonunda Tepebaşı Belediye Başkanı Ahmet Ataç, ilahiyatçı yazar Akın Karadeniz'e katkılarından ötürü plaket takdim etti.
-
----
-
-## Tepebaşı Belde Evleri 25. yılını 4 bin 466 kursiyerle kutluyor
-
-**Belediye · Tepebaşı** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.esgazete.com/tepebasi-belde-evlerinde-4-bin-466-kursiyer-egitim-aliyor)
-
-> Tepebaşı Belediyesi Belde Evleri, kış döneminde 35 noktada binlerce vatandaşa 30 farklı branşta eğitim vermeyi sürdürüyor.
-
-Tepebaşı Belediyesi bünyesinde mahallelerde faaliyet gösteren Belde Evleri, kuruluşunun 25. yıl dönümünü kutluyor. İlk Belde Evi 2001 yılında Fevzi Çakmak Mahallesi'nde hizmete girerken, aradan geçen sürede merkezlerin sayısı ve etki alanı genişledi.
-
-Belediyeden yapılan açıklamaya göre, yeni kış dönemi kursları için 8 bin 151 başvuru alındı. Gerçekleştirilen değerlendirmelerin ardından 4 bin 466 kursiyer, 35 farklı hizmet noktasında eğitimlerden aktif olarak yararlanmaya başladı. Merkezlerde 30 branşta açılan 231 kurs grubu, 33 eğitmen eşliğinde çalışmalarını sürdürüyor. Ayrıca 6 Belde Evindeki oyun gruplarında 140 çocuk eğitim ve gelişim etkinliklerine katılıyor.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Belde Evlerinin sadece kurs verilen mekanlar olmadığını vurgulayarak, bu alanların mahalle yaşamına değer kattığını ifade etti. Ataç, merkezlerin komşuluk ilişkilerini güçlendirdiğini ve her yaştan vatandaşın üreterek kendini geliştirdiği ortak buluşma noktaları haline geldiğini belirtti.
-
----
-
-## Pessinus'un binlerce yıllık tarihi Eskişehir'de sergileniyor
-
-**Kültür-Sanat · Sivrihisar** · 2026-11-11 20:15 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehirekspres.net/pessinusun-binlerce-yillik-tarihi-eskisehirde-sergilenecek)
-
-![](data/images/0a6f6733c03d67bd.jpg)
-
-> Antik dönemin önemli inanç ve ticaret merkezlerinden Pessinus'un kalıntıları, Eskişehir'de açılan özel bir sergiyle tarih meraklılarıyla buluştu.
-
-Sivrihisar ilçesine bağlı Ballıhisar mahallesinde yer alan ve toprak altında kalan binlerce yıllık geçmişe sahip Pessinus antik kentinin izleri, Eskişehir'de sergilenmeye başlandı. Antik dönemin önemli ticaret ve inanç merkezlerinden biri olan yerleşim yerinde gerçekleştirilen arkeolojik kazılardan elde edilen eserler gün yüzüne çıkarıldı.
-
-Eskişehir Büyükşehir Belediyesi Kent Müzeleri Kompleksi Geçici Sergi Salonu'nda kapılarını açan sergide; aslanlar arasında tahtında oturan Kybele tasviri, döneme ait sikkeler ve pişmiş toprak eserler yer alıyor. Eserler aracılığıyla ziyaretçilere antik kentin inanç dünyası, Roma'nın anıtsal yapıları, Bizans ve Selçuklu döneminden günümüz Ballıhisar'ına uzanan tarihsel süreç aktarılıyor.
-
-Eskişehir'in köklü kültürel mirasını gözler önüne seren sergi, 6 Aralık 2026 tarihine kadar ziyaret edilebilecek.
 
 ---
