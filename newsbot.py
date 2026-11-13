@@ -610,6 +610,18 @@ def archive_image(article, key):
         return None
 
 
+def json_from_text(text):
+    """Model JSON'u ```json bloğu içinde ya da önüne/arkasına açıklama ekleyerek döndürebiliyor."""
+    text = (text or '').strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        start, end = text.find('{'), text.rfind('}')
+        if start < 0 or end <= start:
+            raise
+        return json.loads(text[start:end + 1])
+
+
 def write_article_proxy(candidate, source_text, recent):
     """Kullanıcının OpenAI uyumlu CLIProxy sunucusunda haber yazar."""
     base = os.environ['NEWS_API_BASE'].rstrip('/')
@@ -632,7 +644,7 @@ def write_article_proxy(candidate, source_text, recent):
             break
         time.sleep(5 * (attempt + 1))
     r.raise_for_status()
-    article = json.loads(r.json()['choices'][0]['message']['content'])
+    article = json_from_text(r.json()['choices'][0]['message']['content'])
     missing = [k for k in ARTICLE_SCHEMA['required'] if k not in article]
     if missing:
         raise RuntimeError(f'CLIProxy eksik alan döndürdü: {missing}')
@@ -703,9 +715,13 @@ def auto_run(max_items):
                 decisions[c['key']] = art
                 continue
             except Exception as e:
-                # Özel ağ (bilgisayardaki CLIProxy) kapalıysa tur boşa gitmesin: bu tur Gemini/Anthropic ile devam
-                log(f'[uyarı] CLIProxy: {type(e).__name__}; bu tur Gemini ile devam ediliyor')
-                use_proxy = False
+                # Pi'deki CLIProxy kapalıysa tur boşa gitmesin: bu tur Gemini/Anthropic ile devam.
+                # Tek bir bozuk yanıtta ise yalnız bu kaynak Gemini'ye gider, sonraki kaynak yine Pi'de denenir.
+                gone = isinstance(e, (requests.ConnectionError, requests.Timeout))
+                log(f'[uyarı] CLIProxy: {type(e).__name__}; '
+                    + ('bu tur Gemini ile devam ediliyor' if gone else 'bu kaynak Gemini ile yazılıyor'))
+                if gone:
+                    use_proxy = False
         if not use_backup:
             try:
                 art = write_article(client, c, text, q["recent_titles"])

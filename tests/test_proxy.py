@@ -40,6 +40,10 @@ class ProxyTests(unittest.TestCase):
             newsbot.auto_run(1)
             gemini.assert_called_once()
             save.assert_called_once()
+    def test_json_inside_code_fence_is_read(self):
+        self.assertEqual(newsbot.json_from_text('```json\n{"publish": false}\n```'), {'publish': False})
+        self.assertEqual(newsbot.json_from_text('İşte karar: {"a": 1} tamam'), {'a': 1})
+
 
 if __name__ == '__main__':
     unittest.main()
