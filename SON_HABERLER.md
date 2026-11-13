@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Kadınlara Şiddet ve Eşitlik Semineri: Ay Boyunca Sürecek
+
+**Belediye · Tepebaşı** · 2026-11-13 17:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/beldeevlerindetoplumsalcinsiyetesitligibulusmaları)
+
+![](data/images/7913cfafeebad74d.jpg)
+
+> Tepebaşı Belediyesi, kadınlarda farkındalık oluşturmak amacıyla Belde Evleri ve Deneyimli Kafelerde "Toplumsal Cinsiyet Eşitliği ve Şiddet" başlıklı seminerler düzenliyor.
+
+Tepebaşı Belediyesi Sağlık İşleri Müdürlüğü, kadınların toplumsal cinsiyet eşitliği konusundaki farkındalığını artırmak ve şiddetle mücadelede bilinçlendirme sağlamak amacıyla bilgilendirme seminerlerini sürdürüyor. Program kapsamında son olarak Hedef Batıkent Belde Evi'nde kadınlara yönelik eğitim gerçekleştirildi.
+
+Psikolog Ecem Kumaş ile Sosyal Hizmet Uzmanı Ezgi Bilgin tarafından verilen seminerde toplumsal cinsiyet eşitliği ve şiddet boyutları ele alındı. Belde evindeki kurslara devam eden kadınların yoğun ilgi gösterdiği buluşmada, uzmanlar katılımcıların sorularını yanıtlayarak hukuki ve psikolojik süreçlere ilişkin bilgi aktardı.
+
+Kadınların uzman desteğine doğrudan erişimini hedefleyen seminer dizisinin, ay boyunca ilçe genelindeki tüm Belde Evleri ve Deneyimli Kafelerde devam edeceği bildirildi.
+
+---
+
 ## MEB'den Liselere 'Yeşil ve Dijital' Adım: 138 Etkinlik Kartı Hazırlandı
 
 **Eğitim · Türkiye** · 2026-11-13 15:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/gencler-yesil-ve-dijital-donusume-egitimle-hazirlaniyor/haber/42507/tr)
@@ -471,19 +487,5 @@ Odunpazarı Belediyesi, Cumhuriyet Gazetesi ve Cumhuriyet Kitapları iş birliğ
 Etkinlik, 21 Kasım Cumartesi günü saat 13.00'te sergi açılışı ve açılış konuşmalarıyla başlayacak ve gün boyunca sürecek söyleşi ve imza etkinlikleriyle devam edecek. Programın ikinci gününde ise çeşitli yazarlar ve şairler okurlarıyla buluşacak.
 
 Organizasyonun kapanış bölümünde Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay, "Yerel Siyaset, Yerel Yönetim" başlıklı söyleşide yerel siyasetin dinamiklerini değerlendirecek.
-
----
-
-## İletişim Başkanı Duran'dan Malatya'daki şehit Mehmetçikler için taziye
-
-**Türkiye · Türkiye** · 2026-11-13 07:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-milletimizin-basi-sag-olsun)
-
-![](data/images/b8d64568106e036d.jpg)
-
-> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Malatya'da askerî helikopterin kaza kırıma uğraması sonucu şehit olan Mehmetçikler için başsağlığı diledi.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı paylaşımda, Malatya'da S-70 tipi askerî helikopterin kaza kırıma uğraması neticesinde şehit düşen kahraman askerler için taziye mesajı yayımladı.
-
-Duran paylaşımında, şehitlere Allah'tan rahmet dileyerek, kederli ailelere, yakınlara ve Türk Silahlı Kuvvetleri'ne başsağlığı dileklerini iletti.
 
 ---
