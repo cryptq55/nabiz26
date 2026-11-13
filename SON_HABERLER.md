@@ -2,6 +2,90 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Uluslararası Eskişehir Şiir Buluşması başladı: Minikler doğanın sesini şiirle keşfetti
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-13 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/14uluslararasıeskisehirsiirbulusmasıcocuklarındogasesleriylebasladı)
+
+![](data/images/fce8b8e30f001716.jpg)
+
+> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, kreş çocuklarının doğa seslerini taklit ettiği renkli çocuk oturumuyla açıldı.
+
+Tepebaşı Belediyesi Basın Yayın ve Halkla İlişkiler Müdürlüğü tarafından bu yıl 14’üncüsü düzenlenen Uluslararası Eskişehir Şiir Buluşması, çocukların dünyasına dokunan bir etkinlikle başladı. Festival kapsamında yazar ve şair Erol Büyükmeriç, Melih Savaş Yaşam Köyü’nde eğitim gören kreş çocuklarıyla bir araya geldi.
+
+"Doğadaki Sesleri Dinleyelim Çocuk Oturumu" başlığıyla düzenlenen etkinlikte Büyükmeriç, miniklerle birlikte "Sesler Kitabı"nı inceledi. Doğadaki kuş ve hayvan seslerini taklit ederek şiirlerin ritmine eşlik eden çocuklar keyifli anlar yaşadı. Programın sonunda Büyükmeriç, çocuklara imzalı kitaplarını hediye etti.
+
+Eskişehir'i edebiyat dünyasının önemli isimleriyle buluşturan festival, 13–15 Kasım tarihleri arasında devam edecek. Etkinlik boyunca Türkiye'nin yanı sıra Mısır ve Fransa'dan gelen şairler kentte edebiyatseverlerle buluşacak.
+
+---
+
+## MEB Bakan Yardımcısı Yelkenci: İklim krizi aslında bir denge ve eğitim meselesidir
+
+**Eğitim · Türkiye** · 2026-11-13 13:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop-31039de-quotturkiye-yuzyili-maarif-modeli-cercevesinde-insan-ve-toplumquot-paneli-duzenlendi/haber/42502/tr)
+
+![](data/images/be59c10b18139982.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında konuşan Millî Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, iklim krizinin özünde bir denge krizi olduğunu ve çözümün eğitimden geçtiğini vurguladı.
+
+Antalya'nın ev sahipliğinde gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Gençlik Pavilyonu'nda "Türkiye Yüzyılı Maarif Modeli Çerçevesinde İnsan ve Toplum" başlıklı panel düzenlendi.
+
+Panelin açılışında konuşan Millî Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, modern insanın geleceğe tahakküm etme yaklaşımını eleştirerek yarınların sonraki nesillerin hakkı olduğunu belirtti. Doğadaki temel dengenin bozulmasına insanın faaliyetlerinin yol açtığını ifade eden Yelkenci, karbon piyasaları veya teknolojik adımların tek başına yeterli olamayacağını, asıl çözümün zihniyet ve eğitimle sağlanabileceğini söyledi.
+
+Yelkenci, Türkiye Yüzyılı Maarif Modeli'nin insanı ruh ve beden bütünlüğüyle ele aldığını hatırlatarak çevre bilincinin müfredatta somut bir karşılık bulduğunu aktardı. Ortaokullarda uygulanan Çevre Eğitimi ve İklim Değişikliği dersinin insan ve doğa ilişkisine odaklandığını belirten Yelkenci, uluslararası taahhütler ile uygulama arasındaki mesafenin müzakere masalarından ziyade sınıflarda kapatılacağına inandıklarını dile getirdi.
+
+---
+
+## Başkan Ünlüce COP31'de Eskişehir'in Çevre ve Tarım Projelerini Anlattı
+
+**Belediye · Merkez** · 2026-11-13 13:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-in-iklim-ve-surdurulebilirlik-vizyonu-cop31-de-8cc4a956)
+
+![](data/images/b8077fbedd9ad69c.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, COP31 İklim Zirvesi'nde kentin sürdürülebilirlik projelerini ve yerel yönetimlerin iklim mücadelesindeki rolünü uluslararası kamuoyuyla paylaştı.
+
+Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen etkinliklerde yer alan Eskişehir Büyükşehir Belediye Başkanı ve Türkiye Belediyeler Birliği (TBB) Başkan Vekili Ayşe Ünlüce, iklim değişikliğiyle mücadelede yerel yönetimlerin önemine dikkat çekti. Ünlüce, TBB'nin 75 ilden 330 belediyenin katkısıyla hazırladığı Yerel Yönetimler Pozisyon Belgesi'nin tanıtıldığı oturumun açılışında konuştu.
+
+İklim krizinin etkilerinin her kentte farklı hissedildiğini ve bu nedenle küresel politikaların yerel koşullara uyarlanması gerektiğini vurgulayan Ünlüce, belediyelerin sadece karar uygulayıcı değil, sahadaki ihtiyaçları en iyi gözlemleyen kurumlar olduğunu belirtti.
+
+Zirve kapsamında düzenlenen panellerde Eskişehir'de hayata geçirilen uygulamalardan örnekler veren Ünlüce, katı atık bertaraf tesisinde çöpten enerji üretildiğini ve oluşan ısıyla seralarda gıda ile peyzaj bitkileri yetiştirildiğini aktardı. Ayrıca kentteki ortak akıl merkezi "a.d.a", kırsal kalkınmayı destekleyen Çiftçi Destekleme ve Eğitim Merkezi (ÇİDEM), Küllüoba ekmeği ve Sakarya Vadisi'nde üretilen Dorlion zeytinyağı projeleri de katılımcılara tanıtıldı.
+
+Başkan Ünlüce, sürdürülebilir gıda sistemleri ve döngüsel gastronomi oturumunda ise gıda israfıyla mücadelenin ve atıkların yeniden değerlendirilmesinin sera gazı emisyonlarını düşürmedeki kritik rolüne işaret etti.
+
+---
+
+## Başkan Kurt Uluslararası REBUS Forumu'nda Odunpazarı'nı Anlattı
+
+**Belediye · Odunpazarı** · 2026-11-13 13:04 UTC · Kaynak: [Google Haberler - Odunpazarı](http://yozgatgazetesi.com/iha-haberleri/kazim-kurt-uluslararasi-rebus-2026-forumu-nda-odunpazari-ni-anlatti-305333.html)
+
+![](data/images/2b1ff7c7d17b71ae.jpg)
+
+> Tataristan'ın başkenti Kazan'da düzenlenen 4. Uluslararası REBUS Forumu'na konuşmacı olarak katılan Odunpazarı Belediye Başkanı Kazım Kurt, ilçedeki koruma ve restorasyon deneyimlerini paylaştı.
+
+Rusya’nın Tataristan Cumhuriyeti’ne bağlı Kazan kentinde düzenlenen 4. Uluslararası REBUS 2026 Forumu'nda tarihî yerleşimlerin korunması ve sürdürülebilir kentsel gelişim ele alındı. Tataristan Cumhuriyeti Reisi Rüstem Minnihanov’un himayesinde Kazan EXPO'da yapılan foruma, Odunpazarı Belediye Başkanı Kazım Kurt da konuşmacı olarak davet edildi.
+
+Rusya'nın 65 bölgesinin yanı sıra BRICS+, Şanghay İşbirliği Örgütü ve BDT üyesi ülkelerden çok sayıda heyetin katıldığı genel oturumda söz alan Başkan Kurt, Odunpazarı'nın tarihî kimliğini, yürütülen koruma çalışmalarını ve hayata geçirilen projeleri uluslararası delegelere aktardı. Toplantıda kentsel yenileme, tarihî dokunun ekonomik gelişmeyle uyumu, mekânsal planlama ve ekoloji gibi başlıklar üzerinde duruldu.
+
+Forumun ardından açıklamada bulunan Başkan Kazım Kurt, farklı ülkelerin kültürel mirası koruma yaklaşımlarını incelemenin önemine değindi. Kurt, "Odunpazarı’mızın tarihî dokusunu ve bu alanda yürüttüğümüz çalışmaları uluslararası katılımcılarla paylaşma fırsatı bulduk. Kentlerin geçmişiyle geleceği arasında bağ kurma yöntemlerini dinlemek son derece kıymetliydi" ifadelerini kullanarak organizasyonda emeği geçen Tataristan yetkililerine teşekkür etti.
+
+---
+
+## Bakan Bayraktar Duyurdu: Akkuyu'da İlk Nükleer Reaktör Birkaç Haftaya Başlatılıyor
+
+**Türkiye · Türkiye** · 2026-11-13 13:04 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31974)
+
+![](data/images/5b66814e1a13ad21.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin ilk nükleer güç reaktörünün fiziksel başlatmasının birkaç hafta içinde Akkuyu'da gerçekleştirileceğini açıkladı.
+
+Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen Dünya Atom Günleri etkinliğinde konuşan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin enerji dönüşümü ve nükleer hedeflerine ilişkin kritik açıklamalarda bulundu.
+
+İnşası süren Akkuyu Nükleer Güç Santrali'ndeki son duruma değinen Bakan Bayraktar, Türkiye'nin ilk nükleer güç reaktörünün fiziksel başlatmasının önümüzdeki birkaç hafta içinde yapılacağını duyurdu. Bayraktar, Türkiye'nin 2035 yılına kadar ekonomide yüzde 35 elektrifikasyon hedefi belirlediğini ve bu zorlu hedefe ulaşmak için nükleer enerjiye kesin bir ihtiyaç duyulduğunu belirtti.
+
+Türkiye'nin 2050 yılına kadar büyük reaktörler ve küçük modüler reaktörlerin (SMR) birleşimiyle toplam 20 gigavatlık nükleer kapasiteye ulaşmayı planladığını ifade eden Bayraktar, bu sayede elektrik ihtiyacının en az yüzde 10 ila 12'sinin temiz kaynaklardan temin edileceğini ve karbon emisyonlarının düşürüleceğini kaydetti.
+
+Nükleer enerji programındaki yerlileşme adımlarına da dikkat çeken Bakan Bayraktar, Akkuyu projesinde yerlilik oranının yüzde 50'nin üzerine çıktığını ve Rusya'da eğitim alan 300'ü aşkın Türk uzmanın projede görev yaptığını sözlerine ekledi.
+
+---
+
 ## Talat Yalaz'ın davasında ilk duruşma görüldü: Dava 3 Aralık'a ertelendi
 
 **Siyaset · Merkez** · 2026-11-13 11:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yeni-parti-eskisehir-il-baskani-talat-yalazin-yargilanmasina-baslandi-119519875)
@@ -397,91 +481,5 @@ Karşılaşma boyunca takımlarını desteklemeyi sürdüren Eskişehirspor tara
 Eskişehir'de çevre kirliliğiyle ilgili şikayetlere bir yenisi daha eklendi. Sümer Mahallesi Kızılyer mevkiinde yer alan Eskişehir Anadolu Lisesi'nin önündeki atıklar, bölgede bakımsız bir görüntü oluşturdu.
 
 Öğrencilerin yoğun olarak kullandığı okul çevresinde biriken çöpler hem çevre sağlığını tehdit ediyor hem de kötü bir görüntü ortaya çıkarıyor. Mahalle sakinleri ve veliler, öğrencilerin eğitim gördüğü bu alanda temizlik çalışmalarının sıklaştırılmasını ve çöplerin düzenli bir şekilde toplanmasını istiyor.
-
----
-
-## 23. Eskişehir Uluslararası Film Festivali 55 filmle başlıyor
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.haberler.com/amp/23-eskisehir-uluslararasi-film-festivali-19-27-20420720-haberi/)
-
-![](data/images/ca192bbf4dd68506.jpg)
-
-> Anadolu Üniversitesi tarafından bu yıl 23'üncüsü düzenlenecek Eskişehir Uluslararası Film Festivali, 19-27 Kasım tarihleri arasında sinemaseverlerle buluşacak.
-
-Anadolu Üniversitesi ev sahipliğinde gerçekleştirilecek 23. Eskişehir Uluslararası Film Festivali, 37'si uzun metraj olmak üzere toplam 55 filmi sinemaseverlerin beğenisine sunacak. Festival programı, Rektör Prof. Dr. Yusuf Adıgüzel ve heyetinin düzenlediği basın toplantısıyla kamuoyuna duyuruldu.
-
-Üniversitenin eğitim misyonu doğrultusunda genç sinemacılarla ustaları bir araya getirmeyi amaçladıklarını belirten Rektör Prof. Dr. Yusuf Adıgüzel, festivalde film gösterimlerinin yanı sıra atölye çalışmalarının da yer alacağını kaydetti. Organizasyon kapsamında Netflix iş birliğiyle düzenlenecek özel programda seçilen öğrenciler, senaryo ve yönetmenlik alanında uzman isimlerle çalışma fırsatı bulacak.
-
-Eskişehir'in kültür-sanat yaşamına hareketlilik katacak etkinlikler arasında, 26-27 Kasım tarihlerinde sinema festivallerinin sektöre etkilerinin ele alınacağı bir sempozyum da yer alıyor. Ayrıca Buster Keaton'ın "The General" filmi, gösteriminin 100'üncü yılı dolayısıyla piyanist Hakan Ali Toker'in canlı piyano eşliğinde izleyiciyle buluşacak.
-
-Festivalin açılış töreninde Türk sinemasına katkı sunan Nilüfer Aydan ve Feyzi Tuna'ya Sinema Onur Ödülü takdim edilecek. Etkinlik hakkında ayrıntılı bilgiye ve gösterim programına resmi internet sitesi üzerinden ulaşılabiliyor.
-
----
-
-## Altın fiyatları 13 Kasım 2026: Gram altın 6.371,12 TL
-
-**Ekonomi · Merkez** · 2026-11-13 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261113.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.283,77 TL'den alınıyor, 6.371,12 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.371,12 TL, alış fiyatı 6.283,77 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,16 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.384 TL, yarım altın 20.762 TL, tam altın 41.372 TL, ata altın 42.477 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.950,80 TL, has altının gram fiyatı 6.351,92 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.899,20 dolardan işlem görürken, dolar/TL 50,35 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Vali Yılmaz'dan İstiklal Mahallesi esnafına ziyaret
-
-**Gündem · Odunpazarı** · 2026-11-13 05:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
-
-![](data/images/047083b6780817c5.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, İstiklal Mahallesi'ndeki esnafı iş yerlerinde ziyaret ederek taleplerini dinledi ve hayırlı kazançlar diled.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki esnaf buluşmalarını sürdürüyor. Bu kapsamda İstiklal Mahallesi'nde faaliyet gösteren esnafı ziyaret eden Vali Yılmaz, işletme sahipleriyle bir süre sohbet etti.
-
-Ziyaret sırasında iş yerlerinin durumu hakkında bilgi alan Vali Yılmaz, esnafın talep ve önerilerini tek tek dinledi. Esnafın Eskişehir'in ekonomisine ve sosyal hayatına değer kattığını vurgulayan Vali Yılmaz, "Esnafımızın her zaman yanındayız. Hemşehrilerimizle birlikte Eskişehir’imiz için çalışmaya devam edeceğiz" dedi.
-
-Esnaf da ziyaretten duydukları memnuniyeti belirterek Vali Yılmaz'a teşekkürlerini iletti.
-
----
-
-## Okullarda İklim Değişikliği ve Afet Dirençliliği Kılavuzu Hazırlandı
-
-**Eğitim · Türkiye** · 2026-11-13 05:05 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/okullarda-iklim-degisikligine-bagli-afet-risklerine-karsi-farkindalik-olusturulacak/haber/42483/tr)
-
-![](data/images/d81c7ed64867399c.jpg)
-
-> Milli Eğitim Bakanlığı, COP31 kapsamında okullarda iklim değişikliği ve afet risklerine karşı farkındalık oluşturmak amacıyla etkinlik kılavuzu hazırladı.
-
-Milli Eğitim Bakanlığı, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde okullar için yeni bir etkinlik kılavuzu oluşturdu. Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı tarafından hazırlanan kılavuzla, öğrencilerin iklim değişikliğinin etkilerine karşı bilinçli ve afetlere hazırlıklı bireyler olarak yetişmesi hedefleniyor.
-
-"Okullarda İklim ve Afet Dirençliliği ile Biyolojik Çeşitliliğin Korunması Etkinlik Kılavuzu", tüm öğretim kademeleri için yaş ve gelişim düzeyleri dikkate alınarak 6 farklı temada hazırlandı. Çalışma; iklim değişikliğine bağlı afet risklerine karşı farkındalığın artırılması, biyolojik çeşitliliğin korunması, dayanışma ve ortak hareket etme kültürünün desteklenmesini amaçlıyor.
-
-Türkiye Yüzyılı Maarif Modeli'nin erdem-değer-eylem çerçevesinde hazırlanan etkinlikler, öğrencilerin edinilen bilgileri somut davranışlara dönüştürmesini hedefliyor. Kılavuzda deprem, orman yangını, sel, heyelan, çığ ve biyolojik çeşitlilik temalarına yer verilirken; "Toprağın yolculuğu", "Okulun yaşam ağı", "Yağmur şiddetlenirse ne yapacağız" ve "Bir kıvılcımdan önce" gibi başlıklar altında ailelerin de katılımının destekleneceği bildirildi.
-
----
-
-## Odunpazarı'nda Sanat ve Kitap Günleri Heyecanı Başlıyor
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-13 05:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haberes.com.tr/odunpazarinda-sanat-ve-kitap-gunleri-heyecani)
-
-![](data/images/578dffac13d8fb60.jpg)
-
-> Odunpazarı Belediyesi ve Cumhuriyet iş birliğiyle düzenlenecek Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde edebiyatseverleri ve yazarları bir araya getirecek.
-
-Odunpazarı Belediyesi, kültür ve sanat faaliyetleri kapsamında yeni bir etkinliğe ev sahipliği yapmaya hazırlanıyor. Cumhuriyet Gazetesi ve Cumhuriyet Kitapları iş birliğiyle hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde Yenikent Mahallesi'ndeki 100. Yıl Kültür Merkezi'nde gerçekleştirilecek.
-
-İki gün sürecek etkinlik boyunca edebiyat, şiir, öykü, resim, Cumhuriyet tarihi, Atatürk ve yerel yönetimler gibi pek çok farklı başlık ele alınacak. Program kapsamında gazeteciler, yazarlar, şairler ve araştırmacılar okurlarla söyleşilerde buluşacak ve ardından imza etkinlikleri düzenlenecek. Ayrıca katılımcılar, etkinlik süresince Cumhuriyet Gazetesi Koleksiyon Sergisi'ni ziyaret etme imkanı bulacak.
-
-Etkinliğin ilk günü olan 21 Kasım Cumartesi günü sergi açılışı ile başlayıp, "Yurdu Gezen Ressamlar", "Cumhuriyetin Cumhuriyeti", "Şiir ve Şairler" ile "Evimizin Dostları" söyleşileriyle devam edecek. Pazar günü ise "Acının Anatomisi", "Öykü", "Atatürk’ün Çağdaşlaşma Adımları" ve "Yunus Emre" başlıklarının yanı sıra, Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay'ın katılacağı "Yerel Siyaset, Yerel Yönetim" söyleşisi gerçekleştirilecek.
 
 ---
