@@ -18,7 +18,11 @@ jobs:
           cache: pip
       - run: pip install -q -r requirements.txt
       - run: python -m unittest discover -s tests -v
+      - name: Adres
+        run: echo "Denenen adres: ${{ vars.NEWS_PROXY_TEST_BASE }}"
       - uses: tailscale/github-action@v4
+        # Funnel (https://...ts.net) adresi internete açık; özel ağa bağlanmak yalnızca 100.x adresi için gerekir
+        if: startsWith(vars.NEWS_PROXY_TEST_BASE, 'http://100.')
         with:
           oauth-client-id: ${{ vars.TS_CLIENT_ID }}
           audience: ${{ vars.TS_AUDIENCE }}
