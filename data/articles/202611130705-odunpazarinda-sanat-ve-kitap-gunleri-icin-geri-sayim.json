@@ -21,11 +21,11 @@
     "title": "Odunpazarı'nda Sanat ve Kitap Günleri 21 Kasım'da Başlıyor - Esgazete",
     "url": "https://www.esgazete.com/odunpazarinda-sanat-ve-kitap-gunleri-21-kasimda-basliyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "100. Yıl Kültür Merkezi Odunpazarı",
       "kitap fuarı söyleşi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

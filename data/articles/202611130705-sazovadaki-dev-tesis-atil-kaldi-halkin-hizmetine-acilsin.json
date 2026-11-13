@@ -21,11 +21,11 @@
     "title": "Nihat Çuhadar’dan çağrı: “Yeniden Eskişehir halkının hizmetine kazandırılmalı!” - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/nihat-cuhadardan-cagri-yeniden-eskisehir-halkinin-hizmetine-kazandirilmali"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Sazova Bilim Kültür ve Sanat Merkezi",
       "Eskişehir Sazova Parkı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

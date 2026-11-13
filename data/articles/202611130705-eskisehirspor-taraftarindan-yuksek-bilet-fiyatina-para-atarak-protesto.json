@@ -21,11 +21,11 @@
     "title": "“Valizi Toplayıp Gidin!” - Haber 26",
     "url": "https://www.haber26.com.tr/spor/valizi-toplayip-gidin"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor taraftar",
       "ESOGÜ Stadyumu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
