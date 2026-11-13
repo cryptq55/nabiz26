@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye İklim Okulu'nda Dünya Gençleri İklim Dezenformasyonunu Tartıştı
+
+**Eğitim · Türkiye** · 2026-11-13 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/farkli-ulkelerden-gencler-turkiye-iklim-okulunda-iklim-degisikligiyle-mucadeleyi-ele-aldi/haber/42504/tr)
+
+![](data/images/99193bac44b5e5c9.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında Millî Eğitim Bakanlığı tarafından kurulan Türkiye İklim Okulu, farklı ülkelerden gençlerin katıldığı çevre ve eğitim atölyelerine ev sahipliği yaptı.
+
+Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Millî Eğitim Bakanlığı tarafından hayata geçirilen Türkiye İklim Okulu, uluslararası etkinliklerle çok sayıda ziyaretçiyi ağırlamaya devam ediyor. Etkinlikler çerçevesinde Türkiye'nin üyesi olduğu UNESCO Yeşil Eğitim Ortaklığının 4. Dönem Çalışma Grubu Toplantısı konferans salonunda yapılarak iklim kriziyle mücadele yöntemleri ele alındı.
+
+OECD iş birliğinde organize edilen atölyede ise Özbekistan, Bahamalar ve Meksika gibi ülkelerden gelen genç aktivistler ile çeşitli sektör temsilcileri buluştu. Gençler yuvarlak masa toplantısında iklim eğitimi, güvenilir bilgi kaynaklarına erişim ve çevre konularındaki dezenformasyonla mücadele deneyimlerini paylaştı. Programda OECD analisti Mario Piacentini ile İklim Eğitimi Ofisi araştırmacısı Elena Pasquinelli, doğru bilgiye ulaşma ve eleştirel düşünme üzerine değerlendirmelerde bulundu.
+
+Öte yandan okul bünyesindeki atölyeler ve deneyim alanları öğrencilerin de yoğun ilgisini çekti. Konferansı aileleriyle ziyaret eden çocuklar ve öğrenciler, iklim deneyim ve teknoloji alanlarında uygulamalı etkinliklerle çevre bilinci kazandı.
+
+---
+
+## Odunpazarı Kent Konseyi'nde İsmail Kumru Güven Tazeledi
+
+**Belediye · Odunpazarı** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/sorunlar-icin-mahalle-meclislerimizle-sahadayiz)
+
+> Odunpazarı Kent Konseyi'nin 22. Olağan Seçimli Genel Kurulu'nda mevcut başkan İsmail Kumru, açık oylamayla yeniden başkanlığa seçildi.
+
+Odunpazarı Belediyesi 100. Yıl Kültür Merkezi'nde düzenlenen genel kurula 200'ün üzerinde sivil toplum kuruluşu temsilcisi katıldı. Divan başkanlığını ESGİAD Yönetim Kurulu Başkanı Batuhan Eldem'in üstlendiği toplantıda, üniversiteler, meslek odaları ve dernek temsilcilerinden oluşan 19 kişilik yeni yürütme kurulu oy birliğiyle kabul edildi.
+
+Genel kurulda konuşan Başkan İsmail Kumru, kentin çevre ve altyapı sorunlarına dikkat çekti. Alpagut-Atalan, Kaymaz ve Beylikova bölgelerindeki çevre odaklı projelere değinen Kumru, kent içi çevre yolu ve hava yolu ulaşımındaki tıkanıklıkların çözümü için çalışmalarını sürdüreceklerini belirtti. Kumru ayrıca okul çevrelerindeki güvenlik tedbirlerine, Kocakır TOKİ bölgesinin sosyal donatı ihtiyaçlarına ve Emek Mahallesi'ndeki lise talebine işaret etti.
+
+Bünyelerindeki 23 mahalle meclisi ve 14 çalışma grubuyla vatandaşların taleplerini aktarmayı sürdüreceklerini dile getiren Kumru, Türkiye genelindeki yaklaşık 400 kent konseyi arasında ilk beş içerisinde yer aldıklarını ifade etti. Etkinlik kapsamında Ekrem Borazan'ın karikatür sergisi ile Yörükkırka Efeleri'nin zeybek gösterisi de katılımcılara sunuldu.
+
+---
+
+## Halkbank'tan Togg'a 48 Ay Vadeli Kredi: Tahsis Ücreti Alınmayacak
+
+**Ekonomi · Türkiye** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Togg](https://marmarabolge.com/halkbanktan-togg-alacaklara-firsat-kredi-miktari-aciklandi)
+
+![](data/images/23a51996a4e12647.jpg)
+
+> Halkbank, yerli elektrikli otomobil Togg için finansman koşullarını duyurdu. 2,5 milyon liraya kadar olan araçlarda yüzde 70'e kadar kredi ve 48 ay vade imkânı sağlanıyor.
+
+Yerli üretim elektrikli otomobil Togg'u satın almak isteyenler için Halkbank taşıt kredisi koşullarını açıkladı. Bankanın belirlediği yeni finansman şartlarına göre araç fatura bedeline bağlı olarak dört farklı vade ve kredi oranı uygulanacak. Kampanya kapsamında kullanılacak kredilerden tahsis ücreti de talep edilmeyecek.
+
+Belirlenen baremlere göre, fatura değeri 2 milyon 500 bin liraya kadar olan Togg modellerinde araç bedelinin yüzde 70'ine kadar kredi verilecek ve azami vade 48 ay olacak. Bu kapsamda 2,5 milyon liralık bir araç için en fazla 1 milyon 750 bin lira finansman sağlanabilecek. Değeri 2 milyon 500 bin lira ile 5 milyon lira arasında bulunan araçlar için yüzde 50 oran ve 36 ay vade, 5 milyon lira ile 6,5 milyon lira arasındaki araçlar için yüzde 30 oran ve 24 ay vade uygulanacak. Fatura tutarı 6,5 milyon ile 7,5 milyon lira aralığındaki modellerde ise azami oran yüzde 20, vade süresi ise 12 ay ile sınırlandırıldı.
+
+Kredi değerlendirmesinde gerçek kullanım tutarları müşterilerin gelir durumuna göre belirlenecek. Uygun faiz ve esnek ödeme koşullarının sunulduğu belirtilen Togg taşıt kredisi başvuruları ve ödeme planı detayları Halkbank şubeleri üzerinden temin edilebilecek.
+
+---
+
+## Eskişehirspor'un Kupa Randevusu Belli Oldu: 2 Aralık'ta Bodrum Deplasmanı
+
+**Spor · Merkez** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/bodrumspor-eskisehirspor-macinin-gunu-ve-saati-aciklandi)
+
+![](data/images/842d8e212a37d9bc.jpg)
+
+> Ziraat Türkiye Kupası 4. Eleme Turu programı açıklandı. Eskişehirspor, Bodrum FK ile 2 Aralık Çarşamba günü deplasmanda kozlarını paylaşacak.
+
+Ziraat Türkiye Kupası 4. Eleme Turu karşılaşmalarının takvimi netleşti. Kupanın dördüncü turunda mücadele edecek olan Eskişehirspor'un maç günü ve saati belli oldu. Kırmızı-siyahlı ekip, bir üst tura kalabilmek için Bodrum FK deplasmanına çıkacak.
+
+Açıklanan programa göre Bodrum FK ile Eskişehirspor arasındaki karşılaşma 2 Aralık 2026 Çarşamba günü oynanacak. Mücadele saat 15.00'te başlayacak ve tur atlayan taraf adını bir sonraki tura yazdıracak.
+
+Eskişehir'i kupada temsil eden bir diğer ekip olan Eskişehir Anadolu Spor Faaliyetleri de aynı gün sahaya çıkacak. Eskişehir temsilcisi, 2 Aralık Çarşamba günü saat 14.00'te Samsunspor'u kendi sahasında konuk edecek.
+
+---
+
+## Eskişehir'den Sabiha Gökçen'e seferler başladı: İşte saatler ve bilet fiyatı
+
+**Ulaşım · Merkez** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.gzt26.com/eskisehirden-sabiha-gokcen-havalimanina-havaist-seferleri-basladi)
+
+![](data/images/b6b9c5553339712f.jpg)
+
+> Eskişehir ile İstanbul Sabiha Gökçen Havalimanı arasında Havaist seferleri başladı. Günde iki kez düzenlenecek seferlerde tek yön bilet ücreti 1.050 TL olarak açıklandı.
+
+Eskişehir'den İstanbul Sabiha Gökçen Havalimanı'na doğrudan ulaşım sağlamak amacıyla yeni bir otobüs hattı devreye alındı. Havaist bünyesinde 13 Kasım itibarıyla başlatılan seferlerle, Eskişehir çıkışlı yolcular her gün düzenli olarak havalimanına ulaştırılabilecek.
+
+Bursa güzergâhı üzerinden gerçekleştirilecek yolculukların yaklaşık dört saat süreceği bildirildi. Açıklanan programa göre ilk otobüs Eskişehir'den gece saat 00.30'da hareket ederek 04.30'da havalimanına varacak. İkinci sefer ise saat 03.30'da kalkacak ve otobüsün 07.30'da Sabiha Gökçen Havalimanı'na ulaşması hedefleniyor.
+
+Her iki sefer için de tek yön bilet fiyatı 1.050 TL olarak belirlendi. Sabah saatlerindeki uçuşlara yetişmek isteyen yolculara yönelik planlanan seferlerin haftanın her günü aralıksız sürdürüleceği kaydedildi.
+
+---
+
 ## Tepebaşı'nda Kadınlara Şiddet ve Eşitlik Semineri: Ay Boyunca Sürecek
 
 **Belediye · Tepebaşı** · 2026-11-13 17:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/beldeevlerindetoplumsalcinsiyetesitligibulusmaları)
@@ -405,87 +483,5 @@ Eskişehir'de gece saatlerinde meydana gelen trafik kazasında kontrolden çıka
 Kaza, Tepebaşı ilçesi Hoşnudiye Mahallesi İstasyon Caddesi üzerinde yaşandı. Alınan bilgilere göre, Z.Ö. yönetimindeki 16 LP 113 plakalı otomobil, sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde savrulmaya başladı. Kontrolden çıkan araç cadde üzerinde devrilerek yan yattı.
 
 Olayda sürücü ile otomobildeki yolcular kazayı hafif sıyrıklarla atlattı. İhbar üzerine olay yerine gelen polis ekipleri güvenlik önlemleri alırken, devrilen araç çekici marifetiyle kaldırıldı. Kazayla ilgili inceleme başlatıldı.
-
----
-
-## Çatıda mahsur kalan kedi DAK ekiplerince kurtarıldı
-
-**Gündem · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haber26.com.tr/news/eskisehir-de-binanin-catisinda-mahsur-kalan-kediyi-dak-ekipleri-kurtardi)
-
-![](data/images/debf5626235806e5.jpg)
-
-> Odunpazarı ilçesinde apartman çatısında mahsur kalan kedi, Doğal Afetler Arama Kurtarma ekiplerinin müdahalesiyle kurtarıldı.
-
-Eskişehir'de bir binanın çatısında mahsur kalan kedi, Doğal Afetler Arama Kurtarma (DAK) ekiplerinin operasyonuyla kurtarılarak güvenli bir şekilde sokağa bırakıldı.
-
-Olay, Odunpazarı ilçesi Kurtuluş Mahallesi Bahçeler Sokak'ta yaşandı. Bir apartmanın çatısına çıkan kedinin uzun süre miyav seslerini duyan mahalle sakinleri, hayvanı kendi imkanlarıyla indiremeyince durumu ekiplere bildirdi. İhbar üzerine olay yerine yönlendirilen DAK görevlileri, gerekli güvenlik önlemlerini alarak çatıya çıktı.
-
-Ekiplerin titiz çalışması sonucu bulunduğu yerden alınan kedi, sağ salim aşağı indirilerek doğal yaşam alanına bırakıldı.
-
----
-
-## Vali Yılmaz'dan Eskişehir.Net'e Ziyaret
-
-**Gündem · Merkez** · 2026-11-13 07:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehirnet-sedef-medya-as-internet-haber-sitesini-ziyaret-etti)
-
-![](data/images/99454cb645e2cb51.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, Eskişehir.Net Sedef Medya A.Ş.'yi ziyaret ederek çalışmalar hakkında bilgi aldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, yerel medyanın çalışmalarını yerinde incelemek amacıyla Eskişehir.Net Sedef Medya A.Ş. İnternet haber sitesini ziyaret etti.
-
-Ziyaret kapsamında İmtiyaz Sahibi Fatih Sezer ve Sorumlu Yazı İşleri Müdürü Cihan Yıldırım ile bir araya gelen Vali Yılmaz, kurumun yürüttüğü faaliyetler hakkında bilgi aldı. Görüşmede basının kamuoyunu doğru ve hızlı bir şekilde bilgilendirmedeki kritik rolüne dikkat çekildi.
-
-Vali Yılmaz, buluşmanın sonunda medya çalışanlarına görevlerinde başarılar diledi.
-
----
-
-## Togg T6X ne zaman çıkacak? Fiyatı ne kadar olacak?
-
-**Ekonomi · Türkiye** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Togg](https://www.yenisafak.com/galeri/ozgun/togg-t6x-ne-zaman-cikacak-togg-t6x-modeli-ne-kadar-kac-lira-olacak-4860677)
-
-![](data/images/66b860c281a905cb.jpg)
-
-> Togg Yönetim Kurulu Başkanı Fuat Tosyalı, daha ekonomik yeni model T6X'i önümüzdeki yılın ortasında piyasaya sunmayı hedeflediklerini açıkladı.
-
-Türkiye'nin yerli otomobil üreticisi Togg, C-SUV modeli T10X ve sedan modeli T10F'in ardından A/B segmentindeki yeni modeli T6X için hazırlıklarını sürdürüyor. Bireysel kullanıcılar ve şehir içi mobiliteye yönelik geliştirilen B-SUV/Crossover konseptindeki T6X modeli, haziran ayında kullanıcılarla buluşturulacak.
-
-Togg Yönetim Kurulu Başkanı Fuat Tosyalı, Anadolu Ajansı Finans Masası'nda yaptığı açıklamada, yeni modelin mevcut fiyatlara kıyasla çok daha hesaplı olacağını belirtti. Tosyalı, "T10X ve T10F'den sonra T6X'i özellikle geliştirdik ki neredeyse şu anki cari fiyatlara göre çok çok daha hesaplı. Buna uygun kampanya süreçlerimiz de olacak" ifadelerini kullandı.
-
-"Ucuz Togg" olarak da anılan T6X modelinin, kompakt boyutları ve optimize edilmiş batarya seçenekleriyle Türkiye'deki en düşük ÖTV diliminde yer alması ve erişilebilir bir fiyat etiketi sunması öngörülüyor. Trumore uygulaması üzerinden e-Devlet entegrasyonuyla gerçekleştirilecek talep toplama sürecinde hak sahipleri kura veya sıra ile belirlenecek.
-
-Seri üretim öncesi test ve geliştirme süreçleri devam eden aracın batarya kapasitesi, sürüş menzili, motor gücü ve donanım paketleri gibi teknik detaylarının satış tarihine yakın bir zamanda kamuoyuyla paylaşılması bekleniyor.
-
----
-
-## Sazova'daki dev tesis atıl kaldı: Halkın hizmetine açılsın
-
-**Gündem · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/nihat-cuhadardan-cagri-yeniden-eskisehir-halkinin-hizmetine-kazandirilmali)
-
-> Eskişehir Büyükşehir Belediye Meclisi'nde konuşan YENİ Parti Meclis Üyesi Nihat Çuhadar, kapalı tutulan Türk Dünyası Bilim Kültür ve Sanat Merkezi'nin yeniden halkın hizmetine sunulmasını istedi.
-
-Eskişehir Büyükşehir Belediye Meclisi Başkanvekili Hasan Ünal yönetiminde gerçekleştirilen toplantıda, Sazova Bilim Kültür ve Sanat Parkı içindeki Türk Dünyası Bilim Kültür ve Sanat Merkezi'nin durumu gündeme taşıdı. Mecliste söz alan YENİ Parti Meclis Üyesi Nihat Çuhadar, tesisin güncel durumu hakkında değerlendirmelerde bulundu.
-
-Merkezin 2013 Türk Dünyası Kültür Başkenti ajandası kapsamında kalıcı bir eser olarak tasarlandığını hatırlatan Çuhadar, 15 bin metrekarelik kapalı alana sahip yapının bugün kapalı tutulduğunu belirtti. Tesisin günümüzdeki yeniden yapım maliyetinin yaklaşık 850 milyon ile 1 milyar lira arasında değerlendirildiğini ifade eden Çuhadar, kamu yatırımlarının korunması ve işlevsel kılınması gerektiğini vurguladı.
-
-Merkezin Gençlik ve Spor İl Müdürlüğü'ne devredildiği yönündeki bilgileri hatırlatan Çuhadar, devir sürecine ve tesisin geleceğine ilişkin resmi mercilere sorular yöneltti. Çuhadar, merkezin neden kapatıldığını, eserlerin nerede korunduğunu ve yeni kullanım planının ne olduğunu sordu.
-
-Konunun siyasi tartışmalardan uzak tutulması gerektiğini belirten Çuhadar, ilgili tüm kurumların ortak bir akistle hareket ederek tesisin yeniden bilim, kültür ve sanat faaliyetleri için açılmasını talep etti.
-
----
-
-## Odunpazarı'nda Sanat ve Kitap Günleri için geri sayım
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/odunpazarinda-sanat-ve-kitap-gunleri-21-kasimda-basliyor)
-
-> Odunpazarı Belediyesi ve Cumhuriyet Gazetesi iş birliğiyle düzenlenecek Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde kapılarını açacak.
-
-Odunpazarı Belediyesi, Cumhuriyet Gazetesi ve Cumhuriyet Kitapları iş birliğiyle hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde 100. Yıl Kültür Merkezi'nde kitapseverlerle buluşacak. Yenikent Mahallesi'nde yer alan merkezde gerçekleştirilecek etkinlik, edebiyat, sanat ve düşünce dünyasından pek çok ismi Eskişehirlilerle bir araya getirecek.
-
-İki gün sürecek organizasyon; söyleşiler, imza etkinlikleri ve Cumhuriyet Gazetesi Koleksiyon Sergisi'ne ev sahipliği yapacak. Program kapsamında edebiyattan şiire, resimden Cumhuriyet tarihine, Atatürk'ten yerel yönetimlere kadar geniş bir yelpazede başlıklar ele alınacak.
-
-Etkinlik, 21 Kasım Cumartesi günü saat 13.00'te sergi açılışı ve açılış konuşmalarıyla başlayacak ve gün boyunca sürecek söyleşi ve imza etkinlikleriyle devam edecek. Programın ikinci gününde ise çeşitli yazarlar ve şairler okurlarıyla buluşacak.
-
-Organizasyonun kapanış bölümünde Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay, "Yerel Siyaset, Yerel Yönetim" başlıklı söyleşide yerel siyasetin dinamiklerini değerlendirecek.
 
 ---
