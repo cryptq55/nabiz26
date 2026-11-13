@@ -22,11 +22,11 @@
     "title": "Eskişehir’de Karadeniz Festivali bugün başlıyor! Kuymak, karalahana çorbası ve 1 ton hamsi dağıtılacak... - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/eskisehirde-karadeniz-festivali-bugun-basliyor-kuymak-karalahana-corbasi-ve-1-ton-hamsi-dagitilacak"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Mithat Körler",
       "Dede Korkut Parkı Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
