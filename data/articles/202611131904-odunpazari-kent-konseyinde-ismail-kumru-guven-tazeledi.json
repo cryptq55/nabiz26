@@ -21,10 +21,10 @@
     "title": "Sorunlar İçin Mahalle Meclislerimizle Sahadayız - Esgazete",
     "url": "https://www.esgazete.com/sorunlar-icin-mahalle-meclislerimizle-sahadayiz"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "İsmail Kumru"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
