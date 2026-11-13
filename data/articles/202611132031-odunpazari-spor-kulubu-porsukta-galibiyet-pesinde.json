@@ -20,10 +20,10 @@
     "title": "Odunpazarı'na çıkış fırsat! - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/odunpazarina-cikis-firsat"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Porsuk Spor Salonu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -21,10 +21,10 @@
     "title": "Eskişehir'de 2 kişinin öldüğü silahlı kavgayla ilgili 5 sanığın yargılanmasına başlandı - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi-119521664"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Adalet Sarayı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
