@@ -447,7 +447,8 @@
   "202611130505-eskisehirspor-derbiyi-kazandi-liderlik-koltuguna-oturdu",
   "202611130505-vali-yilmazdan-istiklal-mahallesi-esnafina-ziyaret",
   "202611130505-erdogandan-cop31-is-forumunda-cagri-ekonomi-ekolojiye-feda-edilmemeli",
-  "202611130505-okullarda-iklim-degisikligi-ve-afet-direncliligi-kilavuzu-hazirlandi"
+  "202611130505-okullarda-iklim-degisikligi-ve-afet-direncliligi-kilavuzu-hazirlandi",
+  "202611130600-altin-fiyatlari-13-kasim-2026-gram-altin-6-371-12-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -629,7 +630,8 @@
   "202611121243-altin-fiyatlari-12-kasim-2026-gram-altin-6-402-48-tl",
   "202611121353-eskisehirspor-ayvalikgucu-maci-ne-zaman-saat-kacta",
   "202611130505-eskisehirspor-derbiyi-kazandi-liderlik-koltuguna-oturdu",
-  "202611130505-odunpazarinda-sanat-ve-kitap-gunleri-heyecani-basliyor"
+  "202611130505-odunpazarinda-sanat-ve-kitap-gunleri-heyecani-basliyor",
+  "202611130600-altin-fiyatlari-13-kasim-2026-gram-altin-6-371-12-tl"
  ],
  "log": [
   1794487628.1841736,
@@ -646,12 +648,14 @@
   1794546600.1406398,
   1794546617.0073955,
   1794546632.9878395,
-  1794546648.9068112
+  1794546648.9068112,
+  1794549918.3995583
  ],
  "reel_log": [
   1794487628.184176,
   1794491820.0825753,
   1794546534.948315,
-  1794546600.1406417
+  1794546600.1406417,
+  1794549918.3995607
  ]
 }
