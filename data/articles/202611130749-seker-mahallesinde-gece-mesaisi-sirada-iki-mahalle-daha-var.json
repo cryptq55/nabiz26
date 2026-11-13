@@ -21,10 +21,10 @@
     "title": "Tepebaşı Belediye Başkanı Ataç, Şeker Mahallesi’nde yürütülen çalışmaları inceledi - GazeteKalem",
     "url": "https://gazetekalem.com.tr/tepebasi-belediye-baskani-atac-seker-mahallesinde-yurutulen-calismalari-inceledi/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
