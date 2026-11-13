@@ -1,14 +1,14 @@
 # Instagram büyüme raporu (@nabiz26haber)
 
-Güncelleme: 13.11.2026 02:42 TSİ. Otomatik üretilir (`growth.py`, `growth.yml`).
+Güncelleme: 13.11.2026 17:42 TSİ. Otomatik üretilir (`growth.py`, `growth.yml`).
 
-**Takipçi: 175** · takip edilen 0 · paylaşım 280
-- Son 1 gün: +3 takipçi
-- Son 7 gün: +98 takipçi
+**Takipçi: 178** · takip edilen 0 · paylaşım 287
+- Son 1 gün: +6 takipçi
+- Son 7 gün: +101 takipçi
 
 | Gün | Takipçi | Paylaşım | 7 gün erişim |
 |---|---|---|---|
-| 2026-11-13 | 175 | 280 | 20370 |
+| 2026-11-13 | 178 | 287 | 16232 |
 | 2026-11-12 | 172 | 278 | 19155 |
 | 2026-11-11 | 150 | 265 | 17860 |
 | 2026-11-10 | 132 | 258 | 20479 |
@@ -23,8 +23,8 @@ Güncelleme: 13.11.2026 02:42 TSİ. Otomatik üretilir (`growth.py`, `growth.yml
 
 | Tür | Adet | Erişim | Beğeni | Kaydetme | Paylaşma |
 |---|---|---|---|---|---|
-| REELS | 84 | 455.3 | 2.9 | 0.2 | 0.6 |
-| FEED | 35 | 11.9 | 0.1 | 0.0 | 0.0 |
+| REELS | 90 | 446.5 | 2.8 | 0.2 | 0.6 |
+| FEED | 36 | 11.9 | 0.1 | 0.0 | 0.0 |
 
 ## En çok erişen paylaşımlar
 
@@ -35,4 +35,4 @@ Güncelleme: 13.11.2026 02:42 TSİ. Otomatik üretilir (`growth.py`, `growth.yml
 - 1650 erişim · 23 beğeni · 2 kayıt · REELS · [🌙 Eskişehir'de bugün · 7 Kasım Cumartesi](https://www.instagram.com/reel/DfaoVNQFBIw/)
 - 1626 erişim · 5 beğeni · 0 kayıt · REELS · [Tepebaşı'nda Kırım Caddesi 3-4 Kasım'da asfalt çalışması için trafiğe kapanacak](https://www.instagram.com/reel/DfRDTwmCtT3/)
 - 1541 erişim · 10 beğeni · 2 kayıt · REELS · [Odunpazarı'ndan 71 Evler'de 26 sokakta kapsamlı yol ve kaldırım mesaisi](https://www.instagram.com/reel/DfZq6jujmgF/)
-- 1516 erişim · 15 beğeni · 0 kayıt · REELS · [🌙 Eskişehir'de bugün · 11 Kasım Çarşamba](https://www.instagram.com/reel/Dfk9OILgOJY/)
+- 1518 erişim · 15 beğeni · 0 kayıt · REELS · [🌙 Eskişehir'de bugün · 11 Kasım Çarşamba](https://www.instagram.com/reel/Dfk9OILgOJY/)
