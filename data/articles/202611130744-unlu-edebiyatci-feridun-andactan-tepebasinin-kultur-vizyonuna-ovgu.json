@@ -21,11 +21,11 @@
     "title": "Ünlü Edebiyatçı Feridun Andaç’tan Tepebaşı’nın Kültür ve Sanat Vizyonuna Övgü - Haber 26",
     "url": "https://www.haber26.com.tr/eskisehir/unlu-edebiyatci-feridun-andactan-tepebasinin-kultur-ve-sanat-vizyonuna-ovgu"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç",
       "Tepebaşı Belediyesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

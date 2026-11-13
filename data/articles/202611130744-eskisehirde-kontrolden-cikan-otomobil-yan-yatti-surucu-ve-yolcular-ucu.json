@@ -21,11 +21,11 @@
     "title": "Eskişehir’de kontrolden çıkan otomobil yan yattı - Haber 26",
     "url": "https://www.haber26.com.tr/asayis/eskisehir-de-kontrolden-cikan-otomobil-yan-yatti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "İstasyon Caddesi Eskişehir",
       "Eskişehir trafik kazası"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

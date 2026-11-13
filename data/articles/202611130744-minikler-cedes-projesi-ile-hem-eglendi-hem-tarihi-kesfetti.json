@@ -21,11 +21,11 @@
     "title": "ÇEDES Projesi kapsamında minikler hem eğlendi hem tarihi öğrendi - Medya Gazete",
     "url": "https://www.medyagazete.com/haber/cedes-projesi-kapsaminda-minikler-hem-eglendi-hem-tarihi-ogrendi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı evleri",
       "Eskişehir Gençlik Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
