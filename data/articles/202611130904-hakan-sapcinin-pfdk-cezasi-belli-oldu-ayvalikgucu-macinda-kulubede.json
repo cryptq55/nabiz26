@@ -14,18 +14,17 @@
   ],
   "importance": 3,
   "reel": false,
-  "published_at": "2026-11-13T09:04:35.071141+00:00",
+  "published_at": "2026-11-13T10:20:57.415661+00:00",
   "status": "published",
   "source": {
     "name": "Google Haberler - Eskişehirspor",
     "title": "Eskişehirspor’u diken üstünde tutan ceza açıklandı! - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirsporu-diken-ustunde-tutan-ceza-aciklandi-2464363"
   },
-  "photo_pending": {
-    "query": [
-      "Hakan Şapcı",
-      "Eskişehirspor"
-    ],
-    "tries": 2
+  "image": {
+    "file": "images/hakan-sapcinin-pfdk-cezasi-belli-oldu-ayvalikgu-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eski%C5%9FehirsporClubBus.JPG",
+    "archive": true,
+    "credit": "CeeGee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
