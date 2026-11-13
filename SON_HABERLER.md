@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 13 Kasım 2026: Gram altın 6.371,12 TL
+
+**Ekonomi · Merkez** · 2026-11-13 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261113.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.283,77 TL'den alınıyor, 6.371,12 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.371,12 TL, alış fiyatı 6.283,77 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,16 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.384 TL, yarım altın 20.762 TL, tam altın 41.372 TL, ata altın 42.477 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.950,80 TL, has altının gram fiyatı 6.351,92 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.899,20 dolardan işlem görürken, dolar/TL 50,35 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Vali Yılmaz'dan İstiklal Mahallesi esnafına ziyaret
 
 **Gündem · Odunpazarı** · 2026-11-13 05:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-istiklal-mahallesinde-faaliyet-gosteren-esnafi-ziyaret-ederek-hayirli-ve-bereketli-kazanclar-diledi)
@@ -461,21 +481,5 @@ Sivrihisar ilçesine bağlı Ballıhisar mahallesinde yer alan ve toprak altınd
 Eskişehir Büyükşehir Belediyesi Kent Müzeleri Kompleksi Geçici Sergi Salonu'nda kapılarını açan sergide; aslanlar arasında tahtında oturan Kybele tasviri, döneme ait sikkeler ve pişmiş toprak eserler yer alıyor. Eserler aracılığıyla ziyaretçilere antik kentin inanç dünyası, Roma'nın anıtsal yapıları, Bizans ve Selçuklu döneminden günümüz Ballıhisar'ına uzanan tarihsel süreç aktarılıyor.
 
 Eskişehir'in köklü kültürel mirasını gözler önüne seren sergi, 6 Aralık 2026 tarihine kadar ziyaret edilebilecek.
-
----
-
-## MEB'den okul öncesi ailelere özel bülten: Doğayla Büyüyoruz
-
-**Eğitim · Türkiye** · 2026-11-11 20:15 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/aile-egitim-bulteni-quotdogayla-buyuyoruz-gelecegi-koruyoruzquot-temasiyla-yayinda/haber/42469/tr)
-
-![](data/images/4b2fdf97499f0a1a.jpg)
-
-> Milli Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü tarafından hazırlanan Kasım ayı Aile Eğitim Bülteni, 'Doğayla Büyüyoruz, Geleceği Koruyoruz' temasıyla yayımlandı.
-
-Milli Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü, ailelerin eğitim sürecine katılımını güçlendirmek amacıyla her ay yayımlanan Aile Eğitim Bülteni'nin Kasım sayısını erişime açtı. Okul öncesi eğitime devam eden çocukların ailelerine yönelik hazırlanan bülten, ev ortamı ile okul programları arasında bütünlük sağlamayı hedefliyor.
-
-Kasım ayı bülteninde, çocukların doğayla bağ kurmasının çok yönlü gelişimlerine katkıları, ormanlar ve doğal yaşamın önemi, sıfır atık ile sürdürülebilir yaşam alışkanlıkları ele alındı. İçerikte ayrıca ailelerin çocuklarıyla birlikte uygulayabileceği doğa etkinlikleri, oyunlar ve günlük yaşam önerilerine yer verildi.
-
-Bültende doğanın çocuklar için önemli bir öğrenme alanı olduğuna dikkat çekilerek, çocukların toprak kokusunu alması, kuş seslerini dinlemesi ve tohumun filizlenişini izlemesinin merak duygusunu geliştirdiği ifade edildi. Türkiye Yüzyılı Maarif Modeli Okul Öncesi Eğitim Programı çerçevesinde, çocukların çevre bilinci kazanması için aile desteğinin önemine vurgu yapıldı.
 
 ---
