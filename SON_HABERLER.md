@@ -2,9 +2,63 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Talat Yalaz'ın davasında ilk duruşma görüldü: Dava 3 Aralık'a ertelendi
+
+**Siyaset · Merkez** · 2026-11-13 11:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yeni-parti-eskisehir-il-baskani-talat-yalazin-yargilanmasina-baslandi-119519875)
+
+![](data/images/6baabf555aa67489.jpg)
+
+> Eskişehir'de yaptığı basın açıklamasındaki ifadeleri gerekçesiyle hakkında hapis ve siyasi yasak talebiyle dava açılan Talat Yalaz'ın yargılanmasına başlandı.
+
+CHP İl Başkanlığı yaptığı dönemde gerçekleştirdiği bir basın açıklamasındaki sözleri gerekçe gösterilerek "halkı kanunlara uymamaya tahrik" suçlamasıyla hakkında dava açılan Talat Yalaz'ın yargılanmasına Eskişehir 5. Asliye Ceza Mahkemesinde başlandı.
+
+İlk duruşmaya şehir dışında olduğu belirtilen Talat Yalaz katılmazken, kendisini avukatı Tevfik Yıldırım temsil etti. Duruşmada söz alan Avukat Yıldırım, soruşturma aşamasına dair tanık dinlenmesi yönündeki talebini mahkeme heyetine iletti.
+
+Mahkeme, dava dosyasındaki eksik hususların giderilmesine karar vererek duruşmayı 3 Aralık tarihine erteledi.
+
+Eskişehir Cumhuriyet Başsavcılığı tarafından hazırlanan iddianamede, 20 Temmuz 2024 tarihinde Hayvanları Koruma Kanunu'nda yapılması planlanan değişikliklere karşı düzenlenen basın açıklamasındaki ifadeler gerekçe gösterilmişti. Yalaz hakkında 6 aydan 2 yıla kadar hapis cezası ile siyasi yasak getirilmesi talep ediliyor.
+
+---
+
+## Erdoğan'dan Irak Cumhurbaşkanı Amedi ile Kritik Zirve: Kalkınma Yolu Masada
+
+**Siyaset · Türkiye** · 2026-11-13 11:05 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-irak-cumhurbaskani-amedi-ile-gorusmesine-iliskin-aciklama)
+
+![](data/images/2fb493066e360921.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi kapsamında Irak Cumhurbaşkanı Nizar Amedi ile Antalya'da bir araya geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi marjında Irak Cumhurbaşkanı Nizar Amedi ile ikili bir görüşme gerçekleştirdi. İletişim Başkanlığından yapılan açıklamaya göre, görüşmede Türkiye ile Irak arasındaki ikili ilişkiler ve bölgesel gelişmeler ele alındı.
+
+Cumhurbaşkanı Erdoğan, iki ülke arasındaki üst düzey temaslarda yakalanan ivmenin ikili ilişkilere dinamizm kazandırdığını belirtti. Görüşmede özellikle Kalkınma Yolu Projesi'ndeki ilerlemelere dikkat çeken Erdoğan, bu projenin Doğu-Batı ticaretinde yeni bir güzergâh oluşturacağını, enerji başta olmak üzere birçok sektörde iş birliğini güçlendirecek adımların sürdürüleceğini ifade etti.
+
+Erdoğan ayrıca Türkiye'nin "Terörsüz Bölge" hedefine Irak'ın desteğini artırarak sürdürmesini beklediklerini, bu amaca ulaşılmasının her iki ülkenin de çıkarına olacağını kaydetti.
+
+Zirve kapsamındaki görüşmeye Dışişleri Bakanı Hakan Fidan, Adalet Bakanı Akın Gürlek, Tarım ve Orman Bakanı İbrahim Yumaklı, AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, MİT Başkanı İbrahim Kalın ile Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran da katıldı.
+
+---
+
+## Bodrum Heyeti Eskişehir'de: Başarılı Projeler Ege'ye Taşınacak
+
+**Belediye · Merkez** · 2026-11-13 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/baskan-mandalinci-eskisehirdeki-guzel-ornekleri-bodruma-tasimak-istiyoruz)
+
+![](data/images/0c76abd112af3508.jpg)
+
+> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce’yi ziyaret ederek kentteki şehircilik uygulamalarını inceledi.
+
+Eskişehir Büyükşehir Belediyesi Meclis Salonu’nda gerçekleşen buluşmada, Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce ile Bodrum Belediye Başkanı Tamer Mandalinci bir araya geldi. Görüşmede iki kent arasındaki kardeş şehir ilişkileri, belediyecilik tecrübeleri ve kente değer katan uygulamalar ele alındı.
+
+Eskişehir’deki başarılı projeleri yerinde görmek amacıyla kente geldiklerini aktaran Bodrum Belediye Başkanı Tamer Mandalinci, teknik incelemelerin oldukça verimli geçtiğini belirtti. Eskişehir'in belediyecilik anlayışını yakından takip ettiklerini ifade eden Mandalinci, kentte hayata geçirilen örnek çalışmaları Bodrum'a taşımak istediklerini kaydetti.
+
+Ziyaretten duyduğu memnuniyeti dile getiren Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce ise yerel yönetimler arasındaki deneyim paylaşımının önemine değindi. Eskişehir’in yıllar içinde geçirdiği dönüşüm sürecini anlatan Ünlüce, özellikle Porsuk Çayı ıslahı ve çevresinde kurulan kamusal yeşil alanların şehre kazandırdığı canlılığı paylaştı.
+
+---
+
 ## Hakan Şapcı'nın PFDK Cezası Belli Oldu: Ayvalıkgücü Maçında Kulübede
 
-**Spor · Merkez** · 2026-11-13 09:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirsporu-diken-ustunde-tutan-ceza-aciklandi-2464363)
+**Spor · Merkez** · 2026-11-13 10:20 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirsporu-diken-ustunde-tutan-ceza-aciklandi-2464363)
+
+![](data/images/hakan-sapcinin-pfdk-cezasi-belli-oldu-ayvalikgu-arsiv.jpg)
 
 > Kepezspor maçında kırmızı kart gören Eskişehirspor Teknik Direktörü Hakan Şapcı'ya PFDK tarafından bir maç ve 5 bin TL para cezası verildi.
 
@@ -429,53 +483,5 @@ Odunpazarı Belediyesi, kültür ve sanat faaliyetleri kapsamında yeni bir etki
 İki gün sürecek etkinlik boyunca edebiyat, şiir, öykü, resim, Cumhuriyet tarihi, Atatürk ve yerel yönetimler gibi pek çok farklı başlık ele alınacak. Program kapsamında gazeteciler, yazarlar, şairler ve araştırmacılar okurlarla söyleşilerde buluşacak ve ardından imza etkinlikleri düzenlenecek. Ayrıca katılımcılar, etkinlik süresince Cumhuriyet Gazetesi Koleksiyon Sergisi'ni ziyaret etme imkanı bulacak.
 
 Etkinliğin ilk günü olan 21 Kasım Cumartesi günü sergi açılışı ile başlayıp, "Yurdu Gezen Ressamlar", "Cumhuriyetin Cumhuriyeti", "Şiir ve Şairler" ile "Evimizin Dostları" söyleşileriyle devam edecek. Pazar günü ise "Acının Anatomisi", "Öykü", "Atatürk’ün Çağdaşlaşma Adımları" ve "Yunus Emre" başlıklarının yanı sıra, Odunpazarı Belediye Başkanı Kazım Kurt ve gazeteci-yazar Mustafa Balbay'ın katılacağı "Yerel Siyaset, Yerel Yönetim" söyleşisi gerçekleştirilecek.
-
----
-
-## Eskişehirspor derbiyi kazandı, liderlik koltuğuna oturdu
-
-**Spor · Merkez** · 2026-11-13 05:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://gundem11.com/derbiyi-eskisehirspor-kazandi/)
-
-![](data/images/7d416fdc9cb5b0f0.jpg)
-
-> Eskişehir Osmangazi Üniversitesi Stadyumu'nda oynanan derbide Anadolu Spor Faaliyetleri'ni 2-0 mağlup eden Eskişehirspor, puan cetvelinde zirveye yerleşti.
-
-Eskişehirspor, Eskişehir Osmangazi Üniversitesi Stadyumu'nda oynanan heyecan dolu derbi karşılaşmasında Eskişehir Anadolu Spor Faaliyetleri ile kozlarını paylaştı. Siyah-kırmızılı ekip, maç boyunca sergilediği üstün performansla rakibini 2-0 mağlup etmeyi başardı.
-
-Kritik mücadelede Eskişehirspor'a galibiyeti getiren golleri Mert Başer ve İsmail Kulet kaydetti. Sahadan 3 puanla ayrılan siyah-kırmızılılar, maç sonrasında tribünleri dolduran taraftarlarıyla büyük sevinç yaşadı.
-
-Bu galibiyetle puanını yükselten Eskişehirspor, rakiplerinin de puan kaybetmesiyle birlikte ligde liderlik koltuğuna oturdu.
-
----
-
-## Erdoğan'dan COP31 İş Forumu'nda çağrı: Ekonomi ekolojiye feda edilmemeli
-
-**Türkiye · Türkiye** · 2026-11-13 05:05 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-cop31-is-forumunda-konustu)
-
-![](data/images/beda0e3998e028f0.jpg)
-
-> Antalya'da düzenlenen COP31 İş Forumu'nda konuşan Cumhurbaşkanı Erdoğan, iklim değişikliğiyle mücadelede iş dünyasının sorumluluk üstlenmesi gerektiğini vurguladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamındaki "COP31 İş Forumu"nda iş dünyasına hitap etti. Tarihin ve turizmin buluşma noktası Antalya'da yeryüzünün geleceğine sahip çıkmak için bir araya geldiklerini belirten Erdoğan, 20 Kasım'a kadar sürecek olan konferansa yaklaşık 100 bin kişinin katılımını beklediklerini kaydetti.
-
-İklim krizinin ulaştığı boyutların küresel ölçekte kararlı adımlar atılmasını zorunlu kıldığını ifade eden Erdoğan, COP31'in taahhütlerin somut sonuçlara dönüşmesine imkân verecek bir uygulama konferansı olarak tasarlandığını aktardı. Konferansın ilk gününü "sıfır atık", ikinci gününü ise "dirençli şehirler ve sürdürülebilir çevre" temalarına ayırdıklarını hatırlatan Erdoğan, 6 Şubat 2023 depremlerinin ardından üç yıldan kısa sürede 455 bin konut ve iş yeri inşa ederek bölgeyi yeniden ayağa kaldırdıklarını, bu tecrübeyi de zirvede paylaştıklarını belirtti.
-
-Gelişmiş ülkelerin emisyon azaltımı ve finansmanda daha fazla sorumluluk üstlenmesi gerektiğine dikkati çeken Erdoğan, "Eğer bugün biz de aynı hataları tekrarlar, ekolojiyi ekonomiye feda edersek bunun bedelini evlatlarımız ödeyecektir. Böyle bir yanlışa zaten biz izin vermeyiz" dedi. Türkiye'nin 2053 "net sıfır emisyon" hedefine değinen Erdoğan, yeşil kalkınma yolculuğunda rüzgâr, güneş ve nükleer enerji yatırımlarını artıracaklarını bildirdi.
-
-Uluslararası yatırımcıların Türkiye'ye güveninin arttığını vurgulayan Erdoğan, bu sabah 4 büyük kalkınma bankasıyla toplam 5,1 milyar dolarlık 10 anlaşma imzalandığını duyurdu. Kaynakların çiftçilere, ihracatçılara ve KOBİ'lere aktarılacağını belirten Erdoğan, HIT-30 programı ve Eximbank ile her zaman iş dünyasının yanında olacaklarını sözlerine ekledi.
-
----
-
-## AK Parti İl Başkanı Albayrak'tan ESTÜ Rektörü Özcan'a Ziyaret
-
-**Eğitim · Tepebaşı** · 2026-11-13 05:05 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/ak-parti-eskisehir-il-baskani-gurhan-albayrak-ve-beraberindeki-heyetten-rektorumuz-prof-dr-adnan-ozcana-tebrik-ziyareti)
-
-> AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki heyet, yeniden rektörlüğe atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
-
-AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki heyet, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan’a tebrik ziyaretinde bulundu.
-
-Rektörlük makamında gerçekleşen buluşmada İl Başkanı Albayrak ve heyeti, Özcan’ı kutlayarak yeni görev döneminde başarı dileklerini iletti.
-
-Rektör Prof. Dr. Adnan Özcan, nazik ziyaretleri ve iyi dilekleri dolayısıyla İl Başkanı Gürhan Albayrak ile beraberindeki heyete teşekkür etti.
 
 ---
