@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Uluönder'e Yeni ESKİ Abone Merkezi ve Ücretsiz Otopark Geliyor
+
+**Belediye · Tepebaşı** · 2026-11-13 21:03 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/uluondere-yeni-eski-abone-servisi-geliyor)
+
+![](data/images/62c38cbe9c26004d.jpg)
+
+> Eskişehir Büyükşehir Belediyesi, Uluönder Mahallesi'nde açılacak yeni ESKİ abone servisi ve 'Park Et Devam Et' otoparkı ile çevre mahalle sakinlerine kolaylık sağlayacak.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, ESKİ Genel Müdürlüğü tarafından Tepebaşı ilçesine bağlı Uluönder Mahallesi'nde kısa süre içinde faaliyete geçirilecek olan abone servisini yerinde inceledi. ESKİ Genel Müdürü Niyazi Solak'tan yürütülen son hazırlıklar hakkında bilgi alan Ünlüce, merkezin bölge sakinlerinin işlemlerini hızlandıracağını belirtti.
+
+Yapımında sona gelinen yeni ESKİ Uluönder Abone Servisi, Yunus Emre Halk Çarşısı'ndaki Abone İşleri Dairesi'nde gerçekleştirilen tüm hizmetleri sunacak. Merkezin hizmete girmesiyle birlikte Uluönder, Batıkent, Çamlıca ve Şirintepe mahallelerinde oturan vatandaşlar, abonelik ve ödeme gibi işlemlerini kent merkezine gitmeden mahallelerinde halledebilecek.
+
+İncelemeler sırasında aynı noktada yer alan otopark alanını da gezen Başkan Ünlüce, 'Park Et Devam Et' modelinin devreye alınacağını açıkladı. Otobüs ve tramvay duraklarına yakın olan bu otoparkın toplu taşımayı kullanan vatandaşlara ücretsiz sunulacağı, sürücülerin araçlarını buraya bırakarak yolculuklarına toplu taşımayla devam edebileceği bildirildi.
+
+Belediye Başkanı Ayşe Ünlüce, tesis incelemelerinin ardından Uluönder Mahalle Muhtarı Hasan Güler ile birlikte mahalle esnafını ve vatandaşları ziyaret ederek talep ve önerileri dinledi.
+
+---
+
+## Dede Korkut Parkı'nda Karadeniz Şöleni: 1 Ton Hamsi Dağıtılacak
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-13 21:03 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-karadeniz-festivali-bugun-basliyor-kuymak-karalahana-corbasi-ve-1-ton-hamsi-dagitilacak)
+
+> Eskişehir'de üç gün sürecek Karadeniz Festivali kapılarını açtı; etkinlikte vatandaşlara 1 ton hamsi, kuymak ve karalahana çorbası ikram edilecek.
+
+Eskişehir Karadenizliler Derneği öncülüğünde ve B.A.S. Fuar ve Organizasyon iş birliğiyle düzenlenen Karadeniz Festivali, Vişnelik Mahallesi'ndeki Dede Korkut Parkı'nda başladı. 13-15 Kasım tarihleri arasında üç gün sürecek etkinlik, Karadeniz kültürünü ve yöresel tatlarını Eskişehirlilerle buluşturacak.
+
+Festival kapsamında Karadeniz mutfağının lezzetleri katılımcıların beğenisine sunulacak. Etkinlik boyunca alanda karalahana çorbası ve kuymak hazırlanırken, ziyaretçilere toplam 1 ton hamsi ikramı gerçekleştirilecek.
+
+Kemençe dinletileri ve horon gösterilerinin yer alacağı festivalde alışveriş stantları ile çocuklar için oyun alanları da kuruldu. Program çerçevesinde sanatçı Mithat Körler, 14 Kasım Cumartesi günü saat 19.00'da sahne alarak konser verecek. Organizatörler üç gün sürecek şölene tüm kent halkını davet etti.
+
+---
+
 ## Tepebaşı'nda 2 Kişinin Öldüğü Silahlı Kavga Davasında Bir Sanığa Tahliye
 
 **Asayiş · Tepebaşı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.canligaste.com/eskisehir-de-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi/949292/)
@@ -449,41 +481,5 @@ Başkan Ataç'ın kamuoyu anketlerinde yüzde 60,7 oy oranıyla İç Anadolu Bö
 Tepebaşı Belediye Başkanı Dt. Ahmet Ataç ise ziyaretten duyduğu memnuniyeti belirterek kültür ve sanatın bir toplumun nefesi, hafızası ve geleceği olduğunu söyledi. Kentte çocukların, gençlerin ve kadınların sanata kolayca ulaşabileceği bir yaşam alanı yaratmak için çalıştıklarını ifade eden Ataç, sanat odaklı projelerin artarak devam edeceğini kaydetti.
 
 Ziyaretin ardından Feridun Andaç ve Başkan Ataç; atık kâğıtların yeniden üretime kazandırıldığı Kâğıt Geri Dönüşüm Atölyesi’ni, Uluslararası Pişmiş Toprak Sempozyumu eserlerini ve Milli Mücadele dönemini anlatan sergiyi gezerek incelemelerde bulundu.
-
----
-
-## Togg'dan COP31'de 2035 karbon nötr hedefi açıklaması
-
-**Ekonomi · Türkiye** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Togg](https://www.platinonline.com/otomotiv/togg-ceosu-gurcan-karakas-toggun-2035-hedefini-paylasti-1100759)
-
-![](data/images/8b73788ab8fa91e6.jpg)
-
-> Togg CEO'su Gürcan Karakaş, Antalya'da düzenlenen COP31 İklim Zirvesi'nde şirketin 2035 yılına kadar karbon nötr olma hedefini duyurdu.
-
-Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın ev sahipliğinde Antalya'da gerçekleştirilen COP31 İklim Zirvesi'nde Togg da küresel sahnede yerini aldı. Zirvede açıklamalarda bulunan Togg CEO'su M. Gürcan Karakaş, şirketin sürdürülebilirlik vizyonunu ve çevre hedeflerini paylaştı.
-
-Gemlik'teki üretim üssünün tam anlamıyla bir teknoloji merkezi olduğunu belirten Karakaş, tesisi ilk günden itibaren bu vizyonla kurguladıklarını ifade etti. Karakaş, "2035 yılında karbon nötr olma hedefimiz var. Bunu ilk günden itibaren böyle kurguladık" diyerek gelecek planlamasında yarından sonrasını hedeflediklerini kaydetti.
-
-Üretim süreçlerinde tamamen kağıtsız ve dijital bir model uyguladıklarını aktaran Karakaş, aynı yaklaşımın tedarik zincirinde de sürdürüldüğünü belirtti. Karbon emisyonlarının yapay zeka destekli altyapıyla takip edilip doğrulandığını ifade eden Karakaş, yollardaki 130 bine yakın Togg akıllı cihazı sayesinde yaklaşık 600 bin ton karbondioksit emisyonunun önüne geçildiğini bildirdi.
-
-Zirvedeki uluslararası ilgiye de değinen Karakaş, katılımcılardan büyük bir merak ve şaşkınlık gördüklerini, özellikle Türkiye'nin bu sistemi bu kadar kısa sürede nasıl kurduğunu öğrenmek istediklerini sözlerine ekledi.
-
----
-
-## Pessinus'un Binlerce Yıllık Tarihi Kent Müzeleri'nde Ziyarete Açıldı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esgazete.com/eskisehirde-pessinus-sergisi-kent-muzelerinde-acildi)
-
-![](data/images/ba2804f64fa1c052.jpg)
-
-> Antik Pessinus'un köklü geçmişini ve Ballıhisar köyündeki yaşamı buluşturan sergi, Kent Müzeleri Kompleksi'nde kapılarını açtı.
-
-Eskişehir Büyükşehir Belediyesi Kent Müzeleri Kompleksi Geçici Sergi Salonu, tarih ve arkeoloji meraklılarını buluşturan yeni bir sergiye ev sahipliği yapıyor. “Toprağın Altındaki Kent, Üstündeki Köy: Pessinus” başlığıyla hazırlanan serginin açılışı yoğun bir katılımla gerçekleştirildi.
-
-Anadolu'nun en önemli inanç ve ticaret merkezlerinden biri olan antik Pessinus'un tarihini ziyaretçilere aktaran sergi; Tanrılar Ana'nın kutsal merkezinden Roma dönemi yapılarına, Bizans ve Selçuklu izlerinden günümüz Ballıhisar köyüne uzanan hikâyeyi gözler önüne seriyor. Arkeolojik çalışmalarla gün ışığına çıkan kültürel mirası görünür kılmayı hedefleyen sergi, toprağın altındaki tarih ile üstünde süren yaşamı aynı çatı altında buluşturuyor.
-
-Açılışta konuşan Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal, Pessinus'ta yürütülen kazı çalışmalarının önemine vurgu yaparak, araştırmaların daha güçlü kaynaklarla desteklenmesi gerektiğini dile getirdi. Ünal, belediye olarak kazı ekiplerine desteği sürdüreceklerini belirtti.
-
-Pessinus Kazı Başkanı Doç. Dr. Adem Yurtsever ise antik kentin kültürel değerinin kentte daha geniş kitlelerce tanınması gerektiğini kaydetti. Sergi, 6 Aralık 2026 tarihine kadar Kent Müzeleri Kompleksi'nde ziyaret edilebilecek.
 
 ---
