@@ -2,6 +2,134 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan Esgazete'ye Ziyaret
+
+**Gündem · Merkez** · 2026-11-13 07:44 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-esgazete-internet-haber-merkezini-ziyaret-etti)
+
+![](data/images/ad65205ea6edec40.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Esgazete İnternet Haber Merkezi'ni ziyaret ederek kurum çalışmaları hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, yerel medyanın çalışmalarını yerinde incelemek amacıyla Esgazete İnternet Haber Merkezi'ni ziyaret etti.
+
+Ziyaret sırasında Esgazete İmtiyaz Sahibi Mustafa Yıldırım ve Yazı İşleri Müdürü Şenay Yıldırım ile bir araya gelen Vali Yılmaz, yürütülen faaliyetler ve haber çalışmaları hakkında yetkililerden bilgi aldı.
+
+Basın mensuplarıyla bir süre sohbet eden Vali Yılmaz, gazetecilik faaliyetlerinin önemine değinerek tüm çalışanlara görevlerinde başarılar diledi.
+
+---
+
+## Ünlü Edebiyatçı Feridun Andaç'tan Tepebaşı'nın Kültür Vizyonuna Övgü
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/eskisehir/unlu-edebiyatci-feridun-andactan-tepebasinin-kultur-ve-sanat-vizyonuna-ovgu)
+
+> Yazar ve akademisyen Feridun Andaç, Tepebaşı Belediyesi'ni ziyaret ederek kültür ve sanat projelerini inceledi, Başkan Ataç'ın çalışmalarının örnek olduğunu belirtti.
+
+Ünlü edebiyatçı ve akademisyen Feridun Andaç, Tepebaşı Belediye Başkanı Dt. Ahmet Ataç’ı makamında ziyaret etti. Ziyarette belediyenin kültür ve sanat alanında hayata geçirdiği projeler masaya yatırıldı.
+
+Başkan Ataç'ın kamuoyu anketlerinde yüzde 60,7 oy oranıyla İç Anadolu Bölgesi’nin en beğenilen ilçe belediye başkanı seçilmesinin tesadüf olmadığını ifade eden Feridun Andaç, Tepebaşı’nda insanı ve sanatı merkeze alan belediyecilik anlayışının Türkiye geneline örnek teşkil ettiğini dile getirdi. Hizmetlerin yalnızca altyapıyla sınırlı kalmaması gerektiğini vurgulayan Andaç, sanat ve edebiyat etkinliklerinin kente kazandırdığı değere dikkat çekti.
+
+Tepebaşı Belediye Başkanı Dt. Ahmet Ataç ise ziyaretten duyduğu memnuniyeti belirterek kültür ve sanatın bir toplumun nefesi, hafızası ve geleceği olduğunu söyledi. Kentte çocukların, gençlerin ve kadınların sanata kolayca ulaşabileceği bir yaşam alanı yaratmak için çalıştıklarını ifade eden Ataç, sanat odaklı projelerin artarak devam edeceğini kaydetti.
+
+Ziyaretin ardından Feridun Andaç ve Başkan Ataç; atık kâğıtların yeniden üretime kazandırıldığı Kâğıt Geri Dönüşüm Atölyesi’ni, Uluslararası Pişmiş Toprak Sempozyumu eserlerini ve Milli Mücadele dönemini anlatan sergiyi gezerek incelemelerde bulundu.
+
+---
+
+## Togg'dan COP31'de 2035 karbon nötr hedefi açıklaması
+
+**Ekonomi · Türkiye** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Togg](https://www.platinonline.com/otomotiv/togg-ceosu-gurcan-karakas-toggun-2035-hedefini-paylasti-1100759)
+
+![](data/images/8b73788ab8fa91e6.jpg)
+
+> Togg CEO'su Gürcan Karakaş, Antalya'da düzenlenen COP31 İklim Zirvesi'nde şirketin 2035 yılına kadar karbon nötr olma hedefini duyurdu.
+
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın ev sahipliğinde Antalya'da gerçekleştirilen COP31 İklim Zirvesi'nde Togg da küresel sahnede yerini aldı. Zirvede açıklamalarda bulunan Togg CEO'su M. Gürcan Karakaş, şirketin sürdürülebilirlik vizyonunu ve çevre hedeflerini paylaştı.
+
+Gemlik'teki üretim üssünün tam anlamıyla bir teknoloji merkezi olduğunu belirten Karakaş, tesisi ilk günden itibaren bu vizyonla kurguladıklarını ifade etti. Karakaş, "2035 yılında karbon nötr olma hedefimiz var. Bunu ilk günden itibaren böyle kurguladık" diyerek gelecek planlamasında yarından sonrasını hedeflediklerini kaydetti.
+
+Üretim süreçlerinde tamamen kağıtsız ve dijital bir model uyguladıklarını aktaran Karakaş, aynı yaklaşımın tedarik zincirinde de sürdürüldüğünü belirtti. Karbon emisyonlarının yapay zeka destekli altyapıyla takip edilip doğrulandığını ifade eden Karakaş, yollardaki 130 bine yakın Togg akıllı cihazı sayesinde yaklaşık 600 bin ton karbondioksit emisyonunun önüne geçildiğini bildirdi.
+
+Zirvedeki uluslararası ilgiye de değinen Karakaş, katılımcılardan büyük bir merak ve şaşkınlık gördüklerini, özellikle Türkiye'nin bu sistemi bu kadar kısa sürede nasıl kurduğunu öğrenmek istediklerini sözlerine ekledi.
+
+---
+
+## Pessinus'un Binlerce Yıllık Tarihi Kent Müzeleri'nde Ziyarete Açıldı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esgazete.com/eskisehirde-pessinus-sergisi-kent-muzelerinde-acildi)
+
+![](data/images/ba2804f64fa1c052.jpg)
+
+> Antik Pessinus'un köklü geçmişini ve Ballıhisar köyündeki yaşamı buluşturan sergi, Kent Müzeleri Kompleksi'nde kapılarını açtı.
+
+Eskişehir Büyükşehir Belediyesi Kent Müzeleri Kompleksi Geçici Sergi Salonu, tarih ve arkeoloji meraklılarını buluşturan yeni bir sergiye ev sahipliği yapıyor. “Toprağın Altındaki Kent, Üstündeki Köy: Pessinus” başlığıyla hazırlanan serginin açılışı yoğun bir katılımla gerçekleştirildi.
+
+Anadolu'nun en önemli inanç ve ticaret merkezlerinden biri olan antik Pessinus'un tarihini ziyaretçilere aktaran sergi; Tanrılar Ana'nın kutsal merkezinden Roma dönemi yapılarına, Bizans ve Selçuklu izlerinden günümüz Ballıhisar köyüne uzanan hikâyeyi gözler önüne seriyor. Arkeolojik çalışmalarla gün ışığına çıkan kültürel mirası görünür kılmayı hedefleyen sergi, toprağın altındaki tarih ile üstünde süren yaşamı aynı çatı altında buluşturuyor.
+
+Açılışta konuşan Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal, Pessinus'ta yürütülen kazı çalışmalarının önemine vurgu yaparak, araştırmaların daha güçlü kaynaklarla desteklenmesi gerektiğini dile getirdi. Ünal, belediye olarak kazı ekiplerine desteği sürdüreceklerini belirtti.
+
+Pessinus Kazı Başkanı Doç. Dr. Adem Yurtsever ise antik kentin kültürel değerinin kentte daha geniş kitlelerce tanınması gerektiğini kaydetti. Sergi, 6 Aralık 2026 tarihine kadar Kent Müzeleri Kompleksi'nde ziyaret edilebilecek.
+
+---
+
+## Minikler ÇEDES Projesi ile hem eğlendi hem tarihi keşfetti
+
+**Eğitim · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.medyagazete.com/haber/cedes-projesi-kapsaminda-minikler-hem-eglendi-hem-tarihi-ogrendi)
+
+> Eskişehir'de ÇEDES Projesi kapsamında bir araya gelen ilkokul öğrencileri, atölye çalışmalarına katıldı ve Odunpazarı'nda kültür gezisi yaptı.
+
+Eskişehir Gençlik ve Spor İl Müdürlüğü bünyesindeki Yunus Emre Gençlik Merkezi, "Çevreme Duyarlıyım Değerlerime Sahip Çıkıyorum" (ÇEDES) Projesi çerçevesinde Şehit Mehmet Taş İlkokulu öğrencilerini misafir etti.
+
+Merkezi ziyaret eden minikler, gençlik liderleri ve eğitmenlerin rehberliğinde hazırlanan çeşitli atölye ve farkındalık çalışmalarına katıldı. Programda çocukların katılımıyla "Aile Bütünlüğü" temalı eğitici drama oyunları sahnelendi ve bilgilendirici sunumlar yapıldı. Ardından resim atölyesinde boyama yapan öğrenciler, müzik etkinliğinde şarkılar söyleyerek keyifli anlar yaşadı.
+
+Merkezdeki etkinliklerin tamamlanmasının ardından öğrenciler ve gençlik merkezi ekibi, tarihi Odunpazarı bölgesine doğru kültür gezisi gerçekleştirdi. Bölgedeki sanat atölyelerini gezerek zanaatkarların çalışmalarını yerinde inceleyen çocuklar, tarihi mekanları ziyaret edip hatıra fotoğrafı çektirerek günü tamamladı.
+
+---
+
+## İletişim Başkanı Duran'dan COP31 Açıklaması: Türkiye'nin Çabaları Takdir Ediliyor
+
+**Türkiye · Türkiye** · 2026-11-13 07:44 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-cop31-liderler-zirvesine-dair-aciklamalarda-bulundu)
+
+![](data/images/f7c7590fb5545304.jpg)
+
+> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne ilişkin yaptığı açıklamada, Türkiye'nin iklim adaleti ve Sıfır Atık Hareketi'ndeki öncü rolüne dikkat çekti.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'da ev sahipliği yapılan Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Liderler Zirvesi'nin ardından değerlendirmelerde bulundu. Zirvenin başarılı bir şekilde sürdüğünü belirten Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın zirvedeki temaslarına ve konuşmasına liderlerin yoğun ilgi gösterdiğini ifade etti.
+
+Cumhurbaşkanı Erdoğan'ın konuşmasındaki iklim adaleti vurgusunun ve Gazze'deki çevre ve insanlık dramına dikkat çeken mesajlarının uluslararası alanda büyük yankı uyandırdığını aktaran Duran, gelişmekte olan ülkelerin iklim mücadelesindeki finans ve teknoloji ihtiyaçlarının somut adımlarla desteklenmesi gerektiğini vurguladı. Duran, Türkiye'nin Emine Erdoğan'ın liderliğinde hayata geçirdiği Sıfır Atık Hareketi'nin tüm dünyaya örnek teşkil ettiğini belirtti.
+
+İletişim Başkanlığı'nın zirvedeki faaliyetlerine de değinen Duran, etkinlik alanında kurulan geniş pavilyonda 5 panel düzenlediklerini ve iklim diplomasisi, Türkiye'nin COP31 tecrübesi ile Sıfır Atık konularını ele alan 3 temel eser hazırladıklarını kaydetti. Duran, Anadolu Ajansı ve TRT'nin de zirvede etkin bir görev üstlendiğini belirterek, SETA standını da ziyaret ettiğini sözlerine ekledi.
+
+---
+
+## Eskişehir'de kontrolden çıkan otomobil yan yattı: Sürücü ve yolcular ucuz kurtuldu
+
+**Asayiş · Tepebaşı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haber26.com.tr/asayis/eskisehir-de-kontrolden-cikan-otomobil-yan-yatti)
+
+> Tepebaşı ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobilin yan yattığı kazada araçta bulunanlar hafif sıyrıklarla kurtuldu.
+
+Eskişehir'de gece saatlerinde meydana gelen trafik kazasında kontrolden çıkan otomobil yan yattı. Şans eseri kazada yaralanan olmadı.
+
+Kaza, Tepebaşı ilçesi Hoşnudiye Mahallesi İstasyon Caddesi üzerinde yaşandı. Alınan bilgilere göre, Z.Ö. yönetimindeki 16 LP 113 plakalı otomobil, sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde savrulmaya başladı. Kontrolden çıkan araç cadde üzerinde devrilerek yan yattı.
+
+Olayda sürücü ile otomobildeki yolcular kazayı hafif sıyrıklarla atlattı. İhbar üzerine olay yerine gelen polis ekipleri güvenlik önlemleri alırken, devrilen araç çekici marifetiyle kaldırıldı. Kazayla ilgili inceleme başlatıldı.
+
+---
+
+## Çatıda mahsur kalan kedi DAK ekiplerince kurtarıldı
+
+**Gündem · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haber26.com.tr/news/eskisehir-de-binanin-catisinda-mahsur-kalan-kediyi-dak-ekipleri-kurtardi)
+
+![](data/images/debf5626235806e5.jpg)
+
+> Odunpazarı ilçesinde apartman çatısında mahsur kalan kedi, Doğal Afetler Arama Kurtarma ekiplerinin müdahalesiyle kurtarıldı.
+
+Eskişehir'de bir binanın çatısında mahsur kalan kedi, Doğal Afetler Arama Kurtarma (DAK) ekiplerinin operasyonuyla kurtarılarak güvenli bir şekilde sokağa bırakıldı.
+
+Olay, Odunpazarı ilçesi Kurtuluş Mahallesi Bahçeler Sokak'ta yaşandı. Bir apartmanın çatısına çıkan kedinin uzun süre miyav seslerini duyan mahalle sakinleri, hayvanı kendi imkanlarıyla indiremeyince durumu ekiplere bildirdi. İhbar üzerine olay yerine yönlendirilen DAK görevlileri, gerekli güvenlik önlemlerini alarak çatıya çıktı.
+
+Ekiplerin titiz çalışması sonucu bulunduğu yerden alınan kedi, sağ salim aşağı indirilerek doğal yaşam alanına bırakıldı.
+
+---
+
 ## Vali Yılmaz'dan Eskişehir.Net'e Ziyaret
 
 **Gündem · Merkez** · 2026-11-13 07:05 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehirnet-sedef-medya-as-internet-haber-sitesini-ziyaret-etti)
@@ -353,137 +481,5 @@ Yağlı boya ve akrilik çalışmalarından oluşan sergide, Gazze'deki savaşı
 Eserlerde savaşın getirdiği kayıpların yanı sıra kefiye, zeytin dalı, tarihî evler ve barış güvercinleri gibi simgelerle özgürlük, barış ve vatan özlemi vurgulandı. Öğrenciler, evlerine dönme umutlarını ve topraklarına olan bağlılıklarını eserleriyle ortaya koydu. Sergi, konferans süresince ziyaretçilerini ağırlamaya devam edecek.
 
 Öte yandan COP31 etkinlik alanındaki sergiye katılan Filistinli öğrenciler, organizasyon kapsamındaki Türkiye İklim Okulunu da ziyaret etti. Öğrenciler burada Millî Eğitim Bakanlığının yürüttüğü faaliyetler hakkında bilgi alarak atölye alanlarını gezdiler.
-
----
-
-## Türkiye ve Kanada'dan nükleer enerji hamlesi: Yeni aşamaya geçildi
-
-**Türkiye · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31972)
-
-![](data/images/3565e13e0d2f9c9f.jpg)
-
-> Türkiye ile Kanada arasında nükleer enerji santrali projeleri kapsamında fizibilite ve ön tasarım mühendisliği anlaşması imzalandı.
-
-Türkiye ile Kanada arasında nükleer enerjide yeni bir aşamaya geçilerek önemli bir anlaşmaya imza atıldı. Türkiye Nükleer Enerji Anonim Şirketi (TÜNAŞ) ile Kanadalı Candu Energy Inc. arasında gerçekleştirilen mutabakat ile CANDU reaktör teknolojisinde fizibilite ve ön tasarım mühendisliği çalışması yapılacak.
-
-Antalya'da devam eden BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) marjında hayata geçirilen anlaşma, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile Kanada Çevre, İklim Değişikliği ve Doğa Bakanı Julie Dabrusin'ın huzurunda imzalandı. Sürecin, projenin teknik ve ticari açıdan olgunlaşmasını sağlayarak nihai yatırım kararları için güvenilir bir zemin oluşturması hedefleniyor.
-
-Bakan Alparslan Bayraktar, anlaşmaya ilişkin değerlendirmesinde, fizibilite ve ön tasarım mühendisliğini kapsayan bu sürecin nükleer enerjideki uzun vadeli yol haritasını netleştireceğini ve arz güvenliğini tahkim edeceğini belirtti. Çalışmaların en kritik boyutlarından birinin yerli sanayinin projeye maksimum katılımı ve nitelikli insan kaynağının geliştirilmesi olduğunu vurguladı.
-
----
-
-## Eskişehirspor - Ayvalıkgücü maçı ne zaman, saat kaçta?
-
-**Spor · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-ayvalikgucu-maci-ne-zaman-saat-kacta-canli-yayin-hangi-kanalda-2463963)
-
-![](data/images/3c6e2fa205f1daf4.jpg)
-
-> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, 12. hafta karşılaşmasında Ayvalıkgücü Belediyespor'u konuk edecek.
-
-Nesine 3. Lig 2. Grup'ta üst sıraları hedefleyen Eskişehirspor, ligin 12. haftasında kendi sahasında Ayvalıkgücü Belediyespor ile kozlarını paylaşacak. Futbolseverlerin merakla beklediği karşılaşmanın detayları netleşti.
-
-TFF maç programına göre müsabaka, 15 Kasım 2026 Pazar günü Eskişehir'deki Prof. Dr. Fethi Heper Stadyumu'nda oynanacak. Kritik mücadele saat 15.30'da başlayacak.
-
-Karşılaşmayı canlı takip etmek isteyen taraftarlar için mücadelenin Tivibu Spor ekranlarından naklen yayınlanması planlanıyor. Yayın detayları ve olası değişiklikler için maç saatinde yayın akışının kontrol edilmesi öneriliyor.
-
----
-
-## Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde Koordinasyon Toplantısı
-
-**Gündem · Merkez** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.aile.gov.tr/eskisehir/haberler/il-mueduerlueguende-koordinasyon-toplantisi-toplumda-goeruelmeyen-sikintilari-tespit-etmek-temel-gayemiz/)
-
-![](data/images/7711957ad997a55a.jpg)
-
-> Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde gerçekleştirilen koordinasyon toplantısında, sahadaki sosyal hizmet çalışmalarının güncel ihtiyaçları ele alındı.
-
-Eskişehir Aile ve Sosyal Hizmetler İl Müdürlüğü'nde kurum içi koordinasyon toplantısı düzenlendi.
-
-İl Müdürü Orhan Bayrak başkanlığında yapılan toplantıya, Aile ve Toplum Hizmetlerinden sorumlu İl Müdür Yardımcısı Hatice Dost, Sosyal Hizmet Merkezi (SHM) müdürleri ve birim personelleri katıldı. Buluşmada Sosyal Hizmet Merkezlerinin güncel ihtiyaçları ve sahadan gelen talepler ayrıntılı şekilde masaya yatırıldı.
-
-İnsan odaklı sosyal hizmet alanında mesleki körleşme riskine karşı dikkatli olunması gerektiği vurgulanan toplantıda, toplumda görülmeyen sıkıntıların zamanında tespit edilmesinin önemine dikkat çekildi. Sahadaki çalışmaların değişken yapısına değinen İl Müdürü Bayrak, tek tip çözüm yollarına sahip bir bakanlık olmadıklarını belirterek karşılaşılan her duruma karşı çok boyutlu stratejiler üretmek zorunda olduklarını ifade etti.
-
-Toplantı, personelin görüş, talep ve önerilerinin dinlenmesinin ardından sona erdi.
-
----
-
-## Erdoğan'dan Somali Cumhurbaşkanı Mahmud ile COP31'de ikili görüşme
-
-**Siyaset · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-somali-cumhurbaskani-mahmud-ile-gorusmesine-iliskin-aciklama-12-11-26)
-
-![](data/images/484c89a323d10ae0.jpg)
-
-> Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi kapsamında Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile bir araya geldi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi dolayısıyla Antalya'da bulunan Somali Cumhurbaşkanı Hasan Şeyh Mahmud ile görüşme gerçekleştirdi. İki lider arasındaki görüşmede Türkiye ile Somali arasındaki ikili ilişkiler ile çeşitli bölgesel konular masaya yatırıldı.
-
-Cumhurbaşkanı Erdoğan, görüşmede Türkiye ve Somali'nin savunma ile enerji başlıkları başta olmak üzere birçok alanda iş birliğini geliştirme kararlılığında olduğunu vurguladı. İlişkilere ivme kazandıracak adımların atılmaya devam edileceğini ifade eden Erdoğan, Somali'nin huzur ve istikrarının Türkiye açısından büyük önem taşıdığını belirtti.
-
-Erdoğan ayrıca, ulusal diyalog sürecinin başarısının, millî birliğin tesisinin ve toplumsal barışın sağlanmasının temenni edildiğini dile getirdi.
-
----
-
-## Bodrum heyetinden Tepebaşı'na ziyaret: Projeler incelendi
-
-**Belediye · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/bodrum-belediyesi-heyeti-tepebasi-nin-surdurulebilir-projelerini-inceledi-21036e7d)
-
-> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, kardeş şehir Tepebaşı’nı ziyaret ederek sürdürülebilirlik ve sosyal projeleri yerinde inceledi.
-
-Bodrum Belediye Başkanı Tamer Mandalinci, belediye başkan yardımcıları ve meclis üyelerinden oluşan 28 kişilik heyet, kardeş şehir Tepebaşı Belediyesi'ni ziyaret etti. Tepebaşı Belediye Başkanı Ahmet Ataç tarafından karşılanan heyet, belediye hizmet binası ile Uluslararası Eskişehir Pişmiş Toprak Sempozyumları'nda üretilen eserleri inceledi, geri dönüşüm atölyesi hakkında bilgi aldı.
-
-Ziyaret kapsamında Melih Savaş Yaşam Köyü'nü de gezen heyete, Alzheimer Konukevleri ve AB destekli REMOURBAN projesi başta olmak üzere sürdürülebilir kent çalışmaları aktarıldı. İki belediye arasındaki deneyim paylaşımının önemine vurgu yapan Tepebaşı Belediye Başkanı Ahmet Ataç, kentlerin sorunlarına çözüm üretmek amacıyla farklı yöntemler geliştirdiklerini belirtti.
-
-Tepebaşı Belediyesi'nin örnek çalışmaları yerinde incelediklerini ifade eden Bodrum Belediye Başkanı Tamer Mandalinci ise, projelerden Bodrum'un ihtiyaçlarına uygun olanları kendi kentlerinde hayata geçirmek istediklerini kaydetti.
-
----
-
-## Bodrum heyetinden Tepebaşı'na ziyaret: İyi örnekler Bodrum'da uygulanacak
-
-**Belediye · Tepebaşı** · 2026-11-12 13:53 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanmandalincitepebası’nıniyiorneklerinibodrum’dadegerlendirecegiz)
-
-![](data/images/117757953094a913.jpg)
-
-> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, kardeş şehir Tepebaşı Belediyesi'ni ziyaret ederek sürdürülebilirlik ve sosyal projeleri inceledi.
-
-Bodrum Belediye Başkanı Tamer Mandalinci, belediye başkan yardımcıları ve meclis üyelerinden oluşan 28 kişilik heyetle birlikte kardeş şehir Tepebaşı Belediyesi'ni ziyaret etti. Tepebaşı Belediye Başkanı Ahmet Ataç tarafından karşılanan heyet, belediye binası ve Uluslararası Eskişehir Pişmiş Toprak Sempozyumları kapsamında üretilen eserleri inceledi. Geri dönüşüm atölyesini de gezen konuklar, sürdürülebilirlik odaklı çalışmalar hakkında bilgi aldı.
-
-Makam ziyaretinin ardından Melih Savaş Yaşam Köyü'ne geçen heyet, Alzheimer Konukevleri ve birimlerin işleyişini yerinde inceledi. Ziyarette ayrıca Tepebaşı Belediyesinin Avrupa Birliği destekli REMOURBAN projesi ele alındı.
-
-İki belediye arasındaki deneyim paylaşımının önemine dikkat çeken Tepebaşı Belediye Başkanı Ahmet Ataç, farklı yöntemler geliştirerek kentlerin sorunlarına çözüm aradıklarını belirtti. Bodrum Belediye Başkanı Tamer Mandalinci ise Tepebaşı'nın örnek alınacak önemli projeleri bulunduğunu ifade ederek, bu projelerden Bodrum'un ihtiyaçlarına uygun olanları kendi kentlerinde hayata geçirmek istediklerini kaydetti.
-
----
-
-## Bakan Tekin: PISA sonuçları gıptayla bakılan yürüyüşe dönüştü
-
-**Eğitim · Türkiye** · 2026-11-12 13:53 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-tbmm-plan-ve-butce-komisyonunda-bakanligin-2027-butcesine-iliskin-sunum-yapti/haber/42484/tr)
-
-![](data/images/287383e6722dd556.jpg)
-
-> Milli Eğitim Bakanı Yusuf Tekin, TBMM Plan ve Bütçe Komisyonunda bakanlığının 2027 bütçe sunumunu gerçekleştirdi.
-
-Milli Eğitim Bakanı Yusuf Tekin, TBMM Plan ve Bütçe Komisyonunda bakanlığının 2027 yılı bütçesine ilişkin sunum yaptı.
-
-Konuşmasında Gazi Mustafa Kemal Atatürk'ün eğitime verdiği öneme atıfta bulunan Tekin, Türkiye Yüzyılı Maarif Modeli ile erdem, değer ve eylem çerçevesinde köklerinden kopmayan bir nesil yetiştirmeyi amaçladıklarını belirtti. Tarih bilincinin önemine vurgu yapan Tekin, müfredatta yapılan güncellemelerle saldırıya saldırı, sömürgeciliğe ise sömürgecilik dediklerini ifade etti.
-
-PISA sonuçlarına da değinen Bakan Tekin, geçmişte yapılan eleştirilerin aksine Türkiye'nin fen bilimleri ve okuma becerilerinde OECD ortalamasının üzerine çıktığını kaydetti. Eğitime ayrılan bütçenin artırıldığını ve derslik sayısının iki katına çıkarıldığını belirten Tekin, okul öncesi okullaşma oranında da önemli artışlar sağlandığını dile getirdi.
-
----
-
-## Altın fiyatları 12 Kasım 2026: Gram altın 6.402,48 TL
-
-**Ekonomi · Merkez** · 2026-11-12 12:43 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261112.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.336,66 TL'den alınıyor, 6.402,48 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 15.43 itibarıyla verilerine göre gram altının satış fiyatı 6.402,48 TL, alış fiyatı 6.336,66 TL oldu. Gram altın, önceki kapanışa göre yüzde 4,69 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.435 TL, yarım altın 20.864 TL, tam altın 41.575 TL, ata altın 42.686 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.980,33 TL, has altının gram fiyatı 6.383,33 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.936,30 dolardan işlem görürken, dolar/TL 50,29 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 15.43 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
