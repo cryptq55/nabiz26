@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Hakan Şapcı'nın PFDK Cezası Belli Oldu: Ayvalıkgücü Maçında Kulübede
+
+**Spor · Merkez** · 2026-11-13 09:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirsporu-diken-ustunde-tutan-ceza-aciklandi-2464363)
+
+> Kepezspor maçında kırmızı kart gören Eskişehirspor Teknik Direktörü Hakan Şapcı'ya PFDK tarafından bir maç ve 5 bin TL para cezası verildi.
+
+Kepezspor karşılaşmasının devre arasında kırmızı kartla ihraç edilen ve Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilen Eskişehirspor Teknik Direktörü Hakan Şapcı hakkındaki karar açıklandı. Disiplin kurulu, tecrübeli teknik adama bir maç men ve 5 bin TL para cezası uyguladı.
+
+Verilen bir maçlık cezasını hafta içinde oynanan Anadolu SF müsabakasında tribünde kalarak tamamlayan Hakan Şapcı'nın men süresi sona erdi. Başarılı çalıştırıcı, pazar günü oynanacak Ayvalıkgücü karşılaşmasında takımının başında yer alarak yedek kulübesine dönebilecek.
+
+---
+
+## Erdoğan COP31'de Liderlerle Görüştü: Masada Barış ve İş Birliği Vardı
+
+**Siyaset · Türkiye** · 2026-11-13 09:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-963155.html)
+
+![](data/images/5dfe0b7d6578fde9.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 kapsamında BM Genel Sekreteri Guterres ve çok sayıda devlet başkanıyla ikili temaslarda bulundu.
+
+Antalya EXPO alanında gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), yoğun bir ikili diplomasi trafiğine sahne oldu. Cumhurbaşkanı Recep Tayyip Erdoğan, zirve boyunca dünya liderleriyle bir dizi resmi görüşme gerçekleştirdi.
+
+Temaslarına BM Genel Sekreteri Antonio Guterres ile başlayan Erdoğan; İran-ABD gerilimi, Ukrayna-Rusya Savaşı, Gazze, Kıbrıs ve Libya'daki gelişmeleri ele aldı. Erdoğan, bölgesel ihtilafların diplomasi ve diyalog yoluyla çözülmesi için Türkiye'nin desteğe hazır olduğunu kaydetti. Zirve kapsamında Brezilya Devlet Başkanı Lula da Silva ile de görüşen Erdoğan, iklim müzakerelerinde alınan mesafeyi COP31 ile somut uygulamalara dönüştürmeyi hedeflediklerini belirtti.
+
+Liderler Zirvesi boyunca devam eden görüşmelerde Avustralya Başbakanı Anthony Albanese, Çin Devlet Başkan Yardımcısı Han Zheng, Ermenistan Başbakanı Nikol Paşinyan ve Bosna Hersek heyetiyle ikili ilişkiler değerlendirildi. Çin ile Orta Koridor, Kuşak ve Yol ile Kalkınma Yolu projelerinin uyumuna dikkat çekilirken; Ermenistan ile normalizasyon ve Azerbaycan arasındaki barış süreci masaya yatırıldı. Suudi Arabistan ile ise elektrik projelerinde iş birliğini içeren mutabakat zaptı imzalandı.
+
+Zirvenin son gününde İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir araya gelen Erdoğan, İran-ABD arasındaki çatışmaların sona ermesi için müzakere masasının kurulması gerektiğini vurguladı. Cumhurbaşkanı Erdoğan ayrıca Irak, Pakistan, Gürcistan, Kongo, Kongo DC, Sudan, Libya ve Tanzanya liderleriyle enerji, ticaret ve ulaştırma alanlarındaki iş birliğini güçlendirmeye yönelik temaslarda bulundu.
+
+---
+
+## Bakan Göktaş'tan COP31'de İklim ve Göç Uyarısı: 216 Milyon Kişi Yer Değiştirebilir
+
+**Türkiye · Türkiye** · 2026-11-13 09:04 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-goktas-cop31-de-iklim-politikasi-cercevelerinde-ayristirilmis-demografik-veri-kullaniminin-hizlandirilmasi-etkinliginde-konustu/)
+
+![](data/images/7f52f0f1626f6efe.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, COP31'de yaptığı konuşmada iklim krizinin toplumsal yapıyı derinden etkilediğini ve sosyal politikaların değişen nüfus verilerine göre şekillendirileceğini açıkladı.
+
+Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen "İklim Politikası Çerçevelerinde Ayrıştırılmış Demografik Veri Kullanımının Hızlandırılması" etkinliğinde konuşan Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, iklim ile nüfus dinamikleri arasındaki güçlü bağa dikkat çekti. Bakan Göktaş, Dünya Bankası verilerine işaret ederek 2050 yılına kadar 216 milyon kişinin iklim koşulları sebebiyle kendi ülkesi içinde göç etmek zorunda kalabileceğini ifade etti.
+
+İklim krizinin etkilerinin toplum kesimlerine göre farklılık gösterdiğini belirten Göktaş, Hükümetlerarası İklim Değişikliği Paneli verilerine göre dünya çapında 3 milyar 300 milyon ile 3 milyar 600 milyon arasında insanın iklim olaylarına karşı yüksek kırılganlık taşıdığını aktardı. Bu farklılıkların yönetilebilmesi için ayrıştırılmış demografik verilerin hayati öneme sahip olduğunu vurgulayan Bakan Göktaş, risklerin yaş, gelir ve hane yapısına göre tespit edilerek müdahale planlarının hazırlanması gerektiğini söyledi.
+
+Bakanlık olarak iklim kaynaklı değişimleri sosyal politikalara entegre ettiklerini kaydeden Göktaş, iklim krizinin kadınlar üzerindeki etkilerini araştıran saha çalışmaları yürüttüklerini belirtti. Hazırlanan sosyal risk haritalarında iç ve dış göç hareketlerinin birer gösterge olarak yer aldığını bildiren Göktaş, "Aile ve Nüfus On Yılı" vizyonu çerçevesinde sosyal hizmetlerin geleceğin değişen demografik şartlarına uygun şekilde planlanacağını sözlerine ekledi.
+
+---
+
 ## Vali Yılmaz'dan İHA Eskişehir Bölge Müdürlüğü'ne Ziyaret
 
 **Gündem · Merkez** · 2026-11-13 07:49 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ihlas-haber-ajansi-iha-eskisehir-bolge-mudurlugunu-ziyaret-etti)
@@ -431,51 +477,5 @@ AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki heyet, Eski�
 Rektörlük makamında gerçekleşen buluşmada İl Başkanı Albayrak ve heyeti, Özcan’ı kutlayarak yeni görev döneminde başarı dileklerini iletti.
 
 Rektör Prof. Dr. Adnan Özcan, nazik ziyaretleri ve iyi dilekleri dolayısıyla İl Başkanı Gürhan Albayrak ile beraberindeki heyete teşekkür etti.
-
----
-
-## Mahmudiye'deki modern serada domates hasadı yapıldı
-
-**Tarım · Mahmudiye** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-mahmudiye-ilcesinde-faaliyet-gosteren-nata-tarima-ait-sera-alanini-ziyaret-ederek-uretim-calismalari-hakkinda-bilgi-aldi)
-
-![](data/images/d0556a2266f47b20.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, Mahmudiye'de termal suyla ısıtılan ve topraksız tarım yapılan 100 dönümlük serayı inceleyerek domates hasadına katıldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, tarımsal üretim faaliyetlerini yerinde incelemek üzere Mahmudiye ilçesinde bulunan Nata Tarım'a ait sera alanını ziyaret etti.
-
-Vali Yılmaz, yaklaşık 100 dönümlük alanda salkım domates üretimi yapılan tesisi gezerek yetkililerden çalışmalar hakkında bilgi aldı. Tesisin termal suyla ısıtıldığını ve ileri teknoloji sistemleriyle donatıldığını belirten Yılmaz, topraksız tarım uygulamalarını yerinde inceledi.
-
-İncelemelerinin ardından serada çalışanlarla bir araya gelen Vali Dr. Erdinç Yılmaz, domates hasadına katılarak üreticilere çalışmalarında başarılar diledi.
-
----
-
-## ESTÜ'de savunma sanayii ve bulut bilişim iş birliği görüşmesi
-
-**Eğitim · Tepebaşı** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-ile-savunma-sanayii-arasinda-bulut-bilisim-alaninda-is-birligi-gorusmesi)
-
-> Millî Savunma Bakanlığı, SSB ve HAVELSAN heyeti, Eskişehir Teknik Üniversitesi'ni ziyaret ederek bulut bilişim ve millîleştirme çalışmalarını ele aldı.
-
-Millî Savunma Bakanlığı (MSB) Muhabere ve Bilgi Sistem Dairesi Başkanı Tuğgeneral Mustafa Murat Kabukçu başkanlığındaki heyet, Eskişehir Teknik Üniversitesi'ni (ESTÜ) ziyaret etti. Ziyarette, Millî Savunma Bakanlığı, Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB) ve HAVELSAN temsilcileri bir araya geldi.
-
-Toplantıda, bulut bilişim sistemlerinin millîleştirilmesine yönelik yürütülen çalışmalar ve bu alanda ihtiyaç duyulan nitelikli insan kaynağının yetiştirilmesi konuları ele alındı. Heyet, ESTÜ ile bu alanda ortak iş birliği yapmayı hedeflediklerini belirtti.
-
-ESTÜ Rektörü Prof. Dr. Adnan Özcan, üniversitenin savunma sanayii alanındaki Ar-Ge projelerine ve sektörel iş birliklerine değinerek araştırma altyapısıyla sürece katkı sunmaya hazır olduklarını ifade etti. Bilişim Teknolojileri Meslek Yüksekokulu Müdürü Prof. Dr. Tansu Filik ise yüksekokulun eğitim programları ve Bulut Bilişim Operatörlüğü Programı'nın altyapısı hakkında sunum gerçekleştirdi.
-
-Öğrencilerin mesleki yetkinliklerinin artırılması, staj ve istihdam olanaklarının değerlendirildiği buluşma, hatıra fotoğrafı çekimiyle sona erdi.
-
----
-
-## Eskişehirspor Maçı Sonrası Statta 220 Koltuk Kırıldı
-
-**Spor · Tepebaşı** · 2026-11-12 21:54 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-maci-sonrasi-rezalet-ortaya-cikti-2464209)
-
-> Anadolu SF ile Eskişehirspor karşılaşmasının ardından Osmangazi Üniversitesi Sahası'nda yapılan incelemede 220 koltuğun kırıldığı belirlendi.
-
-Anadolu Spor Faaliyetleri ile Eskişehirspor arasında oynanan müsabakanın ardından Osmangazi Üniversitesi Sahası'nda hasar tespit çalışması gerçekleştirildi.
-
-TFF temsilcisi ve stadyum yöneticileri tarafından yapılan kontrollerde, tribünlerde bulunan toplam 220 koltuğun kırıldığı ve kullanılamaz hale geldiği tespit edildi. Oluşan hasar, her iki kulüp temsilcilerinin imzaladığı raporla kayıt altına alındı.
-
-Müsabakaya ev sahipliği yapan Anadolu Spor Faaliyetleri yönetiminin, Eskişehirspor taraftarlarını yalnızca misafir tribünüyle sınırlı tutmayarak tüm tribünlere alması ve sorumluluğu üstlenmesi nedeniyle hasarın faturasının ev sahibi kulübe kesileceği öğrenildi.
 
 ---
