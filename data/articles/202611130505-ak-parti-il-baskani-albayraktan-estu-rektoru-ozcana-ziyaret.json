@@ -20,11 +20,11 @@
     "title": "12Kas2026 AK Parti Eskişehir İl Başkanı Gürhan ALBAYRAK ve Beraberindeki Heyetten Rektörümüz Prof. Dr. Adnan ÖZCAN’a Tebrik Ziyareti AK Parti Eskişehir İl Başkanı Gürhan ALBAYRAK ve beraberindeki heyet, Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/ak-parti-eskisehir-il-baskani-gurhan-albayrak-ve-beraberindeki-heyetten-rektorumuz-prof-dr-adnan-ozcana-tebrik-ziyareti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi",
       "Adnan Özcan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
