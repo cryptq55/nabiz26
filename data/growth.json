@@ -69,9 +69,55 @@
    "takip": 0,
    "paylasim": 287,
    "erisim_7g": 16232
+  },
+  {
+   "gun": "2026-11-14",
+   "takipci": 192,
+   "takip": 0,
+   "paylasim": 290,
+   "erisim_7g": 18717
   }
  ],
  "paylasimlar": {
+  "17965655562246887": {
+   "tur": "REELS",
+   "zaman": "2026-11-13T22:28:24+0000",
+   "link": "https://www.instagram.com/reel/Dfss_5ShYqw/",
+   "baslik": "🌙 Eskişehir'de bugün · 14 Kasım Cumartesi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 118
+  },
+  "17940225045406362": {
+   "tur": "REELS",
+   "zaman": "2026-11-13T15:10:29+0000",
+   "link": "https://www.instagram.com/reel/Dfr67CyOvq9/",
+   "baslik": "Talat Yalaz'ın davasında ilk duruşma görüldü: Dava 3 Aralık'a ertelendi",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 814,
+   "saved": 1,
+   "shares": 1,
+   "total_interactions": 4,
+   "views": 1025
+  },
+  "18063850172539045": {
+   "tur": "REELS",
+   "zaman": "2026-11-13T15:08:31+0000",
+   "link": "https://www.instagram.com/reel/Dfr6rvGi3mS/",
+   "baslik": "Uluslararası Eskişehir Şiir Buluşması başladı: Minikler doğanın sesini şiirle keşfetti",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 123,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 136
+  },
   "17880254859566451": {
    "tur": "REELS",
    "zaman": "2026-11-13T13:08:07+0000",
@@ -79,37 +125,37 @@
    "baslik": "Başkan Ünlüce COP31'de Eskişehir'in Çevre ve Tarım Projelerini Anlattı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 110,
-   "saved": 0,
+   "reach": 565,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 129
+   "total_interactions": 1,
+   "views": 597
   },
   "17904848895371661": {
    "tur": "REELS",
    "zaman": "2026-11-13T13:07:13+0000",
    "link": "https://www.instagram.com/reel/Dfrsz5oBQ_I/",
    "baslik": "Başkan Kurt Uluslararası REBUS Forumu'nda Odunpazarı'nı Anlattı",
-   "begeni": 0,
+   "begeni": 1,
    "yorum": 0,
-   "reach": 81,
+   "reach": 140,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 104
+   "total_interactions": 1,
+   "views": 153
   },
   "18645066688055316": {
    "tur": "REELS",
    "zaman": "2026-11-13T12:44:41+0000",
    "link": "https://www.instagram.com/reel/DfrqMTtKnsP/",
    "baslik": "🌙 Eskişehir'de bugün · 13 Kasım Cuma",
-   "begeni": 0,
+   "begeni": 9,
    "yorum": 0,
-   "reach": 130,
-   "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "views": 166
+   "reach": 1291,
+   "saved": 3,
+   "shares": 3,
+   "total_interactions": 15,
+   "views": 1425
   },
   "17916078003283562": {
    "tur": "REELS",
@@ -118,11 +164,11 @@
    "baslik": "Altın fiyatları 13 Kasım 2026: Gram altın 6.371,12 TL",
    "begeni": 1,
    "yorum": 0,
-   "reach": 122,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 143
+   "views": 147
   },
   "18164959579500633": {
    "tur": "FEED",
@@ -131,11 +177,11 @@
    "baslik": "Erdoğan'dan COP31 İş Forumu'nda çağrı: Ekonomi ekolojiye feda edilmemeli",
    "begeni": 0,
    "yorum": 0,
-   "reach": 4,
+   "reach": 8,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 10
+   "views": 13
   },
   "18080021300426481": {
    "tur": "REELS",
@@ -144,11 +190,11 @@
    "baslik": "Odunpazarı'nda Sanat ve Kitap Günleri Heyecanı Başlıyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 118,
+   "reach": 125,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 0,
-   "views": 128
+   "shares": 1,
+   "total_interactions": 1,
+   "views": 137
   },
   "18033703718683980": {
    "tur": "REELS",
@@ -157,11 +203,11 @@
    "baslik": "Eskişehirspor derbiyi kazandı, liderlik koltuğuna oturdu",
    "begeni": 2,
    "yorum": 0,
-   "reach": 17,
+   "reach": 22,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 31
+   "views": 36
   },
   "18023225816951396": {
    "tur": "REELS",
@@ -170,11 +216,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 13 Kasım Cuma",
    "begeni": 6,
    "yorum": 0,
-   "reach": 1337,
+   "reach": 1382,
    "saved": 0,
    "shares": 1,
    "total_interactions": 7,
-   "views": 1515
+   "views": 1563
   },
   "18068549246532693": {
    "tur": "FEED",
@@ -183,11 +229,11 @@
    "baslik": "Erdoğan'dan COP31 açıklaması: Ortak zemin iklim mücadelesine güç katıyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 9,
+   "reach": 11,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 11
+   "views": 15
   },
   "18140613619730067": {
    "tur": "FEED",
@@ -222,11 +268,11 @@
    "baslik": "Eskişehirspor - Ayvalıkgücü maçı ne zaman, saat kaçta?",
    "begeni": 12,
    "yorum": 2,
-   "reach": 1321,
+   "reach": 1326,
    "saved": 1,
    "shares": 0,
    "total_interactions": 15,
-   "views": 1510
+   "views": 1516
   },
   "18146056624621271": {
    "tur": "REELS",
@@ -235,11 +281,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 12 Kasım Perşembe",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 135
+   "views": 139
   },
   "18155953633549994": {
    "tur": "REELS",
@@ -248,11 +294,11 @@
    "baslik": "Altın fiyatları 12 Kasım 2026: Gram altın 6.402,48 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 128,
+   "reach": 129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 151
+   "views": 152
   },
   "17999218437022657": {
    "tur": "REELS",
@@ -261,11 +307,11 @@
    "baslik": "Eskişehir'de Bilim Olimpiyatları Akademisi Başlıyor: Son Başvuru 20 Kasım",
    "begeni": 0,
    "yorum": 0,
-   "reach": 127,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 138
+   "views": 139
   },
   "18080587394437393": {
    "tur": "REELS",
@@ -300,11 +346,11 @@
    "baslik": "Eskişehir'de 15 bin 500 fidan toprakla buluştu",
    "begeni": 0,
    "yorum": 0,
-   "reach": 117,
+   "reach": 118,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 126
+   "views": 127
   },
   "18110649623293177": {
    "tur": "FEED",
@@ -313,11 +359,11 @@
    "baslik": "Erdoğan'dan Avustralya Başbakanı Albanese ile kritik COP31 görüşmesi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 12,
+   "reach": 13,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 20
+   "views": 22
   },
   "17925030138222070": {
    "tur": "FEED",
@@ -352,11 +398,11 @@
    "baslik": "Eskişehirspor derbisinde saat değişikliği: Anadolu SF maçı ne zaman?",
    "begeni": 10,
    "yorum": 0,
-   "reach": 1454,
+   "reach": 1455,
    "saved": 0,
    "shares": 0,
    "total_interactions": 10,
-   "views": 1552
+   "views": 1553
   },
   "18449613355130023": {
    "tur": "REELS",
@@ -391,7 +437,7 @@
    "baslik": "🌙 Eskişehir'de bugün · 11 Kasım Çarşamba",
    "begeni": 14,
    "yorum": 0,
-   "reach": 1723,
+   "reach": 1725,
    "saved": 0,
    "shares": 0,
    "total_interactions": 14,
@@ -404,11 +450,11 @@
    "baslik": "Bakan Bayraktar: 2040'a kadar 300 milyar dolarlık enerji yatırımı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 14,
+   "reach": 15,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 24
+   "views": 26
   },
   "18438617653196420": {
    "tur": "REELS",
