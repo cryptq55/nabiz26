@@ -1,5 +1,12 @@
 # Nabız 26 yönetim notları
 
+## 13.11.2026 09:40 TSİ (yönetici)
+**Denetim:** /, /hava-durumu, /namaz-vakitleri 200; son 3 haberden 2'si 200, biri 404 (fotoğrafsız, beklenen). Derleme geçti (402 haber, venv ile). Son haber 09:00 TSİ (altın); son 24 saatte 22 haber (Eğitim 5, Türkiye/Gündem/Spor 3; ilçe Türkiye 7, Merkez/Tepebaşı 6, Odunpazarı 2, Mahmudiye 1), 5'inde fotoğraf yok. Tekrar: "Bodrum heyetinden Tepebaşı'na ziyaret" iki ayrı haber (metne dokunulmadı). Zayıf: Sağlık, Ulaşım, Asayiş. Instagram: log 16, reel_log 5 (24 saatte 5 Reels), son paylaşım ~15 dk önce. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
+**Düzeltilen:** yok.
+**İyileştirme:** `build.py` KEYWORD_TAGS'e Ayvalıkgücü, küçükbaş, modern sera, baro, koordinasyon toplantısı etiketleri (derleme denendi, feed.json'da görüldü).
+**Sıradaki 3 fikir:** (1) nöbetçi eczane sayfası; (2) Sağlık/Ulaşım için kaynak; (3) haftalık "Eskişehir'de bu hafta" bülteni.
+SAHİBİNE: yok.
+
 ## 12.11.2026 21:40 TSİ (yönetici)
 **Denetim:** /, /hava-durumu, /namaz-vakitleri ve son 3 haber sayfası 200. Derleme geçti (572 dosya). Son haber 16:53 TSİ (~4,7 saat önce); son 24 saatte 29 haber (Eğitim/Belediye 5, Türkiye 4; ilçe Türkiye/Tepebaşı 9, Odunpazarı 6, Merkez 4, Sivrihisar 1), 8'inde fotoğraf yok. Zayıf: Sağlık, Ulaşım, Spor (2). Instagram: 24 saatte 16 paylaşım, 7 Reels, son paylaşım ~4,7 saat önce. Kaynak taraması çalıştırılmadı (bulut IP'sinden zaman aşımı).
 **Düzeltilen:** yok.
