@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan İHA Eskişehir Bölge Müdürlüğü'ne Ziyaret
+
+**Gündem · Merkez** · 2026-11-13 07:49 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ihlas-haber-ajansi-iha-eskisehir-bolge-mudurlugunu-ziyaret-etti)
+
+![](data/images/6e6bb6cb6b577aca.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, İhlas Haber Ajansı Eskişehir Bölge Müdürlüğü'nü ziyaret ederek yürütülen basın çalışmaları hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki basın kuruluşlarına yönelik temasları kapsamında İhlas Haber Ajansı (İHA) Eskişehir Bölge Müdürlüğü'ne ziyarette bulundu.
+
+Ziyarette İHA Eskişehir Bölge Müdürü Mehmet Emin Toker, Haber Müdürü Aydın Sarıoğlu ve kurum bünyesinde görev yapan muhabirlerle bir araya gelen Vali Yılmaz, ajansın kentteki ve bölgedeki haber faaliyetleri ile operasyonel çalışmaları hakkında detaylı bilgi aldı.
+
+Basın çalışanlarıyla bir süre sohbet ederek görevlerinde kolaylıklar dileyen Vali Yılmaz, yerel ve bölgesel gelişmelerin kamuoyuna aktarılmasında basın mensuplarının üstlendiği sorumluluğa işaret etti.
+
+---
+
+## Şeker Mahallesi'nde Gece Mesaisi: Sırada İki Mahalle Daha Var
+
+**Belediye · Tepebaşı** · 2026-11-13 07:49 UTC · Kaynak: [Google Haberler - Tepebaşı](https://gazetekalem.com.tr/tepebasi-belediye-baskani-atac-seker-mahallesinde-yurutulen-calismalari-inceledi/)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, Şeker Mahallesi’nde akşam saatlerinde yürütülen asfalt çalışmalarını yerinde inceleyerek bölge sakinleriyle bir araya geldi.
+
+Tepebaşı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki yollarda ulaşım güvenliğini artırmak ve yıpranan zeminleri yenilemek amacıyla üstyapı çalışmalarını sürdürüyor. Merkez mahallelerde yürütülen asfalt serim mesaisi, Şeker Mahallesi'nde akşam saatlerinde de devam etti.
+
+Çalışmaları sahada takip eden Tepebaşı Belediye Başkanı Ahmet Ataç, ekiplerden gelinen son aşama hakkında bilgi aldı. İncelemelerin ardından mahalle sakinleriyle buluşan Ataç, vatandaşların talep ve önerilerini dinledi. Ulaşımı daha güvenli ve konforlu hale getirmeyi amaçladıklarını vurgulayan Ataç, hem sahada görev yapan personellere hem de destek veren bölge halkına teşekkür etti.
+
+Belediyeden yapılan bilgilendirmeye göre, Şeker Mahallesi’ndeki yol düzenleme çalışmalarının tamamlanmasının ardından ekipler plan doğrultusunda Işıklar ve Mamure mahallelerinde de asfalt yenileme mesaisine başlayacak.
+
+---
+
+## Karakurt'tan Kurtuluş Savaşı'na: Eskişehirli öğretmenler kent tarihini müzelerde inceledi
+
+**Eğitim · Odunpazarı** · 2026-11-13 07:49 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-ogretmenler-kentin-tarihi-ve-kulturel-mirasini-muzelerde-tanidi-119519307)
+
+![](data/images/3e7c2817252fed86.jpg)
+
+> Eskişehir Öğretmen Akademileri bünyesinde düzenlenen özel gezi programıyla öğretmenler, kentin binlerce yıllık tarihi ve sanayi mirasını müzelerde yerinde gördü.
+
+İl Milli Eğitim Müdürlüğünden yapılan açıklamaya göre, Eskişehir Öğretmen Akademileri bünyesinde faaliyet gösteren Şehir ve Kültür Akademisi tarafından öğretmenlere yönelik kapsamlı bir müze gezisi düzenlendi.
+
+Program kapsamında ilk olarak Eskişehir Ticaret ve Sanayi Müzesi'ni ziyaret eden eğitimciler; Frig uygarlığından kentin ticaret ve sanayi geçmişine, geleneksel lületaşı ustalığından Karakurt lokomotifi ve Türkiye'nin ilk yerli otomobili Devrim'e uzanan koleksiyonu inceledi.
+
+Gezinin ikinci durağı ise Eskişehir Kurtuluş Müzesi oldu. Burada Milli Mücadele dönemine ait tarihi belgeleri, dönemin gazete ve karikatürlerini inceleyen öğretmenler, Birinci İnönü Savaşı'nın aktarıldığı Strateji Odası hakkında da ayrıntılı bilgi aldı.
+
+---
+
+## COP31'de 102 lider ağırlandı: Duran'dan iklim diplomasisi mesajı
+
+**Türkiye · Türkiye** · 2026-11-13 07:49 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-cop31-liderler-zirvesi-mesaji)
+
+![](data/images/4743a3d948c3b473.jpg)
+
+> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında 6 kıtadan 95 ülkenin lideri ve 7 uluslararası kuruluş başkanı olmak üzere toplam 102 liderin ağırlandığını duyurdu.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'nın ev sahipliğinde gerçekleştirilen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Liderler Zirvesi'ne ilişkin değerlendirmelerde bulundu. Duran, zirve kapsamında sözleşmeye taraf 196 ülke ile Avrupa Birliği'nin bir araya geldiğini, Türkiye'nin ise diyaloğu, uzlaşıyı ve somut eylemi merkeze alan bir iklim diplomasisi yürüttüğünü kaydetti.
+
+Zirvede toplam 102 liderin Türkiye'de misafir edildiğini belirten Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın zirvede yaptığı çağrıya işaret etti. Erdoğan'ın "İnsanlığın tek bir çatısı vardır, o da gökyüzüdür; tek bir bahçesi vardır, o da yeryüzüdür. Başka bir gökyüzümüz, başka bir yeryüzümüz yoktur" sözlerini anımsatan Duran, iklim adaleti konuşulurken insani değerlerin ve vicdanın da öne çıkarıldığını ifade etti.
+
+İklim kriziyle mücadelenin aynı zamanda insana, toprağa ve geleceğe sahip çıkma mücadelesi olduğunu vurgulayan Duran, Gazze'deki duruma dikkat çekerek Cumhurbaşkanı Erdoğan'ın 11 Kasım Millî Ağaçlandırma Günü kapsamında BM Genel Sekreteri Antonio Guterres ile birlikte diktiği zeytin fidanının anlamlı bir iradeyi simgelediğini dile getirdi. Duran, gelecek kuşaklara bırakılacak en değerli mirasın daha temiz, yeşil ve adil bir dünya olacağını belirtti.
+
+---
+
 ## Vali Yılmaz'dan Esgazete'ye Ziyaret
 
 **Gündem · Merkez** · 2026-11-13 07:44 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-esgazete-internet-haber-merkezini-ziyaret-etti)
@@ -415,71 +477,5 @@ Anadolu Spor Faaliyetleri ile Eskişehirspor arasında oynanan müsabakanın ard
 TFF temsilcisi ve stadyum yöneticileri tarafından yapılan kontrollerde, tribünlerde bulunan toplam 220 koltuğun kırıldığı ve kullanılamaz hale geldiği tespit edildi. Oluşan hasar, her iki kulüp temsilcilerinin imzaladığı raporla kayıt altına alındı.
 
 Müsabakaya ev sahipliği yapan Anadolu Spor Faaliyetleri yönetiminin, Eskişehirspor taraftarlarını yalnızca misafir tribünüyle sınırlı tutmayarak tüm tribünlere alması ve sorumluluğu üstlenmesi nedeniyle hasarın faturasının ev sahibi kulübe kesileceği öğrenildi.
-
----
-
-## Eskişehir'de Küçükbaş Hayvan Islahı Projesi Masaya Yatırıldı
-
-**Tarım · Merkez** · 2026-11-12 21:54 UTC · Kaynak: [Eskişehir İl Tarım ve Orman Müdürlüğü](https://eskisehir.tarimorman.gov.tr/Haber/1763/Eskisehirde-Halk-Elinde-Kucukbas-Hayvan-Islahi-Projesi-Degerlendirme-Toplantisi-Yapildi)
-
-![](data/images/7afe5739a977d35c.jpg)
-
-> Eskişehir İl Tarım ve Orman Müdürlüğü ev sahipliğinde düzenlenen toplantıda, kent genelinde sürdürülen küçükbaş hayvan ıslahı projelerinin mevcut durumu ve verimlilik çalışmaları ele alındı.
-
-Eskişehir'de tarım ve hayvancılık faaliyetlerini geliştirmek amacıyla Halk Elinde Küçükbaş Hayvan Islahı Ülkesel Projesi değerlendirme toplantısı gerçekleştirildi.
-
-İl Tarım ve Orman Müdürlüğü'nde düzenlenen buluşmaya; İl Müdürü Yüksel Çil, il müdür yardımcıları, şube müdürleri, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü'nden (TAGEM) Dr. Serdar Yağcı, akademisyenler, proje koordinatörleri ve Eskişehir İli Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı ile teknik personel katılım sağladı.
-
-Toplantıda, kentte yürütülen Orta Anadolu Merinosu ile Ramlıç alt projelerinin mevcut durumu masaya yatırıldı. Islah çalışmaları ve uygulama süreçlerinin detaylı şekilde ele alındığı toplantıda, kurumlar arası iş birliğinin güçlendirilmesine yönelik görüş alışverişinde bulunuldu.
-
-Eskişehir'de dört alt proje çerçevesinde 66 taban ve 2 elit olmak üzere toplam 68 sürüde bulunan 17 bin 344 anaç koyunla çalışmalar sürdürülüyor. Yürütülen bu projelerle hayvanların verim özelliklerinin geliştirilmesi, damızlık kalitesinin artırılması ve küçükbaş hayvancılığın sürdürülebilirliğine katkı sağlanması hedefleniyor.
-
----
-
-## Eskişehir Barosu'ndan TBB'ye ziyaret: Mesleki sorunlar masada
-
-**Gündem · Merkez** · 2026-11-12 21:54 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.barobirlik.org.tr/Haberler/eskisehir-barosu-baskani-ve-kurullarindan-tbbye-ziyaret-86833)
-
-> Eskişehir Barosu Başkanı Av. Barış Günaydın ve yeni dönem kurul üyeleri, Türkiye Barolar Birliği'ni ziyaret ederek mesleki sorunlar üzerine görüş alışverişinde bulundu.
-
-Eskişehir Barosu Başkanı Av. Barış Günaydın, yeni dönem Yönetim ve Disiplin Kurulu üyeleri ile TBB delegelerinden oluşan heyetle birlikte Türkiye Barolar Birliği'ni ziyaret etti. Ziyarette, TBB Başkanı Av. R. Erinç Sağkan ve yönetim kurulu üyeleriyle bir araya gelindi.
-
-Gerçekleştirilen görüşmede avukatlık mesleğinin güncel sorunları, savunma hakkının güçlendirilmesi ve mesleğin geleceğine yönelik yapılabilecek çalışmalar ele alındı. Toplantıda karşılıklı değerlendirmelerde bulunuldu.
-
----
-
-## Erdoğan'dan COP31 açıklaması: Ortak zemin iklim mücadelesine güç katıyor
-
-**Türkiye · Türkiye** · 2026-11-12 21:54 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-cop31-liderler-zirvesine-iliskin-aciklamasi-12-11-26)
-
-![](data/images/2413755f808fd42b.jpg)
-
-> Cumhurbaşkanı Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne katılan liderlere teşekkür ederek, zirvede oluşan ortak zeminin iklim kriziyle mücadelede kıymetli bir temel oluşturduğunu belirtti.
-
-Antalya'da gerçekleştirilen COP31 Liderler Zirvesi'ne katılan devlet ve hükümet başkanlarına teşekkür eden Cumhurbaşkanı Recep Tayyip Erdoğan, uluslararası sınamaların yaşandığı bu dönemde liderlerin bir araya gelmesinin iklim eylemine yönelik siyasi taahhüdü açıkça gösterdiğini vurguladı.
-
-Paris Anlaşması'nın ikinci on yılında yapılan fikir alışverişlerinin, iklim değişikliğiyle mücadelenin hem bilimsel hem de ahlaki bir zorunluluk olduğunu yeniden teyit ettiğini belirten Erdoğan, zirvede ortaya çıkan geniş ortak zeminin kendisini cesaretlendirdiğini ifade etti. Farklı ulusal koşullara sahip ülkelerin Antalya'da ortak bir zeminde buluşmasının diyalog ve iş birliği için önemli bir temel oluşturduğunu kaydetti.
-
-Zirve kapsamında elektrifikasyon, yeşil sanayileşme, dayanıklılık, sıfır atık ve iklim finansmanı gibi konuların etraflıca ele alındığını aktaran Erdoğan, son dönemde yaşanan afetlerin çalışmaların aciliyetini gözler önüne serdiğini bildirdi. En çok ihtiyaç duyanlar için finansmana erişimin önemine dikkat çeken Erdoğan, "İklim Uygulama Köprüsü" mekanizmasının mevcut taahhütleri somut sonuçlara dönüştürmeyi amaçladığını belirtti.
-
-Türkiye ile Avustralya ortaklığının çok taraflılığa duyulan güvenin bir ifadesi olduğunu dile getiren Erdoğan, devam eden müzakerelerde tüm tarafları zirvenin yapıcı ruhunu sürdürmeye ve 1,5 derece hedefini ulaşılabilir kılmaya davet etti.
-
----
-
-## COP31'de Gazzeli öğrencilerin gözünden Gazze sergisi
-
-**Eğitim · Türkiye** · 2026-11-12 21:54 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/filistinli-ogrencilerin-quotumut-aciya-direnirkenquot-temali-resimleri-cop31039de-sergileniyor/haber/42489/tr)
-
-![](data/images/034f3fd10efe132c.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında, Millî Eğitim Bakanlığına bağlı kurumlarda eğitim gören Gazzeli öğrencilerin resimsergisi ziyaretçilerle buluştu.
-
-Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde anlamlı bir sergi kapılarını açtı. Millî Eğitim Bakanlığına bağlı eğitim kurumlarında öğrenim gören Gazzeli öğrencilerin hazırladığı tablolardan oluşan "Filistinli Öğrencilerin Gözünden Gazze: Umut Acıya Direnirken" resim sergisi ziyaretçilerin beğenisine sunuldu.
-
-Yağlı boya ve akrilik çalışmalarından oluşan sergide, Gazze'deki savaşın izleri, çocukların yaşadığı zorluklar ve geleceğe dair umutları tuvale yansıtıldı. Sergiyle savaşın çocuklar üzerindeki yıkıcı etkilerine dikkat çekilmesi, barış, insan hakları ve çocukların korunmasına yönelik farkındalığın artırılması amaçlandı. Etkinlikte öğrenciler, tablolarının hikâyelerini ve eserlerinde vermek istedikleri mesajları katılımcılara aktardı.
-
-Eserlerde savaşın getirdiği kayıpların yanı sıra kefiye, zeytin dalı, tarihî evler ve barış güvercinleri gibi simgelerle özgürlük, barış ve vatan özlemi vurgulandı. Öğrenciler, evlerine dönme umutlarını ve topraklarına olan bağlılıklarını eserleriyle ortaya koydu. Sergi, konferans süresince ziyaretçilerini ağırlamaya devam edecek.
-
-Öte yandan COP31 etkinlik alanındaki sergiye katılan Filistinli öğrenciler, organizasyon kapsamındaki Türkiye İklim Okulunu da ziyaret etti. Öğrenciler burada Millî Eğitim Bakanlığının yürüttüğü faaliyetler hakkında bilgi alarak atölye alanlarını gezdiler.
 
 ---
