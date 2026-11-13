@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 2 Kişinin Öldüğü Silahlı Kavga Davasında Bir Sanığa Tahliye
+
+**Asayiş · Tepebaşı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.canligaste.com/eskisehir-de-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi/949292/)
+
+> Eskişehir'in Tepebaşı ilçesinde iki kişinin yaşamını yitirdiği silahlı kavgaya ilişkin 5 sanığın yargılanmasına başlandı; mahkeme bir sanığı tahliye etti.
+
+Eskişehir'in Tepebaşı ilçesine bağlı Fatih Mahallesi'nde bulunan Kumlubel Parkı'nda geçen yıl husumetli iki grup arasında çıkan silahlı çatışmada Enes Öz ile Volkan Taşdelen hayatını kaybetmiş, Ali Han D. ise yaralanmıştı. Olayın ardından açılan davanın ilk duruşması Eskişehir 7. Ağır Ceza Mahkemesi'nde görüldü.
+
+Duruşmaya tutuklu sanıklar Cevdet D., Umut U. ve Ahmet D. ile başka bir suçtan tutuklu bulunan sanık Ali Han D. bizzat katılırken, tutuklu sanık Bayram S. cezaevinden SEGBİS aracılığıyla bağlandı. Taraf avukatlarının da hazır bulunduğu duruşmada sanıklar olay anında yaşanan arbede ve silah kullanımıyla ilgili savunmalarını yaptı.
+
+Savunmaların ardından ara kararını açıklayan mahkeme heyeti, Bayram S.'nin yurt dışına çıkış yasağı ve imza şartıyla tahliyesine hükmetti. Diğer üç tutuklu sanığın tutukluluk hallerinin devamına ve Ali Han D. hakkındaki adli kontrol tedbirlerinin sürdürülmesine karar veren mahkeme, duruşmayı ileri bir tarihe erteledi.
+
+---
+
+## Odunpazarı Spor Kulübü Porsuk'ta Galibiyet Peşinde
+
+**Spor · Odunpazarı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazarina-cikis-firsat)
+
+> Ligde dokuz haftada 4 puan toplayan Odunpazarı Spor Kulübü, Porsuk Spor Salonu'nda Ortahisar Belediyespor'u ağırlayacak.
+
+Ligde geride kalan dokuz haftada iki galibiyet ve yedi mağlubiyet alan Eskişehir temsilcisi Odunpazarı Spor Kulübü, 4 puanla altıncı sırada yer alıyor. Son mücadelesinde Üsküdar Belediyespor'a 34-30 mağlup olan mavi-beyazlılar, bu mağlubiyeti unutturmayı amaçlıyor.
+
+Eskişehir ekibi, ligde henüz puanı bulunmayan ve son sırada yer alan Ortahisar Belediyespor ile karşılaşacak. Mücadele yarın saat 15.00'te Porsuk Spor Salonu'nda oynanacak.
+
+Taraftarı önünde galibiyete odaklanan mavi-beyazlı ekip, parkeden zaferle ayrılarak ligde yeniden yükselişe geçmeyi hedefliyor.
+
+---
+
+## Kumlubel Parkı'ndaki Çifte Cinayet Davasında Bir Sanığa Tahliye Kararı Çıktı
+
+**Asayiş · Tepebaşı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi-119521664)
+
+> Eskişehir'in Tepebaşı ilçesinde 2 kişinin hayatını kaybettiği silahlı çatışmaya ilişkin 5 sanığın yargılanmasına başlandı. İlk duruşmada bir sanık adli kontrol şartıyla tahliye edildi.
+
+Tepebaşı ilçesine bağlı Fatih Mahallesi'ndeki Kumlubel Parkı'nda geçen yıl ağustos ayında iki grup arasında çıkan ve 2 kişinin yaşamını yitirdiği silahlı kavgaya ilişkin dava süreci başladı. Eskişehir 7'nci Ağır Ceza Mahkemesi'nde görülen ilk duruşmaya, tutuklu sanıklar Cevdet D, Umut U, Ahmet D. ile başka suçtan tutuklu bulunan Ali Han D. ve avukatları katıldı. Diğer tutuklu sanık Bayram S. ise duruşmaya SEGBİS aracılığıyla bağlandı.
+
+Mahkemedeki savunmasında olay anını anlatan sanıklardan Cevdet D, kalabalık bir grubun üzerlerine geldiğini, çıkan arbedede yere düştüğünü ve silahın eline geçtiğini öne sürdü. Omzundan vurulduğunu ve korkuyla rastgele ateş ettiğini belirten sanık, kimseyi kasten hedef almadığını savundu. Olayda yaralanan sanıklardan Ali Han D. ise karşı tarafın kendilerine silah çektiğini ve darbedildiklerini iddia etti.
+
+SEGBİS üzerinden ifade veren sanık Bayram S, olay yerine gittiğinde tarafların oturduğunu, ardından tartışma çıkmasıyla silah kullanıldığını anlattı. Sanık Umut U. da karşı gruptan küfür edilmesi üzerine arbede başladığını ve karşı taraftan ateş açıldığını ileri sürdü.
+
+Tanık ve sanık ifadelerini dinleyen mahkeme heyeti ara kararını açıkladı. Tutuklu sanıklardan Bayram S.'nin yurt dışına çıkış yasağı ve imza yükümlülüğü şartıyla tahliyesine karar verilirken, 3 sanığın tutukluluk halinin devamına hükmedildi. Duruşma ileri bir tarihe ertelendi.
+
+Geçen yıl meydana gelen olayda kurşunların hedefi olan Volkan Taşdelen ve Enes Öz ağır yaralı olarak kaldırıldıkları hastanede hayatını kaybetmiş, Ali Han D. ise tedavisinin ardından adli kontrolle serbest bırakılmıştı.
+
+---
+
 ## Türkiye İklim Okulu'nda Dünya Gençleri İklim Dezenformasyonunu Tartıştı
 
 **Eğitim · Türkiye** · 2026-11-13 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/farkli-ulkelerden-gencler-turkiye-iklim-okulunda-iklim-degisikligiyle-mucadeleyi-ele-aldi/haber/42504/tr)
@@ -439,49 +485,5 @@ Anadolu'nun en önemli inanç ve ticaret merkezlerinden biri olan antik Pessinus
 Açılışta konuşan Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal, Pessinus'ta yürütülen kazı çalışmalarının önemine vurgu yaparak, araştırmaların daha güçlü kaynaklarla desteklenmesi gerektiğini dile getirdi. Ünal, belediye olarak kazı ekiplerine desteği sürdüreceklerini belirtti.
 
 Pessinus Kazı Başkanı Doç. Dr. Adem Yurtsever ise antik kentin kültürel değerinin kentte daha geniş kitlelerce tanınması gerektiğini kaydetti. Sergi, 6 Aralık 2026 tarihine kadar Kent Müzeleri Kompleksi'nde ziyaret edilebilecek.
-
----
-
-## Minikler ÇEDES Projesi ile hem eğlendi hem tarihi keşfetti
-
-**Eğitim · Odunpazarı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.medyagazete.com/haber/cedes-projesi-kapsaminda-minikler-hem-eglendi-hem-tarihi-ogrendi)
-
-> Eskişehir'de ÇEDES Projesi kapsamında bir araya gelen ilkokul öğrencileri, atölye çalışmalarına katıldı ve Odunpazarı'nda kültür gezisi yaptı.
-
-Eskişehir Gençlik ve Spor İl Müdürlüğü bünyesindeki Yunus Emre Gençlik Merkezi, "Çevreme Duyarlıyım Değerlerime Sahip Çıkıyorum" (ÇEDES) Projesi çerçevesinde Şehit Mehmet Taş İlkokulu öğrencilerini misafir etti.
-
-Merkezi ziyaret eden minikler, gençlik liderleri ve eğitmenlerin rehberliğinde hazırlanan çeşitli atölye ve farkındalık çalışmalarına katıldı. Programda çocukların katılımıyla "Aile Bütünlüğü" temalı eğitici drama oyunları sahnelendi ve bilgilendirici sunumlar yapıldı. Ardından resim atölyesinde boyama yapan öğrenciler, müzik etkinliğinde şarkılar söyleyerek keyifli anlar yaşadı.
-
-Merkezdeki etkinliklerin tamamlanmasının ardından öğrenciler ve gençlik merkezi ekibi, tarihi Odunpazarı bölgesine doğru kültür gezisi gerçekleştirdi. Bölgedeki sanat atölyelerini gezerek zanaatkarların çalışmalarını yerinde inceleyen çocuklar, tarihi mekanları ziyaret edip hatıra fotoğrafı çektirerek günü tamamladı.
-
----
-
-## İletişim Başkanı Duran'dan COP31 Açıklaması: Türkiye'nin Çabaları Takdir Ediliyor
-
-**Türkiye · Türkiye** · 2026-11-13 07:44 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-duran-cop31-liderler-zirvesine-dair-aciklamalarda-bulundu)
-
-![](data/images/f7c7590fb5545304.jpg)
-
-> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne ilişkin yaptığı açıklamada, Türkiye'nin iklim adaleti ve Sıfır Atık Hareketi'ndeki öncü rolüne dikkat çekti.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'da ev sahipliği yapılan Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Liderler Zirvesi'nin ardından değerlendirmelerde bulundu. Zirvenin başarılı bir şekilde sürdüğünü belirten Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın zirvedeki temaslarına ve konuşmasına liderlerin yoğun ilgi gösterdiğini ifade etti.
-
-Cumhurbaşkanı Erdoğan'ın konuşmasındaki iklim adaleti vurgusunun ve Gazze'deki çevre ve insanlık dramına dikkat çeken mesajlarının uluslararası alanda büyük yankı uyandırdığını aktaran Duran, gelişmekte olan ülkelerin iklim mücadelesindeki finans ve teknoloji ihtiyaçlarının somut adımlarla desteklenmesi gerektiğini vurguladı. Duran, Türkiye'nin Emine Erdoğan'ın liderliğinde hayata geçirdiği Sıfır Atık Hareketi'nin tüm dünyaya örnek teşkil ettiğini belirtti.
-
-İletişim Başkanlığı'nın zirvedeki faaliyetlerine de değinen Duran, etkinlik alanında kurulan geniş pavilyonda 5 panel düzenlediklerini ve iklim diplomasisi, Türkiye'nin COP31 tecrübesi ile Sıfır Atık konularını ele alan 3 temel eser hazırladıklarını kaydetti. Duran, Anadolu Ajansı ve TRT'nin de zirvede etkin bir görev üstlendiğini belirterek, SETA standını da ziyaret ettiğini sözlerine ekledi.
-
----
-
-## Eskişehir'de kontrolden çıkan otomobil yan yattı: Sürücü ve yolcular ucuz kurtuldu
-
-**Asayiş · Tepebaşı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.haber26.com.tr/asayis/eskisehir-de-kontrolden-cikan-otomobil-yan-yatti)
-
-> Tepebaşı ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobilin yan yattığı kazada araçta bulunanlar hafif sıyrıklarla kurtuldu.
-
-Eskişehir'de gece saatlerinde meydana gelen trafik kazasında kontrolden çıkan otomobil yan yattı. Şans eseri kazada yaralanan olmadı.
-
-Kaza, Tepebaşı ilçesi Hoşnudiye Mahallesi İstasyon Caddesi üzerinde yaşandı. Alınan bilgilere göre, Z.Ö. yönetimindeki 16 LP 113 plakalı otomobil, sürücüsünün direksiyon hakimiyetini yitirmesi neticesinde savrulmaya başladı. Kontrolden çıkan araç cadde üzerinde devrilerek yan yattı.
-
-Olayda sürücü ile otomobildeki yolcular kazayı hafif sıyrıklarla atlattı. İhbar üzerine olay yerine gelen polis ekipleri güvenlik önlemleri alırken, devrilen araç çekici marifetiyle kaldırıldı. Kazayla ilgili inceleme başlatıldı.
 
 ---
