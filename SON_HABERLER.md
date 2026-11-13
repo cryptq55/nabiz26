@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MEB'den Liselere 'Yeşil ve Dijital' Adım: 138 Etkinlik Kartı Hazırlandı
+
+**Eğitim · Türkiye** · 2026-11-13 15:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/gencler-yesil-ve-dijital-donusume-egitimle-hazirlaniyor/haber/42507/tr)
+
+![](data/images/beef8abb7595d533.jpg)
+
+> Millî Eğitim Bakanlığı, lise öğrencilerinin çevre ve teknoloji yetkinliklerini artırmak amacıyla başlattığı program kapsamında 138 etkinlik kartı hazırladı.
+
+Millî Eğitim Bakanlığı, çevre bilinci ile dijital yetkinlikleri bir araya getiren Yeşil Beceri ve Dijital Dönüşüm Programı kapsamındaki çalışmalarını sürdürüyor. Türkiye Yüzyılı Maarif Modeli çerçevesinde yürütülen projeyle öğrencilerin çevre sorunlarına karşı farkındalık kazanması ve teknolojiyi bu sorunların çözümünde kullanabilmesi hedefleniyor.
+
+Program kapsamında 9 ve 10. sınıfların dokuz ortak dersine yönelik 138 etkinlik kartı geliştirildi. Hazırlanan içeriklerden 92'si, öğretmen ve öğrencilerin kullanımına sunulmak üzere OGM Materyal platformunda yayımlandı. Çalışmanın devamında ise 11 ve 12. sınıflar için matematik, fizik, kimya, biyoloji, Türk dili ve edebiyatı, tarih, coğrafya, felsefe ile din kültürü ve ahlak bilgisi branşlarında yeni etkinlik kartları hazırlanıyor.
+
+Öğrencilerin enerji verimliliği, sıfır atık ve doğal kaynakların sürdürülebilir kullanımı gibi konularda bilinçlenmesini amaçlayan programda kodlama, yapay zekâ ve dijital güvenlik gibi beceriler de destekleniyor. Çalışmanın ortaöğretimin tüm kademelerine yaygınlaştırılması hedefleniyor.
+
+---
+
+## Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile Dolmabahçe'de Bir Araya Geldi
+
+**Siyaset · Türkiye** · 2026-11-13 15:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorustu-13-11-26)
+
+![](data/images/afd5d9c33876cd25.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile Cumhurbaşkanlığı Dolmabahçe Ofisi'nde resmî temaslarda bulundu.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani'yi Cumhurbaşkanlığı Dolmabahçe Ofisi'nde düzenlenen resmî törenle karşıladı. Törende liderlerin birbirlerine heyetlerini tanıtmasının ardından baş başa görüşmeye geçildi.
+
+Liderlerin baş başa gerçekleştirdiği temasların sonrasında heyetler arası görüşme yapıldı. Görüşmede iki ülke arasındaki ilişkiler ve bölgesel konular ele alındı.
+
+Dolmabahçe Ofisi'ndeki temaslarda Dışişleri Bakanı Hakan Fidan ile Millî İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın da hazır bulundu.
+
+---
+
 ## Uluslararası Eskişehir Şiir Buluşması başladı: Minikler doğanın sesini şiirle keşfetti
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-13 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/14uluslararasıeskisehirsiirbulusmasıcocuklarındogasesleriylebasladı)
@@ -453,33 +485,5 @@ Organizasyonun kapanış bölümünde Odunpazarı Belediye Başkanı Kazım Kurt
 Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı paylaşımda, Malatya'da S-70 tipi askerî helikopterin kaza kırıma uğraması neticesinde şehit düşen kahraman askerler için taziye mesajı yayımladı.
 
 Duran paylaşımında, şehitlere Allah'tan rahmet dileyerek, kederli ailelere, yakınlara ve Türk Silahlı Kuvvetleri'ne başsağlığı dileklerini iletti.
-
----
-
-## Eskişehirspor taraftarından yüksek bilet fiyatına para atarak protesto
-
-**Spor · Merkez** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.haber26.com.tr/spor/valizi-toplayip-gidin)
-
-> Nesine 3. Lig 2. Grup'taki Anadolu SF maçında 400 TL'lik bilet fiyatına tepki gösteren Eskişehirspor taraftarları, tribünlerden para atarak yönetimi protesto etti.
-
-Nesine 3. Lig 2. Grup'ta oynanan Anadolu Spor Faaliyetleri ile Eskişehirspor karşılaşmasında siyah-kırmızılı taraftarlar tribünlerde dikkat çeken bir protestoya imza attı. Ev sahibi ekibin bilet fiyatlarını 400 TL olarak belirlemesi maç öncesinde tepki toplarken, siyah-kırmızılılar yüksek ücrete rağmen ESOGÜ Stadyumu'ndaki yerini aldı.
-
-Maç öncesinde bilet fiyatlarına tepki gösteren taraftarlar, tribünlerden para atarak ev sahibi yönetimi protesto etti. Siyah-kırmızılılar, "Bu kadar ihtiyaç mı var paraya? Valizi toplayıp gidin Ankara'ya" tezahüratlarıyla tepkilerini dile getirdi.
-
-Karşılaşma boyunca takımlarını desteklemeyi sürdüren Eskişehirspor taraftarı, 90 dakika boyunca bilet fiyatlarına yönelik protestolarına devam etti.
-
----
-
-## Eskişehir Anadolu Lisesi önündeki çöpler tepki çekti
-
-**Gündem · Tepebaşı** · 2026-11-13 07:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/eskisehirde-lise-onunde-cop-manzarasi)
-
-![](data/images/9917551248d08356.jpg)
-
-> Sümer Mahallesi'nde bulunan Eskişehir Anadolu Lisesi'nin önünde biriken çöpler çevre kirliliğine yol açarken, vatandaşlar bölgede temizlik çalışmalarının artırılmasını talep ediyor.
-
-Eskişehir'de çevre kirliliğiyle ilgili şikayetlere bir yenisi daha eklendi. Sümer Mahallesi Kızılyer mevkiinde yer alan Eskişehir Anadolu Lisesi'nin önündeki atıklar, bölgede bakımsız bir görüntü oluşturdu.
-
-Öğrencilerin yoğun olarak kullandığı okul çevresinde biriken çöpler hem çevre sağlığını tehdit ediyor hem de kötü bir görüntü ortaya çıkarıyor. Mahalle sakinleri ve veliler, öğrencilerin eğitim gördüğü bu alanda temizlik çalışmalarının sıklaştırılmasını ve çöplerin düzenli bir şekilde toplanmasını istiyor.
 
 ---
