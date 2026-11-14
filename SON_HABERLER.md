@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yenikent'te tramvay ile otobüs çarpıştı: Seferlerde aksama yaşandı
+
+**Ulaşım · Odunpazarı** · 2026-11-14 11:04 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-toplu-ulasimda-kaza-panigi--tramvay-ile-otobus-carpisti-298072.html)
+
+> Odunpazarı'nda sabah saatlerinde tramvay ile halk otobüsünün çarpışması sonucu maddi hasar oluşurken, aksayan seferler araçların kaldırılmasıyla normale döndü.
+
+Eskişehir'in Odunpazarı ilçesine bağlı Yenikent Mahallesi'nde toplu taşıma araçları kaza yaptı. Sabah saatlerinde Şehit Yüzbaşı Tuncer Güngör Caddesi üzerinde seyir halinde olan tramvay ile otobüs henüz belirlenemeyen bir sebeple çarpıştı.
+
+Çarpışmanın etkisiyle her iki araçta da maddi hasar meydana geldi. Kaza nedeniyle bölgedeki tramvay hattında ulaşım bir süre durma noktasına geldi.
+
+İhbar üzerine sevk edilen polis ekipleri cadde üzerinde güvenlik önlemleri alarak inceleme başlattı. Ekiplerin inceleme ve temizlik çalışmalarını tamamlamasının ardından kazaya karışan araçlar yoldan çekildi ve tramvay seferleri yeniden düzenli şekilde işlemeye başladı.
+
+---
+
+## Hamzabeyli'de 558,6 Milyon Liralık Kaçak Eşya Operasyonu
+
+**Türkiye · Türkiye** · 2026-11-14 11:04 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.cumhuriyet.com.tr/turkiye/ticaret-bakanligi-verileri-acikladi-558-6-milyon-lira-degerinde-kacak-esya-ele-gecirildi-2556059)
+
+> Ticaret Bakanlığı Gümrükler Muhafaza ekiplerince Edirne Hamzabeyli Gümrük Kapısı'nda durdurulan bir tırda 558 milyon 594 bin lira değerinde kaçak ticari eşya ele geçirildi.
+
+Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, Edirne'deki Hamzabeyli Gümrük Sahası'nda kaçakçılıkla mücadele kapsamında yürüttüğü saha denetimleri sırasında şüpheli hareketler sergileyen bir tırı takibe aldı. Durdurulan araçta yapılan detaylı aramalarda, yasal gümrük işlemlerine tabi tutulmadan Türkiye'ye sokulmak istenen yüklü miktarda ticari malzeme tespit edildi.
+
+Aramalarda 193 bin 31 adet elektronik sigara ve aksamı, 4 bin 700 adet cep telefonu, 11 bin 263 adet gözlük ve aksesuarı, 8 bin 233 adet ilaç ile 3 bin 600 adet sigara filtresi bulundu. Ele geçirilen kaçak eşyaların toplam gümrüklenmiş piyasa değerinin 558 milyon 594 bin lira olduğu açıklandı.
+
+Bakanlık açıklamasında, haksız rekabetin önlenmesi, kamu sağlığı ile ekonomik çıkarların korunması amacıyla gümrük muhafaza ekiplerinin denetimlerinin kararlılıkla süreceği bildirildi. Ele geçirilen malzemelerle ilgili adli tahkikat Edirne Cumhuriyet Başsavcılığı koordinesinde yürütülüyor.
+
+---
+
+## Bakan Tekin COP31'de Duyurdu: 19 Dersin Müfredatına İklim Değişikliği Eklendi
+
+**Eğitim · Türkiye** · 2026-11-14 11:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-cop31039de-duzenlenen-yuksek-duzeyli-bakanlar-acilis-oturumu039nda-hitap-etti/haber/42514/tr)
+
+![](data/images/2abfcd3402b252b1.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin, COP31 zirvesinde okul öncesinden liseye kadar 19 dersin öğretim programına iklim değişikliği ve sürdürülebilirlik konularının yerleştirildiğini açıkladı.
+
+Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, UNESCO iş birliğiyle "Yeşil Eğitimin Merkezinde Çocuklar, Gençler ve Öğretmenler" başlıklı Yüksek Düzeyli Bakanlar Açılış Oturumu gerçekleştirildi. Oturumda konuşan Millî Eğitim Bakanı Yusuf Tekin, çevre krizinin yalnızca yasal düzenlemelerle çözülemeyeceğini, zihniyet dönüşümünün eğitim yoluyla sağlanabileceğini vurguladı.
+
+Türkiye Yüzyılı Maarif Modeli kapsamında yaşanabilir çevreyi odağa aldıklarını belirten Tekin, okul öncesinden ortaöğretime kadar tüm kademelerdeki zorunlu ve seçmeli 19 derse iklim değişikliği ile sürdürülebilirlik başlıklarının eklendiğini söyledi. Bakan Tekin, Çevre Dostu Okul Projesi aracılığıyla okullarda güneş enerjisi panelleri kurulduğunu ve yağmur sularının bahçe sulamasında değerlendirildiğini ifade etti. Sıfır atık uygulamalarının 29 bin 400 okulda tamamlandığı ve 9 milyon öğrencinin Sıfır Atık Sertifikası aldığı bilgisi de paylaşıldı.
+
+Öğretmenlerin çevre bilincindeki rolüne dikkat çeken Bakan Tekin, öğretmen adaylarına yönelik 1200 saatlik iklim ve sürdürülebilirlik hazırlık eğitimi programı uygulandığını, Öğretmen Bilişim Ağı üzerinden verilen çevre eğitimlerine ise şu ana kadar 517 bin öğretmenin katıldığını kaydetti. Ayrıca 30 ilden gelen lise öğrencilerinin hazırladığı ortak gençlik iklim bildirgesinin zirve boyunca dört dilde okunacağı ve genç iklim delegelerinin karar alıcılarla doğrudan temas kuracağı aktarıldı.
+
+Konuşmasında çatışmaların çevreye ve çocuklara verdiği zarara da değinen Tekin, Gazze'deki tahribatı hatırlatarak adalet ve barış olmadan iklim krizine kalıcı bir çözüm üretilemeyeceğini belirtti. Bakan Tekin'in konuşmasının ardından uluslararası temsilcilerin katılımıyla yeşil beceriler ve iklim eğitimi konulu panel gerçekleştirildi.
+
+---
+
 ## MEB'den Sınav Yönetmeliğinde Değişiklik: İlkokullarda Sınav Tamamen Yasaklandı
 
 **Eğitim · Türkiye** · 2026-11-14 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/olcme-ve-degerlendirme-yonetmeligi039nde-degisiklik-resmi-gazete039de-yayimlandi/haber/42511/tr)
@@ -431,53 +477,5 @@ CHP İl Başkanlığı yaptığı dönemde gerçekleştirdiği bir basın açık
 Mahkeme, dava dosyasındaki eksik hususların giderilmesine karar vererek duruşmayı 3 Aralık tarihine erteledi.
 
 Eskişehir Cumhuriyet Başsavcılığı tarafından hazırlanan iddianamede, 20 Temmuz 2024 tarihinde Hayvanları Koruma Kanunu'nda yapılması planlanan değişikliklere karşı düzenlenen basın açıklamasındaki ifadeler gerekçe gösterilmişti. Yalaz hakkında 6 aydan 2 yıla kadar hapis cezası ile siyasi yasak getirilmesi talep ediliyor.
-
----
-
-## Erdoğan'dan Irak Cumhurbaşkanı Amedi ile Kritik Zirve: Kalkınma Yolu Masada
-
-**Siyaset · Türkiye** · 2026-11-13 11:05 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdoganin-irak-cumhurbaskani-amedi-ile-gorusmesine-iliskin-aciklama)
-
-![](data/images/2fb493066e360921.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Liderler Zirvesi kapsamında Irak Cumhurbaşkanı Nizar Amedi ile Antalya'da bir araya geldi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 Liderler Zirvesi marjında Irak Cumhurbaşkanı Nizar Amedi ile ikili bir görüşme gerçekleştirdi. İletişim Başkanlığından yapılan açıklamaya göre, görüşmede Türkiye ile Irak arasındaki ikili ilişkiler ve bölgesel gelişmeler ele alındı.
-
-Cumhurbaşkanı Erdoğan, iki ülke arasındaki üst düzey temaslarda yakalanan ivmenin ikili ilişkilere dinamizm kazandırdığını belirtti. Görüşmede özellikle Kalkınma Yolu Projesi'ndeki ilerlemelere dikkat çeken Erdoğan, bu projenin Doğu-Batı ticaretinde yeni bir güzergâh oluşturacağını, enerji başta olmak üzere birçok sektörde iş birliğini güçlendirecek adımların sürdürüleceğini ifade etti.
-
-Erdoğan ayrıca Türkiye'nin "Terörsüz Bölge" hedefine Irak'ın desteğini artırarak sürdürmesini beklediklerini, bu amaca ulaşılmasının her iki ülkenin de çıkarına olacağını kaydetti.
-
-Zirve kapsamındaki görüşmeye Dışişleri Bakanı Hakan Fidan, Adalet Bakanı Akın Gürlek, Tarım ve Orman Bakanı İbrahim Yumaklı, AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, MİT Başkanı İbrahim Kalın ile Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran da katıldı.
-
----
-
-## Bodrum Heyeti Eskişehir'de: Başarılı Projeler Ege'ye Taşınacak
-
-**Belediye · Merkez** · 2026-11-13 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.eskisehirekspres.net/baskan-mandalinci-eskisehirdeki-guzel-ornekleri-bodruma-tasimak-istiyoruz)
-
-![](data/images/0c76abd112af3508.jpg)
-
-> Bodrum Belediye Başkanı Tamer Mandalinci ve beraberindeki heyet, Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce’yi ziyaret ederek kentteki şehircilik uygulamalarını inceledi.
-
-Eskişehir Büyükşehir Belediyesi Meclis Salonu’nda gerçekleşen buluşmada, Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce ile Bodrum Belediye Başkanı Tamer Mandalinci bir araya geldi. Görüşmede iki kent arasındaki kardeş şehir ilişkileri, belediyecilik tecrübeleri ve kente değer katan uygulamalar ele alındı.
-
-Eskişehir’deki başarılı projeleri yerinde görmek amacıyla kente geldiklerini aktaran Bodrum Belediye Başkanı Tamer Mandalinci, teknik incelemelerin oldukça verimli geçtiğini belirtti. Eskişehir'in belediyecilik anlayışını yakından takip ettiklerini ifade eden Mandalinci, kentte hayata geçirilen örnek çalışmaları Bodrum'a taşımak istediklerini kaydetti.
-
-Ziyaretten duyduğu memnuniyeti dile getiren Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce ise yerel yönetimler arasındaki deneyim paylaşımının önemine değindi. Eskişehir’in yıllar içinde geçirdiği dönüşüm sürecini anlatan Ünlüce, özellikle Porsuk Çayı ıslahı ve çevresinde kurulan kamusal yeşil alanların şehre kazandırdığı canlılığı paylaştı.
-
----
-
-## Hakan Şapcı'nın PFDK Cezası Belli Oldu: Ayvalıkgücü Maçında Kulübede
-
-**Spor · Merkez** · 2026-11-13 10:20 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirsporu-diken-ustunde-tutan-ceza-aciklandi-2464363)
-
-![](data/images/hakan-sapcinin-pfdk-cezasi-belli-oldu-ayvalikgu-arsiv.jpg)
-
-> Kepezspor maçında kırmızı kart gören Eskişehirspor Teknik Direktörü Hakan Şapcı'ya PFDK tarafından bir maç ve 5 bin TL para cezası verildi.
-
-Kepezspor karşılaşmasının devre arasında kırmızı kartla ihraç edilen ve Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilen Eskişehirspor Teknik Direktörü Hakan Şapcı hakkındaki karar açıklandı. Disiplin kurulu, tecrübeli teknik adama bir maç men ve 5 bin TL para cezası uyguladı.
-
-Verilen bir maçlık cezasını hafta içinde oynanan Anadolu SF müsabakasında tribünde kalarak tamamlayan Hakan Şapcı'nın men süresi sona erdi. Başarılı çalıştırıcı, pazar günü oynanacak Ayvalıkgücü karşılaşmasında takımının başında yer alarak yedek kulübesine dönebilecek.
 
 ---
