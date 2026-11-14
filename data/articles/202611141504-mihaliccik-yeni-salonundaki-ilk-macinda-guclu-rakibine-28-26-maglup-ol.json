@@ -21,10 +21,10 @@
     "title": "Mihalıççık Hentbol Takımı Yeni Tesisteki İlk Maçı Kaybetti - Milli İrade Gazetesi",
     "url": "https://www.milliirade.com/mihaliccik-hentbol-takimi-yeni-tesisteki-ilk-maci-kaybetti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Haydar Çorum"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

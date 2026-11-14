@@ -21,10 +21,10 @@
     "title": "Hentbol Kadınlar Süper Ligi: Odunpazarı, Ortahisar’ı 43-22 yendi - Canlı Gaste",
     "url": "https://www.canligaste.com/hentbol-kadinlar-super-ligi-odunpazari-ortahisar-i-43-22-yendi/949670/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Porsuk Spor Salonu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
