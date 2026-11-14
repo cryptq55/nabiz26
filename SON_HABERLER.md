@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 14 Kasım 2026: Gram altın 6.368,49 TL
+
+**Ekonomi · Merkez** · 2026-11-14 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261114.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.277,23 TL'den alınıyor, 6.368,49 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.368,49 TL, alış fiyatı 6.277,23 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,20 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.380 TL, yarım altın 20.754 TL, tam altın 41.355 TL, ata altın 42.460 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.948,47 TL, has altının gram fiyatı 6.349,44 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,46 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## İlkokulda Gerçeği Aratmayan Tatbikat: Miniklere Deprem ve Yangın Eğitimi
 
 **Eğitim · Tepebaşı** · 2026-11-14 05:03 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/esoguden-ilkokullarda-uygulamali-deprem-ve-yangin-egitimleri-515580824)
@@ -461,19 +481,5 @@ Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki basın kuruluşlarına yönelik 
 Ziyarette İHA Eskişehir Bölge Müdürü Mehmet Emin Toker, Haber Müdürü Aydın Sarıoğlu ve kurum bünyesinde görev yapan muhabirlerle bir araya gelen Vali Yılmaz, ajansın kentteki ve bölgedeki haber faaliyetleri ile operasyonel çalışmaları hakkında detaylı bilgi aldı.
 
 Basın çalışanlarıyla bir süre sohbet ederek görevlerinde kolaylıklar dileyen Vali Yılmaz, yerel ve bölgesel gelişmelerin kamuoyuna aktarılmasında basın mensuplarının üstlendiği sorumluluğa işaret etti.
-
----
-
-## Şeker Mahallesi'nde Gece Mesaisi: Sırada İki Mahalle Daha Var
-
-**Belediye · Tepebaşı** · 2026-11-13 07:49 UTC · Kaynak: [Google Haberler - Tepebaşı](https://gazetekalem.com.tr/tepebasi-belediye-baskani-atac-seker-mahallesinde-yurutulen-calismalari-inceledi/)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, Şeker Mahallesi’nde akşam saatlerinde yürütülen asfalt çalışmalarını yerinde inceleyerek bölge sakinleriyle bir araya geldi.
-
-Tepebaşı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki yollarda ulaşım güvenliğini artırmak ve yıpranan zeminleri yenilemek amacıyla üstyapı çalışmalarını sürdürüyor. Merkez mahallelerde yürütülen asfalt serim mesaisi, Şeker Mahallesi'nde akşam saatlerinde de devam etti.
-
-Çalışmaları sahada takip eden Tepebaşı Belediye Başkanı Ahmet Ataç, ekiplerden gelinen son aşama hakkında bilgi aldı. İncelemelerin ardından mahalle sakinleriyle buluşan Ataç, vatandaşların talep ve önerilerini dinledi. Ulaşımı daha güvenli ve konforlu hale getirmeyi amaçladıklarını vurgulayan Ataç, hem sahada görev yapan personellere hem de destek veren bölge halkına teşekkür etti.
-
-Belediyeden yapılan bilgilendirmeye göre, Şeker Mahallesi’ndeki yol düzenleme çalışmalarının tamamlanmasının ardından ekipler plan doğrultusunda Işıklar ve Mamure mahallelerinde de asfalt yenileme mesaisine başlayacak.
 
 ---
