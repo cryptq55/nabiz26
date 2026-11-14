@@ -480,7 +480,8 @@
   "202611131904-eskisehirsporun-kupa-randevusu-belli-oldu-2-aralikta-bodrum-deplasmani",
   "202611131904-eskisehirden-sabiha-gokcene-seferler-basladi-iste-saatler-ve-bilet-fiy",
   "202611131904-halkbanktan-togga-48-ay-vadeli-kredi-tahsis-ucreti-alinmayacak",
-  "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor"
+  "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor",
+  "202611140600-altin-fiyatlari-14-kasim-2026-gram-altin-6-368-49-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -667,17 +668,11 @@
   "202611131304-baskan-kurt-uluslararasi-rebus-forumunda-odunpazarini-anlatti",
   "202611131304-baskan-unluce-cop31de-eskisehirin-cevre-ve-tarim-projelerini-anlatti",
   "202611131304-uluslararasi-eskisehir-siir-bulusmasi-basladi-minikler-doganin-sesini-",
-  "202611131105-talat-yalazin-davasinda-ilk-durusma-goruldu-dava-3-aralika-ertelendi"
+  "202611131105-talat-yalazin-davasinda-ilk-durusma-goruldu-dava-3-aralika-ertelendi",
+  "202611131904-eskisehirden-sabiha-gokcene-seferler-basladi-iste-saatler-ve-bilet-fiy",
+  "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor"
  ],
  "log": [
-  1794520624.7211912,
-  1794520640.8814065,
-  1794520657.4795394,
-  1794546534.948313,
-  1794546600.1406398,
-  1794546617.0073955,
-  1794546632.9878395,
-  1794546648.9068112,
   1794549918.3995583,
   1794575238.8410258,
   1794575291.8924263,
@@ -685,15 +680,17 @@
   1794582519.5676293,
   1794582634.9148958,
   1794582651.5159206,
-  1794582664.3818674
+  1794582664.3818674,
+  1794636251.808848,
+  1794636323.7588685,
+  1794636339.9885929
  ],
  "reel_log": [
-  1794546534.948315,
-  1794546600.1406417,
-  1794549918.3995607,
   1794575238.8410275,
   1794575291.8924286,
   1794582519.567631,
-  1794582634.9148974
+  1794582634.9148974,
+  1794636251.8088496,
+  1794636323.7588706
  ]
 }
