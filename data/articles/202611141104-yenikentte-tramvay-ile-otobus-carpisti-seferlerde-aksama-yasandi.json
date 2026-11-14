@@ -21,10 +21,10 @@
     "title": "Eskişehir'de toplu ulaşımda kaza paniği: Tramvay ile otobüs çarpıştı - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/eskisehir-de-toplu-ulasimda-kaza-panigi--tramvay-ile-otobus-carpisti-298072.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir tramvay"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

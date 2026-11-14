@@ -21,10 +21,10 @@
     "title": "Ticaret Bakanlığı verileri açıkladı: 558,6 milyon lira değerinde kaçak eşya ele geçirildi - Cumhuriyet",
     "url": "https://www.cumhuriyet.com.tr/turkiye/ticaret-bakanligi-verileri-acikladi-558-6-milyon-lira-degerinde-kacak-esya-ele-gecirildi-2556059"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Hamzabeyli Sınır Kapısı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
