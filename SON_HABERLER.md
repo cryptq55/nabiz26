@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kurtuluş Mahallesi'nde Kötü Kokular Üzerine Girilen Evde Acı Bulgu
+
+**Asayiş · Odunpazarı** · 2026-11-14 17:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-35-yasindaki-kisi-evinde-olu-bulundu-2556147)
+
+![](data/images/169e69048379c7a5.jpg)
+
+> Odunpazarı'nda bir apartman dairesinden yayılan kokular üzerine adrese giren ekipler, tek başına yaşayan 35 yaşındaki kişiyi hareketsiz halde buldu. Sağlık ekipleri şahsın yaşamını yitirdiğini belirledi.
+
+Eskişehir'in Odunpazarı ilçesine bağlı Kurtuluş Mahallesi Ziyapaşa Caddesi'ndeki bir apartmanda yaşayan vatandaşlar, binadaki bir daireden yoğun koku gelmesi üzerine durumu 112 Acil Çağrı Merkezine bildirdi.
+
+İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri yönlendirildi. Kapının açılmasıyla eve giren ekipler, ikamette yalnız kaldığı öğrenilen 35 yaşındaki A.T.K.'yi yerde hareketsiz yatarken buldu. Sağlık görevlilerinin yaptığı kontrollerde şahsın hayatını kaybettiği tespit edildi.
+
+Olay yerinde incelemelerde bulunan belediye tabibi, 35 yaşındaki vatandaşın vefatını şüpheli ölüm olarak değerlendirdi. Polis ekipleri olayla ilgili geniş çaplı inceleme başlatırken, cenaze kesin ölüm nedeninin belirlenmesi amacıyla otopsi yapılmak üzere Eskişehir Şehir Hastanesi morguna kaldırıldı.
+
+---
+
+## Bakanlar Tekin ve Kurum Duyurdu: Türkiye İklim Okulu Kapılarını Açtı
+
+**Eğitim · Türkiye** · 2026-11-14 17:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakanlar-tekin-ve-kurum039un-katilimiyla-turkiye-iklim-okulu039nun-acilisi-yapildi/haber/42516/tr)
+
+![](data/images/bfa3b1f8949d30da.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un katılımıyla Türkiye İklim Okulu resmen açıldı.
+
+Millî Eğitim Bakanı Yusuf Tekin ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un katılımıyla Türkiye İklim Okulu hizmete girdi. Programda çevre bilincinin eğitim yoluyla yeni nesillere kazandırılması gerektiği vurgulandı.
+
+Açılışta konuşan Millî Eğitim Bakanı Yusuf Tekin, eğitim sisteminin Türkiye Yüzyılı Maarif Modeli ile revize edildiğini belirterek merkeze insanı ve insani değerleri aldıklarını söyledi. Yaşanabilir bir çevre inşa etmek için çevre bilincine sahip nesiller yetiştirilmesinin zorunlu olduğunu ifade eden Tekin, bunun da ancak eğitim öğretim süreçleriyle mümkün olabileceğini dile getirdi.
+
+COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ise Türkiye İklim Okulu'nun kapılarını hem bir eğitim yuvası hem de ortak geleceğin temsilcisi olarak açtıklarını kaydetti. Çocukların bu mekânda iklim değişikliğini öğreneceğini ve çözümler tasarlayacağını anlatan Kurum, Antalya'dan yükselen bu girişimin tüm Türkiye'deki okullara yayılmasını arzu ettiklerini belirtti.
+
+Törende, Maarif İklim Ideathonu ile COP31 Uluslararası Öğrenci Münazarası'nda dereceye giren öğrencilere ödülleri verildi. Açılışın ardından Bakan Tekin, okul bünyesindeki atölyeleri gezerek öğrencilerin yürüttüğü faaliyetleri yerinde inceledi.
+
+---
+
 ## Odunpazarı Kadın Hentbol Takımı Sahadan Farklı Galibiyetle Ayrıldı: 43-22
 
 **Spor · Odunpazarı** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.canligaste.com/hentbol-kadinlar-super-ligi-odunpazari-ortahisar-i-43-22-yendi/949670/)
@@ -437,37 +471,5 @@ Yerli üretim elektrikli otomobil Togg'u satın almak isteyenler için Halkbank 
 Belirlenen baremlere göre, fatura değeri 2 milyon 500 bin liraya kadar olan Togg modellerinde araç bedelinin yüzde 70'ine kadar kredi verilecek ve azami vade 48 ay olacak. Bu kapsamda 2,5 milyon liralık bir araç için en fazla 1 milyon 750 bin lira finansman sağlanabilecek. Değeri 2 milyon 500 bin lira ile 5 milyon lira arasında bulunan araçlar için yüzde 50 oran ve 36 ay vade, 5 milyon lira ile 6,5 milyon lira arasındaki araçlar için yüzde 30 oran ve 24 ay vade uygulanacak. Fatura tutarı 6,5 milyon ile 7,5 milyon lira aralığındaki modellerde ise azami oran yüzde 20, vade süresi ise 12 ay ile sınırlandırıldı.
 
 Kredi değerlendirmesinde gerçek kullanım tutarları müşterilerin gelir durumuna göre belirlenecek. Uygun faiz ve esnek ödeme koşullarının sunulduğu belirtilen Togg taşıt kredisi başvuruları ve ödeme planı detayları Halkbank şubeleri üzerinden temin edilebilecek.
-
----
-
-## Eskişehirspor'un Kupa Randevusu Belli Oldu: 2 Aralık'ta Bodrum Deplasmanı
-
-**Spor · Merkez** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/bodrumspor-eskisehirspor-macinin-gunu-ve-saati-aciklandi)
-
-![](data/images/842d8e212a37d9bc.jpg)
-
-> Ziraat Türkiye Kupası 4. Eleme Turu programı açıklandı. Eskişehirspor, Bodrum FK ile 2 Aralık Çarşamba günü deplasmanda kozlarını paylaşacak.
-
-Ziraat Türkiye Kupası 4. Eleme Turu karşılaşmalarının takvimi netleşti. Kupanın dördüncü turunda mücadele edecek olan Eskişehirspor'un maç günü ve saati belli oldu. Kırmızı-siyahlı ekip, bir üst tura kalabilmek için Bodrum FK deplasmanına çıkacak.
-
-Açıklanan programa göre Bodrum FK ile Eskişehirspor arasındaki karşılaşma 2 Aralık 2026 Çarşamba günü oynanacak. Mücadele saat 15.00'te başlayacak ve tur atlayan taraf adını bir sonraki tura yazdıracak.
-
-Eskişehir'i kupada temsil eden bir diğer ekip olan Eskişehir Anadolu Spor Faaliyetleri de aynı gün sahaya çıkacak. Eskişehir temsilcisi, 2 Aralık Çarşamba günü saat 14.00'te Samsunspor'u kendi sahasında konuk edecek.
-
----
-
-## Eskişehir'den Sabiha Gökçen'e seferler başladı: İşte saatler ve bilet fiyatı
-
-**Ulaşım · Merkez** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.gzt26.com/eskisehirden-sabiha-gokcen-havalimanina-havaist-seferleri-basladi)
-
-![](data/images/b6b9c5553339712f.jpg)
-
-> Eskişehir ile İstanbul Sabiha Gökçen Havalimanı arasında Havaist seferleri başladı. Günde iki kez düzenlenecek seferlerde tek yön bilet ücreti 1.050 TL olarak açıklandı.
-
-Eskişehir'den İstanbul Sabiha Gökçen Havalimanı'na doğrudan ulaşım sağlamak amacıyla yeni bir otobüs hattı devreye alındı. Havaist bünyesinde 13 Kasım itibarıyla başlatılan seferlerle, Eskişehir çıkışlı yolcular her gün düzenli olarak havalimanına ulaştırılabilecek.
-
-Bursa güzergâhı üzerinden gerçekleştirilecek yolculukların yaklaşık dört saat süreceği bildirildi. Açıklanan programa göre ilk otobüs Eskişehir'den gece saat 00.30'da hareket ederek 04.30'da havalimanına varacak. İkinci sefer ise saat 03.30'da kalkacak ve otobüsün 07.30'da Sabiha Gökçen Havalimanı'na ulaşması hedefleniyor.
-
-Her iki sefer için de tek yön bilet fiyatı 1.050 TL olarak belirlendi. Sabah saatlerindeki uçuşlara yetişmek isteyen yolculara yönelik planlanan seferlerin haftanın her günü aralıksız sürdürüleceği kaydedildi.
 
 ---
