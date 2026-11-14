@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan ve Bolivya Lideri Pereira Dolmabahçe'de Görüştü: Savunma ve Madencilik Masada
+
+**Siyaset · Türkiye** · 2026-11-14 13:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-bolivya-cumhurbaskani-pereira-ile-gorusmesine-iliskin-aciklama)
+
+![](data/images/e09584e065fe8cbd.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Devlet Başkanı Rodrigo Paz Pereira ile Dolmabahçe Ofisi'nde bir araya geldi. Zirvede savunma sanayii ve madencilik iş birliği öne çıktı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'ye ziyarette bulunan Bolivya Devlet Başkanı Rodrigo Paz Pereira ile Cumhurbaşkanlığı Dolmabahçe Ofisi’nde bir görüşme gerçekleştirdi. İki liderin bir araya geldiği toplantıda, Türkiye ile Bolivya arasındaki ikili ilişkilerin yanı sıra bölgesel gelişmeler ele alındı.
+
+Görüşmede Bolivya’yı Latin Amerika’da önemli bir ortak olarak gördüklerini vurgulayan Cumhurbaşkanı Erdoğan, iki ülke arasında savunma sanayii başta olmak üzere pek çok alanda iş birliğini derinleştirmenin taşıdığı önemi ifade etti. Gündemde bulunan anlaşmaların "kazan-kazan" anlayışıyla ilişkilerin ahdi zeminini kuvvetlendireceğini belirten Erdoğan, madencilik gibi potansiyel taşıyan alanlarda da yeni adımların atılabileceğini dile getirdi.
+
+Dolmabahçe'deki kabulde Millî Savunma Bakanı Yaşar Güler, Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran ile Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün de hazır bulundu.
+
+---
+
 ## Erdoğan'dan Malatya'da Şehit Düşen 4 Askerin Ailesine Taziye Mesajı
 
 **Siyaset · Türkiye** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](http://mobil.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-malatyada-sehit-olan-askerler-icin-taziye-mesaji-43378181)
@@ -455,23 +471,5 @@ Antalya'nın ev sahipliğinde gerçekleştirilen Birleşmiş Milletler İklim De
 Panelin açılışında konuşan Millî Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, modern insanın geleceğe tahakküm etme yaklaşımını eleştirerek yarınların sonraki nesillerin hakkı olduğunu belirtti. Doğadaki temel dengenin bozulmasına insanın faaliyetlerinin yol açtığını ifade eden Yelkenci, karbon piyasaları veya teknolojik adımların tek başına yeterli olamayacağını, asıl çözümün zihniyet ve eğitimle sağlanabileceğini söyledi.
 
 Yelkenci, Türkiye Yüzyılı Maarif Modeli'nin insanı ruh ve beden bütünlüğüyle ele aldığını hatırlatarak çevre bilincinin müfredatta somut bir karşılık bulduğunu aktardı. Ortaokullarda uygulanan Çevre Eğitimi ve İklim Değişikliği dersinin insan ve doğa ilişkisine odaklandığını belirten Yelkenci, uluslararası taahhütler ile uygulama arasındaki mesafenin müzakere masalarından ziyade sınıflarda kapatılacağına inandıklarını dile getirdi.
-
----
-
-## Başkan Ünlüce COP31'de Eskişehir'in Çevre ve Tarım Projelerini Anlattı
-
-**Belediye · Merkez** · 2026-11-13 13:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-in-iklim-ve-surdurulebilirlik-vizyonu-cop31-de-8cc4a956)
-
-![](data/images/b8077fbedd9ad69c.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, COP31 İklim Zirvesi'nde kentin sürdürülebilirlik projelerini ve yerel yönetimlerin iklim mücadelesindeki rolünü uluslararası kamuoyuyla paylaştı.
-
-Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen etkinliklerde yer alan Eskişehir Büyükşehir Belediye Başkanı ve Türkiye Belediyeler Birliği (TBB) Başkan Vekili Ayşe Ünlüce, iklim değişikliğiyle mücadelede yerel yönetimlerin önemine dikkat çekti. Ünlüce, TBB'nin 75 ilden 330 belediyenin katkısıyla hazırladığı Yerel Yönetimler Pozisyon Belgesi'nin tanıtıldığı oturumun açılışında konuştu.
-
-İklim krizinin etkilerinin her kentte farklı hissedildiğini ve bu nedenle küresel politikaların yerel koşullara uyarlanması gerektiğini vurgulayan Ünlüce, belediyelerin sadece karar uygulayıcı değil, sahadaki ihtiyaçları en iyi gözlemleyen kurumlar olduğunu belirtti.
-
-Zirve kapsamında düzenlenen panellerde Eskişehir'de hayata geçirilen uygulamalardan örnekler veren Ünlüce, katı atık bertaraf tesisinde çöpten enerji üretildiğini ve oluşan ısıyla seralarda gıda ile peyzaj bitkileri yetiştirildiğini aktardı. Ayrıca kentteki ortak akıl merkezi "a.d.a", kırsal kalkınmayı destekleyen Çiftçi Destekleme ve Eğitim Merkezi (ÇİDEM), Küllüoba ekmeği ve Sakarya Vadisi'nde üretilen Dorlion zeytinyağı projeleri de katılımcılara tanıtıldı.
-
-Başkan Ünlüce, sürdürülebilir gıda sistemleri ve döngüsel gastronomi oturumunda ise gıda israfıyla mücadelenin ve atıkların yeniden değerlendirilmesinin sera gazı emisyonlarını düşürmedeki kritik rolüne işaret etti.
 
 ---
