@@ -2,6 +2,24 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MEB'den Sınav Yönetmeliğinde Değişiklik: İlkokullarda Sınav Tamamen Yasaklandı
+
+**Eğitim · Türkiye** · 2026-11-14 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/olcme-ve-degerlendirme-yonetmeligi039nde-degisiklik-resmi-gazete039de-yayimlandi/haber/42511/tr)
+
+![](data/images/143b58b5ecdac58e.jpg)
+
+> Milli Eğitim Bakanlığı Ölçme ve Değerlendirme Yönetmeliği'nde yaptığı değişiklikle okul öncesi ve ilkokullarda hiçbir ad altında sınav yapılamayacağını duyurdu.
+
+Milli Eğitim Bakanlığına bağlı resmi ve özel okul öncesi, ilköğretim ile ortaöğretim kurumlarında yürütülen ölçme ve değerlendirme faaliyetlerine ilişkin yönetmelik değişikliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Yeni düzenlemeyle ölçme ve değerlendirme süreçlerinin Türkiye Yüzyılı Maarif Modeli ile uyumlu hale getirilmesi hedeflendi.
+
+Yayımlanan yeni yönetmeliğe göre, okul öncesi eğitim kurumlarında ve ilkokullarda herhangi bir isim altında sınav uygulaması yapılamayacak. Bu kademelerde ölçme ve değerlendirmenin temel hedefi, öğrencilerin bilişsel, fiziksel, sosyal ve duygusal gelişim düzeylerinin süreç içerisinde takip edilmesi ve desteklenmesi olacak. Ayrıca elde edilen sonuçlar; öğrenciler, sınıflar, okullar ya da iller arasında kıyaslama ve sıralama amacıyla kullanılamayacak.
+
+Düzenleme kapsamında ölçme ve değerlendirme faaliyetleri yalnızca Bakanlık tarafından uygun bulunan dijital sistemler aracılığıyla yürütülecek. Soru hazırlama ve değerlendirme aşamalarında verimliliği artırmak amacıyla Bakanlık onaylı yapay zekâ araçlarından yararlanılabilecek. Süreçte kişisel verilerin gizliliği esas alınacak.
+
+Yönetmelikle birlikte ABİDE, Dört Beceride Türkçe Dil Gelişimi İzleme ve okul tabanlı araştırmalar tek bir mevzuat çatısı altında birleştirilirken, PISA ve TIMSS gibi uluslararası izleme araştırmalarına yönelik kurallar da yeniden düzenlendi.
+
+---
+
 ## Tarihi Hacı Halit Konağı Etnografya Müzesi Oluyor: Çalışmalar Son Aşamada
 
 **Kültür-Sanat · Mihalıççık** · 2026-11-14 07:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/eskisehir-e-yeni-muze-geliyor--tarihi-binada-calismalar-son-asamada--297999.html)
@@ -461,23 +479,5 @@ Ziyaretten duyduğu memnuniyeti dile getiren Eskişehir Büyükşehir Belediye B
 Kepezspor karşılaşmasının devre arasında kırmızı kartla ihraç edilen ve Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilen Eskişehirspor Teknik Direktörü Hakan Şapcı hakkındaki karar açıklandı. Disiplin kurulu, tecrübeli teknik adama bir maç men ve 5 bin TL para cezası uyguladı.
 
 Verilen bir maçlık cezasını hafta içinde oynanan Anadolu SF müsabakasında tribünde kalarak tamamlayan Hakan Şapcı'nın men süresi sona erdi. Başarılı çalıştırıcı, pazar günü oynanacak Ayvalıkgücü karşılaşmasında takımının başında yer alarak yedek kulübesine dönebilecek.
-
----
-
-## Erdoğan COP31'de Liderlerle Görüştü: Masada Barış ve İş Birliği Vardı
-
-**Siyaset · Türkiye** · 2026-11-13 09:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-963155.html)
-
-![](data/images/5dfe0b7d6578fde9.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'da düzenlenen COP31 kapsamında BM Genel Sekreteri Guterres ve çok sayıda devlet başkanıyla ikili temaslarda bulundu.
-
-Antalya EXPO alanında gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), yoğun bir ikili diplomasi trafiğine sahne oldu. Cumhurbaşkanı Recep Tayyip Erdoğan, zirve boyunca dünya liderleriyle bir dizi resmi görüşme gerçekleştirdi.
-
-Temaslarına BM Genel Sekreteri Antonio Guterres ile başlayan Erdoğan; İran-ABD gerilimi, Ukrayna-Rusya Savaşı, Gazze, Kıbrıs ve Libya'daki gelişmeleri ele aldı. Erdoğan, bölgesel ihtilafların diplomasi ve diyalog yoluyla çözülmesi için Türkiye'nin desteğe hazır olduğunu kaydetti. Zirve kapsamında Brezilya Devlet Başkanı Lula da Silva ile de görüşen Erdoğan, iklim müzakerelerinde alınan mesafeyi COP31 ile somut uygulamalara dönüştürmeyi hedeflediklerini belirtti.
-
-Liderler Zirvesi boyunca devam eden görüşmelerde Avustralya Başbakanı Anthony Albanese, Çin Devlet Başkan Yardımcısı Han Zheng, Ermenistan Başbakanı Nikol Paşinyan ve Bosna Hersek heyetiyle ikili ilişkiler değerlendirildi. Çin ile Orta Koridor, Kuşak ve Yol ile Kalkınma Yolu projelerinin uyumuna dikkat çekilirken; Ermenistan ile normalizasyon ve Azerbaycan arasındaki barış süreci masaya yatırıldı. Suudi Arabistan ile ise elektrik projelerinde iş birliğini içeren mutabakat zaptı imzalandı.
-
-Zirvenin son gününde İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir araya gelen Erdoğan, İran-ABD arasındaki çatışmaların sona ermesi için müzakere masasının kurulması gerektiğini vurguladı. Cumhurbaşkanı Erdoğan ayrıca Irak, Pakistan, Gürcistan, Kongo, Kongo DC, Sudan, Libya ve Tanzanya liderleriyle enerji, ticaret ve ulaştırma alanlarındaki iş birliğini güçlendirmeye yönelik temaslarda bulundu.
 
 ---
