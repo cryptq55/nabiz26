@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Lider Eskişehirspor'da Gözler Ayvalıkgücü Randevusunda: Hazırlıklar Sürüyor
+
+**Spor · Tepebaşı** · 2026-11-14 19:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyagazete.com/haber/eskisehirsporda-ayvalikgucu-belediyespor-maci-hazirliklari-suruyor)
+
+![](data/images/180df9189a1ccfc7.jpg)
+
+> TFF 3. Lig'de zirvede yer alan Eskişehirspor, sahasında ağırlayacağı Ayvalıkgücü Belediyespor mücadelesinin taktik hazırlıklarını tamamlıyor.
+
+TFF Nesine 3. Lig 2. Grup'ta 24 puanla liderlik koltuğunda oturan Eskişehirspor, ligin 12. haftasında oynayacağı kritik Ayvalıkgücü Belediyespor karşılaşması için çalışmalarını sürdürüyor.
+
+Teknik Direktör Hakan Şapcı yönetiminde gerçekleştirilen antrenmanlarda siyah-kırmızılı ekip, rakibine karşı uygulayacağı taktik plan üzerinde durdu. Futbolcuların antrenmandaki istekli görüntüsü teknik heyeti memnun etti.
+
+Zirvedeki yerini korumak isteyen Eskişehirspor ile Ayvalıkgücü Belediyespor arasındaki karşılaşma, 15 Kasım Pazar günü saat 15.30'da Prof. Dr. Fethi Heper Stadyumu'nda oynanacak.
+
+---
+
 ## Togg'dan Kasım Kampanyası: 1,5 Milyon Liraya Kadar Sıfır Faiz Fırsatı
 
 **Ekonomi · Türkiye** · 2026-11-14 18:47 UTC · Kaynak: [Google Haberler - Togg](https://www.haberx.com/toggtan-otomobil-almak-isteyenlere-15-milyon-tlye-kadar-faizsiz-kredi/)
@@ -457,19 +473,5 @@ Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar 
 OECD iş birliğinde organize edilen atölyede ise Özbekistan, Bahamalar ve Meksika gibi ülkelerden gelen genç aktivistler ile çeşitli sektör temsilcileri buluştu. Gençler yuvarlak masa toplantısında iklim eğitimi, güvenilir bilgi kaynaklarına erişim ve çevre konularındaki dezenformasyonla mücadele deneyimlerini paylaştı. Programda OECD analisti Mario Piacentini ile İklim Eğitimi Ofisi araştırmacısı Elena Pasquinelli, doğru bilgiye ulaşma ve eleştirel düşünme üzerine değerlendirmelerde bulundu.
 
 Öte yandan okul bünyesindeki atölyeler ve deneyim alanları öğrencilerin de yoğun ilgisini çekti. Konferansı aileleriyle ziyaret eden çocuklar ve öğrenciler, iklim deneyim ve teknoloji alanlarında uygulamalı etkinliklerle çevre bilinci kazandı.
-
----
-
-## Odunpazarı Kent Konseyi'nde İsmail Kumru Güven Tazeledi
-
-**Belediye · Odunpazarı** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/sorunlar-icin-mahalle-meclislerimizle-sahadayiz)
-
-> Odunpazarı Kent Konseyi'nin 22. Olağan Seçimli Genel Kurulu'nda mevcut başkan İsmail Kumru, açık oylamayla yeniden başkanlığa seçildi.
-
-Odunpazarı Belediyesi 100. Yıl Kültür Merkezi'nde düzenlenen genel kurula 200'ün üzerinde sivil toplum kuruluşu temsilcisi katıldı. Divan başkanlığını ESGİAD Yönetim Kurulu Başkanı Batuhan Eldem'in üstlendiği toplantıda, üniversiteler, meslek odaları ve dernek temsilcilerinden oluşan 19 kişilik yeni yürütme kurulu oy birliğiyle kabul edildi.
-
-Genel kurulda konuşan Başkan İsmail Kumru, kentin çevre ve altyapı sorunlarına dikkat çekti. Alpagut-Atalan, Kaymaz ve Beylikova bölgelerindeki çevre odaklı projelere değinen Kumru, kent içi çevre yolu ve hava yolu ulaşımındaki tıkanıklıkların çözümü için çalışmalarını sürdüreceklerini belirtti. Kumru ayrıca okul çevrelerindeki güvenlik tedbirlerine, Kocakır TOKİ bölgesinin sosyal donatı ihtiyaçlarına ve Emek Mahallesi'ndeki lise talebine işaret etti.
-
-Bünyelerindeki 23 mahalle meclisi ve 14 çalışma grubuyla vatandaşların taleplerini aktarmayı sürdüreceklerini dile getiren Kumru, Türkiye genelindeki yaklaşık 400 kent konseyi arasında ilk beş içerisinde yer aldıklarını ifade etti. Etkinlik kapsamında Ekrem Borazan'ın karikatür sergisi ile Yörükkırka Efeleri'nin zeybek gösterisi de katılımcılara sunuldu.
 
 ---
