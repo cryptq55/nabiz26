@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## İlkokulda Gerçeği Aratmayan Tatbikat: Miniklere Deprem ve Yangın Eğitimi
+
+**Eğitim · Tepebaşı** · 2026-11-14 05:03 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/esoguden-ilkokullarda-uygulamali-deprem-ve-yangin-egitimleri-515580824)
+
+> ESOGÜ ve AFAD iş birliğiyle Reşat Benli İlkokulu'nda düzenlenen uygulamalı eğitimde, öğrencilere deprem ve yangın anında yapılması gerekenler tatbikatla anlatıldı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ), "Dirençli Toplum İçin Erken Yaşta Afet Bilinci" sloganıyla başlattığı ilkokullara yönelik uygulamalı afet eğitimlerini sürdürüyor. 12 Kasım Afet Eğitimi Hazırlık Günü kapsamında Reşat Benli İlkokulu'nda gerçekleştirilen etkinlikte, öğrenci ve öğretmenlere afet anında sergilenecek doğru davranış modelleri ile tahliye adımları uygulamalı olarak aktarıldı.
+
+Yükseköğretim Kurulu (YÖK) Bilim İletişimi Ofisi öncülüğünde yürütülen "Bilim Kafe" etkinlikleri çerçevesinde düzenlenen organizasyona ESOGÜ birimleri, ESOGÜ Arama Kurtarma Ekibi (ESOGÜAK), Afet ve Acil Durum Farkındalık Kulübü, Eskişehir AFAD İl Müdürlüğü ile Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi (MEBAKUB) destek sağladı. Okul bahçesinde kurulan stantlar ve gerçekleştirilen tatbikatlarla öğrencilere arama kurtarma çalışmaları hakkında bilgi verildi.
+
+Eğitim sürecinde ESOGÜ Eğitim ve Öğretimde Mükemmeliyet Merkezi Müdürü Prof. Dr. Ersin Karademir, ESOGÜAK Sivil Savunma Uzmanı Serap Bozdemir ve AFAD personeli görev aldı. Programla çocukların öğrendikleri doğru davranışları aileleri ve çevreleriyle paylaşarak afet farkındalığını yaygınlaştırması amaçlanırken, benzer bilinçlendirme çalışmalarının farklı okullarda devam edeceği kaydedildi.
+
+---
+
+## CHP'den Emekli Aylığı Çağrısı: En Düşük Maaş 40 Bin Lira Olmalı
+
+**Siyaset · Türkiye** · 2026-11-14 05:03 UTC · Kaynak: [Google Haberler - CHP](https://ankara-etimesgut.chp.org.tr/haberler/muslim-sari-en-dusuk-emekli-maasi-1-ocaktan-tibaren-40-bin-liraya-cikarilmali)
+
+> CHP Sözcüsü Müslim Sarı, açlık sınırının 38 bin lirayı aştığını belirterek en düşük emekli maaşının 1 Ocak itibarıyla 40 bin liraya yükseltilmesini önerdiklerini söyledi.
+
+CHP Sözcüsü Müslim Sarı, Genel Başkan Yardımcısı Tahsin Tarhan ile birlikte CHP Kocaeli İl Başkanlığı'nda düzenlediği basın toplantısında ekonomi gündemine ilişkin değerlendirmelerde bulundu. Sarı, partisinin ücret politikasının "sıfır açlık" esasına dayandığını vurgulayarak hiçbir ücretin ve gelirin açlık sınırının altında kalmaması gerektiğini ifade etti.
+
+Açlık sınırının 38 bin liraya ulaştığını ve yıl sonunda 40 bin lirayı bulmasının beklendiğini belirten Sarı, 23 bin lira seviyesindeki en düşük emekli maaşının 1 Ocak'tan itibaren yaklaşık yüzde 70 artışla 40 bin liraya çıkarılması çağrısında bulundu. Sarı, geçmiş yıllara kıyasla emekli aylıklarının kişi başına düşen milli gelir artışının oldukça gerisinde kaldığını savundu.
+
+Ekonomide yaşanan gelişmelere de değinen Sarı; konkordato ilan eden firma sayısının 5 binin üzerine çıktığını, işsizliğin ve hayat pahalılığının yükseldiğini ifade etti. Borsadaki manipülasyon iddiaları ve fon krizine ilişkin yürütülen soruşturmaların siyasi ayağının da aydınlatılması gerektiğini dile getiren Sarı, denetim görevini ihmal eden sorumluların ortaya çıkarılmasını istedi.
+
+Gazetecilerin sorularını da yanıtlayan CHP Sözcüsü Sarı, cumhurbaşkanlığı adaylığı ve ittifak tartışmaları için henüz erken olduğunu belirterek partinin şu aşamada bu yönde bir görüşmesi bulunmadığını, önceliklerinin saha çalışmalarıyla halkın sorunlarını dinlemek olduğunu sözlerine ekledi.
+
+---
+
 ## Togg Engelli Raporuyla ÖTV'siz Alınabiliyor: İşte Kapsamdaki Modeller ve Şartlar
 
 **Ekonomi · Türkiye** · 2026-11-14 01:28 UTC · Kaynak: [Google Haberler - Togg](https://www.engelolma.net/engelli-arac/togg-engelli-raporuyla-otvsiz-alinabilir-mi/400032)
@@ -445,37 +475,5 @@ Tepebaşı Belediyesi Fen İşleri Müdürlüğü ekipleri, ilçe genelindeki yo
 Çalışmaları sahada takip eden Tepebaşı Belediye Başkanı Ahmet Ataç, ekiplerden gelinen son aşama hakkında bilgi aldı. İncelemelerin ardından mahalle sakinleriyle buluşan Ataç, vatandaşların talep ve önerilerini dinledi. Ulaşımı daha güvenli ve konforlu hale getirmeyi amaçladıklarını vurgulayan Ataç, hem sahada görev yapan personellere hem de destek veren bölge halkına teşekkür etti.
 
 Belediyeden yapılan bilgilendirmeye göre, Şeker Mahallesi’ndeki yol düzenleme çalışmalarının tamamlanmasının ardından ekipler plan doğrultusunda Işıklar ve Mamure mahallelerinde de asfalt yenileme mesaisine başlayacak.
-
----
-
-## Karakurt'tan Kurtuluş Savaşı'na: Eskişehirli öğretmenler kent tarihini müzelerde inceledi
-
-**Eğitim · Odunpazarı** · 2026-11-13 07:49 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-ogretmenler-kentin-tarihi-ve-kulturel-mirasini-muzelerde-tanidi-119519307)
-
-![](data/images/3e7c2817252fed86.jpg)
-
-> Eskişehir Öğretmen Akademileri bünyesinde düzenlenen özel gezi programıyla öğretmenler, kentin binlerce yıllık tarihi ve sanayi mirasını müzelerde yerinde gördü.
-
-İl Milli Eğitim Müdürlüğünden yapılan açıklamaya göre, Eskişehir Öğretmen Akademileri bünyesinde faaliyet gösteren Şehir ve Kültür Akademisi tarafından öğretmenlere yönelik kapsamlı bir müze gezisi düzenlendi.
-
-Program kapsamında ilk olarak Eskişehir Ticaret ve Sanayi Müzesi'ni ziyaret eden eğitimciler; Frig uygarlığından kentin ticaret ve sanayi geçmişine, geleneksel lületaşı ustalığından Karakurt lokomotifi ve Türkiye'nin ilk yerli otomobili Devrim'e uzanan koleksiyonu inceledi.
-
-Gezinin ikinci durağı ise Eskişehir Kurtuluş Müzesi oldu. Burada Milli Mücadele dönemine ait tarihi belgeleri, dönemin gazete ve karikatürlerini inceleyen öğretmenler, Birinci İnönü Savaşı'nın aktarıldığı Strateji Odası hakkında da ayrıntılı bilgi aldı.
-
----
-
-## COP31'de 102 lider ağırlandı: Duran'dan iklim diplomasisi mesajı
-
-**Türkiye · Türkiye** · 2026-11-13 07:49 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-cop31-liderler-zirvesi-mesaji)
-
-![](data/images/4743a3d948c3b473.jpg)
-
-> İletişim Başkanı Burhanettin Duran, Antalya'da düzenlenen COP31 Liderler Zirvesi kapsamında 6 kıtadan 95 ülkenin lideri ve 7 uluslararası kuruluş başkanı olmak üzere toplam 102 liderin ağırlandığını duyurdu.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'nın ev sahipliğinde gerçekleştirilen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Liderler Zirvesi'ne ilişkin değerlendirmelerde bulundu. Duran, zirve kapsamında sözleşmeye taraf 196 ülke ile Avrupa Birliği'nin bir araya geldiğini, Türkiye'nin ise diyaloğu, uzlaşıyı ve somut eylemi merkeze alan bir iklim diplomasisi yürüttüğünü kaydetti.
-
-Zirvede toplam 102 liderin Türkiye'de misafir edildiğini belirten Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın zirvede yaptığı çağrıya işaret etti. Erdoğan'ın "İnsanlığın tek bir çatısı vardır, o da gökyüzüdür; tek bir bahçesi vardır, o da yeryüzüdür. Başka bir gökyüzümüz, başka bir yeryüzümüz yoktur" sözlerini anımsatan Duran, iklim adaleti konuşulurken insani değerlerin ve vicdanın da öne çıkarıldığını ifade etti.
-
-İklim kriziyle mücadelenin aynı zamanda insana, toprağa ve geleceğe sahip çıkma mücadelesi olduğunu vurgulayan Duran, Gazze'deki duruma dikkat çekerek Cumhurbaşkanı Erdoğan'ın 11 Kasım Millî Ağaçlandırma Günü kapsamında BM Genel Sekreteri Antonio Guterres ile birlikte diktiği zeytin fidanının anlamlı bir iradeyi simgelediğini dile getirdi. Duran, gelecek kuşaklara bırakılacak en değerli mirasın daha temiz, yeşil ve adil bir dünya olacağını belirtti.
 
 ---
