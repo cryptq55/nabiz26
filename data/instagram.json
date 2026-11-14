@@ -481,7 +481,8 @@
   "202611131904-eskisehirden-sabiha-gokcene-seferler-basladi-iste-saatler-ve-bilet-fiy",
   "202611131904-halkbanktan-togga-48-ay-vadeli-kredi-tahsis-ucreti-alinmayacak",
   "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor",
-  "202611140600-altin-fiyatlari-14-kasim-2026-gram-altin-6-368-49-tl"
+  "202611140600-altin-fiyatlari-14-kasim-2026-gram-altin-6-368-49-tl",
+  "202611140703-tarihi-haci-halit-konagi-etnografya-muzesi-oluyor-calismalar-son-asama"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -670,10 +671,11 @@
   "202611131304-uluslararasi-eskisehir-siir-bulusmasi-basladi-minikler-doganin-sesini-",
   "202611131105-talat-yalazin-davasinda-ilk-durusma-goruldu-dava-3-aralika-ertelendi",
   "202611131904-eskisehirden-sabiha-gokcene-seferler-basladi-iste-saatler-ve-bilet-fiy",
-  "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor"
+  "202611132103-uluondere-yeni-eski-abone-merkezi-ve-ucretsiz-otopark-geliyor",
+  "202611140703-tarihi-haci-halit-konagi-etnografya-muzesi-oluyor-calismalar-son-asama",
+  "202611140600-altin-fiyatlari-14-kasim-2026-gram-altin-6-368-49-tl"
  ],
  "log": [
-  1794549918.3995583,
   1794575238.8410258,
   1794575291.8924263,
   1794575307.5538611,
@@ -683,7 +685,10 @@
   1794582664.3818674,
   1794636251.808848,
   1794636323.7588685,
-  1794636339.9885929
+  1794636339.9885929,
+  1794640014.4316146,
+  1794640114.1569076,
+  1794640131.4860919
  ],
  "reel_log": [
   1794575238.8410275,
@@ -691,6 +696,8 @@
   1794582519.567631,
   1794582634.9148974,
   1794636251.8088496,
-  1794636323.7588706
+  1794636323.7588706,
+  1794640014.4316168,
+  1794640114.1569092
  ]
 }
