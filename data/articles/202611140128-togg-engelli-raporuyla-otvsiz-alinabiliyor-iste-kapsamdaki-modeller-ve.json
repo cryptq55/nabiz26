@@ -22,11 +22,11 @@
     "title": "Togg Engelli Raporuyla ÖTV'siz Alınabilir mi? Fiyat ve Şartlar - Engelolma.net",
     "url": "https://www.engelolma.net/engelli-arac/togg-engelli-raporuyla-otvsiz-alinabilir-mi/400032"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Togg T10X",
       "Togg T10F"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

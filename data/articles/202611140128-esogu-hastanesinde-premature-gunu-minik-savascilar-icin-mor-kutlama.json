@@ -21,10 +21,10 @@
     "title": "ESOGÜ Hastanesi'nde Dünya Prematüre Günü'ne özel etkinlik - Eskişehir Yenigün Gazetesi",
     "url": "https://www.esyenigun.com/esogu-hastanesinde-dunya-premature-gunune-ozel-etkinlik"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
