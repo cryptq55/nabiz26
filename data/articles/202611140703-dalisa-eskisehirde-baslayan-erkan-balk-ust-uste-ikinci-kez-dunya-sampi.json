@@ -22,10 +22,10 @@
     "title": "Eskişehir'de başladı, dünya şampiyonu oldu - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-basladi-dunya-sampiyonu-oldu-2464608"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Erkan Balk"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
