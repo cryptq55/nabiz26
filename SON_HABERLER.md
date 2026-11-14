@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bakan Tekin COP31 Heyetiyle Çevreci Anaokulunu İnceledi
+
+**Eğitim · Türkiye** · 2026-11-14 22:59 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-cop31039in-quotegitimquot-temali-gununde-katilimcilarla-bir-araya-geldi/haber/42520/tr)
+
+![](data/images/43fdf8440844feee.jpg)
+
+> Millî Eğitim Bakanı Yusuf Tekin, COP31 zirvesi kapsamında yabancı heyet üyeleriyle Antalya'daki çevreci uygulamalarıyla öne çıkan anaokulunu ziyaret etti.
+
+Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) "Çocuklar, Gençlik, Eğitim ve Beceriler" temalı gününde çeşitli temaslar gerçekleştirildi. Millî Eğitim Bakanı Yusuf Tekin, zirve alanındaki oturumların ardından Mavi Bölge'deki Çocuk ve Gençlik pavilyonunun açılışını yaptı.
+
+Bakan Tekin, Memur-Sen ve Uluslararası Emek Konfederasyonu tarafından hazırlanan ve Gazze'deki çevresel ile insani yıkımı anlatan "Dönüş Umudu: El-Avde-Zeytin Ağacı Hikayesi" sergisini inceledi. Zirve alanındaki stantları gezen Tekin, öğrenciler ve sivil toplum temsilcileriyle bir araya geldi.
+
+Temaslar kapsamında Bakanlar Oturumu'na katılan yabancı heyetlerle yemekte buluşan Tekin, daha sonra konuk bakan ve temsilcilerle Muratpaşa'daki 15 Temmuz Şehitler Anaokuluna geçti. Ziyarette Nepal Eğitim ve Spor Bakanı Sasmit Pokharel, UNESCO ve OECD temsilcileri de yer aldı. Heyet, okulun mini serasını, doğa temelli öğrenme ve sürdürülebilir yaşam becerileri atölyelerini yerinde inceleyerek öğretmenlerden bilgi aldı.
+
+---
+
 ## Lider Eskişehirspor'da Gözler Ayvalıkgücü Randevusunda: Hazırlıklar Sürüyor
 
 **Spor · Tepebaşı** · 2026-11-14 19:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyagazete.com/haber/eskisehirsporda-ayvalikgucu-belediyespor-maci-hazirliklari-suruyor)
@@ -457,21 +473,5 @@ SEGBİS üzerinden ifade veren sanık Bayram S, olay yerine gittiğinde taraflar
 Tanık ve sanık ifadelerini dinleyen mahkeme heyeti ara kararını açıkladı. Tutuklu sanıklardan Bayram S.'nin yurt dışına çıkış yasağı ve imza yükümlülüğü şartıyla tahliyesine karar verilirken, 3 sanığın tutukluluk halinin devamına hükmedildi. Duruşma ileri bir tarihe ertelendi.
 
 Geçen yıl meydana gelen olayda kurşunların hedefi olan Volkan Taşdelen ve Enes Öz ağır yaralı olarak kaldırıldıkları hastanede hayatını kaybetmiş, Ali Han D. ise tedavisinin ardından adli kontrolle serbest bırakılmıştı.
-
----
-
-## Türkiye İklim Okulu'nda Dünya Gençleri İklim Dezenformasyonunu Tartıştı
-
-**Eğitim · Türkiye** · 2026-11-13 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/farkli-ulkelerden-gencler-turkiye-iklim-okulunda-iklim-degisikligiyle-mucadeleyi-ele-aldi/haber/42504/tr)
-
-![](data/images/99193bac44b5e5c9.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında Millî Eğitim Bakanlığı tarafından kurulan Türkiye İklim Okulu, farklı ülkelerden gençlerin katıldığı çevre ve eğitim atölyelerine ev sahipliği yaptı.
-
-Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Millî Eğitim Bakanlığı tarafından hayata geçirilen Türkiye İklim Okulu, uluslararası etkinliklerle çok sayıda ziyaretçiyi ağırlamaya devam ediyor. Etkinlikler çerçevesinde Türkiye'nin üyesi olduğu UNESCO Yeşil Eğitim Ortaklığının 4. Dönem Çalışma Grubu Toplantısı konferans salonunda yapılarak iklim kriziyle mücadele yöntemleri ele alındı.
-
-OECD iş birliğinde organize edilen atölyede ise Özbekistan, Bahamalar ve Meksika gibi ülkelerden gelen genç aktivistler ile çeşitli sektör temsilcileri buluştu. Gençler yuvarlak masa toplantısında iklim eğitimi, güvenilir bilgi kaynaklarına erişim ve çevre konularındaki dezenformasyonla mücadele deneyimlerini paylaştı. Programda OECD analisti Mario Piacentini ile İklim Eğitimi Ofisi araştırmacısı Elena Pasquinelli, doğru bilgiye ulaşma ve eleştirel düşünme üzerine değerlendirmelerde bulundu.
-
-Öte yandan okul bünyesindeki atölyeler ve deneyim alanları öğrencilerin de yoğun ilgisini çekti. Konferansı aileleriyle ziyaret eden çocuklar ve öğrenciler, iklim deneyim ve teknoloji alanlarında uygulamalı etkinliklerle çevre bilinci kazandı.
 
 ---
