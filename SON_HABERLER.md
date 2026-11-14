@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Erdoğan'dan Malatya'da Şehit Düşen 4 Askerin Ailesine Taziye Mesajı
+
+**Siyaset · Türkiye** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](http://mobil.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-malatyada-sehit-olan-askerler-icin-taziye-mesaji-43378181)
+
+![](data/images/1c1bc766f2055664.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Malatya'da askeri helikopterin kaza kırıma uğraması sonucu şehit olan 4 askerin ailesine başsağlığı mesajı gönderdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Malatya'da meydana gelen helikopter kazasında şehit düşen askerlerin ailelerine taziye dileklerini iletti.
+
+Edinilen bilgiye göre Cumhurbaşkanı Erdoğan, 12 Kasım'da Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan Kara Pilot Binbaşı Erdem Çimen, Kara Pilot Binbaşı Orhun Pınar, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder'in ailelerine başsağlığı mesajı gönderdi.
+
+Erdoğan, mesajında şehitlerin ailelerine sabır ve başsağlığı temennisinde bulundu.
+
+---
+
+## Başkan Kurt'tan Kazan'da Yatırım ve Kentsel Gelişim Temasları
+
+**Belediye · Odunpazarı** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/kazim-kurttan-kazanda-is-birligi-temaslari)
+
+![](data/images/4259f150a8cdaa1f.jpg)
+
+> Tataristan'ın başkenti Kazan'da temaslarda bulunan Odunpazarı Belediye Başkanı Kazım Kurt, yatırım, kentsel gelişim ve eğitim alanlarında iş birliği görüşmeleri gerçekleştirdi.
+
+Odunpazarı Belediye Başkanı Kazım Kurt, Tataristan'ın başkenti Kazan'da yürüttüğü temaslar kapsamında çeşitli kurum ve kuruluşların temsilcileriyle bir araya geldi. Görüşmelerde Odunpazarı için yatırım olanakları, kentsel dönüşüm ve gelişim projeleri ile eğitim alanındaki ortak çalışma imkanları masaya yatırıldı.
+
+Ziyaret programı çerçevesinde Tataristan Yatırım Geliştirme Ajansı Başkanı Taliya Minullina ile bir araya gelen Kurt, yatırım fırsatları ve teşvikleri değerlendirdi. Kurt ayrıca Türkiye Cumhuriyeti Kazan Başkonsolosu Uğur Yılmaz ile de görüşme gerçekleştirdi. Bölgedeki genç mimarlarla da buluşan Başkan Kurt, Odunpazarı'nda hayata geçirilen şehircilik uygulamalarını aktararak ortak projeler üzerine fikir alışverişinde bulundu.
+
+Eğitim alanındaki temasları kapsamında Kazan Öğretmen Evi Müdürü Albert Ahmetov eşliğinde öğretmenlerin mesleki gelişimi için kurulan yeni merkezi inceleyen Kurt, temaslarını tamamladı. Ziyaretin ardından değerlendirmede bulunan Kurt, kente yeni fikirler, güçlü dostluklar ve Odunpazarı için uygulanabilecek iş birliği imkanlarıyla veda ettiklerini belirterek ev sahipliği yapan yetkililere teşekkür etti.
+
+---
+
+## Bakan Yumaklı Duyurdu: Iğdır'da 109 Bin Dekarlık Sulama Projesinde İhale Tamamlandı
+
+**Tarım · Türkiye** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yesiligdir.com/tarim-bakanligi-acikladi-igdira-dev-yatirim)
+
+![](data/images/c91d744bbfd988b5.jpg)
+
+> Tarım ve Orman Bakanlığı, Iğdır'da 109 bin 820 dekar tarım arazisini modern sulama altyapısına kavuşturacak projenin ihalesinin yapıldığını duyurdu.
+
+Tarım ve Orman Bakanı İbrahim Yumaklı, Iğdır'daki tarım arazilerini basınçlı borulu sulama sistemiyle buluşturacak kapsamlı yatırım projesinin ihale sürecinin tamamlandığını açıkladı. Proje kapsamında Ünlendi Barajı ile Kamışlı ve Göktaş regülatörlerinden temin edilen su, kapalı boru sistemiyle arazilere ulaştırılacak.
+
+Sosyal medya hesabı üzerinden yatırımın teknik detaylarını paylaşan Bakan Yumaklı, çalışma çerçevesinde 421 bin 905 metre uzunluğunda boru hattı inşa edileceğini ve toplam 109 bin 820 dekar arazinin sulamaya açılacağını bildirdi.
+
+Projenin arazi düzenlemesini de içerdiğini belirten Yumaklı, 143 bin 110 dekar alanda arazi toplulaştırması yürütüleceğini ve 27 yerleşim biriminde yerinde toplulaştırma faaliyeti gerçekleştirileceğini kaydetti.
+
+---
+
 ## Yenikent'te tramvay ile otobüs çarpıştı: Seferlerde aksama yaşandı
 
 **Ulaşım · Odunpazarı** · 2026-11-14 11:04 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-toplu-ulasimda-kaza-panigi--tramvay-ile-otobus-carpisti-298072.html)
@@ -425,57 +473,5 @@ Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar 
 Zirve kapsamında düzenlenen panellerde Eskişehir'de hayata geçirilen uygulamalardan örnekler veren Ünlüce, katı atık bertaraf tesisinde çöpten enerji üretildiğini ve oluşan ısıyla seralarda gıda ile peyzaj bitkileri yetiştirildiğini aktardı. Ayrıca kentteki ortak akıl merkezi "a.d.a", kırsal kalkınmayı destekleyen Çiftçi Destekleme ve Eğitim Merkezi (ÇİDEM), Küllüoba ekmeği ve Sakarya Vadisi'nde üretilen Dorlion zeytinyağı projeleri de katılımcılara tanıtıldı.
 
 Başkan Ünlüce, sürdürülebilir gıda sistemleri ve döngüsel gastronomi oturumunda ise gıda israfıyla mücadelenin ve atıkların yeniden değerlendirilmesinin sera gazı emisyonlarını düşürmedeki kritik rolüne işaret etti.
-
----
-
-## Başkan Kurt Uluslararası REBUS Forumu'nda Odunpazarı'nı Anlattı
-
-**Belediye · Odunpazarı** · 2026-11-13 13:04 UTC · Kaynak: [Google Haberler - Odunpazarı](http://yozgatgazetesi.com/iha-haberleri/kazim-kurt-uluslararasi-rebus-2026-forumu-nda-odunpazari-ni-anlatti-305333.html)
-
-![](data/images/2b1ff7c7d17b71ae.jpg)
-
-> Tataristan'ın başkenti Kazan'da düzenlenen 4. Uluslararası REBUS Forumu'na konuşmacı olarak katılan Odunpazarı Belediye Başkanı Kazım Kurt, ilçedeki koruma ve restorasyon deneyimlerini paylaştı.
-
-Rusya’nın Tataristan Cumhuriyeti’ne bağlı Kazan kentinde düzenlenen 4. Uluslararası REBUS 2026 Forumu'nda tarihî yerleşimlerin korunması ve sürdürülebilir kentsel gelişim ele alındı. Tataristan Cumhuriyeti Reisi Rüstem Minnihanov’un himayesinde Kazan EXPO'da yapılan foruma, Odunpazarı Belediye Başkanı Kazım Kurt da konuşmacı olarak davet edildi.
-
-Rusya'nın 65 bölgesinin yanı sıra BRICS+, Şanghay İşbirliği Örgütü ve BDT üyesi ülkelerden çok sayıda heyetin katıldığı genel oturumda söz alan Başkan Kurt, Odunpazarı'nın tarihî kimliğini, yürütülen koruma çalışmalarını ve hayata geçirilen projeleri uluslararası delegelere aktardı. Toplantıda kentsel yenileme, tarihî dokunun ekonomik gelişmeyle uyumu, mekânsal planlama ve ekoloji gibi başlıklar üzerinde duruldu.
-
-Forumun ardından açıklamada bulunan Başkan Kazım Kurt, farklı ülkelerin kültürel mirası koruma yaklaşımlarını incelemenin önemine değindi. Kurt, "Odunpazarı’mızın tarihî dokusunu ve bu alanda yürüttüğümüz çalışmaları uluslararası katılımcılarla paylaşma fırsatı bulduk. Kentlerin geçmişiyle geleceği arasında bağ kurma yöntemlerini dinlemek son derece kıymetliydi" ifadelerini kullanarak organizasyonda emeği geçen Tataristan yetkililerine teşekkür etti.
-
----
-
-## Bakan Bayraktar Duyurdu: Akkuyu'da İlk Nükleer Reaktör Birkaç Haftaya Başlatılıyor
-
-**Türkiye · Türkiye** · 2026-11-13 13:04 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31974)
-
-![](data/images/5b66814e1a13ad21.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin ilk nükleer güç reaktörünün fiziksel başlatmasının birkaç hafta içinde Akkuyu'da gerçekleştirileceğini açıkladı.
-
-Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen Dünya Atom Günleri etkinliğinde konuşan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin enerji dönüşümü ve nükleer hedeflerine ilişkin kritik açıklamalarda bulundu.
-
-İnşası süren Akkuyu Nükleer Güç Santrali'ndeki son duruma değinen Bakan Bayraktar, Türkiye'nin ilk nükleer güç reaktörünün fiziksel başlatmasının önümüzdeki birkaç hafta içinde yapılacağını duyurdu. Bayraktar, Türkiye'nin 2035 yılına kadar ekonomide yüzde 35 elektrifikasyon hedefi belirlediğini ve bu zorlu hedefe ulaşmak için nükleer enerjiye kesin bir ihtiyaç duyulduğunu belirtti.
-
-Türkiye'nin 2050 yılına kadar büyük reaktörler ve küçük modüler reaktörlerin (SMR) birleşimiyle toplam 20 gigavatlık nükleer kapasiteye ulaşmayı planladığını ifade eden Bayraktar, bu sayede elektrik ihtiyacının en az yüzde 10 ila 12'sinin temiz kaynaklardan temin edileceğini ve karbon emisyonlarının düşürüleceğini kaydetti.
-
-Nükleer enerji programındaki yerlileşme adımlarına da dikkat çeken Bakan Bayraktar, Akkuyu projesinde yerlilik oranının yüzde 50'nin üzerine çıktığını ve Rusya'da eğitim alan 300'ü aşkın Türk uzmanın projede görev yaptığını sözlerine ekledi.
-
----
-
-## Talat Yalaz'ın davasında ilk duruşma görüldü: Dava 3 Aralık'a ertelendi
-
-**Siyaset · Merkez** · 2026-11-13 11:05 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://yerel-haberler.haberturk.com/eskisehir-haberleri/yeni-parti-eskisehir-il-baskani-talat-yalazin-yargilanmasina-baslandi-119519875)
-
-![](data/images/6baabf555aa67489.jpg)
-
-> Eskişehir'de yaptığı basın açıklamasındaki ifadeleri gerekçesiyle hakkında hapis ve siyasi yasak talebiyle dava açılan Talat Yalaz'ın yargılanmasına başlandı.
-
-CHP İl Başkanlığı yaptığı dönemde gerçekleştirdiği bir basın açıklamasındaki sözleri gerekçe gösterilerek "halkı kanunlara uymamaya tahrik" suçlamasıyla hakkında dava açılan Talat Yalaz'ın yargılanmasına Eskişehir 5. Asliye Ceza Mahkemesinde başlandı.
-
-İlk duruşmaya şehir dışında olduğu belirtilen Talat Yalaz katılmazken, kendisini avukatı Tevfik Yıldırım temsil etti. Duruşmada söz alan Avukat Yıldırım, soruşturma aşamasına dair tanık dinlenmesi yönündeki talebini mahkeme heyetine iletti.
-
-Mahkeme, dava dosyasındaki eksik hususların giderilmesine karar vererek duruşmayı 3 Aralık tarihine erteledi.
-
-Eskişehir Cumhuriyet Başsavcılığı tarafından hazırlanan iddianamede, 20 Temmuz 2024 tarihinde Hayvanları Koruma Kanunu'nda yapılması planlanan değişikliklere karşı düzenlenen basın açıklamasındaki ifadeler gerekçe gösterilmişti. Yalaz hakkında 6 aydan 2 yıla kadar hapis cezası ile siyasi yasak getirilmesi talep ediliyor.
 
 ---
