@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tarihi Hacı Halit Konağı Etnografya Müzesi Oluyor: Çalışmalar Son Aşamada
+
+**Kültür-Sanat · Mihalıççık** · 2026-11-14 07:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/eskisehir-e-yeni-muze-geliyor--tarihi-binada-calismalar-son-asamada--297999.html)
+
+![](data/images/ddb0cf8f5d154506.jpg)
+
+> Eskişehir'in Mihalıççık ilçesinde yer alan tarihi Hacı Halit Konağı, etnografya müzesine dönüştürülüyor. Çalışmalarda son aşamaya gelindi.
+
+Eskişehir'in Mihalıççık ilçe merkezine yaklaşık 32 kilometre mesafede yer alan tarihi Hacı Halit Konağı, kentin yeni etnografya müzesi olmaya hazırlanıyor. Tarihi yapının restore edilerek müzeye dönüştürülmesi sürecinde yürütülen çalışmalarda son aşamaya gelindiği bildirildi.
+
+Müzede sergilenecek etnografik eserlerin Eskişehir Müze Müdürlüğü envanterinden karşılanacağı kaydedildi. Proje kapsamında ildeki müze depolarında ve kayıtlarında yer alan tarihi eserler, düzenlenecek sergi alanlarıyla tarihi konakta halkın ziyaretine açılacak.
+
+Öte yandan, konağın bulunduğu mahallenin ilçe merkezine mesafesi ve ulaşım imkânlarının kısıtlı olması bazı soru işaretlerini de beraberinde getirdi. Bazı ilgililer, Eskişehir genelinde bağımsız bir etnografya müzesi bulunmazken projenin ulaşımı zor bir kırsal yerleşime kurulmasını eleştirerek ziyaretçi sayısının beklenenden düşük kalabileceği yönünde görüş bildirdi. Müzenin hizmete girmesiyle birlikte ulaşım ve ziyaretçi erişimine dönük adımların nasıl şekilleneceği bekleniyor.
+
+---
+
+## Dalışa Eskişehir'de Başlayan Erkan Balk Üst Üste İkinci Kez Dünya Şampiyonu
+
+**Spor · Merkez** · 2026-11-14 07:03 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-basladi-dunya-sampiyonu-oldu-2464608)
+
+> Su altı görüntüleme milli sporcusu Erkan Balk, Bali'de düzenlenen şampiyonada 'Okyanusun Senfonisi' adlı çalışmasıyla üst üste ikinci kez dünya şampiyonluğunu kazandı.
+
+Türkiye Sualtı Sporları Federasyonu (TSSF) milli sporcusu Erkan Balk, su altı görüntüleme dalında uluslararası alanda önemli bir başarıya imza attı. 2023 yılında Küba'da dalış eşi Akın Bağcılar ile birlikte video kategorisinde dünya şampiyonu olarak Türkiye tarihinde bu alanda ilk kez podyuma çıkan Balk, bu unvanını korudu.
+
+Endonezya'nın Bali adasında gerçekleştirilen dünya şampiyonasında doğanın seslerini arayan bir müzisyenin hikayesini konu alan "Okyanusun Senfonisi" isimli kısa filmiyle yarışan Balk, üst üste ikinci kez dünya şampiyonluğuna ulaştı. Yaklaşık 23 yıldır tüplü dalışla ilgilenen ve 4 yıldır uluslararası arenada Türkiye'yi temsil eden milli sporcu, su altı belgeselciliğinde farklı temaları işleyerek başarıya ulaştıklarını belirtti.
+
+Elde edilen başarının 7-8 aylık yoğun bir hazırlık döneminin sonucu olduğunu ifade eden Balk, su altı dünyasında müziği bir araya getiren hikayenin jüri üzerinde derin bir etki bıraktığını söyledi. Balk, federasyonun ve bakanlığın desteğiyle elde edilen bu tecrübeleri yeni yetişen sporculara aktararak başarının kalıcı olmasını hedeflediklerini kaydetti.
+
+---
+
 ## Altın fiyatları 14 Kasım 2026: Gram altın 6.368,49 TL
 
 **Ekonomi · Merkez** · 2026-11-14 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -449,37 +479,5 @@ Temaslarına BM Genel Sekreteri Antonio Guterres ile başlayan Erdoğan; İran-A
 Liderler Zirvesi boyunca devam eden görüşmelerde Avustralya Başbakanı Anthony Albanese, Çin Devlet Başkan Yardımcısı Han Zheng, Ermenistan Başbakanı Nikol Paşinyan ve Bosna Hersek heyetiyle ikili ilişkiler değerlendirildi. Çin ile Orta Koridor, Kuşak ve Yol ile Kalkınma Yolu projelerinin uyumuna dikkat çekilirken; Ermenistan ile normalizasyon ve Azerbaycan arasındaki barış süreci masaya yatırıldı. Suudi Arabistan ile ise elektrik projelerinde iş birliğini içeren mutabakat zaptı imzalandı.
 
 Zirvenin son gününde İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir araya gelen Erdoğan, İran-ABD arasındaki çatışmaların sona ermesi için müzakere masasının kurulması gerektiğini vurguladı. Cumhurbaşkanı Erdoğan ayrıca Irak, Pakistan, Gürcistan, Kongo, Kongo DC, Sudan, Libya ve Tanzanya liderleriyle enerji, ticaret ve ulaştırma alanlarındaki iş birliğini güçlendirmeye yönelik temaslarda bulundu.
-
----
-
-## Bakan Göktaş'tan COP31'de İklim ve Göç Uyarısı: 216 Milyon Kişi Yer Değiştirebilir
-
-**Türkiye · Türkiye** · 2026-11-13 09:04 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-goktas-cop31-de-iklim-politikasi-cercevelerinde-ayristirilmis-demografik-veri-kullaniminin-hizlandirilmasi-etkinliginde-konustu/)
-
-![](data/images/7f52f0f1626f6efe.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, COP31'de yaptığı konuşmada iklim krizinin toplumsal yapıyı derinden etkilediğini ve sosyal politikaların değişen nüfus verilerine göre şekillendirileceğini açıkladı.
-
-Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında gerçekleştirilen "İklim Politikası Çerçevelerinde Ayrıştırılmış Demografik Veri Kullanımının Hızlandırılması" etkinliğinde konuşan Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, iklim ile nüfus dinamikleri arasındaki güçlü bağa dikkat çekti. Bakan Göktaş, Dünya Bankası verilerine işaret ederek 2050 yılına kadar 216 milyon kişinin iklim koşulları sebebiyle kendi ülkesi içinde göç etmek zorunda kalabileceğini ifade etti.
-
-İklim krizinin etkilerinin toplum kesimlerine göre farklılık gösterdiğini belirten Göktaş, Hükümetlerarası İklim Değişikliği Paneli verilerine göre dünya çapında 3 milyar 300 milyon ile 3 milyar 600 milyon arasında insanın iklim olaylarına karşı yüksek kırılganlık taşıdığını aktardı. Bu farklılıkların yönetilebilmesi için ayrıştırılmış demografik verilerin hayati öneme sahip olduğunu vurgulayan Bakan Göktaş, risklerin yaş, gelir ve hane yapısına göre tespit edilerek müdahale planlarının hazırlanması gerektiğini söyledi.
-
-Bakanlık olarak iklim kaynaklı değişimleri sosyal politikalara entegre ettiklerini kaydeden Göktaş, iklim krizinin kadınlar üzerindeki etkilerini araştıran saha çalışmaları yürüttüklerini belirtti. Hazırlanan sosyal risk haritalarında iç ve dış göç hareketlerinin birer gösterge olarak yer aldığını bildiren Göktaş, "Aile ve Nüfus On Yılı" vizyonu çerçevesinde sosyal hizmetlerin geleceğin değişen demografik şartlarına uygun şekilde planlanacağını sözlerine ekledi.
-
----
-
-## Vali Yılmaz'dan İHA Eskişehir Bölge Müdürlüğü'ne Ziyaret
-
-**Gündem · Merkez** · 2026-11-13 07:49 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-ihlas-haber-ajansi-iha-eskisehir-bolge-mudurlugunu-ziyaret-etti)
-
-![](data/images/6e6bb6cb6b577aca.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, İhlas Haber Ajansı Eskişehir Bölge Müdürlüğü'nü ziyaret ederek yürütülen basın çalışmaları hakkında bilgi aldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, kentteki basın kuruluşlarına yönelik temasları kapsamında İhlas Haber Ajansı (İHA) Eskişehir Bölge Müdürlüğü'ne ziyarette bulundu.
-
-Ziyarette İHA Eskişehir Bölge Müdürü Mehmet Emin Toker, Haber Müdürü Aydın Sarıoğlu ve kurum bünyesinde görev yapan muhabirlerle bir araya gelen Vali Yılmaz, ajansın kentteki ve bölgedeki haber faaliyetleri ile operasyonel çalışmaları hakkında detaylı bilgi aldı.
-
-Basın çalışanlarıyla bir süre sohbet ederek görevlerinde kolaylıklar dileyen Vali Yılmaz, yerel ve bölgesel gelişmelerin kamuoyuna aktarılmasında basın mensuplarının üstlendiği sorumluluğa işaret etti.
 
 ---
