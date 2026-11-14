@@ -2,6 +2,34 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg Engelli Raporuyla ÖTV'siz Alınabiliyor: İşte Kapsamdaki Modeller ve Şartlar
+
+**Ekonomi · Türkiye** · 2026-11-14 01:28 UTC · Kaynak: [Google Haberler - Togg](https://www.engelolma.net/engelli-arac/togg-engelli-raporuyla-otvsiz-alinabilir-mi/400032)
+
+> Yerli elektrikli otomobil Togg'un arkadan itişli T10X ve T10F modelleri, ÖTV muafiyeti üst sınırının altında kalarak engelli raporuyla satın alınabiliyor. Çift motorlu seçenekler ise sınırın üzerinde kalıyor.
+
+Türkiye'de üretilen yerli elektrikli otomobil Togg modellerinde engelli muafiyetiyle araç alımı yapılabiliyor. Yüzde 40 yerli katkı şartını karşılayan T10X ve T10F modellerinin arkadan itişli versiyonları, 2 milyon 873 bin 900 TL olarak belirlenen yasal üst sınırın altında kaldığı için muafiyet kapsamına giriyor. Yaklaşık 3,2 milyon liralık liste fiyatına sahip çift motorlu 4More donanım paketleri ise üst sınırı aştığından istisnadan yararlanamıyor.
+
+Elektrikli araçlardaki ÖTV oranının içten yanmalı motorlara kıyasla daha düşük olması, muafiyet indiriminin tutarını da doğrudan etkiliyor. Yüzde 25 ÖTV diliminde yer alan standart menzilli T10X V1 RWD modelinde muafiyet sağlandığında yaklaşık 380 bin liralık indirim elde ediliyor ve aracın maliyeti 1,53 milyon lira seviyesine iniyor.
+
+Satın alma sürecinde genel ÖTV istisnası kuralları uygulanıyor. Yüzde 90 ve üzeri engelli raporu bulunanlar ile raporunda ve ehliyetinde özel tertibat veya otomatik vites ibaresi yer alan ortopedik engelliler haktan faydalanabiliyor. On yılda bir kullanılabilen bu istisna kapsamında alınan araçların, beş yıl dolmadan muafiyet hakkı olmayan üçüncü kişilere devredilmesi halinde tahsil edilmeyen verginin ödenmesi şart koşuluyor.
+
+---
+
+## ESOGÜ Hastanesi'nde Prematüre Günü: Minik Savaşçılar İçin Mor Kutlama
+
+**Sağlık · Odunpazarı** · 2026-11-14 01:28 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esyenigun.com/esogu-hastanesinde-dunya-premature-gunune-ozel-etkinlik)
+
+> Eskişehir Osmangazi Üniversitesi Hastanesi'nde Dünya Prematüre Günü dolayısıyla düzenlenen etkinlikte, erken doğan bebeklerin hayata tutunma mücadelesine dikkat çekildi.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Sağlık, Uygulama ve Araştırma Hastanesi Yenidoğan Yoğun Bakım Ünitesi bünyesinde Dünya Prematüre Günü kapsamında özel bir program düzenlendi. Etkinliğe Tıp Fakültesi Dekanı Prof. Dr. Koray Harmancı, Hastane Başhekimi Prof. Dr. Haluk Hüseyin Gürsoy, Başhekim Yardımcısı Doç. Dr. Gürkan Bozan ile akademisyenler ve sağlık yöneticileri katıldı.
+
+Programda değerlendirmelerde bulunan Çocuk Sağlığı ve Hastalıkları Ana Bilim Dalı Başkanı Prof. Dr. Özge Aydemir, günün amacının erken doğum konusunda toplumsal farkındalık oluşturmak ve ailelerin yaşadığı zorlu süreçleri gündeme taşımak olduğunu vurguladı. Prematüre Günü’nün simgesi olan mor rengin erken doğan bebeklerin hassasiyetini ve yaşama tutunma gayretini simgelediğini belirten Aydemir, bu süreçte aile desteğinin ve multidisipliner uzmanlık alanlarının koordinasyonunun hayati önemde olduğunu ifade etti.
+
+ESOGÜ Yenidoğan Yoğun Bakım Ünitesi'nin ikinci, üçüncü ve dördüncü düzey sağlık hizmetleri sunarak bölgede önemli bir referans merkezi konumunda bulunduğuna işaret eden Prof. Dr. Aydemir, uzman hekimlerden hemşirelere kadar tüm personelin büyük bir özveriyle görev yaptığını söyledi. Etkinlik kapsamında daha önce yoğun bakımda tedavi görüp sağlığına kavuşan bebeklerin ailelerinin gönderdiği video mesajlar izlenirken, mor süslemeli pastanın kesilmesiyle program tamamlandı.
+
+---
+
 ## Uluönder'e Yeni ESKİ Abone Merkezi ve Ücretsiz Otopark Geliyor
 
 **Belediye · Tepebaşı** · 2026-11-13 21:03 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/uluondere-yeni-eski-abone-servisi-geliyor)
@@ -449,37 +477,5 @@ Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Antalya'nın ev sah
 Zirvede toplam 102 liderin Türkiye'de misafir edildiğini belirten Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın zirvede yaptığı çağrıya işaret etti. Erdoğan'ın "İnsanlığın tek bir çatısı vardır, o da gökyüzüdür; tek bir bahçesi vardır, o da yeryüzüdür. Başka bir gökyüzümüz, başka bir yeryüzümüz yoktur" sözlerini anımsatan Duran, iklim adaleti konuşulurken insani değerlerin ve vicdanın da öne çıkarıldığını ifade etti.
 
 İklim kriziyle mücadelenin aynı zamanda insana, toprağa ve geleceğe sahip çıkma mücadelesi olduğunu vurgulayan Duran, Gazze'deki duruma dikkat çekerek Cumhurbaşkanı Erdoğan'ın 11 Kasım Millî Ağaçlandırma Günü kapsamında BM Genel Sekreteri Antonio Guterres ile birlikte diktiği zeytin fidanının anlamlı bir iradeyi simgelediğini dile getirdi. Duran, gelecek kuşaklara bırakılacak en değerli mirasın daha temiz, yeşil ve adil bir dünya olacağını belirtti.
-
----
-
-## Vali Yılmaz'dan Esgazete'ye Ziyaret
-
-**Gündem · Merkez** · 2026-11-13 07:44 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-esgazete-internet-haber-merkezini-ziyaret-etti)
-
-![](data/images/ad65205ea6edec40.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, Esgazete İnternet Haber Merkezi'ni ziyaret ederek kurum çalışmaları hakkında bilgi aldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, yerel medyanın çalışmalarını yerinde incelemek amacıyla Esgazete İnternet Haber Merkezi'ni ziyaret etti.
-
-Ziyaret sırasında Esgazete İmtiyaz Sahibi Mustafa Yıldırım ve Yazı İşleri Müdürü Şenay Yıldırım ile bir araya gelen Vali Yılmaz, yürütülen faaliyetler ve haber çalışmaları hakkında yetkililerden bilgi aldı.
-
-Basın mensuplarıyla bir süre sohbet eden Vali Yılmaz, gazetecilik faaliyetlerinin önemine değinerek tüm çalışanlara görevlerinde başarılar diledi.
-
----
-
-## Ünlü Edebiyatçı Feridun Andaç'tan Tepebaşı'nın Kültür Vizyonuna Övgü
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-13 07:44 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/eskisehir/unlu-edebiyatci-feridun-andactan-tepebasinin-kultur-ve-sanat-vizyonuna-ovgu)
-
-> Yazar ve akademisyen Feridun Andaç, Tepebaşı Belediyesi'ni ziyaret ederek kültür ve sanat projelerini inceledi, Başkan Ataç'ın çalışmalarının örnek olduğunu belirtti.
-
-Ünlü edebiyatçı ve akademisyen Feridun Andaç, Tepebaşı Belediye Başkanı Dt. Ahmet Ataç’ı makamında ziyaret etti. Ziyarette belediyenin kültür ve sanat alanında hayata geçirdiği projeler masaya yatırıldı.
-
-Başkan Ataç'ın kamuoyu anketlerinde yüzde 60,7 oy oranıyla İç Anadolu Bölgesi’nin en beğenilen ilçe belediye başkanı seçilmesinin tesadüf olmadığını ifade eden Feridun Andaç, Tepebaşı’nda insanı ve sanatı merkeze alan belediyecilik anlayışının Türkiye geneline örnek teşkil ettiğini dile getirdi. Hizmetlerin yalnızca altyapıyla sınırlı kalmaması gerektiğini vurgulayan Andaç, sanat ve edebiyat etkinliklerinin kente kazandırdığı değere dikkat çekti.
-
-Tepebaşı Belediye Başkanı Dt. Ahmet Ataç ise ziyaretten duyduğu memnuniyeti belirterek kültür ve sanatın bir toplumun nefesi, hafızası ve geleceği olduğunu söyledi. Kentte çocukların, gençlerin ve kadınların sanata kolayca ulaşabileceği bir yaşam alanı yaratmak için çalıştıklarını ifade eden Ataç, sanat odaklı projelerin artarak devam edeceğini kaydetti.
-
-Ziyaretin ardından Feridun Andaç ve Başkan Ataç; atık kâğıtların yeniden üretime kazandırıldığı Kâğıt Geri Dönüşüm Atölyesi’ni, Uluslararası Pişmiş Toprak Sempozyumu eserlerini ve Milli Mücadele dönemini anlatan sergiyi gezerek incelemelerde bulundu.
 
 ---
