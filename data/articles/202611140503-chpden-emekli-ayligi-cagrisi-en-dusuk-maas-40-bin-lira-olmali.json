@@ -21,10 +21,10 @@
     "title": "Müslim Sarı: \"En Düşük Emekli Maaşı 1 Ocak'tan İtibaren 40 Bin Liraya Çıkarılmalı\" - CHP Etimesgut İlçe Başkanlığı",
     "url": "https://ankara-etimesgut.chp.org.tr/haberler/muslim-sari-en-dusuk-emekli-maasi-1-ocaktan-tibaren-40-bin-liraya-cikarilmali"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Müslim Sarı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

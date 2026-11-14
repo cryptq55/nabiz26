@@ -22,10 +22,10 @@
     "title": "ESOGÜ’den ilkokullarda uygulamalı deprem ve yangın eğitimleri İhlas Haber Ajansı - İhlas Haber Ajansı",
     "url": "https://www.iha.com.tr/eskisehir-haberleri/esoguden-ilkokullarda-uygulamali-deprem-ve-yangin-egitimleri-515580824"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
