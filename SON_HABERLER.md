@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'dan Kasım Kampanyası: 1,5 Milyon Liraya Kadar Sıfır Faiz Fırsatı
+
+**Ekonomi · Türkiye** · 2026-11-14 18:47 UTC · Kaynak: [Google Haberler - Togg](https://www.haberx.com/toggtan-otomobil-almak-isteyenlere-15-milyon-tlye-kadar-faizsiz-kredi/)
+
+![](data/images/ecd738b703a0b232.jpg)
+
+> Yerli otomobil üreticisi Togg, T10X ve T10F modelleri için 1,5 milyon liraya kadar sıfır faizli finansman desteği içeren yeni kampanyasını duyurdu.
+
+Türkiye'nin yerli otomobil üreticisi Togg, Kasım 2026 dönemine ilişkin yeni finansman desteğini açıkladı. Kampanya çerçevesinde, T10X ve sedan gövdeli T10F modellerini satın almak isteyen müşterilere 1,5 milyon liraya varan faizsiz kredi imkânı sağlanıyor. Açıklanan güncel fiyat listesine göre T10X modeli 1 milyon 909 bin 48 liradan, T10F modeli ise 1 milyon 884 bin 980 liradan alıcı bekliyor.
+
+Her iki modelin V2 donanım seviyesinde tüketicilere farklı vade seçenekleriyle faizsiz finansman desteği veriliyor. Bu kapsamda 700 bin lira için 4 ay, 500 bin lira için 6 ay ve 300 bin lira için belirlenen vadelerde faiz uygulanmıyor. Performans odaklı 4More paketini tercih eden alıcılar ise 1,5 milyon liralık kredi desteğini 10 ay boyunca faizsiz kullanabiliyor. Bireysel başvurularda ayrıca 1 milyon 700 bin liraya kadar uzanan tutarlar için 48 ay vade ve aylık yüzde 2,95 faiz oranı seçeneği de sunuluyor.
+
+Kampanyada şirketler ve ticari alıcılar için de özel imkânlar yer alıyor. Kurumsal müşteriler ile şahıs şirketlerine yönelik pakette, banka onayına bağlı olarak aracın fatura tutarının tamamına kadar kredi kullanılabiliyor. Şirketlerin filo yenileme maliyetlerini hafifletmeyi amaçlayan bu uygulamanın yanı sıra, 4More donanımlı modellerde kurumsal müşteriler de 1,5 milyon liraya kadar faizsiz kredi imkânından yararlanabiliyor.
+
+---
+
 ## Kurtuluş Mahallesi'nde Kötü Kokular Üzerine Girilen Evde Acı Bulgu
 
 **Asayiş · Odunpazarı** · 2026-11-14 17:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-35-yasindaki-kisi-evinde-olu-bulundu-2556147)
@@ -455,21 +471,5 @@ Odunpazarı Belediyesi 100. Yıl Kültür Merkezi'nde düzenlenen genel kurula 2
 Genel kurulda konuşan Başkan İsmail Kumru, kentin çevre ve altyapı sorunlarına dikkat çekti. Alpagut-Atalan, Kaymaz ve Beylikova bölgelerindeki çevre odaklı projelere değinen Kumru, kent içi çevre yolu ve hava yolu ulaşımındaki tıkanıklıkların çözümü için çalışmalarını sürdüreceklerini belirtti. Kumru ayrıca okul çevrelerindeki güvenlik tedbirlerine, Kocakır TOKİ bölgesinin sosyal donatı ihtiyaçlarına ve Emek Mahallesi'ndeki lise talebine işaret etti.
 
 Bünyelerindeki 23 mahalle meclisi ve 14 çalışma grubuyla vatandaşların taleplerini aktarmayı sürdüreceklerini dile getiren Kumru, Türkiye genelindeki yaklaşık 400 kent konseyi arasında ilk beş içerisinde yer aldıklarını ifade etti. Etkinlik kapsamında Ekrem Borazan'ın karikatür sergisi ile Yörükkırka Efeleri'nin zeybek gösterisi de katılımcılara sunuldu.
-
----
-
-## Halkbank'tan Togg'a 48 Ay Vadeli Kredi: Tahsis Ücreti Alınmayacak
-
-**Ekonomi · Türkiye** · 2026-11-13 19:04 UTC · Kaynak: [Google Haberler - Togg](https://marmarabolge.com/halkbanktan-togg-alacaklara-firsat-kredi-miktari-aciklandi)
-
-![](data/images/23a51996a4e12647.jpg)
-
-> Halkbank, yerli elektrikli otomobil Togg için finansman koşullarını duyurdu. 2,5 milyon liraya kadar olan araçlarda yüzde 70'e kadar kredi ve 48 ay vade imkânı sağlanıyor.
-
-Yerli üretim elektrikli otomobil Togg'u satın almak isteyenler için Halkbank taşıt kredisi koşullarını açıkladı. Bankanın belirlediği yeni finansman şartlarına göre araç fatura bedeline bağlı olarak dört farklı vade ve kredi oranı uygulanacak. Kampanya kapsamında kullanılacak kredilerden tahsis ücreti de talep edilmeyecek.
-
-Belirlenen baremlere göre, fatura değeri 2 milyon 500 bin liraya kadar olan Togg modellerinde araç bedelinin yüzde 70'ine kadar kredi verilecek ve azami vade 48 ay olacak. Bu kapsamda 2,5 milyon liralık bir araç için en fazla 1 milyon 750 bin lira finansman sağlanabilecek. Değeri 2 milyon 500 bin lira ile 5 milyon lira arasında bulunan araçlar için yüzde 50 oran ve 36 ay vade, 5 milyon lira ile 6,5 milyon lira arasındaki araçlar için yüzde 30 oran ve 24 ay vade uygulanacak. Fatura tutarı 6,5 milyon ile 7,5 milyon lira aralığındaki modellerde ise azami oran yüzde 20, vade süresi ise 12 ay ile sınırlandırıldı.
-
-Kredi değerlendirmesinde gerçek kullanım tutarları müşterilerin gelir durumuna göre belirlenecek. Uygun faiz ve esnek ödeme koşullarının sunulduğu belirtilen Togg taşıt kredisi başvuruları ve ödeme planı detayları Halkbank şubeleri üzerinden temin edilebilecek.
 
 ---
