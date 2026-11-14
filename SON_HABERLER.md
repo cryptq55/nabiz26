@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Kadın Hentbol Takımı Sahadan Farklı Galibiyetle Ayrıldı: 43-22
+
+**Spor · Odunpazarı** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.canligaste.com/hentbol-kadinlar-super-ligi-odunpazari-ortahisar-i-43-22-yendi/949670/)
+
+> Hentbol Kadınlar Süper Ligi'nin 10. haftasında Odunpazarı, sahasında ağırladığı Ortahisar Belediyespor'u 43-22 gibi farklı bir skorla mağlup etti.
+
+Hentbol Kadınlar Süper Ligi 10. hafta mücadelesinde Odunpazarı, Porsuk Spor Salonu'nda Ortahisar Belediyespor ile karşı karşıya geldi.
+
+Mücadeleye etkili başlayan ev sahibi Odunpazarı, oyunun kontrolünü ilk dakikalardan itibaren eline aldı. Hücumda ve savunmada üstün bir performans sergileyen Eskişehir temsilcisi, soyunma odasına 20-9 önde girdi.
+
+İkinci yarıda da temposunu koruyan Odunpazarı, farkı giderek açarak salondan 43-22'lik rahat bir galibiyetle ayrılmayı başardı.
+
+---
+
+## Mihalıççık Yeni Salonundaki İlk Maçında Güçlü Rakibine 28-26 Mağlup Oldu
+
+**Spor · Mihalıççık** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.milliirade.com/mihaliccik-hentbol-takimi-yeni-tesisteki-ilk-maci-kaybetti)
+
+> Mihalıççık Belediyesi Spor Kulübü hentbol takımı, ilçede hizmete giren yeni spor tesisindeki ilk maçında İstanbul Gençlik SK'ya 28-26 yenildi.
+
+Mihalıççık Belediyesi Spor Kulübü hentbol takımı, yapımı süren spor kompleksinin tamamlanan salonunda ilk resmî müsabakasına çıktı. İlçe halkının yoğun ilgi gösterdiği karşılaşmada ev sahibi ekip, ligin güçlü takımlarından İstanbul Gençlik SK karşısında sahadan 28-26'lık mağlubiyetle ayrıldı.
+
+Karşılaşmanın ardından açıklamalarda bulunan Mihalıççık Belediye Başkanı Haydar Çorum, skora rağmen takımın sergilediği mücadeleden memnun olduğunu belirtti. Rakibin şampiyonluk yarışında iddialı ve uzun süredir birlikte oynayan bir kadroya sahip olduğuna dikkat çeken Çorum, yeni tesisin tüm rakipler için zorlu bir deplasman olacağını gösterdiklerini dile getirdi.
+
+Kulüp tarihinde ilk kez bu kadar yoğun bir taraftar atmosferi yaşadıklarını vurgulayan Çorum, maçta çok sayıda çocuk ve gencin bulunmasının kendileri için asıl kazanım olduğunu söyledi. Tesisin geri kalan bölümlerini de en kısa sürede tamamlayarak spor kompleksini bütünüyle hizmete açmayı hedeflediklerini belirten Çorum, gelecek hafta konuk edecekleri Bursa Nilüfer maçına tüm sporseverleri davet etti.
+
+---
+
+## Eskişehirspor'da Kaptan Beykan Şimşek Şoku: Ayvalıkgücü Maçında Yok
+
+**Spor · Merkez** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspora-kotu-haber-forma-giyemeyecek-2464687)
+
+![](data/images/8160c9ef9b0f88ee.jpg)
+
+> Ayvalıkgücü karşılaşması öncesinde Eskişehirspor'da kaptan Beykan Şimşek sakatlığı nedeniyle kadrodan çıkarılırken, Kerem Baykuş'un iyileşmesi yüzleri güldürdü.
+
+Bölgesel Amatör Lig'de zirve mücadelesini sürdüren Eskişehirspor'a hafta sonu oynanacak kritik Ayvalıkgücü karşılaşması öncesinde kaptanından kötü haber geldi. Siyah-kırmızılı ekibin tecrübeli ismi Beykan Şimşek, sakatlığı nedeniyle bu hafta sahada yer alamayacak.
+
+Anadolu SF ile oynanan müsabakada sağ arka adalesinden sakatlanan kaptan Şimşek'in yapılan kontrolleri ve çekilen MR tetkiklerinde küçük çaplı bir yırtık belirlendi. Sağlık ekibinin değerlendirmesi sonucunda deneyimli futbolcunun Ayvalıkgücü maçında riske edilmeyeceği bildirildi.
+
+Kaptanın yokluğuyla sarsılan kırmızı-siyahlı ekipte orta sahadan gelen haber ise teknik heyeti sevindirdi. Sakatlığı nedeniyle son iki lig karşılaşmasında takımını yalnız bırakan Kerem Baykuş'un tedavisinin tamamlandığı ve zorlu Ayvalıkgücü deplasmanında forma giyebileceği öğrenildi.
+
+---
+
+## Eskişehir'de Kış Trafiği İçin Önlemler Masada: Kurumlara Koordinasyon Uyarısı
+
+**Ulaşım · Merkez** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberes.com.tr/eskisehirde-kis-mevsimi-trafik-tedbirleri-masaya-yatirildi)
+
+![](data/images/c485169c9abd5319.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz başkanlığında toplanan yetkililer, kış aylarında kent genelinde trafik güvenliğini sağlamak amacıyla alınacak tedbirleri değerlendirdi.
+
+Eskişehir'de kış şartlarının yaklaşmasıyla birlikte trafik güvenliğini sağlamak ve kazaların önüne geçmek amacıyla Kış Mevsimi Trafik Tedbirleri Toplantısı gerçekleştirildi. Vali Dr. Erdinç Yılmaz başkanlığında düzenlenen toplantıya, kamu kurum ve kuruluşlarının temsilcileri ile emniyet ve jandarmanın trafik birimleri yetkilileri katıldı.
+
+Toplantıda, kış boyunca vatandaşların güvenli seyahat edebilmeleri adına karayollarında ve kent içinde alınacak önlemler detaylandırıldı. Kar yağışı, gizli buzlanma ve olumsuz hava şartlarına karşı yollarda yapılacak çalışmalar ile denetim planları görüşüldü.
+
+Kurumlar arası koordinasyonun kritik bir öneme sahip olduğunu belirten Vali Yılmaz, sahadaki tüm ekiplerin hazırlıklarını eksiksiz tamamlaması gerektiğini vurguladı. Vatandaşların can ve mal emniyetinin birinci öncelik olduğuna dikkat çeken Yılmaz, ihtiyaç anında tüm birimlerin süratli ve eşgüdüm içinde hareket etmesini istedi.
+
+---
+
+## 14. Şiir Buluşması Başladı: İlhan Sami Çomak ve Yabancı Şairler Tepebaşı'nda
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/siir-bulusmasi-siirlerle-ve-muzikle-14-kez-hayat-buldu)
+
+![](data/images/876acdf9440c1d2b.jpg)
+
+> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, Fransa ve Mısır'dan konukların da yer aldığı açılış töreniyle kapılarını açtı.
+
+Tepebaşı Belediyesi'nin ev sahipliğinde bu yıl 14'üncüsü gerçekleştirilen Uluslararası Eskişehir Şiir Buluşması'nın açılış töreni yapıldı. Türkiye Yazarlar Sendikası, PEN ve Kültürlerarası Şiir ve Çeviri Akademisi'nin katkılarıyla düzenlenen etkinliğe; Tepebaşı Belediye Başkanı Ahmet Ataç, Büyükşehir Belediyesi Başkan Vekili Nihat Çuhadar, edebiyatçılar ve çok sayıda sanatsever katıldı.
+
+Buluşmanın bu yılki onur konuğu olan şair İlhan Sami Çomak, törende yaptığı konuşmada Eskişehir'de edebiyatseverlerle bir arada bulunmaktan duyduğu mutluluğu dile getirerek şiirini seslendirdi. Şiir Buluşması Direktörü Haydar Ergülen ise bir kentte 14 yıl boyunca kesintisiz şiir buluşması düzenlemenin önemine dikkat çekerek emeği geçenlere teşekkür etti.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, bu yıl ikisi yabancı olmak üzere toplam 13 şairi Eskişehir'de ağırladıklarını belirtti. Ataç, etkinlik kapsamında kâğıt geri dönüşüm atölyesinde hazırlanan özel kâğıtlara yazılan şiirlerden oluşan bir serginin de ziyarete açıldığını aktardı. Fransa'dan Sylvain Cavaillès ve Mısır'dan Ahmad Zakaria da törende konuşma yaparak şiirlerini paylaştı.
+
+Şiir dinletileri, sergiler ve panellerle devam eden festival, Atila Özer Karikatürlü Ev'deki söyleşi ve okuma programlarıyla 15 Kasım Pazar günü tamamlanacak.
+
+---
+
 ## Erdoğan ve Bolivya Lideri Pereira Dolmabahçe'de Görüştü: Savunma ve Madencilik Masada
 
 **Siyaset · Türkiye** · 2026-11-14 13:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-bolivya-cumhurbaskani-pereira-ile-gorusmesine-iliskin-aciklama)
@@ -391,85 +469,5 @@ Eskişehir'den İstanbul Sabiha Gökçen Havalimanı'na doğrudan ulaşım sağl
 Bursa güzergâhı üzerinden gerçekleştirilecek yolculukların yaklaşık dört saat süreceği bildirildi. Açıklanan programa göre ilk otobüs Eskişehir'den gece saat 00.30'da hareket ederek 04.30'da havalimanına varacak. İkinci sefer ise saat 03.30'da kalkacak ve otobüsün 07.30'da Sabiha Gökçen Havalimanı'na ulaşması hedefleniyor.
 
 Her iki sefer için de tek yön bilet fiyatı 1.050 TL olarak belirlendi. Sabah saatlerindeki uçuşlara yetişmek isteyen yolculara yönelik planlanan seferlerin haftanın her günü aralıksız sürdürüleceği kaydedildi.
-
----
-
-## Tepebaşı'nda Kadınlara Şiddet ve Eşitlik Semineri: Ay Boyunca Sürecek
-
-**Belediye · Tepebaşı** · 2026-11-13 17:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/beldeevlerindetoplumsalcinsiyetesitligibulusmaları)
-
-![](data/images/7913cfafeebad74d.jpg)
-
-> Tepebaşı Belediyesi, kadınlarda farkındalık oluşturmak amacıyla Belde Evleri ve Deneyimli Kafelerde "Toplumsal Cinsiyet Eşitliği ve Şiddet" başlıklı seminerler düzenliyor.
-
-Tepebaşı Belediyesi Sağlık İşleri Müdürlüğü, kadınların toplumsal cinsiyet eşitliği konusundaki farkındalığını artırmak ve şiddetle mücadelede bilinçlendirme sağlamak amacıyla bilgilendirme seminerlerini sürdürüyor. Program kapsamında son olarak Hedef Batıkent Belde Evi'nde kadınlara yönelik eğitim gerçekleştirildi.
-
-Psikolog Ecem Kumaş ile Sosyal Hizmet Uzmanı Ezgi Bilgin tarafından verilen seminerde toplumsal cinsiyet eşitliği ve şiddet boyutları ele alındı. Belde evindeki kurslara devam eden kadınların yoğun ilgi gösterdiği buluşmada, uzmanlar katılımcıların sorularını yanıtlayarak hukuki ve psikolojik süreçlere ilişkin bilgi aktardı.
-
-Kadınların uzman desteğine doğrudan erişimini hedefleyen seminer dizisinin, ay boyunca ilçe genelindeki tüm Belde Evleri ve Deneyimli Kafelerde devam edeceği bildirildi.
-
----
-
-## MEB'den Liselere 'Yeşil ve Dijital' Adım: 138 Etkinlik Kartı Hazırlandı
-
-**Eğitim · Türkiye** · 2026-11-13 15:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/gencler-yesil-ve-dijital-donusume-egitimle-hazirlaniyor/haber/42507/tr)
-
-![](data/images/beef8abb7595d533.jpg)
-
-> Millî Eğitim Bakanlığı, lise öğrencilerinin çevre ve teknoloji yetkinliklerini artırmak amacıyla başlattığı program kapsamında 138 etkinlik kartı hazırladı.
-
-Millî Eğitim Bakanlığı, çevre bilinci ile dijital yetkinlikleri bir araya getiren Yeşil Beceri ve Dijital Dönüşüm Programı kapsamındaki çalışmalarını sürdürüyor. Türkiye Yüzyılı Maarif Modeli çerçevesinde yürütülen projeyle öğrencilerin çevre sorunlarına karşı farkındalık kazanması ve teknolojiyi bu sorunların çözümünde kullanabilmesi hedefleniyor.
-
-Program kapsamında 9 ve 10. sınıfların dokuz ortak dersine yönelik 138 etkinlik kartı geliştirildi. Hazırlanan içeriklerden 92'si, öğretmen ve öğrencilerin kullanımına sunulmak üzere OGM Materyal platformunda yayımlandı. Çalışmanın devamında ise 11 ve 12. sınıflar için matematik, fizik, kimya, biyoloji, Türk dili ve edebiyatı, tarih, coğrafya, felsefe ile din kültürü ve ahlak bilgisi branşlarında yeni etkinlik kartları hazırlanıyor.
-
-Öğrencilerin enerji verimliliği, sıfır atık ve doğal kaynakların sürdürülebilir kullanımı gibi konularda bilinçlenmesini amaçlayan programda kodlama, yapay zekâ ve dijital güvenlik gibi beceriler de destekleniyor. Çalışmanın ortaöğretimin tüm kademelerine yaygınlaştırılması hedefleniyor.
-
----
-
-## Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile Dolmabahçe'de Bir Araya Geldi
-
-**Siyaset · Türkiye** · 2026-11-13 15:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-katar-emiri-al-sani-ile-gorustu-13-11-26)
-
-![](data/images/afd5d9c33876cd25.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile Cumhurbaşkanlığı Dolmabahçe Ofisi'nde resmî temaslarda bulundu.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani'yi Cumhurbaşkanlığı Dolmabahçe Ofisi'nde düzenlenen resmî törenle karşıladı. Törende liderlerin birbirlerine heyetlerini tanıtmasının ardından baş başa görüşmeye geçildi.
-
-Liderlerin baş başa gerçekleştirdiği temasların sonrasında heyetler arası görüşme yapıldı. Görüşmede iki ülke arasındaki ilişkiler ve bölgesel konular ele alındı.
-
-Dolmabahçe Ofisi'ndeki temaslarda Dışişleri Bakanı Hakan Fidan ile Millî İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın da hazır bulundu.
-
----
-
-## Uluslararası Eskişehir Şiir Buluşması başladı: Minikler doğanın sesini şiirle keşfetti
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-13 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/14uluslararasıeskisehirsiirbulusmasıcocuklarındogasesleriylebasladı)
-
-![](data/images/fce8b8e30f001716.jpg)
-
-> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, kreş çocuklarının doğa seslerini taklit ettiği renkli çocuk oturumuyla açıldı.
-
-Tepebaşı Belediyesi Basın Yayın ve Halkla İlişkiler Müdürlüğü tarafından bu yıl 14’üncüsü düzenlenen Uluslararası Eskişehir Şiir Buluşması, çocukların dünyasına dokunan bir etkinlikle başladı. Festival kapsamında yazar ve şair Erol Büyükmeriç, Melih Savaş Yaşam Köyü’nde eğitim gören kreş çocuklarıyla bir araya geldi.
-
-"Doğadaki Sesleri Dinleyelim Çocuk Oturumu" başlığıyla düzenlenen etkinlikte Büyükmeriç, miniklerle birlikte "Sesler Kitabı"nı inceledi. Doğadaki kuş ve hayvan seslerini taklit ederek şiirlerin ritmine eşlik eden çocuklar keyifli anlar yaşadı. Programın sonunda Büyükmeriç, çocuklara imzalı kitaplarını hediye etti.
-
-Eskişehir'i edebiyat dünyasının önemli isimleriyle buluşturan festival, 13–15 Kasım tarihleri arasında devam edecek. Etkinlik boyunca Türkiye'nin yanı sıra Mısır ve Fransa'dan gelen şairler kentte edebiyatseverlerle buluşacak.
-
----
-
-## MEB Bakan Yardımcısı Yelkenci: İklim krizi aslında bir denge ve eğitim meselesidir
-
-**Eğitim · Türkiye** · 2026-11-13 13:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop-31039de-quotturkiye-yuzyili-maarif-modeli-cercevesinde-insan-ve-toplumquot-paneli-duzenlendi/haber/42502/tr)
-
-![](data/images/be59c10b18139982.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında konuşan Millî Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, iklim krizinin özünde bir denge krizi olduğunu ve çözümün eğitimden geçtiğini vurguladı.
-
-Antalya'nın ev sahipliğinde gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Gençlik Pavilyonu'nda "Türkiye Yüzyılı Maarif Modeli Çerçevesinde İnsan ve Toplum" başlıklı panel düzenlendi.
-
-Panelin açılışında konuşan Millî Eğitim Bakan Yardımcısı Ömer Faruk Yelkenci, modern insanın geleceğe tahakküm etme yaklaşımını eleştirerek yarınların sonraki nesillerin hakkı olduğunu belirtti. Doğadaki temel dengenin bozulmasına insanın faaliyetlerinin yol açtığını ifade eden Yelkenci, karbon piyasaları veya teknolojik adımların tek başına yeterli olamayacağını, asıl çözümün zihniyet ve eğitimle sağlanabileceğini söyledi.
-
-Yelkenci, Türkiye Yüzyılı Maarif Modeli'nin insanı ruh ve beden bütünlüğüyle ele aldığını hatırlatarak çevre bilincinin müfredatta somut bir karşılık bulduğunu aktardı. Ortaokullarda uygulanan Çevre Eğitimi ve İklim Değişikliği dersinin insan ve doğa ilişkisine odaklandığını belirten Yelkenci, uluslararası taahhütler ile uygulama arasındaki mesafenin müzakere masalarından ziyade sınıflarda kapatılacağına inandıklarını dile getirdi.
 
 ---
