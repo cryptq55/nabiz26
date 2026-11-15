@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 15 Kasım 2026: Gram altın 6.373,53 TL
+
+**Ekonomi · Merkez** · 2026-11-15 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261115.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.293,54 TL'den alınıyor, 6.373,53 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.373,53 TL, alış fiyatı 6.293,54 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,12 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.388 TL, yarım altın 20.770 TL, tam altın 41.388 TL, ata altın 42.493 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.953,20 TL, has altının gram fiyatı 6.354,47 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,50 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Özel Eğitimde Erken Tarama Dönemi: Riskli Öğrenciler İçin Yeni Sistem Geliyor
 
 **Eğitim · Türkiye** · 2026-11-15 05:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ozel-egitim-ihtiyaci-bulunan-ogrenciler-icin-erken-tarama-sistemi-yayginlastirilacak/haber/42521/tr)
@@ -457,19 +477,5 @@ Eskişehir'in Tepebaşı ilçesine bağlı Fatih Mahallesi'nde bulunan Kumlubel 
 Duruşmaya tutuklu sanıklar Cevdet D., Umut U. ve Ahmet D. ile başka bir suçtan tutuklu bulunan sanık Ali Han D. bizzat katılırken, tutuklu sanık Bayram S. cezaevinden SEGBİS aracılığıyla bağlandı. Taraf avukatlarının da hazır bulunduğu duruşmada sanıklar olay anında yaşanan arbede ve silah kullanımıyla ilgili savunmalarını yaptı.
 
 Savunmaların ardından ara kararını açıklayan mahkeme heyeti, Bayram S.'nin yurt dışına çıkış yasağı ve imza şartıyla tahliyesine hükmetti. Diğer üç tutuklu sanığın tutukluluk hallerinin devamına ve Ali Han D. hakkındaki adli kontrol tedbirlerinin sürdürülmesine karar veren mahkeme, duruşmayı ileri bir tarihe erteledi.
-
----
-
-## Odunpazarı Spor Kulübü Porsuk'ta Galibiyet Peşinde
-
-**Spor · Odunpazarı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.istikbalgazetesi.com/odunpazarina-cikis-firsat)
-
-> Ligde dokuz haftada 4 puan toplayan Odunpazarı Spor Kulübü, Porsuk Spor Salonu'nda Ortahisar Belediyespor'u ağırlayacak.
-
-Ligde geride kalan dokuz haftada iki galibiyet ve yedi mağlubiyet alan Eskişehir temsilcisi Odunpazarı Spor Kulübü, 4 puanla altıncı sırada yer alıyor. Son mücadelesinde Üsküdar Belediyespor'a 34-30 mağlup olan mavi-beyazlılar, bu mağlubiyeti unutturmayı amaçlıyor.
-
-Eskişehir ekibi, ligde henüz puanı bulunmayan ve son sırada yer alan Ortahisar Belediyespor ile karşılaşacak. Mücadele yarın saat 15.00'te Porsuk Spor Salonu'nda oynanacak.
-
-Taraftarı önünde galibiyete odaklanan mavi-beyazlı ekip, parkeden zaferle ayrılarak ligde yeniden yükselişe geçmeyi hedefliyor.
 
 ---
