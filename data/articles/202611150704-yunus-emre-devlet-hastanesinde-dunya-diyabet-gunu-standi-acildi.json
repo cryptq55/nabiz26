@@ -21,10 +21,10 @@
     "title": "Eskişehir'de Dünya Diyabet Günü'ne özel etkinlik! - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/eskisehirde-dunya-diyabet-gunune-ozel-etkinlik"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yunus Emre Devlet Hastanesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
