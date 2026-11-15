@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MEB'den 17 Milyon Öğrenciye Ara Tatil Rehberi ve Etkinlik Kitapları
+
+**Eğitim · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ogrenciler-ara-tatilde-etkinlik-kitaplari-ve-rehberlerle-desteklenecek/haber/42522/tr)
+
+![](data/images/5ea8f8ae5162dc0a.jpg)
+
+> Milli Eğitim Bakanlığı, 16-20 Kasım tarihlerinde uygulanacak birinci dönem ara tatili için tüm kademelere yönelik etkinlik kitapları ve rehber setleri yayımladı.
+
+İlköğretim ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 2026-2027 eğitim öğretim yılının ilk ara tatiline 16 Kasım Pazartesi günü başlıyor. 20 Kasım Cuma gününe kadar sürecek tatil öncesinde Milli Eğitim Bakanlığı, okul öncesinden liseye kadar her kademedeki öğrencilerin tatil dönemini verimli geçirmesi amacıyla yeni materyaller hazırladı.
+
+Türkiye Yüzyılı Maarif Modeli doğrultusunda geliştirilen etkinlik takvimi ve kitaplar; öğrencilerin aileleriyle kaliteli vakit geçirmesini, edindikleri bilgi ve becerileri günlük hayatla birleştirmesini hedefliyor. Karekodlar üzerinden dijital oyunlar, sanal müze gezileri, öyküler ve şarkılarla desteklenen içerikler öğrenme sürekliliğini ev ortamına taşımayı amaçlıyor.
+
+Okul öncesi eğitim için hazırlanan etkinlik takviminde "Oyun Anahtarım" uygulamasıyla çocukların her güne özel tasarlanan oyunları tamamlayıp kendi anahtarlarını tasarlamaları planlandı. İlkokul ve ortaokul kademeleri için hazırlanan "Arada 1" etkinlik kitaplarında Türk dünyasının kültürel mirası, çocuk hakları, doğa sevgisi ve matematiksel düşünme becerileri ön plana çıkarıldı.
+
+Lise kademesine hitap eden rehberde ise aile içi iletişim ve ekran süresi dengesinin yanı sıra üniversiteye hazırlanan öğrenciler için kritik yönlendirmelere yer verildi. Rehberin son bölümünde YKS kapsamındaki TYT, AYT ve YDT oturumlarına yönelik zaman yönetimi, odaklanma teknikleri ve ders bazlı uzman öğretmen tavsiyeleri paylaşıldı.
+
+---
+
+## İletişim Başkanı Duran'dan KKTC'nin 43. Kuruluş Yıl Dönümü Mesajı
+
+**Türkiye · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/kktcnin-43-yil-donumu-icin-kutlama-mesajlari-15-11-26)
+
+![](data/images/31a820798f9b247d.jpg)
+
+> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümünü kutlayarak Türkiye'nin Kıbrıs Türk halkının haklarını kararlılıkla koruyacağını vurguladı.
+
+Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) ilanının 43. yıl dönümü dolayısıyla sosyal medya hesabı üzerinden bir kutlama mesajı yayımladı.
+
+Mesajında Kıbrıs Türk halkının bağımsızlık mücadelesine dikkat çeken Duran, "Kıbrıs Türk halkının özgürlük mücadelesinin, bağımsızlık iradesinin simgesi olan Kuzey Kıbrıs Türk Cumhuriyeti’nin ilanının 43. yıl dönümünü gönülden kutluyorum" ifadelerini kullandı.
+
+Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan’ın liderliğinde Kıbrıs Türklerinin hakları, egemen eşitliği ve güvenliği için kararlılıkla çalışmaya devam edeceğini belirten Duran, KKTC Kurucu Cumhurbaşkanı Rauf Denktaş, Dr. Fazıl Küçük ve tüm şehitleri rahmet ve minnetle andı.
+
+---
+
+## Evde Bakım Yardımı Hesaplara Yatıyor: Bu Ay Toplam 7,8 Milyar Lira Ödenecek
+
+**Türkiye · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goktas-evde-bakim-yardimi-odemesini-hesaplara-yatirmaya-basladik/)
+
+![](data/images/91f585b83b5c57ec.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, evlerinde bakılan tam bağımlı vatandaşlar ve aileleri için bu ay toplam 7,8 milyar liralık desteğin hesaplara aktarılmaya başlandığını bildirdi.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, engelli bireylerin öncelikle aile ortamında bakımını desteklemek amacıyla yürütülen Evde Bakım Yardımı ödemelerinin hak sahiplerinin hesaplarına yatırılmaya başlandığını duyurdu. Göktaş, bu ay toplam 7,8 milyar liralık kaynağın aktarıldığını belirtti.
+
+Evde Bakım Yardımı'nın 2006 yılından bu yana uygulanan temel bir sosyal hizmet modeli olduğunu hatırlatan Bakan Göktaş, engelli bireylerin aile bütünlüklerini koruyarak kendi yaşam alanlarında desteklenmesini öncelikli gördüklerini vurguladı. Bu destekle engelli bireylerin ailelerinden ayrılmadan yaşamlarını sürdürebilmelerinin amaçlandığı kaydedildi.
+
+Program kapsamında hak sahibi başına aylık 15 bin 755 lira ödeme yapıldığını aktaran Göktaş, hâlihazırda 495 bin vatandaşın bu yardımdan faydalandığını ifade ederek ödemelerin tüm hak sahiplerine ve ailelerine hayırlı olmasını diledi.
+
+---
+
 ## Yunus Emre Devlet Hastanesi'nde Dünya Diyabet Günü Standı Açıldı
 
 **Sağlık · Tepebaşı** · 2026-11-15 07:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-dunya-diyabet-gunune-ozel-etkinlik)
@@ -431,51 +481,5 @@ Türkiye'de üretilen yerli elektrikli otomobil Togg modellerinde engelli muafiy
 Elektrikli araçlardaki ÖTV oranının içten yanmalı motorlara kıyasla daha düşük olması, muafiyet indiriminin tutarını da doğrudan etkiliyor. Yüzde 25 ÖTV diliminde yer alan standart menzilli T10X V1 RWD modelinde muafiyet sağlandığında yaklaşık 380 bin liralık indirim elde ediliyor ve aracın maliyeti 1,53 milyon lira seviyesine iniyor.
 
 Satın alma sürecinde genel ÖTV istisnası kuralları uygulanıyor. Yüzde 90 ve üzeri engelli raporu bulunanlar ile raporunda ve ehliyetinde özel tertibat veya otomatik vites ibaresi yer alan ortopedik engelliler haktan faydalanabiliyor. On yılda bir kullanılabilen bu istisna kapsamında alınan araçların, beş yıl dolmadan muafiyet hakkı olmayan üçüncü kişilere devredilmesi halinde tahsil edilmeyen verginin ödenmesi şart koşuluyor.
-
----
-
-## ESOGÜ Hastanesi'nde Prematüre Günü: Minik Savaşçılar İçin Mor Kutlama
-
-**Sağlık · Odunpazarı** · 2026-11-14 01:28 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.esyenigun.com/esogu-hastanesinde-dunya-premature-gunune-ozel-etkinlik)
-
-> Eskişehir Osmangazi Üniversitesi Hastanesi'nde Dünya Prematüre Günü dolayısıyla düzenlenen etkinlikte, erken doğan bebeklerin hayata tutunma mücadelesine dikkat çekildi.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ) Sağlık, Uygulama ve Araştırma Hastanesi Yenidoğan Yoğun Bakım Ünitesi bünyesinde Dünya Prematüre Günü kapsamında özel bir program düzenlendi. Etkinliğe Tıp Fakültesi Dekanı Prof. Dr. Koray Harmancı, Hastane Başhekimi Prof. Dr. Haluk Hüseyin Gürsoy, Başhekim Yardımcısı Doç. Dr. Gürkan Bozan ile akademisyenler ve sağlık yöneticileri katıldı.
-
-Programda değerlendirmelerde bulunan Çocuk Sağlığı ve Hastalıkları Ana Bilim Dalı Başkanı Prof. Dr. Özge Aydemir, günün amacının erken doğum konusunda toplumsal farkındalık oluşturmak ve ailelerin yaşadığı zorlu süreçleri gündeme taşımak olduğunu vurguladı. Prematüre Günü’nün simgesi olan mor rengin erken doğan bebeklerin hassasiyetini ve yaşama tutunma gayretini simgelediğini belirten Aydemir, bu süreçte aile desteğinin ve multidisipliner uzmanlık alanlarının koordinasyonunun hayati önemde olduğunu ifade etti.
-
-ESOGÜ Yenidoğan Yoğun Bakım Ünitesi'nin ikinci, üçüncü ve dördüncü düzey sağlık hizmetleri sunarak bölgede önemli bir referans merkezi konumunda bulunduğuna işaret eden Prof. Dr. Aydemir, uzman hekimlerden hemşirelere kadar tüm personelin büyük bir özveriyle görev yaptığını söyledi. Etkinlik kapsamında daha önce yoğun bakımda tedavi görüp sağlığına kavuşan bebeklerin ailelerinin gönderdiği video mesajlar izlenirken, mor süslemeli pastanın kesilmesiyle program tamamlandı.
-
----
-
-## Uluönder'e Yeni ESKİ Abone Merkezi ve Ücretsiz Otopark Geliyor
-
-**Belediye · Tepebaşı** · 2026-11-13 21:03 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/uluondere-yeni-eski-abone-servisi-geliyor)
-
-![](data/images/62c38cbe9c26004d.jpg)
-
-> Eskişehir Büyükşehir Belediyesi, Uluönder Mahallesi'nde açılacak yeni ESKİ abone servisi ve 'Park Et Devam Et' otoparkı ile çevre mahalle sakinlerine kolaylık sağlayacak.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, ESKİ Genel Müdürlüğü tarafından Tepebaşı ilçesine bağlı Uluönder Mahallesi'nde kısa süre içinde faaliyete geçirilecek olan abone servisini yerinde inceledi. ESKİ Genel Müdürü Niyazi Solak'tan yürütülen son hazırlıklar hakkında bilgi alan Ünlüce, merkezin bölge sakinlerinin işlemlerini hızlandıracağını belirtti.
-
-Yapımında sona gelinen yeni ESKİ Uluönder Abone Servisi, Yunus Emre Halk Çarşısı'ndaki Abone İşleri Dairesi'nde gerçekleştirilen tüm hizmetleri sunacak. Merkezin hizmete girmesiyle birlikte Uluönder, Batıkent, Çamlıca ve Şirintepe mahallelerinde oturan vatandaşlar, abonelik ve ödeme gibi işlemlerini kent merkezine gitmeden mahallelerinde halledebilecek.
-
-İncelemeler sırasında aynı noktada yer alan otopark alanını da gezen Başkan Ünlüce, 'Park Et Devam Et' modelinin devreye alınacağını açıkladı. Otobüs ve tramvay duraklarına yakın olan bu otoparkın toplu taşımayı kullanan vatandaşlara ücretsiz sunulacağı, sürücülerin araçlarını buraya bırakarak yolculuklarına toplu taşımayla devam edebileceği bildirildi.
-
-Belediye Başkanı Ayşe Ünlüce, tesis incelemelerinin ardından Uluönder Mahalle Muhtarı Hasan Güler ile birlikte mahalle esnafını ve vatandaşları ziyaret ederek talep ve önerileri dinledi.
-
----
-
-## Dede Korkut Parkı'nda Karadeniz Şöleni: 1 Ton Hamsi Dağıtılacak
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-13 21:03 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-karadeniz-festivali-bugun-basliyor-kuymak-karalahana-corbasi-ve-1-ton-hamsi-dagitilacak)
-
-> Eskişehir'de üç gün sürecek Karadeniz Festivali kapılarını açtı; etkinlikte vatandaşlara 1 ton hamsi, kuymak ve karalahana çorbası ikram edilecek.
-
-Eskişehir Karadenizliler Derneği öncülüğünde ve B.A.S. Fuar ve Organizasyon iş birliğiyle düzenlenen Karadeniz Festivali, Vişnelik Mahallesi'ndeki Dede Korkut Parkı'nda başladı. 13-15 Kasım tarihleri arasında üç gün sürecek etkinlik, Karadeniz kültürünü ve yöresel tatlarını Eskişehirlilerle buluşturacak.
-
-Festival kapsamında Karadeniz mutfağının lezzetleri katılımcıların beğenisine sunulacak. Etkinlik boyunca alanda karalahana çorbası ve kuymak hazırlanırken, ziyaretçilere toplam 1 ton hamsi ikramı gerçekleştirilecek.
-
-Kemençe dinletileri ve horon gösterilerinin yer alacağı festivalde alışveriş stantları ile çocuklar için oyun alanları da kuruldu. Program çerçevesinde sanatçı Mithat Körler, 14 Kasım Cumartesi günü saat 19.00'da sahne alarak konser verecek. Organizatörler üç gün sürecek şölene tüm kent halkını davet etti.
 
 ---
