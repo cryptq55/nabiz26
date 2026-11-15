@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Taşbaşı Çarşısı'nda Tuvalet Çilesi: Yaklaşık Bir Haftadır Kilitli Duruyor
+
+**Gündem · Odunpazarı** · 2026-11-15 15:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.esyenigun.com/eskisehirin-tarihi-carsisinda-tuvalet-krizi-bir-haftadir-kapali)
+
+> Eskişehir'in en işlek ticaret noktalarından Taşbaşı Çarşısı'ndaki umumi tuvaletin günlerdir kapalı olması esnaf ve vatandaşları mağdur ediyor.
+
+Eskişehir'in merkezi alışveriş alanlarından biri olan Taşbaşı Çarşısı'nda yer alan umumi tuvalet, yaklaşık bir haftadır hizmet vermiyor. Bölgenin en yoğun noktalarından birinde bulunan tuvaletin kapalı olması, çarşıya alışveriş için gelen vatandaşlar ile çevredeki dükkan sahiplerini zor durumda bırakıyor.
+
+Tuvaletin hangi gerekçeyle kapatıldığına dair herhangi bir bilgilendirme yapılmazken, alandaki kilitli kapılar günlük yaşamı olumsuz etkiliyor. Gün boyu çarşıda çalışan esnaf ile ziyaretçiler temel ihtiyaçlarını gidermekte sıkıntı yaşadıklarını ifade ediyor.
+
+Bölgedeki esnaf ve çarşı sakinleri, hijyenik ve pratik bir çözüm beklediklerini dile getirerek, kapalı tutulan umumi tuvaletin bir an önce bakımının tamamlanıp yeniden kullanıma açılmasını talep ediyor.
+
+---
+
+## Eskişehirspor 2-0'dan Döndü: Ayvalıkgücü Randevusunda Nefes Kesen Beraberlik
+
+**Spor · Merkez** · 2026-11-15 15:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-ayvalikgucu-maci-canli-yayin-hangi-kanalda-eskisehirspor-ayvalikgucu-maci-nereden-izlenir-eskisehirspor-2465126)
+
+![](data/images/cfd751271a723044.jpg)
+
+> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, sahasında 2-0 geriye düştüğü Ayvalıkgücü Belediyespor karşılaşmasından 2-2'lik beraberlikle ayrıldı.
+
+Nesine 3. Lig 2. Grup'un 12. haftasında Eskişehirspor, sahasında Ayvalıkgücü Belediyespor'u ağırladı. Mücadeleye etkili başlayan konuk ekip, 21. dakikada Atakan Akbulut'un kaydettiği golle 1-0 öne geçti. Baskısını sürdüren Ayvalıkgücü, 28. dakikada Emirhan Özyaşar'ın fileleri havalandırmasıyla farkı ikiye çıkardı.
+
+Erken gelen gollerle iki farklı geriye düşen siyah-kırmızılı ekip, oyundan kopmadı. 38. dakikada sahneye çıkan Mehmet Bağlı, attığı golle skoru 2-1'e getirerek Eskişehirspor'u yeniden maça ortak etti ve ilk yarı bu sonuçla tamamlandı.
+
+Karşılaşmanın dönüm noktası 77. dakikada yaşandı. Ayvalıkgücü Belediyespor'dan Adnan Demir, ikinci sarı kartın ardından kırmızı kart görerek takımını 10 kişi bıraktı. Faulün ardından serbest vuruşta topun başına geçen Kerem Baykuş, 78. dakikada frikikten şık bir gole imza atarak skoru 2-2'ye taşıdı.
+
+Kalan dakikalarda başka gol olmayınca mücadele 2-2 eşitlikle sona erdi. Bu sonuçla puanını artıran Eskişehirspor, haftayı lider Etimesgut'un ardından ikinci sırada kapattı. Ayvalıkgücü Belediyespor ise 22 puanla 7. sıradaki yerini korudu.
+
+---
+
 ## Senfoni Orkestrası'ndan 'Ateşin Dansı': Oxana Shevchenko Sahne Aldı
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.2eylul.com.tr/senfoni-orkestrasindan-atesin-dansi-konseri)
@@ -451,33 +483,5 @@ Tarım ve Orman Bakanı İbrahim Yumaklı, Iğdır'daki tarım arazilerini bası
 Sosyal medya hesabı üzerinden yatırımın teknik detaylarını paylaşan Bakan Yumaklı, çalışma çerçevesinde 421 bin 905 metre uzunluğunda boru hattı inşa edileceğini ve toplam 109 bin 820 dekar arazinin sulamaya açılacağını bildirdi.
 
 Projenin arazi düzenlemesini de içerdiğini belirten Yumaklı, 143 bin 110 dekar alanda arazi toplulaştırması yürütüleceğini ve 27 yerleşim biriminde yerinde toplulaştırma faaliyeti gerçekleştirileceğini kaydetti.
-
----
-
-## Yenikent'te tramvay ile otobüs çarpıştı: Seferlerde aksama yaşandı
-
-**Ulaşım · Odunpazarı** · 2026-11-14 11:04 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.anadolugazetesi.com/eskisehir-de-toplu-ulasimda-kaza-panigi--tramvay-ile-otobus-carpisti-298072.html)
-
-> Odunpazarı'nda sabah saatlerinde tramvay ile halk otobüsünün çarpışması sonucu maddi hasar oluşurken, aksayan seferler araçların kaldırılmasıyla normale döndü.
-
-Eskişehir'in Odunpazarı ilçesine bağlı Yenikent Mahallesi'nde toplu taşıma araçları kaza yaptı. Sabah saatlerinde Şehit Yüzbaşı Tuncer Güngör Caddesi üzerinde seyir halinde olan tramvay ile otobüs henüz belirlenemeyen bir sebeple çarpıştı.
-
-Çarpışmanın etkisiyle her iki araçta da maddi hasar meydana geldi. Kaza nedeniyle bölgedeki tramvay hattında ulaşım bir süre durma noktasına geldi.
-
-İhbar üzerine sevk edilen polis ekipleri cadde üzerinde güvenlik önlemleri alarak inceleme başlattı. Ekiplerin inceleme ve temizlik çalışmalarını tamamlamasının ardından kazaya karışan araçlar yoldan çekildi ve tramvay seferleri yeniden düzenli şekilde işlemeye başladı.
-
----
-
-## Hamzabeyli'de 558,6 Milyon Liralık Kaçak Eşya Operasyonu
-
-**Türkiye · Türkiye** · 2026-11-14 11:04 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.cumhuriyet.com.tr/turkiye/ticaret-bakanligi-verileri-acikladi-558-6-milyon-lira-degerinde-kacak-esya-ele-gecirildi-2556059)
-
-> Ticaret Bakanlığı Gümrükler Muhafaza ekiplerince Edirne Hamzabeyli Gümrük Kapısı'nda durdurulan bir tırda 558 milyon 594 bin lira değerinde kaçak ticari eşya ele geçirildi.
-
-Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, Edirne'deki Hamzabeyli Gümrük Sahası'nda kaçakçılıkla mücadele kapsamında yürüttüğü saha denetimleri sırasında şüpheli hareketler sergileyen bir tırı takibe aldı. Durdurulan araçta yapılan detaylı aramalarda, yasal gümrük işlemlerine tabi tutulmadan Türkiye'ye sokulmak istenen yüklü miktarda ticari malzeme tespit edildi.
-
-Aramalarda 193 bin 31 adet elektronik sigara ve aksamı, 4 bin 700 adet cep telefonu, 11 bin 263 adet gözlük ve aksesuarı, 8 bin 233 adet ilaç ile 3 bin 600 adet sigara filtresi bulundu. Ele geçirilen kaçak eşyaların toplam gümrüklenmiş piyasa değerinin 558 milyon 594 bin lira olduğu açıklandı.
-
-Bakanlık açıklamasında, haksız rekabetin önlenmesi, kamu sağlığı ile ekonomik çıkarların korunması amacıyla gümrük muhafaza ekiplerinin denetimlerinin kararlılıkla süreceği bildirildi. Ele geçirilen malzemelerle ilgili adli tahkikat Edirne Cumhuriyet Başsavcılığı koordinesinde yürütülüyor.
 
 ---
