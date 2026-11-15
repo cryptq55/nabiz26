@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Özel Eğitimde Erken Tarama Dönemi: Riskli Öğrenciler İçin Yeni Sistem Geliyor
+
+**Eğitim · Türkiye** · 2026-11-15 05:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ozel-egitim-ihtiyaci-bulunan-ogrenciler-icin-erken-tarama-sistemi-yayginlastirilacak/haber/42521/tr)
+
+![](data/images/73481e4b61cc6068.jpg)
+
+> Milli Eğitim Bakanlığı, özel eğitim ihtiyacı bulunan çocukların erken fark edilmesi amacıyla geliştirilen tarama bataryasını 2027'de e-Rehberlik sistemine entegre ederek yaygınlaştıracak.
+
+Milli Eğitim Bakanlığı, özel eğitim ihtiyacı olan öğrencilerin eğitim imkânlarından tam olarak yararlanabilmesi ve bireysel gelişimlerinin desteklenmesi amacıyla erken tarama çalışmalarına hız verdi. "Temel Eğitimde Özel Eğitim Strateji Belgesi" kapsamında UNICEF iş birliğiyle hazırlanan Eğitsel Tarama ve Değerlendirme Bataryası'nın ülke genelinde kullanıma açılması planlanıyor.
+
+Yeni sistem sayesinde okul öncesi öğretmenleri ile ilkokul 1, 2 ve 3'üncü sınıf öğretmenleri, gelişimsel risk altındaki öğrencileri erken evrede fark ederek tanılama ve destek süreçlerine yönlendirebilecek. Uygulamanın 2027 yılı itibarıyla e-Rehberlik Modülü'ne dahil edilmesi ve sahadaki öğretmenlerin tarama sürecindeki etkinliğinin artırılması hedefleniyor.
+
+Öte yandan özel eğitimde tanı ve değerlendirme aşamalarında yerli ölçme araçları yaygınlaştırılıyor. Bilgisayar tabanlı ilk yerli zekâ testi olan ve BİLSEM yerleştirmelerinde de yararlanılan Türk Ulusal Zeka Ölçeği'nin (TUZÖ) ardından, 6-9 yaş aralığına özel sözel olmayan yeni bir zekâ testi geliştirme çalışmalarının başlatıldığı bildirildi.
+
+---
+
 ## Bakan Tekin COP31 Heyetiyle Çevreci Anaokulunu İnceledi
 
 **Eğitim · Türkiye** · 2026-11-14 22:59 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-cop31039in-quotegitimquot-temali-gununde-katilimcilarla-bir-araya-geldi/haber/42520/tr)
@@ -455,23 +471,5 @@ Ligde geride kalan dokuz haftada iki galibiyet ve yedi mağlubiyet alan Eskişeh
 Eskişehir ekibi, ligde henüz puanı bulunmayan ve son sırada yer alan Ortahisar Belediyespor ile karşılaşacak. Mücadele yarın saat 15.00'te Porsuk Spor Salonu'nda oynanacak.
 
 Taraftarı önünde galibiyete odaklanan mavi-beyazlı ekip, parkeden zaferle ayrılarak ligde yeniden yükselişe geçmeyi hedefliyor.
-
----
-
-## Kumlubel Parkı'ndaki Çifte Cinayet Davasında Bir Sanığa Tahliye Kararı Çıktı
-
-**Asayiş · Tepebaşı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/eskisehirde-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi-119521664)
-
-> Eskişehir'in Tepebaşı ilçesinde 2 kişinin hayatını kaybettiği silahlı çatışmaya ilişkin 5 sanığın yargılanmasına başlandı. İlk duruşmada bir sanık adli kontrol şartıyla tahliye edildi.
-
-Tepebaşı ilçesine bağlı Fatih Mahallesi'ndeki Kumlubel Parkı'nda geçen yıl ağustos ayında iki grup arasında çıkan ve 2 kişinin yaşamını yitirdiği silahlı kavgaya ilişkin dava süreci başladı. Eskişehir 7'nci Ağır Ceza Mahkemesi'nde görülen ilk duruşmaya, tutuklu sanıklar Cevdet D, Umut U, Ahmet D. ile başka suçtan tutuklu bulunan Ali Han D. ve avukatları katıldı. Diğer tutuklu sanık Bayram S. ise duruşmaya SEGBİS aracılığıyla bağlandı.
-
-Mahkemedeki savunmasında olay anını anlatan sanıklardan Cevdet D, kalabalık bir grubun üzerlerine geldiğini, çıkan arbedede yere düştüğünü ve silahın eline geçtiğini öne sürdü. Omzundan vurulduğunu ve korkuyla rastgele ateş ettiğini belirten sanık, kimseyi kasten hedef almadığını savundu. Olayda yaralanan sanıklardan Ali Han D. ise karşı tarafın kendilerine silah çektiğini ve darbedildiklerini iddia etti.
-
-SEGBİS üzerinden ifade veren sanık Bayram S, olay yerine gittiğinde tarafların oturduğunu, ardından tartışma çıkmasıyla silah kullanıldığını anlattı. Sanık Umut U. da karşı gruptan küfür edilmesi üzerine arbede başladığını ve karşı taraftan ateş açıldığını ileri sürdü.
-
-Tanık ve sanık ifadelerini dinleyen mahkeme heyeti ara kararını açıkladı. Tutuklu sanıklardan Bayram S.'nin yurt dışına çıkış yasağı ve imza yükümlülüğü şartıyla tahliyesine karar verilirken, 3 sanığın tutukluluk halinin devamına hükmedildi. Duruşma ileri bir tarihe ertelendi.
-
-Geçen yıl meydana gelen olayda kurşunların hedefi olan Volkan Taşdelen ve Enes Öz ağır yaralı olarak kaldırıldıkları hastanede hayatını kaybetmiş, Ali Han D. ise tedavisinin ardından adli kontrolle serbest bırakılmıştı.
 
 ---
