@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Senfoni Orkestrası'ndan 'Ateşin Dansı': Oxana Shevchenko Sahne Aldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.2eylul.com.tr/senfoni-orkestrasindan-atesin-dansi-konseri)
+
+![](data/images/af2ac25c51d8c978.jpg)
+
+> Eskişehir Büyükşehir Belediyesi Senfoni Orkestrası, 'Ateşin Dansı' konserinde dünyaca ünlü piyanist Oxana Shevchenko'yu ağırladı.
+
+Eskişehir Büyükşehir Belediyesi Senfoni Orkestrası, 2026-2027 sanat sezonu etkinlikleri kapsamında sanatseverleri "Ateşin Dansı" başlıklı özel konserde buluşturdu. Şef James Ross yönetiminde sahneye çıkan orkestra, farklı dönemlere ait klasik müzik yapıtlarını seslendirdi.
+
+Konser programı Mihail Glinka'nın "Ruslan ve Ludmila Operası Uvertürü" ile açıldı. Ardından sahneye çıkan uluslararası üne sahip piyanist Oxana Shevchenko, orkestra eşliğinde Sergei Rahmaninov'un "Paganini'nin Bir Teması Üzerine Rapsodi" eserini icra etti. İzleyicilerden yoğun alkış alan sanatçı, performansının ardından bis yaparak sahneyi renklendirdi.
+
+Programın ikinci yarısında orkestra, Anatoli Lyadov'un "Büyülü Göl" ve Igor Stravinski'nin "Ateş Kuşu Süiti" adlı eserlerini dinleyicilerin beğenisine sundu. Müzikal çeşitliliği ve sahne performansıyla dikkat çeken gece, solist ve şefe plaket takdim edilmesiyle noktalandı.
+
+Senfoni Orkestrası bir sonraki buluşmasını 4 Aralık 2026 Cuma günü saat 20.00'de Atatürk Kültür Sanat ve Kongre Merkezi'nde gerçekleştirecek. Şefliğini Vasilii Valitov'un üstleneceği konserde keman sanatçısı Bade Daştan solist olarak sahne alacak.
+
+---
+
+## Özgür Özel 1154 Oyla Yeniden Genel Başkan Seçildi: Yeni Parti'de İlk Kurultay
+
+**Siyaset · Türkiye** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - CHP](https://tr.euronews.com/2026/11/14/ozgur-ozel-yeni-parti-kurultayinda-1154-oyla-yeniden-genel-baskan-secildi)
+
+![](data/images/92d1a80cd0128c9c.jpg)
+
+> Ankara'da toplanan Yeni Parti 1. Olağan Kurultayı'nda tek aday olan Özgür Özel, geçerli 1154 oyun tamamını alarak genel başkanlığa seçildi.
+
+"Türkiye Yenileniyor" sloganıyla Ankara Spor Salonu'nda gerçekleştirilen Yeni Parti 1'inci Olağan Kurultayı'nda genel başkanlık seçimi tamamlandı. Toplam 1202 kayıtlı delegeden 1157'sinin sandık başına gittiği seçimde, geçerli sayılan 1154 oyun tamamını alan Özgür Özel yeniden genel başkanlık görevine getirildi. Kurultayın ikinci gününde Parti Meclisi ve Yüksek Disiplin Kurulu üyelerinin belirleneceği bildirildi.
+
+Kurultay konuşmasında partinin kuruluş sürecini ve izleyecekleri yol haritasını anlatan Özel, hedeflerinin iktidar olduğunu ifade etti. Belediyelere yönelik soruşturmaları eleştiren Özel, örgütlenme modeli kapsamında mahalle, ilçe ve il meclisleri oluşturacaklarını, Parti Meclisi üye sayısının ise 150'ye yükseltileceğini açıkladı.
+
+Ekonomi ve sosyal politikalara dair vaatlerini de sıralayan Özel; çiftçilere alım garantisi verilmesi, vergisiz mazot sağlanması ve borçların yeniden yapılandırılmasının yanı sıra temel vatandaşlık geliri ile ücretsiz okul yemeği projelerini hayata geçireceklerini söyledi. Programda ayrıca tutuklu bulunan Ekrem İmamoğlu'nun video mesajı ile Genel Sekreter Yunus Emre tarafından okunan kuruluş bildirgesi paylaşıldı.
+
+---
+
+## Erdoğan'dan Filistin'in 38. Kuruluş Yıl Dönümü Mesajı: Davayı Savunmaya Devam Edeceğiz
+
+**Siyaset · Türkiye** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://aa.com.tr/tr/gundem/cumhurbaskani-erdogan-filistinin-kurulusunun-38-yil-donumunu-kutladi/4125793)
+
+![](data/images/9ed837bbb5df0b07.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Filistin Devleti'nin 38'inci kuruluş yıl dönümünü kutlayarak Türkiye'nin bağımsız Filistin davasını savunmaya devam edeceğini bildirdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Filistin Devleti'nin 38'inci kuruluş yıl dönümü dolayısıyla sosyal medya hesabından tebrik mesajı yayımladı.
+
+Mesajında Filistin halkının onurlu mücadelesine değinen Cumhurbaşkanı Erdoğan, "Dost ve kardeş Filistin Devleti'nin 38'inci kuruluş yıl dönümünü tebrik ediyor, zulme ve zalime karşı onurlu direnişini sürdüren kahraman Filistin halkına selamlarımı, muhabbetlerimi iletiyorum" ifadelerini kullandı.
+
+Türkiye'nin Filistin davasına verdiği desteğin altını çizen Erdoğan, 1967 sınırları temelinde, başkenti Doğu Kudüs olan, bağımsız, egemen ve coğrafi bütünlüğü haiz bir Filistin Devleti'nin kurulması yönündeki kararlılığı vurguladı. Erdoğan, Filistin halkının özgür ve müreffeh bir geleceğe ulaşması adına Türkiye'nin tüm imkanlarıyla sahada kalmayı sürdüreceğini belirtti.
+
+---
+
 ## Eski Giysiler Japon Sanatıyla Yenileniyor: Tepebaşı'nda Sashiko Atölyesi Başladı
 
 **Belediye · Tepebaşı** · 2026-11-15 12:46 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-nda-eski-tekstiller-yeniden-hayat-buluyor-886efb66)
@@ -429,57 +479,5 @@ Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, Edirne'deki Hamzabeyli Gümr
 Aramalarda 193 bin 31 adet elektronik sigara ve aksamı, 4 bin 700 adet cep telefonu, 11 bin 263 adet gözlük ve aksesuarı, 8 bin 233 adet ilaç ile 3 bin 600 adet sigara filtresi bulundu. Ele geçirilen kaçak eşyaların toplam gümrüklenmiş piyasa değerinin 558 milyon 594 bin lira olduğu açıklandı.
 
 Bakanlık açıklamasında, haksız rekabetin önlenmesi, kamu sağlığı ile ekonomik çıkarların korunması amacıyla gümrük muhafaza ekiplerinin denetimlerinin kararlılıkla süreceği bildirildi. Ele geçirilen malzemelerle ilgili adli tahkikat Edirne Cumhuriyet Başsavcılığı koordinesinde yürütülüyor.
-
----
-
-## Bakan Tekin COP31'de Duyurdu: 19 Dersin Müfredatına İklim Değişikliği Eklendi
-
-**Eğitim · Türkiye** · 2026-11-14 11:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-cop31039de-duzenlenen-yuksek-duzeyli-bakanlar-acilis-oturumu039nda-hitap-etti/haber/42514/tr)
-
-![](data/images/2abfcd3402b252b1.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin, COP31 zirvesinde okul öncesinden liseye kadar 19 dersin öğretim programına iklim değişikliği ve sürdürülebilirlik konularının yerleştirildiğini açıkladı.
-
-Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, UNESCO iş birliğiyle "Yeşil Eğitimin Merkezinde Çocuklar, Gençler ve Öğretmenler" başlıklı Yüksek Düzeyli Bakanlar Açılış Oturumu gerçekleştirildi. Oturumda konuşan Millî Eğitim Bakanı Yusuf Tekin, çevre krizinin yalnızca yasal düzenlemelerle çözülemeyeceğini, zihniyet dönüşümünün eğitim yoluyla sağlanabileceğini vurguladı.
-
-Türkiye Yüzyılı Maarif Modeli kapsamında yaşanabilir çevreyi odağa aldıklarını belirten Tekin, okul öncesinden ortaöğretime kadar tüm kademelerdeki zorunlu ve seçmeli 19 derse iklim değişikliği ile sürdürülebilirlik başlıklarının eklendiğini söyledi. Bakan Tekin, Çevre Dostu Okul Projesi aracılığıyla okullarda güneş enerjisi panelleri kurulduğunu ve yağmur sularının bahçe sulamasında değerlendirildiğini ifade etti. Sıfır atık uygulamalarının 29 bin 400 okulda tamamlandığı ve 9 milyon öğrencinin Sıfır Atık Sertifikası aldığı bilgisi de paylaşıldı.
-
-Öğretmenlerin çevre bilincindeki rolüne dikkat çeken Bakan Tekin, öğretmen adaylarına yönelik 1200 saatlik iklim ve sürdürülebilirlik hazırlık eğitimi programı uygulandığını, Öğretmen Bilişim Ağı üzerinden verilen çevre eğitimlerine ise şu ana kadar 517 bin öğretmenin katıldığını kaydetti. Ayrıca 30 ilden gelen lise öğrencilerinin hazırladığı ortak gençlik iklim bildirgesinin zirve boyunca dört dilde okunacağı ve genç iklim delegelerinin karar alıcılarla doğrudan temas kuracağı aktarıldı.
-
-Konuşmasında çatışmaların çevreye ve çocuklara verdiği zarara da değinen Tekin, Gazze'deki tahribatı hatırlatarak adalet ve barış olmadan iklim krizine kalıcı bir çözüm üretilemeyeceğini belirtti. Bakan Tekin'in konuşmasının ardından uluslararası temsilcilerin katılımıyla yeşil beceriler ve iklim eğitimi konulu panel gerçekleştirildi.
-
----
-
-## MEB'den Sınav Yönetmeliğinde Değişiklik: İlkokullarda Sınav Tamamen Yasaklandı
-
-**Eğitim · Türkiye** · 2026-11-14 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/olcme-ve-degerlendirme-yonetmeligi039nde-degisiklik-resmi-gazete039de-yayimlandi/haber/42511/tr)
-
-![](data/images/143b58b5ecdac58e.jpg)
-
-> Milli Eğitim Bakanlığı Ölçme ve Değerlendirme Yönetmeliği'nde yaptığı değişiklikle okul öncesi ve ilkokullarda hiçbir ad altında sınav yapılamayacağını duyurdu.
-
-Milli Eğitim Bakanlığına bağlı resmi ve özel okul öncesi, ilköğretim ile ortaöğretim kurumlarında yürütülen ölçme ve değerlendirme faaliyetlerine ilişkin yönetmelik değişikliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Yeni düzenlemeyle ölçme ve değerlendirme süreçlerinin Türkiye Yüzyılı Maarif Modeli ile uyumlu hale getirilmesi hedeflendi.
-
-Yayımlanan yeni yönetmeliğe göre, okul öncesi eğitim kurumlarında ve ilkokullarda herhangi bir isim altında sınav uygulaması yapılamayacak. Bu kademelerde ölçme ve değerlendirmenin temel hedefi, öğrencilerin bilişsel, fiziksel, sosyal ve duygusal gelişim düzeylerinin süreç içerisinde takip edilmesi ve desteklenmesi olacak. Ayrıca elde edilen sonuçlar; öğrenciler, sınıflar, okullar ya da iller arasında kıyaslama ve sıralama amacıyla kullanılamayacak.
-
-Düzenleme kapsamında ölçme ve değerlendirme faaliyetleri yalnızca Bakanlık tarafından uygun bulunan dijital sistemler aracılığıyla yürütülecek. Soru hazırlama ve değerlendirme aşamalarında verimliliği artırmak amacıyla Bakanlık onaylı yapay zekâ araçlarından yararlanılabilecek. Süreçte kişisel verilerin gizliliği esas alınacak.
-
-Yönetmelikle birlikte ABİDE, Dört Beceride Türkçe Dil Gelişimi İzleme ve okul tabanlı araştırmalar tek bir mevzuat çatısı altında birleştirilirken, PISA ve TIMSS gibi uluslararası izleme araştırmalarına yönelik kurallar da yeniden düzenlendi.
-
----
-
-## Tarihi Hacı Halit Konağı Etnografya Müzesi Oluyor: Çalışmalar Son Aşamada
-
-**Kültür-Sanat · Mihalıççık** · 2026-11-14 07:03 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.anadolugazetesi.com/eskisehir-e-yeni-muze-geliyor--tarihi-binada-calismalar-son-asamada--297999.html)
-
-![](data/images/ddb0cf8f5d154506.jpg)
-
-> Eskişehir'in Mihalıççık ilçesinde yer alan tarihi Hacı Halit Konağı, etnografya müzesine dönüştürülüyor. Çalışmalarda son aşamaya gelindi.
-
-Eskişehir'in Mihalıççık ilçe merkezine yaklaşık 32 kilometre mesafede yer alan tarihi Hacı Halit Konağı, kentin yeni etnografya müzesi olmaya hazırlanıyor. Tarihi yapının restore edilerek müzeye dönüştürülmesi sürecinde yürütülen çalışmalarda son aşamaya gelindiği bildirildi.
-
-Müzede sergilenecek etnografik eserlerin Eskişehir Müze Müdürlüğü envanterinden karşılanacağı kaydedildi. Proje kapsamında ildeki müze depolarında ve kayıtlarında yer alan tarihi eserler, düzenlenecek sergi alanlarıyla tarihi konakta halkın ziyaretine açılacak.
-
-Öte yandan, konağın bulunduğu mahallenin ilçe merkezine mesafesi ve ulaşım imkânlarının kısıtlı olması bazı soru işaretlerini de beraberinde getirdi. Bazı ilgililer, Eskişehir genelinde bağımsız bir etnografya müzesi bulunmazken projenin ulaşımı zor bir kırsal yerleşime kurulmasını eleştirerek ziyaretçi sayısının beklenenden düşük kalabileceği yönünde görüş bildirdi. Müzenin hizmete girmesiyle birlikte ulaşım ve ziyaretçi erişimine dönük adımların nasıl şekilleneceği bekleniyor.
 
 ---
