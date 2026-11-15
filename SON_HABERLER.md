@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yunus Emre Devlet Hastanesi'nde Dünya Diyabet Günü Standı Açıldı
+
+**Sağlık · Tepebaşı** · 2026-11-15 07:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-dunya-diyabet-gunune-ozel-etkinlik)
+
+> Eskişehir Yunus Emre Devlet Hastanesi'nde 14 Kasım Dünya Diyabet Günü dolayısıyla vatandaşlara yönelik bilgilendirme ve farkındalık etkinliği gerçekleştirildi.
+
+Eskişehir Yunus Emre Devlet Hastanesi'nde 14 Kasım Dünya Diyabet Günü kapsamında toplumsal bilinci artırmak amacıyla stant açıldı. Etkinliğe Yunus Emre Devlet Hastanesi Başhekimi Dr. Öğr. Üyesi Gamze Akın Mumcu, hastane yöneticileri, sağlık personeli ve çok sayıda vatandaş katılım sağladı.
+
+Hastane içerisinde kurulan bilgilendirme standında görevliler tarafından vatandaşlara diyabetin risk faktörleri, hastalığın erken teşhis edilmesinin önemi ve korunma yöntemleri aktarıldı. Sağlık ekipleri, erken tanının tedavi sürecindeki kritik rolünü vurguladı.
+
+Farkındalık çalışması kapsamında ayrıca dengeli beslenme alışkanlığı, düzenli fiziksel aktivite yapılması ve rutin kan şekeri kontrolünün diyabetle mücadeledeki önemi hatırlatılarak vatandaşlara sağlıklı yaşam tavsiyelerinde bulunuldu.
+
+---
+
 ## Altın fiyatları 15 Kasım 2026: Gram altın 6.373,53 TL
 
 **Ekonomi · Merkez** · 2026-11-15 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -463,19 +477,5 @@ Eskişehir Karadenizliler Derneği öncülüğünde ve B.A.S. Fuar ve Organizasy
 Festival kapsamında Karadeniz mutfağının lezzetleri katılımcıların beğenisine sunulacak. Etkinlik boyunca alanda karalahana çorbası ve kuymak hazırlanırken, ziyaretçilere toplam 1 ton hamsi ikramı gerçekleştirilecek.
 
 Kemençe dinletileri ve horon gösterilerinin yer alacağı festivalde alışveriş stantları ile çocuklar için oyun alanları da kuruldu. Program çerçevesinde sanatçı Mithat Körler, 14 Kasım Cumartesi günü saat 19.00'da sahne alarak konser verecek. Organizatörler üç gün sürecek şölene tüm kent halkını davet etti.
-
----
-
-## Tepebaşı'nda 2 Kişinin Öldüğü Silahlı Kavga Davasında Bir Sanığa Tahliye
-
-**Asayiş · Tepebaşı** · 2026-11-13 20:31 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.canligaste.com/eskisehir-de-2-kisinin-oldugu-silahli-kavgayla-ilgili-5-sanigin-yargilanmasina-baslandi/949292/)
-
-> Eskişehir'in Tepebaşı ilçesinde iki kişinin yaşamını yitirdiği silahlı kavgaya ilişkin 5 sanığın yargılanmasına başlandı; mahkeme bir sanığı tahliye etti.
-
-Eskişehir'in Tepebaşı ilçesine bağlı Fatih Mahallesi'nde bulunan Kumlubel Parkı'nda geçen yıl husumetli iki grup arasında çıkan silahlı çatışmada Enes Öz ile Volkan Taşdelen hayatını kaybetmiş, Ali Han D. ise yaralanmıştı. Olayın ardından açılan davanın ilk duruşması Eskişehir 7. Ağır Ceza Mahkemesi'nde görüldü.
-
-Duruşmaya tutuklu sanıklar Cevdet D., Umut U. ve Ahmet D. ile başka bir suçtan tutuklu bulunan sanık Ali Han D. bizzat katılırken, tutuklu sanık Bayram S. cezaevinden SEGBİS aracılığıyla bağlandı. Taraf avukatlarının da hazır bulunduğu duruşmada sanıklar olay anında yaşanan arbede ve silah kullanımıyla ilgili savunmalarını yaptı.
-
-Savunmaların ardından ara kararını açıklayan mahkeme heyeti, Bayram S.'nin yurt dışına çıkış yasağı ve imza şartıyla tahliyesine hükmetti. Diğer üç tutuklu sanığın tutukluluk hallerinin devamına ve Ali Han D. hakkındaki adli kontrol tedbirlerinin sürdürülmesine karar veren mahkeme, duruşmayı ileri bir tarihe erteledi.
 
 ---
