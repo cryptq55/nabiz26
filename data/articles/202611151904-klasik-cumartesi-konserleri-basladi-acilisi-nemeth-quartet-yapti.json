@@ -22,10 +22,10 @@
     "title": "Eskişehir’de Klasik Cumartesi konserleri Nemeth Quartet ile başladı - Anadolu Gazetesi",
     "url": "https://www.anadolugazetesi.com/amp/eskisehir-de-klasik-cumartesi-konserleri-nemeth-quartet-ile-basladi-298143.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Nemeth Quartet"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
