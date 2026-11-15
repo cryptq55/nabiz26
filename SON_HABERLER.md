@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Türkiye İklim Okulu'nda Sıfır Atık Mutfağı: Bayat Ekmek ve Meyve Kabukları Değerlendirildi
+
+**Türkiye · Türkiye** · 2026-11-15 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye-iklim-okulu-quotgastronomiquot-ve-quotsifir-atikquot-etkinlikleriyle-ziyaretcilerin-ilgi-odagi-oldu/haber/42529/tr)
+
+![](data/images/984b82a38f1347ce.jpg)
+
+> Antalya'daki COP31 kapsamında kurulan Türkiye İklim Okulu'nda düzenlenen gastronomi atölyelerinde bayat ekmek ve narenciye kabukları yeniden sofraya kazandırıldı.
+
+Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Yeşil Bölge alanında, Millî Eğitim Bakanlığı tarafından oluşturulan Türkiye İklim Okulu çeşitli atölye ve panellere ev sahipliği yapmayı sürdürüyor.
+
+Etkinlikler kapsamında şefler ve gastronomi uzmanlarının katılımıyla "Anadolu'nun Bereketinden Geleceğin Mutfağına: Sürdürülebilir Gastronomi" başlıklı oturum gerçekleştirildi. Programda gıda atıklarının değerlendirilmesi, israfın önlenmesi, geleneksel üretim modellerinin korunması ve tarımsal ilaçların bilinçsiz kullanımının doğuracağı riskler ele alındı.
+
+Yaşayan Okul ve İklim Deneyim Alanı'nda düzenlenen atölyelerde ise öğrenciler şeflerle birlikte mutfağa girdi. Gıda israfına dikkat çekilen uygulamalarda, bayat ekmekler kullanılarak fasulye paçası, narenciye kabukları değerlendirilerek ise pankek hazırlandı.
+
+Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır da Türkiye İklim Okulu'nu ziyaret ederek yürütülen çalışmalar hakkında yetkililerden bilgi aldı. Etkinlikler kapsamında ayrıca "Yaşayan Laboratuvardan Sürdürülebilir Geleceğe: Cezeri" başlığıyla sınıflarda enerji tasarrufu ve senaryo temelli problem çözme yöntemleri uzmanlarca ele alındı.
+
+---
+
+## Togg T10F 600 Kilometre Üstü Menzilde Rakiplerine 1,6 Milyon Lira Fark Attı
+
+**Ekonomi · Türkiye** · 2026-11-15 19:04 UTC · Kaynak: [Google Haberler - Togg](https://www.memleket.com.tr/togg-t10f-2-2-milyon-tl-ile-menzilinde-en-ucuzu-oldu-2367143h.htm)
+
+![](data/images/608b792f81615715.jpg)
+
+> Türkiye pazarında tek şarjla 600 kilometreyi aşabilen elektrikli araçlar arasında Togg T10F, 2 milyon 195 bin liralık fiyatıyla en erişilebilir seçenek oldu.
+
+Türkiye otomobil pazarında uzun menzilli elektrikli modeller arasındaki rekabette yerli otomobil Togg T10F öne çıktı. Tek şarjla 600 kilometre sınırını geçebilen araçların yer aldığı karşılaştırmada, Togg T10F V1 RWD Uzun Menzil versiyonu 2 milyon 195 bin 600 TL'lik satış fiyatıyla en yakın rakibine 1,6 milyon TL fark attı.
+
+Katalog verilerine göre 623 kilometre menzil vadeden T10F modelini takip eden en uygun fiyatlı ithal alternatiflerin fiyatı 3,8 milyon TL seviyesinden başlıyor. Karşılaştırma listesinde 680 kilometre menzilli Hyundai IONIQ 6 yaklaşık 3,8 milyon TL, 622 kilometre menzil sunan Tesla Model Y Long Range ise 4,6 milyon TL düzeyinde bulunuyor. Daha üst segmentte yer alan 800 kilometre üzeri menzilli modellerin fiyatları ise 6,8 milyon TL ile 11,8 milyon TL arasında değişiyor.
+
+Uzmanlar, kataloglarda yer alan 623 kilometrelik değerin standart karma test ölçümlerine dayandığına dikkat çekiyor. Soğuk kış koşullarında ve 120 kilometre sabit otoyol hızlarında araçların gerçek menzilinin test verilerinin yaklaşık yüzde 70'ine gerilediği, buna göre Togg T10F uzun menzil sürümünün zorlu koşullarda dahi tek şarjla 450 ila 500 kilometre civarında yol kat edebileceği belirtiliyor.
+
+---
+
+## Klasik Cumartesi Konserleri Başladı: Açılışı Nemeth Quartet Yaptı
+
+**Kültür-Sanat · Merkez** · 2026-11-15 19:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-klasik-cumartesi-konserleri-nemeth-quartet-ile-basladi-298143.html)
+
+> Eskişehir Büyükşehir Belediyesi'nin yeni sezondaki Klasik Cumartesi oda müziği konserleri, Nemeth Quartet'in sahne aldığı dinletiyle başladı.
+
+Eskişehir Büyükşehir Belediyesi tarafından düzenlenen 2026-2027 sanat sezonu Klasik Cumartesi oda müziği konserleri müzikseverlerle buluştu. Serinin açılış etkinliğinde sahneye çıkan Nemeth Quartet, farklı dönem ve kültürlerden seçilen geniş bir repertuvar sundu.
+
+Keman sanatçıları Gülen Ege Serter ve Şeniz Serter, viyola sanatçısı Pınar Basalak ile çello sanatçısı Mutlu Varlık Kocaili'den oluşan dörtlü; Wolfgang Amadeus Mozart, Antonio Vivaldi ve Astor Piazzolla'nın eserlerini icra etti. Programda klasik yapıtların yanı sıra aralarında "Manastır Türküsü"nün de yer aldığı anonim halk ezgilerinin yaylı çalgı düzenlemeleri seslendirildi.
+
+Konser sırasında sanatçılar, çalınan eserler ve yaylı enstrümanlar hakkında izleyicilere tanıtıcı bilgiler aktararak etkinliği çocuklar için eğitici bir buluşmaya dönüştürdü. Çocukların küçük yaşta müzikle tanışmasını ve ailelerin kültür etkinliklerine katılımını hedefleyen konser serisi sezon boyunca sürecek.
+
+---
+
 ## Taşbaşı Çarşısı'nda Tuvalet Çilesi: Yaklaşık Bir Haftadır Kilitli Duruyor
 
 **Gündem · Odunpazarı** · 2026-11-15 15:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.esyenigun.com/eskisehirin-tarihi-carsisinda-tuvalet-krizi-bir-haftadir-kapali)
@@ -435,53 +483,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'ye ziyarette bulunan Bolivya Dev
 Görüşmede Bolivya’yı Latin Amerika’da önemli bir ortak olarak gördüklerini vurgulayan Cumhurbaşkanı Erdoğan, iki ülke arasında savunma sanayii başta olmak üzere pek çok alanda iş birliğini derinleştirmenin taşıdığı önemi ifade etti. Gündemde bulunan anlaşmaların "kazan-kazan" anlayışıyla ilişkilerin ahdi zeminini kuvvetlendireceğini belirten Erdoğan, madencilik gibi potansiyel taşıyan alanlarda da yeni adımların atılabileceğini dile getirdi.
 
 Dolmabahçe'deki kabulde Millî Savunma Bakanı Yaşar Güler, Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran ile Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün de hazır bulundu.
-
----
-
-## Erdoğan'dan Malatya'da Şehit Düşen 4 Askerin Ailesine Taziye Mesajı
-
-**Siyaset · Türkiye** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](http://mobil.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-malatyada-sehit-olan-askerler-icin-taziye-mesaji-43378181)
-
-![](data/images/1c1bc766f2055664.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Malatya'da askeri helikopterin kaza kırıma uğraması sonucu şehit olan 4 askerin ailesine başsağlığı mesajı gönderdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Malatya'da meydana gelen helikopter kazasında şehit düşen askerlerin ailelerine taziye dileklerini iletti.
-
-Edinilen bilgiye göre Cumhurbaşkanı Erdoğan, 12 Kasım'da Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu şehit olan Kara Pilot Binbaşı Erdem Çimen, Kara Pilot Binbaşı Orhun Pınar, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder'in ailelerine başsağlığı mesajı gönderdi.
-
-Erdoğan, mesajında şehitlerin ailelerine sabır ve başsağlığı temennisinde bulundu.
-
----
-
-## Başkan Kurt'tan Kazan'da Yatırım ve Kentsel Gelişim Temasları
-
-**Belediye · Odunpazarı** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/kazim-kurttan-kazanda-is-birligi-temaslari)
-
-![](data/images/4259f150a8cdaa1f.jpg)
-
-> Tataristan'ın başkenti Kazan'da temaslarda bulunan Odunpazarı Belediye Başkanı Kazım Kurt, yatırım, kentsel gelişim ve eğitim alanlarında iş birliği görüşmeleri gerçekleştirdi.
-
-Odunpazarı Belediye Başkanı Kazım Kurt, Tataristan'ın başkenti Kazan'da yürüttüğü temaslar kapsamında çeşitli kurum ve kuruluşların temsilcileriyle bir araya geldi. Görüşmelerde Odunpazarı için yatırım olanakları, kentsel dönüşüm ve gelişim projeleri ile eğitim alanındaki ortak çalışma imkanları masaya yatırıldı.
-
-Ziyaret programı çerçevesinde Tataristan Yatırım Geliştirme Ajansı Başkanı Taliya Minullina ile bir araya gelen Kurt, yatırım fırsatları ve teşvikleri değerlendirdi. Kurt ayrıca Türkiye Cumhuriyeti Kazan Başkonsolosu Uğur Yılmaz ile de görüşme gerçekleştirdi. Bölgedeki genç mimarlarla da buluşan Başkan Kurt, Odunpazarı'nda hayata geçirilen şehircilik uygulamalarını aktararak ortak projeler üzerine fikir alışverişinde bulundu.
-
-Eğitim alanındaki temasları kapsamında Kazan Öğretmen Evi Müdürü Albert Ahmetov eşliğinde öğretmenlerin mesleki gelişimi için kurulan yeni merkezi inceleyen Kurt, temaslarını tamamladı. Ziyaretin ardından değerlendirmede bulunan Kurt, kente yeni fikirler, güçlü dostluklar ve Odunpazarı için uygulanabilecek iş birliği imkanlarıyla veda ettiklerini belirterek ev sahipliği yapan yetkililere teşekkür etti.
-
----
-
-## Bakan Yumaklı Duyurdu: Iğdır'da 109 Bin Dekarlık Sulama Projesinde İhale Tamamlandı
-
-**Tarım · Türkiye** · 2026-11-14 12:11 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.yesiligdir.com/tarim-bakanligi-acikladi-igdira-dev-yatirim)
-
-![](data/images/c91d744bbfd988b5.jpg)
-
-> Tarım ve Orman Bakanlığı, Iğdır'da 109 bin 820 dekar tarım arazisini modern sulama altyapısına kavuşturacak projenin ihalesinin yapıldığını duyurdu.
-
-Tarım ve Orman Bakanı İbrahim Yumaklı, Iğdır'daki tarım arazilerini basınçlı borulu sulama sistemiyle buluşturacak kapsamlı yatırım projesinin ihale sürecinin tamamlandığını açıkladı. Proje kapsamında Ünlendi Barajı ile Kamışlı ve Göktaş regülatörlerinden temin edilen su, kapalı boru sistemiyle arazilere ulaştırılacak.
-
-Sosyal medya hesabı üzerinden yatırımın teknik detaylarını paylaşan Bakan Yumaklı, çalışma çerçevesinde 421 bin 905 metre uzunluğunda boru hattı inşa edileceğini ve toplam 109 bin 820 dekar arazinin sulamaya açılacağını bildirdi.
-
-Projenin arazi düzenlemesini de içerdiğini belirten Yumaklı, 143 bin 110 dekar alanda arazi toplulaştırması yürütüleceğini ve 27 yerleşim biriminde yerinde toplulaştırma faaliyeti gerçekleştirileceğini kaydetti.
 
 ---
