@@ -21,10 +21,10 @@
     "title": "Eskişehir'de İskele 26 kışa hazırlandı - Anka Haber",
     "url": "https://ankahaber.net/haber/eskisehir-de-iskele-26-kisa-hazirlandi-9fa4a339"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Porsuk Çayı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
