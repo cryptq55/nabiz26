@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eski Giysiler Japon Sanatıyla Yenileniyor: Tepebaşı'nda Sashiko Atölyesi Başladı
+
+**Belediye · Tepebaşı** · 2026-11-15 12:46 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-nda-eski-tekstiller-yeniden-hayat-buluyor-886efb66)
+
+![](data/images/73cdebf9ae9bbaf0.jpg)
+
+> Tepebaşı Belediyesi Yeryüzü Ekoloji Okulu, geleneksel Japon el işleme tekniği Sashiko ile eskiyen tekstil ürünlerini yeniden hayata kazandıran ileri dönüşüm atölyesi başlattı.
+
+Tepebaşı Belediyesi, sürdürülebilir yaşam kültürünü yaygınlaştırmak ve çevre bilincini artırmak amacıyla Yeryüzü Ekoloji Okulu bünyesinde "Tekstil Art – Sashiko ile İleri Dönüşüm Atölyesi"ni hayata geçirdi. Atölye çalışmasında, kullanılmayan veya yıpranmış giysilerin onarılarak ve süslenerek kullanım ömrünün uzatılması hedefleniyor.
+
+Emekli resim öğretmeni Hatice Aydoğan Yılmaz rehberliğinde gerçekleştirilen eğitim programının ilk oturumuna 20 ile 63 yaşları arasındaki kursiyerler katıldı. Yılmaz, katılımcılara Japonya'nın geleneksel dikiş sanatı olan Sashiko tekniğinin inceliklerini ve altı haftalık program boyunca uygulanacak yöntemleri aktardı.
+
+18 yaş ve üzerindeki yurttaşlara yönelik düzenlenen atölye, altı hafta süresince her cuma günü 18.00-19.00 saatleri arasında gerçekleştirilecek. Katılımcılar eğitim boyunca hem tekstil atıklarını azaltmanın yollarını öğrenecek hem de eski eşyalarına estetik ve işlevsel bir dokunuş kazandıracak.
+
+---
+
+## 14. Uluslararası Eskişehir Şiir Buluşması Sona Erdi: 13 Şair Katıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-15 12:46 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/14uluslararasıeskisehirsiirbulusmasısonaerdi)
+
+![](data/images/fca0a92be492ae2c.jpg)
+
+> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, Atila Özer Karikatürlü Ev'deki oturum ve dinletilerle tamamlandı.
+
+Tepebaşı Belediyesi ev sahipliğinde bu yıl 14'üncüsü gerçekleştirilen Uluslararası Eskişehir Şiir Buluşması, üç gün süren edebiyat dolu programın ardından sona erdi. İkisi yabancı, 11'i Türk olmak üzere toplam 13 şairin ağırlandığı organizasyonun kapanış etkinlikleri Atila Özer Karikatürlü Ev’de yapıldı.
+
+Buluşma kapsamında Haydar Ergülen moderatörlüğünde Fransız şair Sylvain Cavailles ve Ahmad Zakaria’nın yer aldığı “Dünyadan Sesler” oturumu düzenlendi. Ardından Efnan Ezenel, Begüm Şahbudak, Rahmi Emeç ve Haydar Ergülen’in katılımıyla “İlhan Sami Çomak” oturumu gerçekleştirildi. Programda ayrıca Ahmet Telli belgeseli gösterilirken Ahmet Telli, Elif Sofya ve Serdar Koçak için anma oturumu yapıldı.
+
+Etkinliğin son gününde Gürcan Banger tarafından “Şiir ile Öykü Konuşması” başlıklı oturum sunuldu ve müzik eşliğinde şiir okumaları gerçekleştirildi. Karikatürlü Ev’i ziyaret eden sanatseverler, Tepebaşı Belediyesi Kâğıt Geri Dönüşüm Atölyesi’nde üretilen özel kâğıtlara şairlerin kendi el yazılarıyla kaleme aldığı şiir sergisini de görme fırsatı buldu.
+
+Üç günlük programın tamamlanmasıyla birlikte konuk şairler ve edebiyatseverler, gelecek yıl düzenlenecek 15. buluşmada yeniden bir araya gelme dileğinde bulundu.
+
+---
+
 ## İskele 26 Kışa Hazırlandı: Soğuk Havalara Karşı Dome Alanları Kuruldu
 
 **Belediye · Merkez** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-iskele-26-kisa-hazirlandi-9fa4a339)
@@ -447,39 +481,5 @@ Eskişehir'in Mihalıççık ilçe merkezine yaklaşık 32 kilometre mesafede ye
 Müzede sergilenecek etnografik eserlerin Eskişehir Müze Müdürlüğü envanterinden karşılanacağı kaydedildi. Proje kapsamında ildeki müze depolarında ve kayıtlarında yer alan tarihi eserler, düzenlenecek sergi alanlarıyla tarihi konakta halkın ziyaretine açılacak.
 
 Öte yandan, konağın bulunduğu mahallenin ilçe merkezine mesafesi ve ulaşım imkânlarının kısıtlı olması bazı soru işaretlerini de beraberinde getirdi. Bazı ilgililer, Eskişehir genelinde bağımsız bir etnografya müzesi bulunmazken projenin ulaşımı zor bir kırsal yerleşime kurulmasını eleştirerek ziyaretçi sayısının beklenenden düşük kalabileceği yönünde görüş bildirdi. Müzenin hizmete girmesiyle birlikte ulaşım ve ziyaretçi erişimine dönük adımların nasıl şekilleneceği bekleniyor.
-
----
-
-## Dalışa Eskişehir'de Başlayan Erkan Balk Üst Üste İkinci Kez Dünya Şampiyonu
-
-**Spor · Merkez** · 2026-11-14 07:03 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-basladi-dunya-sampiyonu-oldu-2464608)
-
-> Su altı görüntüleme milli sporcusu Erkan Balk, Bali'de düzenlenen şampiyonada 'Okyanusun Senfonisi' adlı çalışmasıyla üst üste ikinci kez dünya şampiyonluğunu kazandı.
-
-Türkiye Sualtı Sporları Federasyonu (TSSF) milli sporcusu Erkan Balk, su altı görüntüleme dalında uluslararası alanda önemli bir başarıya imza attı. 2023 yılında Küba'da dalış eşi Akın Bağcılar ile birlikte video kategorisinde dünya şampiyonu olarak Türkiye tarihinde bu alanda ilk kez podyuma çıkan Balk, bu unvanını korudu.
-
-Endonezya'nın Bali adasında gerçekleştirilen dünya şampiyonasında doğanın seslerini arayan bir müzisyenin hikayesini konu alan "Okyanusun Senfonisi" isimli kısa filmiyle yarışan Balk, üst üste ikinci kez dünya şampiyonluğuna ulaştı. Yaklaşık 23 yıldır tüplü dalışla ilgilenen ve 4 yıldır uluslararası arenada Türkiye'yi temsil eden milli sporcu, su altı belgeselciliğinde farklı temaları işleyerek başarıya ulaştıklarını belirtti.
-
-Elde edilen başarının 7-8 aylık yoğun bir hazırlık döneminin sonucu olduğunu ifade eden Balk, su altı dünyasında müziği bir araya getiren hikayenin jüri üzerinde derin bir etki bıraktığını söyledi. Balk, federasyonun ve bakanlığın desteğiyle elde edilen bu tecrübeleri yeni yetişen sporculara aktararak başarının kalıcı olmasını hedeflediklerini kaydetti.
-
----
-
-## Altın fiyatları 14 Kasım 2026: Gram altın 6.368,49 TL
-
-**Ekonomi · Merkez** · 2026-11-14 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261114.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.277,23 TL'den alınıyor, 6.368,49 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.368,49 TL, alış fiyatı 6.277,23 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,20 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.380 TL, yarım altın 20.754 TL, tam altın 41.355 TL, ata altın 42.460 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.948,47 TL, has altının gram fiyatı 6.349,44 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,46 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
