@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kasım Ayı SED Yardımı Hesaplara Yattı: Toplam 2,29 Milyar Lira Destek
+
+**Türkiye · Türkiye** · 2026-11-15 19:24 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursatv.com.tr/kasim-ayi-sed-yardimi-ne-kadar-bakanlik-toplam-odemeyi-acikladi)
+
+![](data/images/fcec6dcb66dad8fd.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı kapsamında ihtiyaç sahibi hanelere toplam 2 milyar 291 milyon lira Sosyal ve Ekonomik Destek (SED) ödemesi yapıldığını açıkladı.
+
+Aile ve Sosyal Hizmetler Bakanlığı, çocukların aile ortamında yetişmelerini desteklemek ve eğitim masraflarına katkı sağlamak amacıyla yürütülen Sosyal ve Ekonomik Destek (SED) programında kasım ayı ödemelerini tamamladı. Hak sahiplerinin hesaplarına toplam 2 milyar 291 milyon liralık kaynak aktarıldı.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuk odaklı sosyal hizmetlerde farklı ihtiyaçları göz önüne alarak destek modellerini çeşitlendirdiklerini belirtti. Çocukların ailelerinden kopmadan, kendi sosyal çevrelerinde büyümelerine büyük önem verdiklerini kaydeden Göktaş, SED hizmetiyle ailelerin yanında yer almayı sürdürdüklerini ifade etti.
+
+Ekonomik açıdan zorluk yaşayan aileleri hedefleyen SED programı, çocukların hem temel ihtiyaçlarının karşılanmasını hem de eğitim hayatlarını kesintisiz sürdürebilmelerini amaçlıyor. Bakanlık, yapılan düzenli ödemelerle çocukların sağlıklı ve özgüvenli bireyler olarak topluma kazandırılmasını hedefliyor.
+
+---
+
 ## Türkiye İklim Okulu'nda Sıfır Atık Mutfağı: Bayat Ekmek ve Meyve Kabukları Değerlendirildi
 
 **Türkiye · Türkiye** · 2026-11-15 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye-iklim-okulu-quotgastronomiquot-ve-quotsifir-atikquot-etkinlikleriyle-ziyaretcilerin-ilgi-odagi-oldu/haber/42529/tr)
@@ -467,21 +483,5 @@ Buluşmanın bu yılki onur konuğu olan şair İlhan Sami Çomak, törende yapt
 Tepebaşı Belediye Başkanı Ahmet Ataç, bu yıl ikisi yabancı olmak üzere toplam 13 şairi Eskişehir'de ağırladıklarını belirtti. Ataç, etkinlik kapsamında kâğıt geri dönüşüm atölyesinde hazırlanan özel kâğıtlara yazılan şiirlerden oluşan bir serginin de ziyarete açıldığını aktardı. Fransa'dan Sylvain Cavaillès ve Mısır'dan Ahmad Zakaria da törende konuşma yaparak şiirlerini paylaştı.
 
 Şiir dinletileri, sergiler ve panellerle devam eden festival, Atila Özer Karikatürlü Ev'deki söyleşi ve okuma programlarıyla 15 Kasım Pazar günü tamamlanacak.
-
----
-
-## Erdoğan ve Bolivya Lideri Pereira Dolmabahçe'de Görüştü: Savunma ve Madencilik Masada
-
-**Siyaset · Türkiye** · 2026-11-14 13:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-bolivya-cumhurbaskani-pereira-ile-gorusmesine-iliskin-aciklama)
-
-![](data/images/e09584e065fe8cbd.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Bolivya Devlet Başkanı Rodrigo Paz Pereira ile Dolmabahçe Ofisi'nde bir araya geldi. Zirvede savunma sanayii ve madencilik iş birliği öne çıktı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'ye ziyarette bulunan Bolivya Devlet Başkanı Rodrigo Paz Pereira ile Cumhurbaşkanlığı Dolmabahçe Ofisi’nde bir görüşme gerçekleştirdi. İki liderin bir araya geldiği toplantıda, Türkiye ile Bolivya arasındaki ikili ilişkilerin yanı sıra bölgesel gelişmeler ele alındı.
-
-Görüşmede Bolivya’yı Latin Amerika’da önemli bir ortak olarak gördüklerini vurgulayan Cumhurbaşkanı Erdoğan, iki ülke arasında savunma sanayii başta olmak üzere pek çok alanda iş birliğini derinleştirmenin taşıdığı önemi ifade etti. Gündemde bulunan anlaşmaların "kazan-kazan" anlayışıyla ilişkilerin ahdi zeminini kuvvetlendireceğini belirten Erdoğan, madencilik gibi potansiyel taşıyan alanlarda da yeni adımların atılabileceğini dile getirdi.
-
-Dolmabahçe'deki kabulde Millî Savunma Bakanı Yaşar Güler, Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran ile Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün de hazır bulundu.
 
 ---
