@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg T10X ile Tesla Model Y Karşı Karşıya: Giriş Paketlerinde 565 Bin TL Fark
+
+**Ekonomi · Türkiye** · 2026-11-15 21:04 UTC · Kaynak: [Google Haberler - Togg](https://www.usakhabergazetesi.com.tr/togg-t10x-mi-tesla-model-y-mi-iste-fiyatlari-ve-one-cikan-ozellikleri)
+
+![](data/images/c704ad29a7404dfc.jpg)
+
+> Elektrikli araç pazarında yerli otomobil Togg T10X ile Tesla Model Y'nin kasım ayı fiyat ve teknik özellikleri karşılaştırıldı. İki modelin başlangıç versiyonları arasında 565 bin 937 liralık fark bulunuyor.
+
+Elektrikli otomobil piyasasında araç tercihinde satın alma maliyetinin yanı sıra menzil kapasitesi, şarj süresi ve standart donanımlar belirleyici oluyor. Resmî veriler ve güncel listeler üzerinden yapılan karşılaştırmada, yerli elektrikli SUV Togg T10X ile Tesla Model Y'nin Türkiye pazarındaki başlangıç seçenekleri arasında 565 bin 937 liralık fiyat farkı göze çarpıyor.
+
+Togg'un güncel teslimat listesinde T10X modeli dört ayrı seçenekle sunuluyor. V1 RWD standart menzil paketi 1 milyon 909 bin 48 liradan satışa çıkarken, V1 RWD uzun menzil versiyonu 2 milyon 219 bin 668 lira, V2 RWD uzun menzil paketi ise 2 milyon 411 bin lira seviyesinde yer alıyor. Serinin en üst versiyonu olan V2 4More Obsidiyen ise 3 milyon 218 bin 137 liradan listeleniyor. Arkadan çekişli T10X, 218 beygir güç sunarken uzun menzilli bataryasıyla 523 kilometreye varan menzil vadediyor ve uygun hızlı şarj istasyonlarında yüzde 20'den yüzde 80 seviyesine 26,5 dakikada ulaşabiliyor.
+
+Tesla Model Y tarafında ise arkadan çekişli giriş paketi 2 milyon 474 bin 985 liradan başlıyor. Modelin Premium Long Range arkadan çekişli seçeneği yaklaşık 3 milyon 906 bin lira, dört çeker versiyonu 4 milyon 620 bin lira, en üst paket olan Performance versiyonu ise 4 milyon 966 bin 500 liradan alıcı buluyor. Giriş seviyesindeki Model Y, 100 kilometrede 13,1 kWh birleşik tüketim değeri sunarken batarya ve aktarma organları için 8 yıl veya 160 bin kilometre garanti kapsamında tutuluyor.
+
+Benzer bütçelere sahip versiyonlar incelendiğinde, 2 milyon 411 bin liralık Togg T10X V2 Uzun Menzil ile Tesla Model Y'nin arkadan çekişli başlangıç paketi karşı karşıya geliyor. Togg'un bu seçeneği, Model Y'nin giriş modelinden 63 bin 985 lira daha uygun bir teslim fiyatına sahip bulunuyor. Ancak T10X'e panoramik cam tavan, kış paketi ve ses sistemi gibi ek opsiyonlar dahil edildiğinde aradaki fiyat farkı kapanıyor.
+
+---
+
+## CHP'li Demir Gebze'de Konuştu: Toplumsal Muhalefeti Yeniden Bir Araya Getireceğiz
+
+**Siyaset · Türkiye** · 2026-11-15 21:04 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chpli-demir-toplumsal-muhalefeti-bir-araya-getirip-turkiyeye-rahat-bir-nefes-aldiracagiz)
+
+![](data/images/35ed5fc04f692ca1.jpg)
+
+> Kocaeli'de meslek odasını ziyaret eden CHP Genel Başkan Yardımcısı Deniz Demir, hayat pahalılığı ve parti içindeki gelişmelere ilişkin değerlendirmelerde bulundu.
+
+Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Deniz Demir, Kocaeli temasları kapsamında Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Gebze Temsilciliği’ni ziyaret etti. TMMOB Gebze Temsilcisi Dilek Birol ve oda üyeleriyle buluşan Demir, mesleki meseleler, ekonomik koşullar ve parti bünyesindeki son gelişmeleri ele aldı.
+
+Ziyaret öncesinde ilçe pazarında esnaf ve vatandaşlarla bir araya geldiğini aktaran Demir, hayat pahalılığının yüksek seviyelere ulaştığını ve pazar yerlerinde durgunluk gözlemlediğini söyledi. Asgari ücret ve emekli aylıklarıyla geçinmenin zorlaştığına işaret eden Demir, çalışanların, dar gelirlilerin ve emeklilerin haklarını savunmak adına katkı sunmaya hazır olduklarını ifade etti.
+
+Parti içindeki tartışmalara ve yaşanan ayrılıklara da değinen Demir, Cumhuriyet Halk Partisi kimliğinin önemini vurguladı. Parlamento grubunda 46 milletvekiliyle yollarına devam ettiklerini kaydeden Demir, ayrışmalar yerine tek çatı altında mücadele edilmesi gerektiğini belirtti. Demir, en kısa sürede toplumsal muhalefeti yeniden birleştirmeyi hedeflediklerini sözlerine ekledi.
+
+---
+
 ## Kasım Ayı SED Yardımı Hesaplara Yattı: Toplam 2,29 Milyar Lira Destek
 
 **Türkiye · Türkiye** · 2026-11-15 19:24 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursatv.com.tr/kasim-ayi-sed-yardimi-ne-kadar-bakanlik-toplam-odemeyi-acikladi)
@@ -449,39 +483,5 @@ Bölgesel Amatör Lig'de zirve mücadelesini sürdüren Eskişehirspor'a hafta s
 Anadolu SF ile oynanan müsabakada sağ arka adalesinden sakatlanan kaptan Şimşek'in yapılan kontrolleri ve çekilen MR tetkiklerinde küçük çaplı bir yırtık belirlendi. Sağlık ekibinin değerlendirmesi sonucunda deneyimli futbolcunun Ayvalıkgücü maçında riske edilmeyeceği bildirildi.
 
 Kaptanın yokluğuyla sarsılan kırmızı-siyahlı ekipte orta sahadan gelen haber ise teknik heyeti sevindirdi. Sakatlığı nedeniyle son iki lig karşılaşmasında takımını yalnız bırakan Kerem Baykuş'un tedavisinin tamamlandığı ve zorlu Ayvalıkgücü deplasmanında forma giyebileceği öğrenildi.
-
----
-
-## Eskişehir'de Kış Trafiği İçin Önlemler Masada: Kurumlara Koordinasyon Uyarısı
-
-**Ulaşım · Merkez** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.haberes.com.tr/eskisehirde-kis-mevsimi-trafik-tedbirleri-masaya-yatirildi)
-
-![](data/images/c485169c9abd5319.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz başkanlığında toplanan yetkililer, kış aylarında kent genelinde trafik güvenliğini sağlamak amacıyla alınacak tedbirleri değerlendirdi.
-
-Eskişehir'de kış şartlarının yaklaşmasıyla birlikte trafik güvenliğini sağlamak ve kazaların önüne geçmek amacıyla Kış Mevsimi Trafik Tedbirleri Toplantısı gerçekleştirildi. Vali Dr. Erdinç Yılmaz başkanlığında düzenlenen toplantıya, kamu kurum ve kuruluşlarının temsilcileri ile emniyet ve jandarmanın trafik birimleri yetkilileri katıldı.
-
-Toplantıda, kış boyunca vatandaşların güvenli seyahat edebilmeleri adına karayollarında ve kent içinde alınacak önlemler detaylandırıldı. Kar yağışı, gizli buzlanma ve olumsuz hava şartlarına karşı yollarda yapılacak çalışmalar ile denetim planları görüşüldü.
-
-Kurumlar arası koordinasyonun kritik bir öneme sahip olduğunu belirten Vali Yılmaz, sahadaki tüm ekiplerin hazırlıklarını eksiksiz tamamlaması gerektiğini vurguladı. Vatandaşların can ve mal emniyetinin birinci öncelik olduğuna dikkat çeken Yılmaz, ihtiyaç anında tüm birimlerin süratli ve eşgüdüm içinde hareket etmesini istedi.
-
----
-
-## 14. Şiir Buluşması Başladı: İlhan Sami Çomak ve Yabancı Şairler Tepebaşı'nda
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haberes.com.tr/siir-bulusmasi-siirlerle-ve-muzikle-14-kez-hayat-buldu)
-
-![](data/images/876acdf9440c1d2b.jpg)
-
-> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, Fransa ve Mısır'dan konukların da yer aldığı açılış töreniyle kapılarını açtı.
-
-Tepebaşı Belediyesi'nin ev sahipliğinde bu yıl 14'üncüsü gerçekleştirilen Uluslararası Eskişehir Şiir Buluşması'nın açılış töreni yapıldı. Türkiye Yazarlar Sendikası, PEN ve Kültürlerarası Şiir ve Çeviri Akademisi'nin katkılarıyla düzenlenen etkinliğe; Tepebaşı Belediye Başkanı Ahmet Ataç, Büyükşehir Belediyesi Başkan Vekili Nihat Çuhadar, edebiyatçılar ve çok sayıda sanatsever katıldı.
-
-Buluşmanın bu yılki onur konuğu olan şair İlhan Sami Çomak, törende yaptığı konuşmada Eskişehir'de edebiyatseverlerle bir arada bulunmaktan duyduğu mutluluğu dile getirerek şiirini seslendirdi. Şiir Buluşması Direktörü Haydar Ergülen ise bir kentte 14 yıl boyunca kesintisiz şiir buluşması düzenlemenin önemine dikkat çekerek emeği geçenlere teşekkür etti.
-
-Tepebaşı Belediye Başkanı Ahmet Ataç, bu yıl ikisi yabancı olmak üzere toplam 13 şairi Eskişehir'de ağırladıklarını belirtti. Ataç, etkinlik kapsamında kâğıt geri dönüşüm atölyesinde hazırlanan özel kâğıtlara yazılan şiirlerden oluşan bir serginin de ziyarete açıldığını aktardı. Fransa'dan Sylvain Cavaillès ve Mısır'dan Ahmad Zakaria da törende konuşma yaparak şiirlerini paylaştı.
-
-Şiir dinletileri, sergiler ve panellerle devam eden festival, Atila Özer Karikatürlü Ev'deki söyleşi ve okuma programlarıyla 15 Kasım Pazar günü tamamlanacak.
 
 ---
