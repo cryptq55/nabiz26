@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## İskele 26 Kışa Hazırlandı: Soğuk Havalara Karşı Dome Alanları Kuruldu
+
+**Belediye · Merkez** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-iskele-26-kisa-hazirlandi-9fa4a339)
+
+> Eskişehir Büyükşehir Belediyesi iştiraklerinden Belkent AŞ bünyesindeki İskele 26, kış mevsimi için özel dome alanlarıyla donatıldı.
+
+Eskişehir Büyükşehir Belediyesi tarafından kente kazandırılan ve vatandaşların yoğun ilgi gösterdiği buluşma noktalarından İskele 26'da kış mevsimine yönelik hazırlıklar tamamlandı. Belkent AŞ tarafından işletilen tesis, yeni düzenlemeleriyle kış sezonuna hazır hale getirildi.
+
+Soğuk havalara karşı alana yerleştirilen özel tasarımlı dome alanları, ziyaretçilerin açık hava atmosferini korurken sıcak bir ortamda vakit geçirmelerine olanak tanıyor. Farklı aydınlatma düzenlemeleriyle dikkat çeken yeni oturma alanları, mekânın kış görünümüne katkı sağladı.
+
+Balık ekmek lezzeti ve sosyal yaşam alanlarıyla hem hafta içi hem de hafta sonu Eskişehirlilerden ilgi gören tesis, kış ayları boyunca da misafirlerini ağırlamayı sürdürecek.
+
+---
+
+## Eskişehirspor Ayvalıkgücü Karşısında: Maç Şifresiz Yayınlanacak
+
+**Spor · Tepebaşı** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.ntvspor.net/futbol/galeri-canli-izle-eskisehirspor-ayvalikgucu-maci-ne-zaman-saat-kacta-hangi-kanalda-433047)
+
+![](data/images/dc74314129bbd441.jpg)
+
+> TFF 3. Lig'de mücadele eden Eskişehirspor, 12. hafta randevusunda Ayvalıkgücü Belediyespor'u ağırlıyor. Mücadele Tivibu Spor'dan şifresiz olarak canlı yayınlanacak.
+
+TFF 3. Lig 2. Grup'un 12. hafta karşılaşmasında Eskişehirspor, sahasında Ayvalıkgücü Belediyespor ile karşı karşıya geliyor. Prof. Dr. Fethi Heper Stadyumu'nda oynanacak mücadele saat 15.30'da başlayacak.
+
+Karşılaşmayı stadyumdan izleyemeyecek futbolseverler için yayın ayrıntıları da netleşti. Mücadele, Tivibu Spor ekranlarından şifresiz ve canlı olarak futbolseverlerle buluşacak.
+
+Karşılaşmayı uydu üzerinden takip etmek isteyenler için Türksat 4A frekans bilgileri 11853 MHz frekans, yatay (H) polarizasyon, 25000 sembol oranı ve 3/4 FEC olarak paylaşıldı.
+
+---
+
+## Erdoğan'dan KKTC'nin 43. Yılına Özel Mesaj: Asla Yalnız Bırakmayacağız
+
+**Siyaset · Türkiye** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz-963330.html)
+
+![](data/images/ec82c333f0bda470.jpg)
+
+> Cumhurbaşkanı Erdoğan, KKTC'nin 43. kuruluş yıl dönümünü kutlayarak 'Kıbrıs bizim millî davamızdır, asla yalnız bırakmayacağız' dedi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43'üncü kuruluş yıl dönümü dolayısıyla bir kutlama mesajı yayımladı. Sosyal medya hesabı üzerinden açıklamada bulunan Erdoğan, Kıbrıs davasına verilen desteğin kararlılıkla süreceğini kaydetti.
+
+Mesajında şehit ve gazileri de anan Erdoğan, "Kuzey Kıbrıs Türk Cumhuriyeti’nin 43’üncü kuruluş yıl dönümünü en kalbî duygularımla tebrik ediyor; kahraman şehitlerimizi rahmetle, gazilerimizi şükranla anıyorum. Dayanışmamızı her alanda daha da güçlendirmeye devam edeceğimiz Kıbrıs Türkü kardeşlerime selam ve muhabbetlerimi iletiyorum. Kıbrıs bizim millî davamızdır. Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız" ifadelerini kullandı.
+
+---
+
 ## MEB'den 17 Milyon Öğrenciye Ara Tatil Rehberi ve Etkinlik Kitapları
 
 **Eğitim · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ogrenciler-ara-tatilde-etkinlik-kitaplari-ve-rehberlerle-desteklenecek/haber/42522/tr)
@@ -437,49 +481,5 @@ Ziynet altınlarda çeyrek altın 10.380 TL, yarım altın 20.754 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,46 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## İlkokulda Gerçeği Aratmayan Tatbikat: Miniklere Deprem ve Yangın Eğitimi
-
-**Eğitim · Tepebaşı** · 2026-11-14 05:03 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.iha.com.tr/eskisehir-haberleri/esoguden-ilkokullarda-uygulamali-deprem-ve-yangin-egitimleri-515580824)
-
-> ESOGÜ ve AFAD iş birliğiyle Reşat Benli İlkokulu'nda düzenlenen uygulamalı eğitimde, öğrencilere deprem ve yangın anında yapılması gerekenler tatbikatla anlatıldı.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ), "Dirençli Toplum İçin Erken Yaşta Afet Bilinci" sloganıyla başlattığı ilkokullara yönelik uygulamalı afet eğitimlerini sürdürüyor. 12 Kasım Afet Eğitimi Hazırlık Günü kapsamında Reşat Benli İlkokulu'nda gerçekleştirilen etkinlikte, öğrenci ve öğretmenlere afet anında sergilenecek doğru davranış modelleri ile tahliye adımları uygulamalı olarak aktarıldı.
-
-Yükseköğretim Kurulu (YÖK) Bilim İletişimi Ofisi öncülüğünde yürütülen "Bilim Kafe" etkinlikleri çerçevesinde düzenlenen organizasyona ESOGÜ birimleri, ESOGÜ Arama Kurtarma Ekibi (ESOGÜAK), Afet ve Acil Durum Farkındalık Kulübü, Eskişehir AFAD İl Müdürlüğü ile Millî Eğitim Bakanlığı Arama ve Kurtarma Birimi (MEBAKUB) destek sağladı. Okul bahçesinde kurulan stantlar ve gerçekleştirilen tatbikatlarla öğrencilere arama kurtarma çalışmaları hakkında bilgi verildi.
-
-Eğitim sürecinde ESOGÜ Eğitim ve Öğretimde Mükemmeliyet Merkezi Müdürü Prof. Dr. Ersin Karademir, ESOGÜAK Sivil Savunma Uzmanı Serap Bozdemir ve AFAD personeli görev aldı. Programla çocukların öğrendikleri doğru davranışları aileleri ve çevreleriyle paylaşarak afet farkındalığını yaygınlaştırması amaçlanırken, benzer bilinçlendirme çalışmalarının farklı okullarda devam edeceği kaydedildi.
-
----
-
-## CHP'den Emekli Aylığı Çağrısı: En Düşük Maaş 40 Bin Lira Olmalı
-
-**Siyaset · Türkiye** · 2026-11-14 05:03 UTC · Kaynak: [Google Haberler - CHP](https://ankara-etimesgut.chp.org.tr/haberler/muslim-sari-en-dusuk-emekli-maasi-1-ocaktan-tibaren-40-bin-liraya-cikarilmali)
-
-> CHP Sözcüsü Müslim Sarı, açlık sınırının 38 bin lirayı aştığını belirterek en düşük emekli maaşının 1 Ocak itibarıyla 40 bin liraya yükseltilmesini önerdiklerini söyledi.
-
-CHP Sözcüsü Müslim Sarı, Genel Başkan Yardımcısı Tahsin Tarhan ile birlikte CHP Kocaeli İl Başkanlığı'nda düzenlediği basın toplantısında ekonomi gündemine ilişkin değerlendirmelerde bulundu. Sarı, partisinin ücret politikasının "sıfır açlık" esasına dayandığını vurgulayarak hiçbir ücretin ve gelirin açlık sınırının altında kalmaması gerektiğini ifade etti.
-
-Açlık sınırının 38 bin liraya ulaştığını ve yıl sonunda 40 bin lirayı bulmasının beklendiğini belirten Sarı, 23 bin lira seviyesindeki en düşük emekli maaşının 1 Ocak'tan itibaren yaklaşık yüzde 70 artışla 40 bin liraya çıkarılması çağrısında bulundu. Sarı, geçmiş yıllara kıyasla emekli aylıklarının kişi başına düşen milli gelir artışının oldukça gerisinde kaldığını savundu.
-
-Ekonomide yaşanan gelişmelere de değinen Sarı; konkordato ilan eden firma sayısının 5 binin üzerine çıktığını, işsizliğin ve hayat pahalılığının yükseldiğini ifade etti. Borsadaki manipülasyon iddiaları ve fon krizine ilişkin yürütülen soruşturmaların siyasi ayağının da aydınlatılması gerektiğini dile getiren Sarı, denetim görevini ihmal eden sorumluların ortaya çıkarılmasını istedi.
-
-Gazetecilerin sorularını da yanıtlayan CHP Sözcüsü Sarı, cumhurbaşkanlığı adaylığı ve ittifak tartışmaları için henüz erken olduğunu belirterek partinin şu aşamada bu yönde bir görüşmesi bulunmadığını, önceliklerinin saha çalışmalarıyla halkın sorunlarını dinlemek olduğunu sözlerine ekledi.
-
----
-
-## Togg Engelli Raporuyla ÖTV'siz Alınabiliyor: İşte Kapsamdaki Modeller ve Şartlar
-
-**Ekonomi · Türkiye** · 2026-11-14 01:28 UTC · Kaynak: [Google Haberler - Togg](https://www.engelolma.net/engelli-arac/togg-engelli-raporuyla-otvsiz-alinabilir-mi/400032)
-
-> Yerli elektrikli otomobil Togg'un arkadan itişli T10X ve T10F modelleri, ÖTV muafiyeti üst sınırının altında kalarak engelli raporuyla satın alınabiliyor. Çift motorlu seçenekler ise sınırın üzerinde kalıyor.
-
-Türkiye'de üretilen yerli elektrikli otomobil Togg modellerinde engelli muafiyetiyle araç alımı yapılabiliyor. Yüzde 40 yerli katkı şartını karşılayan T10X ve T10F modellerinin arkadan itişli versiyonları, 2 milyon 873 bin 900 TL olarak belirlenen yasal üst sınırın altında kaldığı için muafiyet kapsamına giriyor. Yaklaşık 3,2 milyon liralık liste fiyatına sahip çift motorlu 4More donanım paketleri ise üst sınırı aştığından istisnadan yararlanamıyor.
-
-Elektrikli araçlardaki ÖTV oranının içten yanmalı motorlara kıyasla daha düşük olması, muafiyet indiriminin tutarını da doğrudan etkiliyor. Yüzde 25 ÖTV diliminde yer alan standart menzilli T10X V1 RWD modelinde muafiyet sağlandığında yaklaşık 380 bin liralık indirim elde ediliyor ve aracın maliyeti 1,53 milyon lira seviyesine iniyor.
-
-Satın alma sürecinde genel ÖTV istisnası kuralları uygulanıyor. Yüzde 90 ve üzeri engelli raporu bulunanlar ile raporunda ve ehliyetinde özel tertibat veya otomatik vites ibaresi yer alan ortopedik engelliler haktan faydalanabiliyor. On yılda bir kullanılabilen bu istisna kapsamında alınan araçların, beş yıl dolmadan muafiyet hakkı olmayan üçüncü kişilere devredilmesi halinde tahsil edilmeyen verginin ödenmesi şart koşuluyor.
 
 ---
