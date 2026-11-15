@@ -21,11 +21,11 @@
     "title": "Eskişehir'İn tarihi çarşısında tuvalet krizi: Bir haftadır kapalı - Eskişehir Yenigün Gazetesi",
     "url": "https://www.esyenigun.com/eskisehirin-tarihi-carsisinda-tuvalet-krizi-bir-haftadir-kapali"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Taşbaşı Çarşısı Eskişehir",
       "Taşbaşı Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
