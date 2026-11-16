@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Karayolları İHA ve SİHA Pisti Oluyor: 52 Güzergah Belirlendi
+
+**Ulaşım · Türkiye** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://notbir.com.tr/gundem/ulastirma-bakani-abdulkadir-uraloglu-acikladi-karayollari-iha-siha-pistleri-olacak)
+
+![](data/images/d76805f7746c08f4.jpg)
+
+> Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, afet ve acil durum lojistiğinde karayollarının insansız hava araçları için pist olarak kullanılacağını bildirdi.
+
+Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, afet, acil durum ve olağanüstü lojistik operasyonlar kapsamında karayolu altyapısının insansız hava araçlarının iniş, kalkış ve konuşlanmasına uygun hale getirilmesi için çalışma yürütüldüğünü açıkladı.
+
+Mevcut yol ağında inceleme yapıldığını belirten Bakan Uraloğlu, fiziki şartları karşılayan 9 bin 562 yol kesimi arasından ilk etapta 7, ardından 45 olmak üzere toplam 52 potansiyel alanın belirlendiğini duyurdu. Projenin ilk deneme uygulaması Manisa-Balıkesir Karayolu'nda gerçekleştirildi.
+
+İlk uygulama alanında hava araçlarının emniyetle iniş kalkış yapabilmesi amacıyla çeşitli düzenlemeler yapıldı. Güzergah çevresinde 3 ayrı noktada 3 bin 600 metrekarelik park alanı oluşturulurken, 5 bin 200 metre uzunluğundaki otokorkuluk söküldü ve 45 trafik levhası kolay sökülebilir hale getirildi.
+
+Milli Savunma Bakanlığı koordinasyonunda Türk Silahlı Kuvvetleri birimleri, İçişleri Bakanlığı unsurları, Karayolları Genel Müdürlüğü ve Baykar iş birliğiyle yapılan tatbikatta AKINCI ve Bayraktar TB2 araçları karayoluna başarıyla iniş ve kalkış yaptı. Uraloğlu, karayolu ağının acil senaryolarda çok yönlü lojistik fayda sağlayacağını ifade etti.
+
+---
+
+## CHP'li Canpolat: Bu Kadrolar Kişisel Çıkarları İçin Mücadele Etmedi
+
+**Siyaset · Türkiye** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - CHP](https://www.habername.com/haber-chp-genel-baskan-yardimcisi-canpolat-fethiyede-partisinin-ilce-baskanligini-302040.htm)
+
+> CHP Genel Başkan Yardımcısı Cemal Canpolat, parti kadrolarının hiçbir dönem şahsi menfaat peşinde koşmadığını ve kamucu belediyecilik anlayışıyla hizmet verdiğini söyledi.
+
+Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Cemal Canpolat, Muğla'nın Fethiye ilçesinde partisinin ilçe başkanlığına ziyarette bulundu. Parti yöneticileri ve üyelerle bir araya gelen Canpolat, parti geleneğinin cumhuriyet değerleri ve halk odaklı anlayış üzerine kurulu olduğunu ifade etti.
+
+CHP kadrolarının Cumhuriyet'i kuran ve bağımsızlığı inşa eden bir geçmişe sahip olduğunu kaydeden Canpolat, "Bu büyük, Cumhuriyet sevdalısı kadrolar, hiçbir dönem kendi kişisel ikballeri, kendi kişisel çıkarları için mücadele etmedi. Hep toplumun değerleriyle, büyük bir aile olmanın mücadelesini verdiler" diye konuştu.
+
+Partili belediyelerin halkçı ve kamucu projeler ürettiğini dile getiren Canpolat, Fethiye Belediye Başkanı Alim Karaca'ya çalışmalarından ötürü teşekkür etti. Canpolat ayrıca Fethiye'nin il statüsüne kavuşacak öncelikli ilçeler arasında yer almasını beklediklerini aktardı. Belediye Başkanı Karaca ise parti çatısı altında halka hizmet etmeye devam edeceğini bildirdi.
+
+Toplantıya CHP Muğla İl Başkanı Halil Karahan, Fethiye İlçe Başkanı Mustafa Barış Güler ve partililer katıldı. Canpolat, ilçe başkanlığındaki görüşmelerin ardından kentteki temaslarını sürdürdü.
+
+---
+
+## Beş Caddede PİTS Dönemi Başladı: Eskişehirlilerden Çift Sıra Park Denetimine Destek
+
+**Ulaşım · Merkez** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirliler-pitsi-degerlendirdi-caddelerimiz-cift-sira-parki-kaldirmiyor)
+
+> Eskişehir Emniyet Müdürlüğü'nün kentin beş işlek caddesinde devreye aldığı Park İhlali Tespit Sistemi (PİTS), çift sıra park yapan sürücülere ceza kesmeye başladı. Uygulamayı değerlendiren bölge sakinleri, denetimlerin trafiği rahatlatacağını belirtti.
+
+Eskişehir Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü, şehir merkezinde trafik akışını engelleyen ve kazalara davetiye çıkaran park ihlallerini önlemek amacıyla Park İhlali Tespit Sistemi'ni (PİTS) faaliyete geçirdi. Nilüfer Caddesi, Birlik Caddesi, Kızılcıklı Mahmut Pehlivan Caddesi, Cengiz Topel Caddesi ve Sakarya-1 Caddesi'nde kurulan kameralı sistemle, ikinci sıra araç parkı yapan sürücülere idari para cezası uygulanıyor.
+
+Uygulamanın devreye girdiği caddelerde yaşayanlar ve esnaf, denetim kararını memnuniyetle karşıladı. Cengiz Topel Caddesi'nde dershane öğretmeni olarak görev yapan Nilüfer Uğraş, caddenin aşırı yoğunluğuna dikkat çekerek giriş ve çıkışlarda büyük sıkıntı yaşandığını, gün içinde çok sayıda kazaya şahit olduklarını ve öğrencilerin yolun karşısına geçişini sağlamakta güçlük çektiklerini ifade etti.
+
+Çift sıra park alışkanlığının acil durumlarda yaratacağı riskleri dile getiren vatandaşlar, özellikle ambulans ve itfaiye gibi araçların daralan yollardan geçemediğini vurguladı. Kızılcıklı Mahmut Pehlivan Caddesi'ndeki araç yoğunluğuna işaret eden mahalle sakinleri, caddelerin mevcut genişliğinin yalnızca tek sıra parkı kaldırdığını kaydetti.
+
+Sistemin trafik güvenliği açısından zorunlu olduğunu belirten vatandaşlardan Mehmet Ulaş ise denetimlerin yanı sıra kalıcı çözüm için otopark sayısının artırılması ve yüksek otopark ücretlerine yönelik adımlar atılması gerektiğini söyledi.
+
+---
+
 ## Sivrihisar'daki Sağlık Yatırımları İçin İl Sağlık Müdürü Bildirici'ye Teşekkür Belgesi
 
 **Sağlık · Sivrihisar** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.tv42haber.com/genel/eskisehir-il-saglik-muduru-doc-dr-yasar-bildiriciye-tesekkur-belgesi-verildi-183746)
@@ -435,55 +485,5 @@ TFF Nesine 3. Lig 2. Grup'ta 24 puanla liderlik koltuğunda oturan Eskişehirspo
 Teknik Direktör Hakan Şapcı yönetiminde gerçekleştirilen antrenmanlarda siyah-kırmızılı ekip, rakibine karşı uygulayacağı taktik plan üzerinde durdu. Futbolcuların antrenmandaki istekli görüntüsü teknik heyeti memnun etti.
 
 Zirvedeki yerini korumak isteyen Eskişehirspor ile Ayvalıkgücü Belediyespor arasındaki karşılaşma, 15 Kasım Pazar günü saat 15.30'da Prof. Dr. Fethi Heper Stadyumu'nda oynanacak.
-
----
-
-## Togg'dan Kasım Kampanyası: 1,5 Milyon Liraya Kadar Sıfır Faiz Fırsatı
-
-**Ekonomi · Türkiye** · 2026-11-14 18:47 UTC · Kaynak: [Google Haberler - Togg](https://www.haberx.com/toggtan-otomobil-almak-isteyenlere-15-milyon-tlye-kadar-faizsiz-kredi/)
-
-![](data/images/ecd738b703a0b232.jpg)
-
-> Yerli otomobil üreticisi Togg, T10X ve T10F modelleri için 1,5 milyon liraya kadar sıfır faizli finansman desteği içeren yeni kampanyasını duyurdu.
-
-Türkiye'nin yerli otomobil üreticisi Togg, Kasım 2026 dönemine ilişkin yeni finansman desteğini açıkladı. Kampanya çerçevesinde, T10X ve sedan gövdeli T10F modellerini satın almak isteyen müşterilere 1,5 milyon liraya varan faizsiz kredi imkânı sağlanıyor. Açıklanan güncel fiyat listesine göre T10X modeli 1 milyon 909 bin 48 liradan, T10F modeli ise 1 milyon 884 bin 980 liradan alıcı bekliyor.
-
-Her iki modelin V2 donanım seviyesinde tüketicilere farklı vade seçenekleriyle faizsiz finansman desteği veriliyor. Bu kapsamda 700 bin lira için 4 ay, 500 bin lira için 6 ay ve 300 bin lira için belirlenen vadelerde faiz uygulanmıyor. Performans odaklı 4More paketini tercih eden alıcılar ise 1,5 milyon liralık kredi desteğini 10 ay boyunca faizsiz kullanabiliyor. Bireysel başvurularda ayrıca 1 milyon 700 bin liraya kadar uzanan tutarlar için 48 ay vade ve aylık yüzde 2,95 faiz oranı seçeneği de sunuluyor.
-
-Kampanyada şirketler ve ticari alıcılar için de özel imkânlar yer alıyor. Kurumsal müşteriler ile şahıs şirketlerine yönelik pakette, banka onayına bağlı olarak aracın fatura tutarının tamamına kadar kredi kullanılabiliyor. Şirketlerin filo yenileme maliyetlerini hafifletmeyi amaçlayan bu uygulamanın yanı sıra, 4More donanımlı modellerde kurumsal müşteriler de 1,5 milyon liraya kadar faizsiz kredi imkânından yararlanabiliyor.
-
----
-
-## Kurtuluş Mahallesi'nde Kötü Kokular Üzerine Girilen Evde Acı Bulgu
-
-**Asayiş · Odunpazarı** · 2026-11-14 17:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-35-yasindaki-kisi-evinde-olu-bulundu-2556147)
-
-![](data/images/169e69048379c7a5.jpg)
-
-> Odunpazarı'nda bir apartman dairesinden yayılan kokular üzerine adrese giren ekipler, tek başına yaşayan 35 yaşındaki kişiyi hareketsiz halde buldu. Sağlık ekipleri şahsın yaşamını yitirdiğini belirledi.
-
-Eskişehir'in Odunpazarı ilçesine bağlı Kurtuluş Mahallesi Ziyapaşa Caddesi'ndeki bir apartmanda yaşayan vatandaşlar, binadaki bir daireden yoğun koku gelmesi üzerine durumu 112 Acil Çağrı Merkezine bildirdi.
-
-İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri yönlendirildi. Kapının açılmasıyla eve giren ekipler, ikamette yalnız kaldığı öğrenilen 35 yaşındaki A.T.K.'yi yerde hareketsiz yatarken buldu. Sağlık görevlilerinin yaptığı kontrollerde şahsın hayatını kaybettiği tespit edildi.
-
-Olay yerinde incelemelerde bulunan belediye tabibi, 35 yaşındaki vatandaşın vefatını şüpheli ölüm olarak değerlendirdi. Polis ekipleri olayla ilgili geniş çaplı inceleme başlatırken, cenaze kesin ölüm nedeninin belirlenmesi amacıyla otopsi yapılmak üzere Eskişehir Şehir Hastanesi morguna kaldırıldı.
-
----
-
-## Bakanlar Tekin ve Kurum Duyurdu: Türkiye İklim Okulu Kapılarını Açtı
-
-**Eğitim · Türkiye** · 2026-11-14 17:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakanlar-tekin-ve-kurum039un-katilimiyla-turkiye-iklim-okulu039nun-acilisi-yapildi/haber/42516/tr)
-
-![](data/images/bfa3b1f8949d30da.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un katılımıyla Türkiye İklim Okulu resmen açıldı.
-
-Millî Eğitim Bakanı Yusuf Tekin ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un katılımıyla Türkiye İklim Okulu hizmete girdi. Programda çevre bilincinin eğitim yoluyla yeni nesillere kazandırılması gerektiği vurgulandı.
-
-Açılışta konuşan Millî Eğitim Bakanı Yusuf Tekin, eğitim sisteminin Türkiye Yüzyılı Maarif Modeli ile revize edildiğini belirterek merkeze insanı ve insani değerleri aldıklarını söyledi. Yaşanabilir bir çevre inşa etmek için çevre bilincine sahip nesiller yetiştirilmesinin zorunlu olduğunu ifade eden Tekin, bunun da ancak eğitim öğretim süreçleriyle mümkün olabileceğini dile getirdi.
-
-COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ise Türkiye İklim Okulu'nun kapılarını hem bir eğitim yuvası hem de ortak geleceğin temsilcisi olarak açtıklarını kaydetti. Çocukların bu mekânda iklim değişikliğini öğreneceğini ve çözümler tasarlayacağını anlatan Kurum, Antalya'dan yükselen bu girişimin tüm Türkiye'deki okullara yayılmasını arzu ettiklerini belirtti.
-
-Törende, Maarif İklim Ideathonu ile COP31 Uluslararası Öğrenci Münazarası'nda dereceye giren öğrencilere ödülleri verildi. Açılışın ardından Bakan Tekin, okul bünyesindeki atölyeleri gezerek öğrencilerin yürüttüğü faaliyetleri yerinde inceledi.
 
 ---
