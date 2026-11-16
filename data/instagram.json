@@ -1,7 +1,5 @@
 {
  "stories": [
-  "202610221132-acikogretim-mezunu-cifte-anadolu-universitesinde-basari-belgesi-verild",
-  "202610221345-piyano-gunlerinde-iris-senturker-masterclass-verdi",
   "202610221345-piyano-gunlerinde-21-yuzyil-muzigi-soylesisi-yapildi",
   "202610221345-vali-yilmaz-ticaret-borsasi-baskani-ahmet-oguz-ve-yonetimini-kabul-ett",
   "202610221345-odunpazarinda-sokak-muzisyenleri-icin-secmeler-yapildi",
@@ -499,7 +497,9 @@
   "202611161943-3-lig-2-grupta-12-hafta-geride-kaldi-eskisehirspor-zirve-takibini-surd",
   "202611161943-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi-hurmetle-yad-ediyorum",
   "202611161943-eskisehirde-kadim-tohum-kavilca-bugdayi-ekim-alani-3-katina-cikti-210-",
-  "202611161943-kaligrafi-ve-tipografiyle-yunus-emre-18-festival-sergisi-kapilarini-ac"
+  "202611161943-kaligrafi-ve-tipografiyle-yunus-emre-18-festival-sergisi-kapilarini-ac",
+  "202611162108-anadolu-universitesinden-uc-yeni-eser-arkeolojiden-dans-tarihine-acik-",
+  "202611162109-otogarda-siki-denetim-sefer-saatleri-ve-belgeler-incelendi"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -714,10 +714,11 @@
   "202611161304-odunpazarinda-ikinci-taksit-icin-sure-daraliyor-vergi-odemelerinde-son",
   "202611161339-eskisehirsporda-atalay-yildirim-soku-koprucuk-kemigi-kirildi-ameliyat-",
   "202611161943-3-lig-2-grupta-12-hafta-geride-kaldi-eskisehirspor-zirve-takibini-surd",
-  "202611161943-kaligrafi-ve-tipografiyle-yunus-emre-18-festival-sergisi-kapilarini-ac"
+  "202611161943-kaligrafi-ve-tipografiyle-yunus-emre-18-festival-sergisi-kapilarini-ac",
+  "202611162109-otogarda-siki-denetim-sefer-saatleri-ve-belgeler-incelendi",
+  "202611162108-anadolu-universitesinden-uc-yeni-eser-arkeolojiden-dans-tarihine-acik-"
  ],
  "log": [
-  1794776794.6182427,
   1794827270.7580724,
   1794827362.659541,
   1794827381.354037,
@@ -731,7 +732,9 @@
   1794858420.5537276,
   1794858479.762175,
   1794858494.575174,
-  1794858510.809859
+  1794858510.809859,
+  1794863502.9429371,
+  1794863560.1687558
  ],
  "reel_log": [
   1794827270.7580743,
@@ -740,6 +743,8 @@
   1794834644.1136558,
   1794836560.260785,
   1794858420.5537298,
-  1794858479.7621763
+  1794858479.7621763,
+  1794863502.9429393,
+  1794863560.168758
  ]
 }
