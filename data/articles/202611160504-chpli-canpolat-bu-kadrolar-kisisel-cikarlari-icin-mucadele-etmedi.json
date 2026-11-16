@@ -20,10 +20,10 @@
     "title": "CHP Genel Başkan Yardımcısı Canpolat, Fethiye'de partisinin ilçe başkanlığını ziyaret etti - Habername.com",
     "url": "https://www.habername.com/haber-chp-genel-baskan-yardimcisi-canpolat-fethiyede-partisinin-ilce-baskanligini-302040.htm"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Cemal Canpolat"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

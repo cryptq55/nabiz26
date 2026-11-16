@@ -23,10 +23,10 @@
     "title": "Eskişehirliler PİTS’i değerlendirdi: “Caddelerimiz Çift Sıra Parkı Kaldırmıyor - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/eskisehirliler-pitsi-degerlendirdi-caddelerimiz-cift-sira-parki-kaldirmiyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kızılcıklı Mahmut Pehlivan Caddesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
