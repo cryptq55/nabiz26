@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı Belediyesi'nde Personele Diyabet Taraması ve Bilgilendirme
+
+**Sağlık · Odunpazarı** · 2026-11-16 07:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-diyabet-farkindaligi)
+
+![](data/images/7d7ad1cd4d10fd84.jpg)
+
+> Odunpazarı Belediyesi, 14 Kasım Dünya Diyabet Günü kapsamında çalışanlarına yönelik kan şekeri ölçümü ve farkındalık etkinliği gerçekleştirdi.
+
+Odunpazarı Belediyesi Engelli ve Yaşlı Hizmetleri Müdürlüğü, 14 Kasım Dünya Diyabet Günü dolayısıyla belediye çalışanlarına yönelik sağlık taraması ve bilgilendirme programı düzenledi.
+
+Belediyenin ana hizmet binası ile Park ve Bahçeler Müdürlüğü şantiyesinde kurulan noktalarda personelin kan şekeri ölçümleri yapıldı. Sağlık ekipleri, çalışanlara diyabet hastalığının belirtileri ve korunma yolları hakkında bilgi verdi.
+
+Yoğun ilgi gören etkinlik kapsamında dağıtılan bilgilendirici broşürlerle erken teşhisin önemine dikkat çekildi ve sağlıklı yaşam alışkanlıklarının benimsenmesi teşvik edildi.
+
+---
+
+## Cumhurbaşkanı Erdoğan'ın 21 Kasım İzmir Ziyareti Aralık Ayına Ertelendi
+
+**Siyaset · Türkiye** · 2026-11-16 07:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.gundemebakis.com/erdoganin-izmir-programina-erteleme)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan’ın 21 Kasım’da İzmir’de gerçekleştirmesi planlanan toplu açılış ve rozet takma programı ileri bir tarihe ertelendi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan’ın 21 Kasım tarihinde İzmir’e yapmayı planladığı resmi ziyaret programı ertelendi.
+
+İlk planlamaya göre Erdoğan'ın Konak Meydanı’nda düzenlenecek toplu açılış törenine katılması, partiye katılacak belediye başkanlarına rozet takması ve kente ilişkin çeşitli yatırım projelerine dair açıklamalarda bulunması bekleniyordu.
+
+Programın ertelenmesinin ardından Cumhurbaşkanı Erdoğan'ın İzmir ziyaretini aralık ayı içerisinde gerçekleştirmesinin planlandığı öğrenildi.
+
+---
+
 ## Altın fiyatları 16 Kasım 2026: Gram altın 6.298,08 TL
 
 **Ekonomi · Merkez** · 2026-11-16 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -457,37 +487,5 @@ Ziynet altınlarda çeyrek altın 10.388 TL, yarım altın 20.770 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,50 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Özel Eğitimde Erken Tarama Dönemi: Riskli Öğrenciler İçin Yeni Sistem Geliyor
-
-**Eğitim · Türkiye** · 2026-11-15 05:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ozel-egitim-ihtiyaci-bulunan-ogrenciler-icin-erken-tarama-sistemi-yayginlastirilacak/haber/42521/tr)
-
-![](data/images/73481e4b61cc6068.jpg)
-
-> Milli Eğitim Bakanlığı, özel eğitim ihtiyacı bulunan çocukların erken fark edilmesi amacıyla geliştirilen tarama bataryasını 2027'de e-Rehberlik sistemine entegre ederek yaygınlaştıracak.
-
-Milli Eğitim Bakanlığı, özel eğitim ihtiyacı olan öğrencilerin eğitim imkânlarından tam olarak yararlanabilmesi ve bireysel gelişimlerinin desteklenmesi amacıyla erken tarama çalışmalarına hız verdi. "Temel Eğitimde Özel Eğitim Strateji Belgesi" kapsamında UNICEF iş birliğiyle hazırlanan Eğitsel Tarama ve Değerlendirme Bataryası'nın ülke genelinde kullanıma açılması planlanıyor.
-
-Yeni sistem sayesinde okul öncesi öğretmenleri ile ilkokul 1, 2 ve 3'üncü sınıf öğretmenleri, gelişimsel risk altındaki öğrencileri erken evrede fark ederek tanılama ve destek süreçlerine yönlendirebilecek. Uygulamanın 2027 yılı itibarıyla e-Rehberlik Modülü'ne dahil edilmesi ve sahadaki öğretmenlerin tarama sürecindeki etkinliğinin artırılması hedefleniyor.
-
-Öte yandan özel eğitimde tanı ve değerlendirme aşamalarında yerli ölçme araçları yaygınlaştırılıyor. Bilgisayar tabanlı ilk yerli zekâ testi olan ve BİLSEM yerleştirmelerinde de yararlanılan Türk Ulusal Zeka Ölçeği'nin (TUZÖ) ardından, 6-9 yaş aralığına özel sözel olmayan yeni bir zekâ testi geliştirme çalışmalarının başlatıldığı bildirildi.
-
----
-
-## Bakan Tekin COP31 Heyetiyle Çevreci Anaokulunu İnceledi
-
-**Eğitim · Türkiye** · 2026-11-14 22:59 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/bakan-tekin-cop31039in-quotegitimquot-temali-gununde-katilimcilarla-bir-araya-geldi/haber/42520/tr)
-
-![](data/images/43fdf8440844feee.jpg)
-
-> Millî Eğitim Bakanı Yusuf Tekin, COP31 zirvesi kapsamında yabancı heyet üyeleriyle Antalya'daki çevreci uygulamalarıyla öne çıkan anaokulunu ziyaret etti.
-
-Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) "Çocuklar, Gençlik, Eğitim ve Beceriler" temalı gününde çeşitli temaslar gerçekleştirildi. Millî Eğitim Bakanı Yusuf Tekin, zirve alanındaki oturumların ardından Mavi Bölge'deki Çocuk ve Gençlik pavilyonunun açılışını yaptı.
-
-Bakan Tekin, Memur-Sen ve Uluslararası Emek Konfederasyonu tarafından hazırlanan ve Gazze'deki çevresel ile insani yıkımı anlatan "Dönüş Umudu: El-Avde-Zeytin Ağacı Hikayesi" sergisini inceledi. Zirve alanındaki stantları gezen Tekin, öğrenciler ve sivil toplum temsilcileriyle bir araya geldi.
-
-Temaslar kapsamında Bakanlar Oturumu'na katılan yabancı heyetlerle yemekte buluşan Tekin, daha sonra konuk bakan ve temsilcilerle Muratpaşa'daki 15 Temmuz Şehitler Anaokuluna geçti. Ziyarette Nepal Eğitim ve Spor Bakanı Sasmit Pokharel, UNESCO ve OECD temsilcileri de yer aldı. Heyet, okulun mini serasını, doğa temelli öğrenme ve sürdürülebilir yaşam becerileri atölyelerini yerinde inceleyerek öğretmenlerden bilgi aldı.
 
 ---
