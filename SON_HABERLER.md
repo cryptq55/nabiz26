@@ -2,6 +2,72 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-16 19:43 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/wb4odbkemtj1p5utywg0t8c3)
+
+![](data/images/8a09b3b6d86c1a80.jpg)
+
+> Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde açılan 'Yunus Emre' sergisinde, büyük düşünürün sözleri kaligrafi ve tipografinin estetik olanaklarıyla sanatseverlerle buluştu.
+
+Anadolu Üniversitesi Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü tarafından düzenlenen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında hazırlanan “Yunus Emre” sergisi, Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde ziyarete açıldı. Yunus Emre’nin felsefesini yazının sanatsal gücüyle buluşturan serginin açılışına 1'inci Ana Jet Üs Komutanı Tuğgeneral Erol Gökmen, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman, akademisyenler ve öğrenciler katıldı.
+
+Açılışta konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Yunus Emre'nin barış ve sevgi felsefesini gelecek kuşaklara aktarmada sanatın kritik rol oynadığını vurguladı. Sanatçıların ve öğrencilerin Yunus'un sözlerini estetik bir dille yeniden yorumladığını belirten Adıgüzel, üniversitede geçen yılın Yunus Emre Yılı, bu eğitim öğretim yılının ise Nasreddin Hoca Yılı ilan edildiğini hatırlattı.
+
+Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman da Yunus Emre’nin insanın ortak değerlerine seslenen evrensel bir miras bıraktığına dikkat çekti. Festival organizasyon komitesi üyesi Dr. Öğr. Üyesi Mehtap Uygungöz ise 2009'dan beri süren etkinliğin Latin harfli modern yazı sanatı ile geleneksel hat sanatını harmanlayan özgün bir modele dönüştüğünü ve öğrencilerin bizzat üretim sürecine katıldığını aktardı.
+
+Yunus Emre’nin düşünce dünyasını yazı sanatıyla harmanlayan sergi, 11 Aralık Cuma gününe kadar Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde gezilebilecek.
+
+---
+
+## Eskişehir'de Kadim Tohum Kavılca Buğdayı Ekim Alanı 3 Katına Çıktı: 210 Dekara Ulaştı
+
+**Tarım · Seyitgazi** · 2026-11-16 19:43 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13565&cat_icerik=1&menu_id=24)
+
+![](data/images/e233711e26b6a447.jpg)
+
+> Eskişehir Büyükşehir Belediyesi, binlerce yıllık geçmişe sahip kavılca buğdayının ekim alanını 70 dekardan 210 dekara çıkardı. Tohumlar Seyitgazi'de de toprakla buluştu.
+
+Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı, Anadolu'nun köklü tarım miraslarından kavılca buğdayını yeniden kente kazandırmak için ekim sahalarını genişletiyor. Geçtiğimiz üretim sezonunda yaklaşık 70 dekar alanda yapılan ve bölge ortalamasının üzerinde verim sağlanan üretimden elde edilen tohumluklar, bu yılki ekim alanının 210 dekara yükselmesini sağladı.
+
+Proje kapsamında Seyitgazi Belediyesi ile ortak bir çalışma da hayata geçirildi. İki belediye arasındaki iş birliği protokolü çerçevesinde, Seyitgazi ilçesine bağlı Yenikent Mahallesi'nde Küllüoba kazı çalışmalarının sürdüğü bölgedeki 10 dekarlık belediye arazisine kavılca buğdayı ekildi.
+
+Yerel tarımsal çeşitliliği korumayı ve ata tohumlarını gelecek nesillere aktarmayı hedefleyen Büyükşehir Belediyesi, hasat edilecek yeni ürünleri tohumluk olarak değerlendirerek kavılca buğdayının Eskişehir genelindeki yaygınlığını artırmayı sürdürecek.
+
+---
+
+## Erdoğan Vefatının 5. Yılında Sezai Karakoç'u Andı: 'Hürmetle Yad Ediyorum'
+
+**Siyaset · Türkiye** · 2026-11-16 19:43 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi/4126829)
+
+![](data/images/c110f03facd99bb8.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünce insanı Sezai Karakoç'u vefatının 5. yıl dönümünde yayımladığı mesajla andı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Türk edebiyatının ve düşünce dünyasının önemli isimlerinden Sezai Karakoç'un vefatının 5. yılı dolayısıyla bir anma mesajı paylaştı.
+
+Sosyal medya hesabı üzerinden açıklamada bulunan Cumhurbaşkanı Erdoğan, "Ebediyete irtihalinin 5'inci yılında Diriliş Şairimiz Üstat Sezai Karakoç'u rahmetle, hürmetle yad ediyorum." ifadelerine yer verdi.
+
+---
+
+## 3. Lig 2. Grup'ta 12. Hafta Geride Kaldı: Eskişehirspor Zirve Takibini Sürdürüyor
+
+**Spor · Merkez** · 2026-11-16 19:43 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.habercitv.com.tr/3-lig-2-grup-puan-durumu-ve-12-hafta-mac-sonuclari)
+
+![](data/images/1543266dde4cd874.jpg)
+
+> Nesine 3. Lig 2. Grup'ta 12. hafta maçlarının ardından Eskişehirspor, lider Etimesgut Spor'un bir puan gerisinde 25 puanla ikinci sıradaki yerini korudu.
+
+Nesine 3. Lig 2. Grup'ta 12. hafta karşılaşmaları tamamlandı. Sahasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor, haftayı 25 puanla ikinci sırada kapattı. Gaziemir G.O.G. Spor'u 5-0 mağlup eden Etimesgut Spor ise 26 puana yükselerek liderlik koltuğuna oturdu.
+
+Grupta zirve mücadelesi büyük çekişmeye sahne oluyor. Lider Etimesgut Spor'u 25'er puanla Eskişehirspor ve Gemlik Sümerbey takip ederken, Balıkesirspor ile Karşıyaka 24'er puanla sıralandı. Rakip fileleri 33 kez havalandıran Eskişehirspor, 12 hafta sonunda grubun en golcü takımı unvanını elinde bulunduruyor.
+
+Eskişehir'in gruptaki bir diğer temsilcisi Eskişehir Anadolu Spor ise deplasmanda Balıkesirspor ile 1-1 berabere kalarak puanını 22'ye yükseltti ve haftayı 7. sırada tamamladı.
+
+Ligin 13. haftasında Eskişehirspor, 22 Kasım Pazar günü saat 13.00'te deplasmanda Söke 1970 Spor ile karşılaşacak. Aynı gün Eskişehir Anadolu Spor ise sahasında 1922 Akşehir Spor'u konuk edecek.
+
+---
+
 ## ESTÜ Kamu İletişimi Eğitiminde: 'Hassas Verileri Yapay Zekâya Vermeyin' Uyarısı
 
 **Eğitim · Tepebaşı** · 2026-11-16 19:14 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-iletisimin-yuzyili-guclu-iletisim-etkin-kamu-egitim-programina-katildi)
@@ -407,73 +473,5 @@ Yılda yaklaşık 100 bin seyirciye ulaşan Eskişehir Şehir Tiyatroları'nın 
 Toplantıda Özel, partiye verilen destek ve kongre süreçlerine sunulan katkılar nedeniyle eski milletvekillerine teşekkürlerini iletti. Görüşmede parlamenterlerin yeni döneme ilişkin değerlendirmeleri ele alındı.
 
 Özgür Özel, katılımcıları temsilen eski Başbakan Bülent Ecevit'in davetiyle siyasete giren ve 60 yıldır siyasetin içinde bulunan 94 yaşındaki Cumhuriyet Senatörü Ziya Gökalp Mülayim'e parti rozetini taktı. Buluşma, katılımcılarla çekilen hatıra fotoğrafıyla sona erdi.
-
----
-
-## Togg T10X ile Tesla Model Y Karşı Karşıya: Giriş Paketlerinde 565 Bin TL Fark
-
-**Ekonomi · Türkiye** · 2026-11-15 21:04 UTC · Kaynak: [Google Haberler - Togg](https://www.usakhabergazetesi.com.tr/togg-t10x-mi-tesla-model-y-mi-iste-fiyatlari-ve-one-cikan-ozellikleri)
-
-![](data/images/c704ad29a7404dfc.jpg)
-
-> Elektrikli araç pazarında yerli otomobil Togg T10X ile Tesla Model Y'nin kasım ayı fiyat ve teknik özellikleri karşılaştırıldı. İki modelin başlangıç versiyonları arasında 565 bin 937 liralık fark bulunuyor.
-
-Elektrikli otomobil piyasasında araç tercihinde satın alma maliyetinin yanı sıra menzil kapasitesi, şarj süresi ve standart donanımlar belirleyici oluyor. Resmî veriler ve güncel listeler üzerinden yapılan karşılaştırmada, yerli elektrikli SUV Togg T10X ile Tesla Model Y'nin Türkiye pazarındaki başlangıç seçenekleri arasında 565 bin 937 liralık fiyat farkı göze çarpıyor.
-
-Togg'un güncel teslimat listesinde T10X modeli dört ayrı seçenekle sunuluyor. V1 RWD standart menzil paketi 1 milyon 909 bin 48 liradan satışa çıkarken, V1 RWD uzun menzil versiyonu 2 milyon 219 bin 668 lira, V2 RWD uzun menzil paketi ise 2 milyon 411 bin lira seviyesinde yer alıyor. Serinin en üst versiyonu olan V2 4More Obsidiyen ise 3 milyon 218 bin 137 liradan listeleniyor. Arkadan çekişli T10X, 218 beygir güç sunarken uzun menzilli bataryasıyla 523 kilometreye varan menzil vadediyor ve uygun hızlı şarj istasyonlarında yüzde 20'den yüzde 80 seviyesine 26,5 dakikada ulaşabiliyor.
-
-Tesla Model Y tarafında ise arkadan çekişli giriş paketi 2 milyon 474 bin 985 liradan başlıyor. Modelin Premium Long Range arkadan çekişli seçeneği yaklaşık 3 milyon 906 bin lira, dört çeker versiyonu 4 milyon 620 bin lira, en üst paket olan Performance versiyonu ise 4 milyon 966 bin 500 liradan alıcı buluyor. Giriş seviyesindeki Model Y, 100 kilometrede 13,1 kWh birleşik tüketim değeri sunarken batarya ve aktarma organları için 8 yıl veya 160 bin kilometre garanti kapsamında tutuluyor.
-
-Benzer bütçelere sahip versiyonlar incelendiğinde, 2 milyon 411 bin liralık Togg T10X V2 Uzun Menzil ile Tesla Model Y'nin arkadan çekişli başlangıç paketi karşı karşıya geliyor. Togg'un bu seçeneği, Model Y'nin giriş modelinden 63 bin 985 lira daha uygun bir teslim fiyatına sahip bulunuyor. Ancak T10X'e panoramik cam tavan, kış paketi ve ses sistemi gibi ek opsiyonlar dahil edildiğinde aradaki fiyat farkı kapanıyor.
-
----
-
-## CHP'li Demir Gebze'de Konuştu: Toplumsal Muhalefeti Yeniden Bir Araya Getireceğiz
-
-**Siyaset · Türkiye** · 2026-11-15 21:04 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chpli-demir-toplumsal-muhalefeti-bir-araya-getirip-turkiyeye-rahat-bir-nefes-aldiracagiz)
-
-![](data/images/35ed5fc04f692ca1.jpg)
-
-> Kocaeli'de meslek odasını ziyaret eden CHP Genel Başkan Yardımcısı Deniz Demir, hayat pahalılığı ve parti içindeki gelişmelere ilişkin değerlendirmelerde bulundu.
-
-Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Deniz Demir, Kocaeli temasları kapsamında Türk Mühendis ve Mimar Odaları Birliği (TMMOB) Gebze Temsilciliği’ni ziyaret etti. TMMOB Gebze Temsilcisi Dilek Birol ve oda üyeleriyle buluşan Demir, mesleki meseleler, ekonomik koşullar ve parti bünyesindeki son gelişmeleri ele aldı.
-
-Ziyaret öncesinde ilçe pazarında esnaf ve vatandaşlarla bir araya geldiğini aktaran Demir, hayat pahalılığının yüksek seviyelere ulaştığını ve pazar yerlerinde durgunluk gözlemlediğini söyledi. Asgari ücret ve emekli aylıklarıyla geçinmenin zorlaştığına işaret eden Demir, çalışanların, dar gelirlilerin ve emeklilerin haklarını savunmak adına katkı sunmaya hazır olduklarını ifade etti.
-
-Parti içindeki tartışmalara ve yaşanan ayrılıklara da değinen Demir, Cumhuriyet Halk Partisi kimliğinin önemini vurguladı. Parlamento grubunda 46 milletvekiliyle yollarına devam ettiklerini kaydeden Demir, ayrışmalar yerine tek çatı altında mücadele edilmesi gerektiğini belirtti. Demir, en kısa sürede toplumsal muhalefeti yeniden birleştirmeyi hedeflediklerini sözlerine ekledi.
-
----
-
-## Kasım Ayı SED Yardımı Hesaplara Yattı: Toplam 2,29 Milyar Lira Destek
-
-**Türkiye · Türkiye** · 2026-11-15 19:24 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.bursatv.com.tr/kasim-ayi-sed-yardimi-ne-kadar-bakanlik-toplam-odemeyi-acikladi)
-
-![](data/images/fcec6dcb66dad8fd.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, kasım ayı kapsamında ihtiyaç sahibi hanelere toplam 2 milyar 291 milyon lira Sosyal ve Ekonomik Destek (SED) ödemesi yapıldığını açıkladı.
-
-Aile ve Sosyal Hizmetler Bakanlığı, çocukların aile ortamında yetişmelerini desteklemek ve eğitim masraflarına katkı sağlamak amacıyla yürütülen Sosyal ve Ekonomik Destek (SED) programında kasım ayı ödemelerini tamamladı. Hak sahiplerinin hesaplarına toplam 2 milyar 291 milyon liralık kaynak aktarıldı.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocuk odaklı sosyal hizmetlerde farklı ihtiyaçları göz önüne alarak destek modellerini çeşitlendirdiklerini belirtti. Çocukların ailelerinden kopmadan, kendi sosyal çevrelerinde büyümelerine büyük önem verdiklerini kaydeden Göktaş, SED hizmetiyle ailelerin yanında yer almayı sürdürdüklerini ifade etti.
-
-Ekonomik açıdan zorluk yaşayan aileleri hedefleyen SED programı, çocukların hem temel ihtiyaçlarının karşılanmasını hem de eğitim hayatlarını kesintisiz sürdürebilmelerini amaçlıyor. Bakanlık, yapılan düzenli ödemelerle çocukların sağlıklı ve özgüvenli bireyler olarak topluma kazandırılmasını hedefliyor.
-
----
-
-## Türkiye İklim Okulu'nda Sıfır Atık Mutfağı: Bayat Ekmek ve Meyve Kabukları Değerlendirildi
-
-**Türkiye · Türkiye** · 2026-11-15 19:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye-iklim-okulu-quotgastronomiquot-ve-quotsifir-atikquot-etkinlikleriyle-ziyaretcilerin-ilgi-odagi-oldu/haber/42529/tr)
-
-![](data/images/984b82a38f1347ce.jpg)
-
-> Antalya'daki COP31 kapsamında kurulan Türkiye İklim Okulu'nda düzenlenen gastronomi atölyelerinde bayat ekmek ve narenciye kabukları yeniden sofraya kazandırıldı.
-
-Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Yeşil Bölge alanında, Millî Eğitim Bakanlığı tarafından oluşturulan Türkiye İklim Okulu çeşitli atölye ve panellere ev sahipliği yapmayı sürdürüyor.
-
-Etkinlikler kapsamında şefler ve gastronomi uzmanlarının katılımıyla "Anadolu'nun Bereketinden Geleceğin Mutfağına: Sürdürülebilir Gastronomi" başlıklı oturum gerçekleştirildi. Programda gıda atıklarının değerlendirilmesi, israfın önlenmesi, geleneksel üretim modellerinin korunması ve tarımsal ilaçların bilinçsiz kullanımının doğuracağı riskler ele alındı.
-
-Yaşayan Okul ve İklim Deneyim Alanı'nda düzenlenen atölyelerde ise öğrenciler şeflerle birlikte mutfağa girdi. Gıda israfına dikkat çekilen uygulamalarda, bayat ekmekler kullanılarak fasulye paçası, narenciye kabukları değerlendirilerek ise pankek hazırlandı.
-
-Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır da Türkiye İklim Okulu'nu ziyaret ederek yürütülen çalışmalar hakkında yetkililerden bilgi aldı. Etkinlikler kapsamında ayrıca "Yaşayan Laboratuvardan Sürdürülebilir Geleceğe: Cezeri" başlığıyla sınıflarda enerji tasarrufu ve senaryo temelli problem çözme yöntemleri uzmanlarca ele alındı.
 
 ---
