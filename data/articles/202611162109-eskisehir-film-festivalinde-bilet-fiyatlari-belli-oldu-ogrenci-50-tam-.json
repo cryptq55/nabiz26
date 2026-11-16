@@ -21,10 +21,10 @@
     "title": "Eskişehir Film Festivali bilet fiyatları 50 TL'den satışa çıkarıldı - Eskişehir Haberleri",
     "url": "https://www.eskisehir.net/eskisehir-film-festivali-bilet-fiyatlari-50-tlden-satisa-cikaril"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Sinema Anadolu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
