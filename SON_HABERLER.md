@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 16 Kasım 2026: Gram altın 6.298,08 TL
+
+**Ekonomi · Merkez** · 2026-11-16 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261116.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.210,29 TL'den alınıyor, 6.298,08 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.298,08 TL, alış fiyatı 6.210,29 TL oldu. Gram altın, önceki kapanışa göre yüzde 6,25 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.265 TL, yarım altın 20.524 TL, tam altın 40.898 TL, ata altın 41.990 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.882,48 TL, has altının gram fiyatı 6.279,24 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.836,60 dolardan işlem görürken, dolar/TL 50,50 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Karayolları İHA ve SİHA Pisti Oluyor: 52 Güzergah Belirlendi
 
 **Ulaşım · Türkiye** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://notbir.com.tr/gundem/ulastirma-bakani-abdulkadir-uraloglu-acikladi-karayollari-iha-siha-pistleri-olacak)
@@ -469,21 +489,5 @@ Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sö
 Bakan Tekin, Memur-Sen ve Uluslararası Emek Konfederasyonu tarafından hazırlanan ve Gazze'deki çevresel ile insani yıkımı anlatan "Dönüş Umudu: El-Avde-Zeytin Ağacı Hikayesi" sergisini inceledi. Zirve alanındaki stantları gezen Tekin, öğrenciler ve sivil toplum temsilcileriyle bir araya geldi.
 
 Temaslar kapsamında Bakanlar Oturumu'na katılan yabancı heyetlerle yemekte buluşan Tekin, daha sonra konuk bakan ve temsilcilerle Muratpaşa'daki 15 Temmuz Şehitler Anaokuluna geçti. Ziyarette Nepal Eğitim ve Spor Bakanı Sasmit Pokharel, UNESCO ve OECD temsilcileri de yer aldı. Heyet, okulun mini serasını, doğa temelli öğrenme ve sürdürülebilir yaşam becerileri atölyelerini yerinde inceleyerek öğretmenlerden bilgi aldı.
-
----
-
-## Lider Eskişehirspor'da Gözler Ayvalıkgücü Randevusunda: Hazırlıklar Sürüyor
-
-**Spor · Tepebaşı** · 2026-11-14 19:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyagazete.com/haber/eskisehirsporda-ayvalikgucu-belediyespor-maci-hazirliklari-suruyor)
-
-![](data/images/180df9189a1ccfc7.jpg)
-
-> TFF 3. Lig'de zirvede yer alan Eskişehirspor, sahasında ağırlayacağı Ayvalıkgücü Belediyespor mücadelesinin taktik hazırlıklarını tamamlıyor.
-
-TFF Nesine 3. Lig 2. Grup'ta 24 puanla liderlik koltuğunda oturan Eskişehirspor, ligin 12. haftasında oynayacağı kritik Ayvalıkgücü Belediyespor karşılaşması için çalışmalarını sürdürüyor.
-
-Teknik Direktör Hakan Şapcı yönetiminde gerçekleştirilen antrenmanlarda siyah-kırmızılı ekip, rakibine karşı uygulayacağı taktik plan üzerinde durdu. Futbolcuların antrenmandaki istekli görüntüsü teknik heyeti memnun etti.
-
-Zirvedeki yerini korumak isteyen Eskişehirspor ile Ayvalıkgücü Belediyespor arasındaki karşılaşma, 15 Kasım Pazar günü saat 15.30'da Prof. Dr. Fethi Heper Stadyumu'nda oynanacak.
 
 ---
