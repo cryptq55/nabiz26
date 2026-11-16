@@ -1,7 +1,5 @@
 {
  "stories": [
-  "202610212333-anadolu-universitesinde-ercument-orkut-solo-caz-konseri-verdi",
-  "202610212333-anadolu-universitesinde-ogretmen-adaylarina-canva-yapay-zeka-atolyesi-",
   "202610220032-piyano-gunlerinde-prof-hulya-tarcan-masterclass-verdi",
   "202610220032-anadolu-universitesinde-psikanaliz-ve-egitim-iliskisi-konferansi-yapil",
   "202610220032-anadolu-universitesi-cam-bolumu-amsterdamda-ortak-atolye-ve-sergi-yapt",
@@ -499,7 +497,9 @@
   "202611160600-altin-fiyatlari-16-kasim-2026-gram-altin-6-298-08-tl",
   "202611160704-odunpazari-belediyesinde-personele-diyabet-taramasi-ve-bilgilendirme",
   "202611160905-kerem-baykus-eskisehirsporu-sirtliyor-11-macta-10-skora-katki",
-  "202611160905-yeni-partide-160-kisilik-parti-meclisi-belirlendi-kurultay-sona-erdi"
+  "202611160905-yeni-partide-160-kisilik-parti-meclisi-belirlendi-kurultay-sona-erdi",
+  "202611161104-togg-ekim-ayinda-turkiye-ikincisi-oldu-pazar-payi-yuzde-11-7ye-ulasti",
+  "202611161104-odunpazari-personeline-kanser-ve-losemide-erken-teshis-semineri"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -573,7 +573,8 @@
   "202611140904-mebden-sinav-yonetmeliginde-degisiklik-ilkokullarda-sinav-tamamen-yasa",
   "202611150904-mebden-17-milyon-ogrenciye-ara-tatil-rehberi-ve-etkinlik-kitaplari",
   "202611150904-evde-bakim-yardimi-hesaplara-yatiyor-bu-ay-toplam-7-8-milyar-lira-oden",
-  "202611141847-toggdan-kasim-kampanyasi-1-5-milyon-liraya-kadar-sifir-faiz-firsati"
+  "202611141847-toggdan-kasim-kampanyasi-1-5-milyon-liraya-kadar-sifir-faiz-firsati",
+  "202611160504-karayollari-iha-ve-siha-pisti-oluyor-52-guzergah-belirlendi"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -706,15 +707,11 @@
   "202611151504-eskisehirspor-2-0dan-dondu-ayvalikgucu-randevusunda-nefes-kesen-berabe",
   "202611151304-senfoni-orkestrasindan-atesin-dansi-oxana-shevchenko-sahne-aldi",
   "202611151246-eski-giysiler-japon-sanatiyla-yenileniyor-tepebasinda-sashiko-atolyesi",
-  "202611151246-14-uluslararasi-eskisehir-siir-bulusmasi-sona-erdi-13-sair-katildi"
+  "202611151246-14-uluslararasi-eskisehir-siir-bulusmasi-sona-erdi-13-sair-katildi",
+  "202611160905-kerem-baykus-eskisehirsporu-sirtliyor-11-macta-10-skora-katki",
+  "202611160600-altin-fiyatlari-16-kasim-2026-gram-altin-6-298-08-tl"
  ],
  "log": [
-  1794733684.4920099,
-  1794733785.8437648,
-  1794733801.8813686,
-  1794733821.4828699,
-  1794733838.583315,
-  1794733855.4216979,
   1794740924.9794,
   1794740942.9824643,
   1794740959.6507545,
@@ -724,15 +721,18 @@
   1794770865.45315,
   1794770933.247572,
   1794770950.1895385,
-  1794776794.6182427
+  1794776794.6182427,
+  1794827270.7580724,
+  1794827362.659541,
+  1794827381.354037,
+  1794827409.2070613
  ],
  "reel_log": [
-  1794733684.4920118,
-  1794733785.8437662,
-  1794740924.9794035,
   1794769686.9385643,
   1794769754.8921683,
   1794770865.453152,
-  1794770933.2475743
+  1794770933.2475743,
+  1794827270.7580743,
+  1794827362.659543
  ]
 }
