@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Sivrihisar'daki Sağlık Yatırımları İçin İl Sağlık Müdürü Bildirici'ye Teşekkür Belgesi
+
+**Sağlık · Sivrihisar** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.tv42haber.com/genel/eskisehir-il-saglik-muduru-doc-dr-yasar-bildiriciye-tesekkur-belgesi-verildi-183746)
+
+> Eskişehir Sivrihisarlılar Derneği, ilçeye kazandırılan sağlık yatırımları dolayısıyla İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici'ye teşekkür belgesi takdim etti.
+
+Eskişehir Sivrihisarlılar Derneği (ES SİVDER) Başkanı İsmail Arslan ve yönetim kurulu üyeleri, Eskişehir İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici'yi makamında ziyaret etti. Görüşmede Sivrihisar ilçesindeki sağlık hizmetleri ve tamamlanan yatırımlar ele alındı.
+
+Ziyaretten duyduğu memnuniyeti ifade eden İl Sağlık Müdürü Doç. Dr. Bildirici, ilçedeki çalışmaları değerlendirdi. Sivrihisar Devlet Hastanesi ile Aile Sağlığı Merkezi binalarının yapılarak hizmete açıldığını belirten Bildirici, birçok branşta hekim atamasının tamamlandığını kaydetti.
+
+İlçedeki sağlık altyapısının güçlendirildiğini vurgulayan Bildirici, "Devlet Hastanesinin tam teşekküllü hastane olmasını sağladık. Acil Merkezi yapılması için arsa temini gibi birçok güzel çalışmayı Sivrihisar'a kazandırdık" ifadelerini kullandı.
+
+Ziyaretin sonunda ES SİVDER Başkanı İsmail Arslan, ilçeye sunulan hizmetler ve katkılarından dolayı Sivrihisarlılar adına Doç. Dr. Yaşar Bildirici'ye teşekkür belgesi verdi.
+
+---
+
+## Eskişehir Şehir Tiyatroları'nda Yeni Oyun: 'Karanlıktan Bahsetmek Yok' Sahnelendi
+
+**Kültür-Sanat · Merkez** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.2eylul.com.tr/karanliktan-bahsetmek-yok)
+
+> Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, yeni sezon yapımlarından "Karanlıktan Bahsetmek Yok" adlı oyunu izleyiciyle buluşturdu.
+
+Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, yeni sezonda repertuarına kattığı "Karanlıktan Bahsetmek Yok" isimli tiyatro oyununu tiyatroseverlerin beğenisine sundu. Gerçekleştirilen basın gösteriminde salonu dolduran sanatseverler oyunu ilgiyle takip etti.
+
+Günay Ertekin'in kaleme aldığı ve Özen Yula'nın yönetmenliğini üstlendiği yapım, annelerinin vefatının ardından bir araya gelen üç kız kardeşin geçmişle yüzleşmesini konu ediniyor. Oyunda aile bağları, kardeşler arasındaki ilişkiler ve geçmişin izleri dram ve mizah ögeleriyle sahneye taşınıyor.
+
+Yılda yaklaşık 100 bin seyirciye ulaşan Eskişehir Şehir Tiyatroları'nın yeni oyunu, sezon boyunca tiyatroseverlerle buluşmaya devam edecek.
+
+---
+
+## 259 Eski Parlamenterden Toplu Katılım: Özgür Özel Genel Merkezde Rozet Taktı
+
+**Siyaset · Türkiye** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/ozgur-ozel-eski-chp-milletvekillerine-rozet-takti-72321020)
+
+![](data/images/7dade003b930ebb2.jpg)
+
+> Önceki dönemlerde CHP'de görev yapan 259 milletvekili partiye katıldı. Genel Başkan Özgür Özel, parlamenterleri temsilen 94 yaşındaki eski senatör Ziya Gökalp Mülayim'e rozet taktı.
+
+Önceki dönemlerde parlamentoda görev almış 259 milletvekili, yayımladıkları ortak bildirinin ardından parti genel merkezinde Genel Başkan Özgür Özel ile buluştu. Basına kapalı olarak gerçekleştirilen ve yaklaşık üç saat süren toplantıda Genel Sekreter Yunus Emre ile Genel Başkan Yardımcısı Ensar Aytekin de yer aldı.
+
+Toplantıda Özel, partiye verilen destek ve kongre süreçlerine sunulan katkılar nedeniyle eski milletvekillerine teşekkürlerini iletti. Görüşmede parlamenterlerin yeni döneme ilişkin değerlendirmeleri ele alındı.
+
+Özgür Özel, katılımcıları temsilen eski Başbakan Bülent Ecevit'in davetiyle siyasete giren ve 60 yıldır siyasetin içinde bulunan 94 yaşındaki Cumhuriyet Senatörü Ziya Gökalp Mülayim'e parti rozetini taktı. Buluşma, katılımcılarla çekilen hatıra fotoğrafıyla sona erdi.
+
+---
+
 ## Togg T10X ile Tesla Model Y Karşı Karşıya: Giriş Paketlerinde 565 Bin TL Fark
 
 **Ekonomi · Türkiye** · 2026-11-15 21:04 UTC · Kaynak: [Google Haberler - Togg](https://www.usakhabergazetesi.com.tr/togg-t10x-mi-tesla-model-y-mi-iste-fiyatlari-ve-one-cikan-ozellikleri)
@@ -439,49 +485,5 @@ Açılışta konuşan Millî Eğitim Bakanı Yusuf Tekin, eğitim sisteminin Tü
 COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ise Türkiye İklim Okulu'nun kapılarını hem bir eğitim yuvası hem de ortak geleceğin temsilcisi olarak açtıklarını kaydetti. Çocukların bu mekânda iklim değişikliğini öğreneceğini ve çözümler tasarlayacağını anlatan Kurum, Antalya'dan yükselen bu girişimin tüm Türkiye'deki okullara yayılmasını arzu ettiklerini belirtti.
 
 Törende, Maarif İklim Ideathonu ile COP31 Uluslararası Öğrenci Münazarası'nda dereceye giren öğrencilere ödülleri verildi. Açılışın ardından Bakan Tekin, okul bünyesindeki atölyeleri gezerek öğrencilerin yürüttüğü faaliyetleri yerinde inceledi.
-
----
-
-## Odunpazarı Kadın Hentbol Takımı Sahadan Farklı Galibiyetle Ayrıldı: 43-22
-
-**Spor · Odunpazarı** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.canligaste.com/hentbol-kadinlar-super-ligi-odunpazari-ortahisar-i-43-22-yendi/949670/)
-
-> Hentbol Kadınlar Süper Ligi'nin 10. haftasında Odunpazarı, sahasında ağırladığı Ortahisar Belediyespor'u 43-22 gibi farklı bir skorla mağlup etti.
-
-Hentbol Kadınlar Süper Ligi 10. hafta mücadelesinde Odunpazarı, Porsuk Spor Salonu'nda Ortahisar Belediyespor ile karşı karşıya geldi.
-
-Mücadeleye etkili başlayan ev sahibi Odunpazarı, oyunun kontrolünü ilk dakikalardan itibaren eline aldı. Hücumda ve savunmada üstün bir performans sergileyen Eskişehir temsilcisi, soyunma odasına 20-9 önde girdi.
-
-İkinci yarıda da temposunu koruyan Odunpazarı, farkı giderek açarak salondan 43-22'lik rahat bir galibiyetle ayrılmayı başardı.
-
----
-
-## Mihalıççık Yeni Salonundaki İlk Maçında Güçlü Rakibine 28-26 Mağlup Oldu
-
-**Spor · Mihalıççık** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.milliirade.com/mihaliccik-hentbol-takimi-yeni-tesisteki-ilk-maci-kaybetti)
-
-> Mihalıççık Belediyesi Spor Kulübü hentbol takımı, ilçede hizmete giren yeni spor tesisindeki ilk maçında İstanbul Gençlik SK'ya 28-26 yenildi.
-
-Mihalıççık Belediyesi Spor Kulübü hentbol takımı, yapımı süren spor kompleksinin tamamlanan salonunda ilk resmî müsabakasına çıktı. İlçe halkının yoğun ilgi gösterdiği karşılaşmada ev sahibi ekip, ligin güçlü takımlarından İstanbul Gençlik SK karşısında sahadan 28-26'lık mağlubiyetle ayrıldı.
-
-Karşılaşmanın ardından açıklamalarda bulunan Mihalıççık Belediye Başkanı Haydar Çorum, skora rağmen takımın sergilediği mücadeleden memnun olduğunu belirtti. Rakibin şampiyonluk yarışında iddialı ve uzun süredir birlikte oynayan bir kadroya sahip olduğuna dikkat çeken Çorum, yeni tesisin tüm rakipler için zorlu bir deplasman olacağını gösterdiklerini dile getirdi.
-
-Kulüp tarihinde ilk kez bu kadar yoğun bir taraftar atmosferi yaşadıklarını vurgulayan Çorum, maçta çok sayıda çocuk ve gencin bulunmasının kendileri için asıl kazanım olduğunu söyledi. Tesisin geri kalan bölümlerini de en kısa sürede tamamlayarak spor kompleksini bütünüyle hizmete açmayı hedeflediklerini belirten Çorum, gelecek hafta konuk edecekleri Bursa Nilüfer maçına tüm sporseverleri davet etti.
-
----
-
-## Eskişehirspor'da Kaptan Beykan Şimşek Şoku: Ayvalıkgücü Maçında Yok
-
-**Spor · Merkez** · 2026-11-14 15:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspora-kotu-haber-forma-giyemeyecek-2464687)
-
-![](data/images/8160c9ef9b0f88ee.jpg)
-
-> Ayvalıkgücü karşılaşması öncesinde Eskişehirspor'da kaptan Beykan Şimşek sakatlığı nedeniyle kadrodan çıkarılırken, Kerem Baykuş'un iyileşmesi yüzleri güldürdü.
-
-Bölgesel Amatör Lig'de zirve mücadelesini sürdüren Eskişehirspor'a hafta sonu oynanacak kritik Ayvalıkgücü karşılaşması öncesinde kaptanından kötü haber geldi. Siyah-kırmızılı ekibin tecrübeli ismi Beykan Şimşek, sakatlığı nedeniyle bu hafta sahada yer alamayacak.
-
-Anadolu SF ile oynanan müsabakada sağ arka adalesinden sakatlanan kaptan Şimşek'in yapılan kontrolleri ve çekilen MR tetkiklerinde küçük çaplı bir yırtık belirlendi. Sağlık ekibinin değerlendirmesi sonucunda deneyimli futbolcunun Ayvalıkgücü maçında riske edilmeyeceği bildirildi.
-
-Kaptanın yokluğuyla sarsılan kırmızı-siyahlı ekipte orta sahadan gelen haber ise teknik heyeti sevindirdi. Sakatlığı nedeniyle son iki lig karşılaşmasında takımını yalnız bırakan Kerem Baykuş'un tedavisinin tamamlandığı ve zorlu Ayvalıkgücü deplasmanında forma giyebileceği öğrenildi.
 
 ---
