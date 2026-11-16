@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Ücretsiz Diyetisyen Hizmeti Başladı: Randevular Salı Günleri
+
+**Sağlık · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndasaglıklıyasamicinucretsizdiyetisyendestegi)
+
+![](data/images/3ddfc81d838f0d9f.jpg)
+
+> Tepebaşı Belediyesi Su Sporları Merkezi'nde vatandaşlara yönelik ücretsiz diyetisyen desteği sunuluyor. Uzman kontrolünde beslenme ve egzersiz planı yapmak isteyenler randevuyla hizmet alabiliyor.
+
+Tepebaşı Belediyesi, sağlıklı yaşamı teşvik etmek amacıyla yürüttüğü çalışmalara ücretsiz diyetisyen desteğini ekledi. Gençlik ve Spor Hizmetleri Müdürlüğü koordinasyonunda sunulan hizmet sayesinde Eskişehirliler, beslenme alışkanlıklarını ve fiziksel aktivite süreçlerini uzman rehberliğinde düzenleme fırsatı buluyor.
+
+Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi bünyesinde verilen hizmetle, vatandaşların sağlıklı yaşama dair güvenilir bilgiye ve profesyonel yönlendirmeye kolayca erişmesi hedefleniyor. Randevu sistemiyle gerçekleştirilen bireysel görüşmelerde, kişiye özel beslenme ve egzersiz planlamaları yapılıyor.
+
+Ertuğrulgazi Mahallesi Alpar Sokak'ta bulunan tesisteki ücretsiz diyetisyen desteğinden yararlanmak isteyenlerin, salı günleri saat 10.00 ile 16.00 arasında randevu alabileceği bildirildi. Hizmete ilişkin ayrıntılı bilgi ve randevu işlemleri için merkeze ait telefon numarasından başvuru yapılabiliyor.
+
+---
+
+## Tepebaşı'nda Çocuk Odaklı Projeler: 82 Bini Aşkın Çocuğa Diş Taraması Yapıldı
+
+**Belediye · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentimizin-gelecegini-cocuklarimizla-insa-ediyoruz-2cd76841)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, çocuklara yönelik eğitim, sağlık, kültür ve sanat faaliyetlerinde fırsat eşitliğini esas aldıklarını açıkladı.
+
+Tepebaşı Belediyesi, çocukların gelişimini desteklemek amacıyla eğitim, sanat ve sağlık alanlarındaki projelerini sürdürüyor. Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların nitelikli eğitime ve sağlıklı yaşama erişiminin ailelerin ekonomik durumuna bağlı olmaması gerektiğini vurgulayarak yürütülen hizmetlerin ayrıntılarını paylaştı.
+
+Eğitim alanındaki çalışmalara değinen Başkan Ataç, 2023 yılında açılan Bahriye Üçok Eğitim ve Gelişim Merkezi'nden bugüne kadar 3 bin 688 öğrencinin faydalandığını bildirdi. Merkezde 2026 güz döneminde 26 grupta 357 öğrenciye temel derslerin yanı sıra rehberlik desteği sunulduğu kaydedildi.
+
+Kültür ve sanat faaliyetleri kapsamında yetenek sınavı şartı aranmaksızın eğitim veren İki Elin Sesi Var Çocuk ve Gençlik Senfoni Orkestrası ile bugüne dek 2 bin 500 çocuğa ulaşıldığı belirtildi. Ayrıca 90 çocuğun katkısıyla hayata geçirilen "Cumhuriyet’in Çocukları" kolektif anıtı gibi çalışmalarla çocukların sanatsal üretime dahil edildiği aktarıldı.
+
+Koruyucu sağlık hizmetleri kapsamında 2013'ten bu yana hizmet veren Tepebaşı Belediyesi Çocuk Ağız ve Diş Sağlığı Polikliniği'nde ise 82 bin 910 çocuğa tarama yapıldığı açıklandı. Bu taramalarda sorun tespit edilen 39 bin 838 çocuğun tedavisi tamamlanırken, 4 bin 201 çocuğa toplam 7 bin 173 kez psikolojik destek sağlandığı ve 25 bin 632 çocuğa sağlık eğitimi verildiği kaydedildi.
+
+---
+
+## Odunpazarı'nda İkinci Taksit İçin Süre Daralıyor: Vergi Ödemelerinde Son Gün 30 Kasım
+
+**Belediye · Odunpazarı** · 2026-11-16 13:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-kasim-ayi-vergi-odemeleri-icin-son-gun-30-kasim)
+
+![](data/images/54cac98a7f035deb.jpg)
+
+> Odunpazarı Belediyesi, emlak, çevre temizlik ile ilan ve reklam vergileri taksitleri için son ödeme gününün 30 Kasım Pazartesi olduğunu hatırlattı.
+
+Odunpazarı Belediyesi, 2026 yılına ait Emlak Vergisi, Çevre Temizlik Vergisi ve İlan ve Reklam Vergisi'nin ikinci taksitleri ile Katı Atık Ücreti'nin 5'inci taksitine ilişkin mükelleflere kritik bir uyarıda bulundu. Vatandaşların cezalı duruma düşmemesi ve gecikme zammıyla karşılaşmaması için ödemelerin 30 Kasım 2026 Pazartesi günü mesai bitimine kadar yapılması gerektiği bildirildi.
+
+Mükellefler vergi ve ücret borçlarını doğrudan belediye veznelerine giderek ödeyebilecek. Ayrıca veznelere gitmek istemeyen vatandaşlar için e-Devlet kapısı ve belediyenin resmi internet sitesi olan 'www.odunpazari.bel.tr' adresindeki e-Belediye sistemi üzerinden de çevrim içi ödeme imkânı sunuluyor.
+
+Yetkililer, veznelerde ve internet altyapısında son günlerde oluşabilecek yoğunlukları önlemek amacıyla mükelleflerin işlemlerini son güne bırakmamaları tavsiyesinde bulundu.
+
+---
+
+## 20 Sanatçının Eseri Tek Çatıda: 'Buluşma' Sergisi Ziyarete Açıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-bulusma-sergisi-sanatseverlerden-tam-not-aldi)
+
+> Yolları Eskişehir'de kesişen sanatçıların eserlerini bir araya getiren 'Buluşma' karma sergisi, Turgut Özakman Sanat Galerisi'nde ziyarete açıldı.
+
+Çekirdek Eskişehir'in yeni merkezi olarak hizmet veren Turgut Özakman Sanat Galerisi, "Buluşma" başlıklı sergiyle kapılarını sanatseverlere açtı. Genç sanatçıların üretimlerini görünür kılmayı ve kentin kültür hayatına dinamizm kazandırmayı hedefleyen galerideki açılışa, Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal'ın yanı sıra sanatçılar ve çok sayıda davetli katıldı.
+
+Küratörlüğünü Prof. Dr. Gülbin Özdamar Akarçay, Doç. Özgür Uğuz ve E. Gülşah Akın'ın üstlendiği sergide 20 sanatçının eserleri yer alıyor. Farklı deneyim ve pratiklere sahip sanatçıların kentle kurdukları kişisel ve kolektif bağlardan yola çıkan seçki; mekân, zaman ve bellek kavramlarının kesişim noktalarını konu alıyor.
+
+Farklı bakış açılarını ve özgün anlatımları bir arada sunan "Buluşma" karma sergisi, 6 Aralık 2026 tarihine kadar Eskişehir Büyükşehir Belediyesi Kültür ve Sanat Merkezi Turgut Özakman Sanat Galerisi'nde ziyaret edilebilecek.
+
+---
+
 ## Togg Ekim Ayında Türkiye İkincisi Oldu: Pazar Payı Yüzde 11,7'ye Ulaştı
 
 **Ekonomi · Türkiye** · 2026-11-16 11:04 UTC · Kaynak: [Google Haberler - Togg](https://finanshatti.com/otomotiv-sektorunde-ekim-raporu-togg-satislarda-zirveyi-zorluyor/)
@@ -419,69 +481,5 @@ Senfoni Orkestrası bir sonraki buluşmasını 4 Aralık 2026 Cuma günü saat 2
 Kurultay konuşmasında partinin kuruluş sürecini ve izleyecekleri yol haritasını anlatan Özel, hedeflerinin iktidar olduğunu ifade etti. Belediyelere yönelik soruşturmaları eleştiren Özel, örgütlenme modeli kapsamında mahalle, ilçe ve il meclisleri oluşturacaklarını, Parti Meclisi üye sayısının ise 150'ye yükseltileceğini açıkladı.
 
 Ekonomi ve sosyal politikalara dair vaatlerini de sıralayan Özel; çiftçilere alım garantisi verilmesi, vergisiz mazot sağlanması ve borçların yeniden yapılandırılmasının yanı sıra temel vatandaşlık geliri ile ücretsiz okul yemeği projelerini hayata geçireceklerini söyledi. Programda ayrıca tutuklu bulunan Ekrem İmamoğlu'nun video mesajı ile Genel Sekreter Yunus Emre tarafından okunan kuruluş bildirgesi paylaşıldı.
-
----
-
-## Erdoğan'dan Filistin'in 38. Kuruluş Yıl Dönümü Mesajı: Davayı Savunmaya Devam Edeceğiz
-
-**Siyaset · Türkiye** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://aa.com.tr/tr/gundem/cumhurbaskani-erdogan-filistinin-kurulusunun-38-yil-donumunu-kutladi/4125793)
-
-![](data/images/9ed837bbb5df0b07.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Filistin Devleti'nin 38'inci kuruluş yıl dönümünü kutlayarak Türkiye'nin bağımsız Filistin davasını savunmaya devam edeceğini bildirdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Filistin Devleti'nin 38'inci kuruluş yıl dönümü dolayısıyla sosyal medya hesabından tebrik mesajı yayımladı.
-
-Mesajında Filistin halkının onurlu mücadelesine değinen Cumhurbaşkanı Erdoğan, "Dost ve kardeş Filistin Devleti'nin 38'inci kuruluş yıl dönümünü tebrik ediyor, zulme ve zalime karşı onurlu direnişini sürdüren kahraman Filistin halkına selamlarımı, muhabbetlerimi iletiyorum" ifadelerini kullandı.
-
-Türkiye'nin Filistin davasına verdiği desteğin altını çizen Erdoğan, 1967 sınırları temelinde, başkenti Doğu Kudüs olan, bağımsız, egemen ve coğrafi bütünlüğü haiz bir Filistin Devleti'nin kurulması yönündeki kararlılığı vurguladı. Erdoğan, Filistin halkının özgür ve müreffeh bir geleceğe ulaşması adına Türkiye'nin tüm imkanlarıyla sahada kalmayı sürdüreceğini belirtti.
-
----
-
-## Eski Giysiler Japon Sanatıyla Yenileniyor: Tepebaşı'nda Sashiko Atölyesi Başladı
-
-**Belediye · Tepebaşı** · 2026-11-15 12:46 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-nda-eski-tekstiller-yeniden-hayat-buluyor-886efb66)
-
-![](data/images/73cdebf9ae9bbaf0.jpg)
-
-> Tepebaşı Belediyesi Yeryüzü Ekoloji Okulu, geleneksel Japon el işleme tekniği Sashiko ile eskiyen tekstil ürünlerini yeniden hayata kazandıran ileri dönüşüm atölyesi başlattı.
-
-Tepebaşı Belediyesi, sürdürülebilir yaşam kültürünü yaygınlaştırmak ve çevre bilincini artırmak amacıyla Yeryüzü Ekoloji Okulu bünyesinde "Tekstil Art – Sashiko ile İleri Dönüşüm Atölyesi"ni hayata geçirdi. Atölye çalışmasında, kullanılmayan veya yıpranmış giysilerin onarılarak ve süslenerek kullanım ömrünün uzatılması hedefleniyor.
-
-Emekli resim öğretmeni Hatice Aydoğan Yılmaz rehberliğinde gerçekleştirilen eğitim programının ilk oturumuna 20 ile 63 yaşları arasındaki kursiyerler katıldı. Yılmaz, katılımcılara Japonya'nın geleneksel dikiş sanatı olan Sashiko tekniğinin inceliklerini ve altı haftalık program boyunca uygulanacak yöntemleri aktardı.
-
-18 yaş ve üzerindeki yurttaşlara yönelik düzenlenen atölye, altı hafta süresince her cuma günü 18.00-19.00 saatleri arasında gerçekleştirilecek. Katılımcılar eğitim boyunca hem tekstil atıklarını azaltmanın yollarını öğrenecek hem de eski eşyalarına estetik ve işlevsel bir dokunuş kazandıracak.
-
----
-
-## 14. Uluslararası Eskişehir Şiir Buluşması Sona Erdi: 13 Şair Katıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-15 12:46 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/14uluslararasıeskisehirsiirbulusmasısonaerdi)
-
-![](data/images/fca0a92be492ae2c.jpg)
-
-> Tepebaşı Belediyesi tarafından düzenlenen 14. Uluslararası Eskişehir Şiir Buluşması, Atila Özer Karikatürlü Ev'deki oturum ve dinletilerle tamamlandı.
-
-Tepebaşı Belediyesi ev sahipliğinde bu yıl 14'üncüsü gerçekleştirilen Uluslararası Eskişehir Şiir Buluşması, üç gün süren edebiyat dolu programın ardından sona erdi. İkisi yabancı, 11'i Türk olmak üzere toplam 13 şairin ağırlandığı organizasyonun kapanış etkinlikleri Atila Özer Karikatürlü Ev’de yapıldı.
-
-Buluşma kapsamında Haydar Ergülen moderatörlüğünde Fransız şair Sylvain Cavailles ve Ahmad Zakaria’nın yer aldığı “Dünyadan Sesler” oturumu düzenlendi. Ardından Efnan Ezenel, Begüm Şahbudak, Rahmi Emeç ve Haydar Ergülen’in katılımıyla “İlhan Sami Çomak” oturumu gerçekleştirildi. Programda ayrıca Ahmet Telli belgeseli gösterilirken Ahmet Telli, Elif Sofya ve Serdar Koçak için anma oturumu yapıldı.
-
-Etkinliğin son gününde Gürcan Banger tarafından “Şiir ile Öykü Konuşması” başlıklı oturum sunuldu ve müzik eşliğinde şiir okumaları gerçekleştirildi. Karikatürlü Ev’i ziyaret eden sanatseverler, Tepebaşı Belediyesi Kâğıt Geri Dönüşüm Atölyesi’nde üretilen özel kâğıtlara şairlerin kendi el yazılarıyla kaleme aldığı şiir sergisini de görme fırsatı buldu.
-
-Üç günlük programın tamamlanmasıyla birlikte konuk şairler ve edebiyatseverler, gelecek yıl düzenlenecek 15. buluşmada yeniden bir araya gelme dileğinde bulundu.
-
----
-
-## İskele 26 Kışa Hazırlandı: Soğuk Havalara Karşı Dome Alanları Kuruldu
-
-**Belediye · Merkez** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-de-iskele-26-kisa-hazirlandi-9fa4a339)
-
-> Eskişehir Büyükşehir Belediyesi iştiraklerinden Belkent AŞ bünyesindeki İskele 26, kış mevsimi için özel dome alanlarıyla donatıldı.
-
-Eskişehir Büyükşehir Belediyesi tarafından kente kazandırılan ve vatandaşların yoğun ilgi gösterdiği buluşma noktalarından İskele 26'da kış mevsimine yönelik hazırlıklar tamamlandı. Belkent AŞ tarafından işletilen tesis, yeni düzenlemeleriyle kış sezonuna hazır hale getirildi.
-
-Soğuk havalara karşı alana yerleştirilen özel tasarımlı dome alanları, ziyaretçilerin açık hava atmosferini korurken sıcak bir ortamda vakit geçirmelerine olanak tanıyor. Farklı aydınlatma düzenlemeleriyle dikkat çeken yeni oturma alanları, mekânın kış görünümüne katkı sağladı.
-
-Balık ekmek lezzeti ve sosyal yaşam alanlarıyla hem hafta içi hem de hafta sonu Eskişehirlilerden ilgi gören tesis, kış ayları boyunca da misafirlerini ağırlamayı sürdürecek.
 
 ---
