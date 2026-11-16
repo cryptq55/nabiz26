@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Otogarda Sıkı Denetim: Sefer Saatleri ve Belgeler İncelendi
+
+**Belediye · Tepebaşı** · 2026-11-16 21:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13563&cat_icerik=1&menu_id=24)
+
+![](data/images/c12f3d405b266a4a.jpg)
+
+> Eskişehir Şehirlerarası Otobüs Terminali'nde denetime çıkan zabıta ekipleri, otobüs firmalarının yetki belgelerini, sefer saatlerini ve terminal düzenini kontrol etti.
+
+Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı ekipleri, kamu düzenini korumak ve yolcuların güvenli hizmet almasını temin etmek amacıyla Eskişehir Şehirlerarası Otobüs Terminali’nde geniş kapsamlı denetim gerçekleştirdi.
+
+Çalışmalar kapsamında otogarda faaliyet gösteren esnaf ve otobüs işletmeleri incelendi. Ekipler, firmaların bulundurması zorunlu yetki belgelerini kontrol ederek mevzuata uygunluğu denetledi. Şehirlerarası otobüslerin ilan edilen kalkış saatlerine uyup uymadığını da yerinde takip eden zabıta, otogar dışındaki noktalarda yolcu indirme ve bindirme yapılmaması hususunda sürücüler ile firma yetkililerine uyarılarda bulundu.
+
+Terminal binası içindeki işletmeleri de denetleyen ekipler, ortak kullanım alanlarının işgal edilmemesi ve yolcuların yaya geçiş yollarının kapatılmaması gerektiğini hatırlattı. Belediye yetkilileri, hem yolcu güvenliğinin sağlanması hem de kent içi düzenin korunması hedefiyle denetimlerin aralıksız sürdürüleceğini bildirdi.
+
+---
+
+## Eskişehir Film Festivali'nde Bilet Fiyatları Belli Oldu: Öğrenci 50, Tam 150 TL
+
+**Kültür-Sanat · Merkez** · 2026-11-16 21:09 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehir-film-festivali-bilet-fiyatlari-50-tlden-satisa-cikaril)
+
+> 23. Uluslararası Eskişehir Film Festivali için biletler satışa çıktı. Festivalde öğrenci biletleri 50 TL, tam biletler ise 150 TL olarak belirlendi.
+
+Eskişehir'de sinemaseverlerin heyecanla beklediği 23. Uluslararası Eskişehir Film Festivali'nin bilet tarifesi ve satış detayları açıklandı. Festival kapsamında gösterilecek yapımları izlemek isteyen öğrenciler için bilet fiyatı 50 TL, tam bilet ücreti ise 150 TL olarak duyuruldu.
+
+Festival yönetiminin paylaştığı bilgilere göre Cinemapink salonlarında gerçekleştirilecek gösterimlerin biletleri 16 Kasım itibarıyla satışa sunuldu. İzleyiciler bu salondaki filmlerin biletlerini hem internet üzerinden çevrim içi olarak hem de doğrudan sinema gişelerinden temin edebilecek.
+
+Sinema Anadolu'daki gösterimlerde ise farklı bir uygulama geçerli olacak. Bu salonda izleyiciyle buluşacak filmlerin biletleri internet üzerinden satılmayacak; biletler yalnızca gösterim günü sinema gişesinden satın alınabilecek.
+
+23. Uluslararası Eskişehir Film Festivali, 19-27 Kasım 2026 tarihleri arasında düzenlenecek. Dokuz gün sürecek etkinlik boyunca zengin bir film seçkisi Eskişehirli izleyicilerle buluşacak.
+
+---
+
+## Anadolu Üniversitesi'nden Üç Yeni Eser: Arkeolojiden Dans Tarihine Açık Erişimde
+
+**Eğitim · Tepebaşı** · 2026-11-16 21:08 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/nh3nn1blf90ntly1iehy1ezl)
+
+![](data/images/16a56d5bf0fd30dc.jpg)
+
+> Anadolu Üniversitesi Yayınları; dans sanatı, Eskişehir Meslek Yüksekokulu tarihi ve Dağlık Phrygia kaya mezarlarını konu alan üç yeni akademik eseri dijital ortamda açık erişime açtı.
+
+Anadolu Üniversitesi Yayınları, farklı alanlarda hazırlanan üç yeni yayını okurlarla buluşturdu. Dans tarihi, yükseköğretim tarihi ve Anadolu arkeolojisine odaklanan eserler dijital ortamda açık erişimle sunuldu.
+
+Yayımlanan çalışmalardan ilki olan ve M. Tekin Koçkar tarafından kaleme alınıp Prof. Dr. Sernaz Demirel'in editörlüğünü üstlendiği "Dans Tarihi ve Koreografi Sanatı – Cilt I", dansın kültürel gelişimini felsefe, sanat ve antropoloji disiplinleriyle inceliyor. Eserde ilkel ritüellerden toplumsal törenlere uzanan tarihsel süreç mercek altına alınıyor.
+
+İkinci eser ise yükseköğretim tarihine ışık tutuyor. Prof. Dr. Nuran Öztürk Başpınar ve Öğr. Gör. Şafak Yüksel Vural imzalı, Doç. Dr. Osman Güldemir editörlüğündeki "Kurumsal Hafızadan Geleceğe" adlı kitap, Eskişehir Meslek Yüksekokulunun 1990'dan 2026'ya kadar uzanan 36 yıllık gelişimini arşiv belgeleri ve 27 sözlü tarih görüşmesiyle aktarıyor.
+
+Üçüncü yayın olarak sunulan Prof. Dr. R. Eser Kortanoğlu'na ait "Hellenistik ve Roma Dönemlerinde Dağlık Phrygia Bölgesi Kaya Mezarları" ise bölgedeki kaya mezarlarının mimari tiplerini ve cephe özelliklerini görsel kataloglarla belgeliyor. Üniversiteden yapılan açıklamada, eserlerin tamamına kurumun dijital platformu üzerinden ücretsiz erişilebildiği bildirildi.
+
+---
+
 ## Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-16 19:43 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/wb4odbkemtj1p5utywg0t8c3)
@@ -427,51 +477,5 @@ Uygulamanın devreye girdiği caddelerde yaşayanlar ve esnaf, denetim kararın�
 Çift sıra park alışkanlığının acil durumlarda yaratacağı riskleri dile getiren vatandaşlar, özellikle ambulans ve itfaiye gibi araçların daralan yollardan geçemediğini vurguladı. Kızılcıklı Mahmut Pehlivan Caddesi'ndeki araç yoğunluğuna işaret eden mahalle sakinleri, caddelerin mevcut genişliğinin yalnızca tek sıra parkı kaldırdığını kaydetti.
 
 Sistemin trafik güvenliği açısından zorunlu olduğunu belirten vatandaşlardan Mehmet Ulaş ise denetimlerin yanı sıra kalıcı çözüm için otopark sayısının artırılması ve yüksek otopark ücretlerine yönelik adımlar atılması gerektiğini söyledi.
-
----
-
-## Sivrihisar'daki Sağlık Yatırımları İçin İl Sağlık Müdürü Bildirici'ye Teşekkür Belgesi
-
-**Sağlık · Sivrihisar** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.tv42haber.com/genel/eskisehir-il-saglik-muduru-doc-dr-yasar-bildiriciye-tesekkur-belgesi-verildi-183746)
-
-> Eskişehir Sivrihisarlılar Derneği, ilçeye kazandırılan sağlık yatırımları dolayısıyla İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici'ye teşekkür belgesi takdim etti.
-
-Eskişehir Sivrihisarlılar Derneği (ES SİVDER) Başkanı İsmail Arslan ve yönetim kurulu üyeleri, Eskişehir İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici'yi makamında ziyaret etti. Görüşmede Sivrihisar ilçesindeki sağlık hizmetleri ve tamamlanan yatırımlar ele alındı.
-
-Ziyaretten duyduğu memnuniyeti ifade eden İl Sağlık Müdürü Doç. Dr. Bildirici, ilçedeki çalışmaları değerlendirdi. Sivrihisar Devlet Hastanesi ile Aile Sağlığı Merkezi binalarının yapılarak hizmete açıldığını belirten Bildirici, birçok branşta hekim atamasının tamamlandığını kaydetti.
-
-İlçedeki sağlık altyapısının güçlendirildiğini vurgulayan Bildirici, "Devlet Hastanesinin tam teşekküllü hastane olmasını sağladık. Acil Merkezi yapılması için arsa temini gibi birçok güzel çalışmayı Sivrihisar'a kazandırdık" ifadelerini kullandı.
-
-Ziyaretin sonunda ES SİVDER Başkanı İsmail Arslan, ilçeye sunulan hizmetler ve katkılarından dolayı Sivrihisarlılar adına Doç. Dr. Yaşar Bildirici'ye teşekkür belgesi verdi.
-
----
-
-## Eskişehir Şehir Tiyatroları'nda Yeni Oyun: 'Karanlıktan Bahsetmek Yok' Sahnelendi
-
-**Kültür-Sanat · Merkez** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.2eylul.com.tr/karanliktan-bahsetmek-yok)
-
-> Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, yeni sezon yapımlarından "Karanlıktan Bahsetmek Yok" adlı oyunu izleyiciyle buluşturdu.
-
-Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, yeni sezonda repertuarına kattığı "Karanlıktan Bahsetmek Yok" isimli tiyatro oyununu tiyatroseverlerin beğenisine sundu. Gerçekleştirilen basın gösteriminde salonu dolduran sanatseverler oyunu ilgiyle takip etti.
-
-Günay Ertekin'in kaleme aldığı ve Özen Yula'nın yönetmenliğini üstlendiği yapım, annelerinin vefatının ardından bir araya gelen üç kız kardeşin geçmişle yüzleşmesini konu ediniyor. Oyunda aile bağları, kardeşler arasındaki ilişkiler ve geçmişin izleri dram ve mizah ögeleriyle sahneye taşınıyor.
-
-Yılda yaklaşık 100 bin seyirciye ulaşan Eskişehir Şehir Tiyatroları'nın yeni oyunu, sezon boyunca tiyatroseverlerle buluşmaya devam edecek.
-
----
-
-## 259 Eski Parlamenterden Toplu Katılım: Özgür Özel Genel Merkezde Rozet Taktı
-
-**Siyaset · Türkiye** · 2026-11-16 01:02 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/ozgur-ozel-eski-chp-milletvekillerine-rozet-takti-72321020)
-
-![](data/images/7dade003b930ebb2.jpg)
-
-> Önceki dönemlerde CHP'de görev yapan 259 milletvekili partiye katıldı. Genel Başkan Özgür Özel, parlamenterleri temsilen 94 yaşındaki eski senatör Ziya Gökalp Mülayim'e rozet taktı.
-
-Önceki dönemlerde parlamentoda görev almış 259 milletvekili, yayımladıkları ortak bildirinin ardından parti genel merkezinde Genel Başkan Özgür Özel ile buluştu. Basına kapalı olarak gerçekleştirilen ve yaklaşık üç saat süren toplantıda Genel Sekreter Yunus Emre ile Genel Başkan Yardımcısı Ensar Aytekin de yer aldı.
-
-Toplantıda Özel, partiye verilen destek ve kongre süreçlerine sunulan katkılar nedeniyle eski milletvekillerine teşekkürlerini iletti. Görüşmede parlamenterlerin yeni döneme ilişkin değerlendirmeleri ele alındı.
-
-Özgür Özel, katılımcıları temsilen eski Başbakan Bülent Ecevit'in davetiyle siyasete giren ve 60 yıldır siyasetin içinde bulunan 94 yaşındaki Cumhuriyet Senatörü Ziya Gökalp Mülayim'e parti rozetini taktı. Buluşma, katılımcılarla çekilen hatıra fotoğrafıyla sona erdi.
 
 ---
