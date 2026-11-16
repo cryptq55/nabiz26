@@ -22,10 +22,10 @@
     "title": "Eskişehir Tepebaşı’ndaki sağlık kompleksi inşaatında inceleme - Canlı Gaste",
     "url": "https://www.canligaste.com/eskisehir-tepebasi-ndaki-saglik-kompleksi-insaatinda-inceleme/950417/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yaşar Bildirici"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
