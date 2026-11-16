@@ -1,7 +1,7 @@
 name: Sağlık kontrolü
 
 # Site kendi kendine ayakta kalsın: saatte bir bakar.
-# - Gündüz (08-24 TSİ) son haber 2 saatten eskiyse yedek haber masasını (Claude API, newsbot --auto) çalıştırır.
+# - Gündüz (08-24 TSİ) son haber 3 saatten eskiyse (asıl masa Pi'de, 2 saatte bir) yedek haber masasını (Claude API, newsbot --auto) çalıştırır.
 # - Site açılmıyorsa ya da 8 saattir haber yoksa GitHub'da "Sağlık uyarısı" kaydı açar (sahibine e-posta gider);
 #   sorun düzelince kaydı kapatır.
 on:
@@ -47,12 +47,12 @@ jobs:
           echo "Son haberden bu yana $(grep saat= "$GITHUB_OUTPUT" | cut -d= -f2) saat, site $code" >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-python@v5
-        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 2)
+        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
         with:
           python-version: "3.12"
           cache: pip
       - name: CLIProxy özel ağına bağlan
-        if: vars.TS_CLIENT_ID != '' && (inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 2))
+        if: vars.TS_CLIENT_ID != '' && (inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3))
         uses: tailscale/github-action@v4
         with:
           oauth-client-id: ${{ vars.TS_CLIENT_ID }}
@@ -60,7 +60,7 @@ jobs:
           tags: tag:nabiz26-ci
       - name: Yedek haber masası
         shell: bash
-        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 2)
+        if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: claude-sonnet-5-5

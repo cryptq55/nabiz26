@@ -1,10 +1,10 @@
 name: Haber masası (otomatik)
 
+# 16.11.2026: Asıl masa sahibinin Raspberry Pi'sinde (pi/tur.sh). Bu iş akışı yalnızca elle başlatılır;
+# Pi sustuğunda yedek masayı saglik.yml çalıştırır.
 # Claude bulut masası kapandı (05.11.2026). Haberleri 2 saatte bir burada ücretsiz Gemini (GEMINI_API_KEY) yazar;
 # ANTHROPIC_API_KEY'de kredi varsa önce o denenir. Kararlar oturum moduyla aynı doğrulamadan geçer (newsbot --auto).
 on:
-  schedule:
-    - cron: "13 5-21/2 * * *"   # 08.13-00.13 TSİ arası 2 saatte bir
   workflow_dispatch:
 
 permissions:

@@ -1,13 +1,13 @@
 // GitHub'ın zamanlanmış işleri saatlerce gecikiyor ya da hiç çalışmıyor. Bu Worker, Cloudflare Cron ile
-// 20 dakikada bir uyanıp iş akışlarını GitHub API'sinden zamanında başlatır (GH_TOKEN: Actions yazma izni).
+// 20 dakikada bir uyanıp iş akışlarını (altın, fotoğraf, sağlık; haber masası Pi'de) GitHub API'sinden zamanında başlatır (GH_TOKEN: Actions yazma izni).
 const REPO = "cryptq55/nabiz26";
 
 function due(now) {
   const h = now.getUTCHours(), m = now.getUTCMinutes();
   const jobs = [];
-  if (m < 20 && h >= 5 && h <= 21 && h % 2 === 1) jobs.push("masa.yml");   // 08-24 TSİ, 2 saatte bir
   if (m < 20 && h === 6) jobs.push("altin.yml");                            // 09.00 TSİ
   if (m >= 20 && m < 40) jobs.push("foto.yml");                             // saatte bir
+  if (m >= 40) jobs.push("saglik.yml");                                     // saatte bir: Pi masası sustuysa yedek masa
   return jobs;
 }
 

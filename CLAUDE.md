@@ -55,12 +55,13 @@ haber yayını bu bağlantıyı beklemeden yapılır. Ücretli Gemini faturaland
   (Gemini Plus aboneliği; model `NEWS_API_MODEL`=gemini-3.8-flash-high, adres `NEWS_PROXY_TEST_BASE`/`NEWS_API_BASE`=
   Tailscale Funnel adresi (depo değişkeninde; depo herkese açık olduğu için buraya yazılmaz), anahtar `NEWS_API_KEY` secret). Pi'ye ulaşılamazsa o tur ücretsiz
   `GEMINI_API_KEY` ile yazılır. Bağlantı denemesi: `proxy-kontrol.yml` (yayınsız).
-- **Pi masası (hazırlandı 16.11.2026, kurulumu sahibinde):** `pi/kur.sh` haber masasını sahibinin Raspberry Pi'sine kurar
-  (`pi/KURULUM.md`): systemd zamanlayıcısı 2 saatte bir `pi/tur.sh` ile `newsbot.py --auto` çalıştırır (yerel CLIProxy,
-  Türkiye IP'si), deploy anahtarıyla `main`'e gönderir; push `foto.yml` ve `haber.yml`'yi tetikler. Kurulum doğrulanınca
-  GitHub'daki `masa.yml` yedeğe çekilecek ve Tailscale Funnel kapatılacak.
+- **Pi masası (ASIL MASA, 16.11.2026):** haberleri sahibinin Raspberry Pi'si yazar (`pi/kur.sh`, `pi/KURULUM.md`): systemd
+  zamanlayıcısı 08.07-00.07 TSİ 2 saatte bir `pi/tur.sh` ile `newsbot.py --auto` çalıştırır (yerel CLIProxy, Türkiye IP'si:
+  Büyükşehir/Anadolu Ünv. resmî fotoğrafları ve Wikimedia doğrudan açılıyor), deploy anahtarıyla `main`'e gönderir
+  (commit yazarı `nabiz26-pi`); push `foto.yml` ve `haber.yml`'yi tetikler. `masa.yml` artık yalnız elle; Pi 3 saat
+  susarsa `saglik.yml` yedek masayı (ücretsiz Gemini) çalıştırır. Pi'de elle değişiklik yapılmaz (her tur reset --hard).
 - **Zamanlayıcı** (`zamanlayici/`, Cloudflare Worker `nabiz26-zamanlayici`, 12.11.2026): GitHub schedule'ları saatlerce
-  gecikiyor/atlanıyor; Worker 20 dakikada bir uyanıp `masa.yml` (05-21 UTC tek saatler), `altin.yml` (06 UTC) ve `foto.yml`
+  gecikiyor/atlanıyor; Worker 20 dakikada bir uyanıp `altin.yml` (06 UTC), `foto.yml` ve `saglik.yml`
   (saatte bir) iş akışlarını `GH_DISPATCH_TOKEN` (Actions yazma) ile başlatır. Yayın/tanı: `zamanlayici.yml` (`izle` girdisi
   Worker kayıtlarını izler). GitHub schedule'ları yedek olarak duruyor.
 - **Sağlık kontrolü** (`saglik.yml`, saatte bir): gündüz son haber 3 saatten eskiyse yedek masa (`newsbot.py --auto`)
