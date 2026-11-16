@@ -21,10 +21,10 @@
     "title": "Yılmaz Büyükerşen'in tek cümlesi hayatını değiştirdi! Şimdi Eskişehir'in gülen yüzlerini topluyor - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/yilmaz-buyukersenin-tek-cumlesi-hayatini-degistirdi-simdi-eskisehirin-gulen-yuzlerini-topluyor-2465384"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Porsuk Çayı"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
