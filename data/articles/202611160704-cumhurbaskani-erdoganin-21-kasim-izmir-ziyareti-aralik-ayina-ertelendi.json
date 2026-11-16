@@ -20,10 +20,10 @@
     "title": "Erdoğan'ın İzmir programına erteleme! - Gündeme Bakış",
     "url": "https://www.gundemebakis.com/erdoganin-izmir-programina-erteleme"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Recep Tayyip Erdoğan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
