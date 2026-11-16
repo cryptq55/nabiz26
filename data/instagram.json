@@ -1,8 +1,5 @@
 {
  "stories": [
-  "202610220032-piyano-gunlerinde-prof-hulya-tarcan-masterclass-verdi",
-  "202610220032-anadolu-universitesinde-psikanaliz-ve-egitim-iliskisi-konferansi-yapil",
-  "202610220032-anadolu-universitesi-cam-bolumu-amsterdamda-ortak-atolye-ve-sergi-yapt",
   "202610220133-6-uluslararasi-piyano-gunleri-gulsin-onay-konseriyle-basladi",
   "202610220133-vali-yilmaz-muhtar-erol-erdal-gurdoganin-ailesine-taziye-ziyaretinde-b",
   "202610220133-eskisehirde-kadina-yonelik-siddetle-mucadele-koordinasyon-toplantisi-y",
@@ -499,7 +496,10 @@
   "202611160905-kerem-baykus-eskisehirsporu-sirtliyor-11-macta-10-skora-katki",
   "202611160905-yeni-partide-160-kisilik-parti-meclisi-belirlendi-kurultay-sona-erdi",
   "202611161104-togg-ekim-ayinda-turkiye-ikincisi-oldu-pazar-payi-yuzde-11-7ye-ulasti",
-  "202611161104-odunpazari-personeline-kanser-ve-losemide-erken-teshis-semineri"
+  "202611161104-odunpazari-personeline-kanser-ve-losemide-erken-teshis-semineri",
+  "202611161304-odunpazarinda-ikinci-taksit-icin-sure-daraliyor-vergi-odemelerinde-son",
+  "202611161304-tepebasinda-ucretsiz-diyetisyen-hizmeti-basladi-randevular-sali-gunler",
+  "202611161104-meb-duyurdu-ogretmen-bilgi-servisini-yaklasik-500-bin-egitimci-kulland"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -709,12 +709,11 @@
   "202611151246-eski-giysiler-japon-sanatiyla-yenileniyor-tepebasinda-sashiko-atolyesi",
   "202611151246-14-uluslararasi-eskisehir-siir-bulusmasi-sona-erdi-13-sair-katildi",
   "202611160905-kerem-baykus-eskisehirsporu-sirtliyor-11-macta-10-skora-katki",
-  "202611160600-altin-fiyatlari-16-kasim-2026-gram-altin-6-298-08-tl"
+  "202611160600-altin-fiyatlari-16-kasim-2026-gram-altin-6-298-08-tl",
+  "202611161304-tepebasinda-ucretsiz-diyetisyen-hizmeti-basladi-randevular-sali-gunler",
+  "202611161304-odunpazarinda-ikinci-taksit-icin-sure-daraliyor-vergi-odemelerinde-son"
  ],
  "log": [
-  1794740924.9794,
-  1794740942.9824643,
-  1794740959.6507545,
   1794769686.9385626,
   1794769754.8921664,
   1794769772.6032264,
@@ -725,7 +724,11 @@
   1794827270.7580724,
   1794827362.659541,
   1794827381.354037,
-  1794827409.2070613
+  1794827409.2070613,
+  1794834544.9285262,
+  1794834644.1136544,
+  1794834661.3095565,
+  1794834677.90435
  ],
  "reel_log": [
   1794769686.9385643,
@@ -733,6 +736,8 @@
   1794770865.453152,
   1794770933.2475743,
   1794827270.7580743,
-  1794827362.659543
+  1794827362.659543,
+  1794834544.9285278,
+  1794834644.1136558
  ]
 }
