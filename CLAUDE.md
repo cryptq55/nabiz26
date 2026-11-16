@@ -55,6 +55,10 @@ haber yayını bu bağlantıyı beklemeden yapılır. Ücretli Gemini faturaland
   (Gemini Plus aboneliği; model `NEWS_API_MODEL`=gemini-3.8-flash-high, adres `NEWS_PROXY_TEST_BASE`/`NEWS_API_BASE`=
   Tailscale Funnel adresi (depo değişkeninde; depo herkese açık olduğu için buraya yazılmaz), anahtar `NEWS_API_KEY` secret). Pi'ye ulaşılamazsa o tur ücretsiz
   `GEMINI_API_KEY` ile yazılır. Bağlantı denemesi: `proxy-kontrol.yml` (yayınsız).
+- **Pi masası (hazırlandı 16.11.2026, kurulumu sahibinde):** `pi/kur.sh` haber masasını sahibinin Raspberry Pi'sine kurar
+  (`pi/KURULUM.md`): systemd zamanlayıcısı 2 saatte bir `pi/tur.sh` ile `newsbot.py --auto` çalıştırır (yerel CLIProxy,
+  Türkiye IP'si), deploy anahtarıyla `main`'e gönderir; push `foto.yml` ve `haber.yml`'yi tetikler. Kurulum doğrulanınca
+  GitHub'daki `masa.yml` yedeğe çekilecek ve Tailscale Funnel kapatılacak.
 - **Zamanlayıcı** (`zamanlayici/`, Cloudflare Worker `nabiz26-zamanlayici`, 12.11.2026): GitHub schedule'ları saatlerce
   gecikiyor/atlanıyor; Worker 20 dakikada bir uyanıp `masa.yml` (05-21 UTC tek saatler), `altin.yml` (06 UTC) ve `foto.yml`
   (saatte bir) iş akışlarını `GH_DISPATCH_TOKEN` (Actions yazma) ile başlatır. Yayın/tanı: `zamanlayici.yml` (`izle` girdisi
