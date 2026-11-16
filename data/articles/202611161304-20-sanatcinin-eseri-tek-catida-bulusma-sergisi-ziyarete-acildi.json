@@ -21,10 +21,10 @@
     "title": "Eskişehir’de “Buluşma” sergisi sanatseverlerden tam not aldı - Eskişehir Ekspres",
     "url": "https://www.eskisehirekspres.net/eskisehirde-bulusma-sergisi-sanatseverlerden-tam-not-aldi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Haller Gençlik Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

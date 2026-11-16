@@ -22,10 +22,10 @@
     "title": "Tepebaşı Belediye Başkanı Ataç: \"Kentimizin geleceğini çocuklarımızla inşa ediyoruz\" - Anka Haber",
     "url": "https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentimizin-gelecegini-cocuklarimizla-insa-ediyoruz-2cd76841"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
