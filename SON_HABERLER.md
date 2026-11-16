@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor'da Atalay Yıldırım Şoku: Köprücük Kemiği Kırıldı, Ameliyat Edildi
+
+**Spor · Merkez** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspora-kotu-haber-kemigi-kirildi-ameliyat-oldu-2465371)
+
+![](data/images/313f68b6b62e80c2.jpg)
+
+> Ayvalıkgücü maçında sakatlanan Eskişehirsporlu futbolcu Atalay Yıldırım'ın sol köprücük kemiğinde kırık tespit edilerek ameliyata alındığı bildirildi.
+
+Nesine 3. Lig 2. Grup'un 12. haftasında Prof. Dr. Fethi Heper Stadyumu'nda oynanan ve 2-2 eşitlikle tamamlanan Ayvalıkgücü Belediyespor karşılaşmasında sakatlanan genç futbolcu Atalay Yıldırım'dan kötü haber geldi.
+
+Siyah-kırmızılı kulübün sosyal medya hesabından yayımlanan sağlık bilgilendirmesine göre, maç sırasında girdiği ikili mücadelede sakatlanan futbolcunun yapılan ayrıntılı kontrollerinde sol köprücük kemiğinde kırık belirlendi.
+
+Tetkiklerin ardından vakit kaybedilmeden ameliyata alınan Atalay Yıldırım'ın operasyonunun başarılı geçtiği belirtildi. Eskişehirspor Kulübü, operasyon sonrası oyuncuya geçmiş olsun dileklerini iletti.
+
+---
+
+## CHP'li Yıldırım Kaya: 'Halil İbrahim Sofrasını Yeniden Kurmak Zorundayız'
+
+**Siyaset · Türkiye** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - CHP](https://yerel-haberler.haberturk.com/hatay-haberleri/chp-genel-baskan-yardimcisi-yildirim-kaya-hatayda-konustu-119523905)
+
+> CHP Genel Başkan Yardımcısı Yıldırım Kaya, Hatay'da erken seçime hazır olduklarını belirterek iktidara hazırlığın tüm muhalefetin ortak görevi olduğunu söyledi.
+
+Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Yıldırım Kaya, partisinin Hatay'da bir otelde düzenlediği "Yönetici Eğitimleri" programında partililere hitap etti.
+
+Hatay'ın 15 ilçesinin üretim ve kalkınma potansiyeline sahip olduğunu ifade eden Kaya, 6 Şubat 2023 depremlerinden etkilenen bölgede üretici ve esnafın zorluklar yaşadığını belirtti. CHP'nin tek rakibinin mevcut siyasal iktidar olduğunu kaydeden Kaya, muhalefet partileriyle herhangi bir tartışma gündemlerinin bulunmadığını söyledi.
+
+Erken seçim istediklerini ve buna hazır olduklarını dile getiren Kaya, partiden ayrılanlara kapılarının açık olduğunu vurguladı. Tek başına iktidar iddiasının gerçekçi olmadığını savunan Kaya, "Halil İbrahim sofrasını yeniden kurmak zorundayız. Sofraya oturan her yurttaşımız eşit kaşıkla o sofrada yemeğini yiyecek. İktidara hazırlık, muhalefetin bütün olarak görevidir" ifadelerini kullandı.
+
+İlçe yöneticileri ve parti üyelerinin yer aldığı eğitim programına CHP Hatay İl Başkanı Derya Altunay da katılarak konuşma yaptı.
+
+---
+
+## 2027'de 46 Yeni Hastane Açılacak: 5'i Şehir Hastanesi Olacak
+
+**Sağlık · Türkiye** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://haberton.com/saglik-bakanligi-acikladi-2027de-46-yeni-hastane-acilacak-5i-sehir-hastanesi/)
+
+> Sağlık Bakanı Kemal Memişoğlu, 2027 yılında 5'i şehir hastanesi olmak üzere toplam 46 yeni hastanenin hizmete girmesinin planlandığını duyurdu.
+
+Sağlık Bakanı Kemal Memişoğlu, TBMM Plan ve Bütçe Komisyonunda bakanlığın 2027 yılı bütçe teklifine ilişkin yaptığı sunumda Türkiye genelindeki sağlık yatırımlarına dair ayrıntıları paylaştı. Bakan Memişoğlu, 2027 yılı içinde 5'i şehir hastanesi niteliğinde toplam 46 hastanenin faaliyete geçirilmesinin hedeflendiğini bildirdi.
+
+Son 10 yıllık süreçte 42 bini aşkın yatak kapasiteli 28 şehir hastanesinin açıldığını hatırlatan Memişoğlu, 11 şehir hastanesinin açılışı için de hazırlıkların devam ettiğini aktardı. İnşaatı tamamlanma aşamasına gelen Trabzon Şehir Hastanesinde ise kasım ayı sonunda hasta kabulüne başlanmasının öngörüldüğü ifade edildi. Son bir yılda ise Samsun, Aydın, Şanlıurfa ve Ordu'dakiler dahil toplam 9 bin 540 yatak kapasitesine sahip 34 hastane hizmete alındı.
+
+Kamudaki toplam yatak kapasitesinin 178 bin 66'ya, erişkin ve çocuk dahil yoğun bakım yatak sayısının da 26 bin 228'e ulaştığını belirten Memişoğlu, 81 ilde 486'sı inşaat halinde olan toplam 1.217 birinci basamak sağlık tesisinin yatırım sürecinin sürdüğünü kaydetti. Deprem bölgesindeki yatak kapasitesinin afet öncesine kıyasla yüzde 26 artırılarak 30 binin üzerine çıkarıldığı, bölgede 4 bin 381 yatak kapasiteli 24 sağlık tesisinin inşasının sürdüğü açıklandı.
+
+---
+
 ## Tepebaşı'nda Ücretsiz Diyetisyen Hizmeti Başladı: Randevular Salı Günleri
 
 **Sağlık · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndasaglıklıyasamicinucretsizdiyetisyendestegi)
@@ -429,57 +475,5 @@ Eskişehir'in merkezi alışveriş alanlarından biri olan Taşbaşı Çarşıs�
 Tuvaletin hangi gerekçeyle kapatıldığına dair herhangi bir bilgilendirme yapılmazken, alandaki kilitli kapılar günlük yaşamı olumsuz etkiliyor. Gün boyu çarşıda çalışan esnaf ile ziyaretçiler temel ihtiyaçlarını gidermekte sıkıntı yaşadıklarını ifade ediyor.
 
 Bölgedeki esnaf ve çarşı sakinleri, hijyenik ve pratik bir çözüm beklediklerini dile getirerek, kapalı tutulan umumi tuvaletin bir an önce bakımının tamamlanıp yeniden kullanıma açılmasını talep ediyor.
-
----
-
-## Eskişehirspor 2-0'dan Döndü: Ayvalıkgücü Randevusunda Nefes Kesen Beraberlik
-
-**Spor · Merkez** · 2026-11-15 15:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/eskisehirspor-ayvalikgucu-maci-canli-yayin-hangi-kanalda-eskisehirspor-ayvalikgucu-maci-nereden-izlenir-eskisehirspor-2465126)
-
-![](data/images/cfd751271a723044.jpg)
-
-> Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, sahasında 2-0 geriye düştüğü Ayvalıkgücü Belediyespor karşılaşmasından 2-2'lik beraberlikle ayrıldı.
-
-Nesine 3. Lig 2. Grup'un 12. haftasında Eskişehirspor, sahasında Ayvalıkgücü Belediyespor'u ağırladı. Mücadeleye etkili başlayan konuk ekip, 21. dakikada Atakan Akbulut'un kaydettiği golle 1-0 öne geçti. Baskısını sürdüren Ayvalıkgücü, 28. dakikada Emirhan Özyaşar'ın fileleri havalandırmasıyla farkı ikiye çıkardı.
-
-Erken gelen gollerle iki farklı geriye düşen siyah-kırmızılı ekip, oyundan kopmadı. 38. dakikada sahneye çıkan Mehmet Bağlı, attığı golle skoru 2-1'e getirerek Eskişehirspor'u yeniden maça ortak etti ve ilk yarı bu sonuçla tamamlandı.
-
-Karşılaşmanın dönüm noktası 77. dakikada yaşandı. Ayvalıkgücü Belediyespor'dan Adnan Demir, ikinci sarı kartın ardından kırmızı kart görerek takımını 10 kişi bıraktı. Faulün ardından serbest vuruşta topun başına geçen Kerem Baykuş, 78. dakikada frikikten şık bir gole imza atarak skoru 2-2'ye taşıdı.
-
-Kalan dakikalarda başka gol olmayınca mücadele 2-2 eşitlikle sona erdi. Bu sonuçla puanını artıran Eskişehirspor, haftayı lider Etimesgut'un ardından ikinci sırada kapattı. Ayvalıkgücü Belediyespor ise 22 puanla 7. sıradaki yerini korudu.
-
----
-
-## Senfoni Orkestrası'ndan 'Ateşin Dansı': Oxana Shevchenko Sahne Aldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.2eylul.com.tr/senfoni-orkestrasindan-atesin-dansi-konseri)
-
-![](data/images/af2ac25c51d8c978.jpg)
-
-> Eskişehir Büyükşehir Belediyesi Senfoni Orkestrası, 'Ateşin Dansı' konserinde dünyaca ünlü piyanist Oxana Shevchenko'yu ağırladı.
-
-Eskişehir Büyükşehir Belediyesi Senfoni Orkestrası, 2026-2027 sanat sezonu etkinlikleri kapsamında sanatseverleri "Ateşin Dansı" başlıklı özel konserde buluşturdu. Şef James Ross yönetiminde sahneye çıkan orkestra, farklı dönemlere ait klasik müzik yapıtlarını seslendirdi.
-
-Konser programı Mihail Glinka'nın "Ruslan ve Ludmila Operası Uvertürü" ile açıldı. Ardından sahneye çıkan uluslararası üne sahip piyanist Oxana Shevchenko, orkestra eşliğinde Sergei Rahmaninov'un "Paganini'nin Bir Teması Üzerine Rapsodi" eserini icra etti. İzleyicilerden yoğun alkış alan sanatçı, performansının ardından bis yaparak sahneyi renklendirdi.
-
-Programın ikinci yarısında orkestra, Anatoli Lyadov'un "Büyülü Göl" ve Igor Stravinski'nin "Ateş Kuşu Süiti" adlı eserlerini dinleyicilerin beğenisine sundu. Müzikal çeşitliliği ve sahne performansıyla dikkat çeken gece, solist ve şefe plaket takdim edilmesiyle noktalandı.
-
-Senfoni Orkestrası bir sonraki buluşmasını 4 Aralık 2026 Cuma günü saat 20.00'de Atatürk Kültür Sanat ve Kongre Merkezi'nde gerçekleştirecek. Şefliğini Vasilii Valitov'un üstleneceği konserde keman sanatçısı Bade Daştan solist olarak sahne alacak.
-
----
-
-## Özgür Özel 1154 Oyla Yeniden Genel Başkan Seçildi: Yeni Parti'de İlk Kurultay
-
-**Siyaset · Türkiye** · 2026-11-15 13:04 UTC · Kaynak: [Google Haberler - CHP](https://tr.euronews.com/2026/11/14/ozgur-ozel-yeni-parti-kurultayinda-1154-oyla-yeniden-genel-baskan-secildi)
-
-![](data/images/92d1a80cd0128c9c.jpg)
-
-> Ankara'da toplanan Yeni Parti 1. Olağan Kurultayı'nda tek aday olan Özgür Özel, geçerli 1154 oyun tamamını alarak genel başkanlığa seçildi.
-
-"Türkiye Yenileniyor" sloganıyla Ankara Spor Salonu'nda gerçekleştirilen Yeni Parti 1'inci Olağan Kurultayı'nda genel başkanlık seçimi tamamlandı. Toplam 1202 kayıtlı delegeden 1157'sinin sandık başına gittiği seçimde, geçerli sayılan 1154 oyun tamamını alan Özgür Özel yeniden genel başkanlık görevine getirildi. Kurultayın ikinci gününde Parti Meclisi ve Yüksek Disiplin Kurulu üyelerinin belirleneceği bildirildi.
-
-Kurultay konuşmasında partinin kuruluş sürecini ve izleyecekleri yol haritasını anlatan Özel, hedeflerinin iktidar olduğunu ifade etti. Belediyelere yönelik soruşturmaları eleştiren Özel, örgütlenme modeli kapsamında mahalle, ilçe ve il meclisleri oluşturacaklarını, Parti Meclisi üye sayısının ise 150'ye yükseltileceğini açıkladı.
-
-Ekonomi ve sosyal politikalara dair vaatlerini de sıralayan Özel; çiftçilere alım garantisi verilmesi, vergisiz mazot sağlanması ve borçların yeniden yapılandırılmasının yanı sıra temel vatandaşlık geliri ile ücretsiz okul yemeği projelerini hayata geçireceklerini söyledi. Programda ayrıca tutuklu bulunan Ekrem İmamoğlu'nun video mesajı ile Genel Sekreter Yunus Emre tarafından okunan kuruluş bildirgesi paylaşıldı.
 
 ---
