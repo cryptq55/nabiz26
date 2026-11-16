@@ -21,10 +21,10 @@
     "title": "Can Hacıoğlu: Karanlıktan bahsetmek yok - 2Eylül Haber",
     "url": "https://www.2eylul.com.tr/karanliktan-bahsetmek-yok"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Özen Yula"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

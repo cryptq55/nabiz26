@@ -21,10 +21,10 @@
     "title": "Eskişehir İl Sağlık Müdürü Doç. Dr. Yaşar Bildirici’ye teşekkür belgesi verildi - Tv42 Haber",
     "url": "https://www.tv42haber.com/genel/eskisehir-il-saglik-muduru-doc-dr-yasar-bildiriciye-tesekkur-belgesi-verildi-183746"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yaşar Bildirici"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
