@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg Ekim Ayında Türkiye İkincisi Oldu: Pazar Payı Yüzde 11,7'ye Ulaştı
+
+**Ekonomi · Türkiye** · 2026-11-16 11:04 UTC · Kaynak: [Google Haberler - Togg](https://finanshatti.com/otomotiv-sektorunde-ekim-raporu-togg-satislarda-zirveyi-zorluyor/)
+
+![](data/images/7afcb037abb16c44.jpg)
+
+> Türkiye İstatistik Kurumu verilerine göre Ekim ayında trafiğe kaydı yapılan araçlar arasında Togg, yüzde 11,7'lik pazar payıyla en çok tercih edilen ikinci marka oldu.
+
+Türkiye otomotiv pazarında Ekim ayı trafiğe kayıt verileri açıklandı. Türkiye İstatistik Kurumu verilerine göre, ay boyunca toplam 62 bin 97 otomobilin trafiğe kaydı gerçekleştirildi. Açıklanan istatistikler, yerli üretici ile küresel otomotiv markaları arasındaki rekabetin güncel durumunu ortaya koydu.
+
+Ekim ayı sonuçlarına göre pazarın zirvesinde yüzde 14,5'lik pay ile Renault yer aldı. Türkiye'nin yerli elektrikli otomobil markası Togg ise yüzde 11,7 pazar payı elde ederek satış listesinde ikinci sıraya yerleşti. Togg'un ardından gelen Volkswagen, yüzde 11,1'lik oranla listenin üçüncü basamağında kendine yer buldu.
+
+Elektrikli araçlara yönelik ilginin arttığı otomotiv sektöründe yerli üreticinin küresel markalar arasındaki yükselişi sürerken, pazar paylarının birbirine oldukça yakın seyretmesi markalar arasındaki rekabetin önümüzdeki dönemde de devam edeceğini gösteriyor.
+
+---
+
+## Odunpazarı Personeline Kanser ve Lösemide Erken Teşhis Semineri
+
+**Sağlık · Odunpazarı** · 2026-11-16 11:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/losev-den-odunpazari-belediyesi-personeline-kanser-ve-losemi-egitimi)
+
+![](data/images/93f15d7de022f28b.jpg)
+
+> LÖSEV yetkilileri, Odunpazarı Belediyesi Meclis Salonu'nda personele kanser ve lösemide erken tanının hayati önemini anlattı.
+
+Odunpazarı Belediyesi çalışanlarına yönelik sağlık bilgilendirme çalışmaları kapsamında, Lösemili Çocuklar Sağlık ve Eğitim Vakfı (LÖSEV) iş birliğiyle kanser ve lösemi semineri gerçekleştirildi.
+
+Belediye Meclis Salonu'nda düzenlenen eğitimde, erken teşhisin hastalıklarla mücadeledeki belirleyici rolü üzerinde duruldu. LÖSEV yetkilileri, katılımcılara hastalıkların erken dönemde tespit edilmesinin tedavi sürecine sağladığı katkıları aktardı.
+
+Seminerde ayrıca belediye personelinin sağlık kontrollerini düzenli yaptırması ve farkındalık düzeyinin artırılması hedeflendi.
+
+---
+
+## MEB Duyurdu: Öğretmen Bilgi Servisi'ni Yaklaşık 500 Bin Eğitimci Kullandı
+
+**Eğitim · Türkiye** · 2026-11-16 11:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ogretmen-bilgi-servisi039nden-yaklasik-500-bin-ogretmen-yararlandi/haber/42536/tr)
+
+![](data/images/bcbefe1bad5c8e9a.jpg)
+
+> Millî Eğitim Bakanlığı'nın yerli mesajlaşma platformu üzerinden sunduğu Öğretmen Bilgi Servisi'nden 474 bini aşkın öğretmen, Okul Veli Asistanı'ndan ise yaklaşık 400 bin veli yararlandı.
+
+Millî Eğitim Bakanlığı (MEB), eğitim çalışanları ile velilerin doğru bilgiye güvenli şekilde erişimini sağlamak amacıyla devreye aldığı dijital iletişim araçlarına ilişkin verileri paylaştı. Katılım zorunluluğu bulunmayan Öğretmen Bilgi Servisi'ni (ÖBS) bugüne kadar 474 bin 907 öğretmenin kullandığı bildirildi.
+
+Türk mühendisler tarafından geliştirilen yerli mesajlaşma uygulaması BiP altyapısıyla çalışan sistem, yabancı kaynaklı platformlardan bağımsız bir iletişim ortamı sunuyor. Bakanlık merkez teşkilatı; Türkiye Yüzyılı Maarif Modeli'ne dair duyurular, çalışma takvimleri, yönergeler ve toplantı bilgilerini ÖBS üzerinden doğrudan taşra teşkilatına ve öğretmenlere aktarabiliyor. Uçtan uca şifreleme yönteminin kullanıldığı sistemde, bölge ve grup bazında mesajlaşma ile geri bildirim toplama süreçleri de yürütülebiliyor.
+
+Öte yandan veliler ile okul idaresi arasındaki bağı güçlendirmek için hayata geçirilen Okul Veli Asistanı (OVA) sistemine de ilginin sürdüğü belirtildi. Bugüne kadar 399 bin 944 velinin kullandığı asistan aracılığıyla sınav tarihleri, notlar ve devamsızlık durumları anlık takip edilebiliyor. Veliler ayrıca sistem üzerinden düzenlenen anketlerle Bakanlığa görüş ve önerilerini iletebiliyor.
+
+---
+
+## Büyükerşen'in Önerisiyle Başladı: Eskişehir'in Gülen Yüzlerini Fotoğraflıyor
+
+**Kültür-Sanat · Merkez** · 2026-11-16 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/yilmaz-buyukersenin-tek-cumlesi-hayatini-degistirdi-simdi-eskisehirin-gulen-yuzlerini-topluyor-2465384)
+
+> Köpeğini kaybettikten sonra zor günler geçiren emekli Ali Kaplaner, Yılmaz Büyükerşen'in 'Mutluluğun resmini çek' tavsiyesiyle kentin tebessümlerini ölümsüzleştiriyor.
+
+Eskişehir'de emekli olduktan sonra köpeği "Bal" ile Adalar bölgesinde yürüyüşlere çıkan Ali Kaplaner'in fotoğraf serüveni, vatandaşların köpeğine gösterdiği ilgiyle başladı. Ancak Kaplaner'in hayatında derin iz bırakan köpeği 22 Eylül 2019'da yaşamını yitirdi.
+
+Köpeğinin kaybıyla zor bir döneme giren Kaplaner'in yaşamındaki dönüm noktası, 29 Ekim 2019 tarihinde dönemin Eskişehir Büyükşehir Belediye Başkanı Yılmaz Büyükerşen ile karşılaşması oldu. Büyükerşen'in kendisine ilettiği "Mutluluğun resmini çek" tavsiyesi, Kaplaner için yepyeni bir sayfa açtı.
+
+Bu sözün ardından fotoğraf makinesini eline alarak Eskişehir sokaklarını adım adım gezen Kaplaner, kent sakinlerinin tebessümlerini ve neşeli anlarını fotoğraflamaya başladı. Çektiği kareleri "Bal Gibi Sevgi" adlı sosyal medya hesabı üzerinden paylaşan Kaplaner, sokakta tanıştığı insanlarla birlikte objektifin karşısına geçerek kente dair hatıralar biriktirmeyi sürdürüyor.
+
+---
+
 ## Yeni Parti'de 160 Kişilik Parti Meclisi Belirlendi: Kurultay Sona Erdi
 
 **Siyaset · Türkiye** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - CHP](https://www.dw.com/tr/yeni-parti-y%C3%B6netimi-belli-oldu-pmde-kimler-var/a-79954360)
@@ -421,69 +483,5 @@ Eskişehir Büyükşehir Belediyesi tarafından kente kazandırılan ve vatanda�
 Soğuk havalara karşı alana yerleştirilen özel tasarımlı dome alanları, ziyaretçilerin açık hava atmosferini korurken sıcak bir ortamda vakit geçirmelerine olanak tanıyor. Farklı aydınlatma düzenlemeleriyle dikkat çeken yeni oturma alanları, mekânın kış görünümüne katkı sağladı.
 
 Balık ekmek lezzeti ve sosyal yaşam alanlarıyla hem hafta içi hem de hafta sonu Eskişehirlilerden ilgi gören tesis, kış ayları boyunca da misafirlerini ağırlamayı sürdürecek.
-
----
-
-## Eskişehirspor Ayvalıkgücü Karşısında: Maç Şifresiz Yayınlanacak
-
-**Spor · Tepebaşı** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.ntvspor.net/futbol/galeri-canli-izle-eskisehirspor-ayvalikgucu-maci-ne-zaman-saat-kacta-hangi-kanalda-433047)
-
-![](data/images/dc74314129bbd441.jpg)
-
-> TFF 3. Lig'de mücadele eden Eskişehirspor, 12. hafta randevusunda Ayvalıkgücü Belediyespor'u ağırlıyor. Mücadele Tivibu Spor'dan şifresiz olarak canlı yayınlanacak.
-
-TFF 3. Lig 2. Grup'un 12. hafta karşılaşmasında Eskişehirspor, sahasında Ayvalıkgücü Belediyespor ile karşı karşıya geliyor. Prof. Dr. Fethi Heper Stadyumu'nda oynanacak mücadele saat 15.30'da başlayacak.
-
-Karşılaşmayı stadyumdan izleyemeyecek futbolseverler için yayın ayrıntıları da netleşti. Mücadele, Tivibu Spor ekranlarından şifresiz ve canlı olarak futbolseverlerle buluşacak.
-
-Karşılaşmayı uydu üzerinden takip etmek isteyenler için Türksat 4A frekans bilgileri 11853 MHz frekans, yatay (H) polarizasyon, 25000 sembol oranı ve 3/4 FEC olarak paylaşıldı.
-
----
-
-## Erdoğan'dan KKTC'nin 43. Yılına Özel Mesaj: Asla Yalnız Bırakmayacağız
-
-**Siyaset · Türkiye** · 2026-11-15 11:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz-963330.html)
-
-![](data/images/ec82c333f0bda470.jpg)
-
-> Cumhurbaşkanı Erdoğan, KKTC'nin 43. kuruluş yıl dönümünü kutlayarak 'Kıbrıs bizim millî davamızdır, asla yalnız bırakmayacağız' dedi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) 43'üncü kuruluş yıl dönümü dolayısıyla bir kutlama mesajı yayımladı. Sosyal medya hesabı üzerinden açıklamada bulunan Erdoğan, Kıbrıs davasına verilen desteğin kararlılıkla süreceğini kaydetti.
-
-Mesajında şehit ve gazileri de anan Erdoğan, "Kuzey Kıbrıs Türk Cumhuriyeti’nin 43’üncü kuruluş yıl dönümünü en kalbî duygularımla tebrik ediyor; kahraman şehitlerimizi rahmetle, gazilerimizi şükranla anıyorum. Dayanışmamızı her alanda daha da güçlendirmeye devam edeceğimiz Kıbrıs Türkü kardeşlerime selam ve muhabbetlerimi iletiyorum. Kıbrıs bizim millî davamızdır. Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız" ifadelerini kullandı.
-
----
-
-## MEB'den 17 Milyon Öğrenciye Ara Tatil Rehberi ve Etkinlik Kitapları
-
-**Eğitim · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ogrenciler-ara-tatilde-etkinlik-kitaplari-ve-rehberlerle-desteklenecek/haber/42522/tr)
-
-![](data/images/5ea8f8ae5162dc0a.jpg)
-
-> Milli Eğitim Bakanlığı, 16-20 Kasım tarihlerinde uygulanacak birinci dönem ara tatili için tüm kademelere yönelik etkinlik kitapları ve rehber setleri yayımladı.
-
-İlköğretim ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 2026-2027 eğitim öğretim yılının ilk ara tatiline 16 Kasım Pazartesi günü başlıyor. 20 Kasım Cuma gününe kadar sürecek tatil öncesinde Milli Eğitim Bakanlığı, okul öncesinden liseye kadar her kademedeki öğrencilerin tatil dönemini verimli geçirmesi amacıyla yeni materyaller hazırladı.
-
-Türkiye Yüzyılı Maarif Modeli doğrultusunda geliştirilen etkinlik takvimi ve kitaplar; öğrencilerin aileleriyle kaliteli vakit geçirmesini, edindikleri bilgi ve becerileri günlük hayatla birleştirmesini hedefliyor. Karekodlar üzerinden dijital oyunlar, sanal müze gezileri, öyküler ve şarkılarla desteklenen içerikler öğrenme sürekliliğini ev ortamına taşımayı amaçlıyor.
-
-Okul öncesi eğitim için hazırlanan etkinlik takviminde "Oyun Anahtarım" uygulamasıyla çocukların her güne özel tasarlanan oyunları tamamlayıp kendi anahtarlarını tasarlamaları planlandı. İlkokul ve ortaokul kademeleri için hazırlanan "Arada 1" etkinlik kitaplarında Türk dünyasının kültürel mirası, çocuk hakları, doğa sevgisi ve matematiksel düşünme becerileri ön plana çıkarıldı.
-
-Lise kademesine hitap eden rehberde ise aile içi iletişim ve ekran süresi dengesinin yanı sıra üniversiteye hazırlanan öğrenciler için kritik yönlendirmelere yer verildi. Rehberin son bölümünde YKS kapsamındaki TYT, AYT ve YDT oturumlarına yönelik zaman yönetimi, odaklanma teknikleri ve ders bazlı uzman öğretmen tavsiyeleri paylaşıldı.
-
----
-
-## İletişim Başkanı Duran'dan KKTC'nin 43. Kuruluş Yıl Dönümü Mesajı
-
-**Türkiye · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/kktcnin-43-yil-donumu-icin-kutlama-mesajlari-15-11-26)
-
-![](data/images/31a820798f9b247d.jpg)
-
-> Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümünü kutlayarak Türkiye'nin Kıbrıs Türk halkının haklarını kararlılıkla koruyacağını vurguladı.
-
-Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) ilanının 43. yıl dönümü dolayısıyla sosyal medya hesabı üzerinden bir kutlama mesajı yayımladı.
-
-Mesajında Kıbrıs Türk halkının bağımsızlık mücadelesine dikkat çeken Duran, "Kıbrıs Türk halkının özgürlük mücadelesinin, bağımsızlık iradesinin simgesi olan Kuzey Kıbrıs Türk Cumhuriyeti’nin ilanının 43. yıl dönümünü gönülden kutluyorum" ifadelerini kullandı.
-
-Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan’ın liderliğinde Kıbrıs Türklerinin hakları, egemen eşitliği ve güvenliği için kararlılıkla çalışmaya devam edeceğini belirten Duran, KKTC Kurucu Cumhurbaşkanı Rauf Denktaş, Dr. Fazıl Küçük ve tüm şehitleri rahmet ve minnetle andı.
 
 ---
