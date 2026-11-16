@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESTÜ Kamu İletişimi Eğitiminde: 'Hassas Verileri Yapay Zekâya Vermeyin' Uyarısı
+
+**Eğitim · Tepebaşı** · 2026-11-16 19:14 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-iletisimin-yuzyili-guclu-iletisim-etkin-kamu-egitim-programina-katildi)
+
+> Eskişehir Teknik Üniversitesi, Afyonkarahisar'da kamu kurumlarına yönelik düzenlenen "İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu" eğitim programına katıldı.
+
+Cumhurbaşkanlığı İletişim Başkanlığı Afyonkarahisar Bölge Müdürlüğü tarafından düzenlenen "İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu" eğitim programı gerçekleştirildi. Afyon Kocatepe Üniversitesi Ahmet Necdet Sezer Kampüsü İbrahim Küçükkurt Konferans Salonu'ndaki programa Eskişehir Teknik Üniversitesi'ni (ESTÜ) temsilen Kurumsal İletişim Koordinatörlüğü personeli İhsan Tarık Çelik katıldı.
+
+Kamu kurumlarının basın ve halkla ilişkiler çalışanları ile yerel basın mensuplarını bir araya getiren programın açılışında konuşan Cumhurbaşkanlığı İletişim Başkan Yardımcısı İlhami Giray Şahin, kamu iletişiminin stratejik önem taşıdığını belirtti. Dijitalleşmeyle birlikte bilgi akışının hızlandığına işaret eden Şahin; dezenformasyonla mücadele, kriz iletişimi ve kurumlar arası koordinasyonun gerekliliğine değindi. Yapay zekâ teknolojilerinin veri güvenliği riskleri barındırdığına dikkat çeken Şahin, kurumsal bilgilerin ve hassas verilerin üçüncü taraf yapay zekâ uygulamalarıyla paylaşılmaması gerektiği uyarısında bulundu.
+
+Eğitimler kapsamında Dezenformasyonla Mücadele Merkezi tarafından dezenformasyonla mücadele yöntemleri, Bilgi İşlem Dairesi Başkanlığı tarafından yapay zekâ ile araştırma ve bilgi sentezleme teknikleri aktarıldı. Programda ayrıca halkla ilişkiler, CİMER süreçleri ve basında sosyal medya kullanımı başlıklarında sunumlar yapılarak kurumlar arası bilgi ve deneyim paylaşımı sağlandı.
+
+---
+
+## Eskişehirspor'da Hakan Şapcı Tartışılıyor: Gündemde Barış Filiz İsmi Var
+
+**Spor · Tepebaşı** · 2026-11-16 19:14 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.esgazete.com/eskisehirsporda-baris-filiz-sesleri)
+
+> Ayvalıkgücü beraberliği sonrası tribünlerin istifaya çağırdığı teknik direktör Hakan Şapcı'nın ardından siyah-kırmızılı kulüpte Barış Filiz ismi öne çıktı.
+
+Nesine 3. Lig'de şampiyonluk mücadelesi veren Eskişehirspor'da son haftalarda yaşanan puan kayıpları teknik heyeti eleştirilerin hedefine yerleştirdi. Son olarak Ayvalıkgücü Belediyespor karşılaşmasında tribünlerden teknik direktör Hakan Şapcı'ya yönelik yükselen istifa sesleri, camiadaki huzursuzluğu gün yüzüne çıkardı.
+
+Taraftarların sahadaki oyun anlayışı, oyuncu tercihleri ve maç içi hamleler nedeniyle tepki gösterdiği Şapcı'nın durumu belirsizliğini korurken, kulüp yönetiminin teknik direktör alternatifleri üzerinde durduğu iddia edildi. Bu kapsamda gündeme gelen isimlerden biri de Türkiye Futbol Federasyonu bünyesinde antrenör eğitimciliği yapan Barış Filiz oldu.
+
+UEFA Elit A antrenörlük lisansına sahip olan 38 yaşındaki Barış Filiz, antrenörlük kariyerinde Bursaspor'da A takım antrenörlüğü, Fenerbahçe Kadın Futbol Takımı'nda yardımcı antrenörlük, Bodrum FK, Bandırmaspor ve Tuzlaspor altyapılarında çeşitli görevler üstlendi. TFF'de yeni antrenör adaylarına eğitim veren Filiz ile kulüp yönetimi arasında henüz resmî bir temas kurulduğu doğrulanmazken, teknik heyet konusunun önümüzdeki günlerde netleşmesi bekleniyor.
+
+---
+
+## COP31'de İklim ve Afet Eğitimi Masaya Yatırıldı: Türkiye İklim Okulu'na Yoğun İlgi
+
+**Eğitim · Türkiye** · 2026-11-16 19:14 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye-iklim-okulunda-quotafet-risklerinin-azaltilmasinda-egitimin-roluquot-masaya-yatirildi/haber/42545/tr)
+
+![](data/images/d0cb8800788f8194.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında Millî Eğitim Bakanlığının kurduğu Türkiye İklim Okulunda afet risklerinin azaltılmasında eğitimin rolü uluslararası uzmanlarla ele alındı.
+
+Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde Millî Eğitim Bakanlığı tarafından oluşturulan Türkiye İklim Okulu, uzmanların katıldığı kapsamlı panellere ve atölyelere ev sahipliği yaptı.
+
+İçişleri Bakanlığı AFAD Eğitim ve Farkındalık Dairesi Başkanı, Japonya Uluslararası İş Birliği Ajansı (JICA) Türkiye Ofisi temsilcileri ve akademisyenlerin yer aldığı panelde, iklim krizine bağlı aşırı hava olayları, sel ve heyelan gibi afetlerin oluşturduğu tehditler ele alındı. Türkiye, Japonya ve Çin örnekleri üzerinden afet risklerine karşı dayanıklılığın artırılmasında okul müfredatları ile öğretmen kapasitesinin kritik rol oynadığı vurgulandı.
+
+Program kapsamında ayrıca yeşil becerilerin hayat boyu öğrenme süreçlerine dahil edilmesi ve gençlerin mücadeledeki rolü üzerine oturumlar düzenlendi. Okul alanındaki çölleşmeyi önleme simülatörleri, yenilenebilir enerji tasarımları ve muz lifi dokuma atölyesi yabancı katılımcılardan yoğun ilgi gördü.
+
+---
+
 ## Eskişehirspor'da Atalay Yıldırım Şoku: Köprücük Kemiği Kırıldı, Ameliyat Edildi
 
 **Spor · Merkez** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspora-kotu-haber-kemigi-kirildi-ameliyat-oldu-2465371)
@@ -431,49 +475,5 @@ Etkinlikler kapsamında şefler ve gastronomi uzmanlarının katılımıyla "Ana
 Yaşayan Okul ve İklim Deneyim Alanı'nda düzenlenen atölyelerde ise öğrenciler şeflerle birlikte mutfağa girdi. Gıda israfına dikkat çekilen uygulamalarda, bayat ekmekler kullanılarak fasulye paçası, narenciye kabukları değerlendirilerek ise pankek hazırlandı.
 
 Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır da Türkiye İklim Okulu'nu ziyaret ederek yürütülen çalışmalar hakkında yetkililerden bilgi aldı. Etkinlikler kapsamında ayrıca "Yaşayan Laboratuvardan Sürdürülebilir Geleceğe: Cezeri" başlığıyla sınıflarda enerji tasarrufu ve senaryo temelli problem çözme yöntemleri uzmanlarca ele alındı.
-
----
-
-## Togg T10F 600 Kilometre Üstü Menzilde Rakiplerine 1,6 Milyon Lira Fark Attı
-
-**Ekonomi · Türkiye** · 2026-11-15 19:04 UTC · Kaynak: [Google Haberler - Togg](https://www.memleket.com.tr/togg-t10f-2-2-milyon-tl-ile-menzilinde-en-ucuzu-oldu-2367143h.htm)
-
-![](data/images/608b792f81615715.jpg)
-
-> Türkiye pazarında tek şarjla 600 kilometreyi aşabilen elektrikli araçlar arasında Togg T10F, 2 milyon 195 bin liralık fiyatıyla en erişilebilir seçenek oldu.
-
-Türkiye otomobil pazarında uzun menzilli elektrikli modeller arasındaki rekabette yerli otomobil Togg T10F öne çıktı. Tek şarjla 600 kilometre sınırını geçebilen araçların yer aldığı karşılaştırmada, Togg T10F V1 RWD Uzun Menzil versiyonu 2 milyon 195 bin 600 TL'lik satış fiyatıyla en yakın rakibine 1,6 milyon TL fark attı.
-
-Katalog verilerine göre 623 kilometre menzil vadeden T10F modelini takip eden en uygun fiyatlı ithal alternatiflerin fiyatı 3,8 milyon TL seviyesinden başlıyor. Karşılaştırma listesinde 680 kilometre menzilli Hyundai IONIQ 6 yaklaşık 3,8 milyon TL, 622 kilometre menzil sunan Tesla Model Y Long Range ise 4,6 milyon TL düzeyinde bulunuyor. Daha üst segmentte yer alan 800 kilometre üzeri menzilli modellerin fiyatları ise 6,8 milyon TL ile 11,8 milyon TL arasında değişiyor.
-
-Uzmanlar, kataloglarda yer alan 623 kilometrelik değerin standart karma test ölçümlerine dayandığına dikkat çekiyor. Soğuk kış koşullarında ve 120 kilometre sabit otoyol hızlarında araçların gerçek menzilinin test verilerinin yaklaşık yüzde 70'ine gerilediği, buna göre Togg T10F uzun menzil sürümünün zorlu koşullarda dahi tek şarjla 450 ila 500 kilometre civarında yol kat edebileceği belirtiliyor.
-
----
-
-## Klasik Cumartesi Konserleri Başladı: Açılışı Nemeth Quartet Yaptı
-
-**Kültür-Sanat · Merkez** · 2026-11-15 19:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.anadolugazetesi.com/amp/eskisehir-de-klasik-cumartesi-konserleri-nemeth-quartet-ile-basladi-298143.html)
-
-> Eskişehir Büyükşehir Belediyesi'nin yeni sezondaki Klasik Cumartesi oda müziği konserleri, Nemeth Quartet'in sahne aldığı dinletiyle başladı.
-
-Eskişehir Büyükşehir Belediyesi tarafından düzenlenen 2026-2027 sanat sezonu Klasik Cumartesi oda müziği konserleri müzikseverlerle buluştu. Serinin açılış etkinliğinde sahneye çıkan Nemeth Quartet, farklı dönem ve kültürlerden seçilen geniş bir repertuvar sundu.
-
-Keman sanatçıları Gülen Ege Serter ve Şeniz Serter, viyola sanatçısı Pınar Basalak ile çello sanatçısı Mutlu Varlık Kocaili'den oluşan dörtlü; Wolfgang Amadeus Mozart, Antonio Vivaldi ve Astor Piazzolla'nın eserlerini icra etti. Programda klasik yapıtların yanı sıra aralarında "Manastır Türküsü"nün de yer aldığı anonim halk ezgilerinin yaylı çalgı düzenlemeleri seslendirildi.
-
-Konser sırasında sanatçılar, çalınan eserler ve yaylı enstrümanlar hakkında izleyicilere tanıtıcı bilgiler aktararak etkinliği çocuklar için eğitici bir buluşmaya dönüştürdü. Çocukların küçük yaşta müzikle tanışmasını ve ailelerin kültür etkinliklerine katılımını hedefleyen konser serisi sezon boyunca sürecek.
-
----
-
-## Taşbaşı Çarşısı'nda Tuvalet Çilesi: Yaklaşık Bir Haftadır Kilitli Duruyor
-
-**Gündem · Odunpazarı** · 2026-11-15 15:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.esyenigun.com/eskisehirin-tarihi-carsisinda-tuvalet-krizi-bir-haftadir-kapali)
-
-> Eskişehir'in en işlek ticaret noktalarından Taşbaşı Çarşısı'ndaki umumi tuvaletin günlerdir kapalı olması esnaf ve vatandaşları mağdur ediyor.
-
-Eskişehir'in merkezi alışveriş alanlarından biri olan Taşbaşı Çarşısı'nda yer alan umumi tuvalet, yaklaşık bir haftadır hizmet vermiyor. Bölgenin en yoğun noktalarından birinde bulunan tuvaletin kapalı olması, çarşıya alışveriş için gelen vatandaşlar ile çevredeki dükkan sahiplerini zor durumda bırakıyor.
-
-Tuvaletin hangi gerekçeyle kapatıldığına dair herhangi bir bilgilendirme yapılmazken, alandaki kilitli kapılar günlük yaşamı olumsuz etkiliyor. Gün boyu çarşıda çalışan esnaf ile ziyaretçiler temel ihtiyaçlarını gidermekte sıkıntı yaşadıklarını ifade ediyor.
-
-Bölgedeki esnaf ve çarşı sakinleri, hijyenik ve pratik bir çözüm beklediklerini dile getirerek, kapalı tutulan umumi tuvaletin bir an önce bakımının tamamlanıp yeniden kullanıma açılmasını talep ediyor.
 
 ---
