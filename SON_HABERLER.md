@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yeni Parti'de 160 Kişilik Parti Meclisi Belirlendi: Kurultay Sona Erdi
+
+**Siyaset · Türkiye** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - CHP](https://www.dw.com/tr/yeni-parti-y%C3%B6netimi-belli-oldu-pmde-kimler-var/a-79954360)
+
+![](data/images/70d3923911e06472.jpg)
+
+> Yeni Parti'nin ilk olağan kurultayı Parti Meclisi ve Yüksek Disiplin Kurulu seçimleriyle tamamlandı. Üye sayısı 160'a çıkarılan Parti Meclisi'nde ekonomi, dış politika ve bilim dünyasından isimler yer aldı.
+
+Ankara Spor Salonu'nda "Türkiye Yenileniyor" sloganıyla düzenlenen Yeni Parti 1. Olağan Kurultayı, ikinci gününde yapılan yönetim organları seçimleriyle sona erdi. Kayıtlı 1202 delegeden 1116'sının sandık başına gittiği seçimde, Genel Başkan Özgür Özel'in hazırladığı 160 kişilik Parti Meclisi (PM) ve 15 kişilik Yüksek Disiplin Kurulu listeleri delegeler tarafından kabul edildi.
+
+Kurultay sürecinde yapılan tüzük düzenlemesiyle üye sayısı 160'a yükseltilen Parti Meclisi; 80 kişilik yasama grubu, 40 kişilik örgüt grubu ve 40 kişilik politika geliştirme grubundan oluşturuldu. Yeni yönetim kadrosunda Selin Sayek Böke, Ümit Özlale, Yalçın Karatepe, Serkan Özcan ve Kerim Rota gibi ekonomi kurmaylarının yanı sıra emekli büyükelçiler, akademisyenler ile bilim ve hukuk alanından isimler görev aldı.
+
+Oy verme işleminin ardından değerlendirmelerde bulunan Genel Başkan Özgür Özel, mahallelerden başlayan kuruluş sürecini kurultayla noktaladıklarını belirterek iktidar hazırlıklarına odaklanacaklarını ifade etti. Özel, uzman kadroların ekonomi, tarım, sağlık ve sosyal politikalar başlıklarında çalışma yürüteceğini, Ekonomi Eşgüdüm Konseyi'nin 14 kişiye ulaştığını ve kamuoyunun gündemindeki iddialara ilişkin teyit edilen dosyaların da aşamalı olarak paylaşılacağını açıkladı.
+
+Genel Sekreter Yunus Emre tarafından okunan ve kurultayda kabul edilen sonuç bildirgesinde ise parlamenter sisteme dönüş, bağımsız yargı, kuvvetler ayrılığı, kayyım uygulamalarına son verilmesi ve İstanbul Sözleşmesi'nin yürürlüğe konulması hedeflerine yer verildi.
+
+---
+
+## Tepebaşı'na Kapsamlı Sağlık Kompleksi: 6 Farklı Birim Tek Çatıda Toplanıyor
+
+**Sağlık · Tepebaşı** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.canligaste.com/eskisehir-tepebasi-ndaki-saglik-kompleksi-insaatinda-inceleme/950417/)
+
+> İl Sağlık Müdürü Yaşar Bildirici, Tepebaşı Uluönder Mahallesi'nde bünyesinde poliklinikten acil istasyonuna kadar 6 birimi barındıracak sağlık kompleksinin inşaatını inceledi.
+
+Eskişehir İl Sağlık Müdürlüğünden yapılan bilgilendirmeye göre, İl Sağlık Müdürü Yaşar Bildirici, Tepebaşı ilçesine bağlı Uluönder Mahallesi'nde yapımı süren dev sağlık kompleksinin şantiye alanında incelemelerde bulundu.
+
+Yetkililerden çalışmaların son durumu ve inşaatın ilerleyişine ilişkin bilgi alan Bildirici, projenin sahadaki aşamalarını yerinde değerlendirdi.
+
+Tamamlandığında tek çatı altında hizmet verecek kompleks; Çocuk İzlem Merkezi (ÇİM), Sağlıklı Hayat Merkezi (SHM), Aile Sağlığı Merkezi (ASM), Toplum Sağlığı Merkezi (TSM), Ağız ve Diş Sağlığı Hastalıkları Semt Polikliniği ile 112 Acil Sağlık Hizmetleri İstasyonuna ev sahipliği yapacak. Projeyle koruyucu hekimlik, birinci basamak ve acil sağlık hizmetlerine erişimin kolaylaşması hedefleniyor.
+
+---
+
+## Kerem Baykuş Eskişehirspor'u Sırtlıyor: 11 Maçta 10 Skora Katkı
+
+**Spor · Merkez** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.61saat.com/trabzonspor-altyapisindan-yetisen-kerem-istatistikleri-parcaladi)
+
+![](data/images/09f8046e542bdca2.jpg)
+
+> Eskişehirspor formasıyla bu sezon 11 maça çıkan Trabzonspor altyapılı Kerem Baykuş, kaydettiği 7 gol ve 3 asistle takımın en skorer ismi oldu.
+
+TFF 3. Lig'in 12. haftasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor'da, beraberlik golünü frikikten atan Kerem Baykuş performansıyla öne çıkıyor.
+
+Trabzonspor altyapısından yetişen 26 yaşındaki futbolcu, bu sezon siyah-kırmızılı ekipte sergilediği başarılı grafikle dikkat çekiyor. Ligde geride kalan 11 karşılaşmada forma giyen hücum oyuncusu, rakip fileleri 7 kez sarsarken 3 de gol pası vererek takımının skor yükünü üstlendi.
+
+Kariyerinde daha önce 1461 Trabzon FK formasıyla çıktığı 90 müsabakada 20 gol ve 15 asist üreten Baykuş, Isparta 32 SK bünyesinde ise 32 karşılaşmada 10 gol, 10 asistlik performans sergilemişti.
+
+---
+
 ## Odunpazarı Belediyesi'nde Personele Diyabet Taraması ve Bilgilendirme
 
 **Sağlık · Odunpazarı** · 2026-11-16 07:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-diyabet-farkindaligi)
@@ -437,55 +485,5 @@ Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Kuzey Kıbrıs Tür
 Mesajında Kıbrıs Türk halkının bağımsızlık mücadelesine dikkat çeken Duran, "Kıbrıs Türk halkının özgürlük mücadelesinin, bağımsızlık iradesinin simgesi olan Kuzey Kıbrıs Türk Cumhuriyeti’nin ilanının 43. yıl dönümünü gönülden kutluyorum" ifadelerini kullandı.
 
 Türkiye'nin Cumhurbaşkanı Recep Tayyip Erdoğan’ın liderliğinde Kıbrıs Türklerinin hakları, egemen eşitliği ve güvenliği için kararlılıkla çalışmaya devam edeceğini belirten Duran, KKTC Kurucu Cumhurbaşkanı Rauf Denktaş, Dr. Fazıl Küçük ve tüm şehitleri rahmet ve minnetle andı.
-
----
-
-## Evde Bakım Yardımı Hesaplara Yatıyor: Bu Ay Toplam 7,8 Milyar Lira Ödenecek
-
-**Türkiye · Türkiye** · 2026-11-15 09:04 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goktas-evde-bakim-yardimi-odemesini-hesaplara-yatirmaya-basladik/)
-
-![](data/images/91f585b83b5c57ec.jpg)
-
-> Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, evlerinde bakılan tam bağımlı vatandaşlar ve aileleri için bu ay toplam 7,8 milyar liralık desteğin hesaplara aktarılmaya başlandığını bildirdi.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, engelli bireylerin öncelikle aile ortamında bakımını desteklemek amacıyla yürütülen Evde Bakım Yardımı ödemelerinin hak sahiplerinin hesaplarına yatırılmaya başlandığını duyurdu. Göktaş, bu ay toplam 7,8 milyar liralık kaynağın aktarıldığını belirtti.
-
-Evde Bakım Yardımı'nın 2006 yılından bu yana uygulanan temel bir sosyal hizmet modeli olduğunu hatırlatan Bakan Göktaş, engelli bireylerin aile bütünlüklerini koruyarak kendi yaşam alanlarında desteklenmesini öncelikli gördüklerini vurguladı. Bu destekle engelli bireylerin ailelerinden ayrılmadan yaşamlarını sürdürebilmelerinin amaçlandığı kaydedildi.
-
-Program kapsamında hak sahibi başına aylık 15 bin 755 lira ödeme yapıldığını aktaran Göktaş, hâlihazırda 495 bin vatandaşın bu yardımdan faydalandığını ifade ederek ödemelerin tüm hak sahiplerine ve ailelerine hayırlı olmasını diledi.
-
----
-
-## Yunus Emre Devlet Hastanesi'nde Dünya Diyabet Günü Standı Açıldı
-
-**Sağlık · Tepebaşı** · 2026-11-15 07:04 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehirde-dunya-diyabet-gunune-ozel-etkinlik)
-
-> Eskişehir Yunus Emre Devlet Hastanesi'nde 14 Kasım Dünya Diyabet Günü dolayısıyla vatandaşlara yönelik bilgilendirme ve farkındalık etkinliği gerçekleştirildi.
-
-Eskişehir Yunus Emre Devlet Hastanesi'nde 14 Kasım Dünya Diyabet Günü kapsamında toplumsal bilinci artırmak amacıyla stant açıldı. Etkinliğe Yunus Emre Devlet Hastanesi Başhekimi Dr. Öğr. Üyesi Gamze Akın Mumcu, hastane yöneticileri, sağlık personeli ve çok sayıda vatandaş katılım sağladı.
-
-Hastane içerisinde kurulan bilgilendirme standında görevliler tarafından vatandaşlara diyabetin risk faktörleri, hastalığın erken teşhis edilmesinin önemi ve korunma yöntemleri aktarıldı. Sağlık ekipleri, erken tanının tedavi sürecindeki kritik rolünü vurguladı.
-
-Farkındalık çalışması kapsamında ayrıca dengeli beslenme alışkanlığı, düzenli fiziksel aktivite yapılması ve rutin kan şekeri kontrolünün diyabetle mücadeledeki önemi hatırlatılarak vatandaşlara sağlıklı yaşam tavsiyelerinde bulunuldu.
-
----
-
-## Altın fiyatları 15 Kasım 2026: Gram altın 6.373,53 TL
-
-**Ekonomi · Merkez** · 2026-11-15 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261115.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.293,54 TL'den alınıyor, 6.373,53 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.373,53 TL, alış fiyatı 6.293,54 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,12 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.388 TL, yarım altın 20.770 TL, tam altın 41.388 TL, ata altın 42.493 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.953,20 TL, has altının gram fiyatı 6.354,47 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.880,80 dolardan işlem görürken, dolar/TL 50,50 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
