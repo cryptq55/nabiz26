@@ -21,10 +21,10 @@
     "title": "Eskişehirspor'da Barış Filiz sesleri! - Esgazete",
     "url": "https://www.esgazete.com/eskisehirsporda-baris-filiz-sesleri"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Yeni Stadyumu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

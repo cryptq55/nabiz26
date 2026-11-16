@@ -20,10 +20,10 @@
     "title": "CHP Genel Başkan Yardımcısı Yıldırım Kaya, Hatay'da konuştu: - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/hatay-haberleri/chp-genel-baskan-yardimcisi-yildirim-kaya-hatayda-konustu-119523905"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yıldırım Kaya"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

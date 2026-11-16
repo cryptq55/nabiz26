@@ -21,10 +21,10 @@
     "title": "16Kas2026 Eskişehir Teknik Üniversitesi, “İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu” Eğitim Programına Katıldı Cumhurbaşkanlığı İletişim Başkanlığı Afyonkarahisar Bölge Müdürlüğü tarafından düzenlenen “İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu” Eğitim…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-iletisimin-yuzyili-guclu-iletisim-etkin-kamu-egitim-programina-katildi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

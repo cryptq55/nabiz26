@@ -21,10 +21,10 @@
     "title": "Sağlık Bakanlığı açıkladı! 2027’de 46 yeni hastane açılacak: 5’i şehir hastanesi - Haberton",
     "url": "https://haberton.com/saglik-bakanligi-acikladi-2027de-46-yeni-hastane-acilacak-5i-sehir-hastanesi/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kemal Memişoğlu"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
