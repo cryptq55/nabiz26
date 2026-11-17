@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz Öğretmenevinde İncelemelerde Bulundu: Güçlendirme Sürüyor
+
+**Eğitim · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-depreme-karsi-guclendirme-calismalari-devam-eden-eskisehir-ogretmenevini-ziyaret-etti)
+
+![](data/images/481443073e3f2fb4.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, depreme karşı güçlendirme çalışmaları yürütülen Eskişehir Öğretmenevini ziyaret ederek yetkililerden son durum hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, depreme dayanıklılık çalışmaları devam eden Eskişehir Öğretmenevi binasında incelemelerde bulundu.
+
+Çalışma alanını gezerek yürütülen güçlendirme faaliyetlerini yerinde inceleyen Vali Yılmaz, inşaat sürecinin mevcut durumu ve yapılan işlemler hakkında teknik ekipten ayrıntılı bilgi aldı.
+
+Çalışmaların titizlikle sürdürülmesinin önemini vurgulayan Vali Yılmaz, sahada görev yapan personele çalışmalarında kolaylıklar diledi.
+
+---
+
+## Şehir Tiyatroları'nda Ücretsiz Eğitim Sezonu: Yetişkin ve Kadın Atölyeleri Başlıyor
+
+**Kültür-Sanat · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13568&cat_icerik=1&menu_id=24)
+
+![](data/images/351bfc90f320424e.jpg)
+
+> Eskişehir Şehir Tiyatroları, yeni sezonda 25 yaş üzeri yetişkinler ile 20 yaş üzeri kadınlara yönelik tiyatro ve drama eğitimleri için başvuru sürecini başlattı.
+
+Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, sahnelediği oyunların yanı sıra kent genelindeki eğitim ve atölye çalışmalarını yeni sezonda da sürdürüyor. Gençlik Sahnesi seçmelerinin ardından farklı yaş gruplarına yönelik ücretsiz kurs takvimi belirlendi.
+
+Bu sezon ilk defa uygulanacak program kapsamında 25 yaş üzeri yetişkinlere tiyatro kursu, 20 yaş üzeri kadınlara ise özel drama atölyesi düzenlenecek. Başvuruları alınmaya başlanan eğitimlerin dersleri yakın zamanda başlayacak.
+
+Öte yandan Sultandere Sahnesi'nde iki sezondur yürütülen eğitimler çerçevesinde 15-18 yaş arası gençlere yönelik tiyatro kursu başvuruları da açıldı. Kasım ayı içerisinde başlayacak tüm eğitimlerin sezon sonuna kadar devam edeceği, kayıt ve detaylı bilgilere ise kurumun sosyal medya hesapları üzerinden ulaşılabileceği bildirildi.
+
+---
+
+## Köz Orkestra'dan Ücretsiz Türkü Konseri: 19 Kasım'da Sahne Alacaklar
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-17 15:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/koz-orkestra-dan-turkulerle-muzik-ziyafeti)
+
+![](data/images/8e24f30318a43973.jpg)
+
+> Odunpazarı Belediyesi bünyesindeki eğitmenlerin kurduğu Köz Orkestra, "Beste Formunda Türküler" konseriyle 19 Kasım Perşembe günü dinleyicilerin karşısına çıkacak.
+
+Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü bünyesinde görev yapan eğitmenlerin bir araya gelmesiyle hayata geçirilen Köz Orkestra, yeni bir dinletiyle sanatseverlerle buluşmaya hazırlanıyor. Topluluk, bu kez türküleri sahneye taşıyacak.
+
+"Beste Formunda Türküler" başlığıyla organize edilen konserde orkestra, Anadolu'nun köklü müzikal mirasını kendine has yorumuyla icra edecek. Farklı enstrümanların ve müzikal deneyimlerin bir araya geleceği gecede türküseverlere zengin bir repertuvar sunulacak.
+
+Yunus Emre Kültür ve Sanat Merkezi'nde düzenlenecek etkinlik, 19 Kasım Perşembe günü saat 19.30'da başlayacak. Müzikseverler konseri ücretsiz olarak takip edebilecek.
+
+---
+
+## Eskişehirspor İlk Yarıyı Zirvede Bitirmek İstiyor: 5 Maçta Hedef 15 Puan
+
+**Spor · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporun-hedefi-5-macta-15-puan)
+
+> TFF 3. Lig'de zirve takibini sürdüren Eskişehirspor, ilk yarının kalan beş haftasında tüm maçları kazanarak liderliği geri almayı hedefliyor.
+
+TFF 3. Lig 2. Grup'un 12. haftasında sahasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor, haftayı 25 puanla ikinci sırada tamamladı. Zirvede 26 puanlı Etimesgut Spor Kulübü yer alırken, aynı puana sahip Gemlik Sümerbey üçüncü sırada bulunuyor. Siyah-kırmızılı ekip, ilk devrenin kalan beş haftasında 15 puan toplayarak yeniden liderlik koltuğuna oturmayı amaçlıyor.
+
+Siyah-kırmızılıların ilk yarı fikstüründe üç deplasman maçı yer alıyor. Eskişehirspor, 22 Kasım'da Söke 1970 deplasmanına konuk olduktan sonra 29 Kasım'da Denizli İdmanyurdu 1959'u Eskişehir'de ağırlayacak. 6 Aralık'ta Karşıyaka ile deplasmanda karşılaşacak olan Kırmızı Şimşekler, 13 Aralık'ta zirve yarışındaki rakiplerinden Gemlik Sümerbey'i konuk edecek. İlk devrenin son maçı ise 20 Aralık'ta Bucaspor 1928 deplasmanında oynanacak.
+
+Lig mücadelesinin ortasında siyah-kırmızılıları Ziraat Türkiye Kupası randevusu da bekliyor. Üçüncü turda Iğdır FK'yı eleyen Eskişehirspor, dördüncü eleme turunda Trendyol 1. Lig ekibi Bodrum FK'ya konuk olacak. 2 Aralık Çarşamba günü saat 15.00'te tek maç eleme usulüyle oynanacak bu karşılaşmayla birlikte Eskişehirspor, sekiz gün içinde ikisi ligde biri kupada olmak üzere üç kritik maça çıkacak.
+
+---
+
+## Eskişehir'deki 5 Lisede Patent ve Marka Seferberliği: Üniversiteliler Eğitti
+
+**Eğitim · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/nlkdrmwy60xk36b114tj8nhr)
+
+![](data/images/6357248af74afd93.jpg)
+
+> TÜRKPATENT'in 'IP Öncüleri' projesi kapsamında Anadolu Üniversitesi öğrencileri, Eskişehir'deki liselilere marka, tasarım ve patent haklarını anlattı.
+
+Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından hayata geçirilen "IP Öncüleri" Projesi kapsamında Eskişehir'deki liselerde fikrî ve sınai mülkiyet haklarına yönelik bilgilendirme etkinlikleri düzenlendi. Anadolu Üniversitesi ARİNKOM Teknoloji Transfer Ofisi (TTO) Fikrî Haklar ve Ticarileştirme Koordinatörü Zeynep Can ile TTO Yöneticisi Öğr. Gör. Dr. Rabia Taş’ın mentörlüğünde yürütülen programda üniversite öğrencileri liderlik yaptı.
+
+TÜRKPATENT bünyesindeki eğitimleri başarıyla tamamlayan üniversite öğrencileri Ceyda Tekbaş, Simge Durgut, Gülin Gültekin, Mehmet Kaya Koca, Elen Karataş ve Mervegül Memiş, edindikleri bilgi birikimini lise öğrencilerine aktardı. Çalışmayla gençlerin yenilikçi fikirler üretmesi, bu buluşların korunması ve ticarileştirilmesi konusunda farkındalık oluşturulması amaçlandı.
+
+Eskişehir Borsa İstanbul Fen Lisesi, Eti Sosyal Bilimler Lisesi, Tepebaşı Şehit Mehmet Şengül Fen Lisesi, Eskişehir Anadolu İmam Hatip Lisesi ve Cevat Ülger Uluslararası Anadolu İmam Hatip Lisesi'nde gerçekleştirilen oturumlarda "Marka ve Tasarım" ile "Patent ve Faydalı Model" başlıkları işlendi. Sunumların ardından programa katılan TÜRKPATENT temsilcileri, lise öğrencilerinin mülkiyet haklarına ilişkin merak ettiği soruları yanıtladı.
+
+---
+
 ## Tarih Bulvarı ve Albayrak Caddesi'nde Yağmur Suyu Hattı Tamamlandı
 
 **Belediye · Merkez** · 2026-11-17 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13569&cat_icerik=1&menu_id=24)
@@ -409,89 +487,5 @@ Festival yönetiminin paylaştığı bilgilere göre Cinemapink salonlarında ge
 Sinema Anadolu'daki gösterimlerde ise farklı bir uygulama geçerli olacak. Bu salonda izleyiciyle buluşacak filmlerin biletleri internet üzerinden satılmayacak; biletler yalnızca gösterim günü sinema gişesinden satın alınabilecek.
 
 23. Uluslararası Eskişehir Film Festivali, 19-27 Kasım 2026 tarihleri arasında düzenlenecek. Dokuz gün sürecek etkinlik boyunca zengin bir film seçkisi Eskişehirli izleyicilerle buluşacak.
-
----
-
-## Anadolu Üniversitesi'nden Üç Yeni Eser: Arkeolojiden Dans Tarihine Açık Erişimde
-
-**Eğitim · Tepebaşı** · 2026-11-16 21:08 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/nh3nn1blf90ntly1iehy1ezl)
-
-![](data/images/16a56d5bf0fd30dc.jpg)
-
-> Anadolu Üniversitesi Yayınları; dans sanatı, Eskişehir Meslek Yüksekokulu tarihi ve Dağlık Phrygia kaya mezarlarını konu alan üç yeni akademik eseri dijital ortamda açık erişime açtı.
-
-Anadolu Üniversitesi Yayınları, farklı alanlarda hazırlanan üç yeni yayını okurlarla buluşturdu. Dans tarihi, yükseköğretim tarihi ve Anadolu arkeolojisine odaklanan eserler dijital ortamda açık erişimle sunuldu.
-
-Yayımlanan çalışmalardan ilki olan ve M. Tekin Koçkar tarafından kaleme alınıp Prof. Dr. Sernaz Demirel'in editörlüğünü üstlendiği "Dans Tarihi ve Koreografi Sanatı – Cilt I", dansın kültürel gelişimini felsefe, sanat ve antropoloji disiplinleriyle inceliyor. Eserde ilkel ritüellerden toplumsal törenlere uzanan tarihsel süreç mercek altına alınıyor.
-
-İkinci eser ise yükseköğretim tarihine ışık tutuyor. Prof. Dr. Nuran Öztürk Başpınar ve Öğr. Gör. Şafak Yüksel Vural imzalı, Doç. Dr. Osman Güldemir editörlüğündeki "Kurumsal Hafızadan Geleceğe" adlı kitap, Eskişehir Meslek Yüksekokulunun 1990'dan 2026'ya kadar uzanan 36 yıllık gelişimini arşiv belgeleri ve 27 sözlü tarih görüşmesiyle aktarıyor.
-
-Üçüncü yayın olarak sunulan Prof. Dr. R. Eser Kortanoğlu'na ait "Hellenistik ve Roma Dönemlerinde Dağlık Phrygia Bölgesi Kaya Mezarları" ise bölgedeki kaya mezarlarının mimari tiplerini ve cephe özelliklerini görsel kataloglarla belgeliyor. Üniversiteden yapılan açıklamada, eserlerin tamamına kurumun dijital platformu üzerinden ücretsiz erişilebildiği bildirildi.
-
----
-
-## Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-16 19:43 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/wb4odbkemtj1p5utywg0t8c3)
-
-![](data/images/8a09b3b6d86c1a80.jpg)
-
-> Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde açılan 'Yunus Emre' sergisinde, büyük düşünürün sözleri kaligrafi ve tipografinin estetik olanaklarıyla sanatseverlerle buluştu.
-
-Anadolu Üniversitesi Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü tarafından düzenlenen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında hazırlanan “Yunus Emre” sergisi, Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde ziyarete açıldı. Yunus Emre’nin felsefesini yazının sanatsal gücüyle buluşturan serginin açılışına 1'inci Ana Jet Üs Komutanı Tuğgeneral Erol Gökmen, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman, akademisyenler ve öğrenciler katıldı.
-
-Açılışta konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Yunus Emre'nin barış ve sevgi felsefesini gelecek kuşaklara aktarmada sanatın kritik rol oynadığını vurguladı. Sanatçıların ve öğrencilerin Yunus'un sözlerini estetik bir dille yeniden yorumladığını belirten Adıgüzel, üniversitede geçen yılın Yunus Emre Yılı, bu eğitim öğretim yılının ise Nasreddin Hoca Yılı ilan edildiğini hatırlattı.
-
-Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman da Yunus Emre’nin insanın ortak değerlerine seslenen evrensel bir miras bıraktığına dikkat çekti. Festival organizasyon komitesi üyesi Dr. Öğr. Üyesi Mehtap Uygungöz ise 2009'dan beri süren etkinliğin Latin harfli modern yazı sanatı ile geleneksel hat sanatını harmanlayan özgün bir modele dönüştüğünü ve öğrencilerin bizzat üretim sürecine katıldığını aktardı.
-
-Yunus Emre’nin düşünce dünyasını yazı sanatıyla harmanlayan sergi, 11 Aralık Cuma gününe kadar Anadolu Üniversitesi Çağdaş Sanatlar Müzesi'nde gezilebilecek.
-
----
-
-## Eskişehir'de Kadim Tohum Kavılca Buğdayı Ekim Alanı 3 Katına Çıktı: 210 Dekara Ulaştı
-
-**Tarım · Seyitgazi** · 2026-11-16 19:43 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13565&cat_icerik=1&menu_id=24)
-
-![](data/images/e233711e26b6a447.jpg)
-
-> Eskişehir Büyükşehir Belediyesi, binlerce yıllık geçmişe sahip kavılca buğdayının ekim alanını 70 dekardan 210 dekara çıkardı. Tohumlar Seyitgazi'de de toprakla buluştu.
-
-Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı, Anadolu'nun köklü tarım miraslarından kavılca buğdayını yeniden kente kazandırmak için ekim sahalarını genişletiyor. Geçtiğimiz üretim sezonunda yaklaşık 70 dekar alanda yapılan ve bölge ortalamasının üzerinde verim sağlanan üretimden elde edilen tohumluklar, bu yılki ekim alanının 210 dekara yükselmesini sağladı.
-
-Proje kapsamında Seyitgazi Belediyesi ile ortak bir çalışma da hayata geçirildi. İki belediye arasındaki iş birliği protokolü çerçevesinde, Seyitgazi ilçesine bağlı Yenikent Mahallesi'nde Küllüoba kazı çalışmalarının sürdüğü bölgedeki 10 dekarlık belediye arazisine kavılca buğdayı ekildi.
-
-Yerel tarımsal çeşitliliği korumayı ve ata tohumlarını gelecek nesillere aktarmayı hedefleyen Büyükşehir Belediyesi, hasat edilecek yeni ürünleri tohumluk olarak değerlendirerek kavılca buğdayının Eskişehir genelindeki yaygınlığını artırmayı sürdürecek.
-
----
-
-## Erdoğan Vefatının 5. Yılında Sezai Karakoç'u Andı: 'Hürmetle Yad Ediyorum'
-
-**Siyaset · Türkiye** · 2026-11-16 19:43 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi/4126829)
-
-![](data/images/c110f03facd99bb8.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünce insanı Sezai Karakoç'u vefatının 5. yıl dönümünde yayımladığı mesajla andı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Türk edebiyatının ve düşünce dünyasının önemli isimlerinden Sezai Karakoç'un vefatının 5. yılı dolayısıyla bir anma mesajı paylaştı.
-
-Sosyal medya hesabı üzerinden açıklamada bulunan Cumhurbaşkanı Erdoğan, "Ebediyete irtihalinin 5'inci yılında Diriliş Şairimiz Üstat Sezai Karakoç'u rahmetle, hürmetle yad ediyorum." ifadelerine yer verdi.
-
----
-
-## 3. Lig 2. Grup'ta 12. Hafta Geride Kaldı: Eskişehirspor Zirve Takibini Sürdürüyor
-
-**Spor · Merkez** · 2026-11-16 19:43 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.habercitv.com.tr/3-lig-2-grup-puan-durumu-ve-12-hafta-mac-sonuclari)
-
-![](data/images/1543266dde4cd874.jpg)
-
-> Nesine 3. Lig 2. Grup'ta 12. hafta maçlarının ardından Eskişehirspor, lider Etimesgut Spor'un bir puan gerisinde 25 puanla ikinci sıradaki yerini korudu.
-
-Nesine 3. Lig 2. Grup'ta 12. hafta karşılaşmaları tamamlandı. Sahasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor, haftayı 25 puanla ikinci sırada kapattı. Gaziemir G.O.G. Spor'u 5-0 mağlup eden Etimesgut Spor ise 26 puana yükselerek liderlik koltuğuna oturdu.
-
-Grupta zirve mücadelesi büyük çekişmeye sahne oluyor. Lider Etimesgut Spor'u 25'er puanla Eskişehirspor ve Gemlik Sümerbey takip ederken, Balıkesirspor ile Karşıyaka 24'er puanla sıralandı. Rakip fileleri 33 kez havalandıran Eskişehirspor, 12 hafta sonunda grubun en golcü takımı unvanını elinde bulunduruyor.
-
-Eskişehir'in gruptaki bir diğer temsilcisi Eskişehir Anadolu Spor ise deplasmanda Balıkesirspor ile 1-1 berabere kalarak puanını 22'ye yükseltti ve haftayı 7. sırada tamamladı.
-
-Ligin 13. haftasında Eskişehirspor, 22 Kasım Pazar günü saat 13.00'te deplasmanda Söke 1970 Spor ile karşılaşacak. Aynı gün Eskişehir Anadolu Spor ise sahasında 1922 Akşehir Spor'u konuk edecek.
 
 ---
