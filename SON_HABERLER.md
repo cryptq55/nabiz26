@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 17 Kasım 2026: Gram altın 6.370,23 TL
+
+**Ekonomi · Merkez** · 2026-11-17 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261117.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.293,65 TL'den alınıyor, 6.370,23 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.370,23 TL, alış fiyatı 6.293,65 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,17 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.383 TL, yarım altın 20.759 TL, tam altın 41.366 TL, ata altın 42.471 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.950,11 TL, has altının gram fiyatı 6.351,18 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.880,50 dolardan işlem görürken, dolar/TL 50,51 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Günyüzü Kayakent'te 2 Kilometrelik Su Terfi Hattı Yenilendi
 
 **Belediye · Günyüzü** · 2026-11-17 05:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13562&cat_icerik=1&menu_id=24)
@@ -459,21 +479,5 @@ TFF 3. Lig'in 12. haftasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan
 Trabzonspor altyapısından yetişen 26 yaşındaki futbolcu, bu sezon siyah-kırmızılı ekipte sergilediği başarılı grafikle dikkat çekiyor. Ligde geride kalan 11 karşılaşmada forma giyen hücum oyuncusu, rakip fileleri 7 kez sarsarken 3 de gol pası vererek takımının skor yükünü üstlendi.
 
 Kariyerinde daha önce 1461 Trabzon FK formasıyla çıktığı 90 müsabakada 20 gol ve 15 asist üreten Baykuş, Isparta 32 SK bünyesinde ise 32 karşılaşmada 10 gol, 10 asistlik performans sergilemişti.
-
----
-
-## Odunpazarı Belediyesi'nde Personele Diyabet Taraması ve Bilgilendirme
-
-**Sağlık · Odunpazarı** · 2026-11-16 07:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediyesi-nden-diyabet-farkindaligi)
-
-![](data/images/7d7ad1cd4d10fd84.jpg)
-
-> Odunpazarı Belediyesi, 14 Kasım Dünya Diyabet Günü kapsamında çalışanlarına yönelik kan şekeri ölçümü ve farkındalık etkinliği gerçekleştirdi.
-
-Odunpazarı Belediyesi Engelli ve Yaşlı Hizmetleri Müdürlüğü, 14 Kasım Dünya Diyabet Günü dolayısıyla belediye çalışanlarına yönelik sağlık taraması ve bilgilendirme programı düzenledi.
-
-Belediyenin ana hizmet binası ile Park ve Bahçeler Müdürlüğü şantiyesinde kurulan noktalarda personelin kan şekeri ölçümleri yapıldı. Sağlık ekipleri, çalışanlara diyabet hastalığının belirtileri ve korunma yolları hakkında bilgi verdi.
-
-Yoğun ilgi gören etkinlik kapsamında dağıtılan bilgilendirici broşürlerle erken teşhisin önemine dikkat çekildi ve sağlıklı yaşam alışkanlıklarının benimsenmesi teşvik edildi.
 
 ---
