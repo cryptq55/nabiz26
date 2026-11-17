@@ -21,11 +21,11 @@
     "title": "Eskişehirspor iç sahada 6 puan bıraktı - Sakarya Gazetesi",
     "url": "https://www.sakaryagazetesi.com.tr/eskisehirspor-ic-sahada-6-puan-birakti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Yeni Stadyumu",
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
