@@ -2,6 +2,56 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Mezuniyet Filmiyle 3 Ödül Birden: Anadolu Üniversitesi Mezununa Tebrik
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-17 07:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/h2jq0e9daova2kyy7zfx4ty7)
+
+![](data/images/fac43f73e75e1a38.jpg)
+
+> Anadolu Üniversitesi Çizgi Film ve Animasyon Bölümü mezunu Selin Toprak, hazırladığı kısa filmle Altın Portakal dâhil üç ayrı festivalden ödülle döndü.
+
+Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon Bölümünden bu yıl mezun olan Selin Toprak, mezuniyet projesi olan "Dünya Günü Kutlu Olsun (Happy Earth Day)" isimli animasyon filmiyle önemli başarılara imza attı.
+
+Toprak, 12. TRT Geleceğin İletişimcileri Yarışması Animasyon Film kategorisinde ikincilik derecesi elde ederken, 14. Uluslararası Canlandıranlar Film Festivali'nde "En İyi Senaryo" ve 63. Uluslararası Antalya Altın Portakal Film Festivali'nde ise "Jüri Özel Ödülü" kazandı. Film, elverişsiz hâle gelen Dünya'dan ayrılarak uzay gemisinde yeni bir yaşam kuran insanların öyküsünü ve Dünya Günü kutlaması sırasında uzaylıların gizemli planıyla yüzleşmelerini konu ediniyor.
+
+Elde edilen ulusal ve uluslararası başarıların ardından Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, genç animatörü makamında ağırlayarak tebrik etti. Ziyarette Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman, Bölüm Başkanı Prof. Dr. Çiğdem Taş Alicenap ile proje danışmanları Prof. Fethi Kaba ve Doç. Sabahattin Çalışkan da yer aldı.
+
+---
+
+## MEB Türkiye'nin Eğitim Dönüşümünü Kitaplaştırdı: 2026 Görünümü Yayımlandı
+
+**Eğitim · Türkiye** · 2026-11-17 07:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye039nin-egitimdeki-gelisimi-kitaplastirildi/haber/42554/tr)
+
+![](data/images/acda54fbd62958f6.jpg)
+
+> Millî Eğitim Bakanlığı, geçmişten bugüne eğitim sisteminde kaydedilen gelişmeleri ve uluslararası göstergeleri dokuz bölümlük kapsamlı bir eserde bir araya getirdi.
+
+Millî Eğitim Bakanlığı Strateji Geliştirme Başkanlığı tarafından hazırlanan "Türkiye'de Eğitim: Politikalar, Uygulamalar, Gelişmeler - 2026 Görünümü" adlı çalışma yayımlandı. Kitapta, Türk eğitim sisteminin yıllar içindeki dönüşümü sayısal veriler, tablolar ve grafiklerle ayrıntılı şekilde ortaya konuldu.
+
+Dokuz ana bölümden oluşan çalışmada; öğrenci, öğretmen ve derslik sayılarındaki değişimden okullaşma oranlarına, bütçe imkanlarından fiziki yatırımlara kadar birçok başlık ele alındı. Okul binalarındaki deprem güçlendirme çalışmaları, enerji verimliliği ve yeşil dönüşüm projelerine dair detaylar da veriler eşliğinde paylaşıldı.
+
+Eğitimde fırsat eşitliği başlığı altında ücretsiz ders kitabı dağıtımı, taşımalı eğitim, bursluluk ve destekleme kurslarına değinilen eserde; FATİH Projesi, etkileşimli tahtalar ve dijital eğitim platformlarındaki teknolojik altyapı adımları özetlendi. Eserde ayrıca TIMSS ve PISA sonuçları ışığında Türkiye'nin uluslararası eğitim göstergelerindeki performansına yer verildi.
+
+Kitabın sunuş yazısını kaleme alan Millî Eğitim Bakanı Yusuf Tekin, köklü birikimle geleceğin harmanlandığını belirterek, Türkiye Yüzyılı Maarif Modeli ile teoriden pratiğe aktarılan ve insanı merkeze alan esnek bir eğitim yapısının hedeflendiğini ifade etti.
+
+---
+
+## Eskişehirspor Kadın Futbol Takımı Tekirdağ GSK'yı 2-1 Mağlup Etti
+
+**Spor · Tepebaşı** · 2026-11-17 07:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/maddi-imkansizliklarla-da-mucadele-eden-eskisehirspor-kadin-futbol-takimindan-onemli-galibiyet)
+
+![](data/images/a16b9a7b292dfc7e.jpg)
+
+> Kadınlar 2. Lig'de mücadele eden Eskişehirspor Kadın Futbol Takımı, sahasında ağırladığı Tekirdağ GSK'yı 2-1 yenerek üç puanı hanesine yazdırdı.
+
+Kadınlar 2. Lig'in 3. haftasında Eskişehirspor Kadın Futbol Takımı, Behiç Erkin Spor Kompleksi'nde Tekirdağ GSK ile karşılaştı. Maddi imkânsızlıklara rağmen sahaya galibiyet parolasıyla çıkan siyah-kırmızılı ekip, zorlu mücadeleden üstünlükle ayrılmayı başardı.
+
+Karşılaşmada Eskişehirspor'a galibiyeti getiren golleri Esin Demirtürk ve Eylül Naz Kurt kaydetti. Konuk ekip Tekirdağ GSK'nın tek golüne rağmen skor üstünlüğünü maçın son düdüğüne kadar koruyan ev sahibi ekip, sahadan 2-1'lik skorla galip ayrıldı.
+
+Ligin üçüncü haftasını kayıpsız geçen ve puanını artıran siyah-kırmızılı ekipte, maç sonu futbolcular ve teknik heyet galibiyet sevincini birlikte yaşadı. Eskişehirspor Kadın Futbol Takımı, gelecek haftalarda da çıkışını sürdürerek üst sıralara tırmanmayı hedefliyor.
+
+---
+
 ## Altın fiyatları 17 Kasım 2026: Gram altın 6.370,23 TL
 
 **Ekonomi · Merkez** · 2026-11-17 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -431,53 +481,5 @@ Eskişehir'de emekli olduktan sonra köpeği "Bal" ile Adalar bölgesinde yürü
 Köpeğinin kaybıyla zor bir döneme giren Kaplaner'in yaşamındaki dönüm noktası, 29 Ekim 2019 tarihinde dönemin Eskişehir Büyükşehir Belediye Başkanı Yılmaz Büyükerşen ile karşılaşması oldu. Büyükerşen'in kendisine ilettiği "Mutluluğun resmini çek" tavsiyesi, Kaplaner için yepyeni bir sayfa açtı.
 
 Bu sözün ardından fotoğraf makinesini eline alarak Eskişehir sokaklarını adım adım gezen Kaplaner, kent sakinlerinin tebessümlerini ve neşeli anlarını fotoğraflamaya başladı. Çektiği kareleri "Bal Gibi Sevgi" adlı sosyal medya hesabı üzerinden paylaşan Kaplaner, sokakta tanıştığı insanlarla birlikte objektifin karşısına geçerek kente dair hatıralar biriktirmeyi sürdürüyor.
-
----
-
-## Yeni Parti'de 160 Kişilik Parti Meclisi Belirlendi: Kurultay Sona Erdi
-
-**Siyaset · Türkiye** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - CHP](https://www.dw.com/tr/yeni-parti-y%C3%B6netimi-belli-oldu-pmde-kimler-var/a-79954360)
-
-![](data/images/70d3923911e06472.jpg)
-
-> Yeni Parti'nin ilk olağan kurultayı Parti Meclisi ve Yüksek Disiplin Kurulu seçimleriyle tamamlandı. Üye sayısı 160'a çıkarılan Parti Meclisi'nde ekonomi, dış politika ve bilim dünyasından isimler yer aldı.
-
-Ankara Spor Salonu'nda "Türkiye Yenileniyor" sloganıyla düzenlenen Yeni Parti 1. Olağan Kurultayı, ikinci gününde yapılan yönetim organları seçimleriyle sona erdi. Kayıtlı 1202 delegeden 1116'sının sandık başına gittiği seçimde, Genel Başkan Özgür Özel'in hazırladığı 160 kişilik Parti Meclisi (PM) ve 15 kişilik Yüksek Disiplin Kurulu listeleri delegeler tarafından kabul edildi.
-
-Kurultay sürecinde yapılan tüzük düzenlemesiyle üye sayısı 160'a yükseltilen Parti Meclisi; 80 kişilik yasama grubu, 40 kişilik örgüt grubu ve 40 kişilik politika geliştirme grubundan oluşturuldu. Yeni yönetim kadrosunda Selin Sayek Böke, Ümit Özlale, Yalçın Karatepe, Serkan Özcan ve Kerim Rota gibi ekonomi kurmaylarının yanı sıra emekli büyükelçiler, akademisyenler ile bilim ve hukuk alanından isimler görev aldı.
-
-Oy verme işleminin ardından değerlendirmelerde bulunan Genel Başkan Özgür Özel, mahallelerden başlayan kuruluş sürecini kurultayla noktaladıklarını belirterek iktidar hazırlıklarına odaklanacaklarını ifade etti. Özel, uzman kadroların ekonomi, tarım, sağlık ve sosyal politikalar başlıklarında çalışma yürüteceğini, Ekonomi Eşgüdüm Konseyi'nin 14 kişiye ulaştığını ve kamuoyunun gündemindeki iddialara ilişkin teyit edilen dosyaların da aşamalı olarak paylaşılacağını açıkladı.
-
-Genel Sekreter Yunus Emre tarafından okunan ve kurultayda kabul edilen sonuç bildirgesinde ise parlamenter sisteme dönüş, bağımsız yargı, kuvvetler ayrılığı, kayyım uygulamalarına son verilmesi ve İstanbul Sözleşmesi'nin yürürlüğe konulması hedeflerine yer verildi.
-
----
-
-## Tepebaşı'na Kapsamlı Sağlık Kompleksi: 6 Farklı Birim Tek Çatıda Toplanıyor
-
-**Sağlık · Tepebaşı** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.canligaste.com/eskisehir-tepebasi-ndaki-saglik-kompleksi-insaatinda-inceleme/950417/)
-
-> İl Sağlık Müdürü Yaşar Bildirici, Tepebaşı Uluönder Mahallesi'nde bünyesinde poliklinikten acil istasyonuna kadar 6 birimi barındıracak sağlık kompleksinin inşaatını inceledi.
-
-Eskişehir İl Sağlık Müdürlüğünden yapılan bilgilendirmeye göre, İl Sağlık Müdürü Yaşar Bildirici, Tepebaşı ilçesine bağlı Uluönder Mahallesi'nde yapımı süren dev sağlık kompleksinin şantiye alanında incelemelerde bulundu.
-
-Yetkililerden çalışmaların son durumu ve inşaatın ilerleyişine ilişkin bilgi alan Bildirici, projenin sahadaki aşamalarını yerinde değerlendirdi.
-
-Tamamlandığında tek çatı altında hizmet verecek kompleks; Çocuk İzlem Merkezi (ÇİM), Sağlıklı Hayat Merkezi (SHM), Aile Sağlığı Merkezi (ASM), Toplum Sağlığı Merkezi (TSM), Ağız ve Diş Sağlığı Hastalıkları Semt Polikliniği ile 112 Acil Sağlık Hizmetleri İstasyonuna ev sahipliği yapacak. Projeyle koruyucu hekimlik, birinci basamak ve acil sağlık hizmetlerine erişimin kolaylaşması hedefleniyor.
-
----
-
-## Kerem Baykuş Eskişehirspor'u Sırtlıyor: 11 Maçta 10 Skora Katkı
-
-**Spor · Merkez** · 2026-11-16 09:05 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.61saat.com/trabzonspor-altyapisindan-yetisen-kerem-istatistikleri-parcaladi)
-
-![](data/images/09f8046e542bdca2.jpg)
-
-> Eskişehirspor formasıyla bu sezon 11 maça çıkan Trabzonspor altyapılı Kerem Baykuş, kaydettiği 7 gol ve 3 asistle takımın en skorer ismi oldu.
-
-TFF 3. Lig'in 12. haftasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor'da, beraberlik golünü frikikten atan Kerem Baykuş performansıyla öne çıkıyor.
-
-Trabzonspor altyapısından yetişen 26 yaşındaki futbolcu, bu sezon siyah-kırmızılı ekipte sergilediği başarılı grafikle dikkat çekiyor. Ligde geride kalan 11 karşılaşmada forma giyen hücum oyuncusu, rakip fileleri 7 kez sarsarken 3 de gol pası vererek takımının skor yükünü üstlendi.
-
-Kariyerinde daha önce 1461 Trabzon FK formasıyla çıktığı 90 müsabakada 20 gol ve 15 asist üreten Baykuş, Isparta 32 SK bünyesinde ise 32 karşılaşmada 10 gol, 10 asistlik performans sergilemişti.
 
 ---
