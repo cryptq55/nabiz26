@@ -2,6 +2,102 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tarih Bulvarı ve Albayrak Caddesi'nde Yağmur Suyu Hattı Tamamlandı
+
+**Belediye · Merkez** · 2026-11-17 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13569&cat_icerik=1&menu_id=24)
+
+![](data/images/e8019bddce032ea9.jpg)
+
+> Eskişehir'de aşırı yağış risklerine karşı altyapıyı güçlendiren ESKİ, Tarih Bulvarı ve Albayrak Caddesi'ndeki yağmur suyu tahliye hattı çalışmalarını bitirdi.
+
+Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğü (ESKİ), kent genelinde yağmur suyu tahliye kapasitesini artırmak amacıyla yürüttüğü çalışmalara yenilerini ekledi. Bu kapsamda Tarih Bulvarı ve Albayrak Caddesi'nde planlanan yeni yağmur suyu hattının imalatı bitirildi.
+
+Sızdırmazlığı artırmak için entegre contalı beton boruların döşendiği güzergâhta, bakım ve kontrol süreçleri için muayene bacaları yerleştirildi. Yol yüzeyinde biriken suların hatta aktarılması amacıyla yağmur suyu ızgaralarının montajı yapılarak bütünleşik bir drenaj sistemi kuruldu. Çalışmalarla iklim krizine bağlı ani ve yoğun yağışların kent içi ulaşımı olumsuz etkilemesinin önüne geçilmesi hedefleniyor.
+
+Boru döşeme ve altyapı işlemlerinin ardından kazı yapılan noktalarda asfalt serimi gerçekleştirilerek üstyapı onarımları tamamlandı.
+
+Kent genelindeki yatırımların kentin bugünkü ve gelecekteki altyapı gereksinimlerine yanıt verecek şekilde yürütüldüğünü belirten Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, yapılan çalışmalarla hemşehrilerin günlük yaşamının kolaylaştırıldığını ve kentin geleceğine yatırım yapıldığını ifade etti.
+
+---
+
+## Rektör Adıgüzel'den SUBÜ'ye Tebrik Ziyareti: Akademik İş Birlikleri Görüşüldü
+
+**Eğitim · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/qyigc976ekw5lb5mflv27a2t)
+
+![](data/images/ef818b0e94c8283a.jpg)
+
+> Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Sakarya Uygulamalı Bilimler Üniversitesi Rektörlüğü'ne atanan Prof. Dr. Zafer Tatlı'yı makamında ziyaret etti.
+
+Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Sakarya Uygulamalı Bilimler Üniversitesi (SUBÜ) Rektörlüğü görevine atanan Prof. Dr. Zafer Tatlı'ya hayırlı olsun ziyaretinde bulundu. Gerçekleşen ziyarete Anadolu Üniversitesi Rektör Danışmanı Prof. Dr. Mustafa Bostancı ile SUBÜ Rektör Yardımcısı Prof. Dr. İsa Vural da eşlik etti.
+
+Ziyarette Rektör Prof. Dr. Yusuf Adıgüzel, mevkidaşı Prof. Dr. Zafer Tatlı'yı yeni görevi dolayısıyla tebrik ederek çalışmalarında başarılar diledi. Görüşme kapsamında iki yükseköğretim kurumu arasındaki bağların güçlendirilmesi, akademik iş birliklerinin artırılması ve ortaklaşa hayata geçirilebilecek projeler ele alındı.
+
+Üniversiteler arası iş birliği mesajlarının verildiği buluşma, karşılıklı hediye takdiminin ardından tamamlandı.
+
+---
+
+## Rakip Futbolculardan Eskişehirspor'a Övgü: 'Seyircisiyle Çok Farklı Oluyor'
+
+**Spor · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.milliirade.com/rakipten-eskisehirspora-ovgu)
+
+> Ayvalıkgücü Belediyesporlu futbolcular Atakan Akbulut ve Mehmet Yıkılmazdağ, 2-2 biten maçın ardından Eskişehirspor'un kadro kalitesine ve tribün gücüne dikkat çekti.
+
+Nesine 3. Lig 2. Grup'ta Eskişehirspor ile 2-2 berabere kalan Ayvalıkgücü Belediyespor'da Atakan Akbulut ve Mehmet Yıkılmazdağ, mücadelenin ardından açıklamalarda bulundu. Konuk ekibin 2-0 öne geçtiği ve kırmızı kart sonrası siyah-kırmızılı ekibin skoru dengelediği randevuyu değerlendiren futbolcular, Eskişehirspor camiasına övgü yağdırdı.
+
+Karşılaşmaya iyi hazırlandıklarını belirten Atakan Akbulut, istedikleri başlangıcı yapmalarına karşın kırmızı kartın ardından dengelerin bozulduğunu söyledi. Akbulut, "Bizim için maç çok güzel başladı, galip gelmek istiyorduk. Kırmızı karttan sonra oyun dengemiz bozuldu. Eskişehir büyük bir camia. Taraftar baskısıyla iyi mücadele ettiler. İyi takımın da ayağına sağlık" ifadelerini kullandı.
+
+Eskişehirspor'un ligdeki kadro kalitesine işaret eden Mehmet Yıkılmazdağ ise siyah-kırmızılıların güçlü oyunculardan kurulu olduğunu belirtti. Tribün baskısının maçın kaderini etkilediğini vurgulayan Yıkılmazdağ, "Eskişehirspor bu ligde en kaliteli futbolculara sahip takımlardan biri. Seyirci desteğini de arkasına aldığında çok farklı oluyor" değerlendirmesini yaptı.
+
+Gruptaki şampiyonluk yarışını da ele alan Yıkılmazdağ, ligde puan farklarının açılmasını beklemediğini ve sezon sonunda hak eden tarafın zirveye çıkacağını dile getirdi.
+
+---
+
+## ESTÜ COP31'de Sahneye Çıkıyor: 15 Bilimsel Proje Antalya'da Tanıtılacak
+
+**Eğitim · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-cop31de-15-projesiyle-yerini-aliyor)
+
+> Eskişehir Teknik Üniversitesi, sürdürülebilir gelecek hedefiyle geliştirdiği 15 bilimsel projesini Antalya'da düzenlenen COP31 Yeşil Bölge etkinliklerinde uluslararası kamuoyuna sunuyor.
+
+Eskişehir Teknik Üniversitesi (ESTÜ), iklim değişikliği ve çevre teknolojileri odaklı bilimsel çalışmalarını uluslararası platformda sergilemeye hazırlanıyor. Üniversite, Antalya'da gerçekleştirilen COP31 Yeşil Bölge etkinlikleri kapsamında 12 stant projesi ve 3 dijital ekran sunumu olmak üzere toplam 15 çalışmasını katılımcılarla buluşturacak.
+
+Akademisyenler tarafından yürütülen çalışmalar; iklim değişikliğine uyum, çevresel sürdürülebilirlik, döngüsel ekonomi, atık yönetimi, ekolojik planlama, afetlere dirençli kentler, dijital kültürel miras ve iklim okuryazarlığı gibi geniş bir yelpazeyi kapsıyor. Projeler, ESTÜ'nün bilimsel araştırma kapasitesini ve sürdürülebilir kalkınmaya yönelik geliştirdiği yenilikçi çözüm modellerini yansıtıyor.
+
+COP31 Yeşil Bölge kapsamında yer alacak çalışmalar, 18 Kasım 2026 Çarşamba günü 10.00 ile 18.00 saatleri arasında Yeşil Bölge 12 numaralı stantta ziyaret edilebilecek. Dijital formattaki 3 proje ise ortak ekran sunumları üzerinden katılımcıların incelemesine açılacak.
+
+---
+
+## Başkan Ataç: 2030'a Kadar Sera Gazı Emisyonunu Yüzde 40 Azaltmayı Hedefliyoruz
+
+**Belediye · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanataciklimmucadelesitepebası’ndayıllardırkentyasamınınicinde)
+
+![](data/images/19dede2ba7bb52b2.jpg)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, iklim mücadelesinin yerel kararlarla somutlaşacağını belirterek ilçedeki enerji verimliliği ve çevre yatırımlarını anlattı.
+
+Antalya'da devam eden COP31 iklim zirvesi sürecinde değerlendirmelerde bulunan Tepebaşı Belediye Başkanı Ahmet Ataç, çevre ve iklim çalışmalarının dönemsel projelerden çıkarılarak kurumsal bir yapıya dönüştürüldüğünü kaydetti. Ataç, Aralık 2020'de kurulan İklim Değişikliği Müdürlüğü ile Türkiye'deki yerel yönetimlere öncülük ettiklerini ifade etti.
+
+Kuraklık, aşırı sıcaklar ve seller gibi iklim krizinin doğrudan kentleri etkilediğini vurgulayan Ataç, 2013 yılında Belediye Başkanları Sözleşmesi'ne imza attıklarını hatırlattı. Hazırlanan Sürdürülebilir Enerji ve İklim Eylem Planı doğrultusunda hareket ettiklerini belirten Ataç, 2030 yılına kadar sera gazı emisyonlarını yüzde 40 oranında düşürmeyi hedeflediklerini açıkladı.
+
+Mustafa Kemal Atatürk Su Sporları Merkezi ve Melih Savaş Yaşam Köyü gibi tesislerde güneş enerjisinden faydalandıklarını ve su tasarrufu için yağmur suyu hasadı gibi yöntemleri hayata geçirdiklerini aktaran Ataç, ulaşımda ise elektrikli otobüsler, hibrit araçlar ve paylaşımlı bisiklet sistemi ESPEDAL'ın devrede olduğunu bildirdi. Ataç ayrıca İklim Akademi çalışmalarıyla bugüne kadar 117 okulda düzenlenen 182 eğitim sayesinde 16 bin 446 öğrenciye ulaşıldığını kaydetti.
+
+---
+
+## Bakan Göktaş'tan Dijital Güvenlik Çağrısı: 'Teknoloji Şirketleri Sorumluluk Almalı'
+
+**Türkiye · Türkiye** · 2026-11-17 13:09 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-mahinur-ozdemir-goktas-singapur-da-asya-aile-konferansi-nda-konustu/)
+
+![](data/images/6a5b5a5f6f1349e1.jpg)
+
+> Singapur'daki Asya Aile Konferansı'nda konuşan Bakan Mahinur Özdemir Göktaş, çocukların dijital dünyada korunmasında teknoloji şirketlerinin aktif rol üstlenmesi gerektiğini vurguladı.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Singapur’da gerçekleştirilen Asya Aile Konferansı kapsamındaki "Çocukları ve Aileleri Desteklemeye Yönelik Ulusal Yaklaşımlar" oturumunda hitap etti. Konferansın "Güçlenen Aileler, Gelişen Çocuklar" temasıyla toplandığını aktaran Bakan Göktaş, bu yaklaşımın Türkiye'deki sosyal politikalara da temel oluşturduğunu belirtti.
+
+Dijital platformların sınır tanımaksızın çocuklara ulaştığına dikkat çeken Göktaş, çocukların güvenliğini sağlamanın ortak bir sorumluluk olduğunu ifade etti. Türkiye'de 1 Kasım'da yürürlüğe giren sosyal medya düzenlemesine değinen Bakan Göktaş, söz konusu adımla platformların 15 yaşından küçük çocuklara hizmet sunmasının engellendiğini, 15-17 yaş grubuna ise yaşa uygun koruyucu tedbirler getirildiğini hatırlattı. Göktaş, uluslararası alanda teknoloji şirketlerinin sorumluluklarının netleştirilmesi için Asya ülkeleriyle iş birliğine açık olduklarını kaydetti.
+
+Demografik değişimlere de değinen Bakan Göktaş, doğurganlık oranlarının azalması ve yaşlı nüfusun artmasının getirdiği risklere karşı 2026-2035 döneminin "Aile ve Nüfus On Yılı" ilan edildiğini aktardı. Bakanlık bünyesinde geliştirilen Sosyal Risk Haritaları sayesinde hane düzeyinde analizler yürütüldüğünü bildiren Göktaş, Aile Endeksi ve Türkiye Aile Yapısı Araştırması gibi çalışmalarla süreçlerin yakından izlendiğini sözlerine ekledi.
+
+---
+
 ## 23. Film Festivali'nde Onur Ödülleri Feyzi Tuna ve Nilüfer Aydan'a Verilecek
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-17 11:10 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/haftanin-kultur-sanat-ajandasi-43381119)
@@ -397,95 +493,5 @@ Grupta zirve mücadelesi büyük çekişmeye sahne oluyor. Lider Etimesgut Spor'
 Eskişehir'in gruptaki bir diğer temsilcisi Eskişehir Anadolu Spor ise deplasmanda Balıkesirspor ile 1-1 berabere kalarak puanını 22'ye yükseltti ve haftayı 7. sırada tamamladı.
 
 Ligin 13. haftasında Eskişehirspor, 22 Kasım Pazar günü saat 13.00'te deplasmanda Söke 1970 Spor ile karşılaşacak. Aynı gün Eskişehir Anadolu Spor ise sahasında 1922 Akşehir Spor'u konuk edecek.
-
----
-
-## ESTÜ Kamu İletişimi Eğitiminde: 'Hassas Verileri Yapay Zekâya Vermeyin' Uyarısı
-
-**Eğitim · Tepebaşı** · 2026-11-16 19:14 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-iletisimin-yuzyili-guclu-iletisim-etkin-kamu-egitim-programina-katildi)
-
-> Eskişehir Teknik Üniversitesi, Afyonkarahisar'da kamu kurumlarına yönelik düzenlenen "İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu" eğitim programına katıldı.
-
-Cumhurbaşkanlığı İletişim Başkanlığı Afyonkarahisar Bölge Müdürlüğü tarafından düzenlenen "İletişimin Yüzyılı: Güçlü İletişim, Etkin Kamu" eğitim programı gerçekleştirildi. Afyon Kocatepe Üniversitesi Ahmet Necdet Sezer Kampüsü İbrahim Küçükkurt Konferans Salonu'ndaki programa Eskişehir Teknik Üniversitesi'ni (ESTÜ) temsilen Kurumsal İletişim Koordinatörlüğü personeli İhsan Tarık Çelik katıldı.
-
-Kamu kurumlarının basın ve halkla ilişkiler çalışanları ile yerel basın mensuplarını bir araya getiren programın açılışında konuşan Cumhurbaşkanlığı İletişim Başkan Yardımcısı İlhami Giray Şahin, kamu iletişiminin stratejik önem taşıdığını belirtti. Dijitalleşmeyle birlikte bilgi akışının hızlandığına işaret eden Şahin; dezenformasyonla mücadele, kriz iletişimi ve kurumlar arası koordinasyonun gerekliliğine değindi. Yapay zekâ teknolojilerinin veri güvenliği riskleri barındırdığına dikkat çeken Şahin, kurumsal bilgilerin ve hassas verilerin üçüncü taraf yapay zekâ uygulamalarıyla paylaşılmaması gerektiği uyarısında bulundu.
-
-Eğitimler kapsamında Dezenformasyonla Mücadele Merkezi tarafından dezenformasyonla mücadele yöntemleri, Bilgi İşlem Dairesi Başkanlığı tarafından yapay zekâ ile araştırma ve bilgi sentezleme teknikleri aktarıldı. Programda ayrıca halkla ilişkiler, CİMER süreçleri ve basında sosyal medya kullanımı başlıklarında sunumlar yapılarak kurumlar arası bilgi ve deneyim paylaşımı sağlandı.
-
----
-
-## Eskişehirspor'da Hakan Şapcı Tartışılıyor: Gündemde Barış Filiz İsmi Var
-
-**Spor · Tepebaşı** · 2026-11-16 19:14 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.esgazete.com/eskisehirsporda-baris-filiz-sesleri)
-
-> Ayvalıkgücü beraberliği sonrası tribünlerin istifaya çağırdığı teknik direktör Hakan Şapcı'nın ardından siyah-kırmızılı kulüpte Barış Filiz ismi öne çıktı.
-
-Nesine 3. Lig'de şampiyonluk mücadelesi veren Eskişehirspor'da son haftalarda yaşanan puan kayıpları teknik heyeti eleştirilerin hedefine yerleştirdi. Son olarak Ayvalıkgücü Belediyespor karşılaşmasında tribünlerden teknik direktör Hakan Şapcı'ya yönelik yükselen istifa sesleri, camiadaki huzursuzluğu gün yüzüne çıkardı.
-
-Taraftarların sahadaki oyun anlayışı, oyuncu tercihleri ve maç içi hamleler nedeniyle tepki gösterdiği Şapcı'nın durumu belirsizliğini korurken, kulüp yönetiminin teknik direktör alternatifleri üzerinde durduğu iddia edildi. Bu kapsamda gündeme gelen isimlerden biri de Türkiye Futbol Federasyonu bünyesinde antrenör eğitimciliği yapan Barış Filiz oldu.
-
-UEFA Elit A antrenörlük lisansına sahip olan 38 yaşındaki Barış Filiz, antrenörlük kariyerinde Bursaspor'da A takım antrenörlüğü, Fenerbahçe Kadın Futbol Takımı'nda yardımcı antrenörlük, Bodrum FK, Bandırmaspor ve Tuzlaspor altyapılarında çeşitli görevler üstlendi. TFF'de yeni antrenör adaylarına eğitim veren Filiz ile kulüp yönetimi arasında henüz resmî bir temas kurulduğu doğrulanmazken, teknik heyet konusunun önümüzdeki günlerde netleşmesi bekleniyor.
-
----
-
-## COP31'de İklim ve Afet Eğitimi Masaya Yatırıldı: Türkiye İklim Okulu'na Yoğun İlgi
-
-**Eğitim · Türkiye** · 2026-11-16 19:14 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye-iklim-okulunda-quotafet-risklerinin-azaltilmasinda-egitimin-roluquot-masaya-yatirildi/haber/42545/tr)
-
-![](data/images/d0cb8800788f8194.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında Millî Eğitim Bakanlığının kurduğu Türkiye İklim Okulunda afet risklerinin azaltılmasında eğitimin rolü uluslararası uzmanlarla ele alındı.
-
-Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde Millî Eğitim Bakanlığı tarafından oluşturulan Türkiye İklim Okulu, uzmanların katıldığı kapsamlı panellere ve atölyelere ev sahipliği yaptı.
-
-İçişleri Bakanlığı AFAD Eğitim ve Farkındalık Dairesi Başkanı, Japonya Uluslararası İş Birliği Ajansı (JICA) Türkiye Ofisi temsilcileri ve akademisyenlerin yer aldığı panelde, iklim krizine bağlı aşırı hava olayları, sel ve heyelan gibi afetlerin oluşturduğu tehditler ele alındı. Türkiye, Japonya ve Çin örnekleri üzerinden afet risklerine karşı dayanıklılığın artırılmasında okul müfredatları ile öğretmen kapasitesinin kritik rol oynadığı vurgulandı.
-
-Program kapsamında ayrıca yeşil becerilerin hayat boyu öğrenme süreçlerine dahil edilmesi ve gençlerin mücadeledeki rolü üzerine oturumlar düzenlendi. Okul alanındaki çölleşmeyi önleme simülatörleri, yenilenebilir enerji tasarımları ve muz lifi dokuma atölyesi yabancı katılımcılardan yoğun ilgi gördü.
-
----
-
-## Eskişehirspor'da Atalay Yıldırım Şoku: Köprücük Kemiği Kırıldı, Ameliyat Edildi
-
-**Spor · Merkez** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspora-kotu-haber-kemigi-kirildi-ameliyat-oldu-2465371)
-
-![](data/images/313f68b6b62e80c2.jpg)
-
-> Ayvalıkgücü maçında sakatlanan Eskişehirsporlu futbolcu Atalay Yıldırım'ın sol köprücük kemiğinde kırık tespit edilerek ameliyata alındığı bildirildi.
-
-Nesine 3. Lig 2. Grup'un 12. haftasında Prof. Dr. Fethi Heper Stadyumu'nda oynanan ve 2-2 eşitlikle tamamlanan Ayvalıkgücü Belediyespor karşılaşmasında sakatlanan genç futbolcu Atalay Yıldırım'dan kötü haber geldi.
-
-Siyah-kırmızılı kulübün sosyal medya hesabından yayımlanan sağlık bilgilendirmesine göre, maç sırasında girdiği ikili mücadelede sakatlanan futbolcunun yapılan ayrıntılı kontrollerinde sol köprücük kemiğinde kırık belirlendi.
-
-Tetkiklerin ardından vakit kaybedilmeden ameliyata alınan Atalay Yıldırım'ın operasyonunun başarılı geçtiği belirtildi. Eskişehirspor Kulübü, operasyon sonrası oyuncuya geçmiş olsun dileklerini iletti.
-
----
-
-## CHP'li Yıldırım Kaya: 'Halil İbrahim Sofrasını Yeniden Kurmak Zorundayız'
-
-**Siyaset · Türkiye** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - CHP](https://yerel-haberler.haberturk.com/hatay-haberleri/chp-genel-baskan-yardimcisi-yildirim-kaya-hatayda-konustu-119523905)
-
-> CHP Genel Başkan Yardımcısı Yıldırım Kaya, Hatay'da erken seçime hazır olduklarını belirterek iktidara hazırlığın tüm muhalefetin ortak görevi olduğunu söyledi.
-
-Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Yıldırım Kaya, partisinin Hatay'da bir otelde düzenlediği "Yönetici Eğitimleri" programında partililere hitap etti.
-
-Hatay'ın 15 ilçesinin üretim ve kalkınma potansiyeline sahip olduğunu ifade eden Kaya, 6 Şubat 2023 depremlerinden etkilenen bölgede üretici ve esnafın zorluklar yaşadığını belirtti. CHP'nin tek rakibinin mevcut siyasal iktidar olduğunu kaydeden Kaya, muhalefet partileriyle herhangi bir tartışma gündemlerinin bulunmadığını söyledi.
-
-Erken seçim istediklerini ve buna hazır olduklarını dile getiren Kaya, partiden ayrılanlara kapılarının açık olduğunu vurguladı. Tek başına iktidar iddiasının gerçekçi olmadığını savunan Kaya, "Halil İbrahim sofrasını yeniden kurmak zorundayız. Sofraya oturan her yurttaşımız eşit kaşıkla o sofrada yemeğini yiyecek. İktidara hazırlık, muhalefetin bütün olarak görevidir" ifadelerini kullandı.
-
-İlçe yöneticileri ve parti üyelerinin yer aldığı eğitim programına CHP Hatay İl Başkanı Derya Altunay da katılarak konuşma yaptı.
-
----
-
-## 2027'de 46 Yeni Hastane Açılacak: 5'i Şehir Hastanesi Olacak
-
-**Sağlık · Türkiye** · 2026-11-16 13:39 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://haberton.com/saglik-bakanligi-acikladi-2027de-46-yeni-hastane-acilacak-5i-sehir-hastanesi/)
-
-> Sağlık Bakanı Kemal Memişoğlu, 2027 yılında 5'i şehir hastanesi olmak üzere toplam 46 yeni hastanenin hizmete girmesinin planlandığını duyurdu.
-
-Sağlık Bakanı Kemal Memişoğlu, TBMM Plan ve Bütçe Komisyonunda bakanlığın 2027 yılı bütçe teklifine ilişkin yaptığı sunumda Türkiye genelindeki sağlık yatırımlarına dair ayrıntıları paylaştı. Bakan Memişoğlu, 2027 yılı içinde 5'i şehir hastanesi niteliğinde toplam 46 hastanenin faaliyete geçirilmesinin hedeflendiğini bildirdi.
-
-Son 10 yıllık süreçte 42 bini aşkın yatak kapasiteli 28 şehir hastanesinin açıldığını hatırlatan Memişoğlu, 11 şehir hastanesinin açılışı için de hazırlıkların devam ettiğini aktardı. İnşaatı tamamlanma aşamasına gelen Trabzon Şehir Hastanesinde ise kasım ayı sonunda hasta kabulüne başlanmasının öngörüldüğü ifade edildi. Son bir yılda ise Samsun, Aydın, Şanlıurfa ve Ordu'dakiler dahil toplam 9 bin 540 yatak kapasitesine sahip 34 hastane hizmete alındı.
-
-Kamudaki toplam yatak kapasitesinin 178 bin 66'ya, erişkin ve çocuk dahil yoğun bakım yatak sayısının da 26 bin 228'e ulaştığını belirten Memişoğlu, 81 ilde 486'sı inşaat halinde olan toplam 1.217 birinci basamak sağlık tesisinin yatırım sürecinin sürdüğünü kaydetti. Deprem bölgesindeki yatak kapasitesinin afet öncesine kıyasla yüzde 26 artırılarak 30 binin üzerine çıkarıldığı, bölgede 4 bin 381 yatak kapasiteli 24 sağlık tesisinin inşasının sürdüğü açıklandı.
 
 ---
