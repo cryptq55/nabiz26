@@ -90,34 +90,197 @@
    "takip": 0,
    "paylasim": 315,
    "erisim_7g": 22701
+  },
+  {
+   "gun": "2026-11-17",
+   "takipci": 231,
+   "takip": 0,
+   "paylasim": 327,
+   "erisim_7g": 27132
   }
  ],
  "paylasimlar": {
+  "18031417475880296": {
+   "tur": "REELS",
+   "zaman": "2026-11-17T00:45:02+0000",
+   "link": "https://www.instagram.com/reel/Df0rB10zTu4/",
+   "baslik": "☀️ Günaydın Eskişehir · 17 Kasım Salı",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 100,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 111
+  },
+  "18132065248699926": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T21:12:34+0000",
+   "link": "https://www.instagram.com/reel/Df0SvVqz4BO/",
+   "baslik": "Anadolu Üniversitesi'nden Üç Yeni Eser: Arkeolojiden Dans Tarihine Açık Erişimde",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 111,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 118
+  },
+  "18239486167321491": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T21:11:37+0000",
+   "link": "https://www.instagram.com/reel/Df0SoTRJIFj/",
+   "baslik": "Otogarda Sıkı Denetim: Sefer Saatleri ve Belgeler İncelendi",
+   "begeni": 0,
+   "yorum": 1,
+   "reach": 420,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 483
+  },
+  "18092304374701739": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T19:47:55+0000",
+   "link": "https://www.instagram.com/reel/Df0JDM7iBE-/",
+   "baslik": "Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 110,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "views": 124
+  },
+  "18111434336268504": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T19:46:54+0000",
+   "link": "https://www.instagram.com/reel/Df0I6JNyfWV/",
+   "baslik": "3. Lig 2. Grup'ta 12. Hafta Geride Kaldı: Eskişehirspor Zirve Takibini Sürdürüyor",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 120,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 129
+  },
+  "18182641594433165": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T13:42:33+0000",
+   "link": "https://www.instagram.com/reel/DfzfPPChQxj/",
+   "baslik": "Eskişehirspor'da Atalay Yıldırım Şoku: Köprücük Kemiği Kırıldı, Ameliyat Edildi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 131,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 150
+  },
+  "17931436851179808": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T13:15:37+0000",
+   "link": "https://www.instagram.com/reel/DfzcHecvLD4/",
+   "baslik": "🌙 Eskişehir'de bugün · 16 Kasım Pazartesi",
+   "begeni": 23,
+   "yorum": 0,
+   "reach": 1444,
+   "saved": 0,
+   "shares": 3,
+   "total_interactions": 27,
+   "views": 1632
+  },
+  "18003701040042845": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T13:10:39+0000",
+   "link": "https://www.instagram.com/reel/DfzbltmI0q9/",
+   "baslik": "Odunpazarı'nda İkinci Taksit İçin Süre Daralıyor: Vergi Ödemelerinde Son Gün 30 Kasım",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 124,
+   "saved": 0,
+   "shares": 2,
+   "total_interactions": 3,
+   "views": 145
+  },
+  "18131352583838045": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T13:08:59+0000",
+   "link": "https://www.instagram.com/reel/DfzbZ1vhpWV/",
+   "baslik": "Tepebaşı'nda Ücretsiz Diyetisyen Hizmeti Başladı: Randevular Salı Günleri",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 111,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 119
+  },
+  "18111666392459929": {
+   "tur": "FEED",
+   "zaman": "2026-11-16T11:09:38+0000",
+   "link": "https://www.instagram.com/p/DfzNxaBHDA0/",
+   "baslik": "Karayolları İHA ve SİHA Pisti Oluyor: 52 Güzergah Belirlendi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 21,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 28
+  },
+  "18647221321049382": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T11:09:17+0000",
+   "link": "https://www.instagram.com/reel/DfzNspiqzRd/",
+   "baslik": "Altın fiyatları 16 Kasım 2026: Gram altın 6.298,08 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 127,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 139
+  },
+  "18134276872827101": {
+   "tur": "REELS",
+   "zaman": "2026-11-16T11:07:46+0000",
+   "link": "https://www.instagram.com/reel/DfzNhxKh0Vc/",
+   "baslik": "Kerem Baykuş Eskişehirspor'u Sırtlıyor: 11 Maçta 10 Skora Katkı",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 297,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 2,
+   "views": 333
+  },
   "18003796598812426": {
    "tur": "REELS",
    "zaman": "2026-11-15T21:36:47+0000",
    "link": "https://www.instagram.com/reel/DfxwtCKgQSA/",
    "baslik": "🌙 Eskişehir'de bugün · 16 Kasım Pazartesi",
-   "begeni": 1,
+   "begeni": 13,
    "yorum": 0,
-   "reach": 107,
-   "saved": 0,
+   "reach": 1307,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 1,
-   "views": 170
+   "total_interactions": 14,
+   "views": 1478
   },
   "17925283557221901": {
    "tur": "REELS",
    "zaman": "2026-11-15T20:54:23+0000",
    "link": "https://www.instagram.com/reel/Dfxr3fNx8tI/",
    "baslik": "🌙 Eskişehir'de bugün · 15 Kasım Pazar",
-   "begeni": 0,
+   "begeni": 4,
    "yorum": 0,
-   "reach": 273,
-   "saved": 0,
+   "reach": 1134,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 0,
-   "views": 363
+   "total_interactions": 5,
+   "views": 1271
   },
   "17928167028203343": {
    "tur": "REELS",
@@ -126,11 +289,11 @@
    "baslik": "14. Uluslararası Eskişehir Şiir Buluşması Sona Erdi: 13 Şair Katıldı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 179,
+   "reach": 361,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 193
+   "views": 392
   },
   "18139791265728689": {
    "tur": "REELS",
@@ -139,11 +302,11 @@
    "baslik": "Eski Giysiler Japon Sanatıyla Yenileniyor: Tepebaşı'nda Sashiko Atölyesi Başladı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 108,
+   "reach": 122,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 116
+   "views": 134
   },
   "17916292740480727": {
    "tur": "REELS",
@@ -152,11 +315,11 @@
    "baslik": "Senfoni Orkestrası'ndan 'Ateşin Dansı': Oxana Shevchenko Sahne Aldı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 109,
+   "reach": 120,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 122
+   "views": 134
   },
   "17896186263438620": {
    "tur": "REELS",
@@ -165,11 +328,11 @@
    "baslik": "Eskişehirspor 2-0'dan Döndü: Ayvalıkgücü Randevusunda Nefes Kesen Beraberlik",
    "begeni": 0,
    "yorum": 0,
-   "reach": 113,
+   "reach": 124,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 117
+   "views": 133
   },
   "17885349417652154": {
    "tur": "REELS",
@@ -178,11 +341,11 @@
    "baslik": "📅 Eskişehir'de bu hafta · 15 Kasım Pazar",
    "begeni": 0,
    "yorum": 0,
-   "reach": 122,
+   "reach": 129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 139
+   "views": 144
   },
   "18112804895267284": {
    "tur": "FEED",
@@ -191,11 +354,11 @@
    "baslik": "Togg'dan Kasım Kampanyası: 1,5 Milyon Liraya Kadar Sıfır Faiz Fırsatı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 18,
+   "reach": 27,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 46
+   "views": 58
   },
   "17966626797215997": {
    "tur": "REELS",
@@ -204,11 +367,11 @@
    "baslik": "Eskişehirspor Ayvalıkgücü Karşısında: Maç Şifresiz Yayınlanacak",
    "begeni": 2,
    "yorum": 0,
-   "reach": 181,
+   "reach": 191,
    "saved": 1,
    "shares": 0,
    "total_interactions": 3,
-   "views": 210
+   "views": 221
   },
   "17900367909610415": {
    "tur": "FEED",
@@ -217,11 +380,11 @@
    "baslik": "Evde Bakım Yardımı Hesaplara Yatıyor: Bu Ay Toplam 7,8 Milyar Lira Ödenecek",
    "begeni": 0,
    "yorum": 0,
-   "reach": 17,
+   "reach": 24,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 28
+   "views": 34
   },
   "18154573087544105": {
    "tur": "FEED",
@@ -230,11 +393,11 @@
    "baslik": "MEB'den 17 Milyon Öğrenciye Ara Tatil Rehberi ve Etkinlik Kitapları",
    "begeni": 0,
    "yorum": 0,
-   "reach": 6,
+   "reach": 9,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 7
+   "views": 13
   },
   "18084422348347442": {
    "tur": "REELS",
@@ -243,11 +406,11 @@
    "baslik": "Lider Eskişehirspor'da Gözler Ayvalıkgücü Randevusunda: Hazırlıklar Sürüyor",
    "begeni": 1,
    "yorum": 0,
-   "reach": 116,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 132
+   "views": 139
   },
   "17993311868863754": {
    "tur": "REELS",
@@ -256,11 +419,11 @@
    "baslik": "Altın fiyatları 15 Kasım 2026: Gram altın 6.373,53 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 115,
+   "reach": 120,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 120
+   "views": 126
   },
   "18130638899477817": {
    "tur": "REELS",
@@ -269,24 +432,24 @@
    "baslik": "🌙 Eskişehir'de bugün · 15 Kasım Pazar",
    "begeni": 12,
    "yorum": 0,
-   "reach": 1442,
+   "reach": 1450,
    "saved": 1,
    "shares": 1,
    "total_interactions": 14,
-   "views": 1670
+   "views": 1677
   },
   "17922896496244849": {
    "tur": "REELS",
    "zaman": "2026-11-14T17:08:11+0000",
    "link": "https://www.instagram.com/reel/DfutMHKBHMP/",
    "baslik": "Eskişehir'de Kış Trafiği İçin Önlemler Masada: Kurumlara Koordinasyon Uyarısı",
-   "begeni": 1,
+   "begeni": 2,
    "yorum": 0,
-   "reach": 1474,
+   "reach": 1478,
    "saved": 0,
    "shares": 0,
-   "total_interactions": 1,
-   "views": 1625
+   "total_interactions": 2,
+   "views": 1633
   },
   "18028388990925035": {
    "tur": "REELS",
@@ -295,11 +458,11 @@
    "baslik": "Kurtuluş Mahallesi'nde Kötü Kokular Üzerine Girilen Evde Acı Bulgu",
    "begeni": 5,
    "yorum": 0,
-   "reach": 1603,
+   "reach": 1612,
    "saved": 1,
    "shares": 2,
    "total_interactions": 8,
-   "views": 1868
+   "views": 1882
   },
   "18115552316150372": {
    "tur": "REELS",
@@ -308,11 +471,11 @@
    "baslik": "14. Şiir Buluşması Başladı: İlhan Sami Çomak ve Yabancı Şairler Tepebaşı'nda",
    "begeni": 0,
    "yorum": 0,
-   "reach": 113,
+   "reach": 115,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 122
+   "views": 124
   },
   "18391990054226362": {
    "tur": "REELS",
@@ -321,11 +484,11 @@
    "baslik": "Eskişehirspor'da Kaptan Beykan Şimşek Şoku: Ayvalıkgücü Maçında Yok",
    "begeni": 2,
    "yorum": 0,
-   "reach": 178,
+   "reach": 182,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 200
+   "views": 205
   },
   "17999427699018891": {
    "tur": "REELS",
