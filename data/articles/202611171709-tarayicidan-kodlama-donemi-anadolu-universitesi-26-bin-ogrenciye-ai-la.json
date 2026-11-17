@@ -1,0 +1,30 @@
+{
+  "slug": "202611171709-tarayicidan-kodlama-donemi-anadolu-universitesi-26-bin-ogrenciye-ai-la",
+  "title": "Tarayıcıdan Kodlama Dönemi: Anadolu Üniversitesi 26 Bin Öğrenciye AI Lab'ı Açtı",
+  "spot": "Anadolu Üniversitesi'nin geliştirdiği AI Lab platformu, Açıköğretim'de kodlama eğitimi alan 26 bin öğrencinin kullanımına sunuldu. Sistem, ek yazılım yüklemeden tarayıcı üzerinden kod yazma ve yapay zekâdan anında geri bildirim alma imkânı veriyor.",
+  "body": "Anadolu Üniversitesi Yapay Zekâ Uygulama ve Araştırma Merkezi tarafından hayata geçirilen \"AI Lab\" platformu, Açıköğretim Fakültesi bünyesindeki Yapay Zekâ Destekli Kodlama Ön Lisans Programı'nda öğrenim gören yaklaşık 26 bin öğrencinin erişimine açıldı. Öğrencilerin herhangi bir harici yazılım yüklemesine gerek kalmadan doğrudan internet tarayıcısı üzerinden kod yazabildiği sistem, ilk olarak “Python ile Programlama” dersinin uygulamalı oturumunda kullanıldı.\n\n\"Uygula. Üret.\" yaklaşımıyla ailab.anadolu.edu.tr adresinde hizmete giren platformda ders uygulamaları, basılı ve dijital kitapların ünitelerine paralel olarak yapılandırıldı. Öğrenciler konu anlatımlarını incelerken aynı ekran üzerinde örnek kodları çalıştırabiliyor ve hazırlanan alıştırmaları çözebiliyor. Üniversitenin kendi sunucu altyapısında barındırılan sistem, on binlerce öğrencinin eş zamanlı kod çalıştırmasını destekliyor.\n\nPlatformda tamamlanan kodlama alıştırmaları otomatik değerlendirilirken, hata yapılan noktalarda öğrencilere yapay zekâ desteğiyle yönlendirici ipuçları sunuluyor. Öğrenciler ayrıca pekiştirmek istedikleri konular için yapay zekâdan yeni pratik soruları üretmesini talep edebiliyor.\n\nAçıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt, uzaktan eğitimde uygulamalı öğrenme olanaklarını güçlendirmeyi amaçladıklarını belirterek, Türkiye'nin dört bir yanındaki öğrencilerin mekândan bağımsız şekilde aynı laboratuvar altyapısına ulaşabilmesinin önemine dikkat çekti. Yapay Zekâ Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Özer Çelik ise kodlamanın yazarak öğrenileceğini vurgulayarak, öğrencilerin takıldıkları aşamalarda yapay zekâ ipuçlarıyla desteklendiğini ve platformun diğer Açıköğretim programlarına da kademeli olarak yaygınlaştırılacağını ifade etti.",
+  "category": "Eğitim",
+  "district": "Tepebaşı",
+  "tags": [
+    "Anadolu Üniversitesi",
+    "Açıköğretim Fakültesi",
+    "AI Lab",
+    "kodlama",
+    "yapay zekâ",
+    "Eskişehir"
+  ],
+  "importance": 3,
+  "reel": false,
+  "published_at": "2026-11-17T17:09:37.647431+00:00",
+  "status": "published",
+  "source": {
+    "name": "Anadolu Üniversitesi",
+    "title": "Anadolu Üniversitesi AI Lab ile 26 bin öğrenciye uygulamalı kodlama imkânı sunuyor",
+    "url": "https://anahaber.anadolu.edu.tr/tr/haber-detay/ebzttkhrqsmdel8mzn5mqyx1"
+  },
+  "image": {
+    "file": "images/b41ad2c6a9f1e4f1.jpg",
+    "source_url": "https://anahaber.anadolu.edu.tr/uploads/Whats_App_Image_2026_11_14_at_17_41_56_2d70e1b6df.jpeg",
+    "credit": "Anadolu Üniversitesi"
+  }
+}

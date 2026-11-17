@@ -2,6 +2,70 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Eskişehirspor İç Sahada Yenilgisizliğini Koruyor: 6 Maçta 12 Puan
+
+**Spor · Merkez** · 2026-11-17 17:10 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/eskisehirspor-ic-sahada-6-puan-birakti)
+
+> Bu sezon taraftarı önünde henüz mağlubiyet yaşamayan Eskişehirspor, iç sahada çıktığı 6 lig karşılaşmasında 3 galibiyet ve 3 beraberlikle 12 puan topladı.
+
+Nesine 3. Lig'de zirve mücadelesini sürdüren Eskişehirspor, bu sezon iç saha maçlarında yenilgisiz serisini devam ettiriyor. Kendi sahasında taraftar desteğini arkasına alan siyah-kırmızılı ekip, oynadığı 6 müsabakada mağlubiyet yüzü görmedi.
+
+Sahasındaki ilk puan kaybını ligin 6. haftasında Etimesgut ile 1-1 berabere kalarak yaşayan Eskişehir temsilcisi, 8. haftada Bursa Yıldırımspor ve son olarak 12. haftada Ayvalıkgücü Belediyespor ile 2-2 berabere kaldı. Kırmızı Şimşekler, evindeki bu üç beraberlikle toplam 6 puan yitirdi.
+
+Buna karşın taraftarı önünde farklı skorlu galibiyetler de elde eden siyah-kırmızılılar; Alanya 1221’i 4-0, Balıkesirspor’u 7-1 ve Kepezspor’u 1-0 mağlup etmeyi başardı. Eskişehirspor, iç sahada çıktığı 6 karşılaşmadan çıkardığı 3 galibiyet ve 3 beraberlikle hanesine 12 puan yazdırdı.
+
+---
+
+## Zorbalığa Karşı Güvenli Tatami: Eskişehir ve Bükreşli Çocuklar Judoda Buluşacak
+
+**Spor · Merkez** · 2026-11-17 17:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-turkiye-ve-romanya-judo-federasyonu-baskanlari-ile-beraberlerindeki-heyeti-kabul-etti)
+
+![](data/images/fd54f1aa3b8ed303.jpg)
+
+> Eskişehir ve Bükreş'te 7-14 yaş aralığındaki 100 çocuğu sporla buluşturacak AB destekli 'Safe Tatami' projesi için Türkiye ve Romanya heyetleri Eskişehir'de bir araya geldi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, Avrupa Birliği Erasmus+ Sport Programı tarafından desteklenen “IPPON-VS-BULLYING: Safe Tatami” projesi dolayısıyla şehre gelen Türkiye Judo Federasyonu Başkanı Sezer Huysuz, Romanya Judo Federasyonu Başkanı Florin Bercean ve beraberindeki heyeti kabul etti. Ziyarette Gençlik ve Spor İl Müdürü Hasan Kalın da hazır bulundu.
+
+Ziyaret sırasında heyet, hayata geçirilen uluslararası proje hakkında Vali Yılmaz'a bilgi sundu. Çalışmayla akran zorbalığının önüne geçilmesi; çocuklar arasında saygı, empati ve dayanışma duygularının pekiştirilmesi amaçlanıyor. Proje kapsamında Eskişehir ve Bükreş'te 7-14 yaş grubundaki toplam 100 çocuğun judo branşı aracılığıyla güvenli ve kapsayıcı spor ortamlarında buluşturulması hedefleniyor.
+
+Vali Dr. Erdinç Yılmaz, çocukların sosyal ve kişisel gelişimlerine değer katan projenin taşıdığı öneme işaret ederek organizasyonda emeği geçen tüm kurumlara teşekkürlerini iletti.
+
+---
+
+## Tarayıcıdan Kodlama Dönemi: Anadolu Üniversitesi 26 Bin Öğrenciye AI Lab'ı Açtı
+
+**Eğitim · Tepebaşı** · 2026-11-17 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ebzttkhrqsmdel8mzn5mqyx1)
+
+![](data/images/b41ad2c6a9f1e4f1.jpg)
+
+> Anadolu Üniversitesi'nin geliştirdiği AI Lab platformu, Açıköğretim'de kodlama eğitimi alan 26 bin öğrencinin kullanımına sunuldu. Sistem, ek yazılım yüklemeden tarayıcı üzerinden kod yazma ve yapay zekâdan anında geri bildirim alma imkânı veriyor.
+
+Anadolu Üniversitesi Yapay Zekâ Uygulama ve Araştırma Merkezi tarafından hayata geçirilen "AI Lab" platformu, Açıköğretim Fakültesi bünyesindeki Yapay Zekâ Destekli Kodlama Ön Lisans Programı'nda öğrenim gören yaklaşık 26 bin öğrencinin erişimine açıldı. Öğrencilerin herhangi bir harici yazılım yüklemesine gerek kalmadan doğrudan internet tarayıcısı üzerinden kod yazabildiği sistem, ilk olarak “Python ile Programlama” dersinin uygulamalı oturumunda kullanıldı.
+
+"Uygula. Üret." yaklaşımıyla ailab.anadolu.edu.tr adresinde hizmete giren platformda ders uygulamaları, basılı ve dijital kitapların ünitelerine paralel olarak yapılandırıldı. Öğrenciler konu anlatımlarını incelerken aynı ekran üzerinde örnek kodları çalıştırabiliyor ve hazırlanan alıştırmaları çözebiliyor. Üniversitenin kendi sunucu altyapısında barındırılan sistem, on binlerce öğrencinin eş zamanlı kod çalıştırmasını destekliyor.
+
+Platformda tamamlanan kodlama alıştırmaları otomatik değerlendirilirken, hata yapılan noktalarda öğrencilere yapay zekâ desteğiyle yönlendirici ipuçları sunuluyor. Öğrenciler ayrıca pekiştirmek istedikleri konular için yapay zekâdan yeni pratik soruları üretmesini talep edebiliyor.
+
+Açıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt, uzaktan eğitimde uygulamalı öğrenme olanaklarını güçlendirmeyi amaçladıklarını belirterek, Türkiye'nin dört bir yanındaki öğrencilerin mekândan bağımsız şekilde aynı laboratuvar altyapısına ulaşabilmesinin önemine dikkat çekti. Yapay Zekâ Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Özer Çelik ise kodlamanın yazarak öğrenileceğini vurgulayarak, öğrencilerin takıldıkları aşamalarda yapay zekâ ipuçlarıyla desteklendiğini ve platformun diğer Açıköğretim programlarına da kademeli olarak yaygınlaştırılacağını ifade etti.
+
+---
+
+## Başkan Ünlüce Batıkent ve Çamlıca'da: Muhtarlar ve Mahalleliyle Talepleri Görüştü
+
+**Belediye · Tepebaşı** · 2026-11-17 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13567&cat_icerik=1&menu_id=24)
+
+![](data/images/fb7361ed969dfa48.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, saha çalışmaları kapsamında Batıkent ve Çamlıca mahalle muhtarlıklarını ziyaret ederek bölgedeki ihtiyaçları dinledi.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kentin farklı noktalarındaki temasları kapsamında Batıkent ve Çamlıca mahallelerine ziyarette bulundu. Muhtarlık binalarında gerçekleşen buluşmalarda mahalle sakinleriyle bir araya gelen Ünlüce, bölgenin ihtiyaç ve taleplerini yerinde inceledi.
+
+Ziyaret programı çerçevesinde ilk olarak Batıkent Mahalle Muhtarı Derya Can ile görüşen Başkan Ünlüce, ardından Çamlıca Mahalle Muhtarı Savaş Hancı ile bir araya geldi. Görüşmelerde mahallelerde sürdürülen ve hayata geçirilmesi planlanan belediye çalışmaları ele alındı.
+
+Mahalle sakinleriyle de sohbet ederek beklentilerini dinleyen Başkan Ünlüce, kentin her noktasına eşit ve nitelikli hizmet ulaştırma hedefi doğrultusunda mahalle ziyaretlerine devam edeceklerini ifade etti.
+
+---
+
 ## Vali Yılmaz Öğretmenevinde İncelemelerde Bulundu: Güçlendirme Sürüyor
 
 **Eğitim · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-depreme-karsi-guclendirme-calismalari-devam-eden-eskisehir-ogretmenevini-ziyaret-etti)
@@ -423,69 +487,5 @@ Konuşmasında muhalefet ile aralarında gençliğe bakış konusunda temel bir 
 Türkiye'nin ev sahipliğinde gerçekleşen uluslararası organizasyonlara da değinen Cumhurbaşkanı Erdoğan, Antalya'da düzenlenen COP31 Zirvesi'nde 96 dünya liderinin ağırlandığını hatırlattı. Erdoğan, Türk Devletleri Teşkilatı Zirvesi ve NATO toplantılarının ardından Türkiye'nin bölgesel ve küresel ölçekteki etkinliğinin arttığını, dünyada artık Türkiye'nin hamlelerinin konuşulduğunu ifade etti.
 
 Gençlere özgüven çağrısında bulunan Erdoğan, karşılaşılan ekonomik ve sosyal engellerin hiçbirinin umutsuzluğa yol açacak büyüklükte olmadığını dile getirdi. Geçmişte yaşanan kutuplaşmaların ve 28 Şubat sürecindeki hak gasplarının geride bırakıldığını belirten Erdoğan, gençlerin Türkiye Yüzyılı vizyonunun ana taşıyıcısı olacağını sözlerine ekledi.
-
----
-
-## Ayşe Ünlüce Derince'de Kent Lokantası Açılışına Katıldı
-
-**Belediye · Merkez** · 2026-11-17 05:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13561&cat_icerik=1&menu_id=24)
-
-![](data/images/cdf0c1527c52a335.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Kocaeli'nin Derince ilçesinde Kent Lokantası açılışına katılarak tarımsal üretim tesislerinde incelemelerde bulundu.
-
-Türkiye Belediyeler Birliği Başkan Vekili ve Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Derince Belediye Başkanı Sertif Gökçe’nin ev sahipliğinde düzenlenen açılış programı kapsamında Kocaeli’yi ziyaret etti. Programda ilçe sakinlerine uygun fiyatlı ve sağlıklı yemek sunulması hedeflenen Kent Lokantası ile Senin Kafen Çenesuyu sosyal tesisinin açılışı yapıldı.
-
-Ziyaret kapsamında İshakçılar bölgesinde yer alan DERTAŞ Tarım Ürünleri tesislerini de gezen Ünlüce, süt ve süt ürünleri üretim süreçlerini yerinde takip etti. Tesis yetkililerinden kapasite ve yeni dönem projelerine ilişkin bilgi alan Ünlüce, yerel tarım ve üretimin güçlendirilmesi gerektiğine dikkat çekti.
-
-Sosyal dayanışmayı artıran ve yerel üreticiye katkı sağlayan uygulamaların önemine değinen Ünlüce, Derince'de hayata geçirilen projeler dolayısıyla emeği geçenleri tebrik etti. Açılış törenine katılan ilçe sakinleri de Ünlüce ile hatıra fotoğrafı çektirdi.
-
----
-
-## Anadolu Üniversitesi'nden AB Destekli Proje: Yeşil İnsan Kaynakları Başlatıldı
-
-**Eğitim · Tepebaşı** · 2026-11-17 05:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/p3dul1fx5oho8xwq6g42vykc)
-
-![](data/images/26f49f3316f3ff0a.jpg)
-
-> Anadolu Üniversitesi, Avrupa Birliği Jean Monnet Faaliyetleri kapsamında desteklenen ve 36 ay sürecek olan ECO-HRM projesini tanıttı.
-
-Anadolu Üniversitesi yürütücülüğünde hayata geçirilen "Ekolojik Dönüşüm İçin Yeşil İnsan Kaynakları Yönetimi" (ECO-HRM) projesinin açılış toplantısı, İktisadi ve İdari Bilimler Fakültesi Yüzüncü Yıl Toplantı Salonu'nda yapıldı. Proje; üniversite, mesleki eğitim kurumları ve sanayi kesimini yeşil dönüşümün insan kaynağı boyutunda bir araya getirmeyi amaçlıyor.
-
-Toplantının açılışında konuşan Proje Yürütücüsü Doç. Dr. Seda Tekeli, ekolojik dönüşümün yalnızca çevresel politikalar ve teknolojik adımlardan ibaret olmadığını belirterek, istihdam yapısı ve nitelikli insan kaynağının sürecin temel taşlarından biri olduğunu vurguladı. Tekeli, yeşil insan kaynakları yaklaşımının işe alımdan eğitime ve performans yönetimine kadar geniş bir alanı kapsadığını, meslek lisesi öğrencilerinin de projenin öncelikli hedef grupları arasında yer aldığını kaydetti.
-
-Üç yıl boyunca devam edecek proje çerçevesinde, farklı disiplinlerden üniversite öğrencilerinin seçebileceği "Yeşil İnsan Kaynakları Yönetimi" dersi açılacak. İl Millî Eğitim Müdürlüğü ve Eskişehir Sanayi Odası iş birliğiyle yürütülecek çalışmada; eğitimler, araştırmalar ve çalıştaylarla ekolojik dönüşümün çalışma hayatına etkilerine yönelik farkındalık artırılacak.
-
----
-
-## Otogarda Sıkı Denetim: Sefer Saatleri ve Belgeler İncelendi
-
-**Belediye · Tepebaşı** · 2026-11-16 21:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13563&cat_icerik=1&menu_id=24)
-
-![](data/images/c12f3d405b266a4a.jpg)
-
-> Eskişehir Şehirlerarası Otobüs Terminali'nde denetime çıkan zabıta ekipleri, otobüs firmalarının yetki belgelerini, sefer saatlerini ve terminal düzenini kontrol etti.
-
-Eskişehir Büyükşehir Belediyesi Zabıta Dairesi Başkanlığı ekipleri, kamu düzenini korumak ve yolcuların güvenli hizmet almasını temin etmek amacıyla Eskişehir Şehirlerarası Otobüs Terminali’nde geniş kapsamlı denetim gerçekleştirdi.
-
-Çalışmalar kapsamında otogarda faaliyet gösteren esnaf ve otobüs işletmeleri incelendi. Ekipler, firmaların bulundurması zorunlu yetki belgelerini kontrol ederek mevzuata uygunluğu denetledi. Şehirlerarası otobüslerin ilan edilen kalkış saatlerine uyup uymadığını da yerinde takip eden zabıta, otogar dışındaki noktalarda yolcu indirme ve bindirme yapılmaması hususunda sürücüler ile firma yetkililerine uyarılarda bulundu.
-
-Terminal binası içindeki işletmeleri de denetleyen ekipler, ortak kullanım alanlarının işgal edilmemesi ve yolcuların yaya geçiş yollarının kapatılmaması gerektiğini hatırlattı. Belediye yetkilileri, hem yolcu güvenliğinin sağlanması hem de kent içi düzenin korunması hedefiyle denetimlerin aralıksız sürdürüleceğini bildirdi.
-
----
-
-## Eskişehir Film Festivali'nde Bilet Fiyatları Belli Oldu: Öğrenci 50, Tam 150 TL
-
-**Kültür-Sanat · Merkez** · 2026-11-16 21:09 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.eskisehir.net/eskisehir-film-festivali-bilet-fiyatlari-50-tlden-satisa-cikaril)
-
-> 23. Uluslararası Eskişehir Film Festivali için biletler satışa çıktı. Festivalde öğrenci biletleri 50 TL, tam biletler ise 150 TL olarak belirlendi.
-
-Eskişehir'de sinemaseverlerin heyecanla beklediği 23. Uluslararası Eskişehir Film Festivali'nin bilet tarifesi ve satış detayları açıklandı. Festival kapsamında gösterilecek yapımları izlemek isteyen öğrenciler için bilet fiyatı 50 TL, tam bilet ücreti ise 150 TL olarak duyuruldu.
-
-Festival yönetiminin paylaştığı bilgilere göre Cinemapink salonlarında gerçekleştirilecek gösterimlerin biletleri 16 Kasım itibarıyla satışa sunuldu. İzleyiciler bu salondaki filmlerin biletlerini hem internet üzerinden çevrim içi olarak hem de doğrudan sinema gişelerinden temin edebilecek.
-
-Sinema Anadolu'daki gösterimlerde ise farklı bir uygulama geçerli olacak. Bu salonda izleyiciyle buluşacak filmlerin biletleri internet üzerinden satılmayacak; biletler yalnızca gösterim günü sinema gişesinden satın alınabilecek.
-
-23. Uluslararası Eskişehir Film Festivali, 19-27 Kasım 2026 tarihleri arasında düzenlenecek. Dokuz gün sürecek etkinlik boyunca zengin bir film seçkisi Eskişehirli izleyicilerle buluşacak.
 
 ---
