@@ -22,10 +22,10 @@
     "title": "Odunpazarı Sanat Merkezi’nde 104 kişi resim öğreniyor - Kars Manşet",
     "url": "https://www.karsmanset.com/service/amp/haber/odunpazari-sanat-merkezinde-104-kisi-resim-ogreniyor-1829168.htm"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Odunpazarı Sanat Merkezi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

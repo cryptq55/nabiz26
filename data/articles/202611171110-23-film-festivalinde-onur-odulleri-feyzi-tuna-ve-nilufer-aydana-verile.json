@@ -22,11 +22,11 @@
     "title": "Haftanın kültür sanat ajandası - Hürriyet",
     "url": "https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/haftanin-kultur-sanat-ajandasi-43381119"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Feyzi Tuna",
       "Nilüfer Aydan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
