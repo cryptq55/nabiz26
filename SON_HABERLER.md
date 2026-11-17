@@ -2,6 +2,102 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## 23. Film Festivali'nde Onur Ödülleri Feyzi Tuna ve Nilüfer Aydan'a Verilecek
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-17 11:10 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/haftanin-kultur-sanat-ajandasi-43381119)
+
+> 19-27 Kasım tarihlerinde düzenlenecek 23. Eskişehir Uluslararası Film Festivali'nde onur ödülleri usta yönetmen Feyzi Tuna ile oyuncu Nilüfer Aydan'a sunulacak.
+
+Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi İletişim Bilimleri Fakültesi tarafından düzenlenen 23. Eskişehir Uluslararası Film Festivali, 19-27 Kasım 2026 tarihleri arasında sinemaseverlerle buluşuyor. Festivalin açılışı, 19 Kasım'da Sinema Anadolu'da yapılacak tören ve yönetmenliğini Morgan Matthews'un üstlendiği "500 Mil" filminin Türkiye prömiyeriyle gerçekleştirilecek.
+
+Festival kapsamında bu yılki onur ödülleri, Türk sinemasına önemli yapıtlar kazandıran yönetmen Feyzi Tuna ile 100'ü aşkın filmde rol alan usta oyuncu Nilüfer Aydan'a takdim edilecek. Emek ödüllerinin sahipleri ise yönetmen ve yapımcı Biket İlhan ile sinema ses çalışmaları ve yapımcılığıyla tanınan Necip Sarıcı olacak.
+
+Görsel teması Jean-Luc Godard'ın sözünden ilhamla "Sinemada hareket" olarak belirlenen etkinlikte, 34 ülkeden 37 uzun metraj ve 18 kısa metraj yapım yer alıyor. Gösterimlerin yanı sıra usta sinemacıların katılımıyla söyleşiler ve sinema dersleri de festival programında yer bulacak.
+
+---
+
+## Tepebaşı'nda Yüzme Kayıtları Başlıyor: Başvurular 18-20 Kasım'da Online Yapılacak
+
+**Spor · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndayuzmeprogramlarıicinkayıtlarbaslıyor)
+
+![](data/images/d004322fbb909097.jpg)
+
+> Tepebaşı Belediyesi Su Sporları Merkezi'nde çocuk ve yetişkinlere yönelik yeni dönem yüzme programları için online kayıtlar 18 Kasım'da açılıyor.
+
+Tepebaşı Belediyesi Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi, farklı yaş gruplarına yönelik yüzme eğitimleri için kapılarını açıyor. Çocuk ve yetişkinleri su sporlarıyla buluşturacak yeni dönem programları için başvurular 18 Kasım Çarşamba günü başlayıp 20 Kasım Cuma günü sona erecek.
+
+Eğitimler kapsamında 6-17 yaş grubundaki çocuklara temel ve ileri düzey yüzme kursları verilecek. 18 yaş ve üzeri yetişkinler ise yüzme eğitiminin yanı sıra serbest yüzme saatleri ve su jimnastiği branşlarından faydalanabilecek.
+
+Kontenjanların sınırlı tutulduğu yüzme programlarında dersler 24 Kasım Salı günü başlayacak. Başvuruların belediyenin tesis.tepebasi.bel.tr internet adresi üzerinden alınacağı, detaylı bilgi edinmek isteyenlerin 0222 310 39 45 numaralı hattı arayabileceği bildirildi.
+
+---
+
+## Odunpazarı Sanat Merkezi'nde Resim Mesaisi: 104 Kursiyer Tuval Başına Geçti
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-17 11:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.karsmanset.com/service/amp/haber/odunpazari-sanat-merkezinde-104-kisi-resim-ogreniyor-1829168.htm)
+
+> Odunpazarı Sanat Merkezi'nde haftanın beş günü düzenlenen resim kursu, farklı yaş gruplarından 104 kursiyerin katılımıyla devam ediyor.
+
+Odunpazarı Belediyesi bünyesinde faaliyetlerini sürdüren Odunpazarı Sanat Merkezi'nde (OSM) açılan resim eğitimi yoğun ilgi görüyor. Sanat eğitimini kentin geneline yaymayı hedefleyen çalışma kapsamında 104 kursiyer atölye çalışmalarına katılıyor.
+
+Eğitmen Melek Tan yönetiminde sürdürülen dersler pazar ve pazartesi günleri dışında haftanın beş günü gerçekleştiriliyor. Katılımcılar eğitim sürecinde resim sanatının temel tekniklerini uygulayarak kendi sanatsal becerilerini geliştirme imkânı buluyor.
+
+Farklı yaş ve tecrübe düzeyinden yurttaşları bir araya getiren kurs programı, kursiyerlere hem kendilerini ifade edebilecekleri sanatsal bir alan hem de üretmenin keyfini yaşayabilecekleri bir ortam sunuyor.
+
+---
+
+## Kaligrafi ve Tipografide Atölye Heyecanı: Çalıştaylar Cuma Gününe Kadar Sürecek
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fdeml5ogqoy921ryzvtn6cqb)
+
+![](data/images/32d29d852ef055f6.jpg)
+
+> Anadolu Üniversitesi Güzel Sanatlar Fakültesi tarafından düzenlenen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında akademisyen ve sanatçıların katıldığı uygulamalı çalıştaylar başladı.
+
+Anadolu Üniversitesi Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü ev sahipliğinde gerçekleştirilen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında düzenlenen çalıştaylar, akademisyenleri, sanatçıları ve öğrencileri bir araya getirdi. Süleyman Demirel Üniversitesi öğretim üyesi Prof. Yusuf Keş, Eskişehir Osmangazi Üniversitesi öğretim üyesi Doç. Bilge Kınam, Eskişehir Teknik Üniversitesi öğretim elemanı Öğr. Gör. Onur Kuran ve sanatçı Dilruba Güneysu’nun katılımıyla yapılan atölyelerde öğrenciler, alanında deneyimli isimlerle birlikte üretim yapma imkânı buldu.
+
+Düzenlenen çalıştaylar, öğrencilerin derslerde edindikleri kuramsal bilgileri uygulamaya dökerek farklı üretim yöntemlerini deneyimlemelerine katkı sağlıyor. Sanatçı ve akademisyenlerle doğrudan çalışma fırsatı yakalayan öğrenciler, kaligrafi ve tipografi alanındaki becerilerini pekiştirirken özgün tasarımlar ortaya koyuyor.
+
+Hafta boyunca devam edecek uygulamalı atölyeler cuma gününe kadar çeşitli oturumlarla sürecek. Çalıştaylar sürecinde üretilen eserler ise cuma günü düzenlenecek sergiyle sanatseverlerin beğenisine sunulacak. Festival kapsamındaki Yunus Emre sergisi ise 11 Aralık Cuma gününe kadar Anadolu Üniversitesi Çağdaş Sanatlar Müzesinde ziyarete açık kalmaya devam edecek.
+
+---
+
+## Hakan Şapcı'dan 2-2'lik Maç Sonrası Açıklama: 'Oynanan Oyundan Çok Memnunum'
+
+**Spor · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-2-puan-kaybetti-hakan-sapci-cok-memnunum-dedi-2465696)
+
+![](data/images/233403cc79347072.jpg)
+
+> Eskişehirspor Teknik Direktörü Hakan Şapcı, 2-2 sona eren Ayvalıkgücü karşılaşmasının ardından yaptığı değerlendirmede kaybedilen puana üzüldüklerini ancak sergilenen futboldan memnun olduğunu söyledi.
+
+Bölgesel Amatör Lig temsilcisi Eskişehirspor'da, Ayvalıkgücü deplasmanında alınan 2-2'lik beraberliğin yankıları sürüyor. Karşılaşmanın ardından teknik direktör Hakan Şapcı, maçta sergilenen oyun ve kaybedilen puanlara ilişkin değerlendirmelerde bulundu.
+
+Karşılaşmanın başında bireysel hatalar nedeniyle kalelerinde iki gol gördüklerini belirten Şapcı, oyuncularının geriye düşmelerine karşın sahada iyi bir direnç ortaya koyduğunu ifade etti. Çok pozisyon ürettiklerini dile getiren tecrübeli teknik adam, yenmemesi gereken basit goller yediklerine dikkat çekti.
+
+Savunma hattındaki talihsizliklere değinen Şapcı, "Sezon başından bu yana büyük talihsizlikler ve hatalar oluyor, özellikle savunma bölgesinde yaşanıyor. Buna rağmen oyuncularımız müthiş bir karakter gösterdi. Kaybedilen 2 puana elbette üzgünüz ancak oynanan oyundan çok memnunum" şeklinde konuştu.
+
+---
+
+## Bakanlıktan 'Verimli Ev' Uygulaması: Fatura ve Cihaz Tüketimi Takip Edilecek
+
+**Türkiye · Türkiye** · 2026-11-17 11:09 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31975)
+
+![](data/images/5da6a988cf3b0184.jpg)
+
+> Enerji ve Tabii Kaynaklar Bakanlığı, hanelerdeki elektrik ve doğal gaz tüketiminin analiz edilmesini sağlayan "Verimli Ev" mobil uygulamasını kullanıma sundu.
+
+Enerji ve Tabii Kaynaklar Bakanlığı tarafından geliştirilen "Verimli Ev" mobil uygulaması vatandaşların erişimine açıldı. Uygulama sayesinde kullanıcılar, evlerinde kullandıkları elektrikli cihazların ve ısıtma sistemlerinin enerji tüketimini ayrıntılı biçimde analiz edebilecek.
+
+Kullanıcılar uygulamaya e-posta adresiyle ya da e-Devlet kapısı üzerinden giriş yapabilecek. Sisteme elektrik ve doğal gaz fatura bilgileri girildikten sonra; buzdolabı, çamaşır makinesi, bulaşık makinesi, kombi ve klima gibi temel cihazların enerji sınıfı, motor gücü ve günlük çalışma süreleri tanımlanabilecek.
+
+Sistem, girilen verileri işleyerek her bir cihazın toplam enerji tüketimindeki payını ve maliyetini hesaplayacak. Tüketimin yol açtığı karbon emisyonu miktarını da gösteren uygulama, kullanıcılara cihaz bazında özel tasarruf ve verimlilik önerileri sunacak.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Milli Enerji 2040 vizyonunun temel ayaklarından birinin enerji verimliliği olduğunu belirtti. Enerjide tam bağımsızlığın sadece üretimi artırmakla değil, tüketimi verimli kılmakla mümkün olacağını vurgulayan Bayraktar, enerji tasarrufu bilincinin evlerden başladığını ve uygulamanın aile bütçesine katkı sağlayacağını ifade etti.
+
+"Verimli Ev" mobil uygulaması, akıllı telefon ve tablet kullanıcıları için uygulama mağazalarından ücretsiz olarak indirilebiliyor.
+
+---
+
 ## Odunpazarı'nda Sanat ve Kitap Günleri: 21-22 Kasım'da Kapılarını Açıyor
 
 **Kültür-Sanat · Odunpazarı** · 2026-11-17 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/yerel-gundem/odunpazari-belediyesi-cumhuriyet-sanat-ve-kitap-gunleri-21-22-kasim-da-eskisehir-de-2556827)
@@ -391,99 +487,5 @@ Sağlık Bakanı Kemal Memişoğlu, TBMM Plan ve Bütçe Komisyonunda bakanlığ
 Son 10 yıllık süreçte 42 bini aşkın yatak kapasiteli 28 şehir hastanesinin açıldığını hatırlatan Memişoğlu, 11 şehir hastanesinin açılışı için de hazırlıkların devam ettiğini aktardı. İnşaatı tamamlanma aşamasına gelen Trabzon Şehir Hastanesinde ise kasım ayı sonunda hasta kabulüne başlanmasının öngörüldüğü ifade edildi. Son bir yılda ise Samsun, Aydın, Şanlıurfa ve Ordu'dakiler dahil toplam 9 bin 540 yatak kapasitesine sahip 34 hastane hizmete alındı.
 
 Kamudaki toplam yatak kapasitesinin 178 bin 66'ya, erişkin ve çocuk dahil yoğun bakım yatak sayısının da 26 bin 228'e ulaştığını belirten Memişoğlu, 81 ilde 486'sı inşaat halinde olan toplam 1.217 birinci basamak sağlık tesisinin yatırım sürecinin sürdüğünü kaydetti. Deprem bölgesindeki yatak kapasitesinin afet öncesine kıyasla yüzde 26 artırılarak 30 binin üzerine çıkarıldığı, bölgede 4 bin 381 yatak kapasiteli 24 sağlık tesisinin inşasının sürdüğü açıklandı.
-
----
-
-## Tepebaşı'nda Ücretsiz Diyetisyen Hizmeti Başladı: Randevular Salı Günleri
-
-**Sağlık · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndasaglıklıyasamicinucretsizdiyetisyendestegi)
-
-![](data/images/3ddfc81d838f0d9f.jpg)
-
-> Tepebaşı Belediyesi Su Sporları Merkezi'nde vatandaşlara yönelik ücretsiz diyetisyen desteği sunuluyor. Uzman kontrolünde beslenme ve egzersiz planı yapmak isteyenler randevuyla hizmet alabiliyor.
-
-Tepebaşı Belediyesi, sağlıklı yaşamı teşvik etmek amacıyla yürüttüğü çalışmalara ücretsiz diyetisyen desteğini ekledi. Gençlik ve Spor Hizmetleri Müdürlüğü koordinasyonunda sunulan hizmet sayesinde Eskişehirliler, beslenme alışkanlıklarını ve fiziksel aktivite süreçlerini uzman rehberliğinde düzenleme fırsatı buluyor.
-
-Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi bünyesinde verilen hizmetle, vatandaşların sağlıklı yaşama dair güvenilir bilgiye ve profesyonel yönlendirmeye kolayca erişmesi hedefleniyor. Randevu sistemiyle gerçekleştirilen bireysel görüşmelerde, kişiye özel beslenme ve egzersiz planlamaları yapılıyor.
-
-Ertuğrulgazi Mahallesi Alpar Sokak'ta bulunan tesisteki ücretsiz diyetisyen desteğinden yararlanmak isteyenlerin, salı günleri saat 10.00 ile 16.00 arasında randevu alabileceği bildirildi. Hizmete ilişkin ayrıntılı bilgi ve randevu işlemleri için merkeze ait telefon numarasından başvuru yapılabiliyor.
-
----
-
-## Tepebaşı'nda Çocuk Odaklı Projeler: 82 Bini Aşkın Çocuğa Diş Taraması Yapıldı
-
-**Belediye · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-belediye-baskani-atac-kentimizin-gelecegini-cocuklarimizla-insa-ediyoruz-2cd76841)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, çocuklara yönelik eğitim, sağlık, kültür ve sanat faaliyetlerinde fırsat eşitliğini esas aldıklarını açıkladı.
-
-Tepebaşı Belediyesi, çocukların gelişimini desteklemek amacıyla eğitim, sanat ve sağlık alanlarındaki projelerini sürdürüyor. Tepebaşı Belediye Başkanı Ahmet Ataç, çocukların nitelikli eğitime ve sağlıklı yaşama erişiminin ailelerin ekonomik durumuna bağlı olmaması gerektiğini vurgulayarak yürütülen hizmetlerin ayrıntılarını paylaştı.
-
-Eğitim alanındaki çalışmalara değinen Başkan Ataç, 2023 yılında açılan Bahriye Üçok Eğitim ve Gelişim Merkezi'nden bugüne kadar 3 bin 688 öğrencinin faydalandığını bildirdi. Merkezde 2026 güz döneminde 26 grupta 357 öğrenciye temel derslerin yanı sıra rehberlik desteği sunulduğu kaydedildi.
-
-Kültür ve sanat faaliyetleri kapsamında yetenek sınavı şartı aranmaksızın eğitim veren İki Elin Sesi Var Çocuk ve Gençlik Senfoni Orkestrası ile bugüne dek 2 bin 500 çocuğa ulaşıldığı belirtildi. Ayrıca 90 çocuğun katkısıyla hayata geçirilen "Cumhuriyet’in Çocukları" kolektif anıtı gibi çalışmalarla çocukların sanatsal üretime dahil edildiği aktarıldı.
-
-Koruyucu sağlık hizmetleri kapsamında 2013'ten bu yana hizmet veren Tepebaşı Belediyesi Çocuk Ağız ve Diş Sağlığı Polikliniği'nde ise 82 bin 910 çocuğa tarama yapıldığı açıklandı. Bu taramalarda sorun tespit edilen 39 bin 838 çocuğun tedavisi tamamlanırken, 4 bin 201 çocuğa toplam 7 bin 173 kez psikolojik destek sağlandığı ve 25 bin 632 çocuğa sağlık eğitimi verildiği kaydedildi.
-
----
-
-## Odunpazarı'nda İkinci Taksit İçin Süre Daralıyor: Vergi Ödemelerinde Son Gün 30 Kasım
-
-**Belediye · Odunpazarı** · 2026-11-16 13:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-kasim-ayi-vergi-odemeleri-icin-son-gun-30-kasim)
-
-![](data/images/54cac98a7f035deb.jpg)
-
-> Odunpazarı Belediyesi, emlak, çevre temizlik ile ilan ve reklam vergileri taksitleri için son ödeme gününün 30 Kasım Pazartesi olduğunu hatırlattı.
-
-Odunpazarı Belediyesi, 2026 yılına ait Emlak Vergisi, Çevre Temizlik Vergisi ve İlan ve Reklam Vergisi'nin ikinci taksitleri ile Katı Atık Ücreti'nin 5'inci taksitine ilişkin mükelleflere kritik bir uyarıda bulundu. Vatandaşların cezalı duruma düşmemesi ve gecikme zammıyla karşılaşmaması için ödemelerin 30 Kasım 2026 Pazartesi günü mesai bitimine kadar yapılması gerektiği bildirildi.
-
-Mükellefler vergi ve ücret borçlarını doğrudan belediye veznelerine giderek ödeyebilecek. Ayrıca veznelere gitmek istemeyen vatandaşlar için e-Devlet kapısı ve belediyenin resmi internet sitesi olan 'www.odunpazari.bel.tr' adresindeki e-Belediye sistemi üzerinden de çevrim içi ödeme imkânı sunuluyor.
-
-Yetkililer, veznelerde ve internet altyapısında son günlerde oluşabilecek yoğunlukları önlemek amacıyla mükelleflerin işlemlerini son güne bırakmamaları tavsiyesinde bulundu.
-
----
-
-## 20 Sanatçının Eseri Tek Çatıda: 'Buluşma' Sergisi Ziyarete Açıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-16 13:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirde-bulusma-sergisi-sanatseverlerden-tam-not-aldi)
-
-> Yolları Eskişehir'de kesişen sanatçıların eserlerini bir araya getiren 'Buluşma' karma sergisi, Turgut Özakman Sanat Galerisi'nde ziyarete açıldı.
-
-Çekirdek Eskişehir'in yeni merkezi olarak hizmet veren Turgut Özakman Sanat Galerisi, "Buluşma" başlıklı sergiyle kapılarını sanatseverlere açtı. Genç sanatçıların üretimlerini görünür kılmayı ve kentin kültür hayatına dinamizm kazandırmayı hedefleyen galerideki açılışa, Eskişehir Büyükşehir Belediyesi Başkan Vekili Hasan Ünal'ın yanı sıra sanatçılar ve çok sayıda davetli katıldı.
-
-Küratörlüğünü Prof. Dr. Gülbin Özdamar Akarçay, Doç. Özgür Uğuz ve E. Gülşah Akın'ın üstlendiği sergide 20 sanatçının eserleri yer alıyor. Farklı deneyim ve pratiklere sahip sanatçıların kentle kurdukları kişisel ve kolektif bağlardan yola çıkan seçki; mekân, zaman ve bellek kavramlarının kesişim noktalarını konu alıyor.
-
-Farklı bakış açılarını ve özgün anlatımları bir arada sunan "Buluşma" karma sergisi, 6 Aralık 2026 tarihine kadar Eskişehir Büyükşehir Belediyesi Kültür ve Sanat Merkezi Turgut Özakman Sanat Galerisi'nde ziyaret edilebilecek.
-
----
-
-## Togg Ekim Ayında Türkiye İkincisi Oldu: Pazar Payı Yüzde 11,7'ye Ulaştı
-
-**Ekonomi · Türkiye** · 2026-11-16 11:04 UTC · Kaynak: [Google Haberler - Togg](https://finanshatti.com/otomotiv-sektorunde-ekim-raporu-togg-satislarda-zirveyi-zorluyor/)
-
-![](data/images/7afcb037abb16c44.jpg)
-
-> Türkiye İstatistik Kurumu verilerine göre Ekim ayında trafiğe kaydı yapılan araçlar arasında Togg, yüzde 11,7'lik pazar payıyla en çok tercih edilen ikinci marka oldu.
-
-Türkiye otomotiv pazarında Ekim ayı trafiğe kayıt verileri açıklandı. Türkiye İstatistik Kurumu verilerine göre, ay boyunca toplam 62 bin 97 otomobilin trafiğe kaydı gerçekleştirildi. Açıklanan istatistikler, yerli üretici ile küresel otomotiv markaları arasındaki rekabetin güncel durumunu ortaya koydu.
-
-Ekim ayı sonuçlarına göre pazarın zirvesinde yüzde 14,5'lik pay ile Renault yer aldı. Türkiye'nin yerli elektrikli otomobil markası Togg ise yüzde 11,7 pazar payı elde ederek satış listesinde ikinci sıraya yerleşti. Togg'un ardından gelen Volkswagen, yüzde 11,1'lik oranla listenin üçüncü basamağında kendine yer buldu.
-
-Elektrikli araçlara yönelik ilginin arttığı otomotiv sektöründe yerli üreticinin küresel markalar arasındaki yükselişi sürerken, pazar paylarının birbirine oldukça yakın seyretmesi markalar arasındaki rekabetin önümüzdeki dönemde de devam edeceğini gösteriyor.
-
----
-
-## Odunpazarı Personeline Kanser ve Lösemide Erken Teşhis Semineri
-
-**Sağlık · Odunpazarı** · 2026-11-16 11:04 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/losev-den-odunpazari-belediyesi-personeline-kanser-ve-losemi-egitimi)
-
-![](data/images/93f15d7de022f28b.jpg)
-
-> LÖSEV yetkilileri, Odunpazarı Belediyesi Meclis Salonu'nda personele kanser ve lösemide erken tanının hayati önemini anlattı.
-
-Odunpazarı Belediyesi çalışanlarına yönelik sağlık bilgilendirme çalışmaları kapsamında, Lösemili Çocuklar Sağlık ve Eğitim Vakfı (LÖSEV) iş birliğiyle kanser ve lösemi semineri gerçekleştirildi.
-
-Belediye Meclis Salonu'nda düzenlenen eğitimde, erken teşhisin hastalıklarla mücadeledeki belirleyici rolü üzerinde duruldu. LÖSEV yetkilileri, katılımcılara hastalıkların erken dönemde tespit edilmesinin tedavi sürecine sağladığı katkıları aktardı.
-
-Seminerde ayrıca belediye personelinin sağlık kontrollerini düzenli yaptırması ve farkındalık düzeyinin artırılması hedeflendi.
 
 ---
