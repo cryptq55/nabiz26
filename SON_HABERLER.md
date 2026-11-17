@@ -2,6 +2,88 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Günyüzü Kayakent'te 2 Kilometrelik Su Terfi Hattı Yenilendi
+
+**Belediye · Günyüzü** · 2026-11-17 05:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13562&cat_icerik=1&menu_id=24)
+
+![](data/images/1ebe5041136faf58.jpg)
+
+> ESKİ, Günyüzü ilçesine bağlı Kayakent Mahallesi Topal Yayla mevkisinde ekonomik ömrünü tamamlayan yaklaşık 2 kilometrelik içme suyu terfi hattını baştan sona yeniledi.
+
+Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ) Genel Müdürlüğü, kırsal mahallelerde içme ve kullanma suyu altyapısını güçlendirmeye yönelik çalışmalarına devam ediyor. Bu kapsamda Günyüzü ilçesi Kayakent Mahallesi Topal Yayla mevkisindeki su iletim altyapısı kapsamlı bir çalışmayla yenilendi.
+
+Türbe Caddesi Topal Yayla mevkisinde yürütülen çalışmalarda, bölgedeki kuyudan su deposuna iletim sağlayan ve kullanım ömrünü tamamlamış olan yaklaşık 2 kilometrelik terfi hattı yenilendi. İmalat işlemlerinin tamamlanmasıyla birlikte su iletim sisteminin güvenilirliği artırılarak olası arızaların önüne geçildi.
+
+Yürütülen çalışmadan duyduğu memnuniyeti ifade eden Kayakent Mahalle Muhtarı Fatih Olçay, suyun yaklaşık 17 kilometre uzaklıktan ulaştığını ve hat üzerinde sık sık yaşanan arızaların yıllardır mağduriyete yol açtığını aktardı. Taleplerini değerlendirerek sorunu çözen Büyükşehir Belediye Başkanı Ayşe Ünlüce'ye ve ESKİ ekiplerine teşekkür eden Olçay, hattın yenilenmesiyle mahallede önemli bir ihtiyacın karşılandığını vurguladı.
+
+---
+
+## Göç İdaresi Heyetinden Anadolu Üniversitesi Rektörü Adıgüzel'e Ziyaret
+
+**Eğitim · Tepebaşı** · 2026-11-17 05:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/uy1yzj33k92434w1a2lrtvmm)
+
+![](data/images/920ef465d01848f9.jpg)
+
+> Göç İdaresi Başkanlığı heyeti, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'i ziyaret ederek göç yönetimi ve ortak projeler üzerine görüştü.
+
+İçişleri Bakanlığı Göç İdaresi Başkanlığı Uyum ve İletişim Genel Müdürü Ahmet Dalkıran ve beraberindeki heyet, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'e makamında ziyarette bulundu.
+
+Ziyarete Uyum ve İletişim Grup Başkanı Ali Rıza Beşkat, Göç Uzmanı Ekrem Demir, Eskişehir İl Göç İdaresi Müdür Vekili Özkan Çetin ile İl Göç Uzmanı Gülşan Dolgun da eşlik etti.
+
+Görüşmede göç yönetimi, uyum ve iletişim faaliyetleri kapsamındaki çalışmalar masaya yatırıldı. Üniversite ile göç alanında hayata geçirilebilecek ortak projeler ve iş birliği olanakları değerlendirildi. Rektör Prof. Dr. Adıgüzel, konuklarına teşekkür ederken ziyaret hediye takdimiyle tamamlandı.
+
+---
+
+## Erdoğan'dan Üniversiteli Gençlere: 'Bugün Dünyada Artık Türkiye Konuşuluyor'
+
+**Siyaset · Türkiye** · 2026-11-17 05:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-dunyada-artik-turkiye-konusuluyor-963424.html)
+
+![](data/images/32a439d26fbaf0b9.jpg)
+
+> Cumhurbaşkanı Erdoğan, AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda yaptığı konuşmada, Türkiye'nin iç ve dış politikada attığı adımlarla uluslararası alanda öne çıktığını belirtti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, partisinin Kongre Merkezi'nde düzenlenen AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'na katılarak gençlere hitap etti. Türkiye genelindeki 81 ilde ve 208 üniversitede yürütülen çalışmalara değinen Erdoğan, üniversiteye yeni kayıt yaptıran 450 bin öğrencinin ÜniAK teşkilatına katıldığını ifade etti.
+
+Konuşmasında muhalefet ile aralarında gençliğe bakış konusunda temel bir vizyon farkı bulunduğunu savunan Erdoğan, iktidar olarak gençleri siyasetin nesnesi değil doğrudan aktörü olarak konumlandırdıklarını söyledi. Erdoğan, gençlerin eğitim, teknoloji, kültür ve sanat başta olmak üzere her alanda kendilerini geliştirmeleri adına çalışmalar yürüttüklerini kaydetti.
+
+Türkiye'nin ev sahipliğinde gerçekleşen uluslararası organizasyonlara da değinen Cumhurbaşkanı Erdoğan, Antalya'da düzenlenen COP31 Zirvesi'nde 96 dünya liderinin ağırlandığını hatırlattı. Erdoğan, Türk Devletleri Teşkilatı Zirvesi ve NATO toplantılarının ardından Türkiye'nin bölgesel ve küresel ölçekteki etkinliğinin arttığını, dünyada artık Türkiye'nin hamlelerinin konuşulduğunu ifade etti.
+
+Gençlere özgüven çağrısında bulunan Erdoğan, karşılaşılan ekonomik ve sosyal engellerin hiçbirinin umutsuzluğa yol açacak büyüklükte olmadığını dile getirdi. Geçmişte yaşanan kutuplaşmaların ve 28 Şubat sürecindeki hak gasplarının geride bırakıldığını belirten Erdoğan, gençlerin Türkiye Yüzyılı vizyonunun ana taşıyıcısı olacağını sözlerine ekledi.
+
+---
+
+## Ayşe Ünlüce Derince'de Kent Lokantası Açılışına Katıldı
+
+**Belediye · Merkez** · 2026-11-17 05:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13561&cat_icerik=1&menu_id=24)
+
+![](data/images/cdf0c1527c52a335.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Kocaeli'nin Derince ilçesinde Kent Lokantası açılışına katılarak tarımsal üretim tesislerinde incelemelerde bulundu.
+
+Türkiye Belediyeler Birliği Başkan Vekili ve Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Derince Belediye Başkanı Sertif Gökçe’nin ev sahipliğinde düzenlenen açılış programı kapsamında Kocaeli’yi ziyaret etti. Programda ilçe sakinlerine uygun fiyatlı ve sağlıklı yemek sunulması hedeflenen Kent Lokantası ile Senin Kafen Çenesuyu sosyal tesisinin açılışı yapıldı.
+
+Ziyaret kapsamında İshakçılar bölgesinde yer alan DERTAŞ Tarım Ürünleri tesislerini de gezen Ünlüce, süt ve süt ürünleri üretim süreçlerini yerinde takip etti. Tesis yetkililerinden kapasite ve yeni dönem projelerine ilişkin bilgi alan Ünlüce, yerel tarım ve üretimin güçlendirilmesi gerektiğine dikkat çekti.
+
+Sosyal dayanışmayı artıran ve yerel üreticiye katkı sağlayan uygulamaların önemine değinen Ünlüce, Derince'de hayata geçirilen projeler dolayısıyla emeği geçenleri tebrik etti. Açılış törenine katılan ilçe sakinleri de Ünlüce ile hatıra fotoğrafı çektirdi.
+
+---
+
+## Anadolu Üniversitesi'nden AB Destekli Proje: Yeşil İnsan Kaynakları Başlatıldı
+
+**Eğitim · Tepebaşı** · 2026-11-17 05:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/p3dul1fx5oho8xwq6g42vykc)
+
+![](data/images/26f49f3316f3ff0a.jpg)
+
+> Anadolu Üniversitesi, Avrupa Birliği Jean Monnet Faaliyetleri kapsamında desteklenen ve 36 ay sürecek olan ECO-HRM projesini tanıttı.
+
+Anadolu Üniversitesi yürütücülüğünde hayata geçirilen "Ekolojik Dönüşüm İçin Yeşil İnsan Kaynakları Yönetimi" (ECO-HRM) projesinin açılış toplantısı, İktisadi ve İdari Bilimler Fakültesi Yüzüncü Yıl Toplantı Salonu'nda yapıldı. Proje; üniversite, mesleki eğitim kurumları ve sanayi kesimini yeşil dönüşümün insan kaynağı boyutunda bir araya getirmeyi amaçlıyor.
+
+Toplantının açılışında konuşan Proje Yürütücüsü Doç. Dr. Seda Tekeli, ekolojik dönüşümün yalnızca çevresel politikalar ve teknolojik adımlardan ibaret olmadığını belirterek, istihdam yapısı ve nitelikli insan kaynağının sürecin temel taşlarından biri olduğunu vurguladı. Tekeli, yeşil insan kaynakları yaklaşımının işe alımdan eğitime ve performans yönetimine kadar geniş bir alanı kapsadığını, meslek lisesi öğrencilerinin de projenin öncelikli hedef grupları arasında yer aldığını kaydetti.
+
+Üç yıl boyunca devam edecek proje çerçevesinde, farklı disiplinlerden üniversite öğrencilerinin seçebileceği "Yeşil İnsan Kaynakları Yönetimi" dersi açılacak. İl Millî Eğitim Müdürlüğü ve Eskişehir Sanayi Odası iş birliğiyle yürütülecek çalışmada; eğitimler, araştırmalar ve çalıştaylarla ekolojik dönüşümün çalışma hayatına etkilerine yönelik farkındalık artırılacak.
+
+---
+
 ## Otogarda Sıkı Denetim: Sefer Saatleri ve Belgeler İncelendi
 
 **Belediye · Tepebaşı** · 2026-11-16 21:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13563&cat_icerik=1&menu_id=24)
@@ -393,89 +475,5 @@ Odunpazarı Belediyesi Engelli ve Yaşlı Hizmetleri Müdürlüğü, 14 Kasım D
 Belediyenin ana hizmet binası ile Park ve Bahçeler Müdürlüğü şantiyesinde kurulan noktalarda personelin kan şekeri ölçümleri yapıldı. Sağlık ekipleri, çalışanlara diyabet hastalığının belirtileri ve korunma yolları hakkında bilgi verdi.
 
 Yoğun ilgi gören etkinlik kapsamında dağıtılan bilgilendirici broşürlerle erken teşhisin önemine dikkat çekildi ve sağlıklı yaşam alışkanlıklarının benimsenmesi teşvik edildi.
-
----
-
-## Cumhurbaşkanı Erdoğan'ın 21 Kasım İzmir Ziyareti Aralık Ayına Ertelendi
-
-**Siyaset · Türkiye** · 2026-11-16 07:04 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.gundemebakis.com/erdoganin-izmir-programina-erteleme)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan’ın 21 Kasım’da İzmir’de gerçekleştirmesi planlanan toplu açılış ve rozet takma programı ileri bir tarihe ertelendi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan’ın 21 Kasım tarihinde İzmir’e yapmayı planladığı resmi ziyaret programı ertelendi.
-
-İlk planlamaya göre Erdoğan'ın Konak Meydanı’nda düzenlenecek toplu açılış törenine katılması, partiye katılacak belediye başkanlarına rozet takması ve kente ilişkin çeşitli yatırım projelerine dair açıklamalarda bulunması bekleniyordu.
-
-Programın ertelenmesinin ardından Cumhurbaşkanı Erdoğan'ın İzmir ziyaretini aralık ayı içerisinde gerçekleştirmesinin planlandığı öğrenildi.
-
----
-
-## Altın fiyatları 16 Kasım 2026: Gram altın 6.298,08 TL
-
-**Ekonomi · Merkez** · 2026-11-16 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261116.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.210,29 TL'den alınıyor, 6.298,08 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.298,08 TL, alış fiyatı 6.210,29 TL oldu. Gram altın, önceki kapanışa göre yüzde 6,25 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.265 TL, yarım altın 20.524 TL, tam altın 40.898 TL, ata altın 41.990 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.882,48 TL, has altının gram fiyatı 6.279,24 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.836,60 dolardan işlem görürken, dolar/TL 50,50 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Karayolları İHA ve SİHA Pisti Oluyor: 52 Güzergah Belirlendi
-
-**Ulaşım · Türkiye** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://notbir.com.tr/gundem/ulastirma-bakani-abdulkadir-uraloglu-acikladi-karayollari-iha-siha-pistleri-olacak)
-
-![](data/images/d76805f7746c08f4.jpg)
-
-> Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, afet ve acil durum lojistiğinde karayollarının insansız hava araçları için pist olarak kullanılacağını bildirdi.
-
-Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, afet, acil durum ve olağanüstü lojistik operasyonlar kapsamında karayolu altyapısının insansız hava araçlarının iniş, kalkış ve konuşlanmasına uygun hale getirilmesi için çalışma yürütüldüğünü açıkladı.
-
-Mevcut yol ağında inceleme yapıldığını belirten Bakan Uraloğlu, fiziki şartları karşılayan 9 bin 562 yol kesimi arasından ilk etapta 7, ardından 45 olmak üzere toplam 52 potansiyel alanın belirlendiğini duyurdu. Projenin ilk deneme uygulaması Manisa-Balıkesir Karayolu'nda gerçekleştirildi.
-
-İlk uygulama alanında hava araçlarının emniyetle iniş kalkış yapabilmesi amacıyla çeşitli düzenlemeler yapıldı. Güzergah çevresinde 3 ayrı noktada 3 bin 600 metrekarelik park alanı oluşturulurken, 5 bin 200 metre uzunluğundaki otokorkuluk söküldü ve 45 trafik levhası kolay sökülebilir hale getirildi.
-
-Milli Savunma Bakanlığı koordinasyonunda Türk Silahlı Kuvvetleri birimleri, İçişleri Bakanlığı unsurları, Karayolları Genel Müdürlüğü ve Baykar iş birliğiyle yapılan tatbikatta AKINCI ve Bayraktar TB2 araçları karayoluna başarıyla iniş ve kalkış yaptı. Uraloğlu, karayolu ağının acil senaryolarda çok yönlü lojistik fayda sağlayacağını ifade etti.
-
----
-
-## CHP'li Canpolat: Bu Kadrolar Kişisel Çıkarları İçin Mücadele Etmedi
-
-**Siyaset · Türkiye** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - CHP](https://www.habername.com/haber-chp-genel-baskan-yardimcisi-canpolat-fethiyede-partisinin-ilce-baskanligini-302040.htm)
-
-> CHP Genel Başkan Yardımcısı Cemal Canpolat, parti kadrolarının hiçbir dönem şahsi menfaat peşinde koşmadığını ve kamucu belediyecilik anlayışıyla hizmet verdiğini söyledi.
-
-Cumhuriyet Halk Partisi (CHP) Genel Başkan Yardımcısı Cemal Canpolat, Muğla'nın Fethiye ilçesinde partisinin ilçe başkanlığına ziyarette bulundu. Parti yöneticileri ve üyelerle bir araya gelen Canpolat, parti geleneğinin cumhuriyet değerleri ve halk odaklı anlayış üzerine kurulu olduğunu ifade etti.
-
-CHP kadrolarının Cumhuriyet'i kuran ve bağımsızlığı inşa eden bir geçmişe sahip olduğunu kaydeden Canpolat, "Bu büyük, Cumhuriyet sevdalısı kadrolar, hiçbir dönem kendi kişisel ikballeri, kendi kişisel çıkarları için mücadele etmedi. Hep toplumun değerleriyle, büyük bir aile olmanın mücadelesini verdiler" diye konuştu.
-
-Partili belediyelerin halkçı ve kamucu projeler ürettiğini dile getiren Canpolat, Fethiye Belediye Başkanı Alim Karaca'ya çalışmalarından ötürü teşekkür etti. Canpolat ayrıca Fethiye'nin il statüsüne kavuşacak öncelikli ilçeler arasında yer almasını beklediklerini aktardı. Belediye Başkanı Karaca ise parti çatısı altında halka hizmet etmeye devam edeceğini bildirdi.
-
-Toplantıya CHP Muğla İl Başkanı Halil Karahan, Fethiye İlçe Başkanı Mustafa Barış Güler ve partililer katıldı. Canpolat, ilçe başkanlığındaki görüşmelerin ardından kentteki temaslarını sürdürdü.
-
----
-
-## Beş Caddede PİTS Dönemi Başladı: Eskişehirlilerden Çift Sıra Park Denetimine Destek
-
-**Ulaşım · Merkez** · 2026-11-16 05:04 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.eskisehirekspres.net/eskisehirliler-pitsi-degerlendirdi-caddelerimiz-cift-sira-parki-kaldirmiyor)
-
-> Eskişehir Emniyet Müdürlüğü'nün kentin beş işlek caddesinde devreye aldığı Park İhlali Tespit Sistemi (PİTS), çift sıra park yapan sürücülere ceza kesmeye başladı. Uygulamayı değerlendiren bölge sakinleri, denetimlerin trafiği rahatlatacağını belirtti.
-
-Eskişehir Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü, şehir merkezinde trafik akışını engelleyen ve kazalara davetiye çıkaran park ihlallerini önlemek amacıyla Park İhlali Tespit Sistemi'ni (PİTS) faaliyete geçirdi. Nilüfer Caddesi, Birlik Caddesi, Kızılcıklı Mahmut Pehlivan Caddesi, Cengiz Topel Caddesi ve Sakarya-1 Caddesi'nde kurulan kameralı sistemle, ikinci sıra araç parkı yapan sürücülere idari para cezası uygulanıyor.
-
-Uygulamanın devreye girdiği caddelerde yaşayanlar ve esnaf, denetim kararını memnuniyetle karşıladı. Cengiz Topel Caddesi'nde dershane öğretmeni olarak görev yapan Nilüfer Uğraş, caddenin aşırı yoğunluğuna dikkat çekerek giriş ve çıkışlarda büyük sıkıntı yaşandığını, gün içinde çok sayıda kazaya şahit olduklarını ve öğrencilerin yolun karşısına geçişini sağlamakta güçlük çektiklerini ifade etti.
-
-Çift sıra park alışkanlığının acil durumlarda yaratacağı riskleri dile getiren vatandaşlar, özellikle ambulans ve itfaiye gibi araçların daralan yollardan geçemediğini vurguladı. Kızılcıklı Mahmut Pehlivan Caddesi'ndeki araç yoğunluğuna işaret eden mahalle sakinleri, caddelerin mevcut genişliğinin yalnızca tek sıra parkı kaldırdığını kaydetti.
-
-Sistemin trafik güvenliği açısından zorunlu olduğunu belirten vatandaşlardan Mehmet Ulaş ise denetimlerin yanı sıra kalıcı çözüm için otopark sayısının artırılması ve yüksek otopark ücretlerine yönelik adımlar atılması gerektiğini söyledi.
 
 ---
