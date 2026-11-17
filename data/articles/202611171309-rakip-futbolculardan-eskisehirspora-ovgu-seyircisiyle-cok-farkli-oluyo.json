@@ -21,10 +21,10 @@
     "title": "Rakipten Eskişehirspor’a Övgü - Milli İrade Gazetesi",
     "url": "https://www.milliirade.com/rakipten-eskisehirspora-ovgu"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

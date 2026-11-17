@@ -22,10 +22,10 @@
     "title": "17Kas2026 Eskişehir Teknik Üniversitesi COP31’de 15 Projesiyle Yerini Alıyor Eskişehir Teknik Üniversitesi, sürdürülebilir bir gelecek için geliştirdiği bilimsel projelerle 18 Kasım 2026 Çarşamba günü Antalya’da…",
     "url": "https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-cop31de-15-projesiyle-yerini-aliyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Teknik Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
