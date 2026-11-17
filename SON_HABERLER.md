@@ -2,6 +2,40 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nda Sanat ve Kitap Günleri: 21-22 Kasım'da Kapılarını Açıyor
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-17 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/yerel-gundem/odunpazari-belediyesi-cumhuriyet-sanat-ve-kitap-gunleri-21-22-kasim-da-eskisehir-de-2556827)
+
+![](data/images/77efe7465a4b0120.jpg)
+
+> Cumhuriyet gazetesi ve Odunpazarı Belediyesi iş birliğiyle düzenlenen Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde 100. Yıl Kültür Merkezi'nde gerçekleştirilecek.
+
+Odunpazarı Belediyesi ile Cumhuriyet gazetesinin ortaklaşa düzenlediği Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde Eskişehir'deki 100. Yıl Kültür Merkezi'nde kitapseverler ve sanatseverlerle buluşacak.
+
+Etkinlik programı, 21 Kasım Cumartesi günü saat 13.00'te Cumhuriyet Sanat Galerisi Koleksiyonu'nda yer alan eserlerden oluşan karma resim sergisinin açılışıyla başlayacak. Sergide çok sayıda usta sanatçının fırçasından çıkan yapıtlar Eskişehirlilerin beğenisine sunulacak.
+
+İki gün boyunca sürecek organizasyonda Cumhuriyet Kitapları Yayınevi bünyesindeki yazarlar düzenlenecek söyleşi ve imza günlerinde okurlarıyla bir araya gelecek. Etkinlik dizisi, 22 Kasım Pazar günü saat 17.00'de Odunpazarı Belediye Başkanı Kazım Kurt ile gazeteci-yazar Mustafa Balbay'ın katılımıyla gerçekleştirilecek "Yerel Siyaset, Yerel Yönetim" başlıklı söyleşiyle tamamlanacak.
+
+---
+
+## AÖF'te Mikro Yeterlilik Dönemi: Alınan Eğitimler 12 Krediye Kadar Sayılabilecek
+
+**Eğitim · Tepebaşı** · 2026-11-17 09:08 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/xh5qv6cxeepbo68x9f0xwzk8)
+
+![](data/images/941b4438b888f7a7.jpg)
+
+> Anadolu Üniversitesi Açıköğretim Fakültesi, yapay zekâ odaklı Mikro Yeterlilik Programlarını başlattı. Başarılı olan öğrenciler lisans düzeyinde 12 AKTS'ye kadar ders kredisinden muaf olabilecek.
+
+Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), öğrencilerin mesleki becerilerini geliştirmeleri amacıyla yapay zekâ odaklı Mikro Yeterlilik Programlarını uygulamaya aldı. Yükseköğretim Kurulunun (YÖK) yetkinlik odaklı dönüşüm vizyonu doğrultusunda örgün eğitimin ardından AÖF öğrencilerine de açılan sistemle, katılımcılara ilgi duydukları alanlarda esnek öğrenme olanakları sunuluyor.
+
+Program kapsamında ölçme ve değerlendirme aşamalarını geçen öğrenciler, kazandıkları yetkinlikleri doğrulanabilir dijital rozetlerle tescilleyebilecek. Dijital cüzdan altyapısında saklanabilen bu rozetler, LinkedIn ve benzeri profesyonel ağlarda paylaşılarak istihdam süreçlerinde referans olarak kullanılabilecek.
+
+Avrupa Kredi Transfer Sistemi (AKTS) ile uyumlu yürütülen eğitimler transkriptlere ve diploma eklerine de yansıtılabilecek. Değerlendirme sınavlarında başarı gösteren öğrenciler, aldıkları mikro yeterlilikler sayesinde ön lisans programlarında 6, lisans programlarında ise 12 AKTS'ye kadar seçmeli ders kredisi elde ederek eğitim yüklerini hafifletebilecek.
+
+Program dahilinde ilk etapta “Yapay Zekâ Araçları ile Ofis Verimliliği”, “Yapay Zekâ Çağında Telif Hukuku ve Dijital İçerik Hakları”, “Veri Okuryazarlığı ve Temel Veri Analizi” ile “Yapay Zekâ ve Habercilik” gibi 1 ila 3 kredi değerindeki çevrim içi dersler erişime açıldı. Önümüzdeki süreçte 4 kredilik derslerin de sisteme dahil edileceği bildirildi. Sürece ilişkin başvuruların "my.anadolu.edu.tr" adresi üzerinden kabul edildiği kaydedildi.
+
+---
+
 ## Mezuniyet Filmiyle 3 Ödül Birden: Anadolu Üniversitesi Mezununa Tebrik
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-17 07:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/h2jq0e9daova2kyy7zfx4ty7)
@@ -451,35 +485,5 @@ Odunpazarı Belediyesi çalışanlarına yönelik sağlık bilgilendirme çalı�
 Belediye Meclis Salonu'nda düzenlenen eğitimde, erken teşhisin hastalıklarla mücadeledeki belirleyici rolü üzerinde duruldu. LÖSEV yetkilileri, katılımcılara hastalıkların erken dönemde tespit edilmesinin tedavi sürecine sağladığı katkıları aktardı.
 
 Seminerde ayrıca belediye personelinin sağlık kontrollerini düzenli yaptırması ve farkındalık düzeyinin artırılması hedeflendi.
-
----
-
-## MEB Duyurdu: Öğretmen Bilgi Servisi'ni Yaklaşık 500 Bin Eğitimci Kullandı
-
-**Eğitim · Türkiye** · 2026-11-16 11:04 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/ogretmen-bilgi-servisi039nden-yaklasik-500-bin-ogretmen-yararlandi/haber/42536/tr)
-
-![](data/images/bcbefe1bad5c8e9a.jpg)
-
-> Millî Eğitim Bakanlığı'nın yerli mesajlaşma platformu üzerinden sunduğu Öğretmen Bilgi Servisi'nden 474 bini aşkın öğretmen, Okul Veli Asistanı'ndan ise yaklaşık 400 bin veli yararlandı.
-
-Millî Eğitim Bakanlığı (MEB), eğitim çalışanları ile velilerin doğru bilgiye güvenli şekilde erişimini sağlamak amacıyla devreye aldığı dijital iletişim araçlarına ilişkin verileri paylaştı. Katılım zorunluluğu bulunmayan Öğretmen Bilgi Servisi'ni (ÖBS) bugüne kadar 474 bin 907 öğretmenin kullandığı bildirildi.
-
-Türk mühendisler tarafından geliştirilen yerli mesajlaşma uygulaması BiP altyapısıyla çalışan sistem, yabancı kaynaklı platformlardan bağımsız bir iletişim ortamı sunuyor. Bakanlık merkez teşkilatı; Türkiye Yüzyılı Maarif Modeli'ne dair duyurular, çalışma takvimleri, yönergeler ve toplantı bilgilerini ÖBS üzerinden doğrudan taşra teşkilatına ve öğretmenlere aktarabiliyor. Uçtan uca şifreleme yönteminin kullanıldığı sistemde, bölge ve grup bazında mesajlaşma ile geri bildirim toplama süreçleri de yürütülebiliyor.
-
-Öte yandan veliler ile okul idaresi arasındaki bağı güçlendirmek için hayata geçirilen Okul Veli Asistanı (OVA) sistemine de ilginin sürdüğü belirtildi. Bugüne kadar 399 bin 944 velinin kullandığı asistan aracılığıyla sınav tarihleri, notlar ve devamsızlık durumları anlık takip edilebiliyor. Veliler ayrıca sistem üzerinden düzenlenen anketlerle Bakanlığa görüş ve önerilerini iletebiliyor.
-
----
-
-## Büyükerşen'in Önerisiyle Başladı: Eskişehir'in Gülen Yüzlerini Fotoğraflıyor
-
-**Kültür-Sanat · Merkez** · 2026-11-16 11:04 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/yilmaz-buyukersenin-tek-cumlesi-hayatini-degistirdi-simdi-eskisehirin-gulen-yuzlerini-topluyor-2465384)
-
-> Köpeğini kaybettikten sonra zor günler geçiren emekli Ali Kaplaner, Yılmaz Büyükerşen'in 'Mutluluğun resmini çek' tavsiyesiyle kentin tebessümlerini ölümsüzleştiriyor.
-
-Eskişehir'de emekli olduktan sonra köpeği "Bal" ile Adalar bölgesinde yürüyüşlere çıkan Ali Kaplaner'in fotoğraf serüveni, vatandaşların köpeğine gösterdiği ilgiyle başladı. Ancak Kaplaner'in hayatında derin iz bırakan köpeği 22 Eylül 2019'da yaşamını yitirdi.
-
-Köpeğinin kaybıyla zor bir döneme giren Kaplaner'in yaşamındaki dönüm noktası, 29 Ekim 2019 tarihinde dönemin Eskişehir Büyükşehir Belediye Başkanı Yılmaz Büyükerşen ile karşılaşması oldu. Büyükerşen'in kendisine ilettiği "Mutluluğun resmini çek" tavsiyesi, Kaplaner için yepyeni bir sayfa açtı.
-
-Bu sözün ardından fotoğraf makinesini eline alarak Eskişehir sokaklarını adım adım gezen Kaplaner, kent sakinlerinin tebessümlerini ve neşeli anlarını fotoğraflamaya başladı. Çektiği kareleri "Bal Gibi Sevgi" adlı sosyal medya hesabı üzerinden paylaşan Kaplaner, sokakta tanıştığı insanlarla birlikte objektifin karşısına geçerek kente dair hatıralar biriktirmeyi sürdürüyor.
 
 ---
