@@ -22,10 +22,10 @@
     "title": "Eskişehirspor'un hedefi 5 maçta 15 puan - İstikbal Gazetesi",
     "url": "https://www.istikbalgazetesi.com/eskisehirsporun-hedefi-5-macta-15-puan"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
