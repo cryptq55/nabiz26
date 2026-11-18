@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 18 Kasım 2026: Gram altın 6.264,04 TL
+
+**Ekonomi · Merkez** · 2026-11-18 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261118.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.175,78 TL'den alınıyor, 6.264,04 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.264,04 TL, alış fiyatı 6.175,78 TL oldu. Gram altın, önceki kapanışa göre yüzde 6,75 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.210 TL, yarım altın 20.413 TL, tam altın 40.677 TL, ata altın 41.764 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.850,58 TL, has altının gram fiyatı 6.245,30 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.787,70 dolardan işlem görürken, dolar/TL 50,53 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Eskişehirspor İç Sahada Yenilgisizliğini Koruyor: 6 Maçta 12 Puan
 
 **Spor · Merkez** · 2026-11-17 17:10 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/eskisehirspor-ic-sahada-6-puan-birakti)
@@ -469,23 +489,5 @@ Yürütülen çalışmadan duyduğu memnuniyeti ifade eden Kayakent Mahalle Muht
 Ziyarete Uyum ve İletişim Grup Başkanı Ali Rıza Beşkat, Göç Uzmanı Ekrem Demir, Eskişehir İl Göç İdaresi Müdür Vekili Özkan Çetin ile İl Göç Uzmanı Gülşan Dolgun da eşlik etti.
 
 Görüşmede göç yönetimi, uyum ve iletişim faaliyetleri kapsamındaki çalışmalar masaya yatırıldı. Üniversite ile göç alanında hayata geçirilebilecek ortak projeler ve iş birliği olanakları değerlendirildi. Rektör Prof. Dr. Adıgüzel, konuklarına teşekkür ederken ziyaret hediye takdimiyle tamamlandı.
-
----
-
-## Erdoğan'dan Üniversiteli Gençlere: 'Bugün Dünyada Artık Türkiye Konuşuluyor'
-
-**Siyaset · Türkiye** · 2026-11-17 05:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-dunyada-artik-turkiye-konusuluyor-963424.html)
-
-![](data/images/32a439d26fbaf0b9.jpg)
-
-> Cumhurbaşkanı Erdoğan, AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda yaptığı konuşmada, Türkiye'nin iç ve dış politikada attığı adımlarla uluslararası alanda öne çıktığını belirtti.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, partisinin Kongre Merkezi'nde düzenlenen AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'na katılarak gençlere hitap etti. Türkiye genelindeki 81 ilde ve 208 üniversitede yürütülen çalışmalara değinen Erdoğan, üniversiteye yeni kayıt yaptıran 450 bin öğrencinin ÜniAK teşkilatına katıldığını ifade etti.
-
-Konuşmasında muhalefet ile aralarında gençliğe bakış konusunda temel bir vizyon farkı bulunduğunu savunan Erdoğan, iktidar olarak gençleri siyasetin nesnesi değil doğrudan aktörü olarak konumlandırdıklarını söyledi. Erdoğan, gençlerin eğitim, teknoloji, kültür ve sanat başta olmak üzere her alanda kendilerini geliştirmeleri adına çalışmalar yürüttüklerini kaydetti.
-
-Türkiye'nin ev sahipliğinde gerçekleşen uluslararası organizasyonlara da değinen Cumhurbaşkanı Erdoğan, Antalya'da düzenlenen COP31 Zirvesi'nde 96 dünya liderinin ağırlandığını hatırlattı. Erdoğan, Türk Devletleri Teşkilatı Zirvesi ve NATO toplantılarının ardından Türkiye'nin bölgesel ve küresel ölçekteki etkinliğinin arttığını, dünyada artık Türkiye'nin hamlelerinin konuşulduğunu ifade etti.
-
-Gençlere özgüven çağrısında bulunan Erdoğan, karşılaşılan ekonomik ve sosyal engellerin hiçbirinin umutsuzluğa yol açacak büyüklükte olmadığını dile getirdi. Geçmişte yaşanan kutuplaşmaların ve 28 Şubat sürecindeki hak gasplarının geride bırakıldığını belirten Erdoğan, gençlerin Türkiye Yüzyılı vizyonunun ana taşıyıcısı olacağını sözlerine ekledi.
 
 ---
