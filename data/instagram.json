@@ -1,6 +1,5 @@
 {
  "stories": [
-  "202610222232-bakan-bayraktar-osman-gazi-platformuyla-dogal-gaz-uretimi-iki-katina-c",
   "202610222232-kadinlar-icin-yapay-zeka-ve-dijital-guclenme-egitimleri-7-pilot-ilde-b",
   "202610222232-eskisehirde-uc-ilcede-tefecilik-operasyonu-4-supheli-gozaltina-alindi",
   "202610222232-beylikovada-adahisar-yalinli-suleymaniye-yolu-21-gun-trafige-kapatilac",
@@ -499,7 +498,8 @@
   "202611171509-eskisehirdeki-5-lisede-patent-ve-marka-seferberligi-universiteliler-eg",
   "202611171709-zorbaliga-karsi-guvenli-tatami-eskisehir-ve-bukresli-cocuklar-judoda-b",
   "202611171709-baskan-unluce-batikent-ve-camlicada-muhtarlar-ve-mahalleliyle-talepler",
-  "202611171709-tarayicidan-kodlama-donemi-anadolu-universitesi-26-bin-ogrenciye-ai-la"
+  "202611171709-tarayicidan-kodlama-donemi-anadolu-universitesi-26-bin-ogrenciye-ai-la",
+  "202611180600-altin-fiyatlari-18-kasim-2026-gram-altin-6-264-04-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -721,16 +721,11 @@
   "202611170908-aofte-mikro-yeterlilik-donemi-alinan-egitimler-12-krediye-kadar-sayila",
   "202611171309-baskan-atac-2030a-kadar-sera-gazi-emisyonunu-yuzde-40-azaltmayi-hedefl",
   "202611171309-tarih-bulvari-ve-albayrak-caddesinde-yagmur-suyu-hatti-tamamlandi",
-  "202611171509-eskisehirdeki-5-lisede-patent-ve-marka-seferberligi-universiteliler-eg"
+  "202611171509-eskisehirdeki-5-lisede-patent-ve-marka-seferberligi-universiteliler-eg",
+  "202611180600-altin-fiyatlari-18-kasim-2026-gram-altin-6-264-04-tl",
+  "202611171709-tarayicidan-kodlama-donemi-anadolu-universitesi-26-bin-ogrenciye-ai-la"
  ],
  "log": [
-  1794856601.0805852,
-  1794858420.5537276,
-  1794858479.762175,
-  1794858494.575174,
-  1794858510.809859,
-  1794863502.9429371,
-  1794863560.1687558,
   1794914001.1595669,
   1794914045.4330406,
   1794914063.4506679,
@@ -739,17 +734,18 @@
   1794921252.9869912,
   1794921271.6107183,
   1794921289.54983,
-  1794928339.797232
+  1794928339.797232,
+  1794981796.3288555,
+  1794981881.771641,
+  1794981898.7941518
  ],
  "reel_log": [
-  1794858420.5537298,
-  1794858479.7621763,
-  1794863502.9429393,
-  1794863560.168758,
   1794914001.1595685,
   1794914045.4330425,
   1794921193.525837,
   1794921252.986993,
-  1794928339.7972338
+  1794928339.7972338,
+  1794981796.328858,
+  1794981881.771643
  ]
 }
