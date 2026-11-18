@@ -2,6 +2,116 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Sivrihisar'a Ücretsiz Nostaljik Tramvay Geliyor: Merkez ile Otogar Arasında Çalışacak
+
+**Ulaşım · Sivrihisar** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.gazetevatan.com/galeri/eskisehirde-bir-ilk-daha-o-ilceye-ucretsiz-tramvay-geliyor-2465649)
+
+> Sivrihisar Belediyesi, ilçe merkezi ile otogar arasında tamamen ücretsiz hizmet verecek nostaljik tramvay projesi için ilk adımı attı.
+
+Eskişehir'in "Sakin Şehir" unvanlı tarihi ilçesi Sivrihisar'da ilçe içi ulaşımı ve turizmi destekleyecek nostaljik tramvay projesi başlatıldı. İlçe merkezi ile otogar hattı arasında sefer yapacak olan tramvaydan hem yöre halkı hem de ilçeye gelen turistler ücretsiz yararlanacak.
+
+Sivrihisar Belediye Başkanı Habil Dökmeci, nostaljik tramvay projesinin hayata geçirilmesi kapsamında Denizli'de üretim yapan bir firma ile temaslara başladı. İlçenin tarihi dokusuna uyumlu şekilde tasarlanması hedeflenen hat için ilçe merkezindeki güzergâh belirleme çalışmaları yürütülüyor.
+
+Yılda 1 milyondan fazla ziyaretçiyi ağırlayan ilçede hizmete girecek tramvayın son durağı Sivrihisar Şehirlerarası Otobüs Terminali olacak. Proje, tarihi sokaklara görsel zenginlik kazandırmanın yanı sıra otogar ile ilçe merkezi arasındaki yolcu taşımacılığını da kolaylaştıracak.
+
+Güzergâh planlaması ve araç teminine yönelik görüşmelerin tamamlanmasının ardından uygulama takvimi netleşecek.
+
+---
+
+## MEB COP31'de Açıkladı: Çevre ve İklim Farkındalığı Aile Okullarına Taşınıyor
+
+**Eğitim · Türkiye** · 2026-11-18 19:10 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop31039de-quotiklim-degisikligine-direncli-toplumlar-icin-egitim-kultur-ve-hayat-boyu-ogrenmequot-paneli-duzenlendi/haber/42571/tr)
+
+![](data/images/82ae20eb480b8727.jpg)
+
+> Millî Eğitim Bakan Yardımcısı Celile Eren Ökten, COP31 panelinde iklim ve çevre bilincinin aile okulları ve halk eğitimi atölyeleriyle kalıcı alışkanlıklara dönüştürülmesini hedeflediklerini bildirdi.
+
+Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) bünyesinde, "İklim Değişikliğine Dirençli Toplumlar İçin Eğitim, Kültür ve Hayat Boyu Öğrenme" başlıklı panel düzenlendi.
+
+Mavi Bölge'deki Türkiye Pavilyonu'nda, Millî Eğitim Bakanlığı uzmanı Burcu Evren'in moderatörlüğünde gerçekleşen oturuma Millî Eğitim Bakan Yardımcısı Celile Eren Ökten, UNESCO Türkiye Millî Komisyonu Yönetim Kurulu Başkanı Mehmet Öcal Oğuz ve ekonomist Şebnem Şahin konuşmacı olarak katıldı.
+
+Panelde konuşan Bakan Yardımcısı Ökten, Türkiye Yüzyılı Maarif Modeli kapsamında sürdürülebilir okuryazarlığa büyük önem verdiklerini ve öğrencilerin çevresel konuları çok boyutlu bakış açısıyla ele aldığını belirtti. Bilgi birikimini eyleme dökmeyi amaçladıklarını vurgulayan Ökten; halk eğitimi merkezlerinde tekstil dikimi ve ileri dönüşüm atölyeleri açıldığını, bu kurslar sayesinde sürdürülebilir malzeme kullanımının günlük yaşamın bir parçası haline gelmesini hedeflediklerini kaydetti.
+
+Eğitim sürecinde en temel unsurun aile kurumu olduğuna dikkati çeken Ökten, ilköğretimden ortaöğretime kadar uzanan aile okulu programlarıyla çevre farkındalığının evlerde yerleşik bir kültüre dönüşmesi için çalışmaların sürdüğünü ifade etti.
+
+---
+
+## KOOP-İŞ Heyetinden ESTÜ Rektörü Prof. Dr. Adnan Özcan'a Tebrik Ziyareti
+
+**Eğitim · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/koop-is-sendikasi-eskisehir-bolge-sorumlusu-erdal-esir-ve-is-yeri-temsilcilerinden-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/93ec494618aaaca2.jpg)
+
+> KOOP-İŞ Sendikası Eskişehir Bölge Sorumlusu Erdal Esir ve heyeti, yeniden rektörlüğe atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
+
+Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a yönelik hayırlı olsun ziyaretleri devam ediyor.
+
+KOOP-İŞ Sendikası Eskişehir Bölge Sorumlusu Erdal Esir ve beraberindeki iş yeri temsilcileri, ESTÜ Rektörlük Ofisinde Prof. Dr. Özcan'ı ziyaret etti. Esir, ikinci dönemine başlayan Özcan'ı tebrik ederek yeni çalışma döneminde başarılar diledi.
+
+Ziyaretten ötürü memnuniyetini dile getiren Rektör Prof. Dr. Adnan Özcan ise nezaketleri ve iyi niyet temennileri dolayısıyla heyete teşekkür etti.
+
+---
+
+## Eskişehirspor Söke Deplasmanına Odaklandı: Hazırlıklar Başladı
+
+**Spor · Merkez** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyagazete.com/haber/eskisehirsporda-soke-1970-sk-maci-hazirliklari-basladi)
+
+> Nesine 3. Lig 2. Grup’ta zirve mücadelesi veren Eskişehirspor, 13. hafta kapsamında deplasmanda oynayacağı Söke 1970 SK maçının antrenmanlarına start verdi.
+
+Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, ligin 13. haftasında deplasmanda konuk olacağı Söke 1970 SK karşılaşmasının hazırlıklarına başladı.
+
+Siyah-kırmızılı kulübün resmî kanallarından yapılan bilgilendirmeye göre, takım 22 Kasım Pazar günü deplasmanda oynanacak kritik müsabaka öncesi antrenman takvimini uygulamaya koydu. Teknik heyet gözetiminde sahaya çıkan futbolcular, zorlu randevudan galibiyetle ayrılmak amacıyla taktik ve kondisyon ağırlıklı çalışmalar gerçekleştirdi.
+
+---
+
+## Eskişehir'de Caz Günleri Coşkusu: Duygu Soylu Jazz Band Dinleyicilerle Buluştu
+
+**Kültür-Sanat · Merkez** · 2026-11-18 19:10 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13571&cat_icerik=1&menu_id=24)
+
+![](data/images/e03c9ad7c19c3608.jpg)
+
+> Eskişehir Büyükşehir Belediyesi tarafından düzenlenen Caz Günleri kapsamında sahne alan Duygu Soylu Jazz Band, sanatseverlere müzik dolu bir akşam yaşattı.
+
+Eskişehir Büyükşehir Belediyesi Caz Günleri etkinlikleri hız kesmeden devam ediyor. Etkinlikler çerçevesinde Sanat ve Kültür Merkezi Opera Sahnesi'nde dinleyicilerin karşısına çıkan Duygu Soylu Jazz Band, geniş repertuvarı ve sahne performansıyla Eskişehirli müzikseverlerden tam not aldı.
+
+Vokalde Duygu Soylu’nun yer aldığı konserde piyanoda Erdem Yörük, saksafonda Serkan Altınok, elektrik basta Buğra Kılıçak, davulda Nedim Ruacan ve gitarda Eylül Biçer sahne aldı. Konserde caz dünyasının klasikleşmiş bestelerinin yanı sıra Brian Alexander Morgan, Stevie Wonder, Antonio Carlos Jobim ve David Foster gibi müzisyenlerin eserleri ile Duygu Soylu’nun "Kara Elmas" albümünden şarkılar seslendirildi.
+
+Konser öncesi müziğinde çeşitliliğin önemine değinen Duygu Soylu, farklı tarzlardan beslenmenin yorumculuğuna önemli katkılar sağladığını belirtti. Büyükşehir Belediyesi Caz Günleri, 1 Aralık 2026 tarihinde Opera Sahnesi'nde gerçekleşecek Çağrı Sertel Trio konseriyle sürecek.
+
+---
+
+## Anadolu Üniversitesi'nde Google Türkiye ile Yapay Zekâ ve Habercilik Eğitimi
+
+**Eğitim · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/trojotopsaj2r40o9tfufk7h)
+
+![](data/images/657654d09461a67d.jpg)
+
+> Anadolu Üniversitesi'nde düzenlenen eğitimde yapay zekâ teknolojilerinin medya sektörüne etkileri ve dijital habercilik araçları ele alındı.
+
+Cumhurbaşkanlığı İletişim Başkanlığı Afyonkarahisar Bölge Müdürlüğü, Anadolu Üniversitesi Stratejik Araştırmalar Merkezi (ANASAM), Basın İlan Kurumu Bursa Bölge Müdürlüğü ve Google Türkiye iş birliğiyle "Dijital Habercilik ve Yapay Zekâ Eğitimi" gerçekleştirildi. Öğrenci Merkezi Yunus Emre Salonu'nda düzenlenen programa Eskişehir basınının yanı sıra çevre illerden medya temsilcileri, akademisyenler ve öğrenciler katıldı.
+
+Eğitimin açılışında konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, gazeteciliğin dijitalleşmeyle birlikte biçim değiştirdiğini belirterek mesleğin özünün gerçeğin peşinden gitmek olduğunu vurguladı. Adıgüzel, yapay zekânın doğru kullanılması durumunda mesleği geliştireceğini, her zaman insan vicdanına ve gözüne ihtiyaç duyulacağını kaydetti. Basın İlan Kurumu Bursa Bölge Müdürü Gökhan Eren de programın hayata geçirilmesinde katkı sunan kurumlara teşekkür etti.
+
+Google Türkiye Eğitim Danışmanı Özgür Mehmet Kütküt tarafından verilen eğitimde; veri odaklı gazetecilik, araştırma, redaksiyon ve haber üretim süreçlerinde yapay zekâ araçlarının kullanımı anlatıldı. Kütküt, üretken yapay zekânın içerik üretiminde önemli bir araç olduğunu ve insan odaklı kaliteli içerik üretiminin hedeflenmesi gerektiğini ifade etti.
+
+Eğitim öncesinde heyet Rektör Adıgüzel'i makamında ziyaret ederken, programın sonunda Rektör Yardımcısı Prof. Dr. Erkan Erdemir tarafından Kütküt'e teşekkür belgesi verildi.
+
+---
+
+## AK Parti Tepebaşı Heyetinden Milletvekili Ayşen Gürcan'a TBMM Ziyareti
+
+**Siyaset · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.medyamidas.com/gundem/serhat-tunc-ve-yonetiminden-aysen-gurcana-tbmm-ziyareti)
+
+> AK Parti Tepebaşı İlçe Başkanı Serhat Tunç ve ilçe yönetimi, AK Parti Eskişehir Milletvekili Ayşen Gürcan'ı TBMM'deki makamında ziyaret ederek ilçedeki çalışmaları değerlendirdi.
+
+AK Parti Tepebaşı İlçe Başkanı Serhat Tunç ve yönetim kurulu üyeleri, AK Parti Eskişehir Milletvekili Prof. Dr. Ayşen Gürcan ile Türkiye Büyük Millet Meclisi'ndeki (TBMM) makamında bir araya geldi.
+
+Ziyarette Tepebaşı'nın güncel ihtiyaçları, ilçede süren projeler ve teşkilatın sahada sürdürdüğü çalışmalar kapsamlı şekilde ele alındı. İlçe gündemine dair karşılıklı fikir alışverişinde bulunuldu.
+
+Ziyaretten duyduğu memnuniyeti dile getiren Milletvekili Ayşen Gürcan, ilçe başkanı ve beraberindeki heyete nazik ziyaretleri ile ilçeye dönük gayretlerinden dolayı teşekkür etti.
+
+---
+
 ## Gençlik ve Spor İl Müdürü Kalın'dan ESTÜ Rektörü Özcan'a Tebrik Ziyareti
 
 **Eğitim · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-genclik-ve-spor-il-muduru-hasan-kalindan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
@@ -375,115 +485,5 @@ Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü bünyesi
 "Beste Formunda Türküler" başlığıyla organize edilen konserde orkestra, Anadolu'nun köklü müzikal mirasını kendine has yorumuyla icra edecek. Farklı enstrümanların ve müzikal deneyimlerin bir araya geleceği gecede türküseverlere zengin bir repertuvar sunulacak.
 
 Yunus Emre Kültür ve Sanat Merkezi'nde düzenlenecek etkinlik, 19 Kasım Perşembe günü saat 19.30'da başlayacak. Müzikseverler konseri ücretsiz olarak takip edebilecek.
-
----
-
-## Eskişehirspor İlk Yarıyı Zirvede Bitirmek İstiyor: 5 Maçta Hedef 15 Puan
-
-**Spor · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.istikbalgazetesi.com/eskisehirsporun-hedefi-5-macta-15-puan)
-
-> TFF 3. Lig'de zirve takibini sürdüren Eskişehirspor, ilk yarının kalan beş haftasında tüm maçları kazanarak liderliği geri almayı hedefliyor.
-
-TFF 3. Lig 2. Grup'un 12. haftasında sahasında Ayvalıkgücü Belediyespor ile 2-2 berabere kalan Eskişehirspor, haftayı 25 puanla ikinci sırada tamamladı. Zirvede 26 puanlı Etimesgut Spor Kulübü yer alırken, aynı puana sahip Gemlik Sümerbey üçüncü sırada bulunuyor. Siyah-kırmızılı ekip, ilk devrenin kalan beş haftasında 15 puan toplayarak yeniden liderlik koltuğuna oturmayı amaçlıyor.
-
-Siyah-kırmızılıların ilk yarı fikstüründe üç deplasman maçı yer alıyor. Eskişehirspor, 22 Kasım'da Söke 1970 deplasmanına konuk olduktan sonra 29 Kasım'da Denizli İdmanyurdu 1959'u Eskişehir'de ağırlayacak. 6 Aralık'ta Karşıyaka ile deplasmanda karşılaşacak olan Kırmızı Şimşekler, 13 Aralık'ta zirve yarışındaki rakiplerinden Gemlik Sümerbey'i konuk edecek. İlk devrenin son maçı ise 20 Aralık'ta Bucaspor 1928 deplasmanında oynanacak.
-
-Lig mücadelesinin ortasında siyah-kırmızılıları Ziraat Türkiye Kupası randevusu da bekliyor. Üçüncü turda Iğdır FK'yı eleyen Eskişehirspor, dördüncü eleme turunda Trendyol 1. Lig ekibi Bodrum FK'ya konuk olacak. 2 Aralık Çarşamba günü saat 15.00'te tek maç eleme usulüyle oynanacak bu karşılaşmayla birlikte Eskişehirspor, sekiz gün içinde ikisi ligde biri kupada olmak üzere üç kritik maça çıkacak.
-
----
-
-## Eskişehir'deki 5 Lisede Patent ve Marka Seferberliği: Üniversiteliler Eğitti
-
-**Eğitim · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/nlkdrmwy60xk36b114tj8nhr)
-
-![](data/images/6357248af74afd93.jpg)
-
-> TÜRKPATENT'in 'IP Öncüleri' projesi kapsamında Anadolu Üniversitesi öğrencileri, Eskişehir'deki liselilere marka, tasarım ve patent haklarını anlattı.
-
-Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından hayata geçirilen "IP Öncüleri" Projesi kapsamında Eskişehir'deki liselerde fikrî ve sınai mülkiyet haklarına yönelik bilgilendirme etkinlikleri düzenlendi. Anadolu Üniversitesi ARİNKOM Teknoloji Transfer Ofisi (TTO) Fikrî Haklar ve Ticarileştirme Koordinatörü Zeynep Can ile TTO Yöneticisi Öğr. Gör. Dr. Rabia Taş’ın mentörlüğünde yürütülen programda üniversite öğrencileri liderlik yaptı.
-
-TÜRKPATENT bünyesindeki eğitimleri başarıyla tamamlayan üniversite öğrencileri Ceyda Tekbaş, Simge Durgut, Gülin Gültekin, Mehmet Kaya Koca, Elen Karataş ve Mervegül Memiş, edindikleri bilgi birikimini lise öğrencilerine aktardı. Çalışmayla gençlerin yenilikçi fikirler üretmesi, bu buluşların korunması ve ticarileştirilmesi konusunda farkındalık oluşturulması amaçlandı.
-
-Eskişehir Borsa İstanbul Fen Lisesi, Eti Sosyal Bilimler Lisesi, Tepebaşı Şehit Mehmet Şengül Fen Lisesi, Eskişehir Anadolu İmam Hatip Lisesi ve Cevat Ülger Uluslararası Anadolu İmam Hatip Lisesi'nde gerçekleştirilen oturumlarda "Marka ve Tasarım" ile "Patent ve Faydalı Model" başlıkları işlendi. Sunumların ardından programa katılan TÜRKPATENT temsilcileri, lise öğrencilerinin mülkiyet haklarına ilişkin merak ettiği soruları yanıtladı.
-
----
-
-## Tarih Bulvarı ve Albayrak Caddesi'nde Yağmur Suyu Hattı Tamamlandı
-
-**Belediye · Merkez** · 2026-11-17 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13569&cat_icerik=1&menu_id=24)
-
-![](data/images/e8019bddce032ea9.jpg)
-
-> Eskişehir'de aşırı yağış risklerine karşı altyapıyı güçlendiren ESKİ, Tarih Bulvarı ve Albayrak Caddesi'ndeki yağmur suyu tahliye hattı çalışmalarını bitirdi.
-
-Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğü (ESKİ), kent genelinde yağmur suyu tahliye kapasitesini artırmak amacıyla yürüttüğü çalışmalara yenilerini ekledi. Bu kapsamda Tarih Bulvarı ve Albayrak Caddesi'nde planlanan yeni yağmur suyu hattının imalatı bitirildi.
-
-Sızdırmazlığı artırmak için entegre contalı beton boruların döşendiği güzergâhta, bakım ve kontrol süreçleri için muayene bacaları yerleştirildi. Yol yüzeyinde biriken suların hatta aktarılması amacıyla yağmur suyu ızgaralarının montajı yapılarak bütünleşik bir drenaj sistemi kuruldu. Çalışmalarla iklim krizine bağlı ani ve yoğun yağışların kent içi ulaşımı olumsuz etkilemesinin önüne geçilmesi hedefleniyor.
-
-Boru döşeme ve altyapı işlemlerinin ardından kazı yapılan noktalarda asfalt serimi gerçekleştirilerek üstyapı onarımları tamamlandı.
-
-Kent genelindeki yatırımların kentin bugünkü ve gelecekteki altyapı gereksinimlerine yanıt verecek şekilde yürütüldüğünü belirten Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, yapılan çalışmalarla hemşehrilerin günlük yaşamının kolaylaştırıldığını ve kentin geleceğine yatırım yapıldığını ifade etti.
-
----
-
-## Rektör Adıgüzel'den SUBÜ'ye Tebrik Ziyareti: Akademik İş Birlikleri Görüşüldü
-
-**Eğitim · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/qyigc976ekw5lb5mflv27a2t)
-
-![](data/images/ef818b0e94c8283a.jpg)
-
-> Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Sakarya Uygulamalı Bilimler Üniversitesi Rektörlüğü'ne atanan Prof. Dr. Zafer Tatlı'yı makamında ziyaret etti.
-
-Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Sakarya Uygulamalı Bilimler Üniversitesi (SUBÜ) Rektörlüğü görevine atanan Prof. Dr. Zafer Tatlı'ya hayırlı olsun ziyaretinde bulundu. Gerçekleşen ziyarete Anadolu Üniversitesi Rektör Danışmanı Prof. Dr. Mustafa Bostancı ile SUBÜ Rektör Yardımcısı Prof. Dr. İsa Vural da eşlik etti.
-
-Ziyarette Rektör Prof. Dr. Yusuf Adıgüzel, mevkidaşı Prof. Dr. Zafer Tatlı'yı yeni görevi dolayısıyla tebrik ederek çalışmalarında başarılar diledi. Görüşme kapsamında iki yükseköğretim kurumu arasındaki bağların güçlendirilmesi, akademik iş birliklerinin artırılması ve ortaklaşa hayata geçirilebilecek projeler ele alındı.
-
-Üniversiteler arası iş birliği mesajlarının verildiği buluşma, karşılıklı hediye takdiminin ardından tamamlandı.
-
----
-
-## Rakip Futbolculardan Eskişehirspor'a Övgü: 'Seyircisiyle Çok Farklı Oluyor'
-
-**Spor · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.milliirade.com/rakipten-eskisehirspora-ovgu)
-
-> Ayvalıkgücü Belediyesporlu futbolcular Atakan Akbulut ve Mehmet Yıkılmazdağ, 2-2 biten maçın ardından Eskişehirspor'un kadro kalitesine ve tribün gücüne dikkat çekti.
-
-Nesine 3. Lig 2. Grup'ta Eskişehirspor ile 2-2 berabere kalan Ayvalıkgücü Belediyespor'da Atakan Akbulut ve Mehmet Yıkılmazdağ, mücadelenin ardından açıklamalarda bulundu. Konuk ekibin 2-0 öne geçtiği ve kırmızı kart sonrası siyah-kırmızılı ekibin skoru dengelediği randevuyu değerlendiren futbolcular, Eskişehirspor camiasına övgü yağdırdı.
-
-Karşılaşmaya iyi hazırlandıklarını belirten Atakan Akbulut, istedikleri başlangıcı yapmalarına karşın kırmızı kartın ardından dengelerin bozulduğunu söyledi. Akbulut, "Bizim için maç çok güzel başladı, galip gelmek istiyorduk. Kırmızı karttan sonra oyun dengemiz bozuldu. Eskişehir büyük bir camia. Taraftar baskısıyla iyi mücadele ettiler. İyi takımın da ayağına sağlık" ifadelerini kullandı.
-
-Eskişehirspor'un ligdeki kadro kalitesine işaret eden Mehmet Yıkılmazdağ ise siyah-kırmızılıların güçlü oyunculardan kurulu olduğunu belirtti. Tribün baskısının maçın kaderini etkilediğini vurgulayan Yıkılmazdağ, "Eskişehirspor bu ligde en kaliteli futbolculara sahip takımlardan biri. Seyirci desteğini de arkasına aldığında çok farklı oluyor" değerlendirmesini yaptı.
-
-Gruptaki şampiyonluk yarışını da ele alan Yıkılmazdağ, ligde puan farklarının açılmasını beklemediğini ve sezon sonunda hak eden tarafın zirveye çıkacağını dile getirdi.
-
----
-
-## ESTÜ COP31'de Sahneye Çıkıyor: 15 Bilimsel Proje Antalya'da Tanıtılacak
-
-**Eğitim · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-cop31de-15-projesiyle-yerini-aliyor)
-
-> Eskişehir Teknik Üniversitesi, sürdürülebilir gelecek hedefiyle geliştirdiği 15 bilimsel projesini Antalya'da düzenlenen COP31 Yeşil Bölge etkinliklerinde uluslararası kamuoyuna sunuyor.
-
-Eskişehir Teknik Üniversitesi (ESTÜ), iklim değişikliği ve çevre teknolojileri odaklı bilimsel çalışmalarını uluslararası platformda sergilemeye hazırlanıyor. Üniversite, Antalya'da gerçekleştirilen COP31 Yeşil Bölge etkinlikleri kapsamında 12 stant projesi ve 3 dijital ekran sunumu olmak üzere toplam 15 çalışmasını katılımcılarla buluşturacak.
-
-Akademisyenler tarafından yürütülen çalışmalar; iklim değişikliğine uyum, çevresel sürdürülebilirlik, döngüsel ekonomi, atık yönetimi, ekolojik planlama, afetlere dirençli kentler, dijital kültürel miras ve iklim okuryazarlığı gibi geniş bir yelpazeyi kapsıyor. Projeler, ESTÜ'nün bilimsel araştırma kapasitesini ve sürdürülebilir kalkınmaya yönelik geliştirdiği yenilikçi çözüm modellerini yansıtıyor.
-
-COP31 Yeşil Bölge kapsamında yer alacak çalışmalar, 18 Kasım 2026 Çarşamba günü 10.00 ile 18.00 saatleri arasında Yeşil Bölge 12 numaralı stantta ziyaret edilebilecek. Dijital formattaki 3 proje ise ortak ekran sunumları üzerinden katılımcıların incelemesine açılacak.
-
----
-
-## Başkan Ataç: 2030'a Kadar Sera Gazı Emisyonunu Yüzde 40 Azaltmayı Hedefliyoruz
-
-**Belediye · Tepebaşı** · 2026-11-17 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanataciklimmucadelesitepebası’ndayıllardırkentyasamınınicinde)
-
-![](data/images/19dede2ba7bb52b2.jpg)
-
-> Tepebaşı Belediye Başkanı Ahmet Ataç, iklim mücadelesinin yerel kararlarla somutlaşacağını belirterek ilçedeki enerji verimliliği ve çevre yatırımlarını anlattı.
-
-Antalya'da devam eden COP31 iklim zirvesi sürecinde değerlendirmelerde bulunan Tepebaşı Belediye Başkanı Ahmet Ataç, çevre ve iklim çalışmalarının dönemsel projelerden çıkarılarak kurumsal bir yapıya dönüştürüldüğünü kaydetti. Ataç, Aralık 2020'de kurulan İklim Değişikliği Müdürlüğü ile Türkiye'deki yerel yönetimlere öncülük ettiklerini ifade etti.
-
-Kuraklık, aşırı sıcaklar ve seller gibi iklim krizinin doğrudan kentleri etkilediğini vurgulayan Ataç, 2013 yılında Belediye Başkanları Sözleşmesi'ne imza attıklarını hatırlattı. Hazırlanan Sürdürülebilir Enerji ve İklim Eylem Planı doğrultusunda hareket ettiklerini belirten Ataç, 2030 yılına kadar sera gazı emisyonlarını yüzde 40 oranında düşürmeyi hedeflediklerini açıkladı.
-
-Mustafa Kemal Atatürk Su Sporları Merkezi ve Melih Savaş Yaşam Köyü gibi tesislerde güneş enerjisinden faydalandıklarını ve su tasarrufu için yağmur suyu hasadı gibi yöntemleri hayata geçirdiklerini aktaran Ataç, ulaşımda ise elektrikli otobüsler, hibrit araçlar ve paylaşımlı bisiklet sistemi ESPEDAL'ın devrede olduğunu bildirdi. Ataç ayrıca İklim Akademi çalışmalarıyla bugüne kadar 117 okulda düzenlenen 182 eğitim sayesinde 16 bin 446 öğrenciye ulaşıldığını kaydetti.
 
 ---
