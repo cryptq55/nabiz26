@@ -97,42 +97,67 @@
    "takip": 0,
    "paylasim": 333,
    "erisim_7g": 26350
+  },
+  {
+   "gun": "2026-11-18",
+   "takipci": 242,
+   "takip": 0,
+   "paylasim": 334,
+   "erisim_7g": 28515
   }
  ],
  "paylasimlar": {
+  "18102770321424771": {
+   "tur": "REELS",
+   "zaman": "2026-11-17T23:50:30+0000",
+   "link": "https://www.instagram.com/reel/Df3JkkUhEpE/",
+   "baslik": "🌙 Eskişehir'de bugün · 18 Kasım Çarşamba",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 115,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 137
+  },
   "18117845765161266": {
    "tur": "REELS",
    "zaman": "2026-11-17T15:12:13+0000",
    "link": "https://www.instagram.com/reel/Df2OTBGhn-M/",
    "baslik": "Eskişehir'deki 5 Lisede Patent ve Marka Seferberliği: Üniversiteliler Eğitti",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 118,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 127
   },
   "18025947110944715": {
    "tur": "REELS",
    "zaman": "2026-11-17T13:58:17+0000",
    "link": "https://www.instagram.com/reel/Df2Fz8Mp48T/",
    "baslik": "🌙 Eskişehir'de bugün · 17 Kasım Salı",
-   "begeni": 4,
+   "begeni": 22,
    "yorum": 0,
-   "reach": 211,
+   "reach": 1416,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 4,
-   "views": 307
+   "shares": 3,
+   "total_interactions": 25,
+   "views": 1613
   },
   "18022702877739128": {
    "tur": "REELS",
    "zaman": "2026-11-17T13:14:05+0000",
    "link": "https://www.instagram.com/reel/Df2AxraKNMH/",
    "baslik": "Tarih Bulvarı ve Albayrak Caddesi'nde Yağmur Suyu Hattı Tamamlandı",
-   "begeni": 3,
-   "yorum": 0,
-   "reach": 268,
-   "saved": 0,
+   "begeni": 7,
+   "yorum": 1,
+   "reach": 1322,
+   "saved": 1,
    "shares": 0,
-   "total_interactions": 3,
-   "views": 358
+   "total_interactions": 9,
+   "views": 1445
   },
   "18108998285330469": {
    "tur": "REELS",
@@ -141,11 +166,11 @@
    "baslik": "Başkan Ataç: 2030'a Kadar Sera Gazı Emisyonunu Yüzde 40 Azaltmayı Hedefliyoruz",
    "begeni": 0,
    "yorum": 0,
-   "reach": 124,
+   "reach": 130,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 127
+   "views": 134
   },
   "17977942593155137": {
    "tur": "REELS",
@@ -154,11 +179,11 @@
    "baslik": "AÖF'te Mikro Yeterlilik Dönemi: Alınan Eğitimler 12 Krediye Kadar Sayılabilecek",
    "begeni": 1,
    "yorum": 0,
-   "reach": 109,
+   "reach": 110,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 113
+   "views": 114
   },
   "18122863484056050": {
    "tur": "REELS",
@@ -167,24 +192,24 @@
    "baslik": "Tepebaşı'nda Yüzme Kayıtları Başlıyor: Başvurular 18-20 Kasım'da Online Yapılacak",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 132,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 133
+   "views": 145
   },
   "18031417475880296": {
    "tur": "REELS",
    "zaman": "2026-11-17T00:45:02+0000",
    "link": "https://www.instagram.com/reel/Df0rB10zTu4/",
    "baslik": "☀️ Günaydın Eskişehir · 17 Kasım Salı",
-   "begeni": 2,
+   "begeni": 5,
    "yorum": 0,
-   "reach": 251,
+   "reach": 327,
    "saved": 1,
    "shares": 0,
-   "total_interactions": 3,
-   "views": 271
+   "total_interactions": 6,
+   "views": 366
   },
   "18132065248699926": {
    "tur": "REELS",
@@ -193,24 +218,24 @@
    "baslik": "Anadolu Üniversitesi'nden Üç Yeni Eser: Arkeolojiden Dans Tarihine Açık Erişimde",
    "begeni": 0,
    "yorum": 0,
-   "reach": 116,
+   "reach": 119,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 124
+   "views": 128
   },
   "18239486167321491": {
    "tur": "REELS",
    "zaman": "2026-11-16T21:11:37+0000",
    "link": "https://www.instagram.com/reel/Df0SoTRJIFj/",
    "baslik": "Otogarda Sıkı Denetim: Sefer Saatleri ve Belgeler İncelendi",
-   "begeni": 5,
+   "begeni": 6,
    "yorum": 1,
-   "reach": 1168,
+   "reach": 1207,
    "saved": 2,
    "shares": 0,
-   "total_interactions": 8,
-   "views": 1345
+   "total_interactions": 9,
+   "views": 1400
   },
   "18092304374701739": {
    "tur": "REELS",
@@ -219,11 +244,11 @@
    "baslik": "Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı",
    "begeni": 2,
    "yorum": 0,
-   "reach": 111,
+   "reach": 114,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 125
+   "views": 127
   },
   "18111434336268504": {
    "tur": "REELS",
@@ -236,7 +261,7 @@
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 151
+   "views": 152
   },
   "18182641594433165": {
    "tur": "REELS",
@@ -258,11 +283,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 16 Kasım Pazartesi",
    "begeni": 24,
    "yorum": 0,
-   "reach": 1524,
+   "reach": 1533,
    "saved": 0,
    "shares": 3,
    "total_interactions": 28,
-   "views": 1747
+   "views": 1753
   },
   "18003701040042845": {
    "tur": "REELS",
@@ -271,11 +296,11 @@
    "baslik": "Odunpazarı'nda İkinci Taksit İçin Süre Daralıyor: Vergi Ödemelerinde Son Gün 30 Kasım",
    "begeni": 1,
    "yorum": 0,
-   "reach": 127,
+   "reach": 128,
    "saved": 0,
    "shares": 2,
    "total_interactions": 3,
-   "views": 149
+   "views": 150
   },
   "18131352583838045": {
    "tur": "REELS",
@@ -297,11 +322,11 @@
    "baslik": "Karayolları İHA ve SİHA Pisti Oluyor: 52 Güzergah Belirlendi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 24,
+   "reach": 26,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 34
+   "views": 37
   },
   "18647221321049382": {
    "tur": "REELS",
@@ -323,11 +348,11 @@
    "baslik": "Kerem Baykuş Eskişehirspor'u Sırtlıyor: 11 Maçta 10 Skora Katkı",
    "begeni": 2,
    "yorum": 0,
-   "reach": 298,
+   "reach": 301,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 334
+   "views": 338
   },
   "18003796598812426": {
    "tur": "REELS",
@@ -340,7 +365,7 @@
    "saved": 1,
    "shares": 0,
    "total_interactions": 14,
-   "views": 1478
+   "views": 1479
   },
   "17925283557221901": {
    "tur": "REELS",
@@ -362,11 +387,11 @@
    "baslik": "14. Uluslararası Eskişehir Şiir Buluşması Sona Erdi: 13 Şair Katıldı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 362,
+   "reach": 363,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 397
+   "views": 398
   },
   "18139791265728689": {
    "tur": "REELS",
@@ -388,11 +413,11 @@
    "baslik": "Senfoni Orkestrası'ndan 'Ateşin Dansı': Oxana Shevchenko Sahne Aldı",
    "begeni": 1,
    "yorum": 0,
-   "reach": 120,
+   "reach": 121,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 134
+   "views": 135
   },
   "17896186263438620": {
    "tur": "REELS",
@@ -414,11 +439,11 @@
    "baslik": "📅 Eskişehir'de bu hafta · 15 Kasım Pazar",
    "begeni": 0,
    "yorum": 0,
-   "reach": 130,
+   "reach": 132,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 147
+   "views": 151
   },
   "18112804895267284": {
    "tur": "FEED",
@@ -427,11 +452,11 @@
    "baslik": "Togg'dan Kasım Kampanyası: 1,5 Milyon Liraya Kadar Sıfır Faiz Fırsatı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 27,
+   "reach": 28,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 58
+   "views": 59
   },
   "17966626797215997": {
    "tur": "REELS",
@@ -466,11 +491,11 @@
    "baslik": "MEB'den 17 Milyon Öğrenciye Ara Tatil Rehberi ve Etkinlik Kitapları",
    "begeni": 0,
    "yorum": 0,
-   "reach": 10,
+   "reach": 12,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 16
+   "views": 18
   },
   "18084422348347442": {
    "tur": "REELS",
