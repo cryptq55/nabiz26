@@ -1,10 +1,5 @@
 {
  "stories": [
-  "202610230032-erdogan-ak-parti-mkykda-fon-surecini-ve-yerel-yonetim-reformunu-ele-al",
-  "202610222332-iyilik-var-gonulluluk-platformuna-bir-ayda-20-bin-kisi-katildi",
-  "202610230032-msb-katardan-eurofighter-tedariki-icin-taslak-sozlesme-bekleniyor",
-  "202610230032-tarsus-belediye-baskani-ali-boltac-chpden-istifa-etti",
-  "202610230032-chp-engelliler-kurulu-ankarada-istisare-toplantisi-yapti",
   "202610230132-adalet-bakani-gurlek-64-dosyada-71-cinayet-faili-mechul-statusunden-ci",
   "202610230132-buyuksehir-anadolu-universitesindeki-bagimlilik-farkindalik-haftasina-",
   "202610230233-meb-ortak-sinav-takvimini-acikladi-bakan-tekin-10-kasim-elestirilerine",
@@ -499,7 +494,12 @@
   "202611181509-milli-mucadelenin-lojistik-kahramani-behic-erkin-eskisehirde-anildi",
   "202611181509-vali-erdinc-yilmazdan-hane-ziyareti-kilic-ailesinin-taleplerini-dinled",
   "202611181509-tepebasi-ile-belcika-arasinda-yeni-ab-projesi-baskan-atac-buyukelciyle",
-  "202611181543-gta-6-bu-gece-turkiyede-oynanabilir-oluyor-playstation-store-fiyati-3-"
+  "202611181543-gta-6-bu-gece-turkiyede-oynanabilir-oluyor-playstation-store-fiyati-3-",
+  "202611181710-cumhurbaskani-erdogan-vatikan-devlet-sekreteri-parolini-kulliyede-kabu",
+  "202611181710-edebiyat-fakultesinde-cost-ve-tubitak-2515-destekleri-anlatildi",
+  "202611181710-cop31de-cocuk-iklim-bildirgesi-yagmur-suyu-ve-enerji-saati-onerisi",
+  "202611181710-genclik-ve-spor-il-muduru-kalindan-estu-rektoru-ozcana-tebrik-ziyareti",
+  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -728,7 +728,8 @@
   "202611181143-yasamkent-aile-destek-merkezinde-hazirliklar-sona-erdi",
   "202611181509-vali-erdinc-yilmazdan-hane-ziyareti-kilic-ailesinin-taleplerini-dinled",
   "202611181509-milli-mucadelenin-lojistik-kahramani-behic-erkin-eskisehirde-anildi",
-  "202611181143-odunpazari-belediyesinden-dort-cocuklu-anneme-destek-eli"
+  "202611181143-odunpazari-belediyesinden-dort-cocuklu-anneme-destek-eli",
+  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s"
  ],
  "log": [
   1794981796.3288555,
@@ -741,7 +742,10 @@
   1795016757.8518724,
   1795016818.7337003,
   1795017263.567157,
-  1795017280.3415728
+  1795017280.3415728,
+  1795022025.979507,
+  1795022044.6402407,
+  1795022062.7192183
  ],
  "reel_log": [
   1794981796.328858,
@@ -749,6 +753,7 @@
   1795014812.8958898,
   1795014960.7178297,
   1795016757.8518753,
-  1795016818.7337031
+  1795016818.7337031,
+  1795022025.9795096
  ]
 }
