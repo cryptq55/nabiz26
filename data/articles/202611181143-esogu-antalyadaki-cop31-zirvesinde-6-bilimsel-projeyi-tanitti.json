@@ -21,10 +21,10 @@
     "title": "ESOGÜ, COP31 Türkiye Programı’na 6 Projeyle Katıldı",
     "url": "https://www.ogu.edu.tr/Web/HaberDetay/2152"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
