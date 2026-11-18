@@ -2,6 +2,70 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Yaşamkent Aile Destek Merkezi'nde Hazırlıklar Sona Erdi
+
+**Gündem · Tepebaşı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yasamkent-aile-destek-merkezinde-incelemelerde-bulundu)
+
+![](data/images/2464d4eb1189b462.jpg)
+
+> Vali Dr. Erdinç Yılmaz, Tepebaşı'nda hizmet vermeye hazırlanan Yaşamkent Aile Destek Merkezi'ni ziyaret ederek incelemelerde bulundu.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, Aşağısöğütönü bölgesindeki Yaşamkent Aile Destek Merkezi'ni ziyaret ederek yürütülen çalışmalarla ilgili yetkililerden bilgi aldı. Ziyaret kapsamında merkezde yer alan spor alanları, etüt merkezi, robotik kodlama sınıfı, çocuk oyun alanları ve gastronomi merkezi tek tek incelendi.
+
+Merkezin Eskişehirlilerin hizmetine sunulmak üzere hazır hâle geldiğini belirten Vali Dr. Erdinç Yılmaz, tesisin ailelere çok yönlü imkânlar sunacağını ifade etti. Vatandaşların ihtiyaç duyabileceği birçok sosyal ve kültürel donatıyı bir arada barındıran merkezin en kısa sürede açılacağı bildirildi.
+
+2011 yılından bu yana Eskişehir Sosyal Yardımlaşma ve Dayanışma Vakfı mülkiyetinde bulunan Aşağısöğütönü Sosyal Konutlar alanındaki sosyal tesis binası, 6 Temmuz 2026 tarihinde imzalanan protokol ile Tepebaşı Sosyal Yardımlaşma ve Dayanışma Vakfına Aile Destek Merkezi olarak kullanılmak üzere 20 yıllığına tahsis edilmişti.
+
+---
+
+## Odunpazarı Belediyesi’nden Dört Çocuklu Anneme Destek Eli
+
+**Belediye · Odunpazarı** · 2026-11-18 11:43 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/dort-cocuguyla-yasam-mucadelesi-veren-kadina-odunpazari-belediyesi-nden-destek)
+
+![](data/images/7b1e7db976cbe353.jpg)
+
+> Odunpazarı Belediyesi, dört çocuğuyla yaşam mücadelesi veren ve ekonomik güçlükler yaşayan 34 yaşındaki G.B.'ye Halk Market aracılığıyla düzenli destek sağlamaya başladı.
+
+Odunpazarı Belediyesi, sosyal belediyecilik çalışmaları kapsamında ihtiyaç sahibi ailelerin yanında olmayı sürdürüyor. Bu kapsamda, eşinden ayrılan ve herhangi bir geliri bulunmayan 34 yaşındaki G.B. ile dört çocuğuna yardım elini uzattı.
+
+Geçmişte yaşadığı sağlık sorunları nedeniyle sol bacağını kaybeden ve kirada yaşayan G.B., protezinin eski olması ve işsizliği nedeniyle çocuklarının geçimini sağlamakta zorlanıyordu. Yaşadığı zorlukların kamuoyuna yansımasının ardından Odunpazarı Belediyesi harekete geçti.
+
+Belediye bünyesindeki Halk Market sosyal destek sistemine dâhil edilen G.B. için Halk Kart çıkarıldı. Bu sayede ailenin Halk Market'teki tüm yardımlardan düzenli olarak yararlanmasının önü açılırken, temel ihtiyaçları doğrultusunda kıyafet yardımı da gerçekleştirildi. Ekipler, ailenin gıda ve temel ihtiyaçlarını karşılamak üzere her ay düzenli yardım ulaştıracak.
+
+---
+
+## ESOGÜ Antalya'daki COP31 Zirvesi'nde 6 Bilimsel Projeyi Tanıttı
+
+**Eğitim · Odunpazarı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2152)
+
+> Eskişehir Osmangazi Üniversitesi, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı'na iklim, çevre ve genetik alanındaki 6 projeyle katıldı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ), Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) Türkiye Programı'na dahil oldu. Üniversite, iklim değişikliği, çevresel sürdürülebilirlik, biyolojik çeşitlilik ve genetik araştırmalar odaklı 6 projeyle programda yer aldı.
+
+Antalya'daki buluşmada ESOGÜ'yü Rektör Danışmanı ve COP31 Koordinatörü Prof. Dr. Hakan Demiral, Eğitim Fakültesi'nden Prof. Dr. Ersin Karademir, Fen Fakültesi'nden Prof. Dr. Özgür Emiroğlu ile Prof. Dr. Arif Kıvrak, Ziraat Fakültesi'nden Prof. Dr. Taki Karslı ve yüksek lisans öğrencisi Yusuf Aktaş temsil etti. Program çerçevesinde akademisyenler farklı disiplinlerdeki çalışmalarını katılımcılarla paylaştı.
+
+Sunulan projeler arasında Prof. Dr. Ersin Karademir'in "İklim Dirençliliği İçin STEM ile Bütünleşik Afet Eğitimi ve Doğa Tabanlı Çözümler" çalışması yer aldı. Prof. Dr. Özgür Emiroğlu ise "Türkiye'de Karasal Alanlarda ve İç Sularda İstilacı Yabancı Tür Tehditlerinin Ele Alınması" ile "Türkiye İç Sularındaki İstilacı Gümüşi Havuz Balığı Popülasyonlarının Genetik Çeşitliliği" başlıklı iki projesini aktardı.
+
+Programda kabul edilen diğer çalışmalar arasında Prof. Dr. Arif Kıvrak'ın "Dijital Yeşil" projesi ile Prof. Dr. Taki Karslı'nın "Denizli ve Gerze Tavuklarında ddRADseq ile Genetik Çeşitlilik ve Seleksiyon İzleri" ve "Ile de France × Anadolu Merinosu Koyunlarında Sıcaklık Stresi Toleransı ve Aday Genler" başlıklı araştırmaları da sunuldu. Konferans boyunca ESOGÜ heyeti, YÖK Genel Kurul Üyesi Prof. Dr. Derviş Karaboğa ile bir araya gelerek yürütülen faaliyetler üzerine görüştü.
+
+---
+
+## Bilecik Şeyh Edebali Üniversitesi Rektörü Kaplancıklı'dan ESTÜ'ye Ziyaret
+
+**Eğitim · Tepebaşı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/bilecik-seyh-edebali-universitesi-rektoru-prof-dr-zafer-asim-kaplanciklidan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/6adc5eb5d1b72e53.jpg)
+
+> Bilecik Şeyh Edebali Üniversitesi Rektörü Prof. Dr. Zafer Asım Kaplancıklı, ESTÜ Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
+
+Bilecik Şeyh Edebali Üniversitesi Rektörü Prof. Dr. Zafer Asım Kaplancıklı, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
+
+Rektörlük ofisinde gerçekleştirilen buluşmada Prof. Dr. Kaplancıklı, Prof. Dr. Özcan'ı tebrik ederek yeni dönemi için başarı dileklerini iletti.
+
+ESTÜ Rektörü Prof. Dr. Adnan Özcan ise konuk rektöre nazik ziyareti ve iyi dilekleri dolayısıyla teşekkür etti.
+
+---
+
 ## Altın fiyatları 18 Kasım 2026: Gram altın 6.264,04 TL
 
 **Ekonomi · Merkez** · 2026-11-18 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -421,73 +485,5 @@ Dokuz ana bölümden oluşan çalışmada; öğrenci, öğretmen ve derslik say�
 Eğitimde fırsat eşitliği başlığı altında ücretsiz ders kitabı dağıtımı, taşımalı eğitim, bursluluk ve destekleme kurslarına değinilen eserde; FATİH Projesi, etkileşimli tahtalar ve dijital eğitim platformlarındaki teknolojik altyapı adımları özetlendi. Eserde ayrıca TIMSS ve PISA sonuçları ışığında Türkiye'nin uluslararası eğitim göstergelerindeki performansına yer verildi.
 
 Kitabın sunuş yazısını kaleme alan Millî Eğitim Bakanı Yusuf Tekin, köklü birikimle geleceğin harmanlandığını belirterek, Türkiye Yüzyılı Maarif Modeli ile teoriden pratiğe aktarılan ve insanı merkeze alan esnek bir eğitim yapısının hedeflendiğini ifade etti.
-
----
-
-## Eskişehirspor Kadın Futbol Takımı Tekirdağ GSK'yı 2-1 Mağlup Etti
-
-**Spor · Tepebaşı** · 2026-11-17 07:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gzt26.com/maddi-imkansizliklarla-da-mucadele-eden-eskisehirspor-kadin-futbol-takimindan-onemli-galibiyet)
-
-![](data/images/a16b9a7b292dfc7e.jpg)
-
-> Kadınlar 2. Lig'de mücadele eden Eskişehirspor Kadın Futbol Takımı, sahasında ağırladığı Tekirdağ GSK'yı 2-1 yenerek üç puanı hanesine yazdırdı.
-
-Kadınlar 2. Lig'in 3. haftasında Eskişehirspor Kadın Futbol Takımı, Behiç Erkin Spor Kompleksi'nde Tekirdağ GSK ile karşılaştı. Maddi imkânsızlıklara rağmen sahaya galibiyet parolasıyla çıkan siyah-kırmızılı ekip, zorlu mücadeleden üstünlükle ayrılmayı başardı.
-
-Karşılaşmada Eskişehirspor'a galibiyeti getiren golleri Esin Demirtürk ve Eylül Naz Kurt kaydetti. Konuk ekip Tekirdağ GSK'nın tek golüne rağmen skor üstünlüğünü maçın son düdüğüne kadar koruyan ev sahibi ekip, sahadan 2-1'lik skorla galip ayrıldı.
-
-Ligin üçüncü haftasını kayıpsız geçen ve puanını artıran siyah-kırmızılı ekipte, maç sonu futbolcular ve teknik heyet galibiyet sevincini birlikte yaşadı. Eskişehirspor Kadın Futbol Takımı, gelecek haftalarda da çıkışını sürdürerek üst sıralara tırmanmayı hedefliyor.
-
----
-
-## Altın fiyatları 17 Kasım 2026: Gram altın 6.370,23 TL
-
-**Ekonomi · Merkez** · 2026-11-17 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261117.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.293,65 TL'den alınıyor, 6.370,23 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.370,23 TL, alış fiyatı 6.293,65 TL oldu. Gram altın, önceki kapanışa göre yüzde 5,17 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.383 TL, yarım altın 20.759 TL, tam altın 41.366 TL, ata altın 42.471 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.950,11 TL, has altının gram fiyatı 6.351,18 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.880,50 dolardan işlem görürken, dolar/TL 50,51 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Günyüzü Kayakent'te 2 Kilometrelik Su Terfi Hattı Yenilendi
-
-**Belediye · Günyüzü** · 2026-11-17 05:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13562&cat_icerik=1&menu_id=24)
-
-![](data/images/1ebe5041136faf58.jpg)
-
-> ESKİ, Günyüzü ilçesine bağlı Kayakent Mahallesi Topal Yayla mevkisinde ekonomik ömrünü tamamlayan yaklaşık 2 kilometrelik içme suyu terfi hattını baştan sona yeniledi.
-
-Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ) Genel Müdürlüğü, kırsal mahallelerde içme ve kullanma suyu altyapısını güçlendirmeye yönelik çalışmalarına devam ediyor. Bu kapsamda Günyüzü ilçesi Kayakent Mahallesi Topal Yayla mevkisindeki su iletim altyapısı kapsamlı bir çalışmayla yenilendi.
-
-Türbe Caddesi Topal Yayla mevkisinde yürütülen çalışmalarda, bölgedeki kuyudan su deposuna iletim sağlayan ve kullanım ömrünü tamamlamış olan yaklaşık 2 kilometrelik terfi hattı yenilendi. İmalat işlemlerinin tamamlanmasıyla birlikte su iletim sisteminin güvenilirliği artırılarak olası arızaların önüne geçildi.
-
-Yürütülen çalışmadan duyduğu memnuniyeti ifade eden Kayakent Mahalle Muhtarı Fatih Olçay, suyun yaklaşık 17 kilometre uzaklıktan ulaştığını ve hat üzerinde sık sık yaşanan arızaların yıllardır mağduriyete yol açtığını aktardı. Taleplerini değerlendirerek sorunu çözen Büyükşehir Belediye Başkanı Ayşe Ünlüce'ye ve ESKİ ekiplerine teşekkür eden Olçay, hattın yenilenmesiyle mahallede önemli bir ihtiyacın karşılandığını vurguladı.
-
----
-
-## Göç İdaresi Heyetinden Anadolu Üniversitesi Rektörü Adıgüzel'e Ziyaret
-
-**Eğitim · Tepebaşı** · 2026-11-17 05:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/uy1yzj33k92434w1a2lrtvmm)
-
-![](data/images/920ef465d01848f9.jpg)
-
-> Göç İdaresi Başkanlığı heyeti, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'i ziyaret ederek göç yönetimi ve ortak projeler üzerine görüştü.
-
-İçişleri Bakanlığı Göç İdaresi Başkanlığı Uyum ve İletişim Genel Müdürü Ahmet Dalkıran ve beraberindeki heyet, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'e makamında ziyarette bulundu.
-
-Ziyarete Uyum ve İletişim Grup Başkanı Ali Rıza Beşkat, Göç Uzmanı Ekrem Demir, Eskişehir İl Göç İdaresi Müdür Vekili Özkan Çetin ile İl Göç Uzmanı Gülşan Dolgun da eşlik etti.
-
-Görüşmede göç yönetimi, uyum ve iletişim faaliyetleri kapsamındaki çalışmalar masaya yatırıldı. Üniversite ile göç alanında hayata geçirilebilecek ortak projeler ve iş birliği olanakları değerlendirildi. Rektör Prof. Dr. Adıgüzel, konuklarına teşekkür ederken ziyaret hediye takdimiyle tamamlandı.
 
 ---
