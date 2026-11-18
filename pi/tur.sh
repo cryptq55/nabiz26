@@ -22,8 +22,10 @@ git fetch -q origin main && git reset -q --hard origin/main && git clean -fdq da
 echo "newsbot çıkış kodu: $?"
 
 git add data SON_HABERLER.md
-if git diff --cached --quiet; then
-  echo "Yeni kayıt yok."
+if git diff --cached --quiet -- data/articles; then
+  # Haber yazılmadıysa indirilen fotoğraflar depoya girmesin (seen.json da gönderilmez: kaynaklar sonraki tura kalır)
+  git reset -q --hard origin/main
+  echo "Yeni haber yok, gönderilmedi."
 else
   git -c user.name="nabiz26-pi" -c user.email="nabiz26-pi@users.noreply.github.com" commit -q -m "Haber turu (Pi masası)"
   for i in 1 2 3; do

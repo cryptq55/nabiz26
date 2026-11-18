@@ -51,13 +51,6 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - name: CLIProxy özel ağına bağlan
-        if: vars.TS_CLIENT_ID != '' && (inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3))
-        uses: tailscale/github-action@v4
-        with:
-          oauth-client-id: ${{ vars.TS_CLIENT_ID }}
-          audience: ${{ vars.TS_AUDIENCE }}
-          tags: tag:nabiz26-ci
       - name: Yedek haber masası
         shell: bash
         if: inputs.zorla || (steps.durum.outputs.gunduz == '1' && fromJSON(steps.durum.outputs.saat) >= 3)
@@ -65,9 +58,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_MODEL: claude-sonnet-5-5
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # Anthropic kredisi yoksa ücretsiz Gemini ile yazar
-          NEWS_API_BASE: ${{ vars.NEWS_API_BASE }}
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          NEWS_API_MODEL: ${{ vars.NEWS_API_MODEL }}
+          # Pi'deki proxy internete kapalı (Funnel kapatıldı): yedek masa doğrudan ücretsiz Gemini kullanır
         run: |
           pip install -q -r requirements.txt
           before=$(ls data/articles | wc -l)
