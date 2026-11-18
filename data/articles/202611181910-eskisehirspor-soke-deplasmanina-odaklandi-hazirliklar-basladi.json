@@ -21,10 +21,10 @@
     "title": "Eskişehirspor’da Söke 1970 SK maçı hazırlıkları başladı - Medya Gazete",
     "url": "https://www.medyagazete.com/haber/eskisehirsporda-soke-1970-sk-maci-hazirliklari-basladi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

@@ -22,10 +22,10 @@
     "title": "Serhat Tunç ve Yönetiminden Ayşen Gürcan’a TBMM Ziyareti - Medya Midas",
     "url": "https://www.medyamidas.com/gundem/serhat-tunc-ve-yonetiminden-aysen-gurcana-tbmm-ziyareti"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ayşen Gürcan"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

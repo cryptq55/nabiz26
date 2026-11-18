@@ -21,10 +21,10 @@
     "title": "Eskişehir'de bir ilk daha: O ilçeye ücretsiz tramvay geliyor! - Gazete Vatan",
     "url": "https://www.gazetevatan.com/galeri/eskisehirde-bir-ilk-daha-o-ilceye-ucretsiz-tramvay-geliyor-2465649"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Sivrihisar"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
