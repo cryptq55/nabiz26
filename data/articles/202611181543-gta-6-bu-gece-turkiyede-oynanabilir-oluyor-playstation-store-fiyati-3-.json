@@ -14,18 +14,17 @@
   ],
   "importance": 4,
   "reel": true,
-  "published_at": "2026-11-18T15:43:31.349647+00:00",
+  "published_at": "2026-11-18T15:44:03.212850+00:00",
   "status": "published",
   "source": {
     "name": "Xbox / PlayStation Store Türkiye",
     "title": "Grand Theft Auto VI: Coming November 19, 2026",
     "url": "https://www.xbox.com/en-US/games/grand-theft-auto-vi"
   },
-  "photo_pending": {
-    "query": [
-      "Rockstar North",
-      "Rockstar Games"
-    ],
-    "tries": 0
+  "image": {
+    "file": "images/gta-6-bu-gece-turkiyede-oynanabilir-oluyor-play-arsiv.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Biggest_Rockstar_Games_fan_ever_-_Flickr_-_Sergey_Galyonkin.jpg",
+    "archive": true,
+    "credit": "Sergey Galyonkin from Kyiv, Ukraine / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }
