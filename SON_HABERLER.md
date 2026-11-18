@@ -2,6 +2,102 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Gençlik ve Spor İl Müdürü Kalın'dan ESTÜ Rektörü Özcan'a Tebrik Ziyareti
+
+**Eğitim · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-genclik-ve-spor-il-muduru-hasan-kalindan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/3d51a4fff05347e5.jpg)
+
+> Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, ESTÜ Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
+
+Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, 6 Kasım 2026 tarihli Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden getirilen Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
+
+Rektörlük ofisinde gerçekleşen görüşmede İl Müdürü Kalın, Prof. Dr. Özcan'ı ikinci dönem rektörlük görevi dolayısıyla tebrik ederek yeni çalışma döneminde başarılar diledi.
+
+Ziyaretten duyduğu memnuniyeti ifade eden ESTÜ Rektörü Prof. Dr. Adnan Özcan ise nazik tebriki ve temennileri için Kalın'a teşekkür etti.
+
+---
+
+## Eskişehir'in Simgesi 'Dedikoducu Kadınlar' Heykeline ve Banklara Çirkin Saldırı
+
+**Gündem · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13572&cat_icerik=1&menu_id=24)
+
+![](data/images/6dba28c7a6b65f37.jpg)
+
+> İsmet İnönü 1 Caddesi'ndeki 'Dedikoducu Kadınlar' heykeli ile çevresindeki banklar kimliği belirsiz kişi ya da kişilerce tahrip edildi.
+
+Eskişehir Büyükşehir Belediyesi tarafından yıllar önce İsmet İnönü 1 Caddesi'ne yerleştirilen ve kentin simgelerinden biri haline gelen "Dedikoducu Kadınlar" heykeli saldırıya uğradı. Kimliği henüz belirlenemeyen kişi veya kişiler, heykelin yanı sıra cadde üzerindeki bankları da kırarak kamu malına zarar verdi.
+
+Kentin ortak kullanım alanlarında yaşanan tahribat çevredekilerin tepkisine yol açarken, olayın sorumlularının tespit edilmesi için bölgedeki güvenlik kamerası kayıtları incelemeye alındı.
+
+Eskişehir Büyükşehir Belediyesi tarafından yapılan açıklamada, ortak yaşam alanları ve sanat eserlerine sahip çıkılması gerektiği vurgulandı. Açıklamada, "Yılların emeğiyle güzelleşen, sanatla ve kültürle değer kazanan Eskişehir’in simgelerini korumak hepimizin görevi. Unutulmamalı ki bu kent hepimizin; sokakları, parkları, heykelleri ve banklarıyla hepimize emanet" ifadelerine yer verildi.
+
+---
+
+## Edebiyat Fakültesinde COST ve TÜBİTAK 2515 Destekleri Anlatıldı
+
+**Eğitim · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/pd3b40lzodypkoco7u6k4kbo)
+
+![](data/images/117f81468f1cdf7e.jpg)
+
+> Anadolu Üniversitesi Edebiyat Fakültesi'nde düzenlenen toplantıda, akademisyenlere uluslararası araştırma ağları COST ve TÜBİTAK 2515 programının detayları aktarıldı.
+
+Anadolu Üniversitesi Edebiyat Fakültesi Ar-Ge Birimi koordinasyonunda, fakültede görev yapan öğretim elemanlarına yönelik "COST Aksiyonları ve TÜBİTAK 2515 – COST Aksiyon Üyeleri Ar-Ge Destek Programı" bilgilendirme toplantısı düzenlendi. Etkinlikte ARİNKOM Teknoloji Transfer Ofisi Yöneticisi Öğr. Gör. Dr. Rabia Taş, uluslararası araştırma iş birliği fırsatları ve sunulan destekler hakkında sunum yaptı.
+
+Toplantıda, Avrupa Bilim ve Teknolojide İş Birliği (COST) çerçevesinde oluşturulan uluslararası araştırma ağlarının yapısı ve araştırmacılara sağladığı imkanlar ele alındı. Aksiyonlara katılım şartları, mevcut çalışma ağlarına dahil olma yöntemleri ile Yönetim Komitesi ve Çalışma Grubu üyelik süreçleri hakkında katılımcılara bilgi verildi.
+
+Programın devamında, COST Aksiyonlarında yer alan araştırmacıların ulusal düzeydeki projelerini destekleyen TÜBİTAK 2515 programının başvuru koşulları ve uygunluk kriterleri değerlendirildi. Uluslararası ortaklıkların ve disiplinler arası çalışmaların öneminin vurgulandığı toplantı, akademisyenlerin sorularının yanıtlanmasıyla tamamlandı.
+
+---
+
+## Cumhurbaşkanı Erdoğan, Vatikan Devlet Sekreteri Parolin'i Külliye'de Kabul Etti
+
+**Siyaset · Türkiye** · 2026-11-18 17:10 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-vatikan-devlet-sekreteri-parolini-kabul-etti-18-11-26)
+
+![](data/images/55de9a77346b1a7c.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Vatikan Devlet Sekreteri Kardinal Pietro Parolin ile Cumhurbaşkanlığı Külliyesi'nde bir araya geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Vatikan Devlet Sekreteri Kardinal Pietro Parolin'i Cumhurbaşkanlığı Külliyesi'nde kabul etti.
+
+Gerçekleştirilen kabulde Dışişleri Bakanı Hakan Fidan ile Vatikan Büyükelçisi Fahrettin Altun da hazır bulundu.
+
+---
+
+## COP31'de 'Çocuk İklim Bildirgesi': Yağmur Suyu ve Enerji Saati Önerisi
+
+**Eğitim · Türkiye** · 2026-11-18 17:10 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotcocuk-iklim-zirvesiquotnde-ogrencilerin-iklim-ve-cevre-sorunlarina-iliskin-cozum-onerileri-sunuldu/haber/42575/tr)
+
+![](data/images/b64a195a530e0e42.jpg)
+
+> Antalya'da düzenlenen COP31 zirvesinde bir araya gelen öğrenciler, 34 ilde hazırlanan Türkiye Çocuk İklim Bildirgesi'ni kamuoyuna sundu.
+
+Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde kurulan Türkiye İklim Okulu, Çocuk İklim Zirvesi'ne ev sahipliği yaptı. Millî Eğitim Bakan Yardımcısı Celile Eren Ökten'in katılımıyla düzenlenen etkinlikte, öğrencilerin çevre krizine yönelik çözüm önerilerini içeren bildirge paylaşıldı.
+
+Bakan Yardımcısı Ökten, maarif ailesinin tüm paydaşlarıyla dayanışma içinde yürütülen projelerin geleceğe katkı sunduğunu ifade etti. Öğretmenlerin azim ve rehberliğiyle milli ve manevi değerlerine bağlı, çevre bilinci gelişmiş nesillerin yetiştiğini kaydetti.
+
+Zirvede sunulan "Türkiye Çocuk İklim Bildirgesi", 34 ilde ilkokul 4. sınıf ile ortaokul 7 ve 8. sınıf öğrencilerinin yürüttüğü tematik atölye çalışmaları sonucunda oluşturuldu. Bildirgede okullarda ve kamu binalarında yağmur suyunun depolanması, öğle aralarında cihazların kapatıldığı bir "Enerji Saati" uygulanması, okul ormanlarının kurulması ve her okulda öğrencilerin söz sahibi olacağı Çocuk İklim Meclislerinin teşkil edilmesi gibi somut adımlar yer aldı.
+
+---
+
+## GTA 6 bu gece Türkiye'de oynanabilir oluyor: PlayStation Store fiyatı 3.999 TL
+
+**Türkiye · Türkiye** · 2026-11-18 15:47 UTC · Kaynak: [Xbox / PlayStation Store Türkiye](https://www.xbox.com/en-US/games/grand-theft-auto-vi)
+
+![](data/images/gta-6-bu-gece-turkiyede-oynanabilir-oluyor-play-arsiv.jpg)
+
+> Rockstar Games'in Grand Theft Auto VI oyunu 19 Kasım'da PlayStation 5 ve Xbox Series X|S için çıkıyor. Oyunun Türkiye'de gece 00.00'da erişime açılması bekleniyor.
+
+Rockstar Games'in merakla beklenen oyunu Grand Theft Auto VI (GTA 6), 19 Kasım 2026 Perşembe günü PlayStation 5 ve Xbox Series X|S için satışa çıkıyor. Şirket çıkış tarihini 6 Kasım 2025'te açıklamıştı.
+
+Oyun her bölgede yerel saatle gece yarısı açılıyor. Bu nedenle ilk olarak Yeni Zelanda'daki oyuncuların erişimine açıldı. Türkiye'de ise oyunun 19 Kasım saat 00.00'da oynanabilir olması bekleniyor. Ön sipariş verenler oyunu önceden indirebiliyor ancak erişim saatinden önce açamıyor.
+
+PlayStation Store Türkiye'de oyunun dijital Standard Edition sürümü 3.999 TL, Ultimate Edition sürümü ise 4.999 TL'den listeleniyor. Dijital ön sipariş verenlere bir aylık GTA+ üyeliği ve Vintage Vice City paketi veriliyor.
+
+Oyunun bilgisayar (PC) sürümü ve çevrim içi modu GTA Online için henüz bir tarih açıklanmadı.
+
+---
+
 ## Vali Erdinç Yılmaz'dan Hane Ziyareti: Kılıç Ailesinin Taleplerini Dinledi
 
 **Gündem · Merkez** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hane-ziyaretleri-kapsaminda-fatma-kilic-ve-kizi-ayse-kilici-evlerinde-ziyaret-etti)
@@ -389,97 +485,5 @@ Antalya'da devam eden COP31 iklim zirvesi sürecinde değerlendirmelerde bulunan
 Kuraklık, aşırı sıcaklar ve seller gibi iklim krizinin doğrudan kentleri etkilediğini vurgulayan Ataç, 2013 yılında Belediye Başkanları Sözleşmesi'ne imza attıklarını hatırlattı. Hazırlanan Sürdürülebilir Enerji ve İklim Eylem Planı doğrultusunda hareket ettiklerini belirten Ataç, 2030 yılına kadar sera gazı emisyonlarını yüzde 40 oranında düşürmeyi hedeflediklerini açıkladı.
 
 Mustafa Kemal Atatürk Su Sporları Merkezi ve Melih Savaş Yaşam Köyü gibi tesislerde güneş enerjisinden faydalandıklarını ve su tasarrufu için yağmur suyu hasadı gibi yöntemleri hayata geçirdiklerini aktaran Ataç, ulaşımda ise elektrikli otobüsler, hibrit araçlar ve paylaşımlı bisiklet sistemi ESPEDAL'ın devrede olduğunu bildirdi. Ataç ayrıca İklim Akademi çalışmalarıyla bugüne kadar 117 okulda düzenlenen 182 eğitim sayesinde 16 bin 446 öğrenciye ulaşıldığını kaydetti.
-
----
-
-## Bakan Göktaş'tan Dijital Güvenlik Çağrısı: 'Teknoloji Şirketleri Sorumluluk Almalı'
-
-**Türkiye · Türkiye** · 2026-11-17 13:09 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/bakanimiz-mahinur-ozdemir-goktas-singapur-da-asya-aile-konferansi-nda-konustu/)
-
-![](data/images/6a5b5a5f6f1349e1.jpg)
-
-> Singapur'daki Asya Aile Konferansı'nda konuşan Bakan Mahinur Özdemir Göktaş, çocukların dijital dünyada korunmasında teknoloji şirketlerinin aktif rol üstlenmesi gerektiğini vurguladı.
-
-Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Singapur’da gerçekleştirilen Asya Aile Konferansı kapsamındaki "Çocukları ve Aileleri Desteklemeye Yönelik Ulusal Yaklaşımlar" oturumunda hitap etti. Konferansın "Güçlenen Aileler, Gelişen Çocuklar" temasıyla toplandığını aktaran Bakan Göktaş, bu yaklaşımın Türkiye'deki sosyal politikalara da temel oluşturduğunu belirtti.
-
-Dijital platformların sınır tanımaksızın çocuklara ulaştığına dikkat çeken Göktaş, çocukların güvenliğini sağlamanın ortak bir sorumluluk olduğunu ifade etti. Türkiye'de 1 Kasım'da yürürlüğe giren sosyal medya düzenlemesine değinen Bakan Göktaş, söz konusu adımla platformların 15 yaşından küçük çocuklara hizmet sunmasının engellendiğini, 15-17 yaş grubuna ise yaşa uygun koruyucu tedbirler getirildiğini hatırlattı. Göktaş, uluslararası alanda teknoloji şirketlerinin sorumluluklarının netleştirilmesi için Asya ülkeleriyle iş birliğine açık olduklarını kaydetti.
-
-Demografik değişimlere de değinen Bakan Göktaş, doğurganlık oranlarının azalması ve yaşlı nüfusun artmasının getirdiği risklere karşı 2026-2035 döneminin "Aile ve Nüfus On Yılı" ilan edildiğini aktardı. Bakanlık bünyesinde geliştirilen Sosyal Risk Haritaları sayesinde hane düzeyinde analizler yürütüldüğünü bildiren Göktaş, Aile Endeksi ve Türkiye Aile Yapısı Araştırması gibi çalışmalarla süreçlerin yakından izlendiğini sözlerine ekledi.
-
----
-
-## 23. Film Festivali'nde Onur Ödülleri Feyzi Tuna ve Nilüfer Aydan'a Verilecek
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-17 11:10 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.hurriyet.com.tr/yazarlar/gozde-hatunoglu/haftanin-kultur-sanat-ajandasi-43381119)
-
-> 19-27 Kasım tarihlerinde düzenlenecek 23. Eskişehir Uluslararası Film Festivali'nde onur ödülleri usta yönetmen Feyzi Tuna ile oyuncu Nilüfer Aydan'a sunulacak.
-
-Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi İletişim Bilimleri Fakültesi tarafından düzenlenen 23. Eskişehir Uluslararası Film Festivali, 19-27 Kasım 2026 tarihleri arasında sinemaseverlerle buluşuyor. Festivalin açılışı, 19 Kasım'da Sinema Anadolu'da yapılacak tören ve yönetmenliğini Morgan Matthews'un üstlendiği "500 Mil" filminin Türkiye prömiyeriyle gerçekleştirilecek.
-
-Festival kapsamında bu yılki onur ödülleri, Türk sinemasına önemli yapıtlar kazandıran yönetmen Feyzi Tuna ile 100'ü aşkın filmde rol alan usta oyuncu Nilüfer Aydan'a takdim edilecek. Emek ödüllerinin sahipleri ise yönetmen ve yapımcı Biket İlhan ile sinema ses çalışmaları ve yapımcılığıyla tanınan Necip Sarıcı olacak.
-
-Görsel teması Jean-Luc Godard'ın sözünden ilhamla "Sinemada hareket" olarak belirlenen etkinlikte, 34 ülkeden 37 uzun metraj ve 18 kısa metraj yapım yer alıyor. Gösterimlerin yanı sıra usta sinemacıların katılımıyla söyleşiler ve sinema dersleri de festival programında yer bulacak.
-
----
-
-## Tepebaşı'nda Yüzme Kayıtları Başlıyor: Başvurular 18-20 Kasım'da Online Yapılacak
-
-**Spor · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndayuzmeprogramlarıicinkayıtlarbaslıyor)
-
-![](data/images/d004322fbb909097.jpg)
-
-> Tepebaşı Belediyesi Su Sporları Merkezi'nde çocuk ve yetişkinlere yönelik yeni dönem yüzme programları için online kayıtlar 18 Kasım'da açılıyor.
-
-Tepebaşı Belediyesi Mustafa Kemal Atatürk Spor Tesisleri Su Sporları Merkezi, farklı yaş gruplarına yönelik yüzme eğitimleri için kapılarını açıyor. Çocuk ve yetişkinleri su sporlarıyla buluşturacak yeni dönem programları için başvurular 18 Kasım Çarşamba günü başlayıp 20 Kasım Cuma günü sona erecek.
-
-Eğitimler kapsamında 6-17 yaş grubundaki çocuklara temel ve ileri düzey yüzme kursları verilecek. 18 yaş ve üzeri yetişkinler ise yüzme eğitiminin yanı sıra serbest yüzme saatleri ve su jimnastiği branşlarından faydalanabilecek.
-
-Kontenjanların sınırlı tutulduğu yüzme programlarında dersler 24 Kasım Salı günü başlayacak. Başvuruların belediyenin tesis.tepebasi.bel.tr internet adresi üzerinden alınacağı, detaylı bilgi edinmek isteyenlerin 0222 310 39 45 numaralı hattı arayabileceği bildirildi.
-
----
-
-## Odunpazarı Sanat Merkezi'nde Resim Mesaisi: 104 Kursiyer Tuval Başına Geçti
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-17 11:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.karsmanset.com/service/amp/haber/odunpazari-sanat-merkezinde-104-kisi-resim-ogreniyor-1829168.htm)
-
-> Odunpazarı Sanat Merkezi'nde haftanın beş günü düzenlenen resim kursu, farklı yaş gruplarından 104 kursiyerin katılımıyla devam ediyor.
-
-Odunpazarı Belediyesi bünyesinde faaliyetlerini sürdüren Odunpazarı Sanat Merkezi'nde (OSM) açılan resim eğitimi yoğun ilgi görüyor. Sanat eğitimini kentin geneline yaymayı hedefleyen çalışma kapsamında 104 kursiyer atölye çalışmalarına katılıyor.
-
-Eğitmen Melek Tan yönetiminde sürdürülen dersler pazar ve pazartesi günleri dışında haftanın beş günü gerçekleştiriliyor. Katılımcılar eğitim sürecinde resim sanatının temel tekniklerini uygulayarak kendi sanatsal becerilerini geliştirme imkânı buluyor.
-
-Farklı yaş ve tecrübe düzeyinden yurttaşları bir araya getiren kurs programı, kursiyerlere hem kendilerini ifade edebilecekleri sanatsal bir alan hem de üretmenin keyfini yaşayabilecekleri bir ortam sunuyor.
-
----
-
-## Kaligrafi ve Tipografide Atölye Heyecanı: Çalıştaylar Cuma Gününe Kadar Sürecek
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fdeml5ogqoy921ryzvtn6cqb)
-
-![](data/images/32d29d852ef055f6.jpg)
-
-> Anadolu Üniversitesi Güzel Sanatlar Fakültesi tarafından düzenlenen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında akademisyen ve sanatçıların katıldığı uygulamalı çalıştaylar başladı.
-
-Anadolu Üniversitesi Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü ev sahipliğinde gerçekleştirilen 18. Uluslararası Anadolu Kaligrafi ve Tipografi Festivali kapsamında düzenlenen çalıştaylar, akademisyenleri, sanatçıları ve öğrencileri bir araya getirdi. Süleyman Demirel Üniversitesi öğretim üyesi Prof. Yusuf Keş, Eskişehir Osmangazi Üniversitesi öğretim üyesi Doç. Bilge Kınam, Eskişehir Teknik Üniversitesi öğretim elemanı Öğr. Gör. Onur Kuran ve sanatçı Dilruba Güneysu’nun katılımıyla yapılan atölyelerde öğrenciler, alanında deneyimli isimlerle birlikte üretim yapma imkânı buldu.
-
-Düzenlenen çalıştaylar, öğrencilerin derslerde edindikleri kuramsal bilgileri uygulamaya dökerek farklı üretim yöntemlerini deneyimlemelerine katkı sağlıyor. Sanatçı ve akademisyenlerle doğrudan çalışma fırsatı yakalayan öğrenciler, kaligrafi ve tipografi alanındaki becerilerini pekiştirirken özgün tasarımlar ortaya koyuyor.
-
-Hafta boyunca devam edecek uygulamalı atölyeler cuma gününe kadar çeşitli oturumlarla sürecek. Çalıştaylar sürecinde üretilen eserler ise cuma günü düzenlenecek sergiyle sanatseverlerin beğenisine sunulacak. Festival kapsamındaki Yunus Emre sergisi ise 11 Aralık Cuma gününe kadar Anadolu Üniversitesi Çağdaş Sanatlar Müzesinde ziyarete açık kalmaya devam edecek.
-
----
-
-## Hakan Şapcı'dan 2-2'lik Maç Sonrası Açıklama: 'Oynanan Oyundan Çok Memnunum'
-
-**Spor · Tepebaşı** · 2026-11-17 11:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-2-puan-kaybetti-hakan-sapci-cok-memnunum-dedi-2465696)
-
-![](data/images/233403cc79347072.jpg)
-
-> Eskişehirspor Teknik Direktörü Hakan Şapcı, 2-2 sona eren Ayvalıkgücü karşılaşmasının ardından yaptığı değerlendirmede kaybedilen puana üzüldüklerini ancak sergilenen futboldan memnun olduğunu söyledi.
-
-Bölgesel Amatör Lig temsilcisi Eskişehirspor'da, Ayvalıkgücü deplasmanında alınan 2-2'lik beraberliğin yankıları sürüyor. Karşılaşmanın ardından teknik direktör Hakan Şapcı, maçta sergilenen oyun ve kaybedilen puanlara ilişkin değerlendirmelerde bulundu.
-
-Karşılaşmanın başında bireysel hatalar nedeniyle kalelerinde iki gol gördüklerini belirten Şapcı, oyuncularının geriye düşmelerine karşın sahada iyi bir direnç ortaya koyduğunu ifade etti. Çok pozisyon ürettiklerini dile getiren tecrübeli teknik adam, yenmemesi gereken basit goller yediklerine dikkat çekti.
-
-Savunma hattındaki talihsizliklere değinen Şapcı, "Sezon başından bu yana büyük talihsizlikler ve hatalar oluyor, özellikle savunma bölgesinde yaşanıyor. Buna rağmen oyuncularımız müthiş bir karakter gösterdi. Kaybedilen 2 puana elbette üzgünüz ancak oynanan oyundan çok memnunum" şeklinde konuştu.
 
 ---
