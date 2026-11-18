@@ -2,6 +2,76 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MHP'den Eskişehir İçin 5 Kritik Çağrı: Hastane, Çevre Yolu ve Külliye Öne Çıktı
+
+**Siyaset · Merkez** · 2026-11-18 21:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/mhpli-sezerden-eskisehir-icin-5-kritik-cagri)
+
+![](data/images/89ec2e7332490c73.jpg)
+
+> MHP Eskişehir İl Başkanı Ayhan Sezer, kentin öncelikli sorunlarını 5 maddede sıralayarak siyasi ayrılıkların bir kenara bırakılması ve ortak hareket edilmesi çağrısında bulundu.
+
+Milliyetçi Hareket Partisi (MHP) Eskişehir İl Başkanı Ayhan Sezer, kentin geleceğine yön verecek temel ihtiyaçlara dair açıklamalarda bulundu. Sorunların çözümünde siyasi ayrılıkların gözetilmemesi gerektiğini belirten Sezer, öncelikli gördükleri konuları belediye projeleri, sağlık yatırımları, turizm, ulaşım ve spor olmak üzere beş ana başlıkta topladıklarını ifade etti.
+
+İlk olarak yerel yönetimlere çağrıda bulunan Sezer, belediyelerin devam eden ve planlanan projelerini kamuoyuyla şeffaf şekilde paylaşmasını istedi. 2026 yılı içinde tamamlanamayan çalışmaların gerekçelerinin açıklanması gerektiğini kaydeden Sezer, 2027 hedeflerinin de netleşmesini beklediklerini aktardı. Sağlık alanında ise Eskişehir Osmangazi Üniversitesi (ESOGÜ) Tıp Fakültesi Hastanesi'nin durumuna değinen Sezer, mevcut yapının yerine modern ve güncel standartlara uygun yeni bir hastane inşa edilmesinin kentin en acil yatırımlarından biri olduğunu vurguladı.
+
+Ulaşım ve turizm konularında da değerlendirmeler yapan Sezer, mevcut çevre yolunun trafik yükünü artık kaldıramadığını belirterek Kuzey Çevre Yolu projesinin Eskişehir hattında vakit kaybedilmeden hayata geçirilmesi gerektiğini söyledi. Tarihi Kurşunlu Külliyesi çevresindeki tartışmalara da değinen Sezer, bölgedeki esnaf ve vatandaşların mağdur edilmeden sürecin Vakıflar Bölge Müdürlüğü koordinesinde turizme katkı sağlayacak biçimde sonuçlandırılmasını talep etti.
+
+Son olarak Eskişehirspor'un kentin marka değeri olduğuna dikkat çeken MHP İl Başkanı Sezer, siyah-kırmızılı kulübün bulunduğu ligi hak etmediğini, üst liglere dönebilmesi için kentin tüm dinamiklerinin takıma destek vermesi gerektiğini dile getirdi. Sezer, gündeme getirdikleri maddelerin Eskişehir'in ortak menfaati olduğunu ve her türlü yapıcı iş birliğine hazır olduklarını sözlerine ekledi.
+
+---
+
+## Çamlıcalı Kadınlar Sivrihisar'ı Keşfetti: Tarih ve Gastronomi Dolu Gezi
+
+**Belediye · Sivrihisar** · 2026-11-18 21:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13570&cat_icerik=1&menu_id=24)
+
+![](data/images/2287dac288a683ce.jpg)
+
+> Eskişehir Büyükşehir Belediyesi'nin kültürel miras projesi kapsamında Çamlıca Mahallesi sakini kadınlar, Sivrihisar'ın simge yapılarını ve yöresel lezzetlerini yerinde tanıdı.
+
+Eskişehir Büyükşehir Belediyesi tarafından kentin kültürel değerlerini tanıtmak ve kadınların sosyal yaşama katılımını artırmak amacıyla yürütülen “Eskişehir Kültürel Mirası ile Buluşuyor” projesi sürüyor. Etkinlik kapsamında bu kez Çamlıca Mahallesi'nde yaşayan kadınlar Sivrihisar ilçesine konuk oldu. Kafileyi mahalleden Büyükşehir Belediye Başkanı Ayşe Ünlüce ile Çamlıca Mahalle Muhtarı Savaş Hancı uğurladı.
+
+Kültürel gezilerin hem kentin köklü mirasını tanıma hem de mahalle içi komşuluk ve dayanışma bağlarını güçlendirme açısından önem taşıdığını belirten Başkan Ünlüce, muhtarlıklarla iş birliği içinde bu buluşmaların süreceğini ifade etti.
+
+Sivrihisar'a ulaşan kafile, gün boyunca ilçenin öne çıkan tarihi ve mimari duraklarını ziyaret etti. Gezi rotasında Metin Yurdanur Açık Hava Müzesi, Sivrihisar Saat Kulesi, Seyir Terası, Surp Yerortutyun Kilisesi, Alemşah Türbesi ve UNESCO Dünya Mirası Listesi'nde yer alan Sivrihisar Ulu Camii incelendi. Kadınlar ayrıca Zaimağa Konağı, Sivrihisar Kilim Müzesi, Nasreddin Hoca Anıt Parkı, Hazinedar Camii, Kurşunlu Camii, Kılıç Mescid Minaresi, Aziz Mahmud Hüdayi Camii ve tarihi Arastalar Çarşısı'nı da gezdi.
+
+Tarihi sokaklardaki gezi programı, ilçenin meşhur bamya çorbası ve yöresel lezzetlerinin tadılmasıyla tamamlandı. Büyükşehir Belediyesi, farklı mahallelerden kadınların katılımıyla ilçelere dönük tanıtım turlarını sürdürecek.
+
+---
+
+## Anadolu Üniversitesi'nden Gazetecilikte Yapay Zekâya Etik Kılavuz Geliyor
+
+**Eğitim · Tepebaşı** · 2026-11-18 21:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/tess101mnvhlvomd4gv37ggk)
+
+![](data/images/34efa98a6ea9abd6.jpg)
+
+> Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü, öğrencilerin haber üretiminde ve akademik çalışmalarında yapay zekâ araçlarını nasıl kullanacağını belirleyen bir rehber hazırlıyor.
+
+Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü Liderlik Komisyonu tarafından çevrim içi düzenlenen toplantıda, yapay zekânın mesleki pratiklere etkileri ve gazetecilik eğitimindeki rolü tartışıldı. Toplantıda, bölümün hazırladığı "Üretken Yapay Zekâ Kullanım Kılavuzu" taslağı akademisyenler ve basın mensuplarının görüşüne sunuldu.
+
+Prof. Dr. Erkan Yüksel yönetiminde gerçekleşen oturumda; hız ve kolaylık sağlayan yapay zekâ teknolojilerinin editoryal sorumluluk, haber doğrulama ve telif gibi konularda yol açtığı sorunlar masaya yatırıldı. Toplantıda konuşan Esgazete Yazı İşleri Müdürü Şenay Bilik Yıldırım yapay zekânın haber hazırlık süreçlerinde insan emeği ihtiyacını azalttığına değinirken, NTV Parlamento Muhabiri Özgür Akbaş ise sahadaki muhabirin özgün katkısının ve imzasının yerini yapay zekânın tutamayacağını vurguladı.
+
+Gazetecilik Bölüm Başkanı Prof. Dr. İncilay Cangöz, taslak kılavuzun gelen öneriler doğrultusunda son şeklini alacağını açıkladı. Hazırlanan rehber; insan denetimi, şeffaflık, kaynak gizliliği ve algoritmik yanlılık gibi ilkeleri temel alarak öğrencilere yapay zekâyı yalnızca yardımcı bir araç olarak kullanma sınırlarını çizecek.
+
+---
+
+## 81 İlden Öğretmenler Ankara'da Buluşuyor: MEB 24 Kasım Kutlama Programını Açıkladı
+
+**Eğitim · Türkiye** · 2026-11-18 21:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/24-kasim-ogretmenler-gunu-cesitli-etkinliklerle-kutlanacak/haber/42570/tr)
+
+![](data/images/2de5fc82c948b15a.jpg)
+
+> Millî Eğitim Bakanlığı, 24 Kasım Öğretmenler Günü'nü "Hep Sen Varsın Diye" temasıyla tüm yıla yayılacak etkinliklerle kutlamaya hazırlanıyor. 81 ilden temsilci eğitimciler Ankara'da ağırlanacak.
+
+Millî Eğitim Bakanlığı, 24 Kasım Öğretmenler Günü kapsamında eğitimcilerin toplumdaki yerini vurgulamak ve mesleki dayanışmayı güçlendirmek amacıyla "Hep Sen Varsın Diye" temasıyla geniş kapsamlı bir kutlama takvimi hazırladı. Bakanlığın koordinasyonunda yürütülecek faaliyetlerin yalnızca 24 Kasım ile sınırlı kalmayıp yıl geneline yayılması hedefleniyor.
+
+Kutlamalar çerçevesinde 81 ilden belirlenen temsilci öğretmenler, 23-24 Kasım tarihlerinde Ankara'da bir araya gelecek. Millî Eğitim Bakanı Yusuf Tekin'in katılımıyla gerçekleşecek programda öğretmenler; Türk Havacılık ve Uzay Sanayii (TUSAŞ) tesislerini, Şehit Öğretmenler Anıtı'nı ve Öğretmen Hatıra Ormanı'nı ziyaret edecek. Temsilciler ayrıca CSO Ada Ankara'da düzenlenecek "Bir Öğretmen Bin Yürek" konserini takip edecek.
+
+Öğretmenler Günü, 24 Kasım sabahı Anıtkabir ziyaretiyle başlayacak. Bakan Tekin ve öğretmen heyetinin mozoleye çelenk sunmasının ardından sergi açılışları ve söyleşiler düzenlenecek. Heyet akşam saatlerinde ise Cumhurbaşkanlığı Külliyesi'nde gerçekleştirilecek "Öğretmene Saygı Gecesi" programına katılacak. Geceye şehit öğretmen yakınları, emekli ve depremzede eğitimcilerin de aralarında bulunduğu yaklaşık 2 bin kişinin katılması öngörülüyor.
+
+Kutlama programı kapsamında ayrıca 81 ilde "ÖğretmenİZ" söyleşileri gerçekleştirilecek. Ankara'da 25-27 Kasım'da 3. Maarif Kongresi düzenlenecek; İstanbul'da ise Türk Dünyası Öğretmen Buluşması ve emekli öğretmenlere yönelik vefa günleri organize edilecek. Farklı bakanlıklarla yapılan iş birlikleriyle fidan dikimi, spor turnuvaları, askeri bando dinletileri ve sosyal tesis indirimleri gibi birçok etkinlik de hayata geçirilecek.
+
+---
+
 ## Sivrihisar'a Ücretsiz Nostaljik Tramvay Geliyor: Merkez ile Otogar Arasında Çalışacak
 
 **Ulaşım · Sivrihisar** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.gazetevatan.com/galeri/eskisehirde-bir-ilk-daha-o-ilceye-ucretsiz-tramvay-geliyor-2465649)
@@ -421,69 +491,5 @@ Anadolu Üniversitesi Yapay Zekâ Uygulama ve Araştırma Merkezi tarafından ha
 Platformda tamamlanan kodlama alıştırmaları otomatik değerlendirilirken, hata yapılan noktalarda öğrencilere yapay zekâ desteğiyle yönlendirici ipuçları sunuluyor. Öğrenciler ayrıca pekiştirmek istedikleri konular için yapay zekâdan yeni pratik soruları üretmesini talep edebiliyor.
 
 Açıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt, uzaktan eğitimde uygulamalı öğrenme olanaklarını güçlendirmeyi amaçladıklarını belirterek, Türkiye'nin dört bir yanındaki öğrencilerin mekândan bağımsız şekilde aynı laboratuvar altyapısına ulaşabilmesinin önemine dikkat çekti. Yapay Zekâ Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Özer Çelik ise kodlamanın yazarak öğrenileceğini vurgulayarak, öğrencilerin takıldıkları aşamalarda yapay zekâ ipuçlarıyla desteklendiğini ve platformun diğer Açıköğretim programlarına da kademeli olarak yaygınlaştırılacağını ifade etti.
-
----
-
-## Başkan Ünlüce Batıkent ve Çamlıca'da: Muhtarlar ve Mahalleliyle Talepleri Görüştü
-
-**Belediye · Tepebaşı** · 2026-11-17 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13567&cat_icerik=1&menu_id=24)
-
-![](data/images/fb7361ed969dfa48.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, saha çalışmaları kapsamında Batıkent ve Çamlıca mahalle muhtarlıklarını ziyaret ederek bölgedeki ihtiyaçları dinledi.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kentin farklı noktalarındaki temasları kapsamında Batıkent ve Çamlıca mahallelerine ziyarette bulundu. Muhtarlık binalarında gerçekleşen buluşmalarda mahalle sakinleriyle bir araya gelen Ünlüce, bölgenin ihtiyaç ve taleplerini yerinde inceledi.
-
-Ziyaret programı çerçevesinde ilk olarak Batıkent Mahalle Muhtarı Derya Can ile görüşen Başkan Ünlüce, ardından Çamlıca Mahalle Muhtarı Savaş Hancı ile bir araya geldi. Görüşmelerde mahallelerde sürdürülen ve hayata geçirilmesi planlanan belediye çalışmaları ele alındı.
-
-Mahalle sakinleriyle de sohbet ederek beklentilerini dinleyen Başkan Ünlüce, kentin her noktasına eşit ve nitelikli hizmet ulaştırma hedefi doğrultusunda mahalle ziyaretlerine devam edeceklerini ifade etti.
-
----
-
-## Vali Yılmaz Öğretmenevinde İncelemelerde Bulundu: Güçlendirme Sürüyor
-
-**Eğitim · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-depreme-karsi-guclendirme-calismalari-devam-eden-eskisehir-ogretmenevini-ziyaret-etti)
-
-![](data/images/481443073e3f2fb4.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, depreme karşı güçlendirme çalışmaları yürütülen Eskişehir Öğretmenevini ziyaret ederek yetkililerden son durum hakkında bilgi aldı.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, depreme dayanıklılık çalışmaları devam eden Eskişehir Öğretmenevi binasında incelemelerde bulundu.
-
-Çalışma alanını gezerek yürütülen güçlendirme faaliyetlerini yerinde inceleyen Vali Yılmaz, inşaat sürecinin mevcut durumu ve yapılan işlemler hakkında teknik ekipten ayrıntılı bilgi aldı.
-
-Çalışmaların titizlikle sürdürülmesinin önemini vurgulayan Vali Yılmaz, sahada görev yapan personele çalışmalarında kolaylıklar diledi.
-
----
-
-## Şehir Tiyatroları'nda Ücretsiz Eğitim Sezonu: Yetişkin ve Kadın Atölyeleri Başlıyor
-
-**Kültür-Sanat · Merkez** · 2026-11-17 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13568&cat_icerik=1&menu_id=24)
-
-![](data/images/351bfc90f320424e.jpg)
-
-> Eskişehir Şehir Tiyatroları, yeni sezonda 25 yaş üzeri yetişkinler ile 20 yaş üzeri kadınlara yönelik tiyatro ve drama eğitimleri için başvuru sürecini başlattı.
-
-Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları, sahnelediği oyunların yanı sıra kent genelindeki eğitim ve atölye çalışmalarını yeni sezonda da sürdürüyor. Gençlik Sahnesi seçmelerinin ardından farklı yaş gruplarına yönelik ücretsiz kurs takvimi belirlendi.
-
-Bu sezon ilk defa uygulanacak program kapsamında 25 yaş üzeri yetişkinlere tiyatro kursu, 20 yaş üzeri kadınlara ise özel drama atölyesi düzenlenecek. Başvuruları alınmaya başlanan eğitimlerin dersleri yakın zamanda başlayacak.
-
-Öte yandan Sultandere Sahnesi'nde iki sezondur yürütülen eğitimler çerçevesinde 15-18 yaş arası gençlere yönelik tiyatro kursu başvuruları da açıldı. Kasım ayı içerisinde başlayacak tüm eğitimlerin sezon sonuna kadar devam edeceği, kayıt ve detaylı bilgilere ise kurumun sosyal medya hesapları üzerinden ulaşılabileceği bildirildi.
-
----
-
-## Köz Orkestra'dan Ücretsiz Türkü Konseri: 19 Kasım'da Sahne Alacaklar
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-17 15:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/koz-orkestra-dan-turkulerle-muzik-ziyafeti)
-
-![](data/images/8e24f30318a43973.jpg)
-
-> Odunpazarı Belediyesi bünyesindeki eğitmenlerin kurduğu Köz Orkestra, "Beste Formunda Türküler" konseriyle 19 Kasım Perşembe günü dinleyicilerin karşısına çıkacak.
-
-Odunpazarı Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü bünyesinde görev yapan eğitmenlerin bir araya gelmesiyle hayata geçirilen Köz Orkestra, yeni bir dinletiyle sanatseverlerle buluşmaya hazırlanıyor. Topluluk, bu kez türküleri sahneye taşıyacak.
-
-"Beste Formunda Türküler" başlığıyla organize edilen konserde orkestra, Anadolu'nun köklü müzikal mirasını kendine has yorumuyla icra edecek. Farklı enstrümanların ve müzikal deneyimlerin bir araya geleceği gecede türküseverlere zengin bir repertuvar sunulacak.
-
-Yunus Emre Kültür ve Sanat Merkezi'nde düzenlenecek etkinlik, 19 Kasım Perşembe günü saat 19.30'da başlayacak. Müzikseverler konseri ücretsiz olarak takip edebilecek.
 
 ---
