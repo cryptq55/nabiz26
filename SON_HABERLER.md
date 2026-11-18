@@ -2,6 +2,90 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Erdinç Yılmaz'dan Hane Ziyareti: Kılıç Ailesinin Taleplerini Dinledi
+
+**Gündem · Merkez** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hane-ziyaretleri-kapsaminda-fatma-kilic-ve-kizi-ayse-kilici-evlerinde-ziyaret-etti)
+
+![](data/images/fed2c10630821cd5.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, hane ziyaretleri kapsamında Fatma Kılıç ve kızı Ayşe Kılıç'ı evlerinde ziyaret ederek ihtiyaç ve taleplerini dinledi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, kentte sürdürdüğü hane ziyaretleri doğrultusunda Fatma Kılıç ve kızı Ayşe Kılıç'ın evine konuk oldu.
+
+Ziyarette aile bireyleriyle bir süre sohbet eden Vali Yılmaz, Kılıç ailesinin hâl ve hatırını sorarak iletilen talep ve ihtiyaçları not aldı.
+
+Vatandaşlarla doğrudan bir araya gelmeye ve onların sorunlarını yerinde dinlemeye büyük önem verdiklerini vurgulayan Vali Yılmaz, devletin tüm imkânlarıyla her zaman vatandaşların yanında olduğunu kaydetti.
+
+---
+
+## Tepebaşı ile Belçika Arasında Yeni AB Projesi: Başkan Ataç Büyükelçiyle Görüştü
+
+**Belediye · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacbelcikaileisbirligimiziabprojesiylebuyutecegiz)
+
+![](data/images/7b33f747602fce3d.jpg)
+
+> COP31 için Antalya'da bulunan Tepebaşı Belediye Başkanı Ahmet Ataç, Belçika'nın Ankara Büyükelçisi Hendrik Van de Velde ile bir araya gelerek ortak AB projesi hazırlıklarını görüştü.
+
+Antalya'da düzenlenen COP31 İklim Zirvesi kapsamında temaslarını sürdüren Tepebaşı Belediye Başkanı Ahmet Ataç, Belçika'nın Ankara Büyükelçisi Hendrik Van de Velde ile bir toplantı gerçekleştirdi. Görüşmeye Tepebaşı Belediye Başkan Yardımcısı Suat Yalnızoğlu da katıldı.
+
+Toplantıda Tepebaşı Belediyesi ile Belçika Büyükelçiliği arasında sürdürülebilirlik alanında geliştirilebilecek ortak çalışmalar ve yeni iş birliği olanakları ele alındı. Başkan Ataç, yerel yönetimlerin uluslararası temaslar üzerinden kurduğu bilgi ve deneyim paylaşımının kentlerin sürdürülebilir kalkınmasına güç kattığını dile getirdi.
+
+İki taraf arasındaki diyaloğun somut adımlarla ileriye taşınacağını ifade eden Başkan Ataç, çevre ve iklim alanındaki birikimlerini uluslararası düzleme taşımayı hedeflediklerini belirtti. Ataç, daha önce Eskişehir Caz Festivali ve Jazz Network buluşmasıyla kurulan temasların, Belçika Büyükelçiliği ortaklığında hazırlanacak yeni bir Avrupa Birliği projesiyle sürdürüleceğini kaydetti.
+
+Büyükelçi Hendrik Van de Velde ise iş birliğinden duyduğu memnuniyeti dile getirerek Başkan Ataç ve Başkan Yardımcısı Yalnızoğlu'nu Belçika Büyükelçiliği tarafından organize edilecek resepsiyona davet etti.
+
+---
+
+## Millî Mücadele'nin Lojistik Kahramanı Behiç Erkin Eskişehir'de Anıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13573&cat_icerik=1&menu_id=24)
+
+![](data/images/108cdf9e47a80ea7.jpg)
+
+> Cumhuriyetin ilk Demiryolları Genel Müdürü Behiç Erkin, Eskişehir'deki anıt mezarı başında anıldı ve ardından düzenlenen panelle tarihî rolü ele alındı.
+
+Eskişehir Büyükşehir Belediyesi ile Eskişehir Kent Konseyi ortaklığında, Cumhuriyet tarihinin simge isimlerinden Behiç Erkin için anma programı düzenlendi. Etkinlikler kapsamında ilk olarak Enveriye Tren İstasyonu sınırlarında yer alan Behiç Erkin'in anıt mezarı ziyaret edildi.
+
+Anma programı daha sonra Haller Gençlik Merkezi'nde gerçekleştirilen "Demiryollarının Babası: Behiç Erkin – Cepheye Giden Yol" başlıklı panelle devam etti. Paneli Gazeteci Kerem Akyıl yönetirken, Prof. Dr. Burhan Sayılır ile Prof. Dr. Volkan Marttin konuşmacı olarak Erkin'in Türk demiryolu tarihindeki öncülüğünü ve Millî Mücadele'ye katkılarını aktardı.
+
+Etkinlikte konuşan Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Behiç Erkin'in çok yönlü kariyerine dikkat çekerek, mühimmat ve askerin cepheye taşınmasında üstlendiği stratejik rolü vurguladı. Ünlüce, ülkeyi demir ağlarla ören kadrolara ve Gazi Mustafa Kemal Atatürk başta olmak üzere tüm mücadele kahramanlarına minnet duyduklarını ifade etti.
+
+Eskişehir Kent Konseyi Başkanı İnci Ülüğ ve Kent Tarihi Çalışma Grubu Başkanı Kemal Güner Poyraz da kentin tarihî hafızasını canlı tutmak ve gelecek kuşaklara taşımak adına benzer anma programlarını sürdüreceklerini kaydetti.
+
+---
+
+## Eğitim-Bir-Sen Heyetinden ESTÜ Rektörü Özcan'a Hayırlı Olsun Ziyareti
+
+**Eğitim · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/egitim-bir-sen-eskisehir-2-nolu-sube-baskani-ertugrul-baki-ve-yonetim-kurulu-uyeleri-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyaretinde-bulundu-)
+
+![](data/images/03025bfe9c3b557b.jpg)
+
+> Eğitim-Bir-Sen Eskişehir 2 No’lu Şube Başkanı Ertuğrul Baki ve yönetim kurulu üyeleri, rektörlük görevine yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
+
+Eğitimciler Birliği Sendikası (Eğitim-Bir-Sen) Eskişehir 2 No’lu Şube Başkanı Ertuğrul Baki ve beraberindeki yönetim kurulu üyeleri, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan’a tebrik ziyaretinde bulundu.
+
+Cumhurbaşkanlığı Kararı ile yeniden ESTÜ Rektörlüğü görevine getirilen Prof. Dr. Özcan'ı Rektörlük Toplantı Salonu'nda ziyaret eden heyet, yeni dönem çalışmaları için başarı dileklerini iletti. Şube Başkanı Baki, Özcan'a görevinde muvaffakiyet temennisinde bulundu.
+
+Ziyaretten duyduğu memnuniyeti belirten Rektör Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve tebrikleri dolayısıyla Şube Başkanı Baki ve sendika yönetimine teşekkür etti.
+
+---
+
+## 1072 Sosyal Medya Hesabına Erişim Engeli: FETÖ İncelemesi Başlatıldı
+
+**Türkiye · Türkiye** · 2026-11-18 15:09 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-feto-iltisakli-sosyal-medya-hesaplarina-erisim-engeli-getirilmesine-iliskin-aciklama)
+
+![](data/images/31c2ca85d63b7fd1.jpg)
+
+> İletişim Başkanı Burhanettin Duran, kamuoyunu yanıltmaya yönelik faaliyet yürüttüğü belirlenen FETÖ iltisaklı 1072 sosyal medya hesabına erişim engeli getirildiğini açıkladı.
+
+Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda ve Ankara Cumhuriyet Başsavcılığı iş birliğinde yürütülen çalışmalar sonucunda, dijital mecralarda dezenformasyon yürüttüğü tespit edilen hesaplara yönelik işlem yapıldı. Kamuoyunu yanıltmayı ve toplumsal güveni zedelemeyi amaçlayan FETÖ iltisaklı 1072 sosyal medya hesabına erişim engeli getirilirken, hesap kullanıcıları hakkında da adli inceleme başlatıldı.
+
+İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı açıklamada, son üç ayda ulaşılan bu rakamın, terör örgütlerinin dijital platformları propaganda, manipülasyon ve psikolojik harekât aracı olarak kullanma girişimlerine karşı verilen kararlı mücadelenin somut bir göstergesi olduğunu belirtti.
+
+Dijital alanın bir istismar sahasına dönüştürülmesine izin verilmeyeceğini vurgulayan Duran; hakikati çarpıtarak milli güvenliği tehdit eden ve toplumsal huzuru hedef alan her türlü faaliyete karşı hukuk çerçevesinde, ilgili kurumlarla eş güdüm içinde mücadelenin kesintisiz süreceğini kaydetti.
+
+---
+
 ## Yaşamkent Aile Destek Merkezi'nde Hazırlıklar Sona Erdi
 
 **Gündem · Tepebaşı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yasamkent-aile-destek-merkezinde-incelemelerde-bulundu)
@@ -397,93 +481,5 @@ Bölgesel Amatör Lig temsilcisi Eskişehirspor'da, Ayvalıkgücü deplasmanınd
 Karşılaşmanın başında bireysel hatalar nedeniyle kalelerinde iki gol gördüklerini belirten Şapcı, oyuncularının geriye düşmelerine karşın sahada iyi bir direnç ortaya koyduğunu ifade etti. Çok pozisyon ürettiklerini dile getiren tecrübeli teknik adam, yenmemesi gereken basit goller yediklerine dikkat çekti.
 
 Savunma hattındaki talihsizliklere değinen Şapcı, "Sezon başından bu yana büyük talihsizlikler ve hatalar oluyor, özellikle savunma bölgesinde yaşanıyor. Buna rağmen oyuncularımız müthiş bir karakter gösterdi. Kaybedilen 2 puana elbette üzgünüz ancak oynanan oyundan çok memnunum" şeklinde konuştu.
-
----
-
-## Bakanlıktan 'Verimli Ev' Uygulaması: Fatura ve Cihaz Tüketimi Takip Edilecek
-
-**Türkiye · Türkiye** · 2026-11-17 11:09 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31975)
-
-![](data/images/5da6a988cf3b0184.jpg)
-
-> Enerji ve Tabii Kaynaklar Bakanlığı, hanelerdeki elektrik ve doğal gaz tüketiminin analiz edilmesini sağlayan "Verimli Ev" mobil uygulamasını kullanıma sundu.
-
-Enerji ve Tabii Kaynaklar Bakanlığı tarafından geliştirilen "Verimli Ev" mobil uygulaması vatandaşların erişimine açıldı. Uygulama sayesinde kullanıcılar, evlerinde kullandıkları elektrikli cihazların ve ısıtma sistemlerinin enerji tüketimini ayrıntılı biçimde analiz edebilecek.
-
-Kullanıcılar uygulamaya e-posta adresiyle ya da e-Devlet kapısı üzerinden giriş yapabilecek. Sisteme elektrik ve doğal gaz fatura bilgileri girildikten sonra; buzdolabı, çamaşır makinesi, bulaşık makinesi, kombi ve klima gibi temel cihazların enerji sınıfı, motor gücü ve günlük çalışma süreleri tanımlanabilecek.
-
-Sistem, girilen verileri işleyerek her bir cihazın toplam enerji tüketimindeki payını ve maliyetini hesaplayacak. Tüketimin yol açtığı karbon emisyonu miktarını da gösteren uygulama, kullanıcılara cihaz bazında özel tasarruf ve verimlilik önerileri sunacak.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Milli Enerji 2040 vizyonunun temel ayaklarından birinin enerji verimliliği olduğunu belirtti. Enerjide tam bağımsızlığın sadece üretimi artırmakla değil, tüketimi verimli kılmakla mümkün olacağını vurgulayan Bayraktar, enerji tasarrufu bilincinin evlerden başladığını ve uygulamanın aile bütçesine katkı sağlayacağını ifade etti.
-
-"Verimli Ev" mobil uygulaması, akıllı telefon ve tablet kullanıcıları için uygulama mağazalarından ücretsiz olarak indirilebiliyor.
-
----
-
-## Odunpazarı'nda Sanat ve Kitap Günleri: 21-22 Kasım'da Kapılarını Açıyor
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-17 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.cumhuriyet.com.tr/yerel-gundem/odunpazari-belediyesi-cumhuriyet-sanat-ve-kitap-gunleri-21-22-kasim-da-eskisehir-de-2556827)
-
-![](data/images/77efe7465a4b0120.jpg)
-
-> Cumhuriyet gazetesi ve Odunpazarı Belediyesi iş birliğiyle düzenlenen Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde 100. Yıl Kültür Merkezi'nde gerçekleştirilecek.
-
-Odunpazarı Belediyesi ile Cumhuriyet gazetesinin ortaklaşa düzenlediği Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde Eskişehir'deki 100. Yıl Kültür Merkezi'nde kitapseverler ve sanatseverlerle buluşacak.
-
-Etkinlik programı, 21 Kasım Cumartesi günü saat 13.00'te Cumhuriyet Sanat Galerisi Koleksiyonu'nda yer alan eserlerden oluşan karma resim sergisinin açılışıyla başlayacak. Sergide çok sayıda usta sanatçının fırçasından çıkan yapıtlar Eskişehirlilerin beğenisine sunulacak.
-
-İki gün boyunca sürecek organizasyonda Cumhuriyet Kitapları Yayınevi bünyesindeki yazarlar düzenlenecek söyleşi ve imza günlerinde okurlarıyla bir araya gelecek. Etkinlik dizisi, 22 Kasım Pazar günü saat 17.00'de Odunpazarı Belediye Başkanı Kazım Kurt ile gazeteci-yazar Mustafa Balbay'ın katılımıyla gerçekleştirilecek "Yerel Siyaset, Yerel Yönetim" başlıklı söyleşiyle tamamlanacak.
-
----
-
-## AÖF'te Mikro Yeterlilik Dönemi: Alınan Eğitimler 12 Krediye Kadar Sayılabilecek
-
-**Eğitim · Tepebaşı** · 2026-11-17 09:08 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/xh5qv6cxeepbo68x9f0xwzk8)
-
-![](data/images/941b4438b888f7a7.jpg)
-
-> Anadolu Üniversitesi Açıköğretim Fakültesi, yapay zekâ odaklı Mikro Yeterlilik Programlarını başlattı. Başarılı olan öğrenciler lisans düzeyinde 12 AKTS'ye kadar ders kredisinden muaf olabilecek.
-
-Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF), öğrencilerin mesleki becerilerini geliştirmeleri amacıyla yapay zekâ odaklı Mikro Yeterlilik Programlarını uygulamaya aldı. Yükseköğretim Kurulunun (YÖK) yetkinlik odaklı dönüşüm vizyonu doğrultusunda örgün eğitimin ardından AÖF öğrencilerine de açılan sistemle, katılımcılara ilgi duydukları alanlarda esnek öğrenme olanakları sunuluyor.
-
-Program kapsamında ölçme ve değerlendirme aşamalarını geçen öğrenciler, kazandıkları yetkinlikleri doğrulanabilir dijital rozetlerle tescilleyebilecek. Dijital cüzdan altyapısında saklanabilen bu rozetler, LinkedIn ve benzeri profesyonel ağlarda paylaşılarak istihdam süreçlerinde referans olarak kullanılabilecek.
-
-Avrupa Kredi Transfer Sistemi (AKTS) ile uyumlu yürütülen eğitimler transkriptlere ve diploma eklerine de yansıtılabilecek. Değerlendirme sınavlarında başarı gösteren öğrenciler, aldıkları mikro yeterlilikler sayesinde ön lisans programlarında 6, lisans programlarında ise 12 AKTS'ye kadar seçmeli ders kredisi elde ederek eğitim yüklerini hafifletebilecek.
-
-Program dahilinde ilk etapta “Yapay Zekâ Araçları ile Ofis Verimliliği”, “Yapay Zekâ Çağında Telif Hukuku ve Dijital İçerik Hakları”, “Veri Okuryazarlığı ve Temel Veri Analizi” ile “Yapay Zekâ ve Habercilik” gibi 1 ila 3 kredi değerindeki çevrim içi dersler erişime açıldı. Önümüzdeki süreçte 4 kredilik derslerin de sisteme dahil edileceği bildirildi. Sürece ilişkin başvuruların "my.anadolu.edu.tr" adresi üzerinden kabul edildiği kaydedildi.
-
----
-
-## Mezuniyet Filmiyle 3 Ödül Birden: Anadolu Üniversitesi Mezununa Tebrik
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-17 07:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/h2jq0e9daova2kyy7zfx4ty7)
-
-![](data/images/fac43f73e75e1a38.jpg)
-
-> Anadolu Üniversitesi Çizgi Film ve Animasyon Bölümü mezunu Selin Toprak, hazırladığı kısa filmle Altın Portakal dâhil üç ayrı festivalden ödülle döndü.
-
-Anadolu Üniversitesi Güzel Sanatlar Fakültesi Çizgi Film ve Animasyon Bölümünden bu yıl mezun olan Selin Toprak, mezuniyet projesi olan "Dünya Günü Kutlu Olsun (Happy Earth Day)" isimli animasyon filmiyle önemli başarılara imza attı.
-
-Toprak, 12. TRT Geleceğin İletişimcileri Yarışması Animasyon Film kategorisinde ikincilik derecesi elde ederken, 14. Uluslararası Canlandıranlar Film Festivali'nde "En İyi Senaryo" ve 63. Uluslararası Antalya Altın Portakal Film Festivali'nde ise "Jüri Özel Ödülü" kazandı. Film, elverişsiz hâle gelen Dünya'dan ayrılarak uzay gemisinde yeni bir yaşam kuran insanların öyküsünü ve Dünya Günü kutlaması sırasında uzaylıların gizemli planıyla yüzleşmelerini konu ediniyor.
-
-Elde edilen ulusal ve uluslararası başarıların ardından Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, genç animatörü makamında ağırlayarak tebrik etti. Ziyarette Güzel Sanatlar Fakültesi Dekanı Prof. Duygu Kahraman, Bölüm Başkanı Prof. Dr. Çiğdem Taş Alicenap ile proje danışmanları Prof. Fethi Kaba ve Doç. Sabahattin Çalışkan da yer aldı.
-
----
-
-## MEB Türkiye'nin Eğitim Dönüşümünü Kitaplaştırdı: 2026 Görünümü Yayımlandı
-
-**Eğitim · Türkiye** · 2026-11-17 07:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/turkiye039nin-egitimdeki-gelisimi-kitaplastirildi/haber/42554/tr)
-
-![](data/images/acda54fbd62958f6.jpg)
-
-> Millî Eğitim Bakanlığı, geçmişten bugüne eğitim sisteminde kaydedilen gelişmeleri ve uluslararası göstergeleri dokuz bölümlük kapsamlı bir eserde bir araya getirdi.
-
-Millî Eğitim Bakanlığı Strateji Geliştirme Başkanlığı tarafından hazırlanan "Türkiye'de Eğitim: Politikalar, Uygulamalar, Gelişmeler - 2026 Görünümü" adlı çalışma yayımlandı. Kitapta, Türk eğitim sisteminin yıllar içindeki dönüşümü sayısal veriler, tablolar ve grafiklerle ayrıntılı şekilde ortaya konuldu.
-
-Dokuz ana bölümden oluşan çalışmada; öğrenci, öğretmen ve derslik sayılarındaki değişimden okullaşma oranlarına, bütçe imkanlarından fiziki yatırımlara kadar birçok başlık ele alındı. Okul binalarındaki deprem güçlendirme çalışmaları, enerji verimliliği ve yeşil dönüşüm projelerine dair detaylar da veriler eşliğinde paylaşıldı.
-
-Eğitimde fırsat eşitliği başlığı altında ücretsiz ders kitabı dağıtımı, taşımalı eğitim, bursluluk ve destekleme kurslarına değinilen eserde; FATİH Projesi, etkileşimli tahtalar ve dijital eğitim platformlarındaki teknolojik altyapı adımları özetlendi. Eserde ayrıca TIMSS ve PISA sonuçları ışığında Türkiye'nin uluslararası eğitim göstergelerindeki performansına yer verildi.
-
-Kitabın sunuş yazısını kaleme alan Millî Eğitim Bakanı Yusuf Tekin, köklü birikimle geleceğin harmanlandığını belirterek, Türkiye Yüzyılı Maarif Modeli ile teoriden pratiğe aktarılan ve insanı merkeze alan esnek bir eğitim yapısının hedeflendiğini ifade etti.
 
 ---
