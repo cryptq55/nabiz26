@@ -115,6 +115,9 @@ def candidates(query, limit=15):
             continue
         if not all(w in title for w in words):  # birebir ilgili: adın bütün kelimeleri dosya adında olmalı
             continue
+        # Sayılar ayrı kelime olarak geçmeli: "PlayStation 5" sorgusu "PlayStation 2 ... 5001" dosyasını bulmasın
+        if not all(n in title.split() for n in _norm(query).split() if n.isdigit()):
+            continue
         if any(b in title for b in BAD_WORDS) or not OK_LICENSE.match(lic):
             continue
         qn = _norm(query)

@@ -21,10 +21,10 @@
     "title": "Grand Theft Auto VI: Coming November 19, 2026",
     "url": "https://www.xbox.com/en-US/games/grand-theft-auto-vi"
   },
-  "image": {
-    "file": "images/gta-6-bu-gece-turkiyede-oynanabilir-oluyor-play-arsiv.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Biggest_Rockstar_Games_fan_ever_-_Flickr_-_Sergey_Galyonkin.jpg",
-    "archive": true,
-    "credit": "Sergey Galyonkin from Kyiv, Ukraine / Wikimedia Commons (CC BY-SA 2.0)"
+  "photo_pending": {
+    "query": [
+      "Xbox Series X"
+    ],
+    "tries": 0
   }
 }
