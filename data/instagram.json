@@ -1,9 +1,5 @@
 {
  "stories": [
-  "202610230132-adalet-bakani-gurlek-64-dosyada-71-cinayet-faili-mechul-statusunden-ci",
-  "202610230132-buyuksehir-anadolu-universitesindeki-bagimlilik-farkindalik-haftasina-",
-  "202610230233-meb-ortak-sinav-takvimini-acikladi-bakan-tekin-10-kasim-elestirilerine",
-  "202610230233-senetli-alisveriste-yeni-taksit-sinirlari-televizyonda-4-mobilyada-9-a",
   "202610230132-chp-sozcusu-sari-adiyamanda-tarim-urunlerinin-fiyatlari-gecen-yilin-al",
   "202610230132-sehit-ve-gazi-cocuklarina-609-milyon-liralik-egitim-yardimi-23-ekimde-",
   "202610230233-odunpazarinda-3-yasindaki-e-m-a-nin-olumune-iliskin-surucu-hakkinda-id",
@@ -499,7 +495,11 @@
   "202611181710-edebiyat-fakultesinde-cost-ve-tubitak-2515-destekleri-anlatildi",
   "202611181710-cop31de-cocuk-iklim-bildirgesi-yagmur-suyu-ve-enerji-saati-onerisi",
   "202611181710-genclik-ve-spor-il-muduru-kalindan-estu-rektoru-ozcana-tebrik-ziyareti",
-  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s"
+  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s",
+  "202611181910-eskisehirde-caz-gunleri-coskusu-duygu-soylu-jazz-band-dinleyicilerle-b",
+  "202611181910-koop-is-heyetinden-estu-rektoru-prof-dr-adnan-ozcana-tebrik-ziyareti",
+  "202611181910-anadolu-universitesinde-google-turkiye-ile-yapay-zeka-ve-habercilik-eg",
+  "202611181910-meb-cop31de-acikladi-cevre-ve-iklim-farkindaligi-aile-okullarina-tasin"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -729,7 +729,9 @@
   "202611181509-vali-erdinc-yilmazdan-hane-ziyareti-kilic-ailesinin-taleplerini-dinled",
   "202611181509-milli-mucadelenin-lojistik-kahramani-behic-erkin-eskisehirde-anildi",
   "202611181143-odunpazari-belediyesinden-dort-cocuklu-anneme-destek-eli",
-  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s"
+  "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s",
+  "202611181910-anadolu-universitesinde-google-turkiye-ile-yapay-zeka-ve-habercilik-eg",
+  "202611181910-eskisehirde-caz-gunleri-coskusu-duygu-soylu-jazz-band-dinleyicilerle-b"
  ],
  "log": [
   1794981796.3288555,
@@ -745,7 +747,9 @@
   1795017280.3415728,
   1795022025.979507,
   1795022044.6402407,
-  1795022062.7192183
+  1795022062.7192183,
+  1795029189.7427068,
+  1795029243.9141426
  ],
  "reel_log": [
   1794981796.328858,
@@ -754,6 +758,8 @@
   1795014960.7178297,
   1795016757.8518753,
   1795016818.7337031,
-  1795022025.9795096
+  1795022025.9795096,
+  1795029189.7427087,
+  1795029243.914145
  ]
 }
