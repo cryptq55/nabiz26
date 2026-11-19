@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 450 Çocuk Haklarını Keşfetti: Atölyeler 3 Yıldır Aralıksız Sürüyor
+
+**Belediye · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklarhaklarınıogrenerekbuyuyor)
+
+![](data/images/652fd6fa436dcc7f.jpg)
+
+> Tepebaşı Belediyesi Erken Çocukluk Eğitim Merkezleri'nde düzenlenen yaratıcı drama ve atölye çalışmalarıyla son üç yılda yaklaşık 450 çocuk haklarını uygulamalı olarak öğrendi.
+
+Tepebaşı Belediyesi bünyesinde faaliyet gösteren Erken Çocukluk Eğitim Merkezleri, çocukların haklarını erken yaşta öğrenmeleri ve içselleştirmeleri amacıyla yürüttüğü çalışmalara devam ediyor. Merkezlerde son üç yıl içerisinde gerçekleştirilen atölye ve yaratıcı drama etkinliklerine yaklaşık 450 çocuk katıldı.
+
+Eğitimlerde çocuk haklarına yönelik temel bilgilerin soyut kalmaması ve deneyim yoluyla kalıcı hale gelmesi hedefleniyor. Çocukların bu atölyelerde edindikleri kazanımları aileleri ve çevreleriyle paylaşmaları sağlanırken, merkezlerde görev yapan eğitmenler için de sınıf yönetimi ve hak temelli eğitim seminerleri düzenleniyor.
+
+Çocuk haklarının yalnızca belirli günlerde anılamayacağını, tüm hizmetlerin merkezinde olması gerektiğini belirten Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'nin ilkelerine dikkat çekti. Ataç, her çocuğun ayrımcılığa uğramadan haklarından yararlanması, yaşama ve gelişme hakkının korunması ile kendi görüşlerini ifade edebilmesinin temel bir hak olduğunu vurgulayarak çalışmaların süreceğini ifade etti.
+
+---
+
+## Mezun Şef Tezgâh Başına Geçti: EMYO'da Baklava Yapımının Püf Noktaları Anlatıldı
+
+**Eğitim · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ztedysvgkf16kh9t7m7ynlx9)
+
+![](data/images/f5b54fd5f936d8d1.jpg)
+
+> Anadolu Üniversitesi Eskişehir Meslek Yüksekokulu mezunu Şef Yusuf Can Demir, Aşçılık Programı öğrencileriyle atölye çalışmasında bir araya gelerek fıstıklı baklava hazırladı.
+
+Anadolu Üniversitesi Kariyer Merkezi (ANAKARİYER) ve Mezunlar Birliği (ANAMEZUN) iş birliğiyle Eskişehir Meslek Yüksekokulunda (EMYO) “Mezunumuz Mutfakta” başlıklı atölye çalışması gerçekleştirildi. Etkinlik kapsamında EMYO 2012 mezunu Şef Yusuf Can Demir, Aşçılık Programı öğrencileriyle mutfakta buluşarak mesleki tecrübelerini aktardı.
+
+EMYO Müdürü Doç. Dr. Osman Güldemir'in koordinasyonunda yapılan çalışmada fıstıklı baklava yapıldı. Baklava hazırlığında yağ kullanımının lezzet üzerindeki etkisine değinen Doç. Dr. Güldemir, Antep fıstığının kabuğunun soyulması için sıcak ve soğuk su uygulaması yapıldığını, ardından doğal yağların açığa çıkması için kuru ısıyla hafif kavrulduğunu paylaştı. Şef Demir de öğrencilerin sahip olduğu mutfak altyapısının önemine işaret ederek, mesleki gelişim açısından okul olanaklarının büyük bir fırsat sunduğunu belirtti.
+
+Programa katılan ANAKARİYER Müdürü Prof. Dr. Didem Paşaoğlu Baş ve Öğr. Gör. Dr. Kazım Demirer ise öğrencilik döneminde mesleki ağ kurmanın önemine değinerek üniversitenin kariyer planlama süreçlerindeki desteğinin süreceğini bildirdi. Atölye, soru-cevap bölümünün ardından Şef Demir'e teşekkür belgesi verilmesiyle tamamlandı.
+
+---
+
+## ESTÜ Rektörü Prof. Dr. Adnan Özcan Mazbatasını YÖK Başkanı Özvar'dan Aldı
+
+**Eğitim · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/rektorumuz-prof-dr-adnan-ozcan-rektorluk-mazbatasini-yok-baskani-prof-dr-erol-ozvardan-aldi)
+
+> Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan, mazbatasını YÖK Başkanı Prof. Dr. Erol Özvar'dan teslim aldı.
+
+Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine Cumhurbaşkanlığı Kararı doğrultusunda yeniden getirilen Prof. Dr. Adnan Özcan, Yükseköğretim Kurulunda düzenlenen resmî törenle rektörlük mazbatasını aldı.
+
+YÖK Başkanlığı binasında organize edilen mazbata takdim törenine, Cumhurbaşkanlığı Kararı ile çeşitli üniversitelerin rektörlüklerine atanan akademisyenler katıldı. Tören kapsamında Prof. Dr. Adnan Özcan'a mazbatası, YÖK Başkanı Prof. Dr. Erol Özvar tarafından takdim edildi. Özvar, görevine yeniden atanan Özcan'ı tebrik ederek yeni çalışma döneminde başarı temennilerini iletti.
+
+Törende konuşan Rektör Prof. Dr. Adnan Özcan, Cumhurbaşkanı Recep Tayyip Erdoğan ile YÖK Başkanı Prof. Dr. Erol Özvar'a teşekkürlerini sundu. Özcan, yeni dönemde Eskişehir Teknik Üniversitesinin eğitim-öğretim, araştırma-geliştirme, bilimsel üretim, uluslararasılaşma ve toplumsal katkı alanlarındaki başarı grafiğini yukarı taşımak adına kurumsal kapasiteyi geliştirmeye kararlılıkla devam edeceklerini vurguladı.
+
+---
+
+## Başkan Ünlüce'den 20 Kasım Mesajı: 'Çocukların Hayallerini Büyütmeye Devam Edeceğiz'
+
+**Gündem · Merkez** · 2026-11-19 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13576&cat_icerik=1&menu_id=24)
+
+![](data/images/eecd8f7ce43f9546.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla yayımladığı mesajda çocuk dostu kent vurgusu yaptı.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü kapsamında bir kutlama mesajı yayımladı. Çocukların mutluluğu ve huzurunun kentin en büyük güvencesi olduğunu belirten Ünlüce, her çocuğun sevgiyle büyüme ve eşit fırsatlara sahip olma hakkı bulunduğunu ifade etti.
+
+Eskişehir'de çocukların haklarını öğrenerek bilim, sanat, spor ve doğayla buluştuğu bir yaşam alanı oluşturmak için çalıştıklarını kaydeden Ünlüce; Çocuk Hakları Birimi, Masal Şatosu, Bilim Deney Merkezi, İklim Adası ve ESMEK merkezleriyle bu gelişimi desteklediklerini aktardı. Tiyatro ve atölye etkinlikleriyle de çocukların hayal dünyalarının zenginleştirildiğini vurguladı.
+
+Hiçbir çocuğun şiddet, ihmal, istismar ve ayrımcılığa maruz kalmaması gerektiğine dikkat çeken Başkan Ünlüce, Mustafa Kemal Atatürk'ün çocuklara yönelik sözlerini hatırlatarak tüm dünya çocuklarının haklarıyla güven içinde yaşayacağı yarınlar diledi.
+
+---
+
+## Başkan Ünlüce'den 20 Kasım Dünya Çocuk Hakları Günü Mesajı
+
+**Gündem · Merkez** · 2026-11-19 13:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-dunya-cocuk-haklari-gunu-mesaji-4a65ec67)
+
+![](data/images/a9f117ff7beef40c.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla yayımladığı mesajda çocukların eşit fırsatlarla büyüme hakkına dikkat çekti.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü vesilesiyle bir kutlama mesajı paylaştı. Ünlüce, bir kentin en büyük güvencesinin çocukların tebessümü olduğunu belirterek, her çocuğun sevgiyle büyüme, eşit imkânlara ulaşma ve hayallerini özgürce ifade etme hakkı bulunduğunu kaydetti.
+
+Eskişehir'de çocukların haklarını öğrenerek bilim, sanat, spor ve doğayla iç içe yetişmeleri amacıyla çalışmalar yürüttüklerini aktaran Ünlüce; Masal Şatosu, Bilim Deney Merkezi, İklim Adası, Çocuk Hakları Birimi, ESMEK merkezleri ve tiyatro atölyeleriyle miniklerin gelişimini desteklediklerini ifade etti.
+
+Çocukların hiçbir ayrımcılığa, ihmale, istismara ve şiddete maruz kalmaması gerektiğinin altını çizen Ünlüce, hiçbir çocuğun çalıştırılmaması ve umutsuzluğa sürüklenmemesi gerektiğini belirterek tüm çocukların 20 Kasım Dünya Çocuk Hakları Günü'nü tebrik etti.
+
+---
+
 ## Tepebaşı'nda 46 Noktada Geri Dönüşüm Seferi: Mahalle Mahalle Toplama Takvimi Açıklandı
 
 **Belediye · Tepebaşı** · 2026-11-19 11:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nda18mahallede46toplamanoktasındageridonusumlerhayatbuluyor)
@@ -407,83 +485,5 @@ AK Parti Tepebaşı İlçe Başkanı Serhat Tunç ve yönetim kurulu üyeleri, A
 Ziyarette Tepebaşı'nın güncel ihtiyaçları, ilçede süren projeler ve teşkilatın sahada sürdürdüğü çalışmalar kapsamlı şekilde ele alındı. İlçe gündemine dair karşılıklı fikir alışverişinde bulunuldu.
 
 Ziyaretten duyduğu memnuniyeti dile getiren Milletvekili Ayşen Gürcan, ilçe başkanı ve beraberindeki heyete nazik ziyaretleri ile ilçeye dönük gayretlerinden dolayı teşekkür etti.
-
----
-
-## Gençlik ve Spor İl Müdürü Kalın'dan ESTÜ Rektörü Özcan'a Tebrik Ziyareti
-
-**Eğitim · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-genclik-ve-spor-il-muduru-hasan-kalindan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/3d51a4fff05347e5.jpg)
-
-> Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, ESTÜ Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
-
-Eskişehir Gençlik ve Spor İl Müdürü Hasan Kalın, 6 Kasım 2026 tarihli Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden getirilen Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
-
-Rektörlük ofisinde gerçekleşen görüşmede İl Müdürü Kalın, Prof. Dr. Özcan'ı ikinci dönem rektörlük görevi dolayısıyla tebrik ederek yeni çalışma döneminde başarılar diledi.
-
-Ziyaretten duyduğu memnuniyeti ifade eden ESTÜ Rektörü Prof. Dr. Adnan Özcan ise nazik tebriki ve temennileri için Kalın'a teşekkür etti.
-
----
-
-## Eskişehir'in Simgesi 'Dedikoducu Kadınlar' Heykeline ve Banklara Çirkin Saldırı
-
-**Gündem · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13572&cat_icerik=1&menu_id=24)
-
-![](data/images/6dba28c7a6b65f37.jpg)
-
-> İsmet İnönü 1 Caddesi'ndeki 'Dedikoducu Kadınlar' heykeli ile çevresindeki banklar kimliği belirsiz kişi ya da kişilerce tahrip edildi.
-
-Eskişehir Büyükşehir Belediyesi tarafından yıllar önce İsmet İnönü 1 Caddesi'ne yerleştirilen ve kentin simgelerinden biri haline gelen "Dedikoducu Kadınlar" heykeli saldırıya uğradı. Kimliği henüz belirlenemeyen kişi veya kişiler, heykelin yanı sıra cadde üzerindeki bankları da kırarak kamu malına zarar verdi.
-
-Kentin ortak kullanım alanlarında yaşanan tahribat çevredekilerin tepkisine yol açarken, olayın sorumlularının tespit edilmesi için bölgedeki güvenlik kamerası kayıtları incelemeye alındı.
-
-Eskişehir Büyükşehir Belediyesi tarafından yapılan açıklamada, ortak yaşam alanları ve sanat eserlerine sahip çıkılması gerektiği vurgulandı. Açıklamada, "Yılların emeğiyle güzelleşen, sanatla ve kültürle değer kazanan Eskişehir’in simgelerini korumak hepimizin görevi. Unutulmamalı ki bu kent hepimizin; sokakları, parkları, heykelleri ve banklarıyla hepimize emanet" ifadelerine yer verildi.
-
----
-
-## Edebiyat Fakültesinde COST ve TÜBİTAK 2515 Destekleri Anlatıldı
-
-**Eğitim · Tepebaşı** · 2026-11-18 17:10 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/pd3b40lzodypkoco7u6k4kbo)
-
-![](data/images/117f81468f1cdf7e.jpg)
-
-> Anadolu Üniversitesi Edebiyat Fakültesi'nde düzenlenen toplantıda, akademisyenlere uluslararası araştırma ağları COST ve TÜBİTAK 2515 programının detayları aktarıldı.
-
-Anadolu Üniversitesi Edebiyat Fakültesi Ar-Ge Birimi koordinasyonunda, fakültede görev yapan öğretim elemanlarına yönelik "COST Aksiyonları ve TÜBİTAK 2515 – COST Aksiyon Üyeleri Ar-Ge Destek Programı" bilgilendirme toplantısı düzenlendi. Etkinlikte ARİNKOM Teknoloji Transfer Ofisi Yöneticisi Öğr. Gör. Dr. Rabia Taş, uluslararası araştırma iş birliği fırsatları ve sunulan destekler hakkında sunum yaptı.
-
-Toplantıda, Avrupa Bilim ve Teknolojide İş Birliği (COST) çerçevesinde oluşturulan uluslararası araştırma ağlarının yapısı ve araştırmacılara sağladığı imkanlar ele alındı. Aksiyonlara katılım şartları, mevcut çalışma ağlarına dahil olma yöntemleri ile Yönetim Komitesi ve Çalışma Grubu üyelik süreçleri hakkında katılımcılara bilgi verildi.
-
-Programın devamında, COST Aksiyonlarında yer alan araştırmacıların ulusal düzeydeki projelerini destekleyen TÜBİTAK 2515 programının başvuru koşulları ve uygunluk kriterleri değerlendirildi. Uluslararası ortaklıkların ve disiplinler arası çalışmaların öneminin vurgulandığı toplantı, akademisyenlerin sorularının yanıtlanmasıyla tamamlandı.
-
----
-
-## Cumhurbaşkanı Erdoğan, Vatikan Devlet Sekreteri Parolin'i Külliye'de Kabul Etti
-
-**Siyaset · Türkiye** · 2026-11-18 17:10 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-vatikan-devlet-sekreteri-parolini-kabul-etti-18-11-26)
-
-![](data/images/55de9a77346b1a7c.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Vatikan Devlet Sekreteri Kardinal Pietro Parolin ile Cumhurbaşkanlığı Külliyesi'nde bir araya geldi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Vatikan Devlet Sekreteri Kardinal Pietro Parolin'i Cumhurbaşkanlığı Külliyesi'nde kabul etti.
-
-Gerçekleştirilen kabulde Dışişleri Bakanı Hakan Fidan ile Vatikan Büyükelçisi Fahrettin Altun da hazır bulundu.
-
----
-
-## COP31'de 'Çocuk İklim Bildirgesi': Yağmur Suyu ve Enerji Saati Önerisi
-
-**Eğitim · Türkiye** · 2026-11-18 17:10 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotcocuk-iklim-zirvesiquotnde-ogrencilerin-iklim-ve-cevre-sorunlarina-iliskin-cozum-onerileri-sunuldu/haber/42575/tr)
-
-![](data/images/b64a195a530e0e42.jpg)
-
-> Antalya'da düzenlenen COP31 zirvesinde bir araya gelen öğrenciler, 34 ilde hazırlanan Türkiye Çocuk İklim Bildirgesi'ni kamuoyuna sundu.
-
-Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde kurulan Türkiye İklim Okulu, Çocuk İklim Zirvesi'ne ev sahipliği yaptı. Millî Eğitim Bakan Yardımcısı Celile Eren Ökten'in katılımıyla düzenlenen etkinlikte, öğrencilerin çevre krizine yönelik çözüm önerilerini içeren bildirge paylaşıldı.
-
-Bakan Yardımcısı Ökten, maarif ailesinin tüm paydaşlarıyla dayanışma içinde yürütülen projelerin geleceğe katkı sunduğunu ifade etti. Öğretmenlerin azim ve rehberliğiyle milli ve manevi değerlerine bağlı, çevre bilinci gelişmiş nesillerin yetiştiğini kaydetti.
-
-Zirvede sunulan "Türkiye Çocuk İklim Bildirgesi", 34 ilde ilkokul 4. sınıf ile ortaokul 7 ve 8. sınıf öğrencilerinin yürüttüğü tematik atölye çalışmaları sonucunda oluşturuldu. Bildirgede okullarda ve kamu binalarında yağmur suyunun depolanması, öğle aralarında cihazların kapatıldığı bir "Enerji Saati" uygulanması, okul ormanlarının kurulması ve her okulda öğrencilerin söz sahibi olacağı Çocuk İklim Meclislerinin teşkil edilmesi gibi somut adımlar yer aldı.
 
 ---
