@@ -2,6 +2,52 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Bayraktar Kızılelma TSK Envanterinde: İlk 3 İnsansız Savaş Uçağı Teslim Edildi
+
+**Siyaset · Türkiye** · 2026-11-19 19:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html)
+
+![](data/images/752328421c408507.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Bayraktar Kızılelma insansız savaş uçağının kabul testlerini tamamlayan ilk 3 adedinin Türk Silahlı Kuvvetleri envanterine alındığını duyurdu.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Bayraktar Kızılelma insansız savaş uçağının Türk Silahlı Kuvvetleri (TSK) envanterine girdiğini açıkladı. Sosyal medya hesabından paylaşımda bulunan Cumhurbaşkanı Erdoğan, gelişmeyi "büyük bir hayalin gerçeğe dönüştüğü tarihi bir gün" sözleriyle nitelendirerek yeni nesil hava aracının orduya hayırlı olmasını diledi.
+
+Baykar tarafından tamamen öz kaynaklarla milli ve özgün olarak geliştirilen Kızılelma projesinde, test ve eğitim süreçleri boyunca toplam 600 sorti uçuş gerçekleştirildi. Kabul testlerini başarıyla geride bırakan ilk 3 Kızılelma güvenlik güçlerine resmen teslim edildi. Böylece Türkiye, insansız bir savaş uçağını envanterine dahil eden ilk ülke kaydını elde etti.
+
+Kavramsal tasarımı Temmuz 2021'de paylaşılan ve Mart 2022'de üretim hattına giren Kızılelma, ilk uçuşunu 14 Aralık 2022'de yapmıştı. Platform; mühimmat atış testleri, elektro-optik hedefleme entegrasyonu, radar destekli görüş ötesi füze atışları ve akıllı filo otonomisi uçuşları dahil olmak üzere kritik geliştirme aşamalarını tamamlayarak aktif görev sürecine geçti.
+
+---
+
+## MHP Odunpazarı Heyetinden Eskişehir OSB'ye Ziyaret: Sanayi Projeleri Görüşüldü
+
+**Siyaset · Odunpazarı** · 2026-11-19 19:08 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haber26.com.tr/politika/mhp-odunpazari-heyeti-eskisehir-osb-yi-ziyaret-etti)
+
+> MHP Odunpazarı İlçe Başkanı Mustafa Ünal ve yönetimi, Eskişehir OSB Yönetim Kurulu Başkanı Nadir Küpeli ile bir araya gelerek kentin sanayi gündemini değerlendirdi.
+
+Milliyetçi Hareket Partisi (MHP) Odunpazarı İlçe Teşkilatı, Eskişehir Organize Sanayi Bölgesi (EOSB) yönetimini ziyaret etti. MHP Odunpazarı İlçe Başkanı Mustafa Ünal ve beraberindeki yönetim kurulu üyeleri, EOSB Yönetim Kurulu Başkanı Nadir Küpeli ile görüş alışverişinde bulundu.
+
+Eskişehir OSB Denetim Kurulu Üyesi Hamit Alper Çelebi'nin de hazır bulunduğu ziyarette, kentin ekonomik dinamikleri, sanayi sektörünün gelişimi ve bölgede hayata geçirilen projeler masaya yatırıldı. EOSB'nin yürüttüğü çalışmalar hakkında konuk heyete bilgi aktarıldı.
+
+Ziyaretten duyduğu memnuniyeti dile getiren EOSB Yönetim Kurulu Başkanı Nadir Küpeli, nazik ziyaretleri için İlçe Başkanı Mustafa Ünal ve beraberindeki partililere teşekkür etti.
+
+---
+
+## KIZILELMA TSK Envanterinde: Cumhurbaşkanı Erdoğan Tarihî Günü Duyurdu
+
+**Siyaset · Türkiye** · 2026-11-19 19:08 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogandan-kizilelmanin-envantere-girmesine-iliskin-mesaj)
+
+![](data/images/67c106e93e5f6950.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, insansız savaş uçağı Bayraktar KIZILELMA'nın Türk Silahlı Kuvvetleri bünyesine dahil edildiğini açıkladı.
+
+Bayraktar KIZILELMA insansız savaş uçağı, tamamlanan geliştirme ve test süreçlerinin ardından Türk Silahlı Kuvvetlerinin envanterine resmen girdi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, sosyal medya hesabı üzerinden yaptığı açıklamada büyük bir hedefin hayata geçtiği tarihî bir dönüm noktası yaşandığını belirtti. Erdoğan, KIZILELMA'nın uzun yıllar süren gayret ve çalışmalar neticesinde Türk ordusuna kazandırıldığını kaydetti.
+
+Açıklamasında bu adımın hayırlı olmasını dileyen Cumhurbaşkanı Erdoğan, yeni nesil savaş platformunun orduya güç katacağını ve Türk Silahlı Kuvvetlerinin elde edeceği başarılarda rol oynayacağını vurguladı.
+
+---
+
 ## Tramvay Güzergâhlarında Sıcak Asfalt Mesaisi: Bozuk Yollar Yenileniyor
 
 **Belediye · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13574&cat_icerik=1&menu_id=24)
@@ -437,57 +483,5 @@ Milliyetçi Hareket Partisi (MHP) Eskişehir İl Başkanı Ayhan Sezer, kentin g
 Ulaşım ve turizm konularında da değerlendirmeler yapan Sezer, mevcut çevre yolunun trafik yükünü artık kaldıramadığını belirterek Kuzey Çevre Yolu projesinin Eskişehir hattında vakit kaybedilmeden hayata geçirilmesi gerektiğini söyledi. Tarihi Kurşunlu Külliyesi çevresindeki tartışmalara da değinen Sezer, bölgedeki esnaf ve vatandaşların mağdur edilmeden sürecin Vakıflar Bölge Müdürlüğü koordinesinde turizme katkı sağlayacak biçimde sonuçlandırılmasını talep etti.
 
 Son olarak Eskişehirspor'un kentin marka değeri olduğuna dikkat çeken MHP İl Başkanı Sezer, siyah-kırmızılı kulübün bulunduğu ligi hak etmediğini, üst liglere dönebilmesi için kentin tüm dinamiklerinin takıma destek vermesi gerektiğini dile getirdi. Sezer, gündeme getirdikleri maddelerin Eskişehir'in ortak menfaati olduğunu ve her türlü yapıcı iş birliğine hazır olduklarını sözlerine ekledi.
-
----
-
-## Çamlıcalı Kadınlar Sivrihisar'ı Keşfetti: Tarih ve Gastronomi Dolu Gezi
-
-**Belediye · Sivrihisar** · 2026-11-18 21:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13570&cat_icerik=1&menu_id=24)
-
-![](data/images/2287dac288a683ce.jpg)
-
-> Eskişehir Büyükşehir Belediyesi'nin kültürel miras projesi kapsamında Çamlıca Mahallesi sakini kadınlar, Sivrihisar'ın simge yapılarını ve yöresel lezzetlerini yerinde tanıdı.
-
-Eskişehir Büyükşehir Belediyesi tarafından kentin kültürel değerlerini tanıtmak ve kadınların sosyal yaşama katılımını artırmak amacıyla yürütülen “Eskişehir Kültürel Mirası ile Buluşuyor” projesi sürüyor. Etkinlik kapsamında bu kez Çamlıca Mahallesi'nde yaşayan kadınlar Sivrihisar ilçesine konuk oldu. Kafileyi mahalleden Büyükşehir Belediye Başkanı Ayşe Ünlüce ile Çamlıca Mahalle Muhtarı Savaş Hancı uğurladı.
-
-Kültürel gezilerin hem kentin köklü mirasını tanıma hem de mahalle içi komşuluk ve dayanışma bağlarını güçlendirme açısından önem taşıdığını belirten Başkan Ünlüce, muhtarlıklarla iş birliği içinde bu buluşmaların süreceğini ifade etti.
-
-Sivrihisar'a ulaşan kafile, gün boyunca ilçenin öne çıkan tarihi ve mimari duraklarını ziyaret etti. Gezi rotasında Metin Yurdanur Açık Hava Müzesi, Sivrihisar Saat Kulesi, Seyir Terası, Surp Yerortutyun Kilisesi, Alemşah Türbesi ve UNESCO Dünya Mirası Listesi'nde yer alan Sivrihisar Ulu Camii incelendi. Kadınlar ayrıca Zaimağa Konağı, Sivrihisar Kilim Müzesi, Nasreddin Hoca Anıt Parkı, Hazinedar Camii, Kurşunlu Camii, Kılıç Mescid Minaresi, Aziz Mahmud Hüdayi Camii ve tarihi Arastalar Çarşısı'nı da gezdi.
-
-Tarihi sokaklardaki gezi programı, ilçenin meşhur bamya çorbası ve yöresel lezzetlerinin tadılmasıyla tamamlandı. Büyükşehir Belediyesi, farklı mahallelerden kadınların katılımıyla ilçelere dönük tanıtım turlarını sürdürecek.
-
----
-
-## Anadolu Üniversitesi'nden Gazetecilikte Yapay Zekâya Etik Kılavuz Geliyor
-
-**Eğitim · Tepebaşı** · 2026-11-18 21:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/tess101mnvhlvomd4gv37ggk)
-
-![](data/images/34efa98a6ea9abd6.jpg)
-
-> Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü, öğrencilerin haber üretiminde ve akademik çalışmalarında yapay zekâ araçlarını nasıl kullanacağını belirleyen bir rehber hazırlıyor.
-
-Anadolu Üniversitesi İletişim Bilimleri Fakültesi Gazetecilik Bölümü Liderlik Komisyonu tarafından çevrim içi düzenlenen toplantıda, yapay zekânın mesleki pratiklere etkileri ve gazetecilik eğitimindeki rolü tartışıldı. Toplantıda, bölümün hazırladığı "Üretken Yapay Zekâ Kullanım Kılavuzu" taslağı akademisyenler ve basın mensuplarının görüşüne sunuldu.
-
-Prof. Dr. Erkan Yüksel yönetiminde gerçekleşen oturumda; hız ve kolaylık sağlayan yapay zekâ teknolojilerinin editoryal sorumluluk, haber doğrulama ve telif gibi konularda yol açtığı sorunlar masaya yatırıldı. Toplantıda konuşan Esgazete Yazı İşleri Müdürü Şenay Bilik Yıldırım yapay zekânın haber hazırlık süreçlerinde insan emeği ihtiyacını azalttığına değinirken, NTV Parlamento Muhabiri Özgür Akbaş ise sahadaki muhabirin özgün katkısının ve imzasının yerini yapay zekânın tutamayacağını vurguladı.
-
-Gazetecilik Bölüm Başkanı Prof. Dr. İncilay Cangöz, taslak kılavuzun gelen öneriler doğrultusunda son şeklini alacağını açıkladı. Hazırlanan rehber; insan denetimi, şeffaflık, kaynak gizliliği ve algoritmik yanlılık gibi ilkeleri temel alarak öğrencilere yapay zekâyı yalnızca yardımcı bir araç olarak kullanma sınırlarını çizecek.
-
----
-
-## 81 İlden Öğretmenler Ankara'da Buluşuyor: MEB 24 Kasım Kutlama Programını Açıkladı
-
-**Eğitim · Türkiye** · 2026-11-18 21:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/24-kasim-ogretmenler-gunu-cesitli-etkinliklerle-kutlanacak/haber/42570/tr)
-
-![](data/images/2de5fc82c948b15a.jpg)
-
-> Millî Eğitim Bakanlığı, 24 Kasım Öğretmenler Günü'nü "Hep Sen Varsın Diye" temasıyla tüm yıla yayılacak etkinliklerle kutlamaya hazırlanıyor. 81 ilden temsilci eğitimciler Ankara'da ağırlanacak.
-
-Millî Eğitim Bakanlığı, 24 Kasım Öğretmenler Günü kapsamında eğitimcilerin toplumdaki yerini vurgulamak ve mesleki dayanışmayı güçlendirmek amacıyla "Hep Sen Varsın Diye" temasıyla geniş kapsamlı bir kutlama takvimi hazırladı. Bakanlığın koordinasyonunda yürütülecek faaliyetlerin yalnızca 24 Kasım ile sınırlı kalmayıp yıl geneline yayılması hedefleniyor.
-
-Kutlamalar çerçevesinde 81 ilden belirlenen temsilci öğretmenler, 23-24 Kasım tarihlerinde Ankara'da bir araya gelecek. Millî Eğitim Bakanı Yusuf Tekin'in katılımıyla gerçekleşecek programda öğretmenler; Türk Havacılık ve Uzay Sanayii (TUSAŞ) tesislerini, Şehit Öğretmenler Anıtı'nı ve Öğretmen Hatıra Ormanı'nı ziyaret edecek. Temsilciler ayrıca CSO Ada Ankara'da düzenlenecek "Bir Öğretmen Bin Yürek" konserini takip edecek.
-
-Öğretmenler Günü, 24 Kasım sabahı Anıtkabir ziyaretiyle başlayacak. Bakan Tekin ve öğretmen heyetinin mozoleye çelenk sunmasının ardından sergi açılışları ve söyleşiler düzenlenecek. Heyet akşam saatlerinde ise Cumhurbaşkanlığı Külliyesi'nde gerçekleştirilecek "Öğretmene Saygı Gecesi" programına katılacak. Geceye şehit öğretmen yakınları, emekli ve depremzede eğitimcilerin de aralarında bulunduğu yaklaşık 2 bin kişinin katılması öngörülüyor.
-
-Kutlama programı kapsamında ayrıca 81 ilde "ÖğretmenİZ" söyleşileri gerçekleştirilecek. Ankara'da 25-27 Kasım'da 3. Maarif Kongresi düzenlenecek; İstanbul'da ise Türk Dünyası Öğretmen Buluşması ve emekli öğretmenlere yönelik vefa günleri organize edilecek. Farklı bakanlıklarla yapılan iş birlikleriyle fidan dikimi, spor turnuvaları, askeri bando dinletileri ve sosyal tesis indirimleri gibi birçok etkinlik de hayata geçirilecek.
 
 ---
