@@ -2,6 +2,72 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda 46 Noktada Geri Dönüşüm Seferi: Mahalle Mahalle Toplama Takvimi Açıklandı
+
+**Belediye · Tepebaşı** · 2026-11-19 11:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nda18mahallede46toplamanoktasındageridonusumlerhayatbuluyor)
+
+![](data/images/3ca93fb8c3041921.jpg)
+
+> Tepebaşı Belediyesi, 18 mahallede oluşturulan 46 noktada biriken geri dönüştürülebilir atıkları haftalık program dahilinde ekonomiye kazandırıyor.
+
+Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, ilçe genelinde atıkların kaynağında ayrıştırılması ve geri dönüşümün yaygınlaştırılması amacıyla yürüttüğü çalışmaları sürdürüyor. Çalışmalar doğrultusunda 18 mahallede belirlenen 46 toplama noktasında kâğıt, karton, plastik, cam ve metal atıklar düzenli olarak alınıyor.
+
+İlçe genelindeki dağılıma göre Batıkent'te 10, Ertuğrulgazi'de 7, Şirintepe'de 6 nokta bulunuyor. Şeker ve Sazova mahallelerinde 3'er; Aşağısöğütönü, Çukurhisar, Uluönder ve Yukarısöğütönü'nde 2'şer toplama noktası yer alıyor. Bahçelievler, Çamlıca, Fevziçakmak, Hoşnudiye, Kumlubel, Muttalip Orta, Sakintepe, Yaşamkent ve Yeşiltepe mahallelerinde ise 1'er noktada hizmet veriliyor.
+
+Belediye ekipleri, modernize edilen araçlarla atık toplama işlemlerini haftalık takvime göre gerçekleştiriyor. Programa göre pazartesi günleri Zincirlikuyu, Aşağısöğütönü, Yukarısöğütönü, Yaşamkent ve Keskin; salı günleri Batıkent, Çamlıca ve Çukurhisar mahallelerinde toplama yapılıyor.
+
+Çarşamba günü Ertuğrulgazi, Sazova ve Çamlıca'da süren çalışmalar, perşembe günü Yenibağlar, Güllük, Şirintepe, Hoşnudiye, Işıklar, Uluönder ve Muttalip Orta'da devam ediyor. Cuma günleri ise Şeker, Hava İkmal, Yeşiltepe, Kumlubel ve Sakintepe mahallelerindeki toplama noktalarından atıklar alınıyor.
+
+---
+
+## Oruç Reis Pakistan'a Ulaştı: İki Sahada Petrol ve Doğal Gaz Araması Yapacak
+
+**Türkiye · Türkiye** · 2026-11-19 11:09 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31976)
+
+![](data/images/d4ce224fe7e477e4.jpg)
+
+> Somali'deki ilk kıtalararası görevinin ardından rotasını Asya'ya çeviren Oruç Reis Sismik Araştırma Gemisi, Pakistan karasularında iki ayrı sahada hidrokarbon arama operasyonuna başlıyor.
+
+Mersin Taşucu Limanı'ndaki hazırlıklarının tamamlanmasının ardından yola çıkan yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'na ulaştı. Somali'deki 9 aylık görevinin ardından ikinci yurt dışı operasyonuna hazırlanan gemi, Pakistan açıklarındaki iki farklı noktada veri toplayacak.
+
+Operasyon kapsamında öncelikle Indus-C Blok sahasındaki Marjan 3B Sismik Projesi yürütülecek. Gemi, Karaçi açıklarında toplam 670 kilometrekarelik alanda üç boyutlu sismik veri toplayacak ve bu aşamanın yaklaşık 50 gün sürmesi hedefleniyor. Ardından Makran Blokları'na geçecek olan Oruç Reis, Makran 2B Projesi çerçevesinde 2 bin 353 kilometrelik alanda iki boyutlu tarama yapacak.
+
+Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin dünyanın dördüncü büyük derin deniz sondaj filosuna sahip olduğunu belirterek, edinilen derin deniz aramacılığı tecrübesinin Pakistan ile yapılan iş birliği sayesinde yeni başarılara dönüştürülmesinin hedeflendiğini kaydetti. Bakan Bayraktar'ın katılımıyla geminin limandan ayrılışı öncesinde resmî bir tören gerçekleştirilecek.
+
+---
+
+## Odunpazarı'nda İkinci El Giysiler Kızılay'a Devredildi: Her Ay 10 Kişiye Destek
+
+**Belediye · Odunpazarı** · 2026-11-19 11:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/odunpazarinda-kullanilmis-kiyafetler-dayanismaya-donusecek-odunpazari-belediyesi-ile-turk-119526737)
+
+![](data/images/3361ed82565d3135.jpg)
+
+> Odunpazarı Belediyesi ile Türk Kızılay arasında imzalanan iş birliği protokolüyle ilçedeki kullanılmış giysi toplama hizmeti Kızılay'a devredildi. Proje kapsamında her ay 10 ihtiyaç sahibine giyim desteği verilecek.
+
+Odunpazarı Belediyesi, kullanılmış kıyafetlerin toplanması ve geri kazandırılması amacıyla Türk Kızılay ile iş birliği protokolü imzaladı. Belediye Başkanı Kazım Kurt'un makamında düzenlenen imza törenine Kızılay Lojistik AŞ Genel Müdür Yardımcısı Davut Karacan, Kızılay Tekstil Operasyonları Türkiye Müdürü Hakan Sarı ve Kızılay Eskişehir İl Merkezi Başkanı Egemen Temizsoy katıldı.
+
+İmzalanan protokol kapsamında Odunpazarı ilçe sınırları içerisindeki uygun noktalara Türk Kızılay tarafından kıyafet bağış kutuları yerleştirilecek. İlçe sakinlerinin bıraktığı kıyafetler Kızılay Lojistik tarafından toplanarak yeniden değerlendirilecek ve sosyal yardım faaliyetlerine kaynak oluşturacak.
+
+Daha önce özel firmalar aracılığıyla yürütülen giysi toplama hizmetinin belediye meclisi kararıyla Kızılay'a bedelsiz devredildiğini belirten Odunpazarı Belediye Başkanı Kazım Kurt, dayanışma ve çevreye katkı sunan bu adımda emeği geçen meclis üyelerine ve Kızılay yetkililerine teşekkür etti. Kızılay Eskişehir İl Merkezi Başkanı Egemen Temizsoy ise Odunpazarı'nda başlayan bu toplama ağını zamanla tüm Eskişehir'e yaymayı hedeflediklerini kaydetti.
+
+İş birliğinin sosyal destek ayağında ise Türk Kızılay Eskişehir İl Merkezi ile Eskişehir Osmangazi Üniversitesi ortaklığında faaliyet gösteren Kızılay Sevgi Butik yer alıyor. Odunpazarı Belediyesi tarafından her ay belirlenecek ihtiyaç sahibi 10 vatandaşa bu butik üzerinden düzenli giyim yardımı ulaştırılacak.
+
+---
+
+## Eskişehirspor'un Eski Futbolcusu Emre Güral Avusturya'da Antrenörlüğe Başladı
+
+**Spor · Merkez** · 2026-11-19 11:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.odatv.com/spor/eski-milli-futbolcu-emre-guralin-yeni-meslegi-120171873)
+
+> Eskişehirspor formasıyla attığı kritik gollerle hatırlanan eski milli futbolcu Emre Güral, Avusturya'daki Galatasaray Futbol Okulu'nda antrenörlük görevine başladı.
+
+Türk futbolunda bir dönem Eskişehirspor forması da terleten eski milli futbolcu Emre Güral, aktif kariyerini noktaladıktan sonra antrenörlük yolculuğuna ilk adımı attı.
+
+Süper Lig'de Eskişehirspor'un yanı sıra Trabzonspor, Antalyaspor ve MKE Ankaragücü formaları giyen, son olarak İtalya'nın Crotone takımında oynayan Güral, Avusturya'nın Linz kentine gitti. Deneyimli isim, burada faaliyet gösteren Galatasaray Futbol Okulu bünyesinde antrenör olarak görev yapmaya başladı.
+
+Siyah-kırmızılı taraftarların hafızasında özellikle Fenerbahçe filelerine uzaktan gönderdiği şık golle yer edinen eski forvet, yurt dışındaki genç yeteneklerin yetiştirilmesi için saha kenarında mesai harcayacak.
+
+---
+
 ## Togg'dan 1,5 Milyon TL'ye Sıfır Faiz: T6X İçin de İlk Detaylar Belli Oldu
 
 **Ekonomi · Türkiye** · 2026-11-19 09:09 UTC · Kaynak: [Google Haberler - Togg](https://www.merhabahaber.com/togg-en-avantajli-kampanyayi-duyurdu-yil-sonuna-kadar-1-5-milyon-tl-surprizi-1954686h.htm)
@@ -419,75 +485,5 @@ Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) çerçevesinde k
 Bakan Yardımcısı Ökten, maarif ailesinin tüm paydaşlarıyla dayanışma içinde yürütülen projelerin geleceğe katkı sunduğunu ifade etti. Öğretmenlerin azim ve rehberliğiyle milli ve manevi değerlerine bağlı, çevre bilinci gelişmiş nesillerin yetiştiğini kaydetti.
 
 Zirvede sunulan "Türkiye Çocuk İklim Bildirgesi", 34 ilde ilkokul 4. sınıf ile ortaokul 7 ve 8. sınıf öğrencilerinin yürüttüğü tematik atölye çalışmaları sonucunda oluşturuldu. Bildirgede okullarda ve kamu binalarında yağmur suyunun depolanması, öğle aralarında cihazların kapatıldığı bir "Enerji Saati" uygulanması, okul ormanlarının kurulması ve her okulda öğrencilerin söz sahibi olacağı Çocuk İklim Meclislerinin teşkil edilmesi gibi somut adımlar yer aldı.
-
----
-
-## GTA 6 bu gece Türkiye'de oynanabilir oluyor: PlayStation Store fiyatı 3.999 TL
-
-**Türkiye · Türkiye** · 2026-11-18 15:47 UTC · Kaynak: [Xbox / PlayStation Store Türkiye](https://www.xbox.com/en-US/games/grand-theft-auto-vi)
-
-![](data/images/gta-6-bu-gece-turkiyede-oynanabilir-oluyor-play-arsiv.jpg)
-
-> Rockstar Games'in Grand Theft Auto VI oyunu 19 Kasım'da PlayStation 5 ve Xbox Series X|S için çıkıyor. Oyunun Türkiye'de gece 00.00'da erişime açılması bekleniyor.
-
-Rockstar Games'in merakla beklenen oyunu Grand Theft Auto VI (GTA 6), 19 Kasım 2026 Perşembe günü PlayStation 5 ve Xbox Series X|S için satışa çıkıyor. Şirket çıkış tarihini 6 Kasım 2025'te açıklamıştı.
-
-Oyun her bölgede yerel saatle gece yarısı açılıyor. Bu nedenle ilk olarak Yeni Zelanda'daki oyuncuların erişimine açıldı. Türkiye'de ise oyunun 19 Kasım saat 00.00'da oynanabilir olması bekleniyor. Ön sipariş verenler oyunu önceden indirebiliyor ancak erişim saatinden önce açamıyor.
-
-PlayStation Store Türkiye'de oyunun dijital Standard Edition sürümü 3.999 TL, Ultimate Edition sürümü ise 4.999 TL'den listeleniyor. Dijital ön sipariş verenlere bir aylık GTA+ üyeliği ve Vintage Vice City paketi veriliyor.
-
-Oyunun bilgisayar (PC) sürümü ve çevrim içi modu GTA Online için henüz bir tarih açıklanmadı.
-
----
-
-## Vali Erdinç Yılmaz'dan Hane Ziyareti: Kılıç Ailesinin Taleplerini Dinledi
-
-**Gündem · Merkez** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-hane-ziyaretleri-kapsaminda-fatma-kilic-ve-kizi-ayse-kilici-evlerinde-ziyaret-etti)
-
-![](data/images/fed2c10630821cd5.jpg)
-
-> Eskişehir Valisi Dr. Erdinç Yılmaz, hane ziyaretleri kapsamında Fatma Kılıç ve kızı Ayşe Kılıç'ı evlerinde ziyaret ederek ihtiyaç ve taleplerini dinledi.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, kentte sürdürdüğü hane ziyaretleri doğrultusunda Fatma Kılıç ve kızı Ayşe Kılıç'ın evine konuk oldu.
-
-Ziyarette aile bireyleriyle bir süre sohbet eden Vali Yılmaz, Kılıç ailesinin hâl ve hatırını sorarak iletilen talep ve ihtiyaçları not aldı.
-
-Vatandaşlarla doğrudan bir araya gelmeye ve onların sorunlarını yerinde dinlemeye büyük önem verdiklerini vurgulayan Vali Yılmaz, devletin tüm imkânlarıyla her zaman vatandaşların yanında olduğunu kaydetti.
-
----
-
-## Tepebaşı ile Belçika Arasında Yeni AB Projesi: Başkan Ataç Büyükelçiyle Görüştü
-
-**Belediye · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacbelcikaileisbirligimiziabprojesiylebuyutecegiz)
-
-![](data/images/7b33f747602fce3d.jpg)
-
-> COP31 için Antalya'da bulunan Tepebaşı Belediye Başkanı Ahmet Ataç, Belçika'nın Ankara Büyükelçisi Hendrik Van de Velde ile bir araya gelerek ortak AB projesi hazırlıklarını görüştü.
-
-Antalya'da düzenlenen COP31 İklim Zirvesi kapsamında temaslarını sürdüren Tepebaşı Belediye Başkanı Ahmet Ataç, Belçika'nın Ankara Büyükelçisi Hendrik Van de Velde ile bir toplantı gerçekleştirdi. Görüşmeye Tepebaşı Belediye Başkan Yardımcısı Suat Yalnızoğlu da katıldı.
-
-Toplantıda Tepebaşı Belediyesi ile Belçika Büyükelçiliği arasında sürdürülebilirlik alanında geliştirilebilecek ortak çalışmalar ve yeni iş birliği olanakları ele alındı. Başkan Ataç, yerel yönetimlerin uluslararası temaslar üzerinden kurduğu bilgi ve deneyim paylaşımının kentlerin sürdürülebilir kalkınmasına güç kattığını dile getirdi.
-
-İki taraf arasındaki diyaloğun somut adımlarla ileriye taşınacağını ifade eden Başkan Ataç, çevre ve iklim alanındaki birikimlerini uluslararası düzleme taşımayı hedeflediklerini belirtti. Ataç, daha önce Eskişehir Caz Festivali ve Jazz Network buluşmasıyla kurulan temasların, Belçika Büyükelçiliği ortaklığında hazırlanacak yeni bir Avrupa Birliği projesiyle sürdürüleceğini kaydetti.
-
-Büyükelçi Hendrik Van de Velde ise iş birliğinden duyduğu memnuniyeti dile getirerek Başkan Ataç ve Başkan Yardımcısı Yalnızoğlu'nu Belçika Büyükelçiliği tarafından organize edilecek resepsiyona davet etti.
-
----
-
-## Millî Mücadele'nin Lojistik Kahramanı Behiç Erkin Eskişehir'de Anıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13573&cat_icerik=1&menu_id=24)
-
-![](data/images/108cdf9e47a80ea7.jpg)
-
-> Cumhuriyetin ilk Demiryolları Genel Müdürü Behiç Erkin, Eskişehir'deki anıt mezarı başında anıldı ve ardından düzenlenen panelle tarihî rolü ele alındı.
-
-Eskişehir Büyükşehir Belediyesi ile Eskişehir Kent Konseyi ortaklığında, Cumhuriyet tarihinin simge isimlerinden Behiç Erkin için anma programı düzenlendi. Etkinlikler kapsamında ilk olarak Enveriye Tren İstasyonu sınırlarında yer alan Behiç Erkin'in anıt mezarı ziyaret edildi.
-
-Anma programı daha sonra Haller Gençlik Merkezi'nde gerçekleştirilen "Demiryollarının Babası: Behiç Erkin – Cepheye Giden Yol" başlıklı panelle devam etti. Paneli Gazeteci Kerem Akyıl yönetirken, Prof. Dr. Burhan Sayılır ile Prof. Dr. Volkan Marttin konuşmacı olarak Erkin'in Türk demiryolu tarihindeki öncülüğünü ve Millî Mücadele'ye katkılarını aktardı.
-
-Etkinlikte konuşan Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Behiç Erkin'in çok yönlü kariyerine dikkat çekerek, mühimmat ve askerin cepheye taşınmasında üstlendiği stratejik rolü vurguladı. Ünlüce, ülkeyi demir ağlarla ören kadrolara ve Gazi Mustafa Kemal Atatürk başta olmak üzere tüm mücadele kahramanlarına minnet duyduklarını ifade etti.
-
-Eskişehir Kent Konseyi Başkanı İnci Ülüğ ve Kent Tarihi Çalışma Grubu Başkanı Kemal Güner Poyraz da kentin tarihî hafızasını canlı tutmak ve gelecek kuşaklara taşımak adına benzer anma programlarını sürdüreceklerini kaydetti.
 
 ---
