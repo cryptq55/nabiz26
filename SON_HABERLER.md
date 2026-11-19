@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Odunpazarı'nda Kitap ve Sanat Günleri Başlıyor: İki Gün Boyunca İmza ve Söyleşi
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-19 15:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-sanat-ve-kitap-gunleri-basliyor)
+
+![](data/images/54a448b60bea8f67.jpg)
+
+> Odunpazarı Belediyesi ve paydaşlarının iş birliğiyle düzenlenen Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde 100. Yıl Kültür Merkezi'nde kitapseverleri ağırlayacak.
+
+Cumhuriyet Gazetesi, Cumhuriyet Kitapları, Odunpazarı Belediyesi ve Odunpazarı Kent Konseyi ortaklığıyla hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde Eskişehirli edebiyat ve sanatseverlerle buluşuyor. Yenikent Mahallesi Şehit Yüzbaşı Tuncer Güngör Caddesi'ndeki 100. Yıl Kültür Merkezi'nde gerçekleştirilecek program, edebiyat, sanat, tarih ve siyaset eksenli oturumlara sahne olacak.
+
+Etkinlik, 21 Kasım Cumartesi günü saat 13.00'te Cumhuriyet Gazetesi Koleksiyon Sergisi'nin açılışıyla başlayacak. Programın ilk gününde resim, edebiyat, cumhuriyet tarihi ve hayvan hakları üzerine çeşitli söyleşiler düzenlenecek. A. Celal Binzet, Güven Baykan, Işık Kansu, Adnan Gerger, Ahmet Antman, Eren Aysan ile Gülay ve Gürbüz Ertürk okurlarla buluşacak.
+
+22 Kasım Pazar günü ise modern Türk edebiyatı, öykü, cumhuriyet devrimleri ve Yunus Emre konuları ele alınacak. Seyfettin Araç, Halil Genç, İsa Küçük, Tolga Aydoğan ve Yüksel Işık'ın konuşmacı olduğu oturumların ardından, saat 17.00'de kapanış söyleşisi yapılacak. Kapanış programında Odunpazarı Belediye Başkanı Kazım Kurt ile gazeteci-yazar Mustafa Balbay, yerel siyaset ve yerel yönetim konusunu ele alacak. İki gün boyunca oturumların bitiminde yazarlar imza stantlarında okurlarıyla bir araya gelecek.
+
+---
+
+## Kazakistan Eski Eğitim Bakanı Beisembayev Anadolu Üniversitesini Ziyaret Etti
+
+**Eğitim · Tepebaşı** · 2026-11-19 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/c6b2ohjv3ggvldf2tuut0i6c)
+
+![](data/images/faaa0a0fec175513.jpg)
+
+> Kazakistan eski Eğitim Bakanı Gani Beisembayev, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'i ziyaret ederek uzaktan öğrenme ve yükseköğretim iş birliklerini görüştü.
+
+Kazakistan Cumhuriyeti eski Eğitim Bakanı Gani Beisembayev ve beraberindeki heyet, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel’i makamında ziyaret etti. Görüşmede Açıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt da yer aldı.
+
+Rektörlük makamında gerçekleştirilen ziyarette, Anadolu Üniversitesinin eğitim alanındaki faaliyetleri, uluslararasılaşma çalışmaları ve iki ülke arasında kurulabilecek yükseköğretim ortaklıkları ele alındı. Görüşmede özellikle üniversitenin açık ve uzaktan öğrenme alanındaki tecrübesi üzerine fikir alışverişinde bulunuldu.
+
+İki ülke arasındaki eğitim ilişkilerini güçlendirmeye yönelik değerlendirmelerin yapıldığı temaslar, karşılıklı iyi niyet temennilerinin ardından çekilen hatıra fotoğrafıyla sona erdi.
+
+---
+
+## Büyükdere'de 410 Metrelik İsale Hattı Yenilendi: ESKİ Çalışmayı Tamamladı
+
+**Belediye · Odunpazarı** · 2026-11-19 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13575&cat_icerik=1&menu_id=24)
+
+![](data/images/8538a4369cdd6aa7.jpg)
+
+> ESKİ Genel Müdürlüğü, Büyükdere Mahallesi Söğütlü Sokak'ta kullanım ömrünü tamamlayan 410 metrelik içme suyu iletim hattını yüksek dayanımlı çelik borularla yenileyerek hizmete aldı.
+
+Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ) Genel Müdürlüğü, kentin içme ve kullanma suyu altyapısını modernize etme çalışmaları kapsamında Odunpazarı ilçesine bağlı Büyükdere Mahallesi'ndeki iletim hattını baştan aşağı yeniledi.
+
+Söğütlü Sokak'ta uzun yıllardır kullanılan ve arızalar nedeniyle su iletim güvenliği zayıflayan 410 metre uzunluğundaki hat, yeni nesil malzemelerle değiştirildi. İmalatta iç yüzeyi epoksi, dış yüzeyi ise polietilen kaplamalı yüksek dayanımlı spiral kaynaklı çelik borular tercih edildi.
+
+Kaynak birleştirme, izolasyon ve kalite kontrol süreçlerinin ardından yeni hat mevcut şehir şebekesine başarıyla entegre edilerek devreye alındı. Yetkililer, kent genelinde ekonomik ömrünü dolduran iletim hatlarının yenilenmesine ve arıza risklerini en aza indirmeye yönelik altyapı yatırımlarının süreceğini bildirdi.
+
+---
+
 ## Tepebaşı'nda 450 Çocuk Haklarını Keşfetti: Atölyeler 3 Yıldır Aralıksız Sürüyor
 
 **Belediye · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklarhaklarınıogrenerekbuyuyor)
@@ -437,53 +485,5 @@ Ziyaretten ötürü memnuniyetini dile getiren Rektör Prof. Dr. Adnan Özcan is
 Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, ligin 13. haftasında deplasmanda konuk olacağı Söke 1970 SK karşılaşmasının hazırlıklarına başladı.
 
 Siyah-kırmızılı kulübün resmî kanallarından yapılan bilgilendirmeye göre, takım 22 Kasım Pazar günü deplasmanda oynanacak kritik müsabaka öncesi antrenman takvimini uygulamaya koydu. Teknik heyet gözetiminde sahaya çıkan futbolcular, zorlu randevudan galibiyetle ayrılmak amacıyla taktik ve kondisyon ağırlıklı çalışmalar gerçekleştirdi.
-
----
-
-## Eskişehir'de Caz Günleri Coşkusu: Duygu Soylu Jazz Band Dinleyicilerle Buluştu
-
-**Kültür-Sanat · Merkez** · 2026-11-18 19:10 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13571&cat_icerik=1&menu_id=24)
-
-![](data/images/e03c9ad7c19c3608.jpg)
-
-> Eskişehir Büyükşehir Belediyesi tarafından düzenlenen Caz Günleri kapsamında sahne alan Duygu Soylu Jazz Band, sanatseverlere müzik dolu bir akşam yaşattı.
-
-Eskişehir Büyükşehir Belediyesi Caz Günleri etkinlikleri hız kesmeden devam ediyor. Etkinlikler çerçevesinde Sanat ve Kültür Merkezi Opera Sahnesi'nde dinleyicilerin karşısına çıkan Duygu Soylu Jazz Band, geniş repertuvarı ve sahne performansıyla Eskişehirli müzikseverlerden tam not aldı.
-
-Vokalde Duygu Soylu’nun yer aldığı konserde piyanoda Erdem Yörük, saksafonda Serkan Altınok, elektrik basta Buğra Kılıçak, davulda Nedim Ruacan ve gitarda Eylül Biçer sahne aldı. Konserde caz dünyasının klasikleşmiş bestelerinin yanı sıra Brian Alexander Morgan, Stevie Wonder, Antonio Carlos Jobim ve David Foster gibi müzisyenlerin eserleri ile Duygu Soylu’nun "Kara Elmas" albümünden şarkılar seslendirildi.
-
-Konser öncesi müziğinde çeşitliliğin önemine değinen Duygu Soylu, farklı tarzlardan beslenmenin yorumculuğuna önemli katkılar sağladığını belirtti. Büyükşehir Belediyesi Caz Günleri, 1 Aralık 2026 tarihinde Opera Sahnesi'nde gerçekleşecek Çağrı Sertel Trio konseriyle sürecek.
-
----
-
-## Anadolu Üniversitesi'nde Google Türkiye ile Yapay Zekâ ve Habercilik Eğitimi
-
-**Eğitim · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/trojotopsaj2r40o9tfufk7h)
-
-![](data/images/657654d09461a67d.jpg)
-
-> Anadolu Üniversitesi'nde düzenlenen eğitimde yapay zekâ teknolojilerinin medya sektörüne etkileri ve dijital habercilik araçları ele alındı.
-
-Cumhurbaşkanlığı İletişim Başkanlığı Afyonkarahisar Bölge Müdürlüğü, Anadolu Üniversitesi Stratejik Araştırmalar Merkezi (ANASAM), Basın İlan Kurumu Bursa Bölge Müdürlüğü ve Google Türkiye iş birliğiyle "Dijital Habercilik ve Yapay Zekâ Eğitimi" gerçekleştirildi. Öğrenci Merkezi Yunus Emre Salonu'nda düzenlenen programa Eskişehir basınının yanı sıra çevre illerden medya temsilcileri, akademisyenler ve öğrenciler katıldı.
-
-Eğitimin açılışında konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, gazeteciliğin dijitalleşmeyle birlikte biçim değiştirdiğini belirterek mesleğin özünün gerçeğin peşinden gitmek olduğunu vurguladı. Adıgüzel, yapay zekânın doğru kullanılması durumunda mesleği geliştireceğini, her zaman insan vicdanına ve gözüne ihtiyaç duyulacağını kaydetti. Basın İlan Kurumu Bursa Bölge Müdürü Gökhan Eren de programın hayata geçirilmesinde katkı sunan kurumlara teşekkür etti.
-
-Google Türkiye Eğitim Danışmanı Özgür Mehmet Kütküt tarafından verilen eğitimde; veri odaklı gazetecilik, araştırma, redaksiyon ve haber üretim süreçlerinde yapay zekâ araçlarının kullanımı anlatıldı. Kütküt, üretken yapay zekânın içerik üretiminde önemli bir araç olduğunu ve insan odaklı kaliteli içerik üretiminin hedeflenmesi gerektiğini ifade etti.
-
-Eğitim öncesinde heyet Rektör Adıgüzel'i makamında ziyaret ederken, programın sonunda Rektör Yardımcısı Prof. Dr. Erkan Erdemir tarafından Kütküt'e teşekkür belgesi verildi.
-
----
-
-## AK Parti Tepebaşı Heyetinden Milletvekili Ayşen Gürcan'a TBMM Ziyareti
-
-**Siyaset · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.medyamidas.com/gundem/serhat-tunc-ve-yonetiminden-aysen-gurcana-tbmm-ziyareti)
-
-> AK Parti Tepebaşı İlçe Başkanı Serhat Tunç ve ilçe yönetimi, AK Parti Eskişehir Milletvekili Ayşen Gürcan'ı TBMM'deki makamında ziyaret ederek ilçedeki çalışmaları değerlendirdi.
-
-AK Parti Tepebaşı İlçe Başkanı Serhat Tunç ve yönetim kurulu üyeleri, AK Parti Eskişehir Milletvekili Prof. Dr. Ayşen Gürcan ile Türkiye Büyük Millet Meclisi'ndeki (TBMM) makamında bir araya geldi.
-
-Ziyarette Tepebaşı'nın güncel ihtiyaçları, ilçede süren projeler ve teşkilatın sahada sürdürdüğü çalışmalar kapsamlı şekilde ele alındı. İlçe gündemine dair karşılıklı fikir alışverişinde bulunuldu.
-
-Ziyaretten duyduğu memnuniyeti dile getiren Milletvekili Ayşen Gürcan, ilçe başkanı ve beraberindeki heyete nazik ziyaretleri ile ilçeye dönük gayretlerinden dolayı teşekkür etti.
 
 ---
