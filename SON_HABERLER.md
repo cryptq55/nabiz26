@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'dan 1,5 Milyon TL'ye Sıfır Faiz: T6X İçin de İlk Detaylar Belli Oldu
+
+**Ekonomi · Türkiye** · 2026-11-19 09:09 UTC · Kaynak: [Google Haberler - Togg](https://www.merhabahaber.com/togg-en-avantajli-kampanyayi-duyurdu-yil-sonuna-kadar-1-5-milyon-tl-surprizi-1954686h.htm)
+
+![](data/images/205e7bd5dd55b388.jpg)
+
+> Türkiye'nin yerli otomobili Togg, T10X ve T10F modelleri için 1,5 milyon liraya kadar sıfır faizli kredi desteği duyurdu. Markanın daha erişilebilir yeni modeli T6X'in prototipinin de hazırlandığı bildirildi.
+
+Türkiye'nin yerli elektrikli otomobil üreticisi Togg, satış rakamları 100 bini aşan T10X ve T10F modellerine yönelik yeni finansman kampanyalarını açıkladı. Yıl sonuna kadar sürmesi planlanan kampanya kapsamında özellikle çift motorlu üst versiyonlar için dikkat çeken ödeme kolaylıkları devreye alındı.
+
+Finansman planı doğrultusunda T10X 4More ve T10F 4More modellerini tercih eden alıcılara 1 milyon 500 bin TL tutarında kredi, 10 ay vade ve yüzde sıfır faiz imkanıyla sunuluyor. Kampanyada aylık ödeme tutarı 150 bin TL olarak belirlenirken, standart versiyonlar için de 6 ay vadeli ve sıfır faizli kredi paketleri uygulanıyor. T10X V2 için 800 bin TL, T10F V2 modeli için ise 1 milyon TL'lik kredi desteği sağlanıyor.
+
+Giriş seviyesi modellerin fiyatlarının yüksekliği yönündeki tüketici taleplerini değerlendiren Togg yönetiminin, 'halk tipi' olarak nitelendirilen yeni model T6X üzerinde çalıştığı aktarıldı. Prototip aşamasına gelen ve 2027 yılının ortalarında yollara çıkması hedeflenen T6X'in, 1,3 ila 1,4 milyon TL bandında bir fiyat etiketiyle satışa sunulması öngörülüyor.
+
+---
+
+## Erdoğan Duyurdu: 17 Milyon Emekli İçin Düzenleme Sene Başından Önce Geliyor
+
+**Siyaset · Türkiye** · 2026-11-19 09:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://gazeteoksijen.com/turkiye/cumhurbaskani-erdogan-17-milyon-emekliyi-kapsayan-yeni-duzenleme-sene-basindan-once-hayata-gecirilecek-296408)
+
+![](data/images/4444f066cc5092c6.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, partisinin grup toplantısında yaptığı açıklamada, yaş ve prim gününü esas alan yeni emekli düzenlemesinin sene başından önce yürürlüğe gireceğini açıkladı.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Büyük Millet Meclisi'nde düzenlenen AK Parti grup toplantısında iç ve dış gündeme dair önemli açıklamalarda bulundu. Erdoğan, kamuoyunun uzun süredir beklediği emekli düzenlemesine ilişkin takvimi ve temel kriterleri paylaştı.
+
+Emeklilerin yaşadığı ekonomik zorlukların farkında olduklarını belirten Erdoğan, konunun bir önceki Kabine Toplantısı'nda ele alındığını hatırlattı. Hazırlanan çalışmanın detaylarına değinen Erdoğan, "Yaş ve prim gün sayısına göre adalet ve hakkaniyeti merkeze alan bir yaklaşımla meseleyi tüm boyutlarıyla değerlendiriyoruz. 17 milyonu aşkın emeklimizin tamamını kapsayan bir iyileştirmeyi Yüce Meclisimizin de desteğiyle sene başından önce hayata geçireceğiz" dedi.
+
+Konuşmasında uluslararası gelişmelere ve Gazze'deki insani krize de yer veren Erdoğan, yaklaşan kış mevsimi öncesinde bölgedeki çadır eksikliğine ve soğuk hava şartlarına dikkat çekti. İslam dünyasının ortak hareket etmesi gerektiğini ifade eden Erdoğan, Türkiye'nin Gazze'ye konteyner ve insani yardım ulaştırma çalışmalarını sürdüreceğini kaydetti.
+
+---
+
 ## MEB'den PISA Zirvesi: Türkiye'nin Başarı Grafiği Başkentte Masaya Yatırılacak
 
 **Eğitim · Türkiye** · 2026-11-19 07:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye039nin-pisa-performansi-degisim-donusum-ve-gelisimquot-sempozyumu-ankara039da-duzenlenecek/haber/42583/tr)
@@ -457,37 +489,5 @@ Anma programı daha sonra Haller Gençlik Merkezi'nde gerçekleştirilen "Demiry
 Etkinlikte konuşan Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Behiç Erkin'in çok yönlü kariyerine dikkat çekerek, mühimmat ve askerin cepheye taşınmasında üstlendiği stratejik rolü vurguladı. Ünlüce, ülkeyi demir ağlarla ören kadrolara ve Gazi Mustafa Kemal Atatürk başta olmak üzere tüm mücadele kahramanlarına minnet duyduklarını ifade etti.
 
 Eskişehir Kent Konseyi Başkanı İnci Ülüğ ve Kent Tarihi Çalışma Grubu Başkanı Kemal Güner Poyraz da kentin tarihî hafızasını canlı tutmak ve gelecek kuşaklara taşımak adına benzer anma programlarını sürdüreceklerini kaydetti.
-
----
-
-## Eğitim-Bir-Sen Heyetinden ESTÜ Rektörü Özcan'a Hayırlı Olsun Ziyareti
-
-**Eğitim · Tepebaşı** · 2026-11-18 15:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/egitim-bir-sen-eskisehir-2-nolu-sube-baskani-ertugrul-baki-ve-yonetim-kurulu-uyeleri-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyaretinde-bulundu-)
-
-![](data/images/03025bfe9c3b557b.jpg)
-
-> Eğitim-Bir-Sen Eskişehir 2 No’lu Şube Başkanı Ertuğrul Baki ve yönetim kurulu üyeleri, rektörlük görevine yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
-
-Eğitimciler Birliği Sendikası (Eğitim-Bir-Sen) Eskişehir 2 No’lu Şube Başkanı Ertuğrul Baki ve beraberindeki yönetim kurulu üyeleri, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan’a tebrik ziyaretinde bulundu.
-
-Cumhurbaşkanlığı Kararı ile yeniden ESTÜ Rektörlüğü görevine getirilen Prof. Dr. Özcan'ı Rektörlük Toplantı Salonu'nda ziyaret eden heyet, yeni dönem çalışmaları için başarı dileklerini iletti. Şube Başkanı Baki, Özcan'a görevinde muvaffakiyet temennisinde bulundu.
-
-Ziyaretten duyduğu memnuniyeti belirten Rektör Prof. Dr. Adnan Özcan ise nazik ziyaretleri ve tebrikleri dolayısıyla Şube Başkanı Baki ve sendika yönetimine teşekkür etti.
-
----
-
-## 1072 Sosyal Medya Hesabına Erişim Engeli: FETÖ İncelemesi Başlatıldı
-
-**Türkiye · Türkiye** · 2026-11-18 15:09 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/iletisim-baskani-durandan-feto-iltisakli-sosyal-medya-hesaplarina-erisim-engeli-getirilmesine-iliskin-aciklama)
-
-![](data/images/31c2ca85d63b7fd1.jpg)
-
-> İletişim Başkanı Burhanettin Duran, kamuoyunu yanıltmaya yönelik faaliyet yürüttüğü belirlenen FETÖ iltisaklı 1072 sosyal medya hesabına erişim engeli getirildiğini açıkladı.
-
-Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda ve Ankara Cumhuriyet Başsavcılığı iş birliğinde yürütülen çalışmalar sonucunda, dijital mecralarda dezenformasyon yürüttüğü tespit edilen hesaplara yönelik işlem yapıldı. Kamuoyunu yanıltmayı ve toplumsal güveni zedelemeyi amaçlayan FETÖ iltisaklı 1072 sosyal medya hesabına erişim engeli getirilirken, hesap kullanıcıları hakkında da adli inceleme başlatıldı.
-
-İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı açıklamada, son üç ayda ulaşılan bu rakamın, terör örgütlerinin dijital platformları propaganda, manipülasyon ve psikolojik harekât aracı olarak kullanma girişimlerine karşı verilen kararlı mücadelenin somut bir göstergesi olduğunu belirtti.
-
-Dijital alanın bir istismar sahasına dönüştürülmesine izin verilmeyeceğini vurgulayan Duran; hakikati çarpıtarak milli güvenliği tehdit eden ve toplumsal huzuru hedef alan her türlü faaliyete karşı hukuk çerçevesinde, ilgili kurumlarla eş güdüm içinde mücadelenin kesintisiz süreceğini kaydetti.
 
 ---
