@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## MEB'den PISA Zirvesi: Türkiye'nin Başarı Grafiği Başkentte Masaya Yatırılacak
+
+**Eğitim · Türkiye** · 2026-11-19 07:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye039nin-pisa-performansi-degisim-donusum-ve-gelisimquot-sempozyumu-ankara039da-duzenlenecek/haber/42583/tr)
+
+![](data/images/ef48ea97f38155b5.jpg)
+
+> Millî Eğitim Bakanlığı, Türkiye'nin uluslararası eğitim göstergelerindeki değişim ve gelişimini Ankara'da düzenlenecek sempozyumla mercek altına alacak.
+
+Millî Eğitim Bakanlığı tarafından organize edilen "Türkiye'nin PISA Performansı: Değişim, Dönüşüm ve Gelişim" sempozyumu, Talim ve Terbiye Kurulu Başkanlığı Maarif Konferans Salonu'nda gerçekleştirilecek. Programa Millî Eğitim Bakanı Yusuf Tekin'in yanı sıra OECD Eğitim ve Beceriler Direktörü Andreas Schleicher da katılım sağlayacak.
+
+Eğitim yöneticileri, akademisyenler ve araştırmacıları buluşturacak etkinlikte, Türkiye'nin geçmişten bugüne PISA sınavlarında sergilediği performans ve farklı yeterlik alanlarında kaydettiği ilerlemeler çok boyutlu olarak masaya yatırılacak.
+
+Sempozyum oturumlarında fen bilimleri, matematik ve okuma becerilerine dair verilerin yanı sıra öğrenci başarısına etki eden bireysel, ailesel ve okul temelli faktörler uzmanlar tarafından değerlendirilecek.
+
+---
+
+## Heykel ve Banka Çarpan Kamyonet Sürücüsü Yunus Timlerince Yakalandı
+
+**Asayiş · Tepebaşı** · 2026-11-19 07:09 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://hurgun.com/haber/eskisehirde-heykel-ve-bankaya-carpan-kamyonet-surucusu-polis-tarafindan-yakalandi-172349)
+
+> Eskişehir İsmet İnönü Caddesi'nde heykel ve banka çarparak zarar veren kamyonet sürücüsü, güvenlik kameralarının incelenmesiyle yakalandı.
+
+İsmet İnönü Caddesi üzerinde manevra yaptığı esnada kontrolden çıkan kamyonet, yol kenarındaki heykele ve oturma bankına çarptı. Çarpmanın etkisiyle heykel ve kamusal kullanımda olan bankta maddi hasar meydana geldi.
+
+Olayın ardından Eskişehir Büyükşehir Belediyesi tarafından yapılan açıklamada, kent mobilyalarına ve ortak alandaki sanat eserlerine zarar verilmemesi gerektiği vurgulanarak sorumluların bulunması için kamera kayıtlarının incelendiği duyuruldu.
+
+Bölgedeki güvenlik kamerası görüntülerini detaylı şekilde inceleyen emniyet ekipleri, kamyonetin ve sürücünün kimliğini belirledi. Şüpheli sürücü, Eskişehir İl Emniyet Müdürlüğü bünyesindeki Yunus timleri tarafından kısa sürede yakalanarak hakkında adli işlem başlatıldı.
+
+---
+
+## Eskişehirspor Türkiye'nin En Golcü 3. Takımı Oldu: Süper Lig Devlerini Geride Bıraktı
+
+**Spor · Merkez** · 2026-11-19 07:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.bolgegundemi.com/eskisehir/eskisehirspor-turkiye-profesyonel-liglerinde-en-golcu-3-takim-oldu-238692.html)
+
+> Türkiye profesyonel ligleri gol ortalaması verilerine göre Eskişehirspor, maç başına ulaştığı 2,71 gol ortalamasıyla en skorer üçüncü ekip unvanını elde etti.
+
+Transfermarkt verileri doğrultusunda hazırlanan profesyonel ligler gol istatistiklerinde Eskişehirspor, hücum performansıyla dikkat çekti. Siyah-kırmızılı ekip, 2026-2027 sezonunda maç başına yakaladığı 2,71 gol ortalamasıyla Türkiye genelinde en çok gol atan üçüncü takım oldu ve Süper Lig kulüpleri dahil çok sayıda rakibini geride bıraktı.
+
+Profesyonel ligler genelinde yapılan değerlendirmede zirvede, 3. Lig temsilcisi Malatya Yeşilyurt SK yer aldı. Mehmet Ak yönetimindeki Malatya ekibi, sezonun ilk 13 haftasında mağlubiyet yüzü görmezken 3,79 gol ortalamasına ulaştı. Sıralamanın ikinci basamağında ise maç başına 2,75 gol ortalaması tutturan 2. Lig ekibi Muş SK kendine yer buldu.
+
+Süper Lig temsilcileri arasında en golcü 10 takım arasına girebilen tek ekip, 2,55 ortalamayla dördüncü sırada yer alan Amed SK oldu. Süper Lig'in diğer ekiplerinden Galatasaray 2,33 ortalamayla 12'nci, Kayserispor 2,27 ortalamayla 16'ncı, Fenerbahçe ise 2,05 ortalamayla 21'inci sırada kaldı. Beşiktaş, Trabzonspor ve Göztepe ise 2,00 gol ortalamasında yer aldı.
+
+---
+
 ## Altın fiyatları 19 Kasım 2026: Gram altın 6.199,49 TL
 
 **Ekonomi · Merkez** · 2026-11-19 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -445,53 +489,5 @@ Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda ve Ankara Cumhur
 İletişim Başkanı Burhanettin Duran, sosyal medya hesabından yaptığı açıklamada, son üç ayda ulaşılan bu rakamın, terör örgütlerinin dijital platformları propaganda, manipülasyon ve psikolojik harekât aracı olarak kullanma girişimlerine karşı verilen kararlı mücadelenin somut bir göstergesi olduğunu belirtti.
 
 Dijital alanın bir istismar sahasına dönüştürülmesine izin verilmeyeceğini vurgulayan Duran; hakikati çarpıtarak milli güvenliği tehdit eden ve toplumsal huzuru hedef alan her türlü faaliyete karşı hukuk çerçevesinde, ilgili kurumlarla eş güdüm içinde mücadelenin kesintisiz süreceğini kaydetti.
-
----
-
-## Yaşamkent Aile Destek Merkezi'nde Hazırlıklar Sona Erdi
-
-**Gündem · Tepebaşı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-yasamkent-aile-destek-merkezinde-incelemelerde-bulundu)
-
-![](data/images/2464d4eb1189b462.jpg)
-
-> Vali Dr. Erdinç Yılmaz, Tepebaşı'nda hizmet vermeye hazırlanan Yaşamkent Aile Destek Merkezi'ni ziyaret ederek incelemelerde bulundu.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, Aşağısöğütönü bölgesindeki Yaşamkent Aile Destek Merkezi'ni ziyaret ederek yürütülen çalışmalarla ilgili yetkililerden bilgi aldı. Ziyaret kapsamında merkezde yer alan spor alanları, etüt merkezi, robotik kodlama sınıfı, çocuk oyun alanları ve gastronomi merkezi tek tek incelendi.
-
-Merkezin Eskişehirlilerin hizmetine sunulmak üzere hazır hâle geldiğini belirten Vali Dr. Erdinç Yılmaz, tesisin ailelere çok yönlü imkânlar sunacağını ifade etti. Vatandaşların ihtiyaç duyabileceği birçok sosyal ve kültürel donatıyı bir arada barındıran merkezin en kısa sürede açılacağı bildirildi.
-
-2011 yılından bu yana Eskişehir Sosyal Yardımlaşma ve Dayanışma Vakfı mülkiyetinde bulunan Aşağısöğütönü Sosyal Konutlar alanındaki sosyal tesis binası, 6 Temmuz 2026 tarihinde imzalanan protokol ile Tepebaşı Sosyal Yardımlaşma ve Dayanışma Vakfına Aile Destek Merkezi olarak kullanılmak üzere 20 yıllığına tahsis edilmişti.
-
----
-
-## Odunpazarı Belediyesi’nden Dört Çocuklu Anneme Destek Eli
-
-**Belediye · Odunpazarı** · 2026-11-18 11:43 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/dort-cocuguyla-yasam-mucadelesi-veren-kadina-odunpazari-belediyesi-nden-destek)
-
-![](data/images/7b1e7db976cbe353.jpg)
-
-> Odunpazarı Belediyesi, dört çocuğuyla yaşam mücadelesi veren ve ekonomik güçlükler yaşayan 34 yaşındaki G.B.'ye Halk Market aracılığıyla düzenli destek sağlamaya başladı.
-
-Odunpazarı Belediyesi, sosyal belediyecilik çalışmaları kapsamında ihtiyaç sahibi ailelerin yanında olmayı sürdürüyor. Bu kapsamda, eşinden ayrılan ve herhangi bir geliri bulunmayan 34 yaşındaki G.B. ile dört çocuğuna yardım elini uzattı.
-
-Geçmişte yaşadığı sağlık sorunları nedeniyle sol bacağını kaybeden ve kirada yaşayan G.B., protezinin eski olması ve işsizliği nedeniyle çocuklarının geçimini sağlamakta zorlanıyordu. Yaşadığı zorlukların kamuoyuna yansımasının ardından Odunpazarı Belediyesi harekete geçti.
-
-Belediye bünyesindeki Halk Market sosyal destek sistemine dâhil edilen G.B. için Halk Kart çıkarıldı. Bu sayede ailenin Halk Market'teki tüm yardımlardan düzenli olarak yararlanmasının önü açılırken, temel ihtiyaçları doğrultusunda kıyafet yardımı da gerçekleştirildi. Ekipler, ailenin gıda ve temel ihtiyaçlarını karşılamak üzere her ay düzenli yardım ulaştıracak.
-
----
-
-## ESOGÜ Antalya'daki COP31 Zirvesi'nde 6 Bilimsel Projeyi Tanıttı
-
-**Eğitim · Odunpazarı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2152)
-
-> Eskişehir Osmangazi Üniversitesi, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı'na iklim, çevre ve genetik alanındaki 6 projeyle katıldı.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ), Antalya'da gerçekleştirilen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) Türkiye Programı'na dahil oldu. Üniversite, iklim değişikliği, çevresel sürdürülebilirlik, biyolojik çeşitlilik ve genetik araştırmalar odaklı 6 projeyle programda yer aldı.
-
-Antalya'daki buluşmada ESOGÜ'yü Rektör Danışmanı ve COP31 Koordinatörü Prof. Dr. Hakan Demiral, Eğitim Fakültesi'nden Prof. Dr. Ersin Karademir, Fen Fakültesi'nden Prof. Dr. Özgür Emiroğlu ile Prof. Dr. Arif Kıvrak, Ziraat Fakültesi'nden Prof. Dr. Taki Karslı ve yüksek lisans öğrencisi Yusuf Aktaş temsil etti. Program çerçevesinde akademisyenler farklı disiplinlerdeki çalışmalarını katılımcılarla paylaştı.
-
-Sunulan projeler arasında Prof. Dr. Ersin Karademir'in "İklim Dirençliliği İçin STEM ile Bütünleşik Afet Eğitimi ve Doğa Tabanlı Çözümler" çalışması yer aldı. Prof. Dr. Özgür Emiroğlu ise "Türkiye'de Karasal Alanlarda ve İç Sularda İstilacı Yabancı Tür Tehditlerinin Ele Alınması" ile "Türkiye İç Sularındaki İstilacı Gümüşi Havuz Balığı Popülasyonlarının Genetik Çeşitliliği" başlıklı iki projesini aktardı.
-
-Programda kabul edilen diğer çalışmalar arasında Prof. Dr. Arif Kıvrak'ın "Dijital Yeşil" projesi ile Prof. Dr. Taki Karslı'nın "Denizli ve Gerze Tavuklarında ddRADseq ile Genetik Çeşitlilik ve Seleksiyon İzleri" ve "Ile de France × Anadolu Merinosu Koyunlarında Sıcaklık Stresi Toleransı ve Aday Genler" başlıklı araştırmaları da sunuldu. Konferans boyunca ESOGÜ heyeti, YÖK Genel Kurul Üyesi Prof. Dr. Derviş Karaboğa ile bir araya gelerek yürütülen faaliyetler üzerine görüştü.
 
 ---
