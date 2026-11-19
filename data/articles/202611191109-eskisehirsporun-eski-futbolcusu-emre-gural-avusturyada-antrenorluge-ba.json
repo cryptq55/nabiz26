@@ -21,10 +21,10 @@
     "title": "Eski milli futbolcu Emre Güral'ın yeni mesleği - Odatv",
     "url": "https://www.odatv.com/spor/eski-milli-futbolcu-emre-guralin-yeni-meslegi-120171873"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Emre Güral"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
