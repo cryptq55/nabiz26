@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Kış Spor Kurslarına Kayıt Başlıyor: 9 Farklı Branş Açılacak
+
+**Belediye · Tepebaşı** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/spor/tepebasi-nda-kis-kurslarina-kayit-23-kasim-da-basliyor)
+
+> Tepebaşı Belediyesi Yunus Emre Spor Tesisi'nde kış dönemi kurs kayıtları 23-27 Kasım tarihleri arasında internet üzerinden alınacak.
+
+Tepebaşı Belediyesi, Yunus Emre Spor Tesisi bünyesinde düzenlenecek 2026 yılı kış dönemi çocuk ve yetişkin spor kurslarının takvimini duyurdu. Kayıtların 23-27 Kasım tarihleri arasında tamamlanacağı, yeni dönemin ise 30 Kasım Pazartesi günü başlayacağı bildirildi.
+
+Yetişkinler için 18 yaş ve üzeri kadınlara yönelik pilates branşı açılacak. Çocuklar için sunulan branşlar ve yaş aralıkları ise cimnastik (4-9 yaş), satranç (5-13 yaş), badminton (6-13 yaş), futbol (7-12 yaş), basketbol (7-14 yaş), taekwondo (7-15 yaş), voleybol (8-15 yaş) ve masa tenisi (9-12 yaş) olarak belirlendi.
+
+Kontenjanların sınırlı olduğu eğitimler için başvurular "tesis.tepebasi.bel.tr" adresi üzerinden çevrim içi olarak yapılabilecek. Şirintepe Mahallesi Merkez Sokak'ta hizmet veren tesis ve kurs detayları hakkında 0222 335 51 85 numaralı hattan bilgi alınabileceği kaydedildi.
+
+---
+
+## Eskişehirspor'da Söke Deplasmanı Öncesi 6 Eksik: Kaptan Kadroda Yok
+
+**Spor · Merkez** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://yenisokegazetesi.com/haber/29188448/soke-1970e-eskisehirspor-mujdesi-rakipte-6-oyuncu-eksik)
+
+![](data/images/697365174224cb77.jpg)
+
+> Nesine 3. Lig 2. Grup'ta zirve mücadelesini sürdüren Eskişehirspor, Söke 1970 deplasmanına sakat ve cezalı 6 önemli futbolcusundan yoksun çıkacak.
+
+Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, ligin kritik haftasında deplasmanda oynayacağı Söke 1970 maçı öncesinde eksik oyuncuların sıkıntısını yaşıyor. Zorlu mücadele öncesi siyah-kırmızılı ekipte tam altı futbolcu kadroda yer alamayacak.
+
+Eskişehir Anadoluspor müsabakasında sakatlanan takım kaptanı Beykan Şimşek'in tedavisine devam edildiği ve deplasman kafilesine dahil edilmeyeceği öğrenildi. Kaptanın yanı sıra sakatlıkları süren Ahmet Dereli, Mustafa Eren Demar ve Atalay Yıldırım da Söke deplasmanında forma giyemeyecek.
+
+Siyah-kırmızılı ekipte sakat isimlerin haricinde kart cezaları da teknik heyeti düşündürüyor. Sarı kart cezalısı durumuna düşen İsmail Kulet ile Ozan İsmail Koç, bu karşılaşmada takımdaki yerlerini alamayacak.
+
+Eskişehirspor, altı eksik oyuncusuna rağmen zorlu deplasmandan puanla dönerek şampiyonluk yarışındaki iddiasını sürdürmeyi amaçlıyor. Ev sahibi Söke 1970 ise rakibinin eksiklerini fırsata çevirip sahasında galibiyet arayacak.
+
+---
+
+## Başkanlar Eskişehir İçin Masada: Kent Gündemi ve İlçe Projeleri Görüşüldü
+
+**Belediye · Merkez** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-belediye-baskanlari-gundemi-degerlendirdi)
+
+![](data/images/b4b165bff7907a5a.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Odunpazarı Belediye Başkanı Kazım Kurt ve ilçe belediye başkanları bir araya gelerek kentin ortak gündemini değerlendirdi.
+
+Eskişehir'de yerel yönetimler arasındaki koordinasyonu güçlendirmek amacıyla belediye başkanları toplantısı düzenlendi. Odunpazarı Belediye Başkanı Kazım Kurt, Büyükşehir Belediye Başkanı Ayşe Ünlüce ve ilçe belediye başkanlarının katıldığı buluşmada kent genelindeki son gelişmeler ele alındı.
+
+Toplantıda ilçelerde sürdürülen projeler, yerel hizmetler ve planlanan çalışmalar masaya yatırıldı. Başkanlar, kent merkezi ile kırsal ilçeler arasındaki dayanışmayı ve koordinasyonu artırmaya yönelik fikir alışverişinde bulundu.
+
+Buluşmaya ilişkin açıklamada bulunan Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir ve hemşehrileri için ortak kararlılıkla çalışmaya devam edeceklerini belirtti.
+
+---
+
 ## Bayraktar Kızılelma TSK Envanterinde: İlk 3 İnsansız Savaş Uçağı Teslim Edildi
 
 **Siyaset · Türkiye** · 2026-11-19 19:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html)
@@ -433,55 +481,5 @@ Türk Kızılay ile Eskişehir Organize Sanayi Bölgesi (EOSB) iştiraki Mesleki
 Eskişehir OSB Yönetim Kurulu Başkanı Nadir Küpeli, MEGEM'in hem sanayinin nitelikli personel ihtiyacını karşıladığını hem de toplumsal fayda üreten projelere imza attığını dile getirdi. Daha önce dezavantajlı kadınlara, otizmli gençlere ve denetimli serbestlik yükümlülerine yönelik istihdam adımları atıldığını hatırlatan Küpeli, yeni protokolün bu sosyal sorumluluk halkasının bir parçası olduğunu kaydetti.
 
 MEGEM A.Ş. Yönetim Kurulu Başkanı Samet Özkaya, eğitim altyapısıyla kursiyerlerin üretim süreçlerine katılımına zemin hazırladıklarını aktarırken; Türk Kızılay Afet ve Toplum Hizmetleri Genel Müdürü Nurdal Durmuş da bireylerin mesleki beceri edinerek kendi ayakları üzerinde durmalarının sosyal güçlenme açısından taşıdığı öneme dikkat çekti.
-
----
-
-## Eskişehir'de Çocuklar Kentpark'ta Buluşuyor: Doğa Atölyesi Başlıyor
-
-**Belediye · Odunpazarı** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-cocuklar-icin-heyecanlandiran-etkinlik-yarin-kentparkta-bulusacaklar)
-
-> Eskişehir Büyükşehir Belediyesi, 8-12 yaş grubundaki çocuklara yönelik doğa temalı farkındalık atölyesi düzenliyor.
-
-Eskişehir Büyükşehir Belediyesi, çocukların çevre bilincini artırmak amacıyla yeni bir etkinliğe imza atıyor. "Doğa Bize mi Ait, Biz mi Doğaya Aidiz?" başlığıyla hazırlanan programda çocuklar, doğayla kurdukları bağı eğitici aktiviteler ve çeşitli hikâyeler eşliğinde yeniden değerlendirecek.
-
-Kentpark Sosyal Kütüphane bünyesinde saat 15.30'da başlayacak atölye, Büşra Aydemir yürütücülüğünde gerçekleştirilecek. Etkinlik boyunca oyunlar ve hikâyeler aracılığıyla çocukların doğaya bakış açılarını zenginleştirmeleri ve çevre farkındalığı kazanmaları hedefleniyor.
-
-8-12 yaş aralığındaki çocukların ücretsiz olarak katılabileceği buluşmanın kayıt formuna belediyenin 'EBB Etkinlik' sosyal medya hesabı üzerinden ulaşılabiliyor.
-
----
-
-## Erdoğan: Sermaye Piyasalarına Organize Kötülük Yapanlardan Hesap Soruluyor
-
-**Siyaset · Türkiye** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/cumhurbaskani-erdoganin-mesajlarinin-kodlari-43383154)
-
-![](data/images/f64ef31b9c7c8791.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin değerlendirmesinde, Türkiye ekonomisine ve sermaye piyasalarına organize kötülük yapanlardan hesap sorulduğunu ifade etti.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda gündemdeki fon soruşturması ve ekonomik gelişmelere ilişkin açıklamalarda bulundu. Erdoğan, sermaye piyasalarında yaşanan sürece dair sorumlulardan hesap sorulacağını vurguladı.
-
-Türkiye ekonomisine ve sermaye piyasalarına kasıtlı zararlar verildiğini belirten Erdoğan, organize kötülük yapanlardan işledikleri cürümlerin hesabının tek tek sorulduğunu kaydetti. AK Parti'nin siyaset yolculuğuna başladığı ilk günden bu yana milletin belirlediği istikametten ayrılmadığını dile getiren Erdoğan, tek pusulalarının milletin vicdanı olduğunu söyledi.
-
-Muhalefet kanadından gelen eleştirilere de değinen Erdoğan, sosyal medya üzerinden yürütülen iddialara ve algı çalışmalarına itibar etmediklerini ifade etti. Erdoğan, parti teşkilatlarına seslenerek umutsuzluğa ve yılgınlığa teslim olunmaması yönünde çağrıda bulundu.
-
-Öte yandan TBMM Genel Kurulu'nda, İzmir'de 19 işçinin hayatını kaybettiği fabrika kazası ve patronun ev hapsinde tutulması kararı da gündeme geldi. AK Parti Grup Başkanvekili Özlem Zengin, konuya ilişkin yaptığı açıklamada söz konusu durumdan rahatsızlık duyduklarını belirterek kamuoyu vicdanını rahatlatacak bir uygulamanın hayata geçirilmesi gerektiğini ifade etti.
-
----
-
-## MHP'den Eskişehir İçin 5 Kritik Çağrı: Hastane, Çevre Yolu ve Külliye Öne Çıktı
-
-**Siyaset · Merkez** · 2026-11-18 21:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/mhpli-sezerden-eskisehir-icin-5-kritik-cagri)
-
-![](data/images/89ec2e7332490c73.jpg)
-
-> MHP Eskişehir İl Başkanı Ayhan Sezer, kentin öncelikli sorunlarını 5 maddede sıralayarak siyasi ayrılıkların bir kenara bırakılması ve ortak hareket edilmesi çağrısında bulundu.
-
-Milliyetçi Hareket Partisi (MHP) Eskişehir İl Başkanı Ayhan Sezer, kentin geleceğine yön verecek temel ihtiyaçlara dair açıklamalarda bulundu. Sorunların çözümünde siyasi ayrılıkların gözetilmemesi gerektiğini belirten Sezer, öncelikli gördükleri konuları belediye projeleri, sağlık yatırımları, turizm, ulaşım ve spor olmak üzere beş ana başlıkta topladıklarını ifade etti.
-
-İlk olarak yerel yönetimlere çağrıda bulunan Sezer, belediyelerin devam eden ve planlanan projelerini kamuoyuyla şeffaf şekilde paylaşmasını istedi. 2026 yılı içinde tamamlanamayan çalışmaların gerekçelerinin açıklanması gerektiğini kaydeden Sezer, 2027 hedeflerinin de netleşmesini beklediklerini aktardı. Sağlık alanında ise Eskişehir Osmangazi Üniversitesi (ESOGÜ) Tıp Fakültesi Hastanesi'nin durumuna değinen Sezer, mevcut yapının yerine modern ve güncel standartlara uygun yeni bir hastane inşa edilmesinin kentin en acil yatırımlarından biri olduğunu vurguladı.
-
-Ulaşım ve turizm konularında da değerlendirmeler yapan Sezer, mevcut çevre yolunun trafik yükünü artık kaldıramadığını belirterek Kuzey Çevre Yolu projesinin Eskişehir hattında vakit kaybedilmeden hayata geçirilmesi gerektiğini söyledi. Tarihi Kurşunlu Külliyesi çevresindeki tartışmalara da değinen Sezer, bölgedeki esnaf ve vatandaşların mağdur edilmeden sürecin Vakıflar Bölge Müdürlüğü koordinesinde turizme katkı sağlayacak biçimde sonuçlandırılmasını talep etti.
-
-Son olarak Eskişehirspor'un kentin marka değeri olduğuna dikkat çeken MHP İl Başkanı Sezer, siyah-kırmızılı kulübün bulunduğu ligi hak etmediğini, üst liglere dönebilmesi için kentin tüm dinamiklerinin takıma destek vermesi gerektiğini dile getirdi. Sezer, gündeme getirdikleri maddelerin Eskişehir'in ortak menfaati olduğunu ve her türlü yapıcı iş birliğine hazır olduklarını sözlerine ekledi.
 
 ---
