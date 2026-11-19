@@ -2,6 +2,72 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'dan Kadınlara Özel Finansman Paketi: Garanti BBVA ile Yeni Kampanya Yolda
+
+**Ekonomi · Türkiye** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Togg](https://istanbulticaretgazetesi.com/togg-kadinlara-ozel-kampanya-2026-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak)
+
+![](data/images/98a26e71582832dd.jpg)
+
+> Togg ve Garanti BBVA, kadınların elektrikli araç sahibi olmasını kolaylaştırmak için özel bir taşıt kredisi paketi hazırlıyor. Detayların yıl sonuna kadar duyurulması bekleniyor.
+
+Türkiye'nin yerli otomobil üreticisi Togg, kadın müşterilere yönelik avantajlı ödeme seçenekleri sunacak yeni bir finansman paketi için Garanti BBVA ile hazırlıklarını sürdürüyor. İş birliği, Antalya'da düzenlenen COP31 İklim Zirvesi kapsamındaki panelde gündeme taşındı.
+
+Zirvede gerçekleştirilen "Sürdürülebilir Mobilite Dönüşümünün Finansmanı" paneline katılan Togg CEO'su Gürcan Karakaş ile Garanti BBVA Genel Müdürü Mahmut Akten, elektrikli araçlara erişimin kolaylaştırılması ve finansman çözümleri üzerine değerlendirmelerde bulundu. Hazırlanan yeni paketle kadınların elektrikli araç ediniminin desteklenmesi amaçlanıyor.
+
+Kredi limitleri, faiz oranları, vade seçenekleri ve başvuru kriterleri henüz kesinleşmeyen kampanyanın ayrıntılarının 2026 yılı sona ermeden açıklanması planlanıyor. Togg, kasım ayı boyunca bireysel müşterilerine T10X ve T10F modellerinde sunduğu mevcut faizsiz finansman seçeneklerini de sürdürüyor.
+
+---
+
+## Meslek Öğrenene Nakdi Destek: MEGEM ve Kızılay'dan İstihdam Protokolü
+
+**Ekonomi · Odunpazarı** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-ihtiyac-sahipleri-icin-yeni-uygulama-hem-egitim-hem-para-verilecek-2466280)
+
+![](data/images/b731e71aee6b5dbf.jpg)
+
+> Eskişehir'de MEGEM bünyesinde 10 meslek dalında eğitim görecek ihtiyaç sahibi kursiyerlere, eğitim süreleri boyunca Türk Kızılay tarafından maddi yardım sağlanacak.
+
+Türk Kızılay ile Eskişehir Organize Sanayi Bölgesi (EOSB) iştiraki Mesleki Edindirme ve Geliştirme Merkezi (MEGEM) A.Ş. arasında iş birliği protokolü imzalandı. Sosyo-Ekonomik Güçlendirme Kapsamında İstihdama Yönlendirme ve Mesleki Eğitim Projesi çerçevesinde yürütülen çalışmayla, ekonomik desteğe ihtiyaç duyan kişilerin mesleki beceriler kazanarak iş gücüne katılması hedefleniyor.
+
+İmzalanan protokole göre MEGEM'de 10 ayrı alanda mesleki eğitime hak kazanan kursiyerler arasından ihtiyaç sahipleri belirlenecek. İlgili mevzuat uyarınca şartları taşıyan adaylara kurs süresince Türk Kızılay tarafından doğrudan nakdi destek verilecek. Eğitim sürecini başarıyla tamamlayan kişilerin sanayi kuruluşlarında istihdama yönlendirilmesi planlanıyor.
+
+Eskişehir OSB Yönetim Kurulu Başkanı Nadir Küpeli, MEGEM'in hem sanayinin nitelikli personel ihtiyacını karşıladığını hem de toplumsal fayda üreten projelere imza attığını dile getirdi. Daha önce dezavantajlı kadınlara, otizmli gençlere ve denetimli serbestlik yükümlülerine yönelik istihdam adımları atıldığını hatırlatan Küpeli, yeni protokolün bu sosyal sorumluluk halkasının bir parçası olduğunu kaydetti.
+
+MEGEM A.Ş. Yönetim Kurulu Başkanı Samet Özkaya, eğitim altyapısıyla kursiyerlerin üretim süreçlerine katılımına zemin hazırladıklarını aktarırken; Türk Kızılay Afet ve Toplum Hizmetleri Genel Müdürü Nurdal Durmuş da bireylerin mesleki beceri edinerek kendi ayakları üzerinde durmalarının sosyal güçlenme açısından taşıdığı öneme dikkat çekti.
+
+---
+
+## Eskişehir'de Çocuklar Kentpark'ta Buluşuyor: Doğa Atölyesi Başlıyor
+
+**Belediye · Odunpazarı** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Eskişehir etkinlik](https://www.istikbalgazetesi.com/eskisehirde-cocuklar-icin-heyecanlandiran-etkinlik-yarin-kentparkta-bulusacaklar)
+
+> Eskişehir Büyükşehir Belediyesi, 8-12 yaş grubundaki çocuklara yönelik doğa temalı farkındalık atölyesi düzenliyor.
+
+Eskişehir Büyükşehir Belediyesi, çocukların çevre bilincini artırmak amacıyla yeni bir etkinliğe imza atıyor. "Doğa Bize mi Ait, Biz mi Doğaya Aidiz?" başlığıyla hazırlanan programda çocuklar, doğayla kurdukları bağı eğitici aktiviteler ve çeşitli hikâyeler eşliğinde yeniden değerlendirecek.
+
+Kentpark Sosyal Kütüphane bünyesinde saat 15.30'da başlayacak atölye, Büşra Aydemir yürütücülüğünde gerçekleştirilecek. Etkinlik boyunca oyunlar ve hikâyeler aracılığıyla çocukların doğaya bakış açılarını zenginleştirmeleri ve çevre farkındalığı kazanmaları hedefleniyor.
+
+8-12 yaş aralığındaki çocukların ücretsiz olarak katılabileceği buluşmanın kayıt formuna belediyenin 'EBB Etkinlik' sosyal medya hesabı üzerinden ulaşılabiliyor.
+
+---
+
+## Erdoğan: Sermaye Piyasalarına Organize Kötülük Yapanlardan Hesap Soruluyor
+
+**Siyaset · Türkiye** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/cumhurbaskani-erdoganin-mesajlarinin-kodlari-43383154)
+
+![](data/images/f64ef31b9c7c8791.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin değerlendirmesinde, Türkiye ekonomisine ve sermaye piyasalarına organize kötülük yapanlardan hesap sorulduğunu ifade etti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda gündemdeki fon soruşturması ve ekonomik gelişmelere ilişkin açıklamalarda bulundu. Erdoğan, sermaye piyasalarında yaşanan sürece dair sorumlulardan hesap sorulacağını vurguladı.
+
+Türkiye ekonomisine ve sermaye piyasalarına kasıtlı zararlar verildiğini belirten Erdoğan, organize kötülük yapanlardan işledikleri cürümlerin hesabının tek tek sorulduğunu kaydetti. AK Parti'nin siyaset yolculuğuna başladığı ilk günden bu yana milletin belirlediği istikametten ayrılmadığını dile getiren Erdoğan, tek pusulalarının milletin vicdanı olduğunu söyledi.
+
+Muhalefet kanadından gelen eleştirilere de değinen Erdoğan, sosyal medya üzerinden yürütülen iddialara ve algı çalışmalarına itibar etmediklerini ifade etti. Erdoğan, parti teşkilatlarına seslenerek umutsuzluğa ve yılgınlığa teslim olunmaması yönünde çağrıda bulundu.
+
+Öte yandan TBMM Genel Kurulu'nda, İzmir'de 19 işçinin hayatını kaybettiği fabrika kazası ve patronun ev hapsinde tutulması kararı da gündeme geldi. AK Parti Grup Başkanvekili Özlem Zengin, konuya ilişkin yaptığı açıklamada söz konusu durumdan rahatsızlık duyduklarını belirterek kamuoyu vicdanını rahatlatacak bir uygulamanın hayata geçirilmesi gerektiğini ifade etti.
+
+---
+
 ## MHP'den Eskişehir İçin 5 Kritik Çağrı: Hastane, Çevre Yolu ve Külliye Öne Çıktı
 
 **Siyaset · Merkez** · 2026-11-18 21:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/mhpli-sezerden-eskisehir-icin-5-kritik-cagri)
@@ -423,73 +489,5 @@ Bilecik Şeyh Edebali Üniversitesi Rektörü Prof. Dr. Zafer Asım Kaplancıkl�
 Rektörlük ofisinde gerçekleştirilen buluşmada Prof. Dr. Kaplancıklı, Prof. Dr. Özcan'ı tebrik ederek yeni dönemi için başarı dileklerini iletti.
 
 ESTÜ Rektörü Prof. Dr. Adnan Özcan ise konuk rektöre nazik ziyareti ve iyi dilekleri dolayısıyla teşekkür etti.
-
----
-
-## Altın fiyatları 18 Kasım 2026: Gram altın 6.264,04 TL
-
-**Ekonomi · Merkez** · 2026-11-18 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261118.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.175,78 TL'den alınıyor, 6.264,04 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.264,04 TL, alış fiyatı 6.175,78 TL oldu. Gram altın, önceki kapanışa göre yüzde 6,75 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.210 TL, yarım altın 20.413 TL, tam altın 40.677 TL, ata altın 41.764 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.850,58 TL, has altının gram fiyatı 6.245,30 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.787,70 dolardan işlem görürken, dolar/TL 50,53 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Eskişehirspor İç Sahada Yenilgisizliğini Koruyor: 6 Maçta 12 Puan
-
-**Spor · Merkez** · 2026-11-17 17:10 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.sakaryagazetesi.com.tr/eskisehirspor-ic-sahada-6-puan-birakti)
-
-> Bu sezon taraftarı önünde henüz mağlubiyet yaşamayan Eskişehirspor, iç sahada çıktığı 6 lig karşılaşmasında 3 galibiyet ve 3 beraberlikle 12 puan topladı.
-
-Nesine 3. Lig'de zirve mücadelesini sürdüren Eskişehirspor, bu sezon iç saha maçlarında yenilgisiz serisini devam ettiriyor. Kendi sahasında taraftar desteğini arkasına alan siyah-kırmızılı ekip, oynadığı 6 müsabakada mağlubiyet yüzü görmedi.
-
-Sahasındaki ilk puan kaybını ligin 6. haftasında Etimesgut ile 1-1 berabere kalarak yaşayan Eskişehir temsilcisi, 8. haftada Bursa Yıldırımspor ve son olarak 12. haftada Ayvalıkgücü Belediyespor ile 2-2 berabere kaldı. Kırmızı Şimşekler, evindeki bu üç beraberlikle toplam 6 puan yitirdi.
-
-Buna karşın taraftarı önünde farklı skorlu galibiyetler de elde eden siyah-kırmızılılar; Alanya 1221’i 4-0, Balıkesirspor’u 7-1 ve Kepezspor’u 1-0 mağlup etmeyi başardı. Eskişehirspor, iç sahada çıktığı 6 karşılaşmadan çıkardığı 3 galibiyet ve 3 beraberlikle hanesine 12 puan yazdırdı.
-
----
-
-## Zorbalığa Karşı Güvenli Tatami: Eskişehir ve Bükreşli Çocuklar Judoda Buluşacak
-
-**Spor · Merkez** · 2026-11-17 17:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-turkiye-ve-romanya-judo-federasyonu-baskanlari-ile-beraberlerindeki-heyeti-kabul-etti)
-
-![](data/images/fd54f1aa3b8ed303.jpg)
-
-> Eskişehir ve Bükreş'te 7-14 yaş aralığındaki 100 çocuğu sporla buluşturacak AB destekli 'Safe Tatami' projesi için Türkiye ve Romanya heyetleri Eskişehir'de bir araya geldi.
-
-Eskişehir Valisi Dr. Erdinç Yılmaz, Avrupa Birliği Erasmus+ Sport Programı tarafından desteklenen “IPPON-VS-BULLYING: Safe Tatami” projesi dolayısıyla şehre gelen Türkiye Judo Federasyonu Başkanı Sezer Huysuz, Romanya Judo Federasyonu Başkanı Florin Bercean ve beraberindeki heyeti kabul etti. Ziyarette Gençlik ve Spor İl Müdürü Hasan Kalın da hazır bulundu.
-
-Ziyaret sırasında heyet, hayata geçirilen uluslararası proje hakkında Vali Yılmaz'a bilgi sundu. Çalışmayla akran zorbalığının önüne geçilmesi; çocuklar arasında saygı, empati ve dayanışma duygularının pekiştirilmesi amaçlanıyor. Proje kapsamında Eskişehir ve Bükreş'te 7-14 yaş grubundaki toplam 100 çocuğun judo branşı aracılığıyla güvenli ve kapsayıcı spor ortamlarında buluşturulması hedefleniyor.
-
-Vali Dr. Erdinç Yılmaz, çocukların sosyal ve kişisel gelişimlerine değer katan projenin taşıdığı öneme işaret ederek organizasyonda emeği geçen tüm kurumlara teşekkürlerini iletti.
-
----
-
-## Tarayıcıdan Kodlama Dönemi: Anadolu Üniversitesi 26 Bin Öğrenciye AI Lab'ı Açtı
-
-**Eğitim · Tepebaşı** · 2026-11-17 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ebzttkhrqsmdel8mzn5mqyx1)
-
-![](data/images/b41ad2c6a9f1e4f1.jpg)
-
-> Anadolu Üniversitesi'nin geliştirdiği AI Lab platformu, Açıköğretim'de kodlama eğitimi alan 26 bin öğrencinin kullanımına sunuldu. Sistem, ek yazılım yüklemeden tarayıcı üzerinden kod yazma ve yapay zekâdan anında geri bildirim alma imkânı veriyor.
-
-Anadolu Üniversitesi Yapay Zekâ Uygulama ve Araştırma Merkezi tarafından hayata geçirilen "AI Lab" platformu, Açıköğretim Fakültesi bünyesindeki Yapay Zekâ Destekli Kodlama Ön Lisans Programı'nda öğrenim gören yaklaşık 26 bin öğrencinin erişimine açıldı. Öğrencilerin herhangi bir harici yazılım yüklemesine gerek kalmadan doğrudan internet tarayıcısı üzerinden kod yazabildiği sistem, ilk olarak “Python ile Programlama” dersinin uygulamalı oturumunda kullanıldı.
-
-"Uygula. Üret." yaklaşımıyla ailab.anadolu.edu.tr adresinde hizmete giren platformda ders uygulamaları, basılı ve dijital kitapların ünitelerine paralel olarak yapılandırıldı. Öğrenciler konu anlatımlarını incelerken aynı ekran üzerinde örnek kodları çalıştırabiliyor ve hazırlanan alıştırmaları çözebiliyor. Üniversitenin kendi sunucu altyapısında barındırılan sistem, on binlerce öğrencinin eş zamanlı kod çalıştırmasını destekliyor.
-
-Platformda tamamlanan kodlama alıştırmaları otomatik değerlendirilirken, hata yapılan noktalarda öğrencilere yapay zekâ desteğiyle yönlendirici ipuçları sunuluyor. Öğrenciler ayrıca pekiştirmek istedikleri konular için yapay zekâdan yeni pratik soruları üretmesini talep edebiliyor.
-
-Açıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt, uzaktan eğitimde uygulamalı öğrenme olanaklarını güçlendirmeyi amaçladıklarını belirterek, Türkiye'nin dört bir yanındaki öğrencilerin mekândan bağımsız şekilde aynı laboratuvar altyapısına ulaşabilmesinin önemine dikkat çekti. Yapay Zekâ Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Özer Çelik ise kodlamanın yazarak öğrenileceğini vurgulayarak, öğrencilerin takıldıkları aşamalarda yapay zekâ ipuçlarıyla desteklendiğini ve platformun diğer Açıköğretim programlarına da kademeli olarak yaygınlaştırılacağını ifade etti.
 
 ---
