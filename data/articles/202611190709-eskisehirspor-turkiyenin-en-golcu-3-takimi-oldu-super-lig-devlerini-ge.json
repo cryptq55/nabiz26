@@ -21,10 +21,10 @@
     "title": "Eskişehirspor Türkiye profesyonel liglerinde en golcü 3. takım oldu - Bölge Gündemi",
     "url": "https://www.bolgegundemi.com/eskisehir/eskisehirspor-turkiye-profesyonel-liglerinde-en-golcu-3-takim-oldu-238692.html"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

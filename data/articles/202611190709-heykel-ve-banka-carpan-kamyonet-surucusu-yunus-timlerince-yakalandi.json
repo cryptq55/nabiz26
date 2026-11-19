@@ -22,10 +22,10 @@
     "title": "Eskişehir'de Heykel ve Bankaya Çarpan Kamyonet Sürücüsü Polis Tarafından Yakalandı - Hürgün Gazetesi",
     "url": "https://hurgun.com/haber/eskisehirde-heykel-ve-bankaya-carpan-kamyonet-surucusu-polis-tarafindan-yakalandi-172349"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "İsmet İnönü Caddesi Eskişehir"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
