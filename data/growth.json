@@ -104,32 +104,145 @@
    "takip": 0,
    "paylasim": 341,
    "erisim_7g": 24972
+  },
+  {
+   "gun": "2026-11-19",
+   "takipci": 245,
+   "takip": 0,
+   "paylasim": 348,
+   "erisim_7g": 26836
   }
  ],
  "paylasimlar": {
+  "18118948586043476": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T23:22:17+0000",
+   "link": "https://www.instagram.com/reel/Df5rIqZhoa9/",
+   "baslik": "🌙 Eskişehir'de bugün · 19 Kasım Perşembe",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 51,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 86
+  },
+  "18133755124704317": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T19:13:58+0000",
+   "link": "https://www.instagram.com/reel/Df5OwSIIv2D/",
+   "baslik": "Eskişehir'de Caz Günleri Coşkusu: Duygu Soylu Jazz Band Dinleyicilerle Buluştu",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 133,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 150
+  },
+  "18093831530501766": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T19:13:03+0000",
+   "link": "https://www.instagram.com/reel/Df5Op0LucFY/",
+   "baslik": "Anadolu Üniversitesi'nde Google Türkiye ile Yapay Zekâ ve Habercilik Eğitimi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 113,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 125
+  },
+  "17875886775601795": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T17:13:41+0000",
+   "link": "https://www.instagram.com/reel/Df5A_kjOHde/",
+   "baslik": "Eskişehir'in Simgesi 'Dedikoducu Kadınlar' Heykeline ve Banklara Çirkin Saldırı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 122,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 134
+  },
+  "18394145326205085": {
+   "tur": "FEED",
+   "zaman": "2026-11-18T15:54:21+0000",
+   "link": "https://www.instagram.com/p/Df438nElN-1/",
+   "baslik": "GTA 6 bu gece Türkiye'de oynanabilir oluyor: PlayStation Store fiyatı 3.999 TL",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 15,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 20
+  },
+  "17928322125201761": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T15:51:56+0000",
+   "link": "https://www.instagram.com/reel/Df43o9XJLQ4/",
+   "baslik": "Odunpazarı Belediyesi’nden Dört Çocuklu Anneme Destek Eli",
+   "begeni": 9,
+   "yorum": 0,
+   "reach": 820,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 9,
+   "views": 937
+  },
+  "17888721309505924": {
+   "tur": "REELS",
+   "zaman": "2026-11-18T15:49:59+0000",
+   "link": "https://www.instagram.com/reel/Df43Z-Wqs-a/",
+   "baslik": "Millî Mücadele'nin Lojistik Kahramanı Behiç Erkin Eskişehir'de Anıldı",
+   "begeni": 2,
+   "yorum": 0,
+   "reach": 143,
+   "saved": 1,
+   "shares": 0,
+   "total_interactions": 3,
+   "views": 151
+  },
   "18427285951157866": {
    "tur": "REELS",
    "zaman": "2026-11-18T15:46:53+0000",
    "link": "https://www.instagram.com/reel/Df43DpJCgx0/",
    "baslik": "Odunpazarı Belediyesi’nden Dört Çocuklu Anneme Destek Eli",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 204,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 236
   },
   "17980651391930819": {
    "tur": "REELS",
    "zaman": "2026-11-18T15:45:53+0000",
    "link": "https://www.instagram.com/reel/Df428kDpUnb/",
    "baslik": "Millî Mücadele'nin Lojistik Kahramanı Behiç Erkin Eskişehir'de Anıldı",
-   "begeni": 0,
-   "yorum": 0
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 122,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 134
   },
   "17998474836021313": {
    "tur": "REELS",
    "zaman": "2026-11-18T15:15:55+0000",
    "link": "https://www.instagram.com/reel/Df4zg1YKfpt/",
    "baslik": "Vali Erdinç Yılmaz'dan Hane Ziyareti: Kılıç Ailesinin Taleplerini Dinledi",
-   "begeni": 0,
-   "yorum": 0
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 438,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 1,
+   "views": 477
   },
   "17885000706534181": {
    "tur": "REELS",
@@ -137,7 +250,12 @@
    "link": "https://www.instagram.com/reel/Df4zO_AhDjo/",
    "baslik": "Yaşamkent Aile Destek Merkezi'nde Hazırlıklar Sona Erdi",
    "begeni": 0,
-   "yorum": 0
+   "yorum": 0,
+   "reach": 125,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 134
   },
   "18000441066059004": {
    "tur": "REELS",
@@ -146,11 +264,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 18 Kasım Çarşamba",
    "begeni": 0,
    "yorum": 0,
-   "reach": 106,
+   "reach": 110,
    "saved": 0,
    "shares": 2,
    "total_interactions": 2,
-   "views": 116
+   "views": 122
   },
   "18018299624970210": {
    "tur": "REELS",
@@ -159,11 +277,11 @@
    "baslik": "Tarayıcıdan Kodlama Dönemi: Anadolu Üniversitesi 26 Bin Öğrenciye AI Lab'ı Açtı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 110,
+   "reach": 113,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 121
+   "views": 124
   },
   "18135663745771729": {
    "tur": "REELS",
@@ -172,11 +290,11 @@
    "baslik": "Altın fiyatları 18 Kasım 2026: Gram altın 6.264,04 TL",
    "begeni": 1,
    "yorum": 0,
-   "reach": 123,
+   "reach": 128,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 146
+   "views": 150
   },
   "18102770321424771": {
    "tur": "REELS",
@@ -185,11 +303,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 18 Kasım Çarşamba",
    "begeni": 1,
    "yorum": 0,
-   "reach": 141,
+   "reach": 145,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 156
+   "views": 164
   },
   "18117845765161266": {
    "tur": "REELS",
@@ -198,11 +316,11 @@
    "baslik": "Eskişehir'deki 5 Lisede Patent ve Marka Seferberliği: Üniversiteliler Eğitti",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 125,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 131
+   "views": 133
   },
   "18025947110944715": {
    "tur": "REELS",
@@ -211,11 +329,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 17 Kasım Salı",
    "begeni": 23,
    "yorum": 0,
-   "reach": 1462,
+   "reach": 1464,
    "saved": 0,
    "shares": 3,
    "total_interactions": 26,
-   "views": 1669
+   "views": 1674
   },
   "18022702877739128": {
    "tur": "REELS",
@@ -237,7 +355,7 @@
    "baslik": "Başkan Ataç: 2030'a Kadar Sera Gazı Emisyonunu Yüzde 40 Azaltmayı Hedefliyoruz",
    "begeni": 0,
    "yorum": 0,
-   "reach": 132,
+   "reach": 133,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
@@ -315,11 +433,11 @@
    "baslik": "Kaligrafi ve Tipografiyle Yunus Emre: 18. Festival Sergisi Kapılarını Açtı",
    "begeni": 2,
    "yorum": 0,
-   "reach": 114,
+   "reach": 116,
    "saved": 0,
    "shares": 0,
    "total_interactions": 2,
-   "views": 128
+   "views": 129
   },
   "18111434336268504": {
    "tur": "REELS",
@@ -367,11 +485,11 @@
    "baslik": "Odunpazarı'nda İkinci Taksit İçin Süre Daralıyor: Vergi Ödemelerinde Son Gün 30 Kasım",
    "begeni": 1,
    "yorum": 0,
-   "reach": 130,
+   "reach": 131,
    "saved": 0,
    "shares": 2,
    "total_interactions": 3,
-   "views": 151
+   "views": 152
   },
   "18131352583838045": {
    "tur": "REELS",
