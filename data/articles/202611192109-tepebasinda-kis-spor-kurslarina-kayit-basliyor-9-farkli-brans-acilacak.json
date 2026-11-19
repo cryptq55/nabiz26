@@ -21,10 +21,10 @@
     "title": "Tepebaşı'nda Kış Kurslarına Kayıt 23 Kasım'da Başlıyor - Haber 26",
     "url": "https://www.haber26.com.tr/spor/tepebasi-nda-kis-kurslarina-kayit-23-kasim-da-basliyor"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yunus Emre Spor Tesisi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
