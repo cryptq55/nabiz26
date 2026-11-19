@@ -2,6 +2,72 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tramvay Güzergâhlarında Sıcak Asfalt Mesaisi: Bozuk Yollar Yenileniyor
+
+**Belediye · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13574&cat_icerik=1&menu_id=24)
+
+![](data/images/05f68e04c214e89b.jpg)
+
+> Eskişehir Büyükşehir Belediyesi, tramvay hatlarının geçtiği sokaklar başta olmak üzere kent genelinde sıcak asfalt ve yama çalışmalarını hızlandırdı.
+
+Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı ekipleri, kent merkezindeki ulaşım konforunu ve yol güvenliğini artırmak amacıyla yürüttüğü bakım ve onarım mesaisine devam ediyor. Ekipler, uygun hava koşullarını değerlendirerek bozulma yaşanan noktalara müdahale ediyor.
+
+Çalışmalar kapsamında son olarak Tepebaşı ilçesine bağlı Çamlıca Mahallesi Behçet Necatigil Sokak üzerinde asfalt yama çalışması gerçekleştirildi. Sorumluluk sahasındaki cadde ve bulvarları düzenli olarak denetleyen belediye ekipleri, özellikle tramvay geçişlerinin bulunduğu arterleri öncelikli olarak çalışma programına alıyor.
+
+Tramvay hatlarıyla kesişen veya güzergâh üzerinde bulunan yollarda uygulanan sıcak asfalt kaplama ve yama işlemleriyle, zemin bozulmalarının önüne geçilmesi ve trafik güvenliğinin yükseltilmesi hedefleniyor. Yetkililer, kış koşulları öncesinde ihtiyaç duyulan sokak ve caddelerdeki bakım çalışmalarının sürdürüleceğini bildirdi.
+
+---
+
+## Japon Besteci Kozakura Konservatuvarda Sahne Aldı: Çağdaş Müzik Rüzgârı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fsgct2vgd2yfglzl4u1o0r2s)
+
+![](data/images/664005150f3d373a.jpg)
+
+> Anadolu Üniversitesi Devlet Konservatuvarı, Japon besteci Prof. Hideki Kozakura ve piyanist Deniz Erden'in elektronik müzik performansına ev sahipliği yaptı.
+
+Anadolu Üniversitesi Devlet Konservatuvarı tarafından organize edilen “Beyond Silence: BbYond Mozart & Ambient Works” başlıklı çağdaş müzik konseri, Koral Çalgan Salonu'nda dinleyicilerle buluştu.
+
+Konsere Bestecilik ve Orkestra Şefliği Anasanat Dalı Başkanı Prof. Dr. Berkant Gençkal'ın yanı sıra çok sayıda öğrenci ve müziksever katıldı.
+
+Etkinlikte Japon besteci Prof. Hideki Kozakura ile piyanoda besteci Deniz Erden, elektronik müzik tınıları eşliğinde sahne aldı. Dinletide Toru Takemitsu’nun “Litany”, Wenhao Zhao’nun “Drizzle and Fog 2” ve Kozakura’nın kendi bestesi olan “BbYond Mozart” eserleri seslendirildi.
+
+---
+
+## COP31'de 81 İlden Genç İklim Delegeleri Buluştu: Bildiriler Kitaplaştırılıyor
+
+**Eğitim · Türkiye** · 2026-11-19 17:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop31039de-quot81-il-81-iklim-delegesi-genclik-paneliquot-duzenlendi/haber/42590/tr)
+
+![](data/images/bce455b47e2dcb7c.jpg)
+
+> Antalya'daki COP31 İklim Zirvesi kapsamında kurulan Türkiye İklim Okulunda bir araya gelen 81 ilden lise öğrencisi, çevre ve iklim krizine dair hazırladıkları çözüm önerilerini paylaştı.
+
+Millî Eğitim Bakanlığı tarafından Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde kurulan Türkiye İklim Okulunda "81 İl 81 İklim Delegesi Gençlik Paneli" düzenlendi. Antalya'da gerçekleştirilen programa Türkiye'nin 81 ilinden seçilen birer lise öğrencisi iklim delegesi olarak katıldı.
+
+Panelde, genç delegeler tarafından hazırlanan çalışmalar arasından 10 temel tema altında öne çıkan bildirilerin sunumu yapıldı. Söz alan öğrenciler, iklim değişikliğiyle mücadele, çevre bilinci ve sürdürülebilir bir geleceğe yönelik tespit ve çözüm tekliflerini katılımcılara aktardı. 81 ilden gelen tüm bildirilerin "81 İl 81 Genç İklim Delegesi" adıyla dijital ortamda yayımlanacağı açıklandı.
+
+Genç iklim elçilerinin zirveye yönelik değerlendirme ve mesajlarını içeren video kayıtları ise Türkiye haritası üzerinden hazırlanan etkileşimli bir sistemde toplandı. Harita üzerinden seçilen illerdeki öğrencilerin görüşleri izlenebilirken, projeyle gençlerin iklim alanındaki karar alma mekanizmalarına katılımının güçlendirilmesi amaçlanıyor.
+
+---
+
+## 34 Ülkeden 55 Film Eskişehir'de: 23. Uluslararası Film Festivali Perdelerini Açtı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/23-eskisehir-uluslararasi-film-festivali-basladi-119527136)
+
+![](data/images/2c039fcc6ed518dc.jpg)
+
+> Anadolu Üniversitesi'nin düzenlediği 23. Eskişehir Uluslararası Film Festivali, '500 Mil' filminin Türkiye prömiyeri ve açılış töreniyle başladı.
+
+Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi İletişim Bilimleri Fakültesi tarafından hayata geçirilen 23. Eskişehir Uluslararası Film Festivali, Yunus Emre Yerleşkesi'ndeki Sinema Anadolu'da düzenlenen törenle başladı. Festival, Türkiye'deki üniversite festivalleri arasında uzun metrajlı film gösterimi yapan tek organizasyon olma özelliğini sürdürüyor.
+
+Açılışta konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, üniversitenin kentin kültürel ve ekonomik gelişimine yön veren köklü bir kurum olduğunu belirtti. Festival Yönetmeni Prof. Dr. Sırrı Serhat Serter ise etkinlik boyunca 34 ülkeden 55 filmin 8 gün boyunca izleyiciyle buluşacağını aktararak, programda film gösterimlerinin yanı sıra söyleşiler, atölyeler ve sempozyumların yer alacağını kaydetti.
+
+Törende geleneksel sinema ödülleri de sahiplerini buldu. "Sinema Emek Ödülleri" yönetmen ve yapımcı Biket İlhan ile Necip Sarıcı'ya takdim edilirken, "Sinema Onur Ödülleri" usta yönetmen Feyzi Tuna ve oyuncu Nilüfer Aydan'a verildi. "Sinema Kültürüne Katkı Ödülü" ise Türkiye Film Araştırmalarında Yeni Yönelimler Konferansı'nın oldu.
+
+Festival, Morgan Matthews yönetmenliğindeki 2026 yapımı "500 Mil" (500 Miles) filminin Türkiye prömiyeriyle start aldı. Piyano eşliğinde sessiz film gösterimleri ve özel sinema derslerinin de yer alacağı zengin program, 27 Kasım'a kadar sinemaseverleri ağırlamaya devam edecek.
+
+---
+
 ## Odunpazarı'nda Kitap ve Sanat Günleri Başlıyor: İki Gün Boyunca İmza ve Söyleşi
 
 **Kültür-Sanat · Odunpazarı** · 2026-11-19 15:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-sanat-ve-kitap-gunleri-basliyor)
@@ -423,67 +489,5 @@ Kutlamalar çerçevesinde 81 ilden belirlenen temsilci öğretmenler, 23-24 Kas�
 Öğretmenler Günü, 24 Kasım sabahı Anıtkabir ziyaretiyle başlayacak. Bakan Tekin ve öğretmen heyetinin mozoleye çelenk sunmasının ardından sergi açılışları ve söyleşiler düzenlenecek. Heyet akşam saatlerinde ise Cumhurbaşkanlığı Külliyesi'nde gerçekleştirilecek "Öğretmene Saygı Gecesi" programına katılacak. Geceye şehit öğretmen yakınları, emekli ve depremzede eğitimcilerin de aralarında bulunduğu yaklaşık 2 bin kişinin katılması öngörülüyor.
 
 Kutlama programı kapsamında ayrıca 81 ilde "ÖğretmenİZ" söyleşileri gerçekleştirilecek. Ankara'da 25-27 Kasım'da 3. Maarif Kongresi düzenlenecek; İstanbul'da ise Türk Dünyası Öğretmen Buluşması ve emekli öğretmenlere yönelik vefa günleri organize edilecek. Farklı bakanlıklarla yapılan iş birlikleriyle fidan dikimi, spor turnuvaları, askeri bando dinletileri ve sosyal tesis indirimleri gibi birçok etkinlik de hayata geçirilecek.
-
----
-
-## Sivrihisar'a Ücretsiz Nostaljik Tramvay Geliyor: Merkez ile Otogar Arasında Çalışacak
-
-**Ulaşım · Sivrihisar** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.gazetevatan.com/galeri/eskisehirde-bir-ilk-daha-o-ilceye-ucretsiz-tramvay-geliyor-2465649)
-
-> Sivrihisar Belediyesi, ilçe merkezi ile otogar arasında tamamen ücretsiz hizmet verecek nostaljik tramvay projesi için ilk adımı attı.
-
-Eskişehir'in "Sakin Şehir" unvanlı tarihi ilçesi Sivrihisar'da ilçe içi ulaşımı ve turizmi destekleyecek nostaljik tramvay projesi başlatıldı. İlçe merkezi ile otogar hattı arasında sefer yapacak olan tramvaydan hem yöre halkı hem de ilçeye gelen turistler ücretsiz yararlanacak.
-
-Sivrihisar Belediye Başkanı Habil Dökmeci, nostaljik tramvay projesinin hayata geçirilmesi kapsamında Denizli'de üretim yapan bir firma ile temaslara başladı. İlçenin tarihi dokusuna uyumlu şekilde tasarlanması hedeflenen hat için ilçe merkezindeki güzergâh belirleme çalışmaları yürütülüyor.
-
-Yılda 1 milyondan fazla ziyaretçiyi ağırlayan ilçede hizmete girecek tramvayın son durağı Sivrihisar Şehirlerarası Otobüs Terminali olacak. Proje, tarihi sokaklara görsel zenginlik kazandırmanın yanı sıra otogar ile ilçe merkezi arasındaki yolcu taşımacılığını da kolaylaştıracak.
-
-Güzergâh planlaması ve araç teminine yönelik görüşmelerin tamamlanmasının ardından uygulama takvimi netleşecek.
-
----
-
-## MEB COP31'de Açıkladı: Çevre ve İklim Farkındalığı Aile Okullarına Taşınıyor
-
-**Eğitim · Türkiye** · 2026-11-18 19:10 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop31039de-quotiklim-degisikligine-direncli-toplumlar-icin-egitim-kultur-ve-hayat-boyu-ogrenmequot-paneli-duzenlendi/haber/42571/tr)
-
-![](data/images/82ae20eb480b8727.jpg)
-
-> Millî Eğitim Bakan Yardımcısı Celile Eren Ökten, COP31 panelinde iklim ve çevre bilincinin aile okulları ve halk eğitimi atölyeleriyle kalıcı alışkanlıklara dönüştürülmesini hedeflediklerini bildirdi.
-
-Antalya'da devam eden Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) bünyesinde, "İklim Değişikliğine Dirençli Toplumlar İçin Eğitim, Kültür ve Hayat Boyu Öğrenme" başlıklı panel düzenlendi.
-
-Mavi Bölge'deki Türkiye Pavilyonu'nda, Millî Eğitim Bakanlığı uzmanı Burcu Evren'in moderatörlüğünde gerçekleşen oturuma Millî Eğitim Bakan Yardımcısı Celile Eren Ökten, UNESCO Türkiye Millî Komisyonu Yönetim Kurulu Başkanı Mehmet Öcal Oğuz ve ekonomist Şebnem Şahin konuşmacı olarak katıldı.
-
-Panelde konuşan Bakan Yardımcısı Ökten, Türkiye Yüzyılı Maarif Modeli kapsamında sürdürülebilir okuryazarlığa büyük önem verdiklerini ve öğrencilerin çevresel konuları çok boyutlu bakış açısıyla ele aldığını belirtti. Bilgi birikimini eyleme dökmeyi amaçladıklarını vurgulayan Ökten; halk eğitimi merkezlerinde tekstil dikimi ve ileri dönüşüm atölyeleri açıldığını, bu kurslar sayesinde sürdürülebilir malzeme kullanımının günlük yaşamın bir parçası haline gelmesini hedeflediklerini kaydetti.
-
-Eğitim sürecinde en temel unsurun aile kurumu olduğuna dikkati çeken Ökten, ilköğretimden ortaöğretime kadar uzanan aile okulu programlarıyla çevre farkındalığının evlerde yerleşik bir kültüre dönüşmesi için çalışmaların sürdüğünü ifade etti.
-
----
-
-## KOOP-İŞ Heyetinden ESTÜ Rektörü Prof. Dr. Adnan Özcan'a Tebrik Ziyareti
-
-**Eğitim · Tepebaşı** · 2026-11-18 19:10 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/koop-is-sendikasi-eskisehir-bolge-sorumlusu-erdal-esir-ve-is-yeri-temsilcilerinden-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/93ec494618aaaca2.jpg)
-
-> KOOP-İŞ Sendikası Eskişehir Bölge Sorumlusu Erdal Esir ve heyeti, yeniden rektörlüğe atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
-
-Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a yönelik hayırlı olsun ziyaretleri devam ediyor.
-
-KOOP-İŞ Sendikası Eskişehir Bölge Sorumlusu Erdal Esir ve beraberindeki iş yeri temsilcileri, ESTÜ Rektörlük Ofisinde Prof. Dr. Özcan'ı ziyaret etti. Esir, ikinci dönemine başlayan Özcan'ı tebrik ederek yeni çalışma döneminde başarılar diledi.
-
-Ziyaretten ötürü memnuniyetini dile getiren Rektör Prof. Dr. Adnan Özcan ise nezaketleri ve iyi niyet temennileri dolayısıyla heyete teşekkür etti.
-
----
-
-## Eskişehirspor Söke Deplasmanına Odaklandı: Hazırlıklar Başladı
-
-**Spor · Merkez** · 2026-11-18 19:10 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.medyagazete.com/haber/eskisehirsporda-soke-1970-sk-maci-hazirliklari-basladi)
-
-> Nesine 3. Lig 2. Grup’ta zirve mücadelesi veren Eskişehirspor, 13. hafta kapsamında deplasmanda oynayacağı Söke 1970 SK maçının antrenmanlarına start verdi.
-
-Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, ligin 13. haftasında deplasmanda konuk olacağı Söke 1970 SK karşılaşmasının hazırlıklarına başladı.
-
-Siyah-kırmızılı kulübün resmî kanallarından yapılan bilgilendirmeye göre, takım 22 Kasım Pazar günü deplasmanda oynanacak kritik müsabaka öncesi antrenman takvimini uygulamaya koydu. Teknik heyet gözetiminde sahaya çıkan futbolcular, zorlu randevudan galibiyetle ayrılmak amacıyla taktik ve kondisyon ağırlıklı çalışmalar gerçekleştirdi.
 
 ---
