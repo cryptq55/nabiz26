@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 19 Kasım 2026: Gram altın 6.199,49 TL
+
+**Ekonomi · Merkez** · 2026-11-19 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261119.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.108,90 TL'den alınıyor, 6.199,49 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.199,49 TL, alış fiyatı 6.108,90 TL oldu. Gram altın, önceki kapanışa göre yüzde 7,71 geriledi.
+
+Ziynet altınlarda çeyrek altın 10.101 TL, yarım altın 20.202 TL, tam altın 40.280 TL, ata altın 41.329 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.784,51 TL, has altının gram fiyatı 6.175,01 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.741,40 dolardan işlem görürken, dolar/TL 50,55 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Togg'dan Kadınlara Özel Finansman Paketi: Garanti BBVA ile Yeni Kampanya Yolda
 
 **Ekonomi · Türkiye** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Togg](https://istanbulticaretgazetesi.com/togg-kadinlara-ozel-kampanya-2026-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak)
@@ -473,21 +493,5 @@ Antalya'daki buluşmada ESOGÜ'yü Rektör Danışmanı ve COP31 Koordinatörü 
 Sunulan projeler arasında Prof. Dr. Ersin Karademir'in "İklim Dirençliliği İçin STEM ile Bütünleşik Afet Eğitimi ve Doğa Tabanlı Çözümler" çalışması yer aldı. Prof. Dr. Özgür Emiroğlu ise "Türkiye'de Karasal Alanlarda ve İç Sularda İstilacı Yabancı Tür Tehditlerinin Ele Alınması" ile "Türkiye İç Sularındaki İstilacı Gümüşi Havuz Balığı Popülasyonlarının Genetik Çeşitliliği" başlıklı iki projesini aktardı.
 
 Programda kabul edilen diğer çalışmalar arasında Prof. Dr. Arif Kıvrak'ın "Dijital Yeşil" projesi ile Prof. Dr. Taki Karslı'nın "Denizli ve Gerze Tavuklarında ddRADseq ile Genetik Çeşitlilik ve Seleksiyon İzleri" ve "Ile de France × Anadolu Merinosu Koyunlarında Sıcaklık Stresi Toleransı ve Aday Genler" başlıklı araştırmaları da sunuldu. Konferans boyunca ESOGÜ heyeti, YÖK Genel Kurul Üyesi Prof. Dr. Derviş Karaboğa ile bir araya gelerek yürütülen faaliyetler üzerine görüştü.
-
----
-
-## Bilecik Şeyh Edebali Üniversitesi Rektörü Kaplancıklı'dan ESTÜ'ye Ziyaret
-
-**Eğitim · Tepebaşı** · 2026-11-18 11:43 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/bilecik-seyh-edebali-universitesi-rektoru-prof-dr-zafer-asim-kaplanciklidan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/6adc5eb5d1b72e53.jpg)
-
-> Bilecik Şeyh Edebali Üniversitesi Rektörü Prof. Dr. Zafer Asım Kaplancıklı, ESTÜ Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan'ı ziyaret etti.
-
-Bilecik Şeyh Edebali Üniversitesi Rektörü Prof. Dr. Zafer Asım Kaplancıklı, Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a hayırlı olsun ziyaretinde bulundu.
-
-Rektörlük ofisinde gerçekleştirilen buluşmada Prof. Dr. Kaplancıklı, Prof. Dr. Özcan'ı tebrik ederek yeni dönemi için başarı dileklerini iletti.
-
-ESTÜ Rektörü Prof. Dr. Adnan Özcan ise konuk rektöre nazik ziyareti ve iyi dilekleri dolayısıyla teşekkür etti.
 
 ---
