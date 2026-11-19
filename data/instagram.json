@@ -1,7 +1,5 @@
 {
  "stories": [
-  "202610230735-eskisehirde-hava-parcali-ve-az-bulutlu-sicaklik-22-dereceye-cikacak",
-  "202610230833-eskisehirde-2026-2027-egitim-ogretim-yilinin-oncelikleri-toplantida-el",
   "202610230833-eskisehirspora-altay-macindaki-saha-olaylari-nedeniyle-35-bin-lira-par",
   "202610230833-odunpazarinda-ciborekcide-yangin-2-kisi-dumandan-etkilendi",
   "202610230833-bakan-tekin-meb-cocuklara-zarar-verdigi-gerekcesiyle-metaya-dava-acmay",
@@ -499,7 +497,9 @@
   "202611191709-cop31de-81-ilden-genc-iklim-delegeleri-bulustu-bildiriler-kitaplastiri",
   "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor",
   "202611191908-kizilelma-tsk-envanterinde-cumhurbaskani-erdogan-tarihi-gunu-duyurdu",
-  "202611191909-bayraktar-kizilelma-tsk-envanterinde-ilk-3-insansiz-savas-ucagi-teslim"
+  "202611191909-bayraktar-kizilelma-tsk-envanterinde-ilk-3-insansiz-savas-ucagi-teslim",
+  "202611192109-eskisehirsporda-soke-deplasmani-oncesi-6-eksik-kaptan-kadroda-yok",
+  "202611192109-baskanlar-eskisehir-icin-masada-kent-gundemi-ve-ilce-projeleri-gorusul"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -739,11 +739,11 @@
   "202611191709-34-ulkeden-55-film-eskisehirde-23-uluslararasi-film-festivali-perdeler",
   "202611191509-odunpazarinda-kitap-ve-sanat-gunleri-basliyor-iki-gun-boyunca-imza-ve-",
   "202611191709-japon-besteci-kozakura-konservatuvarda-sahne-aldi-cagdas-muzik-ruzgari",
-  "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor"
+  "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor",
+  "202611192109-eskisehirsporda-soke-deplasmani-oncesi-6-eksik-kaptan-kadroda-yok",
+  "202611191509-buyukderede-410-metrelik-isale-hatti-yenilendi-eski-calismayi-tamamlad"
  ],
  "log": [
-  1795029189.7427068,
-  1795029243.9141426,
   1795072320.109105,
   1795072378.6657374,
   1795072395.3010337,
@@ -756,7 +756,10 @@
   1795115629.082367,
   1795115649.208624,
   1795115665.3153152,
-  1795115683.7461526
+  1795115683.7461526,
+  1795122748.9320428,
+  1795122798.7748613,
+  1795122817.675291
  ],
  "reel_log": [
   1795072320.1091075,
@@ -764,6 +767,8 @@
   1795108346.1981075,
   1795108410.0564265,
   1795115548.9728804,
-  1795115608.9896193
+  1795115608.9896193,
+  1795122748.9320447,
+  1795122798.774863
  ]
 }
