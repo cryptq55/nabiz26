@@ -1,14 +1,14 @@
 # Instagram büyüme raporu (@nabiz26haber)
 
-Güncelleme: 19.11.2026 03:29 TSİ. Otomatik üretilir (`growth.py`, `growth.yml`).
+Güncelleme: 19.11.2026 18:53 TSİ. Otomatik üretilir (`growth.py`, `growth.yml`).
 
-**Takipçi: 245** · takip edilen 0 · paylaşım 348
-- Son 1 gün: +2 takipçi
-- Son 7 gün: +73 takipçi
+**Takipçi: 255** · takip edilen 0 · paylaşım 351
+- Son 1 gün: +12 takipçi
+- Son 7 gün: +83 takipçi
 
 | Gün | Takipçi | Paylaşım | 7 gün erişim |
 |---|---|---|---|
-| 2026-11-19 | 245 | 348 | 26836 |
+| 2026-11-19 | 255 | 351 | 25418 |
 | 2026-11-18 | 243 | 341 | 24972 |
 | 2026-11-17 | 234 | 333 | 26350 |
 | 2026-11-16 | 211 | 315 | 22701 |
@@ -27,8 +27,8 @@ Güncelleme: 19.11.2026 03:29 TSİ. Otomatik üretilir (`growth.py`, `growth.yml
 
 | Tür | Adet | Erişim | Beğeni | Kaydetme | Paylaşma |
 |---|---|---|---|---|---|
-| REELS | 145 | 458.2 | 2.8 | 0.3 | 0.6 |
-| FEED | 42 | 13.7 | 0.1 | 0.0 | 0.0 |
+| REELS | 148 | 461.9 | 2.9 | 0.3 | 0.6 |
+| FEED | 42 | 13.8 | 0.1 | 0.0 | 0.0 |
 
 ## En çok erişen paylaşımlar
 
