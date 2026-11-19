@@ -1,6 +1,5 @@
 {
  "stories": [
-  "202610230433-chpli-tarhan-avrupanin-made-in-europe-yaklasimina-turkiye-izlemekle-ye",
   "202610230433-chp-myk-iki-ibb-meclis-uyesi-ile-tarsus-belediye-baskanini-disipline-s",
   "202610230534-ak-partili-inan-erdogan-kasim-ayinda-izmire-gelecek",
   "202610230636-eskisehirde-23-ekimde-7-ilcede-planli-elektrik-kesintisi-mahalle-mahal",
@@ -499,7 +498,8 @@
   "202611190509-meslek-ogrenene-nakdi-destek-megem-ve-kizilaydan-istihdam-protokolu",
   "202611190509-toggdan-kadinlara-ozel-finansman-paketi-garanti-bbva-ile-yeni-kampanya",
   "202611190509-erdogan-sermaye-piyasalarina-organize-kotuluk-yapanlardan-hesap-sorulu",
-  "202611190600-altin-fiyatlari-19-kasim-2026-gram-altin-6-199-49-tl"
+  "202611190600-altin-fiyatlari-19-kasim-2026-gram-altin-6-199-49-tl",
+  "202611190709-mebden-pisa-zirvesi-turkiyenin-basari-grafigi-baskentte-masaya-yatiril"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -731,12 +731,11 @@
   "202611181143-odunpazari-belediyesinden-dort-cocuklu-anneme-destek-eli",
   "202611181710-eskisehirin-simgesi-dedikoducu-kadinlar-heykeline-ve-banklara-cirkin-s",
   "202611181910-anadolu-universitesinde-google-turkiye-ile-yapay-zeka-ve-habercilik-eg",
-  "202611181910-eskisehirde-caz-gunleri-coskusu-duygu-soylu-jazz-band-dinleyicilerle-b"
+  "202611181910-eskisehirde-caz-gunleri-coskusu-duygu-soylu-jazz-band-dinleyicilerle-b",
+  "202611190509-meslek-ogrenene-nakdi-destek-megem-ve-kizilaydan-istihdam-protokolu",
+  "202611190600-altin-fiyatlari-19-kasim-2026-gram-altin-6-199-49-tl"
  ],
  "log": [
-  1794981796.3288555,
-  1794981881.771641,
-  1794981898.7941518,
   1795014812.8958871,
   1795014960.7178276,
   1795014973.5984132,
@@ -749,17 +748,20 @@
   1795022044.6402407,
   1795022062.7192183,
   1795029189.7427068,
-  1795029243.9141426
+  1795029243.9141426,
+  1795072320.109105,
+  1795072378.6657374,
+  1795072395.3010337
  ],
  "reel_log": [
-  1794981796.328858,
-  1794981881.771643,
   1795014812.8958898,
   1795014960.7178297,
   1795016757.8518753,
   1795016818.7337031,
   1795022025.9795096,
   1795029189.7427087,
-  1795029243.914145
+  1795029243.914145,
+  1795072320.1091075,
+  1795072378.6657393
  ]
 }
