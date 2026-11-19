@@ -1,7 +1,5 @@
 {
  "stories": [
-  "202610230833-mebin-ekim-ayi-aile-egitim-bulteni-yayimlandi-okul-oncesi-egitim-temal",
-  "202610230735-eskisehirsporda-dereli-kulet-ve-damarin-hafta-sonu-forma-sansi-dusuk",
   "202610230735-eskisehirde-hava-parcali-ve-az-bulutlu-sicaklik-22-dereceye-cikacak",
   "202610230833-eskisehirde-2026-2027-egitim-ogretim-yilinin-oncelikleri-toplantida-el",
   "202610230833-eskisehirspora-altay-macindaki-saha-olaylari-nedeniyle-35-bin-lira-par",
@@ -499,7 +497,9 @@
   "202611191709-japon-besteci-kozakura-konservatuvarda-sahne-aldi-cagdas-muzik-ruzgari",
   "202611191709-34-ulkeden-55-film-eskisehirde-23-uluslararasi-film-festivali-perdeler",
   "202611191709-cop31de-81-ilden-genc-iklim-delegeleri-bulustu-bildiriler-kitaplastiri",
-  "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor"
+  "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor",
+  "202611191908-kizilelma-tsk-envanterinde-cumhurbaskani-erdogan-tarihi-gunu-duyurdu",
+  "202611191909-bayraktar-kizilelma-tsk-envanterinde-ilk-3-insansiz-savas-ucagi-teslim"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -575,7 +575,9 @@
   "202611150904-evde-bakim-yardimi-hesaplara-yatiyor-bu-ay-toplam-7-8-milyar-lira-oden",
   "202611141847-toggdan-kasim-kampanyasi-1-5-milyon-liraya-kadar-sifir-faiz-firsati",
   "202611160504-karayollari-iha-ve-siha-pisti-oluyor-52-guzergah-belirlendi",
-  "202611181543-gta-6-bu-gece-turkiyede-oynanabilir-oluyor-playstation-store-fiyati-3-"
+  "202611181543-gta-6-bu-gece-turkiyede-oynanabilir-oluyor-playstation-store-fiyati-3-",
+  "202611191909-bayraktar-kizilelma-tsk-envanterinde-ilk-3-insansiz-savas-ucagi-teslim",
+  "202611191908-kizilelma-tsk-envanterinde-cumhurbaskani-erdogan-tarihi-gunu-duyurdu"
  ],
  "reels": [
   "202610221533-savunma-sanayii-baskan-yardimcisi-gokhan-ucar-eskisehir-teknik-univers",
@@ -735,12 +737,11 @@
   "202611190509-meslek-ogrenene-nakdi-destek-megem-ve-kizilaydan-istihdam-protokolu",
   "202611190600-altin-fiyatlari-19-kasim-2026-gram-altin-6-199-49-tl",
   "202611191709-34-ulkeden-55-film-eskisehirde-23-uluslararasi-film-festivali-perdeler",
-  "202611191509-odunpazarinda-kitap-ve-sanat-gunleri-basliyor-iki-gun-boyunca-imza-ve-"
+  "202611191509-odunpazarinda-kitap-ve-sanat-gunleri-basliyor-iki-gun-boyunca-imza-ve-",
+  "202611191709-japon-besteci-kozakura-konservatuvarda-sahne-aldi-cagdas-muzik-ruzgari",
+  "202611191709-tramvay-guzergahlarinda-sicak-asfalt-mesaisi-bozuk-yollar-yenileniyor"
  ],
  "log": [
-  1795022025.979507,
-  1795022044.6402407,
-  1795022062.7192183,
   1795029189.7427068,
   1795029243.9141426,
   1795072320.109105,
@@ -749,14 +750,20 @@
   1795108346.198105,
   1795108410.0564249,
   1795108428.2988045,
-  1795108442.303982
+  1795108442.303982,
+  1795115548.9728782,
+  1795115608.989617,
+  1795115629.082367,
+  1795115649.208624,
+  1795115665.3153152,
+  1795115683.7461526
  ],
  "reel_log": [
-  1795029189.7427087,
-  1795029243.914145,
   1795072320.1091075,
   1795072378.6657393,
   1795108346.1981075,
-  1795108410.0564265
+  1795108410.0564265,
+  1795115548.9728804,
+  1795115608.9896193
  ]
 }
