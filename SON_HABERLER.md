@@ -2,6 +2,88 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'na AB Destekli Rüzgâr Hibesi: Temiz Enerji Haritası Çıkarılacak
+
+**Belediye · Tepebaşı** · 2026-11-20 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınhibezincirineyenihalka)
+
+![](data/images/c055797138f04e95.jpg)
+
+> Tepebaşı Belediyesi, ilçenin rüzgâr enerjisi potansiyelini belirlemek için hazırladığı projeyle AB destekli TÜREB programından 15 bin avro hibe almaya hak kazandı.
+
+Tepebaşı Belediyesi, temiz enerji yatırımlarına yön vermek ve ilçenin rüzgâr enerjisi potansiyelini ortaya çıkarmak amacıyla hazırladığı projeyle yeni bir dış kaynak sağladı. Türkiye Rüzgâr Enerjisi Birliği (TÜREB) tarafından yürütülen ve Avrupa Birliği tarafından desteklenen hibe programı kapsamındaki sözleşme, Tepebaşı Belediye Başkan Yardımcısı Suat Yalnızoğlu tarafından Ankara'da imzalandı.
+
+Toplam 16 bin 800 avro bütçeli projeye 15 bin avro hibe desteği verilecek. Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü koordinesinde 23 Kasım 2026'da başlayacak ve dokuz ay sürecek çalışma kapsamında, Coğrafi Bilgi Sistemleri desteğiyle rüzgâr verileri, arazi yapısı ve şebeke bağlantısı uygun olan en fazla üç alan belirlenerek incelenecek. Çalışmanın sonucunda belediyenin elektrik tüketimini rüzgârdan karşılamaya yönelik teknik ön değerlendirme raporu ve yol haritası hazırlanacak.
+
+Teknik incelemelerin yanı sıra belediye personeline ve öğrencilere yönelik eğitim atölyeleri de düzenlenecek. Ayrıca Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda enerji sektörü temsilcileri, sivil toplum kuruluşları ve kent sakinlerinin bir araya geleceği bir "Enerji Günü" organize edilerek elde edilen veriler kamuoyuyla paylaşılacak.
+
+---
+
+## MEB'den Öğrencilere 'Dijital Anadolu Medeniyetleri Ansiklopedisi'
+
+**Eğitim · Türkiye** · 2026-11-20 13:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/anadolu-medeniyetleri-ogrencilere-quotdijital-ansiklopediquot-ile-tanitilacak/haber/42598/tr)
+
+![](data/images/390e9c3ba773009d.jpg)
+
+> Millî Eğitim Bakanlığı, Anadolu'nun köklü kültürel mirasını yeni nesillere tanıtmak amacıyla 800 dakikalık belgesel serisinden oluşan dijital ansiklopedi projesini kullanıma sunuyor.
+
+Millî Eğitim Bakanlığı Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü, dijital eğitim platformlarının içeriklerini zenginleştirmek amacıyla "Dijital Anadolu Medeniyetleri Ansiklopedisi" projesini başlattı. Çalışmayla Anadolu medeniyetlerinin insanlık tarihine sunduğu katkıların görünür kılınması ve kültürel mirasın gelecek kuşaklara aktarılması hedefleniyor.
+
+Türkiye Yüzyılı Maarif Modeli öğretim programlarında yer alan kavramlarla ilişkilendirilen proje doğrultusunda, ilk aşamada 100 kavram ele alındı. Ardından ortaokul ve lise müfredatıyla uyumlu ilave 100 kavram için toplam 800 dakikalık eğitsel video içeriği oluşturuldu.
+
+Belgesel anlatım tarzında hazırlanan ve her biri 8 dakika süren eğitsel videolar, üç boyutlu animasyonlar, hareketli grafikler ve gerçek mekân çekimleriyle desteklendi. Öğrencilerin kültürel kavramları görsel ve işitsel yöntemlerle kavramasını amaçlayan yapımlar, Türkçe ve İngilizce dil seçeneklerinin yanı sıra çift dilde alt yazı desteğiyle sunuluyor.
+
+Hazırlanan tüm içerikler EBA, TRT EBA ve Bakanlığa bağlı diğer dijital platformlar aracılığıyla öğrenci, öğretmen ve velilerin erişimine açık olacak.
+
+---
+
+## ESTÜ'den Akademik Başarı: URAP Sıralamasında Türkiye'de İlk 10'a Girdi
+
+**Eğitim · Tepebaşı** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-urap-20262027-turkiye-siralamasinda-ilk-10-universite-arasinda)
+
+![](data/images/fa4ac70cb67118af.jpg)
+
+> Eskişehir Teknik Üniversitesi, URAP 2026–2027 Türkiye Sıralaması'nda tıp fakültesi bulunmayan üniversiteler kategorisinde 10. basamakta yer aldı.
+
+Orta Doğu Teknik Üniversitesi Enformatik Enstitüsü bünyesindeki URAP Araştırma Laboratuvarı tarafından hazırlanan 2026–2027 Türkiye Sıralaması açıklandı. Yayımlanan raporda Eskişehir Teknik Üniversitesi (ESTÜ), tıp fakültesi bulunmayan yükseköğretim kurumları arasında 667,80 puan toplayarak 10. sıraya yerleşti.
+
+İTÜ, ODTÜ, Sabancı, Yıldız Teknik ve Boğaziçi gibi üniversitelerin yer aldığı listede ilk 10 arasındaki yerini koruyan ESTÜ, bilimsel araştırma ve akademik üretimdeki istikrarını sürdürdü.
+
+Söz konusu sıralama Clarivate Analytics/InCites ile YÖK verileri temel alınarak oluşturuldu. Değerlendirme sürecinde bilimsel yayınlar, atıf sayıları, öğretim üyesi başına düşen üretkenlik, doktora mezun ve öğrenci oranları, ulusal ve uluslararası iş birlikleri ile TÜBİTAK destekli projeler olmak üzere toplam 15 farklı akademik gösterge dikkate alındı.
+
+---
+
+## ESOGÜ'de Geleceğin Diş Hekimleri Beyaz Önlüklerini Giydi: Yeni Hastane Müjdesi
+
+**Eğitim · Odunpazarı** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2153)
+
+> Eskişehir Osmangazi Üniversitesi Diş Hekimliği Fakültesi 1. sınıf öğrencileri, düzenlenen törenle beyaz önlüklerini giyerek mesleğe ilk adımı attı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Diş Hekimliği Fakültesi 14. dönem birinci sınıf öğrencileri için Kongre ve Kültür Merkezi'nde "2026-2027 Eğitim-Öğretim Yılı Beyaz Önlük Giyme Töreni" gerçekleştirildi. Törene üniversite yönetimi, akademisyenler, sağlık sektörü temsilcileri ve öğrenci aileleri katıldı.
+
+Törende konuşan ESOGÜ Rektörü Prof. Dr. Emine Gümüşsoy, fakültenin güçlü kadrosuyla başarılı hekimler yetiştirdiğini belirterek birkaç ay içerisinde yeni hastane binasına taşınma sürecinin tamamlanacağını ve bu adımla hizmet kapasitesinin daha da güçleneceğini duyurdu. Öğrencilere seslenen Gümüşsoy, beyaz önlüğün dürüstlük ve sorumluluğun simgesi olduğunu vurguladı.
+
+Diş Hekimliği Fakültesi Dekanı Prof. Dr. Batu Can Yaman ise Türkiye'de bilimsel diş hekimliğinin temellerinin 22 Kasım 1908'de atıldığını hatırlatarak, mesleğin teknolojik gelişmelerle birlikte sürekli bir öğrenme süreci gerektirdiğini ifade etti. Yaman, ailelerin gösterdiği fedakârlıkların ardından öğrencilerin nitelikli birer hekim olarak yetişeceğini söyledi.
+
+Konuşmaların ardından birinci sınıf öğrencilerine beyaz önlükleri fakülte öğretim üyeleri ve protokol üyeleri tarafından giydirildi.
+
+---
+
+## Eskişehir Sanat Sokağı 2 Yaşında: İki Yılda 80'den Fazla Etkinlik Düzenlendi
+
+**Kültür-Sanat · Merkez** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13579&cat_icerik=1&menu_id=24)
+
+![](data/images/5e49a55ce079589c.jpg)
+
+> Eskişehir Büyükşehir Belediyesi tarafından kente kazandırılan Sanat Sokağı, ikinci kuruluş yılını geride bıraktı. Kompleks, iki yıllık süreçte 80'i aşkın kültür ve sanat etkinliğine ev sahipliği yaptı.
+
+Eskişehir Büyükşehir Belediyesinin kentin kültür ve sanat hayatına kazandırdığı Sanat Sokağı, ikinci yaşını kutluyor. Bünyesinde Uluslararası Çağdaş Seramik Sanatları Müzesi, sanat atölyeleri, sergi salonu, Genco Erkal Sahnesi ve kukla tiyatrosu barındıran kompleks, iki yıl içinde 80'den fazla sanatsal ve kültürel buluşmaya sahne oldu.
+
+Büyükşehir Belediyesi Kent Tarihi, Tanıtımı ve Turizm Daire Başkanı Sercan Kara, merkezin kentin en genç ve en büyük sanat kompleksi olduğunu belirterek, her ay yenilenen sergiler ve atölyelerle tüm vatandaşları Sanat Sokağı'na davet etti. Alanda üretim yapan cam, minyatür ve bebek yapım sanatçıları da mekânın yerli ve yabancı ziyaretçilerden yoğun ilgi gördüğünü ifade etti.
+
+Merkez, yetişkinlere yönelik sergi, söyleşi ve dinletilerin yanı sıra Çocuk Hakları Birimi iş birliğiyle minik ziyaretçilere de düzenli olarak yaratıcı drama, satranç, tasarım ve dans gibi farklı başlıklarda atölye imkânı sunuyor.
+
+---
+
 ## Tepebaşı'nda Tesisler Mercek Altında: Hizmet Binalarında Entegre Su Yönetimi Başladı
 
 **Belediye · Tepebaşı** · 2026-11-20 11:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.ekonomim.com/sehirler/tepebasi-atac-iklim-eylemi-kentlerde-gundelik-kararlarla-hayat-bulur-haberi-932405)
@@ -403,83 +485,5 @@ Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ) Genel M�
 Söğütlü Sokak'ta uzun yıllardır kullanılan ve arızalar nedeniyle su iletim güvenliği zayıflayan 410 metre uzunluğundaki hat, yeni nesil malzemelerle değiştirildi. İmalatta iç yüzeyi epoksi, dış yüzeyi ise polietilen kaplamalı yüksek dayanımlı spiral kaynaklı çelik borular tercih edildi.
 
 Kaynak birleştirme, izolasyon ve kalite kontrol süreçlerinin ardından yeni hat mevcut şehir şebekesine başarıyla entegre edilerek devreye alındı. Yetkililer, kent genelinde ekonomik ömrünü dolduran iletim hatlarının yenilenmesine ve arıza risklerini en aza indirmeye yönelik altyapı yatırımlarının süreceğini bildirdi.
-
----
-
-## Tepebaşı'nda 450 Çocuk Haklarını Keşfetti: Atölyeler 3 Yıldır Aralıksız Sürüyor
-
-**Belediye · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’ndacocuklarhaklarınıogrenerekbuyuyor)
-
-![](data/images/652fd6fa436dcc7f.jpg)
-
-> Tepebaşı Belediyesi Erken Çocukluk Eğitim Merkezleri'nde düzenlenen yaratıcı drama ve atölye çalışmalarıyla son üç yılda yaklaşık 450 çocuk haklarını uygulamalı olarak öğrendi.
-
-Tepebaşı Belediyesi bünyesinde faaliyet gösteren Erken Çocukluk Eğitim Merkezleri, çocukların haklarını erken yaşta öğrenmeleri ve içselleştirmeleri amacıyla yürüttüğü çalışmalara devam ediyor. Merkezlerde son üç yıl içerisinde gerçekleştirilen atölye ve yaratıcı drama etkinliklerine yaklaşık 450 çocuk katıldı.
-
-Eğitimlerde çocuk haklarına yönelik temel bilgilerin soyut kalmaması ve deneyim yoluyla kalıcı hale gelmesi hedefleniyor. Çocukların bu atölyelerde edindikleri kazanımları aileleri ve çevreleriyle paylaşmaları sağlanırken, merkezlerde görev yapan eğitmenler için de sınıf yönetimi ve hak temelli eğitim seminerleri düzenleniyor.
-
-Çocuk haklarının yalnızca belirli günlerde anılamayacağını, tüm hizmetlerin merkezinde olması gerektiğini belirten Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Birleşmiş Milletler Çocuk Haklarına Dair Sözleşme'nin ilkelerine dikkat çekti. Ataç, her çocuğun ayrımcılığa uğramadan haklarından yararlanması, yaşama ve gelişme hakkının korunması ile kendi görüşlerini ifade edebilmesinin temel bir hak olduğunu vurgulayarak çalışmaların süreceğini ifade etti.
-
----
-
-## Mezun Şef Tezgâh Başına Geçti: EMYO'da Baklava Yapımının Püf Noktaları Anlatıldı
-
-**Eğitim · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ztedysvgkf16kh9t7m7ynlx9)
-
-![](data/images/f5b54fd5f936d8d1.jpg)
-
-> Anadolu Üniversitesi Eskişehir Meslek Yüksekokulu mezunu Şef Yusuf Can Demir, Aşçılık Programı öğrencileriyle atölye çalışmasında bir araya gelerek fıstıklı baklava hazırladı.
-
-Anadolu Üniversitesi Kariyer Merkezi (ANAKARİYER) ve Mezunlar Birliği (ANAMEZUN) iş birliğiyle Eskişehir Meslek Yüksekokulunda (EMYO) “Mezunumuz Mutfakta” başlıklı atölye çalışması gerçekleştirildi. Etkinlik kapsamında EMYO 2012 mezunu Şef Yusuf Can Demir, Aşçılık Programı öğrencileriyle mutfakta buluşarak mesleki tecrübelerini aktardı.
-
-EMYO Müdürü Doç. Dr. Osman Güldemir'in koordinasyonunda yapılan çalışmada fıstıklı baklava yapıldı. Baklava hazırlığında yağ kullanımının lezzet üzerindeki etkisine değinen Doç. Dr. Güldemir, Antep fıstığının kabuğunun soyulması için sıcak ve soğuk su uygulaması yapıldığını, ardından doğal yağların açığa çıkması için kuru ısıyla hafif kavrulduğunu paylaştı. Şef Demir de öğrencilerin sahip olduğu mutfak altyapısının önemine işaret ederek, mesleki gelişim açısından okul olanaklarının büyük bir fırsat sunduğunu belirtti.
-
-Programa katılan ANAKARİYER Müdürü Prof. Dr. Didem Paşaoğlu Baş ve Öğr. Gör. Dr. Kazım Demirer ise öğrencilik döneminde mesleki ağ kurmanın önemine değinerek üniversitenin kariyer planlama süreçlerindeki desteğinin süreceğini bildirdi. Atölye, soru-cevap bölümünün ardından Şef Demir'e teşekkür belgesi verilmesiyle tamamlandı.
-
----
-
-## ESTÜ Rektörü Prof. Dr. Adnan Özcan Mazbatasını YÖK Başkanı Özvar'dan Aldı
-
-**Eğitim · Tepebaşı** · 2026-11-19 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/rektorumuz-prof-dr-adnan-ozcan-rektorluk-mazbatasini-yok-baskani-prof-dr-erol-ozvardan-aldi)
-
-> Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi Rektörlüğüne yeniden atanan Prof. Dr. Adnan Özcan, mazbatasını YÖK Başkanı Prof. Dr. Erol Özvar'dan teslim aldı.
-
-Eskişehir Teknik Üniversitesi (ESTÜ) Rektörlüğü görevine Cumhurbaşkanlığı Kararı doğrultusunda yeniden getirilen Prof. Dr. Adnan Özcan, Yükseköğretim Kurulunda düzenlenen resmî törenle rektörlük mazbatasını aldı.
-
-YÖK Başkanlığı binasında organize edilen mazbata takdim törenine, Cumhurbaşkanlığı Kararı ile çeşitli üniversitelerin rektörlüklerine atanan akademisyenler katıldı. Tören kapsamında Prof. Dr. Adnan Özcan'a mazbatası, YÖK Başkanı Prof. Dr. Erol Özvar tarafından takdim edildi. Özvar, görevine yeniden atanan Özcan'ı tebrik ederek yeni çalışma döneminde başarı temennilerini iletti.
-
-Törende konuşan Rektör Prof. Dr. Adnan Özcan, Cumhurbaşkanı Recep Tayyip Erdoğan ile YÖK Başkanı Prof. Dr. Erol Özvar'a teşekkürlerini sundu. Özcan, yeni dönemde Eskişehir Teknik Üniversitesinin eğitim-öğretim, araştırma-geliştirme, bilimsel üretim, uluslararasılaşma ve toplumsal katkı alanlarındaki başarı grafiğini yukarı taşımak adına kurumsal kapasiteyi geliştirmeye kararlılıkla devam edeceklerini vurguladı.
-
----
-
-## Başkan Ünlüce'den 20 Kasım Mesajı: 'Çocukların Hayallerini Büyütmeye Devam Edeceğiz'
-
-**Gündem · Merkez** · 2026-11-19 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13576&cat_icerik=1&menu_id=24)
-
-![](data/images/eecd8f7ce43f9546.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla yayımladığı mesajda çocuk dostu kent vurgusu yaptı.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü kapsamında bir kutlama mesajı yayımladı. Çocukların mutluluğu ve huzurunun kentin en büyük güvencesi olduğunu belirten Ünlüce, her çocuğun sevgiyle büyüme ve eşit fırsatlara sahip olma hakkı bulunduğunu ifade etti.
-
-Eskişehir'de çocukların haklarını öğrenerek bilim, sanat, spor ve doğayla buluştuğu bir yaşam alanı oluşturmak için çalıştıklarını kaydeden Ünlüce; Çocuk Hakları Birimi, Masal Şatosu, Bilim Deney Merkezi, İklim Adası ve ESMEK merkezleriyle bu gelişimi desteklediklerini aktardı. Tiyatro ve atölye etkinlikleriyle de çocukların hayal dünyalarının zenginleştirildiğini vurguladı.
-
-Hiçbir çocuğun şiddet, ihmal, istismar ve ayrımcılığa maruz kalmaması gerektiğine dikkat çeken Başkan Ünlüce, Mustafa Kemal Atatürk'ün çocuklara yönelik sözlerini hatırlatarak tüm dünya çocuklarının haklarıyla güven içinde yaşayacağı yarınlar diledi.
-
----
-
-## Başkan Ünlüce'den 20 Kasım Dünya Çocuk Hakları Günü Mesajı
-
-**Gündem · Merkez** · 2026-11-19 13:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://ankahaber.net/haber/eskisehir-buyuksehir-belediye-baskani-unluce-den-dunya-cocuk-haklari-gunu-mesaji-4a65ec67)
-
-![](data/images/a9f117ff7beef40c.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla yayımladığı mesajda çocukların eşit fırsatlarla büyüme hakkına dikkat çekti.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Çocuk Hakları Günü vesilesiyle bir kutlama mesajı paylaştı. Ünlüce, bir kentin en büyük güvencesinin çocukların tebessümü olduğunu belirterek, her çocuğun sevgiyle büyüme, eşit imkânlara ulaşma ve hayallerini özgürce ifade etme hakkı bulunduğunu kaydetti.
-
-Eskişehir'de çocukların haklarını öğrenerek bilim, sanat, spor ve doğayla iç içe yetişmeleri amacıyla çalışmalar yürüttüklerini aktaran Ünlüce; Masal Şatosu, Bilim Deney Merkezi, İklim Adası, Çocuk Hakları Birimi, ESMEK merkezleri ve tiyatro atölyeleriyle miniklerin gelişimini desteklediklerini ifade etti.
-
-Çocukların hiçbir ayrımcılığa, ihmale, istismara ve şiddete maruz kalmaması gerektiğinin altını çizen Ünlüce, hiçbir çocuğun çalıştırılmaması ve umutsuzluğa sürüklenmemesi gerektiğini belirterek tüm çocukların 20 Kasım Dünya Çocuk Hakları Günü'nü tebrik etti.
 
 ---
