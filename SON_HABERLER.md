@@ -2,6 +2,38 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vize Serbestisinde Kalan 6 Kriter İçin Taslak Hazır: Bütçeden Sonra Meclis'e Geliyor
+
+**Türkiye · Türkiye** · 2026-11-20 05:09 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.haberturk.com/gundem/disisleri-bakani-hakan-fidan-vize-serbestisi-icin-hazirlanan-taslagin-meclise-gelecegini-acikladi-3928625)
+
+![](data/images/5e7ffd4f6db0fc74.jpg)
+
+> Dışişleri Bakanı Hakan Fidan, Avrupa Birliği ile vize serbestisi sürecinde kalan 6 kritere dair yasal düzenleme taslağının bütçe görüşmelerinin ardından TBMM'ye sunulacağını açıkladı.
+
+Dışişleri Bakanı Hakan Fidan, TBMM Plan ve Bütçe Komisyonundaki bütçe görüşmelerinde milletvekillerinin sorularını yanıtladı. Türkiye'nin Avrupa Birliği ile yürüttüğü vize serbestisi sürecine değinen Fidan, yerine getirilmesi gereken son 6 kritere ilişkin taslak çalışmada sona gelindiğini ve düzenlemenin bütçe mesaisinin tamamlanmasıyla birlikte Meclis gündemine taşınacağını duyurdu.
+
+Bulgaristan'ın Schengen sistemine dahil olmasının ardından sınır geçişlerinde elektronik denetime geçildiğini hatırlatan Fidan, Türk tır şoförlerinin yaşadığı vize ve süre aşımı sıkıntılarına da değindi. 180 günde azami 90 gün kalış kuralının sistem tarafından otomatik denetlenmesi nedeniyle yaşanan mağduriyetleri aşmak için Bulgaristan makamlarıyla temas kurduklarını ve ek süre alındığını belirten Fidan, sorunun kalıcı çözümü için AB ile müzakerelerin sürdüğünü söyledi.
+
+Tır şoförleri için D tipi vize veya kurallara uyan sürücülerin özel bir sisteme dahil edilmesi gibi formüllerin masada olduğunu kaydeden Bakan Fidan, lojistikteki aksamaların yalnızca Türkiye'yi değil AB'nin tedarik zincirini de doğrudan etkilediğini vurguladı.
+
+Öte yandan Bakanlık bünyesindeki vakıflara ilişkin iddialara da yanıt veren Fidan, Dışişleri Güçlendirme Teşkilatı Vakfı ile personelin kurduğu vakfın gelirlerinin yatırım fonlarında değil, kamu bankalarında muhafaza edildiğini açıkladı.
+
+---
+
+## CHP'li Heyet Artvin'de Esnafla Buluştu: 'Emeklilerin Yüzde 40'ı Açlık Sınırında'
+
+**Siyaset · Türkiye** · 2026-11-20 05:09 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chp-genel-baskan-yardimcilari-demirci-ve-bilek-artvin-de-esnaf-ziyaretinde-bulundu-383e479e)
+
+> CHP Genel Başkan Yardımcıları Adnan Demirci ve Nevaf Bilek, Artvin'de esnaf ve vatandaşlarla bir araya gelerek ekonomik sıkıntıları ve parti içi gündemi değerlendirdi.
+
+CHP Genel Başkan Yardımcıları Adnan Demirci ile Nevaf Bilek, Artvin İl Başkanı Ahmet Özdemir ve parti yöneticileriyle birlikte kent merkezinde esnaf ve emeklileri ziyaret etti. Program kapsamında dükkânları dolaşan heyet, vatandaşların ekonomik koşullara ilişkin taleplerini ve eleştirilerini dinledi.
+
+Ziyaret sırasında geçim sıkıntısına dikkat çeken Genel Başkan Yardımcısı Adnan Demirci, Türkiye'de emeklilerin yüzde 40'ının açlık sınırının altında yaşadığını, asgari ücretlilerin büyük bölümünün de benzer zorluklarla mücadele ettiğini belirtti. Demirci, yaşanan ekonomik sıkıntıların birlikte aşılacağını ve hedeflerinin bu tabloyu değiştirmek olduğunu ifade etti.
+
+Esnafın parti içindeki gelişmelere ve farklı parti kurma girişimlerine yönelik sorularını yanıtlayan Genel Başkan Yardımcısı Nevaf Bilek ise ayrışma tartışmalarına değindi. Ayrılıp yeni oluşumlara gidenlerin yaklaşımlarını eleştiren Bilek, siyasi mücadelenin birlik içinde sürdürülmesi gerektiğini kaydetti.
+
+---
+
 ## Tepebaşı'nda Kış Spor Kurslarına Kayıt Başlıyor: 9 Farklı Branş Açılacak
 
 **Belediye · Tepebaşı** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/spor/tepebasi-nda-kis-kurslarina-kayit-23-kasim-da-basliyor)
@@ -447,39 +479,5 @@ Ziynet altınlarda çeyrek altın 10.101 TL, yarım altın 20.202 TL, tam altın
 Uluslararası piyasalarda altının onsu 3.741,40 dolardan işlem görürken, dolar/TL 50,55 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Togg'dan Kadınlara Özel Finansman Paketi: Garanti BBVA ile Yeni Kampanya Yolda
-
-**Ekonomi · Türkiye** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Togg](https://istanbulticaretgazetesi.com/togg-kadinlara-ozel-kampanya-2026-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak)
-
-![](data/images/98a26e71582832dd.jpg)
-
-> Togg ve Garanti BBVA, kadınların elektrikli araç sahibi olmasını kolaylaştırmak için özel bir taşıt kredisi paketi hazırlıyor. Detayların yıl sonuna kadar duyurulması bekleniyor.
-
-Türkiye'nin yerli otomobil üreticisi Togg, kadın müşterilere yönelik avantajlı ödeme seçenekleri sunacak yeni bir finansman paketi için Garanti BBVA ile hazırlıklarını sürdürüyor. İş birliği, Antalya'da düzenlenen COP31 İklim Zirvesi kapsamındaki panelde gündeme taşındı.
-
-Zirvede gerçekleştirilen "Sürdürülebilir Mobilite Dönüşümünün Finansmanı" paneline katılan Togg CEO'su Gürcan Karakaş ile Garanti BBVA Genel Müdürü Mahmut Akten, elektrikli araçlara erişimin kolaylaştırılması ve finansman çözümleri üzerine değerlendirmelerde bulundu. Hazırlanan yeni paketle kadınların elektrikli araç ediniminin desteklenmesi amaçlanıyor.
-
-Kredi limitleri, faiz oranları, vade seçenekleri ve başvuru kriterleri henüz kesinleşmeyen kampanyanın ayrıntılarının 2026 yılı sona ermeden açıklanması planlanıyor. Togg, kasım ayı boyunca bireysel müşterilerine T10X ve T10F modellerinde sunduğu mevcut faizsiz finansman seçeneklerini de sürdürüyor.
-
----
-
-## Meslek Öğrenene Nakdi Destek: MEGEM ve Kızılay'dan İstihdam Protokolü
-
-**Ekonomi · Odunpazarı** · 2026-11-19 05:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirde-ihtiyac-sahipleri-icin-yeni-uygulama-hem-egitim-hem-para-verilecek-2466280)
-
-![](data/images/b731e71aee6b5dbf.jpg)
-
-> Eskişehir'de MEGEM bünyesinde 10 meslek dalında eğitim görecek ihtiyaç sahibi kursiyerlere, eğitim süreleri boyunca Türk Kızılay tarafından maddi yardım sağlanacak.
-
-Türk Kızılay ile Eskişehir Organize Sanayi Bölgesi (EOSB) iştiraki Mesleki Edindirme ve Geliştirme Merkezi (MEGEM) A.Ş. arasında iş birliği protokolü imzalandı. Sosyo-Ekonomik Güçlendirme Kapsamında İstihdama Yönlendirme ve Mesleki Eğitim Projesi çerçevesinde yürütülen çalışmayla, ekonomik desteğe ihtiyaç duyan kişilerin mesleki beceriler kazanarak iş gücüne katılması hedefleniyor.
-
-İmzalanan protokole göre MEGEM'de 10 ayrı alanda mesleki eğitime hak kazanan kursiyerler arasından ihtiyaç sahipleri belirlenecek. İlgili mevzuat uyarınca şartları taşıyan adaylara kurs süresince Türk Kızılay tarafından doğrudan nakdi destek verilecek. Eğitim sürecini başarıyla tamamlayan kişilerin sanayi kuruluşlarında istihdama yönlendirilmesi planlanıyor.
-
-Eskişehir OSB Yönetim Kurulu Başkanı Nadir Küpeli, MEGEM'in hem sanayinin nitelikli personel ihtiyacını karşıladığını hem de toplumsal fayda üreten projelere imza attığını dile getirdi. Daha önce dezavantajlı kadınlara, otizmli gençlere ve denetimli serbestlik yükümlülerine yönelik istihdam adımları atıldığını hatırlatan Küpeli, yeni protokolün bu sosyal sorumluluk halkasının bir parçası olduğunu kaydetti.
-
-MEGEM A.Ş. Yönetim Kurulu Başkanı Samet Özkaya, eğitim altyapısıyla kursiyerlerin üretim süreçlerine katılımına zemin hazırladıklarını aktarırken; Türk Kızılay Afet ve Toplum Hizmetleri Genel Müdürü Nurdal Durmuş da bireylerin mesleki beceri edinerek kendi ayakları üzerinde durmalarının sosyal güçlenme açısından taşıdığı öneme dikkat çekti.
 
 ---
