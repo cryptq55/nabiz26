@@ -22,10 +22,10 @@
     "title": "Tepebaşı/ Ataç; “İklim eylemi kentlerde, gündelik kararlarla hayat bulur” - Ekonomim",
     "url": "https://www.ekonomim.com/sehirler/tepebasi-atac-iklim-eylemi-kentlerde-gundelik-kararlarla-hayat-bulur-haberi-932405"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
