@@ -2,6 +2,68 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## COP31'de Gençlerden 20 İklim Girişimi: Türkiye İklim Okulu Final Yaptı
+
+**Eğitim · Türkiye** · 2026-11-20 17:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/genclerin-girisim-fikirleri-turkiye-iklim-okulunda-sahneye-cikti/haber/42605/tr)
+
+![](data/images/dc3e74693403d0b2.jpg)
+
+> Antalya'da düzenlenen COP31 kapsamında Türkiye İklim Okulunda bir araya gelen öğrenciler, çevre sorunlarına yönelik geliştirdikleri 20 girişim fikrini jüriye sundu.
+
+Millî Eğitim Bakanlığı Eğitim Teknolojileri Kuluçka ve İnovasyon Merkezinin (ETKİM) yürüttüğü Genç Girişimci Programı kapsamında kampa katılan öğrenciler, Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) son gününde projelerini sergiledi. Öğrenciler, geliştirdikleri 20 iklim temalı girişim fikrini iş modeli ve prototipleriyle birlikte jüri heyetine aktardı.
+
+Onar takımdan oluşan iki oturumda gerçekleşen sunumlarda genç girişimciler; belirledikleri çevre sorunlarını, ürettikleri çözümleri, hedef kitle analizlerini ve pazar büyüklüklerini anlattı. Çevrim içi sistem üzerinden anlık olarak puanlanan değerlendirmelerin ardından dereceye giren ve Türkiye finalinde yarışacak takımlar açıklanarak ödülleri teslim edildi.
+
+Program çerçevesinde ayrıca GençTek ekibinin hazırladığı oyunlaştırma tabanlı "İklim Terimleri Sözlüğü" uygulaması tanıtıldı. Gençlerin teknoloji ve çevre odaklı projelerini paylaştığı, "İklim Değişikliği ve Türk Mitolojisi" gibi tematik atölyelerin düzenlendiği Türkiye İklim Okulu, konferansın sona ermesiyle birlikte faaliyetlerini tamamladı.
+
+---
+
+## ÇİDEM'de Çiftçilere Toprak Eğitimi: Mikro Bitki Besin Desteği Dağıtıldı
+
+**Tarım · Seyitgazi** · 2026-11-20 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13578&cat_icerik=1&menu_id=24)
+
+![](data/images/b0d4ee9a1feaf6bd.jpg)
+
+> Seyitgazi'deki Çiftçi Destekleme ve Eğitim Merkezi'nde bir araya gelen Çiftelerli üreticilere sürdürülebilir tarım ve toprak verimliliği eğitimi verildi.
+
+Eskişehir Büyükşehir Belediyesi ve Seyitgazi Belediyesi ortaklığıyla hizmet veren Çiftçi Destekleme ve Eğitim Merkezi (ÇİDEM), üreticilere yönelik bilgilendirme çalışmalarını sürdürüyor. Merkezde son olarak Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı, Seyitgazi Belediyesi ve TMMOB Ziraat Mühendisleri Odası Eskişehir Şubesi iş birliğinde "Sürdürülebilir Tarım İçin Toprak Sağlığı Eğitimi" düzenlendi.
+
+Ziraat Mühendisi Hasan Çakıllı tarafından verilen programa Seyitgazi Belediye Başkanı Uğur Tepe ile Çifteler ilçesinden gelen çiftçiler katıldı. Eğitim kapsamında toprak analizi, organik madde yönetimi, bilinçli gübreleme, bitki besin elementleri ve doğru sulama teknikleri ele alındı. Üreticilerin sahada karşılaştığı sorunlar değerlendirilerek soruları yanıtlandı.
+
+Toprakların korunması ve verimliliğin artırılması için üreticilere destek vermeye devam edeceklerini belirten Seyitgazi Belediye Başkanı Uğur Tepe, eğitime katkı sunan uzmanlara ve katılan çiftçilere teşekkür etti. Programın sonunda bilinçli gübrelemeyi teşvik etmek amacıyla katılımcılara mikro bitki besin maddeleri karışımı dağıtıldı.
+
+---
+
+## Bozüyük-Eskişehir Yolunda Feci Kaza: 1 Kişi Öldü, 3 Yaralı
+
+**Asayiş · Merkez** · 2026-11-20 17:09 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.karsmanset.com/service/amp/haber/bozuyuk-eskisehir-karayolunda-feci-kaza-1-olu-3-yarali-1831761.htm)
+
+> Bozüyük-Eskişehir kara yolu Poyra mevkiinde minibüs ile otomobilin çarpışması sonucu 1 kişi yaşamını yitirdi, 3 kişi yaralandı. Kaza nedeniyle ulaşım durdu.
+
+Bozüyük-Eskişehir kara yolu Poyra mevkisi Eskişehir istikametinde saat 17.00 sıralarında trafik kazası meydana geldi. Edinilen bilgilere göre, 06 VIP 94 plakalı minibüs ile 16 AAY 44 plakalı otomobil henüz bilinmeyen bir nedenle çarpıştı.
+
+Çarpışmanın etkisiyle araçlarda büyük hasar oluşurken olay yerine çok sayıda sağlık ve polis ekibi sevk edildi. Kazada otomobilde yolcu olarak bulunan bir kişi olay yerinde yaşamını yitirdi. Minibüs sürücüsü, otomobil sürücüsü ve otomobildeki diğer yolcu ise yaralandı.
+
+İlk müdahaleleri kaza yerinde yapılan yaralılardan minibüs sürücüsü Eskişehir Şehir Hastanesine, diğer iki yaralı ise Bozüyük Devlet Hastanesine kaldırılarak tedavi altına alındı. Kaza nedeniyle bir süre durma noktasına gelen kara yolundaki trafik akışıyla ilgili polis ekipleri tahkikat başlattı.
+
+---
+
+## 23. Film Festivali'nde Netflix Atölyesi: Prodüksiyon Süreçleri Anlatıldı
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-20 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/d9boq7lbed4lr5spoa8p0maj)
+
+![](data/images/16ac0c8aa6f41ef2.jpg)
+
+> 23. Eskişehir Uluslararası Film Festivali'nin ilk atölyesinde Netflix Yapımlar Direktörü Pelin Ekinci Kaya, dijital yayıncılıkta prodüksiyon süreçlerini öğrencilerle paylaştı.
+
+Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün katkılarıyla Anadolu Üniversitesi İletişim Bilimleri Fakültesi ve Kurumsal İletişim Koordinatörlüğü tarafından düzenlenen 23. Eskişehir Uluslararası Film Festivali sürüyor. Festival kapsamındaki ilk atölye çalışmasının konuğu, Netflix Türkiye, Orta Doğu ve Kuzey Afrika Yapımlar Direktörü Pelin Ekinci Kaya oldu.
+
+İletişim Bilimleri Fakültesi Şener Şen Salonu'nda düzenlenen “Netflix ile Stüdyo Yolculuğu: Prodüksiyon Süreçleri” başlıklı etkinliğe Festival Yönetmeni Prof. Dr. Sırrı Serhat Serter, fakülte akademisyenleri ve çok sayıda öğrenci katılım sağladı.
+
+Atölyede dijital yayıncılık alanındaki üretim dinamiklerini ele alan Pelin Ekinci Kaya; yapım süreçleri, set yönetimi, iş güvenliği standartları ve post-prodüksiyon aşamalarını sahada hayata geçirilen projeler üzerinden aktardı.
+
+---
+
 ## Talat Yalaz'dan Dava Açıklaması: 'Ortada Olmayan Bir Kanundan Yargılanıyorum'
 
 **Siyaset · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.haber26.com.tr/politika/talat-yalaz-ortada-olmayan-kanundan-yargilaniyorum)
@@ -417,67 +479,5 @@ Cumhurbaşkanı Recep Tayyip Erdoğan, Bayraktar Kızılelma insansız savaş u�
 Baykar tarafından tamamen öz kaynaklarla milli ve özgün olarak geliştirilen Kızılelma projesinde, test ve eğitim süreçleri boyunca toplam 600 sorti uçuş gerçekleştirildi. Kabul testlerini başarıyla geride bırakan ilk 3 Kızılelma güvenlik güçlerine resmen teslim edildi. Böylece Türkiye, insansız bir savaş uçağını envanterine dahil eden ilk ülke kaydını elde etti.
 
 Kavramsal tasarımı Temmuz 2021'de paylaşılan ve Mart 2022'de üretim hattına giren Kızılelma, ilk uçuşunu 14 Aralık 2022'de yapmıştı. Platform; mühimmat atış testleri, elektro-optik hedefleme entegrasyonu, radar destekli görüş ötesi füze atışları ve akıllı filo otonomisi uçuşları dahil olmak üzere kritik geliştirme aşamalarını tamamlayarak aktif görev sürecine geçti.
-
----
-
-## MHP Odunpazarı Heyetinden Eskişehir OSB'ye Ziyaret: Sanayi Projeleri Görüşüldü
-
-**Siyaset · Odunpazarı** · 2026-11-19 19:08 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.haber26.com.tr/politika/mhp-odunpazari-heyeti-eskisehir-osb-yi-ziyaret-etti)
-
-> MHP Odunpazarı İlçe Başkanı Mustafa Ünal ve yönetimi, Eskişehir OSB Yönetim Kurulu Başkanı Nadir Küpeli ile bir araya gelerek kentin sanayi gündemini değerlendirdi.
-
-Milliyetçi Hareket Partisi (MHP) Odunpazarı İlçe Teşkilatı, Eskişehir Organize Sanayi Bölgesi (EOSB) yönetimini ziyaret etti. MHP Odunpazarı İlçe Başkanı Mustafa Ünal ve beraberindeki yönetim kurulu üyeleri, EOSB Yönetim Kurulu Başkanı Nadir Küpeli ile görüş alışverişinde bulundu.
-
-Eskişehir OSB Denetim Kurulu Üyesi Hamit Alper Çelebi'nin de hazır bulunduğu ziyarette, kentin ekonomik dinamikleri, sanayi sektörünün gelişimi ve bölgede hayata geçirilen projeler masaya yatırıldı. EOSB'nin yürüttüğü çalışmalar hakkında konuk heyete bilgi aktarıldı.
-
-Ziyaretten duyduğu memnuniyeti dile getiren EOSB Yönetim Kurulu Başkanı Nadir Küpeli, nazik ziyaretleri için İlçe Başkanı Mustafa Ünal ve beraberindeki partililere teşekkür etti.
-
----
-
-## KIZILELMA TSK Envanterinde: Cumhurbaşkanı Erdoğan Tarihî Günü Duyurdu
-
-**Siyaset · Türkiye** · 2026-11-19 19:08 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogandan-kizilelmanin-envantere-girmesine-iliskin-mesaj)
-
-![](data/images/67c106e93e5f6950.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, insansız savaş uçağı Bayraktar KIZILELMA'nın Türk Silahlı Kuvvetleri bünyesine dahil edildiğini açıkladı.
-
-Bayraktar KIZILELMA insansız savaş uçağı, tamamlanan geliştirme ve test süreçlerinin ardından Türk Silahlı Kuvvetlerinin envanterine resmen girdi.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, sosyal medya hesabı üzerinden yaptığı açıklamada büyük bir hedefin hayata geçtiği tarihî bir dönüm noktası yaşandığını belirtti. Erdoğan, KIZILELMA'nın uzun yıllar süren gayret ve çalışmalar neticesinde Türk ordusuna kazandırıldığını kaydetti.
-
-Açıklamasında bu adımın hayırlı olmasını dileyen Cumhurbaşkanı Erdoğan, yeni nesil savaş platformunun orduya güç katacağını ve Türk Silahlı Kuvvetlerinin elde edeceği başarılarda rol oynayacağını vurguladı.
-
----
-
-## Tramvay Güzergâhlarında Sıcak Asfalt Mesaisi: Bozuk Yollar Yenileniyor
-
-**Belediye · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13574&cat_icerik=1&menu_id=24)
-
-![](data/images/05f68e04c214e89b.jpg)
-
-> Eskişehir Büyükşehir Belediyesi, tramvay hatlarının geçtiği sokaklar başta olmak üzere kent genelinde sıcak asfalt ve yama çalışmalarını hızlandırdı.
-
-Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanlığı ekipleri, kent merkezindeki ulaşım konforunu ve yol güvenliğini artırmak amacıyla yürüttüğü bakım ve onarım mesaisine devam ediyor. Ekipler, uygun hava koşullarını değerlendirerek bozulma yaşanan noktalara müdahale ediyor.
-
-Çalışmalar kapsamında son olarak Tepebaşı ilçesine bağlı Çamlıca Mahallesi Behçet Necatigil Sokak üzerinde asfalt yama çalışması gerçekleştirildi. Sorumluluk sahasındaki cadde ve bulvarları düzenli olarak denetleyen belediye ekipleri, özellikle tramvay geçişlerinin bulunduğu arterleri öncelikli olarak çalışma programına alıyor.
-
-Tramvay hatlarıyla kesişen veya güzergâh üzerinde bulunan yollarda uygulanan sıcak asfalt kaplama ve yama işlemleriyle, zemin bozulmalarının önüne geçilmesi ve trafik güvenliğinin yükseltilmesi hedefleniyor. Yetkililer, kış koşulları öncesinde ihtiyaç duyulan sokak ve caddelerdeki bakım çalışmalarının sürdürüleceğini bildirdi.
-
----
-
-## Japon Besteci Kozakura Konservatuvarda Sahne Aldı: Çağdaş Müzik Rüzgârı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fsgct2vgd2yfglzl4u1o0r2s)
-
-![](data/images/664005150f3d373a.jpg)
-
-> Anadolu Üniversitesi Devlet Konservatuvarı, Japon besteci Prof. Hideki Kozakura ve piyanist Deniz Erden'in elektronik müzik performansına ev sahipliği yaptı.
-
-Anadolu Üniversitesi Devlet Konservatuvarı tarafından organize edilen “Beyond Silence: BbYond Mozart & Ambient Works” başlıklı çağdaş müzik konseri, Koral Çalgan Salonu'nda dinleyicilerle buluştu.
-
-Konsere Bestecilik ve Orkestra Şefliği Anasanat Dalı Başkanı Prof. Dr. Berkant Gençkal'ın yanı sıra çok sayıda öğrenci ve müziksever katıldı.
-
-Etkinlikte Japon besteci Prof. Hideki Kozakura ile piyanoda besteci Deniz Erden, elektronik müzik tınıları eşliğinde sahne aldı. Dinletide Toru Takemitsu’nun “Litany”, Wenhao Zhao’nun “Drizzle and Fog 2” ve Kozakura’nın kendi bestesi olan “BbYond Mozart” eserleri seslendirildi.
 
 ---
