@@ -1,7 +1,5 @@
 {
  "stories": [
-  "202610231133-tepebasinda-donus-yapan-otomobil-bisikletliye-carpti-bisikletli-hafif-",
-  "202610231233-baskan-atac-muhtarlarla-bulustu-ekonomik-kriz-belediyeleri-de-etkiliyo",
   "202610231233-tepebasinda-440-lise-ogrencisine-iklim-krizi-ve-cop31-anlatildi",
   "202610231333-tepebasi-belediyesinde-ozel-kalem-mudurlugune-banu-gumuspala-getirildi",
   "202610231333-eskisehirspor-ve-unicef-projesi-spor-kulupleri-icin-cocuk-koruma-rehbe",
@@ -499,7 +497,9 @@
   "202611201709-cop31de-genclerden-20-iklim-girisimi-turkiye-iklim-okulu-final-yapti",
   "202611201709-cidemde-ciftcilere-toprak-egitimi-mikro-bitki-besin-destegi-dagitildi",
   "202611201909-anadolu-universitesinden-mikrokredi-kazandiran-yapay-zeka-egitimi-kont",
-  "202611201909-eskisehirli-hamza-donmez-milli-takimda-ay-yildizli-forma-icin-ter-doke"
+  "202611201909-eskisehirli-hamza-donmez-milli-takimda-ay-yildizli-forma-icin-ter-doke",
+  "202611201909-vali-yilmazdan-kuzey-kafkas-kultur-dernegine-ziyaret-calismalar-ele-al",
+  "202611202108-vali-yilmazdan-ehaya-ziyaret-kent-gundemi-ve-medya-calismalari-ele-ali"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -746,15 +746,11 @@
   "202611200909-porsuk-kiyisina-meydan-26-eskisehirin-en-buyuk-kent-meydani-geliyor",
   "202611200909-odunpazari-belediye-tiyatrosundan-yeni-cocuk-oyunu-pablo-icin-provalar",
   "202611201909-anadolu-universitesinden-mikrokredi-kazandiran-yapay-zeka-egitimi-kont",
-  "202611201909-eskisehirli-hamza-donmez-milli-takimda-ay-yildizli-forma-icin-ter-doke"
+  "202611201909-eskisehirli-hamza-donmez-milli-takimda-ay-yildizli-forma-icin-ter-doke",
+  "202611201709-cidemde-ciftcilere-toprak-egitimi-mikro-bitki-besin-destegi-dagitildi",
+  "202611201709-23-film-festivalinde-netflix-atolyesi-produksiyon-surecleri-anlatildi"
  ],
  "log": [
-  1795115548.9728782,
-  1795115608.989617,
-  1795115629.082367,
-  1795115649.208624,
-  1795115665.3153152,
-  1795115683.7461526,
   1795122748.9320428,
   1795122798.7748613,
   1795122817.675291,
@@ -763,14 +759,18 @@
   1795166046.4918795,
   1795202014.8048124,
   1795202068.519674,
-  1795202085.9454265
+  1795202085.9454265,
+  1795209163.6668413,
+  1795209247.5058143,
+  1795209264.3696365,
+  1795209281.8899136
  ],
  "reel_log": [
-  1795122748.9320447,
-  1795122798.774863,
   1795165942.3957868,
   1795166029.4690542,
   1795202014.8048146,
-  1795202068.5196764
+  1795202068.5196764,
+  1795209163.6668434,
+  1795209247.5058162
  ]
 }
