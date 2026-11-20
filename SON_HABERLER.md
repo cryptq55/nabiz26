@@ -2,6 +2,82 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan Kuzey Kafkas Kültür Derneği'ne Ziyaret: Çalışmalar Ele Alındı
+
+**Gündem · Merkez** · 2026-11-20 19:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-kuzey-kafkas-kultur-ve-dayanisma-dernegini-ziyaret-etti)
+
+![](data/images/26ebf090697b0ce4.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Eskişehir Kuzey Kafkas Kültür ve Dayanışma Derneği'ni ziyaret ederek yürütülen faaliyetler hakkında bilgi aldı.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, kentte faaliyet gösteren Eskişehir Kuzey Kafkas Kültür ve Dayanışma Derneği'ne ziyarette bulundu.
+
+Ziyaret kapsamında Dernek Başkanı Jankat Yelbaşı ve yönetim kurulu üyeleriyle bir araya gelen Vali Yılmaz, derneğin yürüttüğü çalışmalar ve kültürel değerlerin korunup yaşatılmasına yönelik faaliyetler hakkında sohbet etti.
+
+Vali Yılmaz, buluşmada gösterdikleri misafirperverlik dolayısıyla Dernek Başkanı Jankat Yelbaşı ile yönetim kurulu üyelerine teşekkür etti.
+
+---
+
+## Odunpazarı'na Bakanlıktan Tescil: 'Mavi Su Verimliliği Belgesi' Verildi
+
+**Belediye · Odunpazarı** · 2026-11-20 19:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.esgazete.com/odunpazari-belediyesi-mavi-su-verimliligi-belgesi-aldi)
+
+> Su tasarrufuna yönelik adımlar atan Odunpazarı Belediyesi, Tarım ve Orman Bakanlığından Mavi Su Verimliliği Belgesi almaya hak kazandı.
+
+Odunpazarı Belediyesi, su kaynaklarının korunması ve tasarruflu kullanılması amacıyla yürüttüğü uygulamaların ardından Tarım ve Orman Bakanlığı Su Yönetimi Genel Müdürlüğü tarafından verilen Mavi Su Verimliliği Belgesi'nin sahibi oldu.
+
+İki yıl önce yürürlüğe giren Su Verimliliği Yönetmeliği kapsamında bünyesinde Su Verimliliği Sistemi Kurulu kuran belediye, hizmet binalarında yüzde 25 su tasarrufu hedefiyle çeşitli önlemler aldı. Musluklara su tüketimini azaltan perlatörler monte edilirken, çevre düzenlemelerinde su ihtiyacı düşük olan kurakçıl peyzaj bitkileri tercih edildi ve personele yönelik bilinçlendirme çalışmaları yapıldı.
+
+Belgenin alınmasından memnuniyet duyduğunu ifade eden Odunpazarı Belediye Başkanı Kazım Kurt, su kaynaklarının sınırsız olmadığını belirterek iklim değişikliği ve kuraklık tehdidi karşısında suyun her damlasını korumanın ortak bir sorumluluk olduğunu vurguladı.
+
+---
+
+## Eskişehirspor'un Söke Maçına Mersinli Hakem: Burak Filik Düdük Çalacak
+
+**Spor · Merkez** · 2026-11-20 19:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://yenisokegazetesi.com/haber/29193465/sokede-gozler-eskisehirspor-macinda-hakem-kadrosu-aciklandi)
+
+> Nesine 3. Lig'de deplasmanda Söke 1970 Spor ile karşılaşacak Eskişehirspor'un maçını yönetecek hakem heyeti açıklandı. Mücadelede Mersin bölgesi hakemi Burak Filik görev yapacak.
+
+Nesine 3. Lig'de mücadele eden Eskişehirspor'un hafta sonu Söke 1970 Spor Kulübü'ne konuk olacağı karşılaşmanın hakem kadrosu Türkiye Futbol Federasyonu (TFF) tarafından belirlendi.
+
+22 Kasım 2026 Pazar günü saat 13.00'te Söke İlçe Stadı'nda oynanacak kritik randevuda Mersin bölgesinden Burak Filik düdük çalacak. Karşılaşmada Filik'in yardımcılıklarını Kahramanmaraş bölgesinden Enes Demirel ile Niğde bölgesinden Enes Ahmetler üstlenecek. Mücadelenin dördüncü hakemi ise yine Mersin bölgesinden Harun Kaan Yıldırım olacak.
+
+1988 doğumlu olan ve 2012 yılından bu yana TFF liglerinde görev yapan orta hakem Burak Filik, bu sezon farklı organizasyonlarda 5 karşılaşma yönetti. Söz konusu maçlarda 27 sarı ve 1 kırmızı kartına başvuran Filik, Söke deplasmanıyla birlikte 2026-2027 sezonundaki 6. orta hakemlik görevine çıkacak.
+
+---
+
+## Eskişehirli Hamza Dönmez Millî Takımda: Ay-Yıldızlı Forma İçin Ter Dökecek
+
+**Spor · Merkez** · 2026-11-20 19:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13577&cat_icerik=1&menu_id=24)
+
+![](data/images/618d12a7e9b0891c.jpg)
+
+> Eskişehir Büyükşehir Spor Kulübü'nün down sendromlu masa tenisi sporcusu Hamza Dönmez, sergilediği performansla Türk Devletleri müsabakaları öncesinde millî takıma çağrıldı.
+
+Eskişehir Büyükşehir Spor Kulübü sporcuları ulusal ve uluslararası organizasyonlarda başarılarını sürdürüyor. Kulüp bünyesinde masa tenisi oynayan down sendromlu sporcu Hamza Dönmez, gösterdiği performansın ardından millî takım kadrosuna davet edildi.
+
+Genç sporcu, 28 Kasım-2 Aralık tarihleri arasında Antalya'da düzenlenecek Down Sendromlular Türk Devletleri müsabakalarında Türkiye adına raket sallayacak. Hamza Dönmez, şampiyonada ay-yıldızlı formayla madalya mücadelesi verecek.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce de milli takıma seçilerek kente gurur yaşatan Hamza Dönmez'i tebrik etti ve katılacağı müsabakalarda başarı dileklerini iletti.
+
+---
+
+## Anadolu Üniversitesi'nden Mikrokredi Kazandıran Yapay Zekâ Eğitimi: Kontenjan 30 Kişi
+
+**Eğitim · Tepebaşı** · 2026-11-20 19:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/y14hrbeao2fykw11edhr330k)
+
+![](data/images/3e7c45d6fad36b71.jpg)
+
+> Anadolu Üniversitesi, dijital ürün ve oyun tasarımı alanında mikrokredi kazandıracak iki günlük ücretsiz yapay zekâ geliştirme eğitimi düzenliyor.
+
+Anadolu Üniversitesi Bilişim Teknolojileri Meslek Yüksekokulu, bilişim alanında kariyer hedefleyen öğrencilere yönelik "AI Destekli Dijital Ürün ve Oyun Geliştirme" eğitimi başlatıyor. 28-29 Kasım 2026 tarihlerinde ücretsiz olarak gerçekleştirilecek uygulamalı program, ALDACI Kurucusu Ersel Aktaş'ın eğitmenliğinde yürütülecek.
+
+İki gün boyunca 09.00-17.00 saatleri arasında Bilişim Bloğu Z07 iMac Laboratuvarında düzenlenecek eğitimde katılımcılar, yapay zekâ destekli araçları ürün ve oyun geliştirme süreçlerinde birebir deneme imkânı bulacak. Programı eksiksiz tamamlayan katılımcılar, edindikleri kazanımları mikrokredi ile belgelendirerek özgeçmişlerine ekleyebilecek.
+
+Kontenjanı 30 kişiyle sınırlandırılan eğitim için başvurular 25 Kasım 2026 Çarşamba günü saat 23.59'a kadar çevrim içi form üzerinden kabul edilecek. Kontenjanın aşılması durumunda eğitime katılacak isimler kura yoluyla belirlenecek ve sonuçlar 26 Kasım'da adayların e-posta adreslerine gönderilecek.
+
+---
+
 ## COP31'de Gençlerden 20 İklim Girişimi: Türkiye İklim Okulu Final Yaptı
 
 **Eğitim · Türkiye** · 2026-11-20 17:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/genclerin-girisim-fikirleri-turkiye-iklim-okulunda-sahneye-cikti/haber/42605/tr)
@@ -401,83 +477,5 @@ Bulgaristan'ın Schengen sistemine dahil olmasının ardından sınır geçişle
 Tır şoförleri için D tipi vize veya kurallara uyan sürücülerin özel bir sisteme dahil edilmesi gibi formüllerin masada olduğunu kaydeden Bakan Fidan, lojistikteki aksamaların yalnızca Türkiye'yi değil AB'nin tedarik zincirini de doğrudan etkilediğini vurguladı.
 
 Öte yandan Bakanlık bünyesindeki vakıflara ilişkin iddialara da yanıt veren Fidan, Dışişleri Güçlendirme Teşkilatı Vakfı ile personelin kurduğu vakfın gelirlerinin yatırım fonlarında değil, kamu bankalarında muhafaza edildiğini açıkladı.
-
----
-
-## CHP'li Heyet Artvin'de Esnafla Buluştu: 'Emeklilerin Yüzde 40'ı Açlık Sınırında'
-
-**Siyaset · Türkiye** · 2026-11-20 05:09 UTC · Kaynak: [Google Haberler - CHP](https://ankahaber.net/haber/chp-genel-baskan-yardimcilari-demirci-ve-bilek-artvin-de-esnaf-ziyaretinde-bulundu-383e479e)
-
-> CHP Genel Başkan Yardımcıları Adnan Demirci ve Nevaf Bilek, Artvin'de esnaf ve vatandaşlarla bir araya gelerek ekonomik sıkıntıları ve parti içi gündemi değerlendirdi.
-
-CHP Genel Başkan Yardımcıları Adnan Demirci ile Nevaf Bilek, Artvin İl Başkanı Ahmet Özdemir ve parti yöneticileriyle birlikte kent merkezinde esnaf ve emeklileri ziyaret etti. Program kapsamında dükkânları dolaşan heyet, vatandaşların ekonomik koşullara ilişkin taleplerini ve eleştirilerini dinledi.
-
-Ziyaret sırasında geçim sıkıntısına dikkat çeken Genel Başkan Yardımcısı Adnan Demirci, Türkiye'de emeklilerin yüzde 40'ının açlık sınırının altında yaşadığını, asgari ücretlilerin büyük bölümünün de benzer zorluklarla mücadele ettiğini belirtti. Demirci, yaşanan ekonomik sıkıntıların birlikte aşılacağını ve hedeflerinin bu tabloyu değiştirmek olduğunu ifade etti.
-
-Esnafın parti içindeki gelişmelere ve farklı parti kurma girişimlerine yönelik sorularını yanıtlayan Genel Başkan Yardımcısı Nevaf Bilek ise ayrışma tartışmalarına değindi. Ayrılıp yeni oluşumlara gidenlerin yaklaşımlarını eleştiren Bilek, siyasi mücadelenin birlik içinde sürdürülmesi gerektiğini kaydetti.
-
----
-
-## Tepebaşı'nda Kış Spor Kurslarına Kayıt Başlıyor: 9 Farklı Branş Açılacak
-
-**Belediye · Tepebaşı** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/spor/tepebasi-nda-kis-kurslarina-kayit-23-kasim-da-basliyor)
-
-> Tepebaşı Belediyesi Yunus Emre Spor Tesisi'nde kış dönemi kurs kayıtları 23-27 Kasım tarihleri arasında internet üzerinden alınacak.
-
-Tepebaşı Belediyesi, Yunus Emre Spor Tesisi bünyesinde düzenlenecek 2026 yılı kış dönemi çocuk ve yetişkin spor kurslarının takvimini duyurdu. Kayıtların 23-27 Kasım tarihleri arasında tamamlanacağı, yeni dönemin ise 30 Kasım Pazartesi günü başlayacağı bildirildi.
-
-Yetişkinler için 18 yaş ve üzeri kadınlara yönelik pilates branşı açılacak. Çocuklar için sunulan branşlar ve yaş aralıkları ise cimnastik (4-9 yaş), satranç (5-13 yaş), badminton (6-13 yaş), futbol (7-12 yaş), basketbol (7-14 yaş), taekwondo (7-15 yaş), voleybol (8-15 yaş) ve masa tenisi (9-12 yaş) olarak belirlendi.
-
-Kontenjanların sınırlı olduğu eğitimler için başvurular "tesis.tepebasi.bel.tr" adresi üzerinden çevrim içi olarak yapılabilecek. Şirintepe Mahallesi Merkez Sokak'ta hizmet veren tesis ve kurs detayları hakkında 0222 335 51 85 numaralı hattan bilgi alınabileceği kaydedildi.
-
----
-
-## Eskişehirspor'da Söke Deplasmanı Öncesi 6 Eksik: Kaptan Kadroda Yok
-
-**Spor · Merkez** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://yenisokegazetesi.com/haber/29188448/soke-1970e-eskisehirspor-mujdesi-rakipte-6-oyuncu-eksik)
-
-![](data/images/697365174224cb77.jpg)
-
-> Nesine 3. Lig 2. Grup'ta zirve mücadelesini sürdüren Eskişehirspor, Söke 1970 deplasmanına sakat ve cezalı 6 önemli futbolcusundan yoksun çıkacak.
-
-Nesine 3. Lig 2. Grup'ta mücadele eden Eskişehirspor, ligin kritik haftasında deplasmanda oynayacağı Söke 1970 maçı öncesinde eksik oyuncuların sıkıntısını yaşıyor. Zorlu mücadele öncesi siyah-kırmızılı ekipte tam altı futbolcu kadroda yer alamayacak.
-
-Eskişehir Anadoluspor müsabakasında sakatlanan takım kaptanı Beykan Şimşek'in tedavisine devam edildiği ve deplasman kafilesine dahil edilmeyeceği öğrenildi. Kaptanın yanı sıra sakatlıkları süren Ahmet Dereli, Mustafa Eren Demar ve Atalay Yıldırım da Söke deplasmanında forma giyemeyecek.
-
-Siyah-kırmızılı ekipte sakat isimlerin haricinde kart cezaları da teknik heyeti düşündürüyor. Sarı kart cezalısı durumuna düşen İsmail Kulet ile Ozan İsmail Koç, bu karşılaşmada takımdaki yerlerini alamayacak.
-
-Eskişehirspor, altı eksik oyuncusuna rağmen zorlu deplasmandan puanla dönerek şampiyonluk yarışındaki iddiasını sürdürmeyi amaçlıyor. Ev sahibi Söke 1970 ise rakibinin eksiklerini fırsata çevirip sahasında galibiyet arayacak.
-
----
-
-## Başkanlar Eskişehir İçin Masada: Kent Gündemi ve İlçe Projeleri Görüşüldü
-
-**Belediye · Merkez** · 2026-11-19 21:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.esgazete.com/eskisehirde-belediye-baskanlari-gundemi-degerlendirdi)
-
-![](data/images/b4b165bff7907a5a.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, Odunpazarı Belediye Başkanı Kazım Kurt ve ilçe belediye başkanları bir araya gelerek kentin ortak gündemini değerlendirdi.
-
-Eskişehir'de yerel yönetimler arasındaki koordinasyonu güçlendirmek amacıyla belediye başkanları toplantısı düzenlendi. Odunpazarı Belediye Başkanı Kazım Kurt, Büyükşehir Belediye Başkanı Ayşe Ünlüce ve ilçe belediye başkanlarının katıldığı buluşmada kent genelindeki son gelişmeler ele alındı.
-
-Toplantıda ilçelerde sürdürülen projeler, yerel hizmetler ve planlanan çalışmalar masaya yatırıldı. Başkanlar, kent merkezi ile kırsal ilçeler arasındaki dayanışmayı ve koordinasyonu artırmaya yönelik fikir alışverişinde bulundu.
-
-Buluşmaya ilişkin açıklamada bulunan Odunpazarı Belediye Başkanı Kazım Kurt, Eskişehir ve hemşehrileri için ortak kararlılıkla çalışmaya devam edeceklerini belirtti.
-
----
-
-## Bayraktar Kızılelma TSK Envanterinde: İlk 3 İnsansız Savaş Uçağı Teslim Edildi
-
-**Siyaset · Türkiye** · 2026-11-19 19:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-bir-buyuk-hayalin-gercege-donustugu-tarihi-bir-gun-963863.html)
-
-![](data/images/752328421c408507.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, Bayraktar Kızılelma insansız savaş uçağının kabul testlerini tamamlayan ilk 3 adedinin Türk Silahlı Kuvvetleri envanterine alındığını duyurdu.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Bayraktar Kızılelma insansız savaş uçağının Türk Silahlı Kuvvetleri (TSK) envanterine girdiğini açıkladı. Sosyal medya hesabından paylaşımda bulunan Cumhurbaşkanı Erdoğan, gelişmeyi "büyük bir hayalin gerçeğe dönüştüğü tarihi bir gün" sözleriyle nitelendirerek yeni nesil hava aracının orduya hayırlı olmasını diledi.
-
-Baykar tarafından tamamen öz kaynaklarla milli ve özgün olarak geliştirilen Kızılelma projesinde, test ve eğitim süreçleri boyunca toplam 600 sorti uçuş gerçekleştirildi. Kabul testlerini başarıyla geride bırakan ilk 3 Kızılelma güvenlik güçlerine resmen teslim edildi. Böylece Türkiye, insansız bir savaş uçağını envanterine dahil eden ilk ülke kaydını elde etti.
-
-Kavramsal tasarımı Temmuz 2021'de paylaşılan ve Mart 2022'de üretim hattına giren Kızılelma, ilk uçuşunu 14 Aralık 2022'de yapmıştı. Platform; mühimmat atış testleri, elektro-optik hedefleme entegrasyonu, radar destekli görüş ötesi füze atışları ve akıllı filo otonomisi uçuşları dahil olmak üzere kritik geliştirme aşamalarını tamamlayarak aktif görev sürecine geçti.
 
 ---
