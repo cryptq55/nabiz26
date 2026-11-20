@@ -21,10 +21,10 @@
     "title": "Söke 1970 – Eskişehirspor maçı ne zaman, saat kaçta, hangi kanalda? Liderliği geri almak için sahada - Gazete Vatan",
     "url": "https://www.gazetevatan.com/galeri/soke-1970-eskisehirspor-maci-ne-zaman-saat-kacta-hangi-kanalda-liderligi-geri-almak-icin-sahada-2466745"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
