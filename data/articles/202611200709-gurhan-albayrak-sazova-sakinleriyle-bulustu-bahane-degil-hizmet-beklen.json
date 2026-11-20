@@ -20,10 +20,10 @@
     "title": "Tepebaşı'nda Sazova Sakinleri Belediye Hizmetini Eleştirdi - Milli İrade Gazetesi",
     "url": "https://www.milliirade.com/tepebasinda-sazova-sakinleri-belediye-hizmetini-elestirdi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Gürhan Albayrak"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
