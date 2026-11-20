@@ -2,6 +2,82 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Talat Yalaz'dan Dava Açıklaması: 'Ortada Olmayan Bir Kanundan Yargılanıyorum'
+
+**Siyaset · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.haber26.com.tr/politika/talat-yalaz-ortada-olmayan-kanundan-yargilaniyorum)
+
+> Hakkında açılan davanın duruşması 3 Aralık'a ertelenen Talat Yalaz, suçlama konusu konuşmayı yaptığı tarihte yasanın henüz yürürlükte olmadığını belirterek beraat beklediğini söyledi.
+
+İlk duruşması ertelenen davasının 3 Aralık'ta yeniden görüleceğini açıklayan Talat Yalaz, sürece ve gündeme dair değerlendirmelerde bulundu. "Halkı kanunlara uymamaya alenen tahrik" suçlamasıyla yargılandığını ifade eden Yalaz, konuşma yaptığı dönemde ilgili yasal düzenlemenin bulunmadığını kaydetti.
+
+Söz konusu açıklamasının ardından kamuoyundaki tepkilerle birlikte yasa tasarısında değişiklik yapıldığını belirten Yalaz, yürürlükte olmayan bir düzenlemeye dayanılarak suçlama yöneltildiğini savundu. Bir hukukçu olarak dosyanın ceza gerektirmediğini dile getiren Yalaz, mahkemenin beraat kararı vermesini beklediğini ve duruşma günü savunmasını sunacağını dile getirdi.
+
+Dosyadaki siyasi yasak talebine de değinen Yalaz, bir yılın üzerinde hapis cezası verilmesi durumunda bu yaptırımın gündeme geleceğini anımsatarak, ceza öngörmediği için bu talebin de karşılık bulmayacağını ifade etti. Yalaz ayrıca erken seçim tartışmaları kapsamında vatandaşın seçim beklentisi içinde olduğunu ancak iktidarın en az altı aylık süreçte sandığa gitmeyeceğini düşündüğünü aktardı.
+
+---
+
+## Jandarma Genel Komutan Yardımcısı Murat Bulut Eskişehir Valiliğinde
+
+**Gündem · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-jandarma-genel-komutan-yardimcisi-korgeneral-murat-bulutu-kabul-etti)
+
+![](data/images/398205f4e7c50996.jpg)
+
+> Çeşitli temaslarda bulunmak üzere kente gelen Jandarma Genel Komutan Yardımcısı Korgeneral Murat Bulut, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
+
+Eskişehir'de çeşitli programlara katılmak üzere kente gelen Jandarma Genel Komutan Yardımcısı Korgeneral Murat Bulut, Valilik makamında ağırlandı.
+
+Ziyarette Korgeneral Bulut'a, Eskişehir İl Jandarma Komutanı Albay Veysel Ergün de eşlik etti. Vali Dr. Erdinç Yılmaz, kabulde duyduğu memnuniyeti dile getirerek nazik ziyaretleri dolayısıyla Korgeneral Bulut'a teşekkür etti.
+
+---
+
+## İklim Adası'na Ekolojik Kreş Geliyor: 'Şikâyet Değil Çözüm Merciiyiz'
+
+**Belediye · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13580&cat_icerik=1&menu_id=24)
+
+![](data/images/41d64195526324fe.jpg)
+
+> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kent konseyleri ve sivil toplum temsilcileriyle İklim Adası’nda bir araya gelerek merkezin yanına ekolojik kreş inşa edildiğini açıkladı.
+
+Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce; kent konseyleri, çalışma grupları, mahalle muhtarları ve sivil toplum kuruluşlarının temsilcileriyle İklim Adası - İyi Yaşam İçin Ortak Üretim ve İnovasyon Merkezi'nde buluştu. Toplantıya Eskişehir Kent Konseyi Başkanı İnci Ülüğ, Odunpazarı Kent Konseyi Başkanı İsmail Kumru ve Tepebaşı Kent Konseyi Başkanı Hatice Canan Adlım da katıldı.
+
+Porsuk Çayı üzerinde yer alan eski Ada Kafe ve Ada Restoran binasının dönüştürülmesiyle kente kazandırılan merkezin misyonuna değinen Başkan Ünlüce, iklim değişikliğiyle mücadelenin küçük yaşlarda başlaması gerektiğine işaret etti. Bu kapsamda merkezin hemen bitişiğinde ekolojik kreş yapımına başlandığını duyuran Ünlüce, tesis tamamlandığında çocuklara çevre ve doğa bilinci aşılayacak eğitimler verileceğini söyledi.
+
+İklim Adası'nın uzmanlığı olan ya da bu alanda öğrenmek isteyen herkese açık olduğunu vurgulayan Başkan Ünlüce, "Göreve geldiğimden beri söylediğim bir şey var: Biz şikâyet değil, çözüm merciiyiz. Artık şikâyet etmek yerine çözümü hep birlikte burada arayalım istiyoruz" dedi. Buluşma, katılımcıların yerel iklim eylemlerine ilişkin önerilerini paylaşmasının ardından tamamlandı.
+
+---
+
+## Başkan Ataç Beyaz Önlüğü Giydi: 85 Bin Çocuğa Ulaşan Merkezde Minikleri Muayene Etti
+
+**Sağlık · Tepebaşı** · 2026-11-20 15:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacbeyazonlugunugiydi)
+
+![](data/images/26eb1305ad65efb2.jpg)
+
+> Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Ağız ve Diş Sağlığı Haftası kapsamında Tepebaşı Çocuk Ağız ve Diş Sağlığı Polikliniği'ni ziyaret ederek çocukların diş kontrollerini yaptı.
+
+Mesleği diş hekimliği olan Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, 20-27 Kasım Ağız ve Diş Sağlığı Haftası ile 22 Kasım Diş Hekimleri Günü dolayısıyla Tepebaşı Çocuk Ağız ve Diş Sağlığı Polikliniği'ni ziyaret etti. Beyaz önlüğünü giyerek muayene koltuğunun başına geçen Ataç, minik hastaların diş kontrollerini gerçekleştirip doğru fırçalama yöntemleri hakkında tavsiyelerde bulundu.
+
+Poliklinikte bugüne kadar yaklaşık 85 bin çocuğa ücretsiz ağız ve diş sağlığı hizmeti sunulduğunu belirten Ataç, merkezin temel misyonunun koruyucu hekimlik olduğunu vurguladı. Vatandaşların ve okulların çocukları merkeze yönlendirebileceğini hatırlatan Ataç; poliklinikte ortodonti haricindeki tedavilerin uygulandığını, diş hekimi korkusu yaşayan miniklere psikolog desteği sağlandığını ve konuşma-dil terapisi hizmeti de verildiğini aktardı.
+
+Diş hekimliği eğitimi ve mesleki standartlar üzerine de değerlendirmelerde bulunan Ataç, 1999 yılında 24 olan fakülte sayısının bugün 100'e ulaştığına dikkat çekti. Kontrolsüz kontenjan artışının eğitim kalitesi ve mezunların istihdamı açısından riskler barındırdığını ifade eden Ataç, yeni fakültelerin akademik kadro ve fiziki imkânlar gözetilerek planlanması gerektiğini dile getirdi.
+
+---
+
+## 23. Film Festivali'nde Kısa Film Rüzgârı: Yönetmenler Sinema Anadolu'da Buluştu
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-20 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fb3vdyrp6akgfrcg3n7irdxc)
+
+![](data/images/c66b8d3765a2028d.jpg)
+
+> Eskişehir Uluslararası Film Festivali kapsamında düzenlenen Kısa Film Seçkisi etkinliğinde, genç yönetmenler yapımlarının perde arkasını sinemaseverlerle paylaştı.
+
+Anadolu Üniversitesinin ev sahipliğinde devam eden 23. Eskişehir Uluslararası Film Festivali (EFF), genç sinemacıların üretimlerini izleyiciyle buluşturdu. Sinema Anadolu'da gerçekleştirilen "Kısa Film Seçkisi-Söyleşi" programında, farklı temalara sahip yapımlar beyaz perdeye yansıtılırken gösterimlerin ardından film ekipleriyle kapsamlı bir söyleşi gerçekleştirildi.
+
+İletişim Bilimleri Fakültesi Dr. Öğr. Üyesi Nihan Öztürk'ün moderatörlüğünde düzenlenen oturumda, genç yönetmenler filmlerinin ortaya çıkış hikâyelerini aktardı. Sosyal medyadaki dezenformasyon ve linç kültürünü işleyen Egemen Özcan ile Beyşehir Gölü'ndeki balıkçıların yaşam mücadelesini ele alan Doğukan Melik Sevindik izleyicilerin sorularını yanıtladı. Bilim kurgu türündeki animasyonuyla Selin Toprak ve kuramsal deneyimini pratiğe aktaran Münir Alper Doğan da yapım süreçlerini anlattı.
+
+Etkinlikte ayrıca 6 bin liralık bütçeyle stüdyoda tamamladığı filmini aktaran Gökberk Kuyucu, insan duyularını konu edinen Sıla Buse Güler ve caz müziği üzerinden yaşam ritmini arayan Toprak Bektaş ile Mehmet Ali Genç, bağımsız sinema üretimine dair tecrübelerini katılımcılarla paylaştı.
+
+---
+
 ## Tepebaşı'na AB Destekli Rüzgâr Hibesi: Temiz Enerji Haritası Çıkarılacak
 
 **Belediye · Tepebaşı** · 2026-11-20 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınhibezincirineyenihalka)
@@ -403,87 +479,5 @@ Anadolu Üniversitesi Devlet Konservatuvarı tarafından organize edilen “Beyo
 Konsere Bestecilik ve Orkestra Şefliği Anasanat Dalı Başkanı Prof. Dr. Berkant Gençkal'ın yanı sıra çok sayıda öğrenci ve müziksever katıldı.
 
 Etkinlikte Japon besteci Prof. Hideki Kozakura ile piyanoda besteci Deniz Erden, elektronik müzik tınıları eşliğinde sahne aldı. Dinletide Toru Takemitsu’nun “Litany”, Wenhao Zhao’nun “Drizzle and Fog 2” ve Kozakura’nın kendi bestesi olan “BbYond Mozart” eserleri seslendirildi.
-
----
-
-## COP31'de 81 İlden Genç İklim Delegeleri Buluştu: Bildiriler Kitaplaştırılıyor
-
-**Eğitim · Türkiye** · 2026-11-19 17:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/cop31039de-quot81-il-81-iklim-delegesi-genclik-paneliquot-duzenlendi/haber/42590/tr)
-
-![](data/images/bce455b47e2dcb7c.jpg)
-
-> Antalya'daki COP31 İklim Zirvesi kapsamında kurulan Türkiye İklim Okulunda bir araya gelen 81 ilden lise öğrencisi, çevre ve iklim krizine dair hazırladıkları çözüm önerilerini paylaştı.
-
-Millî Eğitim Bakanlığı tarafından Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) çerçevesinde kurulan Türkiye İklim Okulunda "81 İl 81 İklim Delegesi Gençlik Paneli" düzenlendi. Antalya'da gerçekleştirilen programa Türkiye'nin 81 ilinden seçilen birer lise öğrencisi iklim delegesi olarak katıldı.
-
-Panelde, genç delegeler tarafından hazırlanan çalışmalar arasından 10 temel tema altında öne çıkan bildirilerin sunumu yapıldı. Söz alan öğrenciler, iklim değişikliğiyle mücadele, çevre bilinci ve sürdürülebilir bir geleceğe yönelik tespit ve çözüm tekliflerini katılımcılara aktardı. 81 ilden gelen tüm bildirilerin "81 İl 81 Genç İklim Delegesi" adıyla dijital ortamda yayımlanacağı açıklandı.
-
-Genç iklim elçilerinin zirveye yönelik değerlendirme ve mesajlarını içeren video kayıtları ise Türkiye haritası üzerinden hazırlanan etkileşimli bir sistemde toplandı. Harita üzerinden seçilen illerdeki öğrencilerin görüşleri izlenebilirken, projeyle gençlerin iklim alanındaki karar alma mekanizmalarına katılımının güçlendirilmesi amaçlanıyor.
-
----
-
-## 34 Ülkeden 55 Film Eskişehir'de: 23. Uluslararası Film Festivali Perdelerini Açtı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-19 17:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/23-eskisehir-uluslararasi-film-festivali-basladi-119527136)
-
-![](data/images/2c039fcc6ed518dc.jpg)
-
-> Anadolu Üniversitesi'nin düzenlediği 23. Eskişehir Uluslararası Film Festivali, '500 Mil' filminin Türkiye prömiyeri ve açılış töreniyle başladı.
-
-Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü desteğiyle Anadolu Üniversitesi İletişim Bilimleri Fakültesi tarafından hayata geçirilen 23. Eskişehir Uluslararası Film Festivali, Yunus Emre Yerleşkesi'ndeki Sinema Anadolu'da düzenlenen törenle başladı. Festival, Türkiye'deki üniversite festivalleri arasında uzun metrajlı film gösterimi yapan tek organizasyon olma özelliğini sürdürüyor.
-
-Açılışta konuşan Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, üniversitenin kentin kültürel ve ekonomik gelişimine yön veren köklü bir kurum olduğunu belirtti. Festival Yönetmeni Prof. Dr. Sırrı Serhat Serter ise etkinlik boyunca 34 ülkeden 55 filmin 8 gün boyunca izleyiciyle buluşacağını aktararak, programda film gösterimlerinin yanı sıra söyleşiler, atölyeler ve sempozyumların yer alacağını kaydetti.
-
-Törende geleneksel sinema ödülleri de sahiplerini buldu. "Sinema Emek Ödülleri" yönetmen ve yapımcı Biket İlhan ile Necip Sarıcı'ya takdim edilirken, "Sinema Onur Ödülleri" usta yönetmen Feyzi Tuna ve oyuncu Nilüfer Aydan'a verildi. "Sinema Kültürüne Katkı Ödülü" ise Türkiye Film Araştırmalarında Yeni Yönelimler Konferansı'nın oldu.
-
-Festival, Morgan Matthews yönetmenliğindeki 2026 yapımı "500 Mil" (500 Miles) filminin Türkiye prömiyeriyle start aldı. Piyano eşliğinde sessiz film gösterimleri ve özel sinema derslerinin de yer alacağı zengin program, 27 Kasım'a kadar sinemaseverleri ağırlamaya devam edecek.
-
----
-
-## Odunpazarı'nda Kitap ve Sanat Günleri Başlıyor: İki Gün Boyunca İmza ve Söyleşi
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-19 15:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-nda-sanat-ve-kitap-gunleri-basliyor)
-
-![](data/images/54a448b60bea8f67.jpg)
-
-> Odunpazarı Belediyesi ve paydaşlarının iş birliğiyle düzenlenen Sanat ve Kitap Günleri, 21-22 Kasım tarihlerinde 100. Yıl Kültür Merkezi'nde kitapseverleri ağırlayacak.
-
-Cumhuriyet Gazetesi, Cumhuriyet Kitapları, Odunpazarı Belediyesi ve Odunpazarı Kent Konseyi ortaklığıyla hayata geçirilen Sanat ve Kitap Günleri, 21-22 Kasım 2026 tarihlerinde Eskişehirli edebiyat ve sanatseverlerle buluşuyor. Yenikent Mahallesi Şehit Yüzbaşı Tuncer Güngör Caddesi'ndeki 100. Yıl Kültür Merkezi'nde gerçekleştirilecek program, edebiyat, sanat, tarih ve siyaset eksenli oturumlara sahne olacak.
-
-Etkinlik, 21 Kasım Cumartesi günü saat 13.00'te Cumhuriyet Gazetesi Koleksiyon Sergisi'nin açılışıyla başlayacak. Programın ilk gününde resim, edebiyat, cumhuriyet tarihi ve hayvan hakları üzerine çeşitli söyleşiler düzenlenecek. A. Celal Binzet, Güven Baykan, Işık Kansu, Adnan Gerger, Ahmet Antman, Eren Aysan ile Gülay ve Gürbüz Ertürk okurlarla buluşacak.
-
-22 Kasım Pazar günü ise modern Türk edebiyatı, öykü, cumhuriyet devrimleri ve Yunus Emre konuları ele alınacak. Seyfettin Araç, Halil Genç, İsa Küçük, Tolga Aydoğan ve Yüksel Işık'ın konuşmacı olduğu oturumların ardından, saat 17.00'de kapanış söyleşisi yapılacak. Kapanış programında Odunpazarı Belediye Başkanı Kazım Kurt ile gazeteci-yazar Mustafa Balbay, yerel siyaset ve yerel yönetim konusunu ele alacak. İki gün boyunca oturumların bitiminde yazarlar imza stantlarında okurlarıyla bir araya gelecek.
-
----
-
-## Kazakistan Eski Eğitim Bakanı Beisembayev Anadolu Üniversitesini Ziyaret Etti
-
-**Eğitim · Tepebaşı** · 2026-11-19 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/c6b2ohjv3ggvldf2tuut0i6c)
-
-![](data/images/faaa0a0fec175513.jpg)
-
-> Kazakistan eski Eğitim Bakanı Gani Beisembayev, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel'i ziyaret ederek uzaktan öğrenme ve yükseköğretim iş birliklerini görüştü.
-
-Kazakistan Cumhuriyeti eski Eğitim Bakanı Gani Beisembayev ve beraberindeki heyet, Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel’i makamında ziyaret etti. Görüşmede Açıköğretim Fakültesi Dekanı Prof. Dr. Aras Bozkurt da yer aldı.
-
-Rektörlük makamında gerçekleştirilen ziyarette, Anadolu Üniversitesinin eğitim alanındaki faaliyetleri, uluslararasılaşma çalışmaları ve iki ülke arasında kurulabilecek yükseköğretim ortaklıkları ele alındı. Görüşmede özellikle üniversitenin açık ve uzaktan öğrenme alanındaki tecrübesi üzerine fikir alışverişinde bulunuldu.
-
-İki ülke arasındaki eğitim ilişkilerini güçlendirmeye yönelik değerlendirmelerin yapıldığı temaslar, karşılıklı iyi niyet temennilerinin ardından çekilen hatıra fotoğrafıyla sona erdi.
-
----
-
-## Büyükdere'de 410 Metrelik İsale Hattı Yenilendi: ESKİ Çalışmayı Tamamladı
-
-**Belediye · Odunpazarı** · 2026-11-19 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13575&cat_icerik=1&menu_id=24)
-
-![](data/images/8538a4369cdd6aa7.jpg)
-
-> ESKİ Genel Müdürlüğü, Büyükdere Mahallesi Söğütlü Sokak'ta kullanım ömrünü tamamlayan 410 metrelik içme suyu iletim hattını yüksek dayanımlı çelik borularla yenileyerek hizmete aldı.
-
-Eskişehir Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi (ESKİ) Genel Müdürlüğü, kentin içme ve kullanma suyu altyapısını modernize etme çalışmaları kapsamında Odunpazarı ilçesine bağlı Büyükdere Mahallesi'ndeki iletim hattını baştan aşağı yeniledi.
-
-Söğütlü Sokak'ta uzun yıllardır kullanılan ve arızalar nedeniyle su iletim güvenliği zayıflayan 410 metre uzunluğundaki hat, yeni nesil malzemelerle değiştirildi. İmalatta iç yüzeyi epoksi, dış yüzeyi ise polietilen kaplamalı yüksek dayanımlı spiral kaynaklı çelik borular tercih edildi.
-
-Kaynak birleştirme, izolasyon ve kalite kontrol süreçlerinin ardından yeni hat mevcut şehir şebekesine başarıyla entegre edilerek devreye alındı. Yetkililer, kent genelinde ekonomik ömrünü dolduran iletim hatlarının yenilenmesine ve arıza risklerini en aza indirmeye yönelik altyapı yatırımlarının süreceğini bildirdi.
 
 ---
