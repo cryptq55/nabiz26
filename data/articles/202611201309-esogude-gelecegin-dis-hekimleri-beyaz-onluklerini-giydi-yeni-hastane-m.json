@@ -21,10 +21,10 @@
     "title": "ESOGÜ'lü Genç Diş Hekimi Adayları Beyaz Önlüklerini Giydi",
     "url": "https://www.ogu.edu.tr/Web/HaberDetay/2153"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
