@@ -2,6 +2,36 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg T10X Ekimde Zirveye Yerleşti: 4 Bin 59 Adetle Rakiplerini Geride Bıraktı
+
+**Ekonomi · Türkiye** · 2026-11-20 07:09 UTC · Kaynak: [Google Haberler - Togg](https://n24.com.tr/otomotiv/togg-t10x-ekim-satislarinda-renault-ve-volkswageni-solladi)
+
+![](data/images/dfaa0c0f01438db6.jpg)
+
+> Türkiye otomobil pazarında ekim ayı satış lideri 4 bin 59 adetle Togg T10X oldu. Markanın yeni modeli T10F ise 2 bin 702 adetlik satışla dördüncü sıraya yerleşti.
+
+Türkiye otomobil pazarında yılın ilk 10 ayına ait model bazlı satış verileri netleşti. Ekim ayı rakamlarına göre yerli elektrikli SUV Togg T10X, 4 bin 59 adetlik satış rakamına ulaşarak Türkiye genelinde en çok satılan otomobil unvanını elde etti. T10X'i 3 bin 324 adetle Volkswagen T-Roc ve 2 bin 779 adetle Renault Boreal izledi.
+
+Togg'un fastback sedan modeli T10F de ekim ayında gösterdiği performansla dikkat çekti. Ay boyunca 2 bin 702 adetlik satışa ulaşan T10F, listenin dördüncü basamağına yerleşti. Böylece ekim ayında ilk dört sırada iki yerli elektrikli otomobil modeli yer almış oldu.
+
+Ocak-ekim dönemini kapsayan 10 aylık toplam satışlarda ise Renault Clio 35 bin 884 adetle liderliğini sürdürürken, Toyota Corolla 26 bin 455 adetle ikinci, Togg T10X ise 26 bin 79 adetle üçüncü sırada yer aldı. Togg'un T10X ve T10F modellerinin yılın ilk 10 ayındaki toplam satış hacmi 44 bin 187 adede ulaştı.
+
+---
+
+## Gürhan Albayrak Sazova Sakinleriyle Buluştu: 'Bahane Değil Hizmet Bekleniyor'
+
+**Siyaset · Tepebaşı** · 2026-11-20 07:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.milliirade.com/tepebasinda-sazova-sakinleri-belediye-hizmetini-elestirdi)
+
+> AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki teşkilat üyeleri, Sazova Mahallesi sakinleriyle bir araya gelerek bölgedeki sorun ve talepleri dinledi.
+
+AK Parti Eskişehir İl Başkanı Gürhan Albayrak, parti teşkilatıyla birlikte Sazova Mahallesi'ni ziyaret etti. Mahalle sakinleriyle çay sohbetinde buluşan heyet, vatandaşların belediye hizmetlerine ilişkin görüş ve beklentilerini kaydetti.
+
+Ziyaretin ardından yapılan açıklamada, bölge sakinlerinin yerel hizmet anlayışından memnun olmadığı savunularak vatandaşların artık mazeret yerine somut hizmet görmek istediği ifade edildi.
+
+Sazova Mahallesi'nin ihtiyaçlarının ve iletilen taleplerin takipçisi olunacağını belirten Albayrak, misafirperverliklerinden dolayı mahalle sakinlerine teşekkür etti.
+
+---
+
 ## Altın fiyatları 20 Kasım 2026: Gram altın 5.953,07 TL
 
 **Ekonomi · Merkez** · 2026-11-20 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -451,33 +481,5 @@ Millî Eğitim Bakanlığı tarafından organize edilen "Türkiye'nin PISA Perfo
 Eğitim yöneticileri, akademisyenler ve araştırmacıları buluşturacak etkinlikte, Türkiye'nin geçmişten bugüne PISA sınavlarında sergilediği performans ve farklı yeterlik alanlarında kaydettiği ilerlemeler çok boyutlu olarak masaya yatırılacak.
 
 Sempozyum oturumlarında fen bilimleri, matematik ve okuma becerilerine dair verilerin yanı sıra öğrenci başarısına etki eden bireysel, ailesel ve okul temelli faktörler uzmanlar tarafından değerlendirilecek.
-
----
-
-## Heykel ve Banka Çarpan Kamyonet Sürücüsü Yunus Timlerince Yakalandı
-
-**Asayiş · Tepebaşı** · 2026-11-19 07:09 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://hurgun.com/haber/eskisehirde-heykel-ve-bankaya-carpan-kamyonet-surucusu-polis-tarafindan-yakalandi-172349)
-
-> Eskişehir İsmet İnönü Caddesi'nde heykel ve banka çarparak zarar veren kamyonet sürücüsü, güvenlik kameralarının incelenmesiyle yakalandı.
-
-İsmet İnönü Caddesi üzerinde manevra yaptığı esnada kontrolden çıkan kamyonet, yol kenarındaki heykele ve oturma bankına çarptı. Çarpmanın etkisiyle heykel ve kamusal kullanımda olan bankta maddi hasar meydana geldi.
-
-Olayın ardından Eskişehir Büyükşehir Belediyesi tarafından yapılan açıklamada, kent mobilyalarına ve ortak alandaki sanat eserlerine zarar verilmemesi gerektiği vurgulanarak sorumluların bulunması için kamera kayıtlarının incelendiği duyuruldu.
-
-Bölgedeki güvenlik kamerası görüntülerini detaylı şekilde inceleyen emniyet ekipleri, kamyonetin ve sürücünün kimliğini belirledi. Şüpheli sürücü, Eskişehir İl Emniyet Müdürlüğü bünyesindeki Yunus timleri tarafından kısa sürede yakalanarak hakkında adli işlem başlatıldı.
-
----
-
-## Eskişehirspor Türkiye'nin En Golcü 3. Takımı Oldu: Süper Lig Devlerini Geride Bıraktı
-
-**Spor · Merkez** · 2026-11-19 07:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.bolgegundemi.com/eskisehir/eskisehirspor-turkiye-profesyonel-liglerinde-en-golcu-3-takim-oldu-238692.html)
-
-> Türkiye profesyonel ligleri gol ortalaması verilerine göre Eskişehirspor, maç başına ulaştığı 2,71 gol ortalamasıyla en skorer üçüncü ekip unvanını elde etti.
-
-Transfermarkt verileri doğrultusunda hazırlanan profesyonel ligler gol istatistiklerinde Eskişehirspor, hücum performansıyla dikkat çekti. Siyah-kırmızılı ekip, 2026-2027 sezonunda maç başına yakaladığı 2,71 gol ortalamasıyla Türkiye genelinde en çok gol atan üçüncü takım oldu ve Süper Lig kulüpleri dahil çok sayıda rakibini geride bıraktı.
-
-Profesyonel ligler genelinde yapılan değerlendirmede zirvede, 3. Lig temsilcisi Malatya Yeşilyurt SK yer aldı. Mehmet Ak yönetimindeki Malatya ekibi, sezonun ilk 13 haftasında mağlubiyet yüzü görmezken 3,79 gol ortalamasına ulaştı. Sıralamanın ikinci basamağında ise maç başına 2,75 gol ortalaması tutturan 2. Lig ekibi Muş SK kendine yer buldu.
-
-Süper Lig temsilcileri arasında en golcü 10 takım arasına girebilen tek ekip, 2,55 ortalamayla dördüncü sırada yer alan Amed SK oldu. Süper Lig'in diğer ekiplerinden Galatasaray 2,33 ortalamayla 12'nci, Kayserispor 2,27 ortalamayla 16'ncı, Fenerbahçe ise 2,05 ortalamayla 21'inci sırada kaldı. Beşiktaş, Trabzonspor ve Göztepe ise 2,00 gol ortalamasında yer aldı.
 
 ---
