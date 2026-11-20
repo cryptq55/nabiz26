@@ -2,6 +2,72 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Tepebaşı'nda Tesisler Mercek Altında: Hizmet Binalarında Entegre Su Yönetimi Başladı
+
+**Belediye · Tepebaşı** · 2026-11-20 11:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.ekonomim.com/sehirler/tepebasi-atac-iklim-eylemi-kentlerde-gundelik-kararlarla-hayat-bulur-haberi-932405)
+
+> Tepebaşı Belediyesi, BEBKA desteğiyle yürüttüğü proje kapsamında hizmet binalarında ve yeşil alanlarda su verimliliği analizi gerçekleştirirken 425 kişiye tasarruf eğitimi verdi.
+
+Tepebaşı Belediyesi, iklim krizi ve artan kuraklık riskine karşı kaynakları korumak amacıyla "Hizmet Binalarında Entegre Su Yönetimi ve Su Verimliliği Kapasitesinin Geliştirilmesi" projesini hayata geçirdi. Bursa Eskişehir Bilecik Kalkınma Ajansı (BEBKA) 2026 Yılı Teknik Destek Programı kapsamında desteklenen çalışma ile belediye tesislerinde su tüketim alışkanlıkları kapsamlı şekilde inceleniyor.
+
+Çalışma doğrultusunda Tepebaşı Belediyesi Ana Hizmet Binası, Mustafa Kemal Atatürk Su Sporları Merkezi ve Metin Özöğüt Yaşam Merkezi'nde teknik denetimler yapılıyor. Tüketimin yoğunlaştığı noktalar tespit edilirken kayıpların önlenmesi, yağmur suyu hasadı ve gri suyun geri kazanımı gibi tasarruf alternatifleri değerlendiriliyor. Analizler yalnızca kapalı tesislerle sınırlı kalmayıp park, bahçe ve rekreasyon alanlarındaki sulama sistemlerini de kapsıyor.
+
+Su verimliliği seferberliği kapsamında bugüne kadar toplam 425 kişiye eğitim sunuldu. Mavi Su Belgesi kapsamında 101, okullarla ortaklaşa 259 öğrenci ve BEBKA projesi çerçevesinde 65 belediye personeli bilinçlendirme programlarına katıldı.
+
+Projeye ilişkin değerlendirmede bulunan Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, iklim krizinin kentlerin karşı karşıya olduğu somut bir gerçek olduğuna dikkat çekti. Ataç, "Kuraklık ve su kaynaklarının azalması, suyu nasıl kullandığımızı yeniden düşünmemizi zorunlu kılıyor. Su yalnızca çevresel bir başlık değil; yaşamın, üretimin, ekonominin ve kentlerin geleceğinin temelidir. COP31'de konuşulan iklim eyleminin karşılığı kentlerde alınan kararlarla ortaya çıkar. Bugünden atacağımız her bilinçli adım gelecek kuşakların suya erişimi ve kentimizin dayanıklılığı için hayati önem taşıyor" ifadelerini kullandı.
+
+---
+
+## Sarar Grup'tan Rektör Özcan'a Tebrik Ziyareti: Yeni Dönemde Başarı Diledi
+
+**Eğitim · Tepebaşı** · 2026-11-20 11:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/sarar-grup-resmi-iliskiler-ve-protokol-muduru-alaattin-cobandan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
+
+![](data/images/2c76329c6484d7d5.jpg)
+
+> Sarar Grup Resmi İlişkiler ve Protokol Müdürü Alaattin Çoban, yeniden ESTÜ Rektörlüğüne atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
+
+Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a yönelik hayırlı olsun ziyaretleri devam ediyor.
+
+Bu kapsamda Sarar Grup Resmi İlişkiler ve Protokol Müdürü Alaattin Çoban, Rektörlük Ofisinde Prof. Dr. Adnan Özcan ile bir araya geldi. Görüşmede Çoban, yeni görev dönemine başlayan Rektör Özcan'ı tebrik ederek üniversite yönetimine çalışmalarında başarılar diledi.
+
+Ziyaretten duyduğu memnuniyeti ifade eden Rektör Prof. Dr. Adnan Özcan ise iyi dilekleri ve nezaketi dolayısıyla Alaattin Çoban'a teşekkürlerini iletti.
+
+---
+
+## Odunpazarı'nda Türkü Gecesi: Köz Orkestra Dinleyicileri Hayran Bıraktı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-20 11:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/koz-orkestra-dan-beste-formunda-turkuler-konseri)
+
+![](data/images/d4f4a0c11879333d.jpg)
+
+> Odunpazarı Belediyesi eğitmenlerinin oluşturduğu Köz Orkestra, 'Beste Formunda Türküler' konseriyle Eskişehirli müzikseverlere unutulmaz bir akşam yaşattı.
+
+Odunpazarı Belediyesi bünyesinde görev yapan sanat eğitmenlerinin kurduğu Köz Orkestra, Yunus Emre Kültür ve Sanat Merkezi'nde (YKSM) sahne aldı. Ücretsiz olarak gerçekleştirilen konsere kentteki sanatseverler yoğun ilgi gösterdi.
+
+'Beste Formunda Türküler' temasıyla düzenlenen konserde Anadolu'nun köklü ezgileri çok sesli ve özgün enstrümantal düzenlemelerle yorumlandı. Köz Orkestra'nın sahne performansı salonu dolduran dinleyicilerden alkış topladı.
+
+Belediyenin kültür ve sanat etkinlikleri kapsamında sahne alan orkestra, geleneksel Türk halk müziği mirasını modern yaklaşımlarla kente taşımaya devam ediyor.
+
+---
+
+## MEBİ Yapay Zekâ ve Çevrim Dışı Modla Yenilendi: Kullanıcı Sayısı 8 Milyonu Aştı
+
+**Eğitim · Türkiye** · 2026-11-20 11:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotmebiquot-yenilenen-yuzu-ve-yapay-zeka-destekli-ozellikleriyle-yayinda/haber/42599/tr)
+
+![](data/images/84b683fb8b8ab196.jpg)
+
+> Millî Eğitim Bakanlığının bireysel öğrenme platformu MEBİ; yapay zekâ asistanı, internetsiz çalışma özelliği ve genişletilen erişilebilirlik seçenekleriyle baştan aşağı güncellendi.
+
+Millî Eğitim Bakanlığı, öğrenci ve öğretmenlerin kullanımına sunduğu MEBİ Bireysel Öğrenme Platformu’nu gelen geri bildirimler doğrultusunda yeniledi. Web arayüzü ve mobil uygulaması daha işlevsel hâle getirilen platformda, öğrencilerin ders çalışma alışkanlıklarını destekleyen kişiselleştirilebilir ekranlar ve yeni dijital modüller devreye alındı.
+
+Platformun yapay zekâ destekli öğrenci asistanı KANKA geliştirilerek öğrencilerin hedeflerine, uygun saatlerine ve zorlandıkları konulara göre kişiye özel haftalık program hazırlaması sağlandı. Doğal dille arama imkânı sunan yapay zekâ desteği, deneme sınavı sonuçlarını değerlendirerek öğrencilere günlük çalışma tavsiyeleri üretiyor. Yeni eklenen çevrim dışı çalışma özelliğiyle de öğrenciler, içerikleri önceden mobil cihazlarına indirerek internet bağlantısı olmayan ortamlarda ders çalışabiliyor.
+
+Farklı ihtiyaçlara sahip öğrencilerin platformdan rahat yararlanabilmesi için erişilebilirlik seçenekleri de genişletildi. Görme engelli öğretmenlerin katılımıyla yapılan testler sonucunda platforma disleksi dostu görünüm, renk körlüğü ayarları, yüksek kontrast ve ekran okuyucu uyumluluğu eklendi. Ayrıca ders notlarının tek noktada toplanmasını sağlayan Not Defteri modülü kullanıma açıldı.
+
+Bakanlık verilerine göre ortaokul ve lise düzeyinde 6 milyon 180 binden fazla öğrencinin yararlandığı platformun toplam kullanıcı sayısı öğretmen ve velilerle birlikte 8 milyon 187 bini aştı. Mobil uygulaması 6,6 milyondan fazla indirilen MEBİ üzerinden bugüne kadar 704 milyonu aşkın soru çözüldüğü bildirildi.
+
+---
+
 ## Porsuk Kıyısına 'Meydan 26': Eskişehir'in En Büyük Kent Meydanı Geliyor
 
 **Belediye · Odunpazarı** · 2026-11-20 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/galeri/eskisehirin-en-buyuk-meydani-geliyor-belediye-dev-projeyi-duyurdu-2466735)
@@ -415,71 +481,5 @@ Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, 20 Kasım Dünya Ço
 Eskişehir'de çocukların haklarını öğrenerek bilim, sanat, spor ve doğayla iç içe yetişmeleri amacıyla çalışmalar yürüttüklerini aktaran Ünlüce; Masal Şatosu, Bilim Deney Merkezi, İklim Adası, Çocuk Hakları Birimi, ESMEK merkezleri ve tiyatro atölyeleriyle miniklerin gelişimini desteklediklerini ifade etti.
 
 Çocukların hiçbir ayrımcılığa, ihmale, istismara ve şiddete maruz kalmaması gerektiğinin altını çizen Ünlüce, hiçbir çocuğun çalıştırılmaması ve umutsuzluğa sürüklenmemesi gerektiğini belirterek tüm çocukların 20 Kasım Dünya Çocuk Hakları Günü'nü tebrik etti.
-
----
-
-## Tepebaşı'nda 46 Noktada Geri Dönüşüm Seferi: Mahalle Mahalle Toplama Takvimi Açıklandı
-
-**Belediye · Tepebaşı** · 2026-11-19 11:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nda18mahallede46toplamanoktasındageridonusumlerhayatbuluyor)
-
-![](data/images/3ca93fb8c3041921.jpg)
-
-> Tepebaşı Belediyesi, 18 mahallede oluşturulan 46 noktada biriken geri dönüştürülebilir atıkları haftalık program dahilinde ekonomiye kazandırıyor.
-
-Tepebaşı Belediyesi Çevre Koruma ve Kontrol Müdürlüğü, ilçe genelinde atıkların kaynağında ayrıştırılması ve geri dönüşümün yaygınlaştırılması amacıyla yürüttüğü çalışmaları sürdürüyor. Çalışmalar doğrultusunda 18 mahallede belirlenen 46 toplama noktasında kâğıt, karton, plastik, cam ve metal atıklar düzenli olarak alınıyor.
-
-İlçe genelindeki dağılıma göre Batıkent'te 10, Ertuğrulgazi'de 7, Şirintepe'de 6 nokta bulunuyor. Şeker ve Sazova mahallelerinde 3'er; Aşağısöğütönü, Çukurhisar, Uluönder ve Yukarısöğütönü'nde 2'şer toplama noktası yer alıyor. Bahçelievler, Çamlıca, Fevziçakmak, Hoşnudiye, Kumlubel, Muttalip Orta, Sakintepe, Yaşamkent ve Yeşiltepe mahallelerinde ise 1'er noktada hizmet veriliyor.
-
-Belediye ekipleri, modernize edilen araçlarla atık toplama işlemlerini haftalık takvime göre gerçekleştiriyor. Programa göre pazartesi günleri Zincirlikuyu, Aşağısöğütönü, Yukarısöğütönü, Yaşamkent ve Keskin; salı günleri Batıkent, Çamlıca ve Çukurhisar mahallelerinde toplama yapılıyor.
-
-Çarşamba günü Ertuğrulgazi, Sazova ve Çamlıca'da süren çalışmalar, perşembe günü Yenibağlar, Güllük, Şirintepe, Hoşnudiye, Işıklar, Uluönder ve Muttalip Orta'da devam ediyor. Cuma günleri ise Şeker, Hava İkmal, Yeşiltepe, Kumlubel ve Sakintepe mahallelerindeki toplama noktalarından atıklar alınıyor.
-
----
-
-## Oruç Reis Pakistan'a Ulaştı: İki Sahada Petrol ve Doğal Gaz Araması Yapacak
-
-**Türkiye · Türkiye** · 2026-11-19 11:09 UTC · Kaynak: [Enerji ve Tabii Kaynaklar Bakanlığı](https://enerji.gov.tr/haber-detay?id=31976)
-
-![](data/images/d4ce224fe7e477e4.jpg)
-
-> Somali'deki ilk kıtalararası görevinin ardından rotasını Asya'ya çeviren Oruç Reis Sismik Araştırma Gemisi, Pakistan karasularında iki ayrı sahada hidrokarbon arama operasyonuna başlıyor.
-
-Mersin Taşucu Limanı'ndaki hazırlıklarının tamamlanmasının ardından yola çıkan yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan'ın Karaçi Limanı'na ulaştı. Somali'deki 9 aylık görevinin ardından ikinci yurt dışı operasyonuna hazırlanan gemi, Pakistan açıklarındaki iki farklı noktada veri toplayacak.
-
-Operasyon kapsamında öncelikle Indus-C Blok sahasındaki Marjan 3B Sismik Projesi yürütülecek. Gemi, Karaçi açıklarında toplam 670 kilometrekarelik alanda üç boyutlu sismik veri toplayacak ve bu aşamanın yaklaşık 50 gün sürmesi hedefleniyor. Ardından Makran Blokları'na geçecek olan Oruç Reis, Makran 2B Projesi çerçevesinde 2 bin 353 kilometrelik alanda iki boyutlu tarama yapacak.
-
-Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin dünyanın dördüncü büyük derin deniz sondaj filosuna sahip olduğunu belirterek, edinilen derin deniz aramacılığı tecrübesinin Pakistan ile yapılan iş birliği sayesinde yeni başarılara dönüştürülmesinin hedeflendiğini kaydetti. Bakan Bayraktar'ın katılımıyla geminin limandan ayrılışı öncesinde resmî bir tören gerçekleştirilecek.
-
----
-
-## Odunpazarı'nda İkinci El Giysiler Kızılay'a Devredildi: Her Ay 10 Kişiye Destek
-
-**Belediye · Odunpazarı** · 2026-11-19 11:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://yerel-haberler.haberturk.com/eskisehir-haberleri/odunpazarinda-kullanilmis-kiyafetler-dayanismaya-donusecek-odunpazari-belediyesi-ile-turk-119526737)
-
-![](data/images/3361ed82565d3135.jpg)
-
-> Odunpazarı Belediyesi ile Türk Kızılay arasında imzalanan iş birliği protokolüyle ilçedeki kullanılmış giysi toplama hizmeti Kızılay'a devredildi. Proje kapsamında her ay 10 ihtiyaç sahibine giyim desteği verilecek.
-
-Odunpazarı Belediyesi, kullanılmış kıyafetlerin toplanması ve geri kazandırılması amacıyla Türk Kızılay ile iş birliği protokolü imzaladı. Belediye Başkanı Kazım Kurt'un makamında düzenlenen imza törenine Kızılay Lojistik AŞ Genel Müdür Yardımcısı Davut Karacan, Kızılay Tekstil Operasyonları Türkiye Müdürü Hakan Sarı ve Kızılay Eskişehir İl Merkezi Başkanı Egemen Temizsoy katıldı.
-
-İmzalanan protokol kapsamında Odunpazarı ilçe sınırları içerisindeki uygun noktalara Türk Kızılay tarafından kıyafet bağış kutuları yerleştirilecek. İlçe sakinlerinin bıraktığı kıyafetler Kızılay Lojistik tarafından toplanarak yeniden değerlendirilecek ve sosyal yardım faaliyetlerine kaynak oluşturacak.
-
-Daha önce özel firmalar aracılığıyla yürütülen giysi toplama hizmetinin belediye meclisi kararıyla Kızılay'a bedelsiz devredildiğini belirten Odunpazarı Belediye Başkanı Kazım Kurt, dayanışma ve çevreye katkı sunan bu adımda emeği geçen meclis üyelerine ve Kızılay yetkililerine teşekkür etti. Kızılay Eskişehir İl Merkezi Başkanı Egemen Temizsoy ise Odunpazarı'nda başlayan bu toplama ağını zamanla tüm Eskişehir'e yaymayı hedeflediklerini kaydetti.
-
-İş birliğinin sosyal destek ayağında ise Türk Kızılay Eskişehir İl Merkezi ile Eskişehir Osmangazi Üniversitesi ortaklığında faaliyet gösteren Kızılay Sevgi Butik yer alıyor. Odunpazarı Belediyesi tarafından her ay belirlenecek ihtiyaç sahibi 10 vatandaşa bu butik üzerinden düzenli giyim yardımı ulaştırılacak.
-
----
-
-## Eskişehirspor'un Eski Futbolcusu Emre Güral Avusturya'da Antrenörlüğe Başladı
-
-**Spor · Merkez** · 2026-11-19 11:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.odatv.com/spor/eski-milli-futbolcu-emre-guralin-yeni-meslegi-120171873)
-
-> Eskişehirspor formasıyla attığı kritik gollerle hatırlanan eski milli futbolcu Emre Güral, Avusturya'daki Galatasaray Futbol Okulu'nda antrenörlük görevine başladı.
-
-Türk futbolunda bir dönem Eskişehirspor forması da terleten eski milli futbolcu Emre Güral, aktif kariyerini noktaladıktan sonra antrenörlük yolculuğuna ilk adımı attı.
-
-Süper Lig'de Eskişehirspor'un yanı sıra Trabzonspor, Antalyaspor ve MKE Ankaragücü formaları giyen, son olarak İtalya'nın Crotone takımında oynayan Güral, Avusturya'nın Linz kentine gitti. Deneyimli isim, burada faaliyet gösteren Galatasaray Futbol Okulu bünyesinde antrenör olarak görev yapmaya başladı.
-
-Siyah-kırmızılı taraftarların hafızasında özellikle Fenerbahçe filelerine uzaktan gönderdiği şık golle yer edinen eski forvet, yurt dışındaki genç yeteneklerin yetiştirilmesi için saha kenarında mesai harcayacak.
 
 ---
