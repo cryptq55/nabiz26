@@ -22,11 +22,11 @@
     "title": "CHP Genel Başkan Yardımcıları Demirci ve Bilek Artvin'de esnaf ziyaretinde bulundu - Anka Haber",
     "url": "https://ankahaber.net/haber/chp-genel-baskan-yardimcilari-demirci-ve-bilek-artvin-de-esnaf-ziyaretinde-bulundu-383e479e"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Nevaf Bilek",
       "Cumhuriyet Halk Partisi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
