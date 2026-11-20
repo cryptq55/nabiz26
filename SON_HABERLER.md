@@ -2,6 +2,22 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Vali Yılmaz'dan EHA'ya Ziyaret: Kent Gündemi ve Medya Çalışmaları Ele Alındı
+
+**Gündem · Merkez** · 2026-11-20 21:08 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-haber-ajansi-eha-internet-sitesini-ziyaret-etti)
+
+![](data/images/6052eeb7f9a1dc72.jpg)
+
+> Eskişehir Valisi Dr. Erdinç Yılmaz, Eskişehir Haber Ajansı (EHA) internet sitesini ziyaret ederek kurum yöneticileriyle bir araya geldi.
+
+Eskişehir Valisi Dr. Erdinç Yılmaz, yerel medya temasları kapsamında Eskişehir Haber Ajansı (EHA) internet sitesine ziyarette bulundu.
+
+Gerçekleşen ziyarette EHA Medya Grup Başkanı Soner Yüksel ve İmtiyaz Sahibi Yusuf Melih Turan ile görüşen Vali Yılmaz, ajansın yürüttüğü yayın faaliyetleri hakkında bilgi aldı.
+
+Ziyaret sırasında Eskişehir'in güncel konuları ve basın çalışmaları üzerine fikir alışverişinde bulunuldu.
+
+---
+
 ## Vali Yılmaz'dan Kuzey Kafkas Kültür Derneği'ne Ziyaret: Çalışmalar Ele Alındı
 
 **Gündem · Merkez** · 2026-11-20 19:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-kuzey-kafkas-kultur-ve-dayanisma-dernegini-ziyaret-etti)
@@ -459,23 +475,5 @@ Ziynet altınlarda çeyrek altın 9.717 TL, yarım altın 19.429 TL, tam altın 
 Uluslararası piyasalarda altının onsu 3.544,10 dolardan işlem görürken, dolar/TL 50,65 seviyesinde bulunuyor.
 
 Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
-
----
-
-## Vize Serbestisinde Kalan 6 Kriter İçin Taslak Hazır: Bütçeden Sonra Meclis'e Geliyor
-
-**Türkiye · Türkiye** · 2026-11-20 05:09 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.haberturk.com/gundem/disisleri-bakani-hakan-fidan-vize-serbestisi-icin-hazirlanan-taslagin-meclise-gelecegini-acikladi-3928625)
-
-![](data/images/5e7ffd4f6db0fc74.jpg)
-
-> Dışişleri Bakanı Hakan Fidan, Avrupa Birliği ile vize serbestisi sürecinde kalan 6 kritere dair yasal düzenleme taslağının bütçe görüşmelerinin ardından TBMM'ye sunulacağını açıkladı.
-
-Dışişleri Bakanı Hakan Fidan, TBMM Plan ve Bütçe Komisyonundaki bütçe görüşmelerinde milletvekillerinin sorularını yanıtladı. Türkiye'nin Avrupa Birliği ile yürüttüğü vize serbestisi sürecine değinen Fidan, yerine getirilmesi gereken son 6 kritere ilişkin taslak çalışmada sona gelindiğini ve düzenlemenin bütçe mesaisinin tamamlanmasıyla birlikte Meclis gündemine taşınacağını duyurdu.
-
-Bulgaristan'ın Schengen sistemine dahil olmasının ardından sınır geçişlerinde elektronik denetime geçildiğini hatırlatan Fidan, Türk tır şoförlerinin yaşadığı vize ve süre aşımı sıkıntılarına da değindi. 180 günde azami 90 gün kalış kuralının sistem tarafından otomatik denetlenmesi nedeniyle yaşanan mağduriyetleri aşmak için Bulgaristan makamlarıyla temas kurduklarını ve ek süre alındığını belirten Fidan, sorunun kalıcı çözümü için AB ile müzakerelerin sürdüğünü söyledi.
-
-Tır şoförleri için D tipi vize veya kurallara uyan sürücülerin özel bir sisteme dahil edilmesi gibi formüllerin masada olduğunu kaydeden Bakan Fidan, lojistikteki aksamaların yalnızca Türkiye'yi değil AB'nin tedarik zincirini de doğrudan etkilediğini vurguladı.
-
-Öte yandan Bakanlık bünyesindeki vakıflara ilişkin iddialara da yanıt veren Fidan, Dışişleri Güçlendirme Teşkilatı Vakfı ile personelin kurduğu vakfın gelirlerinin yatırım fonlarında değil, kamu bankalarında muhafaza edildiğini açıkladı.
 
 ---
