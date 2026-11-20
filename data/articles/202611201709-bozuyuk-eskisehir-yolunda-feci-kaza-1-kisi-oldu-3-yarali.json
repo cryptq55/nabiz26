@@ -21,10 +21,10 @@
     "title": "Bozüyük-Eskişehir karayolunda feci kaza: 1 ölü, 3 yaralı - Kars Manşet",
     "url": "https://www.karsmanset.com/service/amp/haber/bozuyuk-eskisehir-karayolunda-feci-kaza-1-olu-3-yarali-1831761.htm"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Şehir Hastanesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
