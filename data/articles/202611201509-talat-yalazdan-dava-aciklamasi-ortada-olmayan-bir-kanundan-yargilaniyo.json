@@ -21,10 +21,10 @@
     "title": "TALAT YALAZ: “ORTADA OLMAYAN KANUNDAN YARGILANIYORUM” - Haber 26",
     "url": "https://www.haber26.com.tr/politika/talat-yalaz-ortada-olmayan-kanundan-yargilaniyorum"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Talat Yalaz"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
