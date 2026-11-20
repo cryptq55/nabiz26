@@ -2,6 +2,54 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Porsuk Kıyısına 'Meydan 26': Eskişehir'in En Büyük Kent Meydanı Geliyor
+
+**Belediye · Odunpazarı** · 2026-11-20 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/galeri/eskisehirin-en-buyuk-meydani-geliyor-belediye-dev-projeyi-duyurdu-2466735)
+
+![](data/images/f978695d028f617f.jpg)
+
+> Eskişehir Büyükşehir Belediyesi, Sümer Mahallesi'nde Porsuk Çayı kıyısında hayata geçirilecek Kızılyer Park ve Rekreasyon Alanı (Meydan 26) projesinin ayrıntılarını duyurdu.
+
+Eskişehir Büyükşehir Belediyesi, Sümer Mahallesi sınırlarında Porsuk Çayı boyunca uzanacak yeni bir yaşam alanı için düğmeye bastı. Kent merkezinin en büyük meydanı olması hedeflenen "Meydan 26" (Kızılyer Park ve Rekreasyon Alanı) projesinde geniş yeşil alanlar, spor tesisleri, kültürel noktalar ve çocuk oyun alanları bir araya getirilecek.
+
+Projenin kalbinde kültürel buluşmalar ve açık hava etkinlikleri için tasarlanan geniş bir kent meydanı ile etkinlik platformu yer alacak. Meydanın giriş bölümüne iki kemerli süs havuzu yapılacak. Ziyaretçilerin doğayla temasını artıracak alanda açık hava kütüphanesi ile basamaklı amfi ve sahne düzenlemesi bulunacak.
+
+Farklı yaş gruplarına yönelik spor alanlarının da planlandığı projede tenis kortu, çocuk tenis kortu, antrenman duvarı, açık hava crossfit alanı ve üç potalı basketbol sahası yer alacak. Çocuklar için denge ve koordinasyon becerilerini destekleyecek tematik oyun parkı kurulacak.
+
+Porsuk Çayı'nın doğal koridoruna uyumlu peyzajla tasarlanan projede yürüyüş parkurları, üç adet büfe, umumi tuvaletler ve gölgelikli dinlenme alanları bulunacak. Belediyeden yapılan bilgilendirmede, kentin iklimine uygun bitki örtüsüyle donatılacak alanın hem ekolojik sürekliliği destekleyeceği hem de kente yeni bir kamusal buluşma noktası kazandıracağı belirtildi.
+
+---
+
+## Odunpazarı Belediye Tiyatrosu'ndan Yeni Çocuk Oyunu: 'Pablo' İçin Provalar Başladı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-20 09:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediye-tiyatrosu-nda-yeni-cocuk-oyununun-okuma-provalari-basladi)
+
+![](data/images/ebc22a4bca9d7094.jpg)
+
+> Odunpazarı Belediye Tiyatrosu, minik izleyicilerle buluşturacağı 'Pablo' adlı yeni çocuk oyununun okuma provalarına başladı. Yapım, ocak ayından itibaren sahnelenecek.
+
+Odunpazarı Belediye Tiyatrosu, çocukların hayal dünyasını zenginleştirmeyi amaçlayan yeni tiyatro oyunu "Pablo" için hazırlıklarını hızlandırdı. Ekip, yeni sezonda minik sanatseverlerin beğenisine sunulacak yapımın okuma provalarını gerçekleştirmeye başladı.
+
+İpek Uzkalan'ın hem kaleme aldığı hem de yönetmenliğini üstlendiği oyunda Enes Soylar, Yağmur İncesu, Atakan Özer, Hilal Demirbaş ve Abdullah Çiftçi sahne alıyor. Yapımın koreografisini Janna Elmalioğlu yürütürken, sahne ve kukla düzenlemelerini Çiğdem Öztürk, özgün müziklerini ise Ufuk Kuzucu hazırlıyor.
+
+Kukla ve müziğin harmanlandığı yeni çocuk oyunu, ocak ayı itibarıyla Hasan Polatkan Kültür Merkezi'nde tiyatroseverlerle buluşacak ve sezon boyunca gösterimde kalacak.
+
+---
+
+## Eskişehirspor Söke Deplasmanında Liderlik Peşinde: Maç Saati ve Kanalı Belli Oldu
+
+**Spor · Merkez** · 2026-11-20 09:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/soke-1970-eskisehirspor-maci-ne-zaman-saat-kacta-hangi-kanalda-liderligi-geri-almak-icin-sahada-2466745)
+
+> Nesine 3. Lig 2. Grup'ta zirve mücadelesi veren Eskişehirspor, 22 Kasım Pazar günü saat 13.00'te Söke 1970 Spor'a konuk olacak. Mücadele Tivibu Spor ekranlarından canlı yayınlanacak.
+
+Nesine 3. Lig 2. Grup'un 13. haftasında şampiyonluk mücadelesi veren Eskişehirspor, Aydın deplasmanında Söke 1970 Spor ile karşılaşacak. Geçtiğimiz hafta evinde Ayvalıkgücü Belediyespor ile 2-2 berabere kalarak zirveyi 26 puanlı Etimesgut Spor'a devreden ve 25 puanla ikinci sıraya gerileyen siyah-kırmızılılar, deplasmandan 3 puanla dönerek liderliği yeniden devralmayı amaçlıyor.
+
+Söke İlçe Stadı'nda 22 Kasım 2026 Pazar günü oynanacak karşılaşma saat 13.00'te başlayacak. Zirve yarışını yakından ilgilendiren zorlu 90 dakika, Tivibu Spor ekranlarından canlı olarak futbolseverlerle buluşacak.
+
+Eskişehirspor'un ligin zirvesine yeniden oturabilmesi için Söke deplasmanında galibiyet almasının yanı sıra lider Etimesgut Spor'un Kepez Spor deplasmanında ve aynı puandaki Gemlik Sümerbey'in Bucaspor 1928 karşısında alacağı sonuçlar belirleyici olacak. Ev sahibi Söke 1970 Spor ise ligde topladığı 9 puanla 15. sırada yer alıyor.
+
+---
+
 ## Togg T10X Ekimde Zirveye Yerleşti: 4 Bin 59 Adetle Rakiplerini Geride Bıraktı
 
 **Ekonomi · Türkiye** · 2026-11-20 07:09 UTC · Kaynak: [Google Haberler - Togg](https://n24.com.tr/otomotiv/togg-t10x-ekim-satislarinda-renault-ve-volkswageni-solladi)
@@ -433,53 +481,5 @@ Türk futbolunda bir dönem Eskişehirspor forması da terleten eski milli futbo
 Süper Lig'de Eskişehirspor'un yanı sıra Trabzonspor, Antalyaspor ve MKE Ankaragücü formaları giyen, son olarak İtalya'nın Crotone takımında oynayan Güral, Avusturya'nın Linz kentine gitti. Deneyimli isim, burada faaliyet gösteren Galatasaray Futbol Okulu bünyesinde antrenör olarak görev yapmaya başladı.
 
 Siyah-kırmızılı taraftarların hafızasında özellikle Fenerbahçe filelerine uzaktan gönderdiği şık golle yer edinen eski forvet, yurt dışındaki genç yeteneklerin yetiştirilmesi için saha kenarında mesai harcayacak.
-
----
-
-## Togg'dan 1,5 Milyon TL'ye Sıfır Faiz: T6X İçin de İlk Detaylar Belli Oldu
-
-**Ekonomi · Türkiye** · 2026-11-19 09:09 UTC · Kaynak: [Google Haberler - Togg](https://www.merhabahaber.com/togg-en-avantajli-kampanyayi-duyurdu-yil-sonuna-kadar-1-5-milyon-tl-surprizi-1954686h.htm)
-
-![](data/images/205e7bd5dd55b388.jpg)
-
-> Türkiye'nin yerli otomobili Togg, T10X ve T10F modelleri için 1,5 milyon liraya kadar sıfır faizli kredi desteği duyurdu. Markanın daha erişilebilir yeni modeli T6X'in prototipinin de hazırlandığı bildirildi.
-
-Türkiye'nin yerli elektrikli otomobil üreticisi Togg, satış rakamları 100 bini aşan T10X ve T10F modellerine yönelik yeni finansman kampanyalarını açıkladı. Yıl sonuna kadar sürmesi planlanan kampanya kapsamında özellikle çift motorlu üst versiyonlar için dikkat çeken ödeme kolaylıkları devreye alındı.
-
-Finansman planı doğrultusunda T10X 4More ve T10F 4More modellerini tercih eden alıcılara 1 milyon 500 bin TL tutarında kredi, 10 ay vade ve yüzde sıfır faiz imkanıyla sunuluyor. Kampanyada aylık ödeme tutarı 150 bin TL olarak belirlenirken, standart versiyonlar için de 6 ay vadeli ve sıfır faizli kredi paketleri uygulanıyor. T10X V2 için 800 bin TL, T10F V2 modeli için ise 1 milyon TL'lik kredi desteği sağlanıyor.
-
-Giriş seviyesi modellerin fiyatlarının yüksekliği yönündeki tüketici taleplerini değerlendiren Togg yönetiminin, 'halk tipi' olarak nitelendirilen yeni model T6X üzerinde çalıştığı aktarıldı. Prototip aşamasına gelen ve 2027 yılının ortalarında yollara çıkması hedeflenen T6X'in, 1,3 ila 1,4 milyon TL bandında bir fiyat etiketiyle satışa sunulması öngörülüyor.
-
----
-
-## Erdoğan Duyurdu: 17 Milyon Emekli İçin Düzenleme Sene Başından Önce Geliyor
-
-**Siyaset · Türkiye** · 2026-11-19 09:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://gazeteoksijen.com/turkiye/cumhurbaskani-erdogan-17-milyon-emekliyi-kapsayan-yeni-duzenleme-sene-basindan-once-hayata-gecirilecek-296408)
-
-![](data/images/4444f066cc5092c6.jpg)
-
-> Cumhurbaşkanı Recep Tayyip Erdoğan, partisinin grup toplantısında yaptığı açıklamada, yaş ve prim gününü esas alan yeni emekli düzenlemesinin sene başından önce yürürlüğe gireceğini açıkladı.
-
-Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Büyük Millet Meclisi'nde düzenlenen AK Parti grup toplantısında iç ve dış gündeme dair önemli açıklamalarda bulundu. Erdoğan, kamuoyunun uzun süredir beklediği emekli düzenlemesine ilişkin takvimi ve temel kriterleri paylaştı.
-
-Emeklilerin yaşadığı ekonomik zorlukların farkında olduklarını belirten Erdoğan, konunun bir önceki Kabine Toplantısı'nda ele alındığını hatırlattı. Hazırlanan çalışmanın detaylarına değinen Erdoğan, "Yaş ve prim gün sayısına göre adalet ve hakkaniyeti merkeze alan bir yaklaşımla meseleyi tüm boyutlarıyla değerlendiriyoruz. 17 milyonu aşkın emeklimizin tamamını kapsayan bir iyileştirmeyi Yüce Meclisimizin de desteğiyle sene başından önce hayata geçireceğiz" dedi.
-
-Konuşmasında uluslararası gelişmelere ve Gazze'deki insani krize de yer veren Erdoğan, yaklaşan kış mevsimi öncesinde bölgedeki çadır eksikliğine ve soğuk hava şartlarına dikkat çekti. İslam dünyasının ortak hareket etmesi gerektiğini ifade eden Erdoğan, Türkiye'nin Gazze'ye konteyner ve insani yardım ulaştırma çalışmalarını sürdüreceğini kaydetti.
-
----
-
-## MEB'den PISA Zirvesi: Türkiye'nin Başarı Grafiği Başkentte Masaya Yatırılacak
-
-**Eğitim · Türkiye** · 2026-11-19 07:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotturkiye039nin-pisa-performansi-degisim-donusum-ve-gelisimquot-sempozyumu-ankara039da-duzenlenecek/haber/42583/tr)
-
-![](data/images/ef48ea97f38155b5.jpg)
-
-> Millî Eğitim Bakanlığı, Türkiye'nin uluslararası eğitim göstergelerindeki değişim ve gelişimini Ankara'da düzenlenecek sempozyumla mercek altına alacak.
-
-Millî Eğitim Bakanlığı tarafından organize edilen "Türkiye'nin PISA Performansı: Değişim, Dönüşüm ve Gelişim" sempozyumu, Talim ve Terbiye Kurulu Başkanlığı Maarif Konferans Salonu'nda gerçekleştirilecek. Programa Millî Eğitim Bakanı Yusuf Tekin'in yanı sıra OECD Eğitim ve Beceriler Direktörü Andreas Schleicher da katılım sağlayacak.
-
-Eğitim yöneticileri, akademisyenler ve araştırmacıları buluşturacak etkinlikte, Türkiye'nin geçmişten bugüne PISA sınavlarında sergilediği performans ve farklı yeterlik alanlarında kaydettiği ilerlemeler çok boyutlu olarak masaya yatırılacak.
-
-Sempozyum oturumlarında fen bilimleri, matematik ve okuma becerilerine dair verilerin yanı sıra öğrenci başarısına etki eden bireysel, ailesel ve okul temelli faktörler uzmanlar tarafından değerlendirilecek.
 
 ---
