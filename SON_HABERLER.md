@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 20 Kasım 2026: Gram altın 5.953,07 TL
+
+**Ekonomi · Merkez** · 2026-11-20 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261120.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 5.825,56 TL'den alınıyor, 5.953,07 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 5.953,07 TL, alış fiyatı 5.825,56 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,57 geriledi.
+
+Ziynet altınlarda çeyrek altın 9.717 TL, yarım altın 19.429 TL, tam altın 38.768 TL, ata altın 39.747 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.553,05 TL, has altının gram fiyatı 5.928,77 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.544,10 dolardan işlem görürken, dolar/TL 50,65 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Vize Serbestisinde Kalan 6 Kriter İçin Taslak Hazır: Bütçeden Sonra Meclis'e Geliyor
 
 **Türkiye · Türkiye** · 2026-11-20 05:09 UTC · Kaynak: [Google Haberler - Bakanlıklar](https://www.haberturk.com/gundem/disisleri-bakani-hakan-fidan-vize-serbestisi-icin-hazirlanan-taslagin-meclise-gelecegini-acikladi-3928625)
@@ -459,25 +479,5 @@ Transfermarkt verileri doğrultusunda hazırlanan profesyonel ligler gol istatis
 Profesyonel ligler genelinde yapılan değerlendirmede zirvede, 3. Lig temsilcisi Malatya Yeşilyurt SK yer aldı. Mehmet Ak yönetimindeki Malatya ekibi, sezonun ilk 13 haftasında mağlubiyet yüzü görmezken 3,79 gol ortalamasına ulaştı. Sıralamanın ikinci basamağında ise maç başına 2,75 gol ortalaması tutturan 2. Lig ekibi Muş SK kendine yer buldu.
 
 Süper Lig temsilcileri arasında en golcü 10 takım arasına girebilen tek ekip, 2,55 ortalamayla dördüncü sırada yer alan Amed SK oldu. Süper Lig'in diğer ekiplerinden Galatasaray 2,33 ortalamayla 12'nci, Kayserispor 2,27 ortalamayla 16'ncı, Fenerbahçe ise 2,05 ortalamayla 21'inci sırada kaldı. Beşiktaş, Trabzonspor ve Göztepe ise 2,00 gol ortalamasında yer aldı.
-
----
-
-## Altın fiyatları 19 Kasım 2026: Gram altın 6.199,49 TL
-
-**Ekonomi · Merkez** · 2026-11-19 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261119.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 6.108,90 TL'den alınıyor, 6.199,49 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.199,49 TL, alış fiyatı 6.108,90 TL oldu. Gram altın, önceki kapanışa göre yüzde 7,71 geriledi.
-
-Ziynet altınlarda çeyrek altın 10.101 TL, yarım altın 20.202 TL, tam altın 40.280 TL, ata altın 41.329 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.784,51 TL, has altının gram fiyatı 6.175,01 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.741,40 dolardan işlem görürken, dolar/TL 50,55 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
