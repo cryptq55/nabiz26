@@ -22,10 +22,10 @@
     "title": "Söke'de gözler Eskişehirspor maçında! Hakem kadrosu açıklandı - YeniSöke Gazetesi",
     "url": "https://yenisokegazetesi.com/haber/29193465/sokede-gozler-eskisehirspor-macinda-hakem-kadrosu-aciklandi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
