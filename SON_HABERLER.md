@@ -2,6 +2,70 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Evlenecek Gençlere Kasımda 1,2 Milyar Liralık Destek: 11 Bin Çift Yararlandı
+
+**Türkiye · Türkiye** · 2026-11-21 13:09 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-genclik-fonu-kapsaminda-yeni-yuva-kuran-11-bin-224-genc-icin-kasim-ayinda-1-milyar-277-milyon-lira-odeme-yapildi/)
+
+![](data/images/7c625f4efbb33ff7.jpg)
+
+> Aile ve Sosyal Hizmetler Bakanlığı, Aile ve Gençlik Fonu kapsamında kasım ayında 11 bin 224 gence toplam 1 milyar 277 milyon lira faizsiz kredi ödendiğini bildirdi.
+
+Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, aile kurumunu desteklemek ve genç çiftlerin yuva kurma süreçlerini kolaylaştırmak amacıyla yürütülen Aile ve Gençlik Fonu ödemelerine ilişkin bilgi verdi. Göktaş, Türkiye genelinde 81 ili kapsayan uygulama doğrultusunda kasım ayında 11 bin 224 gence 1 milyar 277 milyon lira tutarında finansman aktarıldığını belirtti.
+
+Fondan yararlanma şartlarına değinen Bakan Göktaş, her iki eşin de 18-25 yaş aralığında yer alması durumunda 250 bin lira, 26-29 yaş grubunda bulunmaları halinde ise 200 bin liralık kredi verildiğini hatırlattı. Başvurusu kabul edilen çiftlere söz konusu desteğin 2 yıl geri ödemesiz ve 48 ay vadeli olarak sunulduğu, başvuru için aranan azami gelir sınırının da asgari ücretin 2,5 katına çıkarıldığı kaydedildi.
+
+Program kapsamında çocuk sahibi olan çiftlere hibe ve taksit erteleme imkânı tanındığını vurgulayan Göktaş, ilk bebekle birlikte 12 aylık taksitin hibe edilip borcun ertelendiğini, ikinci çocukta ise kalan tüm borcun silindiğini aktardı. Bugüne kadar fon aracılığıyla toplam 249 bin 686 gence 24 milyar 83 milyon liralık sıfır faizli kredi ulaştırıldığı bildirildi.
+
+---
+
+## Eskişehir Demirspor Son Dakikalarda Yıkıldı: Sahasında 1 Puana Razı Oldu
+
+**Spor · Merkez** · 2026-11-21 13:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.abamedya.com/arit-kayadibi-eskisehir-deplasmanindan-puan-cikardi/66966/)
+
+> Profesyonelliğe Geçiş Ligi'nde mücadele eden Eskişehir Demirspor, sahasında ağırladığı Arıt Kayadibispor ile 1-1 berabere kaldı.
+
+Profesyonelliğe Geçiş Ligi'nin (PGL) 7. haftasında Eskişehir Demirspor, evinde Bartın temsilcisi Arıt Kayadibispor'u konuk etti. Çekişmeli geçen mücadele karşılıklı atılan gollerle 1-1'lik eşitlikle tamamlandı.
+
+Karşılaşmaya hızlı başlayan ev sahibi Eskişehir Demirspor, 23. dakikada Miren Örenç'in kaydettiği golle 1-0 öne geçti. İlk yarıda üstünlüğünü koruyan Eskişehir ekibi, soyunma odasına önde girdi.
+
+Mücadelenin ikinci yarısında konuk ekip beraberlik için yüklenirken, maçın son anlarında tansiyon yükseldi. Eskişehir Demirspor'da 86. dakikada Özkan Can ikinci sarı kartın ardından kırmızı kart görerek takımını 10 kişi bıraktı. Pozisyonun ardından kazanılan penaltıyı Arıt Kayadibispor adına Yusuf Oyit gole çevirdi ve skora denge geldi.
+
+Kalan dakikalarda başka gol olmayınca taraflar sahadan birer puanla ayrıldı.
+
+---
+
+## Cumhurbaşkanı Erdoğan Yeni Adalet Sarayını Açtı: 1,8 Milyon Kişiye Hizmet Verecek
+
+**Siyaset · Türkiye** · 2026-11-21 13:09 UTC · Kaynak: [İletişim Başkanlığı](https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-gaziosmanpasa-adalet-sarayi-acilis-toreninde-konustu)
+
+![](data/images/229593dffb8a6cf0.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Gaziosmanpaşa Adalet Sarayı'nın resmî açılış töreninde konuşarak 29 katlı yeni binanın 4 ilçeye hizmet sunacağını belirtti.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Eyüpsultan sınırları içinde inşa edilen Gaziosmanpaşa Adalet Sarayı'nın resmî açılış töreninde açıklamalarda bulundu. Daha önce üç ayrı binada faaliyet gösteren birimlerin tek çatı altında toplandığını aktaran Erdoğan, modern altyapıyla adalet hizmetlerinin daha hızlı ve etkin yürütülmesinin amaçlandığını söyledi.
+
+Yeni adliye kompleksinin yaklaşık 90 bin metrekare kapalı alana sahip olduğunu ve 29 kattan oluştuğunu bildiren Cumhurbaşkanı Erdoğan, binada 160 savcı odası, 136 hâkim odası, 14 ağır ceza mahkemesi başkanı odası ile 113 duruşma salonu ve 360 kişilik iki büyük duruşma salonunun bulunduğunu kaydetti. Tesiste ayrıca 317 araçlık otopark ve çeşitli sosyal donatı alanları yer alıyor.
+
+İleri teknoloji bilişim altyapısıyla donatılan adalet sarayının Gaziosmanpaşa, Sultangazi, Eyüpsultan ve Arnavutköy ilçelerindeki 1 milyon 791 bin kişiyi kapsayan yargı çevresine hitap edeceğini belirten Erdoğan, adil ve etkili işleyen bir yargı sisteminin toplumsal barışın temeli olduğunu vurguladı.
+
+---
+
+## Biket İlhan Sinemaseverlerle Buluştu: 'Geçmişi Bilmezsek Geleceği Anlayamayız'
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-21 13:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/bqcwziy4ogid42hsrh896is3)
+
+![](data/images/eaf859f4d6072c4e.jpg)
+
+> 23. Eskişehir Uluslararası Film Festivali kapsamında gösterilen "Tatlı Maya" filminin ardından yönetmen Biket İlhan ve oyuncular izleyicilerle söyleşide bir araya geldi.
+
+23. Eskişehir Uluslararası Film Festivali kapsamında, yönetmenliğini Biket İlhan’ın üstlendiği "Tatlı Maya" filminin özel gösterimi gerçekleştirildi. Sinema Anadolu’da yapılan gösterimin ardından usta yönetmen Biket İlhan ile oyuncular Erdem Ergüney ve Fatih Serdar Yılmaz, izleyicilerle bir araya gelerek yapımın perde arkasını anlattı. Moderatörlüğünü Anadolu Üniversitesi İletişim Bilimleri Fakültesi Öğretim Üyesi Prof. Dr. Nesrin Aysun Akıncı’nın üstlendiği söyleşide; kadın sorunları, ataerkil düzen, göç ve yabancılık temaları masaya yatırıldı.
+
+Filmlerinde yakın geçmişe ve tarihi olaylara ağırlık verdiğini dile getiren yönetmen Biket İlhan, geçmişi bilmeden geleceğin doğru değerlendirilemeyeceğini vurguladı. Eserlerinde genç kuşağın ve günümüz toplumunun yakın tarihe dikkatini çekmeyi amaçladığını belirten İlhan, toplumsal hafızayı diri tutan hikâyelere odaklanmayı sürdürdüğünü ifade etti.
+
+Projeye dahil olma sürecini aktaran oyuncu Erdem Ergüney, senaryodaki güçlü kadın dayanışmasının kendisini çok etkilediğini ve kısıtlanmış hayatlar karşısında insanların sarılmayı unuttuğu gerçeğinin filmde başarıyla işlendiğini belirtti. Oyuncu Fatih Serdar Yılmaz ise tiyatro sahnesi ile kamera önü oyunculuğunun tamamen farklı iki disiplin olduğunu vurgulayarak filmdeki deneyimlerini paylaştı. Etkinlik, izleyicilerin sorularının yanıtlanmasıyla tamamlandı.
+
+---
+
 ## Usta Sanatçı Gülen Karaman Eskişehir'de Gençlerle Buluştu: 'Umutsuzluğa Kapılmayın'
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-21 11:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/axji4d50tw6imia9xiv3s1rj)
@@ -399,69 +463,5 @@ Dosyadaki siyasi yasak talebine de değinen Yalaz, bir yılın üzerinde hapis c
 Eskişehir'de çeşitli programlara katılmak üzere kente gelen Jandarma Genel Komutan Yardımcısı Korgeneral Murat Bulut, Valilik makamında ağırlandı.
 
 Ziyarette Korgeneral Bulut'a, Eskişehir İl Jandarma Komutanı Albay Veysel Ergün de eşlik etti. Vali Dr. Erdinç Yılmaz, kabulde duyduğu memnuniyeti dile getirerek nazik ziyaretleri dolayısıyla Korgeneral Bulut'a teşekkür etti.
-
----
-
-## İklim Adası'na Ekolojik Kreş Geliyor: 'Şikâyet Değil Çözüm Merciiyiz'
-
-**Belediye · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13580&cat_icerik=1&menu_id=24)
-
-![](data/images/41d64195526324fe.jpg)
-
-> Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, kent konseyleri ve sivil toplum temsilcileriyle İklim Adası’nda bir araya gelerek merkezin yanına ekolojik kreş inşa edildiğini açıkladı.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce; kent konseyleri, çalışma grupları, mahalle muhtarları ve sivil toplum kuruluşlarının temsilcileriyle İklim Adası - İyi Yaşam İçin Ortak Üretim ve İnovasyon Merkezi'nde buluştu. Toplantıya Eskişehir Kent Konseyi Başkanı İnci Ülüğ, Odunpazarı Kent Konseyi Başkanı İsmail Kumru ve Tepebaşı Kent Konseyi Başkanı Hatice Canan Adlım da katıldı.
-
-Porsuk Çayı üzerinde yer alan eski Ada Kafe ve Ada Restoran binasının dönüştürülmesiyle kente kazandırılan merkezin misyonuna değinen Başkan Ünlüce, iklim değişikliğiyle mücadelenin küçük yaşlarda başlaması gerektiğine işaret etti. Bu kapsamda merkezin hemen bitişiğinde ekolojik kreş yapımına başlandığını duyuran Ünlüce, tesis tamamlandığında çocuklara çevre ve doğa bilinci aşılayacak eğitimler verileceğini söyledi.
-
-İklim Adası'nın uzmanlığı olan ya da bu alanda öğrenmek isteyen herkese açık olduğunu vurgulayan Başkan Ünlüce, "Göreve geldiğimden beri söylediğim bir şey var: Biz şikâyet değil, çözüm merciiyiz. Artık şikâyet etmek yerine çözümü hep birlikte burada arayalım istiyoruz" dedi. Buluşma, katılımcıların yerel iklim eylemlerine ilişkin önerilerini paylaşmasının ardından tamamlandı.
-
----
-
-## Başkan Ataç Beyaz Önlüğü Giydi: 85 Bin Çocuğa Ulaşan Merkezde Minikleri Muayene Etti
-
-**Sağlık · Tepebaşı** · 2026-11-20 15:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/baskanatacbeyazonlugunugiydi)
-
-![](data/images/26eb1305ad65efb2.jpg)
-
-> Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, Ağız ve Diş Sağlığı Haftası kapsamında Tepebaşı Çocuk Ağız ve Diş Sağlığı Polikliniği'ni ziyaret ederek çocukların diş kontrollerini yaptı.
-
-Mesleği diş hekimliği olan Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, 20-27 Kasım Ağız ve Diş Sağlığı Haftası ile 22 Kasım Diş Hekimleri Günü dolayısıyla Tepebaşı Çocuk Ağız ve Diş Sağlığı Polikliniği'ni ziyaret etti. Beyaz önlüğünü giyerek muayene koltuğunun başına geçen Ataç, minik hastaların diş kontrollerini gerçekleştirip doğru fırçalama yöntemleri hakkında tavsiyelerde bulundu.
-
-Poliklinikte bugüne kadar yaklaşık 85 bin çocuğa ücretsiz ağız ve diş sağlığı hizmeti sunulduğunu belirten Ataç, merkezin temel misyonunun koruyucu hekimlik olduğunu vurguladı. Vatandaşların ve okulların çocukları merkeze yönlendirebileceğini hatırlatan Ataç; poliklinikte ortodonti haricindeki tedavilerin uygulandığını, diş hekimi korkusu yaşayan miniklere psikolog desteği sağlandığını ve konuşma-dil terapisi hizmeti de verildiğini aktardı.
-
-Diş hekimliği eğitimi ve mesleki standartlar üzerine de değerlendirmelerde bulunan Ataç, 1999 yılında 24 olan fakülte sayısının bugün 100'e ulaştığına dikkat çekti. Kontrolsüz kontenjan artışının eğitim kalitesi ve mezunların istihdamı açısından riskler barındırdığını ifade eden Ataç, yeni fakültelerin akademik kadro ve fiziki imkânlar gözetilerek planlanması gerektiğini dile getirdi.
-
----
-
-## 23. Film Festivali'nde Kısa Film Rüzgârı: Yönetmenler Sinema Anadolu'da Buluştu
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-20 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/fb3vdyrp6akgfrcg3n7irdxc)
-
-![](data/images/c66b8d3765a2028d.jpg)
-
-> Eskişehir Uluslararası Film Festivali kapsamında düzenlenen Kısa Film Seçkisi etkinliğinde, genç yönetmenler yapımlarının perde arkasını sinemaseverlerle paylaştı.
-
-Anadolu Üniversitesinin ev sahipliğinde devam eden 23. Eskişehir Uluslararası Film Festivali (EFF), genç sinemacıların üretimlerini izleyiciyle buluşturdu. Sinema Anadolu'da gerçekleştirilen "Kısa Film Seçkisi-Söyleşi" programında, farklı temalara sahip yapımlar beyaz perdeye yansıtılırken gösterimlerin ardından film ekipleriyle kapsamlı bir söyleşi gerçekleştirildi.
-
-İletişim Bilimleri Fakültesi Dr. Öğr. Üyesi Nihan Öztürk'ün moderatörlüğünde düzenlenen oturumda, genç yönetmenler filmlerinin ortaya çıkış hikâyelerini aktardı. Sosyal medyadaki dezenformasyon ve linç kültürünü işleyen Egemen Özcan ile Beyşehir Gölü'ndeki balıkçıların yaşam mücadelesini ele alan Doğukan Melik Sevindik izleyicilerin sorularını yanıtladı. Bilim kurgu türündeki animasyonuyla Selin Toprak ve kuramsal deneyimini pratiğe aktaran Münir Alper Doğan da yapım süreçlerini anlattı.
-
-Etkinlikte ayrıca 6 bin liralık bütçeyle stüdyoda tamamladığı filmini aktaran Gökberk Kuyucu, insan duyularını konu edinen Sıla Buse Güler ve caz müziği üzerinden yaşam ritmini arayan Toprak Bektaş ile Mehmet Ali Genç, bağımsız sinema üretimine dair tecrübelerini katılımcılarla paylaştı.
-
----
-
-## Tepebaşı'na AB Destekli Rüzgâr Hibesi: Temiz Enerji Haritası Çıkarılacak
-
-**Belediye · Tepebaşı** · 2026-11-20 13:09 UTC · Kaynak: [Tepebaşı Belediyesi](https://www.tepebasi.bel.tr/Haber/Detay/tepebası’nınhibezincirineyenihalka)
-
-![](data/images/c055797138f04e95.jpg)
-
-> Tepebaşı Belediyesi, ilçenin rüzgâr enerjisi potansiyelini belirlemek için hazırladığı projeyle AB destekli TÜREB programından 15 bin avro hibe almaya hak kazandı.
-
-Tepebaşı Belediyesi, temiz enerji yatırımlarına yön vermek ve ilçenin rüzgâr enerjisi potansiyelini ortaya çıkarmak amacıyla hazırladığı projeyle yeni bir dış kaynak sağladı. Türkiye Rüzgâr Enerjisi Birliği (TÜREB) tarafından yürütülen ve Avrupa Birliği tarafından desteklenen hibe programı kapsamındaki sözleşme, Tepebaşı Belediye Başkan Yardımcısı Suat Yalnızoğlu tarafından Ankara'da imzalandı.
-
-Toplam 16 bin 800 avro bütçeli projeye 15 bin avro hibe desteği verilecek. Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü koordinesinde 23 Kasım 2026'da başlayacak ve dokuz ay sürecek çalışma kapsamında, Coğrafi Bilgi Sistemleri desteğiyle rüzgâr verileri, arazi yapısı ve şebeke bağlantısı uygun olan en fazla üç alan belirlenerek incelenecek. Çalışmanın sonucunda belediyenin elektrik tüketimini rüzgârdan karşılamaya yönelik teknik ön değerlendirme raporu ve yol haritası hazırlanacak.
-
-Teknik incelemelerin yanı sıra belediye personeline ve öğrencilere yönelik eğitim atölyeleri de düzenlenecek. Ayrıca Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda enerji sektörü temsilcileri, sivil toplum kuruluşları ve kent sakinlerinin bir araya geleceği bir "Enerji Günü" organize edilerek elde edilen veriler kamuoyuyla paylaşılacak.
 
 ---
