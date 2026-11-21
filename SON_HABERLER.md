@@ -2,6 +2,70 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Usta Sanatçı Gülen Karaman Eskişehir'de Gençlerle Buluştu: 'Umutsuzluğa Kapılmayın'
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-21 11:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/axji4d50tw6imia9xiv3s1rj)
+
+![](data/images/625d906a3c3f1184.jpg)
+
+> 23. Eskişehir Uluslararası Film Festivali kapsamında düzenlenen atölyede öğrencilerle buluşan oyuncu ve seslendirme sanatçısı Gülen Karaman, mesleki tecrübelerini aktararak kariyer tavsiyelerinde bulundu.
+
+23. Eskişehir Uluslararası Film Festivali çerçevesinde gerçekleştirilen “Oyunculuk ve Seslendirme Atölyesi”, Anadolu Üniversitesi İletişim Bilimleri Fakültesi Şener Şen Salonunda yapıldı. Etkinliğe konuk olan usta tiyatrocu ve seslendirme sanatçısı Gülen Karaman, meslek hayatındaki birikimlerini ve sektörel deneyimlerini üniversite öğrencileriyle paylaştı.
+
+Kendi öğrencilik yıllarındaki koşulların günümüzden oldukça farklı olduğuna dikkat çeken Karaman, eğitim hayatı boyunca çalışmak zorunda kaldığını belirtti. Karaman, genç iletişimcilere meslek yolculuklarında karşılaşacakları zorluklar karşısında pes etmemeleri çağrısında bulunarak, "Hiç umutsuzluğa kapılmayın. Umut her şeyin kapısını aralayan bir şey. Bir yerden reddedildiğiniz zaman devam edin, başka bir yere başvurun. Eğitiminize ve mesleğinize asla sırtınızı dönmeyin" ifadelerini kullandı.
+
+Seslendirme sanatına tiyatronun ardından başladığını aktaran Karaman, kariyeri boyunca önemli karakterleri seslendirmekten büyük keyif aldığını ve işini severek yapmanın başarıdaki en kritik unsur olduğunu vurguladı. Atölye çalışması, öğrencilerin sorularının yanıtlanmasının ardından Radyo A stüdyolarında yapılan uygulamalı seslendirme faaliyetiyle sona erdi.
+
+---
+
+## Üniversiteli Genç Kadınlara Kariyer Desteği: TÜKD Akademisi Başladı
+
+**Eğitim · Odunpazarı** · 2026-11-21 11:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/tukd-eskisehir-subesi-universiteli-genc-kadinlara-kariyer-destegi-sagliyor-119528541)
+
+![](data/images/55c31c82585784a7.jpg)
+
+> Türk Üniversiteli Kadınlar Derneği Eskişehir Şubesi, bursiyer öğrencilerin iş hayatına hazırlanması amacıyla Kariyer Akademisi eğitim programını başlattı.
+
+Türk Üniversiteli Kadınlar Derneği (TÜKD) Eskişehir Şubesi tarafından, burs desteği sağlanan üniversite öğrencisi genç kadınların profesyonel yaşama hazırlanmasına katkı sunmak amacıyla Kariyer Akademisi hayata geçirildi. Sivil Toplum için Destek Vakfı ile Pusula Destek Çemberi'nin hibe desteğiyle düzenlenen program, Ergin Orbey Sahnesi'nde gerçekleştirilen açılışla başladı.
+
+Açılışa Eskişehir Büyükşehir Belediye Başkanı ve Türkiye Belediyeler Birliği Başkanvekili Ayşe Ünlüce de katıldı. Programın açılışında konuşan TÜKD Eskişehir Şube Başkanı Doç. Dr. Zeynep Tunalıer, derneğin kadınların eğitim hakkı ve toplumsal yaşama eşit katılımı için uzun yıllardır mücadele ettiğini belirterek, genç kadınların iş hayatında hak ettikleri yeri almalarını ve geleceğin karar mekanizmalarında lider olarak yer almalarını hedeflediklerini kaydetti.
+
+İş yaşamında ve yönetim kademelerinde kadın temsilini artırmak için gençleri doğru bilgi ve özgüvenle donatmanın önemine değinen Tunalıer, ilk etapta bursiyerlerle başlatılan bu akademinin ilerleyen süreçte daha geniş kitlelere ulaştırılmasının planlandığını aktardı.
+
+İki gün sürecek eğitimler kapsamında katılımcılara zihinsel iyi oluş, 21. yüzyıl becerileri, sosyal sermaye, yapay zekâ çağında kariyer planlaması, özgeçmiş hazırlama ve iş görüşmesi teknikleri gibi başlıklarda eğitimler verilecek.
+
+---
+
+## ESOGÜ'den Çığır Açan Araştırma: Göz Muayenesi Demans Türlerini Ayırt Edebilir
+
+**Sağlık · Odunpazarı** · 2026-11-21 11:09 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2026?tur=AkademikMakale)
+
+> ESOGÜ Tıp Fakültesi araştırmacıları, retina görüntüleme teknikleriyle Alzheimer ve vasküler demans hastalıklarının birbirinden ayırt edilebileceğini bilimsel olarak kanıtladı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Tıp Fakültesi Göz Hastalıkları Anabilim Dalı Öğretim Üyesi Doç. Dr. Eray Atalay, Nöroloji Anabilim Dalı Öğretim Üyesi Doç. Dr. Nazlı Durmaz Çelik, Dr. Semih Ceylan ve İntörn Dr. Mert Egemen Çalışkan’ın imzasını taşıyan araştırma uluslararası bilim dünyasında geniş yankı buldu. TÜBİTAK 2209-A programı kapsamında desteklenen ve ESOGÜ kliniklerinde yürütülen çalışma, saygın bilimsel dergilerden 'Scientific Reports'ta yayımlandı.
+
+Araştırma kapsamında 50 ile 90 yaş aralığındaki Alzheimer hastaları, vasküler demans hastaları ve sağlıklı bireylerden oluşan toplam 118 katılımcı incelendi. Katılımcılara yüksek çözünürlüklü ve cerrahi müdahale gerektirmeyen optik koherens tomografi (OCT) ile OCT-anjiyografi (OCTA) yöntemleri uygulandı. Yapılan ölçümlerde vasküler demans tanılı hastalarda retina sinir lifi tabakası ve makula kalınlığında belirgin incelme kaydedildi. Alzheimer hastalarında ise belirgin bir yapısal incelme görülmemesine rağmen parafoveal bölgedeki damar yoğunluğunda düşüş tespit edildi.
+
+Elde edilen sonuçlar, merkezi sinir sistemiyle doğrudan bağlantılı olan retinanın incelenmesi sayesinde iki farklı demans türünün klinik olarak kolaylıkla ayırt edilebileceğini ortaya koydu. Uzmanlar, göz arkası görüntüleme yöntemlerinin mevcut nörogörüntüleme ve nöropsikolojik testlere hızlı, güvenli ve pratik bir tamamlayıcı katkı sunacağını belirtiyor.
+
+---
+
+## Büyükşehir Yol Dairesinden Beylikova Belediyesi'ne Ziyaret
+
+**Belediye · Beylikova** · 2026-11-21 11:09 UTC · Kaynak: [Beylikova Belediyesi](https://www.beylikova.bel.tr/haberler/470/eskisehir-buyuksehir-belediyesi-yol-yapim-bakim-ve-onarim-dairesi-baskani-niyazi-solak-belediye-baskanimiz-av-hakan-karabacak-a-hayirli-olsun-ziyaretinde-bulundu)
+
+![](data/images/fe0ab43276f8748b.jpg)
+
+> Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanı Niyazi Solak ve beraberindeki heyet, Beylikova Belediye Başkanı Hakan Karabacak'ı makamında ziyaret etti.
+
+Eskişehir Büyükşehir Belediyesi Yol Yapım Bakım ve Onarım Dairesi Başkanı Niyazi Solak, Kırsal Şube Müdürü Didem Tiryaki ve kırsal şube bölge sorumlularıyla birlikte Beylikova Belediye Başkanı Av. Hakan Karabacak'ı makamında ziyaret etti.
+
+Gerçekleşen ziyarette ilçe genelindeki çalışmalar üzerine temaslarda bulunuldu.
+
+Beylikova Belediye Başkanı Hakan Karabacak, nazik ziyaretlerinden dolayı Daire Başkanı Niyazi Solak ve beraberindeki çalışma arkadaşlarına teşekkürlerini iletti.
+
+---
+
 ## ESOGÜ'den Çevreci İşletmelere Yol Haritası: 'Yeşil Örgüt Kültürü' Ölçeği Geliştirildi
 
 **Eğitim · Odunpazarı** · 2026-11-21 09:09 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2037?tur=AkademikMakale)
@@ -399,71 +463,5 @@ Tepebaşı Belediyesi, temiz enerji yatırımlarına yön vermek ve ilçenin rü
 Toplam 16 bin 800 avro bütçeli projeye 15 bin avro hibe desteği verilecek. Tepebaşı Belediyesi İklim Değişikliği ve Sıfır Atık Müdürlüğü koordinesinde 23 Kasım 2026'da başlayacak ve dokuz ay sürecek çalışma kapsamında, Coğrafi Bilgi Sistemleri desteğiyle rüzgâr verileri, arazi yapısı ve şebeke bağlantısı uygun olan en fazla üç alan belirlenerek incelenecek. Çalışmanın sonucunda belediyenin elektrik tüketimini rüzgârdan karşılamaya yönelik teknik ön değerlendirme raporu ve yol haritası hazırlanacak.
 
 Teknik incelemelerin yanı sıra belediye personeline ve öğrencilere yönelik eğitim atölyeleri de düzenlenecek. Ayrıca Vecihi Hürkuş Havacılık ve Teknoloji Parkı'nda enerji sektörü temsilcileri, sivil toplum kuruluşları ve kent sakinlerinin bir araya geleceği bir "Enerji Günü" organize edilerek elde edilen veriler kamuoyuyla paylaşılacak.
-
----
-
-## MEB'den Öğrencilere 'Dijital Anadolu Medeniyetleri Ansiklopedisi'
-
-**Eğitim · Türkiye** · 2026-11-20 13:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/anadolu-medeniyetleri-ogrencilere-quotdijital-ansiklopediquot-ile-tanitilacak/haber/42598/tr)
-
-![](data/images/390e9c3ba773009d.jpg)
-
-> Millî Eğitim Bakanlığı, Anadolu'nun köklü kültürel mirasını yeni nesillere tanıtmak amacıyla 800 dakikalık belgesel serisinden oluşan dijital ansiklopedi projesini kullanıma sunuyor.
-
-Millî Eğitim Bakanlığı Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü, dijital eğitim platformlarının içeriklerini zenginleştirmek amacıyla "Dijital Anadolu Medeniyetleri Ansiklopedisi" projesini başlattı. Çalışmayla Anadolu medeniyetlerinin insanlık tarihine sunduğu katkıların görünür kılınması ve kültürel mirasın gelecek kuşaklara aktarılması hedefleniyor.
-
-Türkiye Yüzyılı Maarif Modeli öğretim programlarında yer alan kavramlarla ilişkilendirilen proje doğrultusunda, ilk aşamada 100 kavram ele alındı. Ardından ortaokul ve lise müfredatıyla uyumlu ilave 100 kavram için toplam 800 dakikalık eğitsel video içeriği oluşturuldu.
-
-Belgesel anlatım tarzında hazırlanan ve her biri 8 dakika süren eğitsel videolar, üç boyutlu animasyonlar, hareketli grafikler ve gerçek mekân çekimleriyle desteklendi. Öğrencilerin kültürel kavramları görsel ve işitsel yöntemlerle kavramasını amaçlayan yapımlar, Türkçe ve İngilizce dil seçeneklerinin yanı sıra çift dilde alt yazı desteğiyle sunuluyor.
-
-Hazırlanan tüm içerikler EBA, TRT EBA ve Bakanlığa bağlı diğer dijital platformlar aracılığıyla öğrenci, öğretmen ve velilerin erişimine açık olacak.
-
----
-
-## ESTÜ'den Akademik Başarı: URAP Sıralamasında Türkiye'de İlk 10'a Girdi
-
-**Eğitim · Tepebaşı** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/eskisehir-teknik-universitesi-urap-20262027-turkiye-siralamasinda-ilk-10-universite-arasinda)
-
-![](data/images/fa4ac70cb67118af.jpg)
-
-> Eskişehir Teknik Üniversitesi, URAP 2026–2027 Türkiye Sıralaması'nda tıp fakültesi bulunmayan üniversiteler kategorisinde 10. basamakta yer aldı.
-
-Orta Doğu Teknik Üniversitesi Enformatik Enstitüsü bünyesindeki URAP Araştırma Laboratuvarı tarafından hazırlanan 2026–2027 Türkiye Sıralaması açıklandı. Yayımlanan raporda Eskişehir Teknik Üniversitesi (ESTÜ), tıp fakültesi bulunmayan yükseköğretim kurumları arasında 667,80 puan toplayarak 10. sıraya yerleşti.
-
-İTÜ, ODTÜ, Sabancı, Yıldız Teknik ve Boğaziçi gibi üniversitelerin yer aldığı listede ilk 10 arasındaki yerini koruyan ESTÜ, bilimsel araştırma ve akademik üretimdeki istikrarını sürdürdü.
-
-Söz konusu sıralama Clarivate Analytics/InCites ile YÖK verileri temel alınarak oluşturuldu. Değerlendirme sürecinde bilimsel yayınlar, atıf sayıları, öğretim üyesi başına düşen üretkenlik, doktora mezun ve öğrenci oranları, ulusal ve uluslararası iş birlikleri ile TÜBİTAK destekli projeler olmak üzere toplam 15 farklı akademik gösterge dikkate alındı.
-
----
-
-## ESOGÜ'de Geleceğin Diş Hekimleri Beyaz Önlüklerini Giydi: Yeni Hastane Müjdesi
-
-**Eğitim · Odunpazarı** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2153)
-
-> Eskişehir Osmangazi Üniversitesi Diş Hekimliği Fakültesi 1. sınıf öğrencileri, düzenlenen törenle beyaz önlüklerini giyerek mesleğe ilk adımı attı.
-
-Eskişehir Osmangazi Üniversitesi (ESOGÜ) Diş Hekimliği Fakültesi 14. dönem birinci sınıf öğrencileri için Kongre ve Kültür Merkezi'nde "2026-2027 Eğitim-Öğretim Yılı Beyaz Önlük Giyme Töreni" gerçekleştirildi. Törene üniversite yönetimi, akademisyenler, sağlık sektörü temsilcileri ve öğrenci aileleri katıldı.
-
-Törende konuşan ESOGÜ Rektörü Prof. Dr. Emine Gümüşsoy, fakültenin güçlü kadrosuyla başarılı hekimler yetiştirdiğini belirterek birkaç ay içerisinde yeni hastane binasına taşınma sürecinin tamamlanacağını ve bu adımla hizmet kapasitesinin daha da güçleneceğini duyurdu. Öğrencilere seslenen Gümüşsoy, beyaz önlüğün dürüstlük ve sorumluluğun simgesi olduğunu vurguladı.
-
-Diş Hekimliği Fakültesi Dekanı Prof. Dr. Batu Can Yaman ise Türkiye'de bilimsel diş hekimliğinin temellerinin 22 Kasım 1908'de atıldığını hatırlatarak, mesleğin teknolojik gelişmelerle birlikte sürekli bir öğrenme süreci gerektirdiğini ifade etti. Yaman, ailelerin gösterdiği fedakârlıkların ardından öğrencilerin nitelikli birer hekim olarak yetişeceğini söyledi.
-
-Konuşmaların ardından birinci sınıf öğrencilerine beyaz önlükleri fakülte öğretim üyeleri ve protokol üyeleri tarafından giydirildi.
-
----
-
-## Eskişehir Sanat Sokağı 2 Yaşında: İki Yılda 80'den Fazla Etkinlik Düzenlendi
-
-**Kültür-Sanat · Merkez** · 2026-11-20 13:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13579&cat_icerik=1&menu_id=24)
-
-![](data/images/5e49a55ce079589c.jpg)
-
-> Eskişehir Büyükşehir Belediyesi tarafından kente kazandırılan Sanat Sokağı, ikinci kuruluş yılını geride bıraktı. Kompleks, iki yıllık süreçte 80'i aşkın kültür ve sanat etkinliğine ev sahipliği yaptı.
-
-Eskişehir Büyükşehir Belediyesinin kentin kültür ve sanat hayatına kazandırdığı Sanat Sokağı, ikinci yaşını kutluyor. Bünyesinde Uluslararası Çağdaş Seramik Sanatları Müzesi, sanat atölyeleri, sergi salonu, Genco Erkal Sahnesi ve kukla tiyatrosu barındıran kompleks, iki yıl içinde 80'den fazla sanatsal ve kültürel buluşmaya sahne oldu.
-
-Büyükşehir Belediyesi Kent Tarihi, Tanıtımı ve Turizm Daire Başkanı Sercan Kara, merkezin kentin en genç ve en büyük sanat kompleksi olduğunu belirterek, her ay yenilenen sergiler ve atölyelerle tüm vatandaşları Sanat Sokağı'na davet etti. Alanda üretim yapan cam, minyatür ve bebek yapım sanatçıları da mekânın yerli ve yabancı ziyaretçilerden yoğun ilgi gördüğünü ifade etti.
-
-Merkez, yetişkinlere yönelik sergi, söyleşi ve dinletilerin yanı sıra Çocuk Hakları Birimi iş birliğiyle minik ziyaretçilere de düzenli olarak yaratıcı drama, satranç, tasarım ve dans gibi farklı başlıklarda atölye imkânı sunuyor.
 
 ---
