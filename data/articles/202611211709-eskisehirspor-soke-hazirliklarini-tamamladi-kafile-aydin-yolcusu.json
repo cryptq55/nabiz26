@@ -21,10 +21,10 @@
     "title": "Eskişehirspor, Söke 1970 SK maçı öncesi düğmeye bastı - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-soke-1970-sk-maci-oncesi-dugmeye-basti-2467071"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

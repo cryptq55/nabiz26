@@ -22,10 +22,10 @@
     "title": "DSP Genel Başkanı Aksakal, Eskişehir'de temel atma törenine katıldı - Habertürk",
     "url": "https://yerel-haberler.haberturk.com/eskisehir-haberleri/dsp-genel-baskani-aksakal-eskisehirde-temel-atma-torenine-katildi-119528833"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Önder Aksakal"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
