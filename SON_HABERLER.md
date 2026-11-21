@@ -2,6 +2,84 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Ünlü Yapımların Ses Tasarımcısı Levent İntepe Eskişehirli Gençlerle Buluştu
+
+**Kültür-Sanat · Tepebaşı** · 2026-11-21 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ncka0dc3kxrlqt6d7lfdtcaf)
+
+![](data/images/6fe99aa8d73ce6c0.jpg)
+
+> 23. Eskişehir Uluslararası Film Festivali kapsamında düzenlenen atölyede ses mühendisi Levent İntepe, sinema ve televizyon öğrencilerine sektör deneyimlerini aktardı.
+
+Eskişehir'de devam eden 23. Uluslararası Film Festivali kapsamında, "Bir Filmin Yolculuğu – Yaratıcılık, Ses ve Yapım Süreçleri" başlıklı özel bir atölye çalışması gerçekleştirildi. Anadolu Üniversitesi İletişim Bilimleri Fakültesi Öğrenci Stüdyosunda düzenlenen etkinliğe mezunlardan, ses mühendisi ve ses tasarımcısı Levent İntepe konuk oldu. Festival Yönetmeni Prof. Dr. Sırrı Serhat Serter ile çok sayıda öğrencinin katıldığı buluşmada, sinema sektörünün yaratıcı ve teknik yönleri ele alındı.
+
+G.O.R.A., Babam ve Oğlum, Kelebeğin Rüyası, Organize İşler ve Hokkabaz gibi Türk sinemasının önemli yapımlarında görev alan İntepe, öğrencilere mesleğin inceliklerini anlattı. Sinemacılığın meşakkatli bir yolculuk ve ruh meselesi olduğunu vurgulayan deneyimli ses tasarımcısı, bu alanın tıp ya da mühendislik gibi tek bir formülle açıklanamayacağını belirterek tutkunun önemine dikkat çekti.
+
+Kendisinin de mezun olduğu üniversitenin olanaklarının çok değerli olduğunu ifade eden İntepe, öğrencilere okulun teknik altyapısından azami ölçüde faydalanmaları ve mezuniyeti beklemeden set ortamında tecrübe edinmeleri tavsiyesinde bulundu. Program, öğrencilerden gelen soruların yanıtlanması, pratik uygulamalar ve toplu fotoğraf çekimiyle tamamlandı.
+
+---
+
+## Tepebaşı'nda 'Şiddetsiz Geçit': Vatandaşlar Mesajlarını Tül Perdelere Astı
+
+**Belediye · Tepebaşı** · 2026-11-21 15:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://ankahaber.net/haber/tepebasi-nda-kadina-yonelik-siddete-siddetsiz-gecit-ile-farkindalik-3fc6e4fb)
+
+![](data/images/bb0a2810214f1d30.jpg)
+
+> Tepebaşı Belediyesi ve Kent Konseyi iş birliğiyle Espark'ta düzenlenen 'Şiddetsiz Geçit' etkinliğinde, kadına yönelik şiddete dikkat çekmek amacıyla vatandaşların yazdığı mesajlar sergilendi.
+
+Tepebaşı Belediyesi ile Tepebaşı Kent Konseyi, 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Espark Alışveriş Merkezi'nde "Şiddetsiz Geçit" etkinliği başlattı. 20 Kasım'da kapılarını açan ve 25 Kasım'a kadar sürecek etkinlikte Eskişehirliler, şiddete karşı duygu ve düşüncelerini kâğıtlara dökerek alandaki tül perdelere astı.
+
+Etkinlik alanını ziyaret ederek sergilenen mesajları inceleyen Tepebaşı Belediye Başkanı Ahmet Ataç'a belediye meclis üyeleri de eşlik etti. Vatandaşlarla bir araya gelen Ataç, kadına yönelik şiddetin önlenmesinde toplumsal duyarlılığın yanı sıra yasal güvencelerin hayati önem taşıdığını ifade etti.
+
+Kadına yönelik şiddet ve kadın cinayetlerinin toplumda derin yaralar açtığını belirten Ataç, İstanbul Sözleşmesi'nin yeniden yürürlüğe girmesi gerektiğine inandığını dile getirdi. Ataç, hiç kimsenin şiddete maruz kalmadığı bir toplum temenni ettiklerini, şiddet faillerinin de hukuk çerçevesinde en ağır şekilde cezalandırılması gerektiğini kaydetti.
+
+---
+
+## Odunpazarı'nda Sanat ve Kitap Günleri Başladı: Koleksiyon Sergisi Kapılarını Açtı
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-21 15:09 UTC · Kaynak: [Google Haberler - Odunpazarı](https://www.egealternatif.com/haber/odunpazari-sanat-ve-kitap-gunleri-basladi_102980/)
+
+> Odunpazarı Belediyesi ve Cumhuriyet Gazetesi iş birliğiyle düzenlenen Sanat ve Kitap Günleri, açılan özel sergi, yazar buluşmaları ve imza etkinlikleriyle başladı.
+
+Odunpazarı Belediyesi ve Cumhuriyet Gazetesi ortaklığıyla hayata geçirilen Sanat ve Kitap Günleri, Odunpazarı 100. Yıl Kültür Merkezi'nde Cumhuriyet Gazetesi Koleksiyon Sergisi'nin açılışıyla kapılarını açtı. Etkinliğin ilk gününde edebiyatseverler söyleşi ve imza programlarına yoğun ilgi gösterdi.
+
+Açılış programına Odunpazarı Belediye Başkanı Kazım Kurt, gazeteci-yazar Işık Kansu, Cumhuriyet Gazetesi Ankara Temsilcisi Sertaç Eş ve Odunpazarı Kent Konseyi Başkanı İsmail Kumru katıldı. Gazeteci-yazar Işık Kansu, sanatçıların bağışlarıyla oluşan koleksiyon sergisinin Türkiye'deki özgün örneklerden biri olduğunu belirterek edebiyat, sanat ve kitabı Anadolu'nun geneline ulaştırmayı hedeflediklerini ifade etti.
+
+Cumhuriyet Gazetesi'nin Türk aydınlanmasının ve toplum bilincinin vazgeçilmez kaynaklarından biri olduğunu vurgulayan Odunpazarı Belediye Başkanı Kazım Kurt, tüm Eskişehirlileri buluşmaya davet etti. Kurt, demokrasi, adalet ve hukuk değerlerinin korunduğu bir dönemde kitapların toplumsal dayanışma için büyük önem taşıdığını dile getirdi.
+
+Açılışın ardından A. Celal Binzet, Güven Baykan, Işık Kansu, Adnan Gerger, Ahmet Antman, Eren Aysan, Gülay Ertürk ve Gürbüz Ertürk okurlarıyla imza ve söyleşilerde bir araya geldi. 22 Kasım Pazar günü Seyfettin Araç, Halil Genç, İsa Küçük, Tolga Aydoğan ve Yüksel Işık'ın söyleşileriyle sürecek olan program, Başkan Kazım Kurt ve gazeteci-yazar Mustafa Balbay'ın yer alacağı 'Yerel Siyaset, Yerel Yönetim' başlıklı oturumla tamamlanacak.
+
+---
+
+## EMEP Eskişehir İl Kongresi Yapıldı: Yeni Başkan Deniz Tepe Oldu
+
+**Siyaset · Merkez** · 2026-11-21 15:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.evrensel.net/haber/6010580/emep-eskisehir-11-olagan-il-kongresi-ekmek-baris-ve-ozgurluk-mucadelesini-buyutme-cagrisi)
+
+![](data/images/b8362bd70d7168c6.jpg)
+
+> Emek Partisi Eskişehir İl Örgütü 11. Olağan Kongresi'ni tamamladı. Genel Başkan Yardımcısı Levent Tüzel'in de katıldığı kongrede yapılan seçimle Deniz Tepe il başkanı seçildi.
+
+Emek Partisi (EMEP) Eskişehir İl Örgütü, 11. Olağan Kongresi'ni parti üyeleri ile çeşitli siyasi parti ve kitle örgütü temsilcilerinin katılımıyla gerçekleştirdi. Programda devrim ve sosyalizm mücadelesinde hayatını kaybedenler anısına saygı duruşunda bulunulurken, EMEP Genel Başkanı Seyit Aslan’ın gönderdiği mesaj okundu.
+
+Kongrede konuşan EMEP Genel Başkan Yardımcısı Levent Tüzel; çalışma yaşamı, iş güvenliği ve ekonomik gelişmelere dair değerlendirmelerde bulundu. İşçi ve emeklilerin yaşadığı geçim sıkıntılarına dikkat çeken Tüzel, sendikal örgütlenmenin önemine değinerek ortak mücadele vurgusu yaptı. Konuşmasında çevre politikaları ve yer altı kaynakları konusundaki tartışmalara da değinen Tüzel, dış politika ve bölgesel gelişmeler hakkındaki görüşlerini aktardı.
+
+Açılış konuşmasını Ceren Kökoğlu'nun yaptığı kongrede; siyasi parti sözcüleri, sendika temsilcileri ve fabrikalardan işçiler kürsüye çıkarak deneyimlerini paylaştı. Kongre kapsamında yapılan seçimler sonucunda partinin yeni Eskişehir İl Başkanı Deniz Tepe oldu.
+
+---
+
+## Beylikova İlçe Mezarlığında Mevlit Programı Düzenlenecek
+
+**Belediye · Beylikova** · 2026-11-21 15:09 UTC · Kaynak: [Beylikova Belediyesi](https://www.beylikova.bel.tr/haberler/468/ahirete-intikal-etmis-tum-yakinlarimiz-icin-mevlidi-serif-okutulacaktir)
+
+![](data/images/ee0155db408403ab.jpg)
+
+> Beylikova Belediyesi ve İlçe Müftülüğü iş birliğiyle, vefat eden vatandaşlar için ilçe mezarlığında mevlit programı gerçekleştirilecek.
+
+Beylikova'da ebediyete irtihal eden ilçe sakinleri ve yakınlar için anma ve dua programı tertip edilecek. Beylikova Belediyesi ile İlçe Müftülüğü ortaklığında düzenlenen program, İlçe Mezarlığı bünyesinde yapılacak.
+
+Belediyeden yapılan bilgilendirmede, arife günü ikindi namazının ardından başlayacak Mevlid-i Şerif programına tüm ilçe halkının davetli olduğu bildirildi.
+
+---
+
 ## Evlenecek Gençlere Kasımda 1,2 Milyar Liralık Destek: 11 Bin Çift Yararlandı
 
 **Türkiye · Türkiye** · 2026-11-21 13:09 UTC · Kaynak: [Aile ve Sosyal Hizmetler Bakanlığı](https://www.aile.gov.tr/haberler/aile-ve-genclik-fonu-kapsaminda-yeni-yuva-kuran-11-bin-224-genc-icin-kasim-ayinda-1-milyar-277-milyon-lira-odeme-yapildi/)
@@ -389,79 +467,5 @@ Millî Eğitim Bakanlığı Eğitim Teknolojileri Kuluçka ve İnovasyon Merkezi
 Onar takımdan oluşan iki oturumda gerçekleşen sunumlarda genç girişimciler; belirledikleri çevre sorunlarını, ürettikleri çözümleri, hedef kitle analizlerini ve pazar büyüklüklerini anlattı. Çevrim içi sistem üzerinden anlık olarak puanlanan değerlendirmelerin ardından dereceye giren ve Türkiye finalinde yarışacak takımlar açıklanarak ödülleri teslim edildi.
 
 Program çerçevesinde ayrıca GençTek ekibinin hazırladığı oyunlaştırma tabanlı "İklim Terimleri Sözlüğü" uygulaması tanıtıldı. Gençlerin teknoloji ve çevre odaklı projelerini paylaştığı, "İklim Değişikliği ve Türk Mitolojisi" gibi tematik atölyelerin düzenlendiği Türkiye İklim Okulu, konferansın sona ermesiyle birlikte faaliyetlerini tamamladı.
-
----
-
-## ÇİDEM'de Çiftçilere Toprak Eğitimi: Mikro Bitki Besin Desteği Dağıtıldı
-
-**Tarım · Seyitgazi** · 2026-11-20 17:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13578&cat_icerik=1&menu_id=24)
-
-![](data/images/b0d4ee9a1feaf6bd.jpg)
-
-> Seyitgazi'deki Çiftçi Destekleme ve Eğitim Merkezi'nde bir araya gelen Çiftelerli üreticilere sürdürülebilir tarım ve toprak verimliliği eğitimi verildi.
-
-Eskişehir Büyükşehir Belediyesi ve Seyitgazi Belediyesi ortaklığıyla hizmet veren Çiftçi Destekleme ve Eğitim Merkezi (ÇİDEM), üreticilere yönelik bilgilendirme çalışmalarını sürdürüyor. Merkezde son olarak Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı, Seyitgazi Belediyesi ve TMMOB Ziraat Mühendisleri Odası Eskişehir Şubesi iş birliğinde "Sürdürülebilir Tarım İçin Toprak Sağlığı Eğitimi" düzenlendi.
-
-Ziraat Mühendisi Hasan Çakıllı tarafından verilen programa Seyitgazi Belediye Başkanı Uğur Tepe ile Çifteler ilçesinden gelen çiftçiler katıldı. Eğitim kapsamında toprak analizi, organik madde yönetimi, bilinçli gübreleme, bitki besin elementleri ve doğru sulama teknikleri ele alındı. Üreticilerin sahada karşılaştığı sorunlar değerlendirilerek soruları yanıtlandı.
-
-Toprakların korunması ve verimliliğin artırılması için üreticilere destek vermeye devam edeceklerini belirten Seyitgazi Belediye Başkanı Uğur Tepe, eğitime katkı sunan uzmanlara ve katılan çiftçilere teşekkür etti. Programın sonunda bilinçli gübrelemeyi teşvik etmek amacıyla katılımcılara mikro bitki besin maddeleri karışımı dağıtıldı.
-
----
-
-## Bozüyük-Eskişehir Yolunda Feci Kaza: 1 Kişi Öldü, 3 Yaralı
-
-**Asayiş · Merkez** · 2026-11-20 17:09 UTC · Kaynak: [Google Haberler - Eskişehir asayiş](https://www.karsmanset.com/service/amp/haber/bozuyuk-eskisehir-karayolunda-feci-kaza-1-olu-3-yarali-1831761.htm)
-
-> Bozüyük-Eskişehir kara yolu Poyra mevkiinde minibüs ile otomobilin çarpışması sonucu 1 kişi yaşamını yitirdi, 3 kişi yaralandı. Kaza nedeniyle ulaşım durdu.
-
-Bozüyük-Eskişehir kara yolu Poyra mevkisi Eskişehir istikametinde saat 17.00 sıralarında trafik kazası meydana geldi. Edinilen bilgilere göre, 06 VIP 94 plakalı minibüs ile 16 AAY 44 plakalı otomobil henüz bilinmeyen bir nedenle çarpıştı.
-
-Çarpışmanın etkisiyle araçlarda büyük hasar oluşurken olay yerine çok sayıda sağlık ve polis ekibi sevk edildi. Kazada otomobilde yolcu olarak bulunan bir kişi olay yerinde yaşamını yitirdi. Minibüs sürücüsü, otomobil sürücüsü ve otomobildeki diğer yolcu ise yaralandı.
-
-İlk müdahaleleri kaza yerinde yapılan yaralılardan minibüs sürücüsü Eskişehir Şehir Hastanesine, diğer iki yaralı ise Bozüyük Devlet Hastanesine kaldırılarak tedavi altına alındı. Kaza nedeniyle bir süre durma noktasına gelen kara yolundaki trafik akışıyla ilgili polis ekipleri tahkikat başlattı.
-
----
-
-## 23. Film Festivali'nde Netflix Atölyesi: Prodüksiyon Süreçleri Anlatıldı
-
-**Kültür-Sanat · Tepebaşı** · 2026-11-20 17:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/d9boq7lbed4lr5spoa8p0maj)
-
-![](data/images/16ac0c8aa6f41ef2.jpg)
-
-> 23. Eskişehir Uluslararası Film Festivali'nin ilk atölyesinde Netflix Yapımlar Direktörü Pelin Ekinci Kaya, dijital yayıncılıkta prodüksiyon süreçlerini öğrencilerle paylaştı.
-
-Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğünün katkılarıyla Anadolu Üniversitesi İletişim Bilimleri Fakültesi ve Kurumsal İletişim Koordinatörlüğü tarafından düzenlenen 23. Eskişehir Uluslararası Film Festivali sürüyor. Festival kapsamındaki ilk atölye çalışmasının konuğu, Netflix Türkiye, Orta Doğu ve Kuzey Afrika Yapımlar Direktörü Pelin Ekinci Kaya oldu.
-
-İletişim Bilimleri Fakültesi Şener Şen Salonu'nda düzenlenen “Netflix ile Stüdyo Yolculuğu: Prodüksiyon Süreçleri” başlıklı etkinliğe Festival Yönetmeni Prof. Dr. Sırrı Serhat Serter, fakülte akademisyenleri ve çok sayıda öğrenci katılım sağladı.
-
-Atölyede dijital yayıncılık alanındaki üretim dinamiklerini ele alan Pelin Ekinci Kaya; yapım süreçleri, set yönetimi, iş güvenliği standartları ve post-prodüksiyon aşamalarını sahada hayata geçirilen projeler üzerinden aktardı.
-
----
-
-## Talat Yalaz'dan Dava Açıklaması: 'Ortada Olmayan Bir Kanundan Yargılanıyorum'
-
-**Siyaset · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Google Haberler - Eskişehir gündem](https://www.haber26.com.tr/politika/talat-yalaz-ortada-olmayan-kanundan-yargilaniyorum)
-
-> Hakkında açılan davanın duruşması 3 Aralık'a ertelenen Talat Yalaz, suçlama konusu konuşmayı yaptığı tarihte yasanın henüz yürürlükte olmadığını belirterek beraat beklediğini söyledi.
-
-İlk duruşması ertelenen davasının 3 Aralık'ta yeniden görüleceğini açıklayan Talat Yalaz, sürece ve gündeme dair değerlendirmelerde bulundu. "Halkı kanunlara uymamaya alenen tahrik" suçlamasıyla yargılandığını ifade eden Yalaz, konuşma yaptığı dönemde ilgili yasal düzenlemenin bulunmadığını kaydetti.
-
-Söz konusu açıklamasının ardından kamuoyundaki tepkilerle birlikte yasa tasarısında değişiklik yapıldığını belirten Yalaz, yürürlükte olmayan bir düzenlemeye dayanılarak suçlama yöneltildiğini savundu. Bir hukukçu olarak dosyanın ceza gerektirmediğini dile getiren Yalaz, mahkemenin beraat kararı vermesini beklediğini ve duruşma günü savunmasını sunacağını dile getirdi.
-
-Dosyadaki siyasi yasak talebine de değinen Yalaz, bir yılın üzerinde hapis cezası verilmesi durumunda bu yaptırımın gündeme geleceğini anımsatarak, ceza öngörmediği için bu talebin de karşılık bulmayacağını ifade etti. Yalaz ayrıca erken seçim tartışmaları kapsamında vatandaşın seçim beklentisi içinde olduğunu ancak iktidarın en az altı aylık süreçte sandığa gitmeyeceğini düşündüğünü aktardı.
-
----
-
-## Jandarma Genel Komutan Yardımcısı Murat Bulut Eskişehir Valiliğinde
-
-**Gündem · Merkez** · 2026-11-20 15:09 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-jandarma-genel-komutan-yardimcisi-korgeneral-murat-bulutu-kabul-etti)
-
-![](data/images/398205f4e7c50996.jpg)
-
-> Çeşitli temaslarda bulunmak üzere kente gelen Jandarma Genel Komutan Yardımcısı Korgeneral Murat Bulut, Eskişehir Valisi Dr. Erdinç Yılmaz'ı makamında ziyaret etti.
-
-Eskişehir'de çeşitli programlara katılmak üzere kente gelen Jandarma Genel Komutan Yardımcısı Korgeneral Murat Bulut, Valilik makamında ağırlandı.
-
-Ziyarette Korgeneral Bulut'a, Eskişehir İl Jandarma Komutanı Albay Veysel Ergün de eşlik etti. Vali Dr. Erdinç Yılmaz, kabulde duyduğu memnuniyeti dile getirerek nazik ziyaretleri dolayısıyla Korgeneral Bulut'a teşekkür etti.
 
 ---
