@@ -21,10 +21,10 @@
     "title": "CHP Genel Başkan Yardımcısı Kaya: Biz sonuna kadar İzleme Komisyonu'nda yer alacağız - Independent Türkçe",
     "url": "https://www.indyturk.com/node/785460"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Yıldırım Kaya"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

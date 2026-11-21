@@ -21,12 +21,12 @@
     "title": "TOGG KAMPANYA 2026: Kadınlara özel finansman desteği! Togg kadınlara özel kampanya ne zaman başlayacak? - İstanbul Ticaret Gazetesi",
     "url": "https://istanbulticaretgazetesi.com/togg-kampanya-2026-kadinlara-ozel-finansman-destegi-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Togg T10X",
       "Togg T10F",
       "Gürcan Karakaş"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

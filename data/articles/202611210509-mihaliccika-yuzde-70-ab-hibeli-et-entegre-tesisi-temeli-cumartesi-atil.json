@@ -22,10 +22,10 @@
     "title": "Eskişehir'in yeni sev tesisi kuruluyor: Yüzde 70'i hibe olacak - Gazete Vatan",
     "url": "https://www.gazetevatan.com/sehirler/eskisehir/eskisehirin-yeni-sev-tesisi-kuruluyor-yuzde-70i-hibe-olacak-2467019"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Mihalıççık"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
