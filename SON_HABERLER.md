@@ -2,6 +2,70 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Togg'dan Kadınlara Özel Finansman Paketi: Garanti BBVA ile İş Birliği Yolda
+
+**Ekonomi · Türkiye** · 2026-11-21 05:09 UTC · Kaynak: [Google Haberler - Togg](https://istanbulticaretgazetesi.com/togg-kampanya-2026-kadinlara-ozel-finansman-destegi-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak)
+
+> Togg, kadınların elektrikli araçlara erişimini kolaylaştırmak amacıyla Garanti BBVA ortaklığıyla yeni bir taşıt kredisi paketi hazırlıyor. Detayların yıl sonuna kadar açıklanması hedefleniyor.
+
+Türkiye'nin yerli elektrikli otomobil üreticisi Togg, kadın tüketicilerin elektrikli araç sahibi olmasını desteklemek amacıyla yeni bir finansman modeli üzerinde çalışıyor. Garanti BBVA iş birliğiyle hayata geçirilmesi planlanan taşıt kredisi paketi, Antalya'da düzenlenen COP31 İklim Zirvesi kapsamındaki oturumda gündeme taşındı.
+
+Zirvede bir araya gelen Togg Üst Yöneticisi (CEO) Gürcan Karakaş ile Garanti BBVA Genel Müdürü Mahmut Akten, sürdürülebilir mobilitenin geniş kitlelere ulaştırılmasında erişilebilir finansman modellerinin önemine dikkat çekti. İki kurumun üzerinde çalıştığı paketin, kadın sürücülere yönelik avantajlı ödeme koşulları sunması hedefleniyor.
+
+Hazırlık aşamasındaki yeni finansman modelinin faiz oranı, vade süresi, kredi üst limiti ve başvuru koşulları henüz kesinleşmedi. Paketin T10X ve T10F modellerini kapsayıp kapsamayacağı ile başvuru kanallarına ilişkin tüm detayların 2026 yılı sona ermeden kamuoyuna duyurulması planlanıyor.
+
+---
+
+## Mihalıççık'a Yüzde 70 AB Hibeli Et Entegre Tesisi: Temeli Cumartesi Atılıyor
+
+**Tarım · Mihalıççık** · 2026-11-21 05:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirin-yeni-sev-tesisi-kuruluyor-yuzde-70i-hibe-olacak-2467019)
+
+> Mihalıççık'ta hayvancılıkla uğraşan üreticilerin kesim sorununu çözecek et entegre tesisi için ilk kazma vuruluyor. Yüzde 70 Avrupa Birliği hibesiyle yapılacak tesis 2027 yılında hizmete girecek.
+
+Eskişehir'in Mihalıççık ilçesinde üreticilerin uzun süredir beklediği et entegre tesisi projesinde somut adım atılıyor. Mihalıççık Belediyesi ve Yunus Emre Kalkınma Kooperatifi iş birliğiyle Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK) üzerinden hazırlanan ve yüzde 70 Avrupa Birliği hibesi almaya hak kazanan tesisin temel atma töreni cumartesi günü gerçekleştirilecek.
+
+İlçedeki mezbaha eksikliğine dikkat çeken Mihalıççık Belediye Başkanı Haydar Çorum, Büyükşehir Yasası ile ilçelerdeki tesislerin kapandığını hatırlattı. Eskişehir genelinde Keskin dışında bir kesim tesisi bulunmadığını belirten Çorum, üreticilerin mesafe uzaklığı nedeniyle kaçak kesim yapmak zorunda kaldığını ifade etti.
+
+Yeni tesisin standartları yüksek modern bir entegre tesis olacağını vurgulayan Çorum, projenin sadece Mihalıççık için değil tüm bölge üreticileri için büyük bir ihtiyacı karşılayacağını söyledi. Tesisin 2027 yılının mayıs veya haziran ayında tamamlanarak hizmete açılması hedefleniyor.
+
+Öte yandan ilçe yatırımlarına da değinen Çorum, geçtiğimiz hafta sonu kapalı spor salonunun açılışını yaptıklarını ve Erkekler Hentbol Süper Ligi'nde mücadele eden Mihalıççık Belediyespor'un yeni salonunda yoğun taraftar desteğiyle maça çıktığını aktardı.
+
+---
+
+## Erdoğan 'Kadim Dostlar' ile Buluştu: 1994 Yılına Ait Özel Fotoğraf Hediye Edildi
+
+**Siyaset · Türkiye** · 2026-11-21 05:09 UTC · Kaynak: [Google Haberler - Cumhurbaşkanı](https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasina-katildi/4132464)
+
+![](data/images/bf3785cd6578e743.jpg)
+
+> Cumhurbaşkanı Recep Tayyip Erdoğan, Dolmabahçe Ofisi'nde Kadim Dostlar Derneği üyeleriyle bir araya geldi.
+
+Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Dolmabahçe Ofisi'nde düzenlenen Kadim Dostlar Buluşması'na katıldı. Dernek üyeleriyle bir araya gelen Erdoğan, davetlilerle tek tek selamlaşarak derneğin yürüttüğü çalışmalar hakkında bilgi aldı.
+
+Ziyaret sırasında Kadim Dostlar Derneği Başkanı Yakup Sucuoğlu, Cumhurbaşkanı Erdoğan'a 1994 yılındaki İstanbul Büyükşehir Belediye Başkanlığı adaylığı döneminde Üsküdar Vapuru'nun kaptan köşkünde çektirmiş olduğu bir fotoğrafı hediye etti. Görüşme, toplu hatıra fotoğrafı çekimiyle tamamlandı.
+
+Programa AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, AK Parti Genel Başkan Yardımcıları Ahmet Büyükgümüş ve Faruk Acar, AK Parti Grup Başkanvekili Muhammet Emin Akbaşoğlu, Mersin Milletvekili Nureddin Nebati, AK Parti Genel Sekreteri Eyyüp Kadir İnan, İstanbul Valisi Davut Gül, AK Parti İstanbul İl Başkanı Abdullah Özdemir ve Esenler Belediye Başkanı Tevfik Göksu da katıldı.
+
+---
+
+## CHP'li Kaya'dan Erken Seçim ve Komisyon Çıkışı: 'Sonuna Kadar Yer Alacağız'
+
+**Siyaset · Türkiye** · 2026-11-21 05:09 UTC · Kaynak: [Google Haberler - CHP](https://www.indyturk.com/node/785460)
+
+> CHP Genel Başkan Yardımcısı Yıldırım Kaya, Van'da yaptığı açıklamada kurulacak İzleme Komisyonu'nda partisinin sonuna kadar yer alacağını belirterek derhal erken seçim çağrısında bulundu.
+
+CHP Genel Başkan Yardımcısı Yıldırım Kaya, çeşitli temaslarda bulunmak üzere gittiği Van'da partisinin il başkanlığında basın toplantısı düzenledi. Kaya, gündemdeki siyasi gelişmelere, Meclis sürecine ve erken seçim tartışmalarına ilişkin değerlendirmelerde bulundu.
+
+Sürece ilişkin soruları yanıtlayan Kaya, kalıcı barış ve demokratikleşmenin adresinin Türkiye Büyük Millet Meclisi olduğunu vurguladı. Kaya, "Bu çerçeve yasanın hayata geçmesi için İzleme Komisyonu kurulacak. Parlamentonun bu işi çözmekten başka çıkar yolu yoktur. Bu sorunun çözümü için Cumhuriyet Halk Partisi'nin on yıllardır söylediği politika hayata geçiyor. Biz sonuna kadar İzleme Komisyonu'nda yer alacağız. TBMM'nin bu sorunu çözmesi için elimizden gelen tüm gereğini yapacağız" ifadelerini kullandı.
+
+Van'daki kayyum uygulamalarını da eleştiren Kaya, halkın sandıkta ortaya koyduğu iradenin korunması gerektiğini belirtti. Demokrasinin yalnızca kazanılan seçimlerin sonucunu kabul etmek olmadığını söyleyen Kaya, kayyum siyasetinin sona erdirilerek seçme ve seçilme hakkının güvence altına alınması gerektiğini savundu.
+
+Erken seçim konusuna da değinen Kaya, iktidara çağrıda bulunarak "Bir an önce erken seçim kararı alınmalıdır. Yarın değil bugün, hemen erken seçim diyoruz. Bir hafta öne alınan seçim erken seçim değildir. CHP olarak biz her an yapılacak seçime hazırız" dedi.
+
+Kaya ayrıca Van'ın sınır ticareti potansiyelinden yeterince yararlanamadığını, kentte bin 763 ücretli öğretmenin görev yaptığını ve ücretli öğretmenlik yerine kadrolu atama yapılması gerektiğini ifade ederek öğrencilere ücretsiz beslenme ve temiz su sağlanması çağrısında bulundu.
+
+---
+
 ## Vali Yılmaz'dan EHA'ya Ziyaret: Kent Gündemi ve Medya Çalışmaları Ele Alındı
 
 **Gündem · Merkez** · 2026-11-20 21:08 UTC · Kaynak: [Eskişehir Valiliği](https://www.eskisehir.gov.tr/valimiz-dr-erdinc-yilmaz-eskisehir-haber-ajansi-eha-internet-sitesini-ziyaret-etti)
@@ -411,69 +475,5 @@ Odunpazarı Belediye Tiyatrosu, çocukların hayal dünyasını zenginleştirmey
 İpek Uzkalan'ın hem kaleme aldığı hem de yönetmenliğini üstlendiği oyunda Enes Soylar, Yağmur İncesu, Atakan Özer, Hilal Demirbaş ve Abdullah Çiftçi sahne alıyor. Yapımın koreografisini Janna Elmalioğlu yürütürken, sahne ve kukla düzenlemelerini Çiğdem Öztürk, özgün müziklerini ise Ufuk Kuzucu hazırlıyor.
 
 Kukla ve müziğin harmanlandığı yeni çocuk oyunu, ocak ayı itibarıyla Hasan Polatkan Kültür Merkezi'nde tiyatroseverlerle buluşacak ve sezon boyunca gösterimde kalacak.
-
----
-
-## Eskişehirspor Söke Deplasmanında Liderlik Peşinde: Maç Saati ve Kanalı Belli Oldu
-
-**Spor · Merkez** · 2026-11-20 09:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/galeri/soke-1970-eskisehirspor-maci-ne-zaman-saat-kacta-hangi-kanalda-liderligi-geri-almak-icin-sahada-2466745)
-
-> Nesine 3. Lig 2. Grup'ta zirve mücadelesi veren Eskişehirspor, 22 Kasım Pazar günü saat 13.00'te Söke 1970 Spor'a konuk olacak. Mücadele Tivibu Spor ekranlarından canlı yayınlanacak.
-
-Nesine 3. Lig 2. Grup'un 13. haftasında şampiyonluk mücadelesi veren Eskişehirspor, Aydın deplasmanında Söke 1970 Spor ile karşılaşacak. Geçtiğimiz hafta evinde Ayvalıkgücü Belediyespor ile 2-2 berabere kalarak zirveyi 26 puanlı Etimesgut Spor'a devreden ve 25 puanla ikinci sıraya gerileyen siyah-kırmızılılar, deplasmandan 3 puanla dönerek liderliği yeniden devralmayı amaçlıyor.
-
-Söke İlçe Stadı'nda 22 Kasım 2026 Pazar günü oynanacak karşılaşma saat 13.00'te başlayacak. Zirve yarışını yakından ilgilendiren zorlu 90 dakika, Tivibu Spor ekranlarından canlı olarak futbolseverlerle buluşacak.
-
-Eskişehirspor'un ligin zirvesine yeniden oturabilmesi için Söke deplasmanında galibiyet almasının yanı sıra lider Etimesgut Spor'un Kepez Spor deplasmanında ve aynı puandaki Gemlik Sümerbey'in Bucaspor 1928 karşısında alacağı sonuçlar belirleyici olacak. Ev sahibi Söke 1970 Spor ise ligde topladığı 9 puanla 15. sırada yer alıyor.
-
----
-
-## Togg T10X Ekimde Zirveye Yerleşti: 4 Bin 59 Adetle Rakiplerini Geride Bıraktı
-
-**Ekonomi · Türkiye** · 2026-11-20 07:09 UTC · Kaynak: [Google Haberler - Togg](https://n24.com.tr/otomotiv/togg-t10x-ekim-satislarinda-renault-ve-volkswageni-solladi)
-
-![](data/images/dfaa0c0f01438db6.jpg)
-
-> Türkiye otomobil pazarında ekim ayı satış lideri 4 bin 59 adetle Togg T10X oldu. Markanın yeni modeli T10F ise 2 bin 702 adetlik satışla dördüncü sıraya yerleşti.
-
-Türkiye otomobil pazarında yılın ilk 10 ayına ait model bazlı satış verileri netleşti. Ekim ayı rakamlarına göre yerli elektrikli SUV Togg T10X, 4 bin 59 adetlik satış rakamına ulaşarak Türkiye genelinde en çok satılan otomobil unvanını elde etti. T10X'i 3 bin 324 adetle Volkswagen T-Roc ve 2 bin 779 adetle Renault Boreal izledi.
-
-Togg'un fastback sedan modeli T10F de ekim ayında gösterdiği performansla dikkat çekti. Ay boyunca 2 bin 702 adetlik satışa ulaşan T10F, listenin dördüncü basamağına yerleşti. Böylece ekim ayında ilk dört sırada iki yerli elektrikli otomobil modeli yer almış oldu.
-
-Ocak-ekim dönemini kapsayan 10 aylık toplam satışlarda ise Renault Clio 35 bin 884 adetle liderliğini sürdürürken, Toyota Corolla 26 bin 455 adetle ikinci, Togg T10X ise 26 bin 79 adetle üçüncü sırada yer aldı. Togg'un T10X ve T10F modellerinin yılın ilk 10 ayındaki toplam satış hacmi 44 bin 187 adede ulaştı.
-
----
-
-## Gürhan Albayrak Sazova Sakinleriyle Buluştu: 'Bahane Değil Hizmet Bekleniyor'
-
-**Siyaset · Tepebaşı** · 2026-11-20 07:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.milliirade.com/tepebasinda-sazova-sakinleri-belediye-hizmetini-elestirdi)
-
-> AK Parti Eskişehir İl Başkanı Gürhan Albayrak ve beraberindeki teşkilat üyeleri, Sazova Mahallesi sakinleriyle bir araya gelerek bölgedeki sorun ve talepleri dinledi.
-
-AK Parti Eskişehir İl Başkanı Gürhan Albayrak, parti teşkilatıyla birlikte Sazova Mahallesi'ni ziyaret etti. Mahalle sakinleriyle çay sohbetinde buluşan heyet, vatandaşların belediye hizmetlerine ilişkin görüş ve beklentilerini kaydetti.
-
-Ziyaretin ardından yapılan açıklamada, bölge sakinlerinin yerel hizmet anlayışından memnun olmadığı savunularak vatandaşların artık mazeret yerine somut hizmet görmek istediği ifade edildi.
-
-Sazova Mahallesi'nin ihtiyaçlarının ve iletilen taleplerin takipçisi olunacağını belirten Albayrak, misafirperverliklerinden dolayı mahalle sakinlerine teşekkür etti.
-
----
-
-## Altın fiyatları 20 Kasım 2026: Gram altın 5.953,07 TL
-
-**Ekonomi · Merkez** · 2026-11-20 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
-
-![](data/images/altin-20261120.jpg)
-
-> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 5.825,56 TL'den alınıyor, 5.953,07 TL'den satılıyor.
-
-Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 5.953,07 TL, alış fiyatı 5.825,56 TL oldu. Gram altın, önceki kapanışa göre yüzde 2,57 geriledi.
-
-Ziynet altınlarda çeyrek altın 9.717 TL, yarım altın 19.429 TL, tam altın 38.768 TL, ata altın 39.747 TL seviyesinden satışa sunuluyor.
-
-22 ayar bileziğin gram satış fiyatı 5.553,05 TL, has altının gram fiyatı 5.928,77 TL olarak belirlendi.
-
-Uluslararası piyasalarda altının onsu 3.544,10 dolardan işlem görürken, dolar/TL 50,65 seviyesinde bulunuyor.
-
-Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
 
 ---
