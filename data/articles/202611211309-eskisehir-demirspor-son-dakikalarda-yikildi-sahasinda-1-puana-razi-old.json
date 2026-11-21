@@ -21,10 +21,10 @@
     "title": "Arıt Kayadibi, Eskişehir deplasmanından puan çıkardı - Aba Medya",
     "url": "https://www.abamedya.com/arit-kayadibi-eskisehir-deplasmanindan-puan-cikardi/66966/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Demirspor"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
