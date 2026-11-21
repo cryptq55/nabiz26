@@ -2,6 +2,26 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Altın fiyatları 21 Kasım 2026: Gram altın 6.059,59 TL
+
+**Ekonomi · Merkez** · 2026-11-21 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
+
+![](data/images/altin-20261121.jpg)
+
+> Gram altın güne düşüşle başladı. Harem Altın verilerine göre gram altın 5.914,99 TL'den alınıyor, 6.059,59 TL'den satılıyor.
+
+Altın piyasasında güne düşüşle başlandı. Harem Altın'ın saat 09.00 itibarıyla verilerine göre gram altının satış fiyatı 6.059,59 TL, alış fiyatı 5.914,99 TL oldu. Gram altın, önceki kapanışa göre yüzde 0,83 geriledi.
+
+Ziynet altınlarda çeyrek altın 9.939 TL, yarım altın 19.867 TL, tam altın 39.613 TL, ata altın 40.699 TL seviyesinden satışa sunuluyor.
+
+22 ayar bileziğin gram satış fiyatı 5.653,32 TL, has altının gram fiyatı 6.035,45 TL olarak belirlendi.
+
+Uluslararası piyasalarda altının onsu 3.534,80 dolardan işlem görürken, dolar/TL 50,82 seviyesinde bulunuyor.
+
+Fiyatlar Harem Altın'ın saat 09.00 itibarıyla paylaştığı verilere dayanmaktadır; kuyumcular arasında farklılık gösterebilir. Bu haber yatırım tavsiyesi değildir.
+
+---
+
 ## Togg'dan Kadınlara Özel Finansman Paketi: Garanti BBVA ile İş Birliği Yolda
 
 **Ekonomi · Türkiye** · 2026-11-21 05:09 UTC · Kaynak: [Google Haberler - Togg](https://istanbulticaretgazetesi.com/togg-kampanya-2026-kadinlara-ozel-finansman-destegi-togg-kadinlara-ozel-kampanya-ne-zaman-baslayacak)
@@ -459,21 +479,5 @@ Projenin kalbinde kültürel buluşmalar ve açık hava etkinlikleri için tasar
 Farklı yaş gruplarına yönelik spor alanlarının da planlandığı projede tenis kortu, çocuk tenis kortu, antrenman duvarı, açık hava crossfit alanı ve üç potalı basketbol sahası yer alacak. Çocuklar için denge ve koordinasyon becerilerini destekleyecek tematik oyun parkı kurulacak.
 
 Porsuk Çayı'nın doğal koridoruna uyumlu peyzajla tasarlanan projede yürüyüş parkurları, üç adet büfe, umumi tuvaletler ve gölgelikli dinlenme alanları bulunacak. Belediyeden yapılan bilgilendirmede, kentin iklimine uygun bitki örtüsüyle donatılacak alanın hem ekolojik sürekliliği destekleyeceği hem de kente yeni bir kamusal buluşma noktası kazandıracağı belirtildi.
-
----
-
-## Odunpazarı Belediye Tiyatrosu'ndan Yeni Çocuk Oyunu: 'Pablo' İçin Provalar Başladı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-20 09:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/odunpazari-belediye-tiyatrosu-nda-yeni-cocuk-oyununun-okuma-provalari-basladi)
-
-![](data/images/ebc22a4bca9d7094.jpg)
-
-> Odunpazarı Belediye Tiyatrosu, minik izleyicilerle buluşturacağı 'Pablo' adlı yeni çocuk oyununun okuma provalarına başladı. Yapım, ocak ayından itibaren sahnelenecek.
-
-Odunpazarı Belediye Tiyatrosu, çocukların hayal dünyasını zenginleştirmeyi amaçlayan yeni tiyatro oyunu "Pablo" için hazırlıklarını hızlandırdı. Ekip, yeni sezonda minik sanatseverlerin beğenisine sunulacak yapımın okuma provalarını gerçekleştirmeye başladı.
-
-İpek Uzkalan'ın hem kaleme aldığı hem de yönetmenliğini üstlendiği oyunda Enes Soylar, Yağmur İncesu, Atakan Özer, Hilal Demirbaş ve Abdullah Çiftçi sahne alıyor. Yapımın koreografisini Janna Elmalioğlu yürütürken, sahne ve kukla düzenlemelerini Çiğdem Öztürk, özgün müziklerini ise Ufuk Kuzucu hazırlıyor.
-
-Kukla ve müziğin harmanlandığı yeni çocuk oyunu, ocak ayı itibarıyla Hasan Polatkan Kültür Merkezi'nde tiyatroseverlerle buluşacak ve sezon boyunca gösterimde kalacak.
 
 ---
