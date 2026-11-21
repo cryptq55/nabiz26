@@ -2,6 +2,62 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESOGÜ'den Çevreci İşletmelere Yol Haritası: 'Yeşil Örgüt Kültürü' Ölçeği Geliştirildi
+
+**Eğitim · Odunpazarı** · 2026-11-21 09:09 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2037?tur=AkademikMakale)
+
+> ESOGÜ Turizm Fakültesi Öğretim Üyesi Doç. Dr. Mert Gürlek'in geliştirdiği 'Yeşil Örgüt Kültürü' ölçeği, uluslararası saygın dergide yayımlandı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Turizm Fakültesi Turizm İşletmeciliği Bölümü öğretim üyesi Doç. Dr. Mert Gürlek tarafından hazırlanan araştırma, alanın önde gelen bilimsel yayınlarından The Service Industries Journal’da yayımlandı.
+
+Küresel ısınma, çevre kirliliği ve doğal kaynakların azalması karşısında işletmelerin sürdürülebilirlik çabalarını ele alan çalışmada, yasal ve teknolojik adımların davranış ve alışkanlıklar değişmedikçe tek başına yetersiz kaldığı vurgulandı. Çevresel sürdürülebilirliğin ön koşulu kabul edilen yeşil örgüt kültürünün kuramsal çerçevesi oluşturularak bu alandaki ölçüm eksikliğini giderecek bir araç geliştirildi.
+
+Biri nitel üçü nicel olmak üzere 4 aşamalı karma yöntemle yürütülen araştırmanın verileri, yeşil otellerin yönetici ve çalışanlarından elde edildi. Çalışma neticesinde 9 boyut ve 36 ifadeden oluşan kapsamlı bir ölçek ortaya konuldu. Literatürde yeşil örgüt kültürü ölçeği geliştirmeye yönelik ilk ve en kapsamlı çalışma olma özelliğini taşıyan araştırma, işletmelere çevreye duyarlı bir kurum kültürü inşa etmeleri için somut bir yol haritası sunuyor.
+
+---
+
+## Eli Titremesin Diye Sağ Eliyle Ağır Taşımıyor: Eskişehir'de 15 Yıllık Tezhip Yolculuğu
+
+**Kültür-Sanat · Odunpazarı** · 2026-11-21 09:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/pffzn4j1q6mf4xgfj73uv91d)
+
+![](data/images/5a4401f33458c8e4.jpg)
+
+> Eskişehir Türk Ocağı'ndaki atölyesinde 55 öğrenci yetiştiren tezhip sanatçısı Nuray Çeliksoy, ince hatları çizerken eli titremesin diye günlük yaşamında sağ eliyle ağır eşya taşımıyor.
+
+Yaklaşık 15 yıldır geleneksel Türk süsleme sanatlarından tezhibi icra eden sanatçı Nuray Çeliksoy, usta-çırak geleneğini Eskişehir Türk Ocağı bünyesindeki atölyesinde yaşatıyor. Sanat yolculuğunun hocası Cemile Baybura ile başladığını ve icazet aldığını aktaran Çeliksoy, tezhibin teknik beceriden önce sabır ve ahlak gerektiren disiplinli bir edep süreci olduğunu belirtti.
+
+Tezhip sanatının hata kabul etmeyen hassas yapısına dikkat çeken Çeliksoy, tek bir su damlasının dahi aylarca emek verilen bir çalışmayı yok edebileceğini söyledi. Sanatın beraberinde getirdiği fiziksel disiplinden bahseden Çeliksoy, en ince hatları çizerken elinin titremesini önlemek amacıyla günlük hayatında sağ eliyle ağır hiçbir eşya taşımadığını ifade etti.
+
+Atölyesinde 55 öğrenciye yüz yüze eğitim sunan Çeliksoy, tecrübesine rağmen usta-çırak bağının kesintisiz devam ettiğini ve öğrenme sürecinin son bulmadığını dile getirdi. Sanatçı ayrıca klasik motifleri takı sanatına uyarlamak üzere, İngiliz Kraliyet Ailesi ve Japon İmparatoru için üretim yapan uluslararası bir mücevher tasarımcısıyla ortak proje hazırlığı yürüttüğünü kaydetti.
+
+---
+
+## Beylikova Belediyesi Hizmet Binası Tabelasına 'T.C.' İbaresi Eklendi
+
+**Belediye · Beylikova** · 2026-11-21 09:09 UTC · Kaynak: [Beylikova Belediyesi](https://www.beylikova.bel.tr/haberler/471/beylikova-belediyesi-tabelasina-t-c-ibaresi-eklendi)
+
+> Beylikova Belediyesi hizmet binasının girişinde yer alan kurumsal tabelaya, Başkan Hakan Karabacak'ın talimatıyla Türkiye Cumhuriyeti'nin kısaltması olan 'T.C.' ibaresi yerleştirildi.
+
+Eskişehir'in Beylikova ilçesinde belediye hizmet binasının girişindeki tabelada düzenlemeye gidildi. Beylikova Belediye Başkanı Av. Hakan Karabacak’ın talimatı doğrultusunda, bina girişindeki mevcut belediye yazısına Türkiye Cumhuriyeti’nin kısaltması olan 'T.C.' ibaresi ilave edildi.
+
+Yapılan değişikliğin ardından yeni tabela hizmet binasındaki yerini alırken, belediye yönetimi uygulamanın ilçe halkına hayırlı olmasını diledi.
+
+---
+
+## Başkan Ataç'tan 22 Kasım Mesajı: Diş Kontrollerini İhmal Etmeyin
+
+**Gündem · Tepebaşı** · 2026-11-21 09:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.haber26.com.tr/eskisehir/tepebasi-baskani-atac-dis-kontrollerini-ihmal-etmeyin)
+
+> Tepebaşı Belediye Başkanı Ahmet Ataç, 22 Kasım Diş Hekimleri Günü dolayısıyla yayımladığı mesajda ağız ve diş sağlığının ihmal edilmemesi çağrısında bulundu.
+
+Tepebaşı Belediye Başkanı Ahmet Ataç, 22 Kasım Diş Hekimleri Günü kapsamında bir mesaj yayımlayarak meslektaşlarının gününü tebrik etti. Ataç, ağız ve diş sağlığının genel sağlık durumu ile yaşam kalitesinin temel unsurlarından biri olduğunu vurguladı.
+
+Kendisi de diş hekimi olan Başkan Ataç, mesleğin yalnızca tedavi odaklı görülmemesi gerektiğini belirterek koruyucu sağlık uygulamalarının ve erken yaşta kazandırılan bakım alışkanlıklarının önemine dikkat çekti. Diş hekimliğinin sabır, dikkat ve sorumluluk gerektirdiğini ifade eden Ataç, toplum sağlığı için fedakârca çalışan tüm diş hekimlerine teşekkür etti.
+
+Belediyeye bağlı Çocuk Ağız ve Diş Sağlığı Polikliniği bünyesinde sürdürülen çalışmaların bu bilinçle hayata geçirildiğini hatırlatan Ataç, tüm vatandaşlara düzenli diş hekimi kontrollerini aksatmama çağrısında bulundu.
+
+---
+
 ## ESOGÜ'den Boşanma Araştırması: Zorlu Süreç Ergenlerde Gelişim Fırsatına Dönüşebilir
 
 **Eğitim · Odunpazarı** · 2026-11-21 07:08 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2057?tur=AkademikMakale)
@@ -409,71 +465,5 @@ Eskişehir Büyükşehir Belediyesinin kentin kültür ve sanat hayatına kazand
 Büyükşehir Belediyesi Kent Tarihi, Tanıtımı ve Turizm Daire Başkanı Sercan Kara, merkezin kentin en genç ve en büyük sanat kompleksi olduğunu belirterek, her ay yenilenen sergiler ve atölyelerle tüm vatandaşları Sanat Sokağı'na davet etti. Alanda üretim yapan cam, minyatür ve bebek yapım sanatçıları da mekânın yerli ve yabancı ziyaretçilerden yoğun ilgi gördüğünü ifade etti.
 
 Merkez, yetişkinlere yönelik sergi, söyleşi ve dinletilerin yanı sıra Çocuk Hakları Birimi iş birliğiyle minik ziyaretçilere de düzenli olarak yaratıcı drama, satranç, tasarım ve dans gibi farklı başlıklarda atölye imkânı sunuyor.
-
----
-
-## Tepebaşı'nda Tesisler Mercek Altında: Hizmet Binalarında Entegre Su Yönetimi Başladı
-
-**Belediye · Tepebaşı** · 2026-11-20 11:09 UTC · Kaynak: [Google Haberler - Tepebaşı](https://www.ekonomim.com/sehirler/tepebasi-atac-iklim-eylemi-kentlerde-gundelik-kararlarla-hayat-bulur-haberi-932405)
-
-> Tepebaşı Belediyesi, BEBKA desteğiyle yürüttüğü proje kapsamında hizmet binalarında ve yeşil alanlarda su verimliliği analizi gerçekleştirirken 425 kişiye tasarruf eğitimi verdi.
-
-Tepebaşı Belediyesi, iklim krizi ve artan kuraklık riskine karşı kaynakları korumak amacıyla "Hizmet Binalarında Entegre Su Yönetimi ve Su Verimliliği Kapasitesinin Geliştirilmesi" projesini hayata geçirdi. Bursa Eskişehir Bilecik Kalkınma Ajansı (BEBKA) 2026 Yılı Teknik Destek Programı kapsamında desteklenen çalışma ile belediye tesislerinde su tüketim alışkanlıkları kapsamlı şekilde inceleniyor.
-
-Çalışma doğrultusunda Tepebaşı Belediyesi Ana Hizmet Binası, Mustafa Kemal Atatürk Su Sporları Merkezi ve Metin Özöğüt Yaşam Merkezi'nde teknik denetimler yapılıyor. Tüketimin yoğunlaştığı noktalar tespit edilirken kayıpların önlenmesi, yağmur suyu hasadı ve gri suyun geri kazanımı gibi tasarruf alternatifleri değerlendiriliyor. Analizler yalnızca kapalı tesislerle sınırlı kalmayıp park, bahçe ve rekreasyon alanlarındaki sulama sistemlerini de kapsıyor.
-
-Su verimliliği seferberliği kapsamında bugüne kadar toplam 425 kişiye eğitim sunuldu. Mavi Su Belgesi kapsamında 101, okullarla ortaklaşa 259 öğrenci ve BEBKA projesi çerçevesinde 65 belediye personeli bilinçlendirme programlarına katıldı.
-
-Projeye ilişkin değerlendirmede bulunan Tepebaşı Belediye Başkanı Dt. Ahmet Ataç, iklim krizinin kentlerin karşı karşıya olduğu somut bir gerçek olduğuna dikkat çekti. Ataç, "Kuraklık ve su kaynaklarının azalması, suyu nasıl kullandığımızı yeniden düşünmemizi zorunlu kılıyor. Su yalnızca çevresel bir başlık değil; yaşamın, üretimin, ekonominin ve kentlerin geleceğinin temelidir. COP31'de konuşulan iklim eyleminin karşılığı kentlerde alınan kararlarla ortaya çıkar. Bugünden atacağımız her bilinçli adım gelecek kuşakların suya erişimi ve kentimizin dayanıklılığı için hayati önem taşıyor" ifadelerini kullandı.
-
----
-
-## Sarar Grup'tan Rektör Özcan'a Tebrik Ziyareti: Yeni Dönemde Başarı Diledi
-
-**Eğitim · Tepebaşı** · 2026-11-20 11:09 UTC · Kaynak: [Eskişehir Teknik Üniversitesi](https://www.eskisehir.edu.tr/tr/Haber/Detay/sarar-grup-resmi-iliskiler-ve-protokol-muduru-alaattin-cobandan-rektor-prof-dr-adnan-ozcana-hayirli-olsun-ziyareti)
-
-![](data/images/2c76329c6484d7d5.jpg)
-
-> Sarar Grup Resmi İlişkiler ve Protokol Müdürü Alaattin Çoban, yeniden ESTÜ Rektörlüğüne atanan Prof. Dr. Adnan Özcan'ı makamında ziyaret etti.
-
-Cumhurbaşkanlığı Kararı ile Eskişehir Teknik Üniversitesi Rektörlüğü görevine yeniden atanan Prof. Dr. Adnan Özcan'a yönelik hayırlı olsun ziyaretleri devam ediyor.
-
-Bu kapsamda Sarar Grup Resmi İlişkiler ve Protokol Müdürü Alaattin Çoban, Rektörlük Ofisinde Prof. Dr. Adnan Özcan ile bir araya geldi. Görüşmede Çoban, yeni görev dönemine başlayan Rektör Özcan'ı tebrik ederek üniversite yönetimine çalışmalarında başarılar diledi.
-
-Ziyaretten duyduğu memnuniyeti ifade eden Rektör Prof. Dr. Adnan Özcan ise iyi dilekleri ve nezaketi dolayısıyla Alaattin Çoban'a teşekkürlerini iletti.
-
----
-
-## Odunpazarı'nda Türkü Gecesi: Köz Orkestra Dinleyicileri Hayran Bıraktı
-
-**Kültür-Sanat · Odunpazarı** · 2026-11-20 11:09 UTC · Kaynak: [Odunpazarı Belediyesi](https://www.odunpazari.bel.tr/guncel/haberler/genel-haberler/koz-orkestra-dan-beste-formunda-turkuler-konseri)
-
-![](data/images/d4f4a0c11879333d.jpg)
-
-> Odunpazarı Belediyesi eğitmenlerinin oluşturduğu Köz Orkestra, 'Beste Formunda Türküler' konseriyle Eskişehirli müzikseverlere unutulmaz bir akşam yaşattı.
-
-Odunpazarı Belediyesi bünyesinde görev yapan sanat eğitmenlerinin kurduğu Köz Orkestra, Yunus Emre Kültür ve Sanat Merkezi'nde (YKSM) sahne aldı. Ücretsiz olarak gerçekleştirilen konsere kentteki sanatseverler yoğun ilgi gösterdi.
-
-'Beste Formunda Türküler' temasıyla düzenlenen konserde Anadolu'nun köklü ezgileri çok sesli ve özgün enstrümantal düzenlemelerle yorumlandı. Köz Orkestra'nın sahne performansı salonu dolduran dinleyicilerden alkış topladı.
-
-Belediyenin kültür ve sanat etkinlikleri kapsamında sahne alan orkestra, geleneksel Türk halk müziği mirasını modern yaklaşımlarla kente taşımaya devam ediyor.
-
----
-
-## MEBİ Yapay Zekâ ve Çevrim Dışı Modla Yenilendi: Kullanıcı Sayısı 8 Milyonu Aştı
-
-**Eğitim · Türkiye** · 2026-11-20 11:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/quotmebiquot-yenilenen-yuzu-ve-yapay-zeka-destekli-ozellikleriyle-yayinda/haber/42599/tr)
-
-![](data/images/84b683fb8b8ab196.jpg)
-
-> Millî Eğitim Bakanlığının bireysel öğrenme platformu MEBİ; yapay zekâ asistanı, internetsiz çalışma özelliği ve genişletilen erişilebilirlik seçenekleriyle baştan aşağı güncellendi.
-
-Millî Eğitim Bakanlığı, öğrenci ve öğretmenlerin kullanımına sunduğu MEBİ Bireysel Öğrenme Platformu’nu gelen geri bildirimler doğrultusunda yeniledi. Web arayüzü ve mobil uygulaması daha işlevsel hâle getirilen platformda, öğrencilerin ders çalışma alışkanlıklarını destekleyen kişiselleştirilebilir ekranlar ve yeni dijital modüller devreye alındı.
-
-Platformun yapay zekâ destekli öğrenci asistanı KANKA geliştirilerek öğrencilerin hedeflerine, uygun saatlerine ve zorlandıkları konulara göre kişiye özel haftalık program hazırlaması sağlandı. Doğal dille arama imkânı sunan yapay zekâ desteği, deneme sınavı sonuçlarını değerlendirerek öğrencilere günlük çalışma tavsiyeleri üretiyor. Yeni eklenen çevrim dışı çalışma özelliğiyle de öğrenciler, içerikleri önceden mobil cihazlarına indirerek internet bağlantısı olmayan ortamlarda ders çalışabiliyor.
-
-Farklı ihtiyaçlara sahip öğrencilerin platformdan rahat yararlanabilmesi için erişilebilirlik seçenekleri de genişletildi. Görme engelli öğretmenlerin katılımıyla yapılan testler sonucunda platforma disleksi dostu görünüm, renk körlüğü ayarları, yüksek kontrast ve ekran okuyucu uyumluluğu eklendi. Ayrıca ders notlarının tek noktada toplanmasını sağlayan Not Defteri modülü kullanıma açıldı.
-
-Bakanlık verilerine göre ortaokul ve lise düzeyinde 6 milyon 180 binden fazla öğrencinin yararlandığı platformun toplam kullanıcı sayısı öğretmen ve velilerle birlikte 8 milyon 187 bini aştı. Mobil uygulaması 6,6 milyondan fazla indirilen MEBİ üzerinden bugüne kadar 704 milyonu aşkın soru çözüldüğü bildirildi.
 
 ---
