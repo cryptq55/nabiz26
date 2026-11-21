@@ -2,6 +2,50 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## Mihalıççık'ta Et Entegre Tesisi İçin Temel Atıldı: 2027'de Açılacak
+
+**Tarım · Mihalıççık** · 2026-11-21 17:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://yerel-haberler.haberturk.com/eskisehir-haberleri/dsp-genel-baskani-aksakal-eskisehirde-temel-atma-torenine-katildi-119528833)
+
+> Eskişehir'in Mihalıççık ilçesinde TKDK desteğiyle hayata geçirilecek Et Entegre Tesisi'nin temeli, DSP Genel Başkanı Önder Aksakal'ın da katıldığı törenle atıldı.
+
+Mihalıççık Belediyesi Küçük Sanayi Sitesi'nde düzenlenen temel atma töreni, saygı duruşunda bulunulması ve İstiklal Marşı'nın okunmasıyla başladı. Programa DSP Genel Başkanı Önder Aksakal, Mihalıççık Belediye Başkanı Haydar Çorum, Yunusemre Tarımsal Kalkınma Kooperatifi Başkanı İsmail Hakkı Yavuz ile TKDK Eskişehir İrtibat Sorumlusu Uğur Tanrıverdi katıldı.
+
+Törende konuşan DSP Genel Başkanı Önder Aksakal, ilçeye kazandırılan yatırımdan memnuniyet duyduğunu ifade etti. Aksakal, Mihalıççık'ta birlik ve beraberlik içinde hizmet üretildiğini belirterek kalkınmanın köyden ve üreticiden başladığını vurguladı.
+
+Mihalıççık Belediye Başkanı Haydar Çorum ise tesisin hem ilçe hem de kent ekonomisi için önemli bir adım olduğunu dile getirdi. Tesisin Haziran 2027'de faaliyete geçmesini planladıklarını aktaran Çorum, temel belediyecilik faaliyetlerinin yanı sıra tarım ve hayvancılığın gelişmesine de katkı sunmaya devam edeceklerini kaydetti.
+
+Konuşmaların ardından dua edilip kurban kesildi. Tören, tesisin temeline ilk harcın dökülmesiyle sona erdi.
+
+---
+
+## Mihalıççık Belediyesi Araç Filosuna Yerli Otomobil Togg'u Dahil Etti
+
+**Belediye · Mihalıççık** · 2026-11-21 17:09 UTC · Kaynak: [Mihalıççık Belediyesi](https://www.mihaliccik.bel.tr/haberler/468-mihalıççık-belediyemize-yeni-hizmet-aracı.html)
+
+![](data/images/9f15af7b523cfad0.jpg)
+
+> Mihalıççık Belediyesi, ilçe genelindeki hizmet kalitesini artırmak amacıyla araç filosuna belediye bütçesiyle alınan yerli otomobil Togg'u kattı.
+
+Mihalıççık Belediyesi, ilçe halkına sunulan hizmetlerin daha hızlı ve etkin bir şekilde yürütülmesi hedefiyle araç filosunu genişletmeyi sürdürüyor. Bu kapsamda, belediyenin kendi bütçe imkânları kullanılarak yerli üretim Togg marka yeni bir hizmet aracı envantere kazandırıldı.
+
+Belediyeden yapılan açıklamada, çevreci ve yenilikçi teknolojisiyle dikkat çeken aracın ilçe genelindeki hizmet süreçlerine güç katacağı belirtildi. Yeni aracın Mihalıççık halkına hayırlı olması temennisinde bulunulurken, ilçenin ihtiyaçları doğrultusunda yatırımların ve çalışmaların devam edeceği kaydedildi.
+
+---
+
+## Eskişehirspor Söke Hazırlıklarını Tamamladı: Kafile Aydın Yolcusu
+
+**Spor · Tepebaşı** · 2026-11-21 17:09 UTC · Kaynak: [Google Haberler - Eskişehirspor](https://www.gazetevatan.com/sehirler/eskisehir/eskisehirspor-soke-1970-sk-maci-oncesi-dugmeye-basti-2467071)
+
+> Söke 1970 SK deplasmanına hazırlanan Eskişehirspor, kentteki son taktik çalışmasını tamamlayarak maç için Aydın'a hareket etti.
+
+Bölgesel Amatör Lig temsilcisi Eskişehirspor, deplasmanda oynayacağı Söke 1970 SK karşılaşmasının hazırlık sürecini noktaladı. Siyah-kırmızılı ekip, kritik müsabaka öncesindeki son antrenmanını kendi tesislerinde gerçekleştirdi.
+
+Teknik heyet yönetiminde gerçekleştirilen idmanda futbolcular, ısınma hareketlerinin ardından sahada taktik ağırlıklı varyasyonlar üzerinde durdu. Karşılaşmanın taktik planını sahaya yansıtan ekip, çalışmayı tamamlayarak maç saatine odaklandı.
+
+Kulübün resmî sosyal medya hesabından yapılan açıklamada, müsabaka hazırlıklarının tamamlandığı ve siyah-kırmızılı kafilenin Aydın deplasmanına doğru yola çıkacağı duyuruldu.
+
+---
+
 ## Ünlü Yapımların Ses Tasarımcısı Levent İntepe Eskişehirli Gençlerle Buluştu
 
 **Kültür-Sanat · Tepebaşı** · 2026-11-21 15:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/ncka0dc3kxrlqt6d7lfdtcaf)
@@ -419,53 +463,5 @@ Nesine 3. Lig'de mücadele eden Eskişehirspor'un hafta sonu Söke 1970 Spor Kul
 22 Kasım 2026 Pazar günü saat 13.00'te Söke İlçe Stadı'nda oynanacak kritik randevuda Mersin bölgesinden Burak Filik düdük çalacak. Karşılaşmada Filik'in yardımcılıklarını Kahramanmaraş bölgesinden Enes Demirel ile Niğde bölgesinden Enes Ahmetler üstlenecek. Mücadelenin dördüncü hakemi ise yine Mersin bölgesinden Harun Kaan Yıldırım olacak.
 
 1988 doğumlu olan ve 2012 yılından bu yana TFF liglerinde görev yapan orta hakem Burak Filik, bu sezon farklı organizasyonlarda 5 karşılaşma yönetti. Söz konusu maçlarda 27 sarı ve 1 kırmızı kartına başvuran Filik, Söke deplasmanıyla birlikte 2026-2027 sezonundaki 6. orta hakemlik görevine çıkacak.
-
----
-
-## Eskişehirli Hamza Dönmez Millî Takımda: Ay-Yıldızlı Forma İçin Ter Dökecek
-
-**Spor · Merkez** · 2026-11-20 19:09 UTC · Kaynak: [Eskişehir Büyükşehir Belediyesi](https://www.eskisehir.bel.tr/icerik-detay.php?icerik_id=13577&cat_icerik=1&menu_id=24)
-
-![](data/images/618d12a7e9b0891c.jpg)
-
-> Eskişehir Büyükşehir Spor Kulübü'nün down sendromlu masa tenisi sporcusu Hamza Dönmez, sergilediği performansla Türk Devletleri müsabakaları öncesinde millî takıma çağrıldı.
-
-Eskişehir Büyükşehir Spor Kulübü sporcuları ulusal ve uluslararası organizasyonlarda başarılarını sürdürüyor. Kulüp bünyesinde masa tenisi oynayan down sendromlu sporcu Hamza Dönmez, gösterdiği performansın ardından millî takım kadrosuna davet edildi.
-
-Genç sporcu, 28 Kasım-2 Aralık tarihleri arasında Antalya'da düzenlenecek Down Sendromlular Türk Devletleri müsabakalarında Türkiye adına raket sallayacak. Hamza Dönmez, şampiyonada ay-yıldızlı formayla madalya mücadelesi verecek.
-
-Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce de milli takıma seçilerek kente gurur yaşatan Hamza Dönmez'i tebrik etti ve katılacağı müsabakalarda başarı dileklerini iletti.
-
----
-
-## Anadolu Üniversitesi'nden Mikrokredi Kazandıran Yapay Zekâ Eğitimi: Kontenjan 30 Kişi
-
-**Eğitim · Tepebaşı** · 2026-11-20 19:09 UTC · Kaynak: [Anadolu Üniversitesi](https://anahaber.anadolu.edu.tr/tr/haber-detay/y14hrbeao2fykw11edhr330k)
-
-![](data/images/3e7c45d6fad36b71.jpg)
-
-> Anadolu Üniversitesi, dijital ürün ve oyun tasarımı alanında mikrokredi kazandıracak iki günlük ücretsiz yapay zekâ geliştirme eğitimi düzenliyor.
-
-Anadolu Üniversitesi Bilişim Teknolojileri Meslek Yüksekokulu, bilişim alanında kariyer hedefleyen öğrencilere yönelik "AI Destekli Dijital Ürün ve Oyun Geliştirme" eğitimi başlatıyor. 28-29 Kasım 2026 tarihlerinde ücretsiz olarak gerçekleştirilecek uygulamalı program, ALDACI Kurucusu Ersel Aktaş'ın eğitmenliğinde yürütülecek.
-
-İki gün boyunca 09.00-17.00 saatleri arasında Bilişim Bloğu Z07 iMac Laboratuvarında düzenlenecek eğitimde katılımcılar, yapay zekâ destekli araçları ürün ve oyun geliştirme süreçlerinde birebir deneme imkânı bulacak. Programı eksiksiz tamamlayan katılımcılar, edindikleri kazanımları mikrokredi ile belgelendirerek özgeçmişlerine ekleyebilecek.
-
-Kontenjanı 30 kişiyle sınırlandırılan eğitim için başvurular 25 Kasım 2026 Çarşamba günü saat 23.59'a kadar çevrim içi form üzerinden kabul edilecek. Kontenjanın aşılması durumunda eğitime katılacak isimler kura yoluyla belirlenecek ve sonuçlar 26 Kasım'da adayların e-posta adreslerine gönderilecek.
-
----
-
-## COP31'de Gençlerden 20 İklim Girişimi: Türkiye İklim Okulu Final Yaptı
-
-**Eğitim · Türkiye** · 2026-11-20 17:09 UTC · Kaynak: [Milli Eğitim Bakanlığı](https://www.meb.gov.tr/genclerin-girisim-fikirleri-turkiye-iklim-okulunda-sahneye-cikti/haber/42605/tr)
-
-![](data/images/dc3e74693403d0b2.jpg)
-
-> Antalya'da düzenlenen COP31 kapsamında Türkiye İklim Okulunda bir araya gelen öğrenciler, çevre sorunlarına yönelik geliştirdikleri 20 girişim fikrini jüriye sundu.
-
-Millî Eğitim Bakanlığı Eğitim Teknolojileri Kuluçka ve İnovasyon Merkezinin (ETKİM) yürüttüğü Genç Girişimci Programı kapsamında kampa katılan öğrenciler, Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) son gününde projelerini sergiledi. Öğrenciler, geliştirdikleri 20 iklim temalı girişim fikrini iş modeli ve prototipleriyle birlikte jüri heyetine aktardı.
-
-Onar takımdan oluşan iki oturumda gerçekleşen sunumlarda genç girişimciler; belirledikleri çevre sorunlarını, ürettikleri çözümleri, hedef kitle analizlerini ve pazar büyüklüklerini anlattı. Çevrim içi sistem üzerinden anlık olarak puanlanan değerlendirmelerin ardından dereceye giren ve Türkiye finalinde yarışacak takımlar açıklanarak ödülleri teslim edildi.
-
-Program çerçevesinde ayrıca GençTek ekibinin hazırladığı oyunlaştırma tabanlı "İklim Terimleri Sözlüğü" uygulaması tanıtıldı. Gençlerin teknoloji ve çevre odaklı projelerini paylaştığı, "İklim Değişikliği ve Türk Mitolojisi" gibi tematik atölyelerin düzenlendiği Türkiye İklim Okulu, konferansın sona ermesiyle birlikte faaliyetlerini tamamladı.
 
 ---
