@@ -22,10 +22,10 @@
     "title": "Hayata 1-0 önde başlıyorsun!",
     "url": "https://www.ogu.edu.tr/Web/HaberDetay/2057?tur=AkademikMakale"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
