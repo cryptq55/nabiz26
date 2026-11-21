@@ -1,6 +1,5 @@
 {
  "stories": [
-  "202610231333-tepebasi-belediyesinde-ozel-kalem-mudurlugune-banu-gumuspala-getirildi",
   "202610231333-eskisehirspor-ve-unicef-projesi-spor-kulupleri-icin-cocuk-koruma-rehbe",
   "202610231333-eskisehirde-kacak-alkol-ve-uyusturucu-operasyonu-1-supheli-gozaltina-a",
   "202610231333-eskisehir-model-fabrikada-9-ogren-donus-programinin-ikinci-asamasi-yap",
@@ -499,7 +498,8 @@
   "202611201909-eskisehirli-hamza-donmez-milli-takimda-ay-yildizli-forma-icin-ter-doke",
   "202611201909-vali-yilmazdan-kuzey-kafkas-kultur-dernegine-ziyaret-calismalar-ele-al",
   "202611202108-vali-yilmazdan-ehaya-ziyaret-kent-gundemi-ve-medya-calismalari-ele-ali",
-  "202611210509-erdogan-kadim-dostlar-ile-bulustu-1994-yilina-ait-ozel-fotograf-hediye"
+  "202611210509-erdogan-kadim-dostlar-ile-bulustu-1994-yilina-ait-ozel-fotograf-hediye",
+  "202611210600-altin-fiyatlari-21-kasim-2026-gram-altin-6-059-59-tl"
  ],
  "posts": [
   "202610211847-odunpazarinda-eskisehirin-tarihi-dansla-sahneye-tasinacak",
@@ -750,7 +750,9 @@
   "202611201709-cidemde-ciftcilere-toprak-egitimi-mikro-bitki-besin-destegi-dagitildi",
   "202611201709-23-film-festivalinde-netflix-atolyesi-produksiyon-surecleri-anlatildi",
   "202611201509-baskan-atac-beyaz-onlugu-giydi-85-bin-cocuga-ulasan-merkezde-minikleri",
-  "202611201509-iklim-adasina-ekolojik-kres-geliyor-sikayet-degil-cozum-merciiyiz"
+  "202611201509-iklim-adasina-ekolojik-kres-geliyor-sikayet-degil-cozum-merciiyiz",
+  "202611210600-altin-fiyatlari-21-kasim-2026-gram-altin-6-059-59-tl",
+  "202611201509-23-film-festivalinde-kisa-film-ruzgari-yonetmenler-sinema-anadoluda-bu"
  ],
  "log": [
   1795165942.3957849,
@@ -765,7 +767,10 @@
   1795209281.8899136,
   1795237975.889652,
   1795238037.3038278,
-  1795238054.9195173
+  1795238054.9195173,
+  1795241044.823058,
+  1795241096.5499105,
+  1795241113.4162269
  ],
  "reel_log": [
   1795165942.3957868,
@@ -775,6 +780,8 @@
   1795209163.6668434,
   1795209247.5058162,
   1795237975.8896542,
-  1795238037.30383
+  1795238037.30383,
+  1795241044.8230598,
+  1795241096.5499127
  ]
 }
