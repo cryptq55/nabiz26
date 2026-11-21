@@ -21,11 +21,11 @@
     "title": "Beylikova Belediyesi Tabelasına 'T.C.' İbaresi Eklendi",
     "url": "https://www.beylikova.bel.tr/haberler/471/beylikova-belediyesi-tabelasina-t-c-ibaresi-eklendi"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Beylikova Belediyesi",
       "Beylikova"
     ],
-    "tries": 2
+    "tries": 3
   }
 }

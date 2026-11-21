@@ -20,10 +20,10 @@
     "title": "Tepebaşı Başkanı Ataç: Diş Kontrollerini İhmal Etmeyin - Haber 26",
     "url": "https://www.haber26.com.tr/eskisehir/tepebasi-baskani-atac-dis-kontrollerini-ihmal-etmeyin"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Ahmet Ataç"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
