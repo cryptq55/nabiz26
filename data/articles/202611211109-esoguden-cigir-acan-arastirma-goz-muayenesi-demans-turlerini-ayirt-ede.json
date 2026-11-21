@@ -22,11 +22,11 @@
     "title": "Gözden Beyne Açılan Pencere: Alzheimer Hastalığı ve Vasküler Demans Göz Muayenesinden Anlaşılabilir mi?",
     "url": "https://www.ogu.edu.tr/Web/HaberDetay/2026?tur=AkademikMakale"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Eskişehir Osmangazi Üniversitesi Hastanesi",
       "Eskişehir Osmangazi Üniversitesi"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
