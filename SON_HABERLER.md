@@ -2,6 +2,20 @@
 
 Ajanın yazdığı son haberler (otomatik güncellenir).
 
+## ESOGÜ'den Boşanma Araştırması: Zorlu Süreç Ergenlerde Gelişim Fırsatına Dönüşebilir
+
+**Eğitim · Odunpazarı** · 2026-11-21 07:08 UTC · Kaynak: [Eskişehir Osmangazi Üniversitesi](https://www.ogu.edu.tr/Web/HaberDetay/2057?tur=AkademikMakale)
+
+> ESOGÜ Öğretim Üyesi Doç. Dr. Fatma Altınsoy'un boşanmış ailelerde yetişen ergenlerin psikolojik dönüşümünü ele alan çalışması uluslararası hakemli dergide yayımlandı.
+
+Eskişehir Osmangazi Üniversitesi (ESOGÜ) Eğitim Fakültesi Eğitim Bilimleri Bölümü Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı öğretim üyesi Doç. Dr. Fatma Altınsoy, boşanmış ailelerde yetişen ergenlerin travma sonrası büyüme süreçlerini inceleyen kapsamlı bir araştırmaya imza attı. Çalışma, çocuk ve ergen çalışmaları alanındaki saygın uluslararası yayınlardan Children and Youth Services Review dergisinde yayımlandı.
+
+Araştırma, ebeveyn ayrılığının yalnızca olumsuz sonuçlar doğurmadığını, uygun psikososyal destek mekanizmalarıyla kişisel bir dönüşüm sürecine evrilebileceğini ortaya koydu. Ergenlerin ilk tepkilerinden zamanla geliştirdikleri başa çıkma yöntemlerine kadar uzanan çok boyutlu deneyimlerin analiz edildiği çalışmada, travma sonrası büyümenin beş temel boyutta gerçekleştiği saptandı. Bu boyutlar; ilişkilerde olumlu değişim, ayrılık sonrası yaşamda anlam oluşturma, kendilik algısında değişim, maneviyata yönelme ve ayrılığın fırsata dönüşümü olarak belirlendi.
+
+Elde edilen veriler doğrultusunda ergenlerin psikolojik dönüşümünü açıklayan "Ayrılık Sonrası Büyüme Modeli" geliştirildi. Araştırma sonuçlarının, aile ve okul psikolojik danışmanlığı ile koruyucu ruh sağlığı uygulamalarının geliştirilmesine önemli katkılar sunması hedefleniyor.
+
+---
+
 ## Altın fiyatları 21 Kasım 2026: Gram altın 6.059,59 TL
 
 **Ekonomi · Merkez** · 2026-11-21 06:00 UTC · Kaynak: [Harem Altın](https://www.haremaltin.com/altin-fiyatlari)
@@ -461,23 +475,5 @@ Platformun yapay zekâ destekli öğrenci asistanı KANKA geliştirilerek öğre
 Farklı ihtiyaçlara sahip öğrencilerin platformdan rahat yararlanabilmesi için erişilebilirlik seçenekleri de genişletildi. Görme engelli öğretmenlerin katılımıyla yapılan testler sonucunda platforma disleksi dostu görünüm, renk körlüğü ayarları, yüksek kontrast ve ekran okuyucu uyumluluğu eklendi. Ayrıca ders notlarının tek noktada toplanmasını sağlayan Not Defteri modülü kullanıma açıldı.
 
 Bakanlık verilerine göre ortaokul ve lise düzeyinde 6 milyon 180 binden fazla öğrencinin yararlandığı platformun toplam kullanıcı sayısı öğretmen ve velilerle birlikte 8 milyon 187 bini aştı. Mobil uygulaması 6,6 milyondan fazla indirilen MEBİ üzerinden bugüne kadar 704 milyonu aşkın soru çözüldüğü bildirildi.
-
----
-
-## Porsuk Kıyısına 'Meydan 26': Eskişehir'in En Büyük Kent Meydanı Geliyor
-
-**Belediye · Odunpazarı** · 2026-11-20 09:09 UTC · Kaynak: [Google Haberler - Eskişehir](https://www.gazetevatan.com/galeri/eskisehirin-en-buyuk-meydani-geliyor-belediye-dev-projeyi-duyurdu-2466735)
-
-![](data/images/f978695d028f617f.jpg)
-
-> Eskişehir Büyükşehir Belediyesi, Sümer Mahallesi'nde Porsuk Çayı kıyısında hayata geçirilecek Kızılyer Park ve Rekreasyon Alanı (Meydan 26) projesinin ayrıntılarını duyurdu.
-
-Eskişehir Büyükşehir Belediyesi, Sümer Mahallesi sınırlarında Porsuk Çayı boyunca uzanacak yeni bir yaşam alanı için düğmeye bastı. Kent merkezinin en büyük meydanı olması hedeflenen "Meydan 26" (Kızılyer Park ve Rekreasyon Alanı) projesinde geniş yeşil alanlar, spor tesisleri, kültürel noktalar ve çocuk oyun alanları bir araya getirilecek.
-
-Projenin kalbinde kültürel buluşmalar ve açık hava etkinlikleri için tasarlanan geniş bir kent meydanı ile etkinlik platformu yer alacak. Meydanın giriş bölümüne iki kemerli süs havuzu yapılacak. Ziyaretçilerin doğayla temasını artıracak alanda açık hava kütüphanesi ile basamaklı amfi ve sahne düzenlemesi bulunacak.
-
-Farklı yaş gruplarına yönelik spor alanlarının da planlandığı projede tenis kortu, çocuk tenis kortu, antrenman duvarı, açık hava crossfit alanı ve üç potalı basketbol sahası yer alacak. Çocuklar için denge ve koordinasyon becerilerini destekleyecek tematik oyun parkı kurulacak.
-
-Porsuk Çayı'nın doğal koridoruna uyumlu peyzajla tasarlanan projede yürüyüş parkurları, üç adet büfe, umumi tuvaletler ve gölgelikli dinlenme alanları bulunacak. Belediyeden yapılan bilgilendirmede, kentin iklimine uygun bitki örtüsüyle donatılacak alanın hem ekolojik sürekliliği destekleyeceği hem de kente yeni bir kamusal buluşma noktası kazandıracağı belirtildi.
 
 ---
