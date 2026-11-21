@@ -118,9 +118,81 @@
    "takip": 0,
    "paylasim": 364,
    "erisim_7g": 24159
+  },
+  {
+   "gun": "2026-11-21",
+   "takipci": 275,
+   "takip": 0,
+   "paylasim": 369,
+   "erisim_7g": 25006
   }
  ],
  "paylasimlar": {
+  "18396119497225165": {
+   "tur": "REELS",
+   "zaman": "2026-11-20T23:01:28+0000",
+   "link": "https://www.instagram.com/reel/Df-yXYtq2j2/",
+   "baslik": "🌙 Eskişehir'de bugün · 21 Kasım Cumartesi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 97,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 183
+  },
+  "18110535794298449": {
+   "tur": "REELS",
+   "zaman": "2026-11-20T21:14:02+0000",
+   "link": "https://www.instagram.com/reel/Df-mFk2uQ0O/",
+   "baslik": "23. Film Festivali'nde Netflix Atölyesi: Prodüksiyon Süreçleri Anlatıldı",
+   "begeni": 1,
+   "yorum": 0,
+   "reach": 138,
+   "saved": 0,
+   "shares": 2,
+   "total_interactions": 3,
+   "views": 159
+  },
+  "18096824207680245": {
+   "tur": "REELS",
+   "zaman": "2026-11-20T21:12:36+0000",
+   "link": "https://www.instagram.com/reel/Df-l7A7hUQf/",
+   "baslik": "ÇİDEM'de Çiftçilere Toprak Eğitimi: Mikro Bitki Besin Desteği Dağıtıldı",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 107,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 116
+  },
+  "18008534294793030": {
+   "tur": "REELS",
+   "zaman": "2026-11-20T19:14:23+0000",
+   "link": "https://www.instagram.com/reel/Df-YZifBhIk/",
+   "baslik": "Eskişehirli Hamza Dönmez Millî Takımda: Ay-Yıldızlı Forma İçin Ter Dökecek",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 125,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 139
+  },
+  "18133760554890136": {
+   "tur": "REELS",
+   "zaman": "2026-11-20T19:13:28+0000",
+   "link": "https://www.instagram.com/reel/Df-YSr6Ng1K/",
+   "baslik": "Anadolu Üniversitesi'nden Mikrokredi Kazandıran Yapay Zekâ Eğitimi: Kontenjan 30 Kişi",
+   "begeni": 0,
+   "yorum": 0,
+   "reach": 126,
+   "saved": 0,
+   "shares": 0,
+   "total_interactions": 0,
+   "views": 133
+  },
   "18126164800934221": {
    "tur": "REELS",
    "zaman": "2026-11-20T13:43:55+0000",
@@ -128,11 +200,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 20 Kasım Cuma",
    "begeni": 1,
    "yorum": 0,
-   "reach": 111,
+   "reach": 122,
    "saved": 1,
    "shares": 0,
    "total_interactions": 2,
-   "views": 123
+   "views": 137
   },
   "18083845571379667": {
    "tur": "FEED",
@@ -141,11 +213,11 @@
    "baslik": "Togg T10X Ekimde Zirveye Yerleşti: 4 Bin 59 Adetle Rakiplerini Geride Bıraktı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 8,
+   "reach": 15,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 15
+   "views": 26
   },
   "18122890180955641": {
    "tur": "REELS",
@@ -154,11 +226,11 @@
    "baslik": "Odunpazarı Belediye Tiyatrosu'ndan Yeni Çocuk Oyunu: 'Pablo' İçin Provalar Başladı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 119,
+   "reach": 124,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 127
+   "views": 131
   },
   "18133657537622356": {
    "tur": "REELS",
@@ -167,37 +239,37 @@
    "baslik": "Porsuk Kıyısına 'Meydan 26': Eskişehir'in En Büyük Kent Meydanı Geliyor",
    "begeni": 1,
    "yorum": 0,
-   "reach": 127,
+   "reach": 136,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 136
+   "views": 144
   },
   "18107985137359073": {
    "tur": "REELS",
    "zaman": "2026-11-19T23:28:34+0000",
    "link": "https://www.instagram.com/reel/Df8QsH6TbZT/",
    "baslik": "🌙 Eskişehir'de bugün · 20 Kasım Cuma",
-   "begeni": 5,
+   "begeni": 8,
    "yorum": 0,
-   "reach": 1131,
+   "reach": 1216,
    "saved": 2,
    "shares": 0,
-   "total_interactions": 7,
-   "views": 1321
+   "total_interactions": 10,
+   "views": 1416
   },
   "18428202244149692": {
    "tur": "REELS",
    "zaman": "2026-11-19T21:13:12+0000",
    "link": "https://www.instagram.com/reel/Df8BMmENSU7/",
    "baslik": "Büyükdere'de 410 Metrelik İsale Hattı Yenilendi: ESKİ Çalışmayı Tamamladı",
-   "begeni": 3,
+   "begeni": 5,
    "yorum": 0,
-   "reach": 629,
+   "reach": 817,
    "saved": 0,
-   "shares": 0,
-   "total_interactions": 3,
-   "views": 717
+   "shares": 4,
+   "total_interactions": 9,
+   "views": 924
   },
   "18203499757386342": {
    "tur": "REELS",
@@ -206,11 +278,11 @@
    "baslik": "Eskişehirspor'da Söke Deplasmanı Öncesi 6 Eksik: Kaptan Kadroda Yok",
    "begeni": 1,
    "yorum": 0,
-   "reach": 146,
+   "reach": 153,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 162
+   "views": 169
   },
   "18210043462375145": {
    "tur": "FEED",
@@ -219,11 +291,11 @@
    "baslik": "KIZILELMA TSK Envanterinde: Cumhurbaşkanı Erdoğan Tarihî Günü Duyurdu",
    "begeni": 0,
    "yorum": 0,
-   "reach": 14,
+   "reach": 18,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 23
+   "views": 32
   },
   "18124777849948091": {
    "tur": "FEED",
@@ -232,11 +304,11 @@
    "baslik": "Bayraktar Kızılelma TSK Envanterinde: İlk 3 İnsansız Savaş Uçağı Teslim Edildi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 14,
+   "reach": 19,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 25
+   "views": 32
   },
   "18121718321278133": {
    "tur": "REELS",
@@ -245,11 +317,11 @@
    "baslik": "Tramvay Güzergâhlarında Sıcak Asfalt Mesaisi: Bozuk Yollar Yenileniyor",
    "begeni": 0,
    "yorum": 0,
-   "reach": 136,
+   "reach": 139,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 160
+   "views": 162
   },
   "18477697507191494": {
    "tur": "REELS",
@@ -258,11 +330,11 @@
    "baslik": "Japon Besteci Kozakura Konservatuvarda Sahne Aldı: Çağdaş Müzik Rüzgârı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 126,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 129
+   "views": 132
   },
   "18148920721608974": {
    "tur": "REELS",
@@ -271,11 +343,11 @@
    "baslik": "Odunpazarı'nda Kitap ve Sanat Günleri Başlıyor: İki Gün Boyunca İmza ve Söyleşi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 123,
+   "reach": 127,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 135
+   "views": 137
   },
   "17910195192598823": {
    "tur": "REELS",
@@ -284,11 +356,11 @@
    "baslik": "34 Ülkeden 55 Film Eskişehir'de: 23. Uluslararası Film Festivali Perdelerini Açtı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 147,
+   "reach": 149,
    "saved": 0,
    "shares": 1,
    "total_interactions": 1,
-   "views": 157
+   "views": 161
   },
   "17958134961282218": {
    "tur": "REELS",
@@ -297,11 +369,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 19 Kasım Perşembe",
    "begeni": 17,
    "yorum": 1,
-   "reach": 1412,
+   "reach": 1416,
    "saved": 0,
    "shares": 0,
    "total_interactions": 19,
-   "views": 1634
+   "views": 1638
   },
   "18131420161863060": {
    "tur": "REELS",
@@ -310,11 +382,11 @@
    "baslik": "Altın fiyatları 19 Kasım 2026: Gram altın 6.199,49 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 137,
+   "reach": 141,
    "saved": 0,
    "shares": 3,
    "total_interactions": 3,
-   "views": 158
+   "views": 163
   },
   "18107605082335987": {
    "tur": "REELS",
@@ -323,7 +395,7 @@
    "baslik": "Meslek Öğrenene Nakdi Destek: MEGEM ve Kızılay'dan İstihdam Protokolü",
    "begeni": 0,
    "yorum": 0,
-   "reach": 142,
+   "reach": 143,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
@@ -336,11 +408,11 @@
    "baslik": "🌙 Eskişehir'de bugün · 19 Kasım Perşembe",
    "begeni": 10,
    "yorum": 0,
-   "reach": 992,
+   "reach": 995,
    "saved": 0,
    "shares": 0,
    "total_interactions": 11,
-   "views": 1133
+   "views": 1136
   },
   "18133755124704317": {
    "tur": "REELS",
@@ -349,11 +421,11 @@
    "baslik": "Eskişehir'de Caz Günleri Coşkusu: Duygu Soylu Jazz Band Dinleyicilerle Buluştu",
    "begeni": 0,
    "yorum": 0,
-   "reach": 141,
+   "reach": 142,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 158
+   "views": 159
   },
   "18093831530501766": {
    "tur": "REELS",
@@ -362,11 +434,11 @@
    "baslik": "Anadolu Üniversitesi'nde Google Türkiye ile Yapay Zekâ ve Habercilik Eğitimi",
    "begeni": 0,
    "yorum": 0,
-   "reach": 121,
+   "reach": 123,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 135
+   "views": 137
   },
   "17875886775601795": {
    "tur": "REELS",
@@ -375,11 +447,11 @@
    "baslik": "Eskişehir'in Simgesi 'Dedikoducu Kadınlar' Heykeline ve Banklara Çirkin Saldırı",
    "begeni": 0,
    "yorum": 0,
-   "reach": 128,
+   "reach": 129,
    "saved": 0,
    "shares": 0,
    "total_interactions": 1,
-   "views": 141
+   "views": 142
   },
   "18394145326205085": {
    "tur": "FEED",
@@ -388,11 +460,11 @@
    "baslik": "GTA 6 bu gece Türkiye'de oynanabilir oluyor: PlayStation Store fiyatı 3.999 TL",
    "begeni": 0,
    "yorum": 0,
-   "reach": 22,
+   "reach": 23,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 34
+   "views": 37
   },
   "17928322125201761": {
    "tur": "REELS",
@@ -427,11 +499,11 @@
    "baslik": "Odunpazarı Belediyesi’nden Dört Çocuklu Anneme Destek Eli",
    "begeni": 0,
    "yorum": 0,
-   "reach": 243,
+   "reach": 246,
    "saved": 0,
    "shares": 0,
    "total_interactions": 0,
-   "views": 279
+   "views": 282
   },
   "17980651391930819": {
    "tur": "REELS",
