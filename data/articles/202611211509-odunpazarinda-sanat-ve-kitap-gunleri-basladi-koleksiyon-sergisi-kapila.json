@@ -22,10 +22,10 @@
     "title": "Odunpazarı Sanat ve Kitap Günleri başladı - Ege Alternatif",
     "url": "https://www.egealternatif.com/haber/odunpazari-sanat-ve-kitap-gunleri-basladi_102980/"
   },
-  "photo_pending": {
+  "photo_failed": {
     "query": [
       "Kazım Kurt"
     ],
-    "tries": 2
+    "tries": 3
   }
 }
